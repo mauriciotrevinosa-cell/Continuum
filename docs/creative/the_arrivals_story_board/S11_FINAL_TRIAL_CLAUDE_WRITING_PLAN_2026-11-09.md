@@ -70,7 +70,7 @@ Puede crecer: si una recuperación o un sector pide más capítulos, se le dan.
 
 **El tramo de Claude terminó en V71 #13, «Outside».** Work retoma desde el instante en que Yuka se arrodilla junto a Mau en el patio, B+216 hacia las 10:30. Todo lo que pasa entre Mau y Yuka desde ahí es de Work.
 
-**Escrito:** V70 #13–20 y V71 #1–13, 25 capítulos. Los cambios del campo y las heridas están en el registro de producción y en el kit.
+**Escrito:** V70 #13–20 y V71 #1–13, 21 capítulos. Los cambios del campo y las heridas están en el registro de producción y en el kit.
 
 **Lo que queda listo para Work, sin resolver a propósito:**
 - **Yuka y su frase.** Mau cree que Yuka ya no lo quiere cerca. En V71 #12 le pidió a Gojo que le dijera que no tiene que estar en la puerta, y Gojo prometió decírselo. Gojo y Yuta saben lo que eso significa y callaron. Según las notas de Mauri, Yuka se disculpa cuando él vuelve semiconsciente, y él puede mentir con «lo sabía desde el principio» para que ella no se rompa.

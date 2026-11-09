@@ -5,7 +5,7 @@
 **Volume:** 71
 **Reading order:** 13
 **Source episode:** S11E69
-**Continuity state:** B+216 about half past ten in the morning, outside ~24h32m after entry; local count ended near day 368. The frame and the Rulers' window go dark; Jin-Woo, Gojo, Yuta and Mau appear on the stone of the yard. The legion can manifest again: Beru comes out at once, Igris with him. Shoko runs. The house sees what a year has done: Mau thin to the bone, hair grown long brown and white, scars, crooked arms and foot, one eye swollen shut, unconscious. Ori is held back by Frieren. Yuka reaches him and kneels. **Claude's stretch ends here; Work continues from this moment**, including anything between Mau and Yuka. Rulers gone with the Architect alive. Yuta still carries Yuka's paper. 6,617 bonds.
+**Continuity state:** B+216 about half past ten in the morning, outside ~24h32m after entry; local count ended near day 368. The frame and the Rulers' window go dark; Jin-Woo, Gojo, Yuta and Mau appear on the stone of the yard. The legion's access to Mau clears; Beru and Igris, already standing watch outside, reach him at once. Shoko runs. The house sees what a year has done: Mau thin to the bone, hair grown long brown and white, scars, crooked arms and foot, one eye swollen shut, unconscious. Ori is held back by Frieren. Yuka reaches him and kneels. **Claude's stretch ends here; Work continues from this moment**, including anything between Mau and Yuka. Rulers gone with the Architect alive. Yuta still carries Yuka's paper. 6,617 bonds.
 
 *When: The counter stops at a little past half past ten in the morning, B+216; nobody in the yard has looked away from it for an hour.*
 

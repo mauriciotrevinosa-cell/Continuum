@@ -31,7 +31,7 @@ It comes from nowhere he can see, low across the ground, carrying a fine grey gr
 
 It feels like being rubbed with a rasp.
 
-He looks down. The backs of his hands are red where the grit has passed. Not bleeding yet. Raw, the way skin gets when it has been scraped along a stone. Each grain the size of nothing, and each one priced by the field like a thrown pebble.
+He looks down. The backs of his hands are raw where the grit has passed. Not bleeding yet. Scraped, the way skin gets when it has been dragged along a stone. Each grain the size of nothing, and each one priced by the field like a thrown pebble.
 
 He pulls his sleeves down over his hands and keeps walking.
 

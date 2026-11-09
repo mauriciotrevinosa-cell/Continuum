@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V71#13, B+216 ~10h30 fuera / salida del Final Trial. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V71#16, B+216 primera tarde / corrección inicial en clínica. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -173,6 +173,12 @@ Nuevas en el tramo final: hombro izquierdo luxado y recolocado por él; muslo de
 Al salir: muy delgado, pelo largo castaño y blanco (un año de crecimiento), cara con costras, abdomen con cicatriz arrugada y abultamiento al toser, quemaduras tirantes, pie aplastado mal soldado, espalda mal soldada, dedos torcidos, inconsciente. Siguen gris salvo Yuka, blur y dedos viejos. 6.617 vínculos (dos nuevos almacenados: el combatiente ancho y el dragón construct, ninguno manifestado ni nombrado). Legión vuelve a poder salir afuera. Rulers se llevaron vivo al Arquitecto y el material de la instancia; no reclamaron cuerpo, Noise ni corazón.
 
 Mente: perdió la cuenta de los días (~día260); minimiza («a few months», «it's fine»); cree que Yuka ya no lo quiere cerca y pidió a Gojo decirle que no tiene que estar en la puerta; el cuarto vacío bajo las costillas sigue abierto. Noise expresó miedo y deseo propio («Stay… For me»).
+
+## Primera atención al volver — V71#14–16 (Work)
+
+Canal Ciel reabre de verdad sólo tras cierre instancia; no hubo telemetría dentro. Noise comparte cronología médica acotada con Ciel/Shoko, no todo archivo traumático. No nuevo poder ni aumento de unidades (6.617). Legión exterior ya estaba desplegada; Beru/Igris alcanzan a Mau al regresar.
+
+Urgente: RCT externo coordinado; Shoko alinea y trata antebrazo derecho antes de consolidar, corrige mandíbula. Mau consiente sueño/ayuda en intervalo despierto. Siguen columna, muñeca izquierda, pie, cadera/quemaduras, desnutrición y agotamiento pendientes por etapas. No reset del cuerpo ni curación de daltonismo/blur/dedos viejos. Dagas, pack, anillo y diente preservados, papel Ori cerrado en casa. Yuka presente; Gojo le cuenta petición sobre puerta, Yuta devuelve papel de ella sin leer. Reflexo de tranquilizar no se convierte en falsa certeza de que Mau comprendió todo dentro.
 
 ## Registro de cambios
 

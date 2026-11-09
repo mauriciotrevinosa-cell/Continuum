@@ -123,7 +123,7 @@ Somebody is there.
 
 Gojo gets to him first.
 
-He comes down on his knees on the stone so hard that Mau hears it, and his hands are on Mau before Mau has finished falling: one behind his head, one on his chest, the way they were in a clearing a long time ago. His blindfold is gone. His eyes are wide open and blue and wet.
+He comes down on his knees on the stone so hard that Mau hears it, and his hands are on Mau before Mau has finished falling: one behind his head, one on his chest, the way they were in a clearing a long time ago. His blindfold is gone. His eyes are wide open and wet.
 
 “Mau,” he says. ᴳ
 
@@ -147,7 +147,7 @@ Gojo makes a sound that might be a laugh.
 
 Yuta is on his other side.
 
-Mau feels him before he sees him: a warmth going in through his chest, much more than his own narrow trickle, sure of itself, knowing exactly what bones are supposed to do. Reverse cursed technique, from the person who has more of it than anyone alive. It goes into him like water into dry ground.
+Mau feels him before he sees him: a warmth going in through his chest, much more than his own narrow trickle, sure of itself, knowing exactly what bones are supposed to do. Yuta can still shape his reverse cursed technique steadily where Mau has spent months struggling to hold a thread. It goes into him like water into dry ground.
 
 Mau gasps.
 

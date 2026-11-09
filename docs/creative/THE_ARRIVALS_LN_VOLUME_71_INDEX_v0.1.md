@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S11 v0.1
 **Volume:** 71
 **Season:** 11
-**Coverage:** S11E63–S11E69 (in progress; Final Trial complete, Work continues)
+**Coverage:** S11E63–S11E71 (in progress; return and corrective care)
 **Volume title:** **What He Didn't Ask For**
-**Chapter files:** 13
+**Chapter files:** 16
 
 Inside, a season becomes a year and the field keeps taking whatever Mau learns. Outside, the house works through one night to reach him.
 
@@ -28,3 +28,6 @@ Inside, a season becomes a year and the field keeps taking whatever Mau learns. 
 | 11 | S11E68 | Everything He Has Left | `THE_ARRIVALS_S11E68_LN_CHAPTER_02_EVERYTHING_HE_HAS_LEFT_v0.1.md` |
 | 12 | S11E69 | Three Witnesses | `THE_ARRIVALS_S11E69_LN_CHAPTER_01_THREE_WITNESSES_v0.1.md` |
 | 13 | S11E69 | Outside | `THE_ARRIVALS_S11E69_LN_CHAPTER_02_OUTSIDE_v0.1.md` |
+| 14 | S11E70 | The Voice That Reaches Him | `THE_ARRIVALS_S11E70_LN_CHAPTER_01_THE_VOICE_THAT_REACHES_HIM_v0.1.md` |
+| 15 | S11E70 | What Has to Be Set Right | `THE_ARRIVALS_S11E70_LN_CHAPTER_02_WHAT_HAS_TO_BE_SET_RIGHT_v0.1.md` |
+| 16 | S11E71 | What He Asked Me to Tell You | `THE_ARRIVALS_S11E71_LN_CHAPTER_01_WHAT_HE_ASKED_ME_TO_TELL_YOU_v0.1.md` |

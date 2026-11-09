@@ -129,7 +129,7 @@ Mau sees it happen. The stone doesn't move; the distance does. The place where t
 
 Three.
 
-One of them is tall and white-haired, with his hand up against nothing, his eyes open, blue. One of them is dark and still, a dagger in each hand, standing in front of the others. One is behind them, younger, with a sword half drawn and his other hand flat against his chest.
+One of them is tall and white-haired, with his hand up against nothing, his eyes uncovered. One of them is dark and still, a dagger in each hand, standing in front of the others. One is behind them, younger, with a sword half drawn and his other hand flat against his chest.
 
 Mau stops breathing.
 
@@ -153,7 +153,7 @@ He goes still.
 
 Mau looks at the fold.
 
-At the tall figure with his hand up against nothing. At the blue eyes, wide open, looking straight across the impossible distance at him.
+At the tall figure with his hand up against nothing. At the familiar eyes, wide open, looking straight across the impossible distance at him.
 
 Gojo's mouth moves. Mau can't hear it.
 

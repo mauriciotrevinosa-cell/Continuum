@@ -1,6 +1,6 @@
 # S11 — Estado real de producción
 
-**Inicio:** tras V64#26, B+176 noche. **Último producido:** V71#13, B+216 ~10h30 fuera (~24h32 desde la entrada) / fin del Final Trial cerca del día local 368 (V70#13–V71#13 escritos por Claude por encargo de Mauri; Work retoma en V71#14; ver [plan y relevo](S11_FINAL_TRIAL_CLAUDE_WRITING_PLAN_2026-11-09.md)). V65 completo,30 capítulos; V66 completo,18; V67 completo,17; V68 completo,20; V69 completo,20; V71 en curso,13: **138 capítulos S11 producidos**. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md) · [Dirección del primer tramo](S11_APPROVED_OPENING_DIRECTION_2026-11-07.md) · [Orden del siguiente tronco](S11_SECOND_TRUNK_ORDER_PROPOSAL_FOR_CREATOR_REVIEW_2026-11-09.md).
+**Inicio:** tras V64#26, B+176 noche. **Último producido:** V71#16, B+216 primera tarde, clínica después del Final Trial (~368 días locales / ~24h32 fuera). Claude escribió V70#13–V71#13; Work continúa desde V71#14. V65 completo,30; V66 completo,18; V67 completo,17; V68 completo,20; V69 completo,20; V70 completo,20; V71 en curso,16: **141 capítulos S11 producidos**. Corrección corporal y primer reencuentro en marcha; escucha larga de S12 aún pendiente. [Verde de continuación](S11_CONTINUATION_GREENLIGHT_AND_FINAL_TRIAL_EXECUTION_2026-11-09.md).
 
 ## Escenas realmente escritas
 
@@ -157,7 +157,13 @@
 | V71#10 | S11E68 CH01 | Día local~368 /B216~24h30 | Claude. Cuarto central; Arquitecto en cuerpo construido (alto, máscara inmóvil; forma de esta historia). Pide una vez más que se incline. Llega el rescate y el Arquitecto pliega el espacio para mantenerlos lejos, dividiendo su atención. Mau cree que es un truco; Noise: «Real». Mau ve la ventana y corre. |
 | V71#11 | S11E68 CH02 | Día local~368 continuo | Claude. Golpiza: primer golpe le rompe el antebrazo derecho, lo sostiene con un aliento de RCT y sigue; costillas, pómulo, mandíbula, otro diente, ojo izquierdo cerrado por los golpes devueltos; vuelve a romperse el brazo. El Arquitecto no puede sostener el pliegue y pelear: el pliegue se rasga, Gojo entra. Mau lo derriba: «Because you wanted me not to.» Levanta el puño. Sin técnica nueva, sin dominio ni Purple. |
 | V71#12 | S11E69 CH01 | Día local~368 /B216~24h32 | Claude. Los tres Rulers detienen el golpe, atan vivo al Arquitecto y reclaman instancia como material; el tercero declara que cuerpo, Noise y corazón no son reclamados. Instancia cerrada, todos devueltos. Gojo llega primero; Yuta estabiliza lo mortal pero no el brazo («Shoko has to break it again first»). Mau: «It's fine»; pide a Gojo decirle a Yuka que no tiene que estar en la puerta. Yuta lleva el papel y calla. |
-| V71#13 | S11E69 CH02 | B216 ~10h30 fuera | Claude. Aparecen en el patio. Beru sale al instante («My king»), Igris, Shoko corre. La casa ve a Mau: huesos, pelo largo castaño y blanco de un año, costras, brazo y pie torcidos, ojo cerrado, inconsciente. Frieren sujeta a Ori. Yuka se arrodilla junto a él. **Fin del tramo de Claude; Work retoma aquí.** |
+| V71#13 | S11E69 CH02 | B216 ~10h30 fuera | Claude. Aparecen en el patio. Beru, que ya esperaba afuera, llega al instante («My king»), Igris, Shoko corre. La casa ve a Mau: huesos, pelo largo castaño y blanco de un año, costras, brazo y pie torcidos, ojo cerrado, inconsciente. Frieren sujeta a Ori. Yuka se arrodilla junto a él. **Fin del tramo de Claude; Work retoma aquí.** |
+
+| V71#14 | S11E70 CH01 | B216 ~10h30 continuo | Ciel recupera contacto real; Noise comparte secuencia de heridas para atención médica, no archivo completo. Yuka explica que no quería irse; Mau responde reflejo de consolar. Traslado a clínica, ninguna cura total. |
+
+| V71#15 | S11E70 CH02 | B216 mañana-mediodía | Shoko dirige reparación con Yuta/Beru; antebrazo derecho alineado y mandíbula corregida. Mau acepta dormir/ayuda. Columna, muñeca, pie, quemaduras y nutrición pendientes por etapas; secuelas viejas siguen. Diente y pertenencias retenidos. Rescatistas reciben comida/descanso. |
+
+| V71#16 | S11E71 CH01 | B216 primera tarde | Gojo cuenta a Yuka petición de Mau sobre no estar en puerta; no se sostiene mentira del patio. Yuta devuelve papel sin leer, Yuka lo lee junto a cama. Ori visita con Frieren por permiso Shoko, dice Dad nuevo sin retcon Papa antiguo. Sin separación de pareja ni culpa por construir trampa. |
 
 ## Estado acumulado y trampas
 

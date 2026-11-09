@@ -65,3 +65,22 @@ Guía de reloj: entrada B+215 hacia media mañana. Día 100 ≈ 6 h 40 fuera (ta
 | V71 #13 | fuera | La casa los ve afuera. **Corte: Work retoma.** |
 
 Puede crecer: si una recuperación o un sector pide más capítulos, se le dan.
+
+## Relevo a Work (escrito, 9 de noviembre)
+
+**El tramo de Claude terminó en V71 #13, «Outside».** Work retoma desde el instante en que Yuka se arrodilla junto a Mau en el patio, B+216 hacia las 10:30. Todo lo que pasa entre Mau y Yuka desde ahí es de Work.
+
+**Escrito:** V70 #13–20 y V71 #1–13, 25 capítulos. Los cambios del campo y las heridas están en el registro de producción y en el kit.
+
+**Lo que queda listo para Work, sin resolver a propósito:**
+- **Yuka y su frase.** Mau cree que Yuka ya no lo quiere cerca. En V71 #12 le pidió a Gojo que le dijera que no tiene que estar en la puerta, y Gojo prometió decírselo. Gojo y Yuta saben lo que eso significa y callaron. Según las notas de Mauri, Yuka se disculpa cuando él vuelve semiconsciente, y él puede mentir con «lo sabía desde el principio» para que ella no se rompa.
+- **El papel de Yuka** (*I love you. I'm staying. Come home so we can finish talking.*) sigue en el bolsillo interior de Yuta, sin leer.
+- **El brazo derecho.** Yuta no lo tocó: Mau pidió que Shoko lo vuelva a romper para alinearlo. Es parte de la recuperación correctiva que pidió Mauri.
+- **La minimización.** Mau perdió la cuenta hacia el día 260, dice «a few months», «it's fine». Noise tiene la cuenta exacta (unos 368 días). Gojo ya oyó un «it's fine» y reaccionó: «Don't do that. Not to me.»
+- **El cuarto vacío** bajo las costillas sigue abierto. Mau se inclinó una vez (V71 #6) y lo detuvieron los vínculos de sus sombras, no Yuka. Se detuvo del todo en el cuarto redondo (V71 #7) hasta que Noise le pidió quedarse por sí mismo. Todo eso es material para la escucha de S12, cuando a la casa le duela entenderlo.
+- **Ashborn** le contó a la casa en V70 #19 para qué era el campo: cansar a Mau hasta que dejara de querer volver.
+- **Noise** dijo por primera vez lo que sentía y lo que quería: «I was scared», «Stay… Not for her. For me.» Mau le contestó «For you».
+- **Los Rulers** se llevaron vivo al Arquitecto y el material de la instancia. El tercer Ruler declaró que el cuerpo, Noise y el corazón no son reclamados, y el primero lo «anotó». Para más adelante.
+- **Dos sombras nuevas almacenadas,** sin nombre y nunca manifestadas: el combatiente ancho y el dragón construct. 6,617 vínculos.
+- **El diente** que Mau guardó en el bolsillo.
+- **El cumpleaños 20 de Yuka y el segundo aniversario** se celebran tarde: ver la nota de calendario.

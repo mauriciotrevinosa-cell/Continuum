@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V71#8, B+216 mañana fuera / día~345 local. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V71#13, B+216 ~10h30 fuera / salida del Final Trial. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -165,6 +165,14 @@ Nuevas: abdomen abierto de cadera izquierda a costillas bajas con órganos fuera
 Nuevas: piel de cara, manos y antebrazos en carne viva por grava (días240–300), labios partidos; desnutrición marcada (un cuarto de pan al día, días de ayuno en el cuarto redondo); mareos. Deja de contar días (~260); minimiza («a few months»). Siente el cuarto vacío bajo las costillas, que crece desde el cuarto del Arquitecto; se inclinó una vez (#6) y lo sostuvo. Noise expresa miedo y deseo propio por primera vez («I was scared», «Stay… For me»). Sin técnica nueva, 6.617 vínculos.
 
 Fuera: Yuta lleva el papel de Yuka sin leerlo. Rescate dentro: Jin-Woo, Gojo y Yuta por el tercer pliegue; Rulers observan desde fuera del ward.
+
+## Estado al salir del Final Trial — V71#9–13 (Claude)
+
+Nuevas en el tramo final: hombro izquierdo luxado y recolocado por él; muslo derecho abierto cadera-rodilla; dos dientes perdidos (uno guardado en el bolsillo); quemaduras de respiraderos en la planta del pie bueno; contra el Arquitecto: costillas izquierdas, pómulo, mandíbula desviada, ojo izquierdo cerrado por inflamación; **antebrazo derecho roto dos veces sobre la vieja curva y sostenido por dos alientos de RCT mal hechos: Shoko debe volver a romperlo para alinearlo**. Yuta sólo estabilizó lo mortal.
+
+Al salir: muy delgado, pelo largo castaño y blanco (un año de crecimiento), cara con costras, abdomen con cicatriz arrugada y abultamiento al toser, quemaduras tirantes, pie aplastado mal soldado, espalda mal soldada, dedos torcidos, inconsciente. Siguen gris salvo Yuka, blur y dedos viejos. 6.617 vínculos (dos nuevos almacenados: el combatiente ancho y el dragón construct, ninguno manifestado ni nombrado). Legión vuelve a poder salir afuera. Rulers se llevaron vivo al Arquitecto y el material de la instancia; no reclamaron cuerpo, Noise ni corazón.
+
+Mente: perdió la cuenta de los días (~día260); minimiza («a few months», «it's fine»); cree que Yuka ya no lo quiere cerca y pidió a Gojo decirle que no tiene que estar en la puerta; el cuarto vacío bajo las costillas sigue abierto. Noise expresó miedo y deseo propio («Stay… For me»).
 
 ## Registro de cambios
 

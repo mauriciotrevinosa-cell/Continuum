@@ -59,3 +59,5 @@ Makima podría terminar con un lugar nuevo/peligroso como interlocutora y una di
 Estos arcos se entrelazarían: entrenamiento público y trabajo privado; convivencia y noticias; objetivo de Yuka y operación conjunta; Makima y acción exterior del Arquitecto. No hacer primero toda la vida normal, luego todo el entrenamiento y finalmente todos los antagonistas.
 
 **Pendiente:** recibir la lista de Mauri, discutir qué propuestas le interesan, elegir hitos/alcances y sólo después armar esqueleto y pedir el verde para capítulos.
+
+**Respuesta recibida:** [ampliaciones de Mauri, consecuencias del secreto, entrenamiento, Arquitecto/Rulers, cooperación y relaciones](S11_CREATOR_RESPONSE_TO_WORK_ARCS_AND_RELATIONSHIP_SEEDS_2026-11-09.md). Leer antes de usar estas propuestas: las amplía y endurece; no confundir el documento inicial con la última dirección ni dar por terminada la lista del creador.

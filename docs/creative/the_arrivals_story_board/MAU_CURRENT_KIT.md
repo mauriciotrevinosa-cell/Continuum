@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V70#3, B+213 mañana. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V70#8, B+215 fuera / primeras horas internas. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -123,6 +123,14 @@ Antes de activarlo, revisión conCiel/Noise y muestras con fallos. Corrigen refe
 Proceso silencioso nuevo construido por Noise/revisado porCiel, con datos del pico de duelo y cuerpo actual: mantiene cálculo de un ciclo preparado y rutas de suministro separadas; rechaza interferencia. No segunda conciencia/cerebro gratis ni nueva reserva. Modelo aislado de switch se rechaza; segundo interfiere; tercero soporta dos entradas.
 
 Prueba real: **Neutral + patch pequeño de Sky**, ambos deMau, dos objetos reciben respuestas nuevas independientes durante ~doslatidos. Ciel/Gojo observan supplies activos separados; no switch ultrarrápido, efecto ya lanzado o Yuka actuando como segundo usuario. Dos ensayos iguales con pausas. Presión/heat/sobrecarga de atención obliga cierre voluntario antes de lesión. Coste CE/neural/caudal superior a dos ejecuciones separadas. **Prototipo probado sólo en ese par/escala bajo supervisión**; otro par exige modelo/práctica y límites. No dobleDominio estable ni usarlo continuamente en combate. Incrementos físicos ganados siguen permanentes; esto no concede estadísticas extra.
+
+## Final Trial — condiciones locales iniciales V70#7–8
+
+El cuerpo ganado no se apaga ni regresa de nivel. Dos dagas propias físicamente llevadas, ventajas de equipo presentes; katana/otros objetos en almacenamiento inaccesible por ingreso externo bloqueado. Legión/shikigamis/segundos cuerpos no pueden manifestar. Presencias/bonds siguen, no pérdida de unidades. Transferencia espacial EXTERNA cerrada; Step interno requeriría relación validada de este campo y no se ha ejecutado. Ciel queda fuera, sin abandono; Noise y procesos silenciosos dentro. DIO/Ashborn fuera protegidos.
+
+CE finita/RCT propio/mana existen con caudal/resultado restringidos localmente. Neutral para objetos físicos, no exclusión universal de presión aplicada desde inscripción; Authority contrarresta con coste. En primer combate usa CTsecuenciales/Zoltraak/Authority/dagas y **una ventana del par dual ya probado**, que cierra al subir carga. Pulso de maná cercano hace apertura imperfecta y lastima dedo, no Bang dominado. Primer guardián muerto NOArise;6.615 unchanged. Watch40/Tempest100/anchorHinata1 siguen fuera.
+
+Heridas internas de autor: wristizquierdo roto, side abierto y knucklederecho herido. Cierra sangrado y alinea de forma incompleta para moverse, sin curar dedos viejos/blur/gray. **Familia afuera no ve esto**. Tienda entrega y cobra sólo comida/agua/cloth/camping; no curación por comprar. Nuevas cicatrices/masa de heridas futuras se registran al producirlas, no declarar cuerpo final rehecho ya.
 
 ## Registro de cambios
 

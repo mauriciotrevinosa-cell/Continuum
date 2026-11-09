@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V70#20, B+215 ~10h fuera / día150 local. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V71#4, B+216 madrugada fuera / día~260 local. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -153,6 +153,12 @@ Campo: cada adaptación provoca un cambio (flujo más lento día31, ×2.5 día39
 Nuevas: pie izquierdo aplastado por construct sin CE (día83), tres piezas unidas a mano, nunca quedará bien, vendado dentro de bota de la tienda; tres costillas derechas rotas (día96); pantorrilla izquierda mordida, sana en nudo duro (día112); un dedo de la mano derecha dislocado y recolocado torcido (día~120). Adelgaza por racionamiento desde día130: saldo de la tienda finito, nadie de fuera puede añadir. Siguen todas las anteriores.
 
 Campo: constructs sin CE invisibles a los ojos, luego silencio total en el sector; manada que aprende patrones exitosos. Cuarto del Arquitecto (#18) sin amenazas: la oferta de quedarse. Sin técnica nueva, sin unidad nueva (6.616).
+
+## Heridas y estado — V71#1–4 (Claude)
+
+Nuevas: abdomen abierto de cadera izquierda a costillas bajas con órganos fuera (día152), recolocados por él y cerrados por capas: cicatriz larga arrugada con abultamiento débil al toser; quemaduras de costado izquierdo (costillas a cadera), dorso de mano derecha y espinilla: piel tirante, no levanta brazo izquierdo sobre el hombro. Adelgazado. Minimiza sus heridas para sí mismo desde ~día220.
+
+**Arise almacenado del dragón construct (~día200): 6.617 vínculos**, plegado e inmanifestable dentro del campo. Purple intentado una vez contra el dragón: colapsa casi entero por la restricción, coste alto. Tres mantas de la tienda; saldo bajando, sin aritmética desde día240.
 
 ## Registro de cambios
 

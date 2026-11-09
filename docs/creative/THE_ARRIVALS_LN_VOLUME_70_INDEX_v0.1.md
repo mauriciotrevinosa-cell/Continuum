@@ -9,7 +9,7 @@
 
 The house makes plans it expects to finish. Mau learns to show the work before the result, while another room is being prepared without his consent.
 
-[Previous volume](THE_ARRIVALS_LN_VOLUME_69_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md)
+[Previous volume](THE_ARRIVALS_LN_VOLUME_69_INDEX_v0.1.md) · [Next volume](THE_ARRIVALS_LN_VOLUME_71_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md)
 
 ## Reading order
 

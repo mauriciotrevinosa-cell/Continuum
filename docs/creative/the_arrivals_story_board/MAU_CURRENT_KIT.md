@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V71#20, B+217 tarde / inicio de recuperación acompañado. [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Aclaración del creador durante S11: separar uso habitual consolidado de ensayo supervisado y de plano; comenzar a explorar combinaciones en esta temporada sin convertir la lista de posibilidades en poderes ya dominados.
+**Último estado producido consultado:** V72#4, B+220 última tarde / rehabilitación y primera escucha S12. [Registro S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md) · [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Separar uso habitual consolidado de ensayo supervisado y de plano; la lista de posibilidades no equivale a poderes dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -34,7 +34,7 @@ Un patrón aprendido permanece disponible; su integración no significa que est�
 |---|---|---|
 | Permanente en el cuerpo/estructura | Incrementos físicos adquiridos; Corazón Negro unido y antiguo gobernador roto; ojos reproducidos y filtro Mini Ciel; secuelas viejas conservadas. | Caudal infinito, reparación sin coste, ojos máximos sostenidos o capacidad física igual a su mayor pico de emergencia. |
 | Uso ordinario consolidado | Inventario/tienda existente y catálogo Purple confirmado fuera en V67#15; vínculo de préstamo con Yuka y apoyo de Mai en el alcance ya pactado; órdenes y formas de la legión ya disponibles; pequeños usos Authority; forma slime en las ocasiones consentidas y demostradas. | Catálogo infinito, obediencia forzosa de otras personas, toda la legión materializada gratis o transformación múltiple simultánea sin ensayo. |
-| Uso de combate ya demostrado, escala a escoger | Base de Limitless/Shrine, Sky, Zoltraak, equipo registrado y shikigami propios en sus alcances de las escenas. Mau puede practicar refinamiento de estas herramientas sin redescubrirlas. | Dominio simultáneo de toda la colección, acceso automático al archivo Sukuna que decidió cerrar o repetibilidad libre de un pico que lo lesionó. |
+| Uso de combate ya demostrado, escala a escoger | Base de Limitless/Shrine, Sky, Zoltraak, equipo registrado y shikigami propios en sus alcances de las escenas. Mau puede practicar refinamiento de estas herramientas sin redescubrirlas, cuando su estado médico lo permita. El archivo Sukuna sí fue abierto para estudio en V68; conocimiento retenido no ejecuta por él. | Dominio simultáneo de toda la colección, obtención de CT de todos los rivales históricos de Sukuna o repetibilidad libre de un pico que lo lesionó. |
 | Ensayo/revisión bajo supervisión específica | Movement Learner: primer repaso posterior a la acción, con Ciel/Noise y guía de Jin-Woo; recuperación de CT/RCT neural en prácticas acotadas; nuevas interacciones/solapamientos; señal de modelos DIO/Ashborn con permiso en cada alcance. | Piloto motor automático, encadenamiento ilimitado de dominios, permiso médico general para dañar/reparar cerebro o autorización permanente de derivados de huéspedes. |
 | Observado o incompleto | Corrección de escoba de Momo; relaciones nuevas de Jin-Woo y su cruce; proyectos del backlog que no tengan capítulo de construcción/prueba. | Copia usable o «full bag» obtenido por presencia. |
 
@@ -187,6 +187,12 @@ No nuevo poder. Campo cerrado, herramientas retenidas pero el cuerpo no está en
 **Papel Ori original entregado y abierto V71#20**, por iniciativa de ella. Traído de caja/cajón, no estuvo en Final Trial. Ori primera lectora, comparte en voz alta, añade respuesta y toma custodia doblada tres veces. Ya no registrar como pendiente en manos de Mau; promesa cumplida. Nota Yuka separada sigue junto a cama.
 
 ## Registro de cambios
+
+## Rehabilitación directa — V72#1–4 / B218–B220
+
+Se corrige por etapas espalda/pie tras muñeca corregida B217. Mejor respuesta motora, sedestación B219 y pocos pasos apoyados cama-silla B220 con Yuta/Jin-Woo, luego descanso. **No alta ni combate autorizado.** Sigue muy delgado, dolor/fatiga/caudal/control distintos de reservas y fuerza permanente. Ciel/Noise apoyan plan médico pedido, no nueva construcción ni crecimiento automático. Pelo acortado por elección sin borrar blanco, grandes cicatrices/secuelas viejas conservadas. 6.617 vínculos, capturas Ultimate no manifestadas. Ciel usa cronología con permiso, no proyección de archivo; escenas de habla/trauma no son adquisición de habilidad. [Detalle S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md).
+
+## Registro histórico de cambios
 
 | Fuente | Cambio que se registra |
 |---|---|

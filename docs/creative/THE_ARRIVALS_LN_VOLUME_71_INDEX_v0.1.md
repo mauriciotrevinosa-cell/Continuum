@@ -11,6 +11,8 @@ Inside, a season becomes a year and the field keeps taking whatever Mau learns. 
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_70_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md)
 
+[Continue directly into Volume 72 — S12](THE_ARRIVALS_LN_VOLUME_72_INDEX_v0.1.md)
+
 ## Reading order
 
 | Order | Source episode | LN chapter | File |

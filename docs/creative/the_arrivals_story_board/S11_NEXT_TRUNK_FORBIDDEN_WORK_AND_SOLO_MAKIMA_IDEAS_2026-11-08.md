@@ -53,3 +53,5 @@ No imponer una confesión/redención de Makima ni la antigua infiltración de co
 6. Cómo se cruzan estas líneas con pareja, familia, entrenamiento Jin-Woo y vida del pueblo. Ni reemplazar todo por este conflicto ni adelantar escenas antes del verde.
 
 **Próxima acción:** seguir conversando y recoger ideas; luego proponer esqueleto al creador. Ningún capítulo nuevo autorizado por esta lluvia de ideas.
+
+**Ampliación de ritmo, 2026-11-09:** [días completos en la casa y desarrollo de relaciones](S11_DAY_IN_THE_HOUSE_AND_RELATIONSHIP_RHYTHM_IDEAS_2026-11-09.md). Esta dirección debe cruzarse con el trabajo secreto/Makima al diseñar el tronco; no poner primero un bloque de convivencia y después despachar las otras líneas en serie.

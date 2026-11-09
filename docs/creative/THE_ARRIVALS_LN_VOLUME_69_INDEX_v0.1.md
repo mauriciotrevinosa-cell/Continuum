@@ -9,7 +9,7 @@
 
 Mau finds more ways to be in another place. At home, being close to someone turns out to need an answer no construction can supply.
 
-[Previous volume](THE_ARRIVALS_LN_VOLUME_68_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md)
+[Previous volume](THE_ARRIVALS_LN_VOLUME_68_INDEX_v0.1.md) · [Next volume](THE_ARRIVALS_LN_VOLUME_70_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md)
 
 ## Reading order
 

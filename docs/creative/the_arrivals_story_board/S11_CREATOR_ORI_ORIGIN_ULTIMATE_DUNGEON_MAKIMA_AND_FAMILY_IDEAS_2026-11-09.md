@@ -80,7 +80,7 @@ Mau dice sentirse mejor y quiere saber si por lo menos puede tenerlos antes de p
 
 Yuka puede enojarse mucho. Mau puede creer honestamente que no estaba haciendo nada mal; la casa le muestra que se está volviendo alguien a quien no pueden alcanzar. Entienden que no procesó lo de Yuka, sin que entenderlo lo vuelva correcto o elimine responsabilidad.
 
-**Pregunta enviada al creador, todavía pendiente al guardar esta nota:** al poner «una mini pausa», ¿se refiere a planes de hijos, a la relación de pareja o lo quiere decidir después? No escribir separación de cuartos, silencio punitivo o ruptura por suposición; tampoco borrar el enojo real pedido.
+**Pregunta respondida por el creador:** no es una pausa como pareja. La casa y Yuka frenan sus planes para escucharlo, una vez que pueda caminar tras salir del dungeon. Primero hay enojo real; cuanto más habla Mau, más entienden el trauma que todavía arrastra. La conversación amplia corresponde al aftermath, no obligatoriamente antes del encierro. No escribir separación de cuartos, silencio punitivo o ruptura por suposición. Ver la ampliación íntegra de intención abajo.
 
 ### Calendario: comprobación enfocada y límite del dato
 
@@ -94,11 +94,29 @@ Yuka puede enojarse mucho. Mau puede creer honestamente que no estaba haciendo n
 
 ## Comentarios/propuestas de Work para discutir
 
-1. Dar tiempo al descubrimiento del secreto, al enojo de Yuka y al daño a DIO/Ciel **antes** del encierro final. Evitar que la emergencia absuelva lo que todavía no hablaron; rescatar y cuidar puede coexistir con una confianza pendiente de reparar.
+1. Dar tiempo al descubrimiento del secreto, al enojo de Yuka y al daño a DIO/Ciel. Work propuso primero la conversación antes del encierro; **el creador precisó después que la escucha amplia ocurre en el aftermath cuando Mau puede caminar**. Esa respuesta manda. Rescatar/cuidar no borra la conversación pendiente, que ahora recibe un lugar propio después de la estabilización.
 2. Cerrar el arco de pertenencia Ori con la conversación de cuatro y un gesto elegido hacia Mau antes del clímax. La familia queda definida por quienes eligen, no por el origen instrumental de DIO.
 3. Usar a Reze con voz y decisiones propias: que no sea sólo una prueba moral o una pieza que Makima entrega a cambio de cercanía. La humanidad visual puede iniciar el reconocimiento de Mau, sin reducir el trato digno a parecer humano.
 4. Construir la tecnicality de rescate y las herramientas del Arquitecto antes del dungeon; la interferencia no debe parecer un rescate surgido sin preparación.
 5. El daño real y el RCT limitado necesitan una lógica del lugar compatible con cuerpo permanente/fragmento. No aceptar una autoridad global nueva del Arquitecto sobre todo el mundo para justificar restricciones de una instancia.
 6. El ultimate dungeon es ya un arco mayor de cierre. Antes de sumar otra amenaza grande, ordenar convivencia, secreto, vínculos, cooperación exterior y visitas Makima con los tiempos que necesitan.
 
-**Próximo paso:** recibir respuesta sobre «mini pausa», conversar los mecanismos pendientes y proponer orden/hitos al creador. No capítulos nuevos, no conteos cerrados, no poderes concedidos por esta nota.
+## Aclaración posterior: estado del cuerpo y escucha después del rescate
+
+Respuesta del creador, preservada íntegra:
+
+> «mas que una pausa es que en ves de continuar con los planes de todo la casa y ella se ponen a escucharlo una ves que pueda caminar pq la amnera que sale del dungeon es peor que lo de sukuna ose aneta espero que en un putno pele contra algo y termine como invencible contra conquest osea peleando sus organos saliendose de e el mau s epuede casi desmayar y comienza a sanarse mientras poen sus organos de regreso osea mas que yuka se eonje osea si se emputa al inciio coomo la casa pero entre mas lo escuchan habalr se dan cuenta que mau esta demasiado traumado osea frieren luego yuka y fallar esa promesa que se hizo es lo que lo llevo al borde y puede ser que la casa lo terape y le explique pq lo que hizo esta mal y lo ayduan poco a poco sanr heridas que la casa creia que ya habian sanado pero primero si quiero que mau este hecho meirda sanandose solo en el dungeon y tal ves no tan jodido peor se ve que se sano mal y asi entonces su recuperacione s que lo estan ayudand a areglarse bien y tal ves lo fuerzan a dormir peor mientras lo arreglan ven todas las nuevas cicatrices cosas viejas desparecieron como quemaduras o muchas d elos cortes de shrine y el cuerpo solo se esta quedando con las fuerte la de la mano atravesandolo world cutting slahs lo de los dedos pero las small las esta desparaeciendo pe peude ser que perdio el pedazo y al sanarse y recuperarlo cosas se pierde pq su cerebreo esta tna quemado y asi»
+
+### Intención que manda
+
+- El estado de salida es **peor que después de Sukuna**. En algún combate interno puede llegar a un extremo inspirado en Invincible/Conquest: el cuerpo abierto, vísceras fuera, casi pierde conciencia, intenta recolocarse y usar su RCT para seguir vivo. Es referencia de brutalidad/desesperación, no copia literal de una pelea ni anatomía/lesión ya fijada.
+- La soledad de esas reparaciones merece escenas y tiempo. No recibir ayuda del venado/Beru/Mahoraga durante el tramo donde están bloqueados.
+- Puede haber recuperado suficiente estructura para seguir peleando, con reparaciones defectuosas. El estado que ven al rescatarlo puede ser menos abierto que su peor momento interno, pero muestra que no sanó bien.
+- La recuperación exterior consiste también en **corregir esas reparaciones**, con ayuda de los personajes que conocen su estado/capacidades. Puede necesitar que lo hagan dormir para poder reparar, sin tratamiento real/dosis inventadas ni una orden de la familia usada como castigo.
+- Aparecen muchas cicatrices nuevas. Algunas pequeñas viejas, quemaduras y muchos cortes menores de Shrine pueden desaparecer donde perdió y regeneró tejido. Permanecen las marcas fuertes que el creador nombra: perforación de la mano, World Cutting Slash y secuelas de dedos. Precisar localización por fuentes previas, no inventar lado/órgano ni amputación vieja.
+- El posible motivo es daño/regeneración bajo un cerebro agotado y reparación irregular. **Todavía es mecanismo por diseñar**, no una nueva ley que quita cualquier secuela cuando se quiera. No curar gris salvo Yuka, borde borroso o dedos rígidos por inercia.
+- Cuando Mau puede caminar y sostener la charla, la casa/Yuka posponen sus otros planes para escuchar. El enojo inicial existe. El relato cambia su comprensión: lo de Frieren, después Yuka y el fracaso de su promesa de evitarlo lo empujaron al borde.
+- La familia creía que ciertas heridas ya habían sanado; aprende qué sigue ahí. Eso no convierte sus secretos en decisiones correctas ni vuelve falsos todos sus avances previos. La ayuda para sanar es gradual y acompaña la explicación de por qué estaba dañando la confianza.
+- No producir una nueva separación romántica ni una Yuka que lo ignore como método de recuperación. El conflicto y la cercanía pueden coexistir. No resolver todo con una sola disculpa o con el rescate.
+
+**Próximo paso:** conversar mecanismos pendientes y proponer orden/hitos al creador. Pregunta de la pausa ya respondida: no repetirla ni mantenerla como bloqueo. No capítulos nuevos, no conteos cerrados, no poderes concedidos por esta nota.

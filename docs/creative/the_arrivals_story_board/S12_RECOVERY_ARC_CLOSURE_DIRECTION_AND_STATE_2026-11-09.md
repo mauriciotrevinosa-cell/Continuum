@@ -10,7 +10,17 @@ Tras preguntar si trauma dump sólo duraba cinco capítulos, pide que Mau diga v
 - #7/B222: ambos cuentan acotadamente a Shoko/Ciel. Yuka procesa con Mai sin divulgar parte más privada; M deja salir y pregunta al volver si se arrepiente de oír. Ella no, puede llorar y querer conocerlo. Beso/almuerzo propios, no castigo de ausencia.
 - #8/B222 tarde: Maki/Yuta/Mai/Frieren escuchan con alcance elegido. Un clip no gráfico sobre intentar alcanzar agua tras lesión de espalda, cortado ahí y receptores voluntarios. No archivo público. Ellos cuentan lado afuera, sin conocer heridas en tiempo real. Responsabilidad por secretos/infoAshborn sigue distinta de culpa por tortura. Él pide comuniquen salidas y le dejen expresar añoranza sin encerrarlo; se compromete a conversar antes de decidir peligro oculto.
 
-## Cierre por ejecutar
+## Cierre ejecutado — V72#9–12
+
+#9/B223: revisión real de trabajos existentes, conversación sobre Step mientras aún cambia decisión, no borrado de poderes ni permiso blanco. Noise/Ciel/DIO se permiten desacuerdo/compañía, nada de matrimonio-premio. #10/B224: Yuka tiene tarde con Mai/Momo y vuelve, M puede expresar deseo cercano sin retener ni leer rechazo; propio patio con Gojo y ayuda, inventario familiar usado, preparan casa. #11/B225: vuelta con cuidado al cuarto compartido, objetos mezclados/gift ordinario y deseo futuro, M declara creerla y querer estar aquí. Comparten cama dentro límites. #12/B226: reporta dolor/acepta plan menor, pide compañía ante memoria vieja al desayunar, Ori/Frieren conviven, MY dicen están bien como pareja con trabajo pendiente. **Arco cerrado y V72 completo en doce capítulos; S12 continúa.**
+
+## Alcance del cierre
+
+Resuelto: no separación de matrimonio ni incertidumbre de si ella desea su presencia. Verdad del año dicha y recibida; reparación inicial de secreto con colaboración práctica; familia escuchó y no lo condena por tortura. Cambios en actos (expresar, preguntar, avisar, aceptar desacuerdo, pedir ayuda, dejar vida propia al otro), no mariposas por una frase.
+
+Tiempo necesario: rehabilitación/masa/resistencia, miedo que puede volver, confianza practicada al recuperar potencia, seguridad frente a enemigos y patrones aún experimentales. No alta de combate, embarazo, trauma borrado, neutralización de Makima ni Arquitecto muerto. Cumpleaños tardío abierto para próximo momento propio. No continuar este arco repitiendo la misma confesión hasta completar veinte capítulos; corte elegido por escena/resultado.
+
+## Intención inicial, ya ejecutada
 
 Convertir acuerdos en acciones/convivencia: reparar colaboración M/Noise/Ciel/DIO, discrepancia de esposos que no se lea como separación, regreso al cuarto propio con atención/limitaciones actuales. Concluir incertidumbre «¿quiere a su esposo aquí?» con respuesta mutua clara y sostenida; no prometer nunca discutir, recordar ni necesitar ayuda.
 

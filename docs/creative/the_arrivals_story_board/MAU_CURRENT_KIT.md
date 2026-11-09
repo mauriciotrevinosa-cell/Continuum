@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V72#8, B+222 tarde / recuperación y escucha ampliada. [Registro S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md) · [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Separar uso habitual consolidado de ensayo supervisado y de plano; la lista de posibilidades no equivale a poderes dominados.
+**Último estado producido consultado:** V72#12, B+226 mañana / cierre arco de escucha, cuarto propio y rehabilitación vigente. [Registro S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md) · [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Separar uso habitual consolidado de ensayo supervisado y de plano; la lista de posibilidades no equivale a poderes dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -152,6 +152,8 @@ Campo: cada adaptación provoca un cambio (flujo más lento día31, ×2.5 día39
 
 Nuevas: pie izquierdo aplastado por construct sin CE (día83), tres piezas unidas a mano, nunca quedará bien, vendado dentro de bota de la tienda; tres costillas derechas rotas (día96); pantorrilla izquierda mordida, sana en nudo duro (día112); un dedo de la mano derecha dislocado y recolocado torcido (día~120). Adelgaza por racionamiento desde día130: saldo de la tienda finito, nadie de fuera puede añadir. Siguen todas las anteriores.
 
+**Aclaración posterior de estado, V72:** «nunca quedará bien» en la entrada histórica describe ese mal resultado bajo el campo y la percepción de Mau allí; no fija un pronóstico irreversible tras atención externa. Shoko corrige lo mal soldado por etapas; mejoría funcional producida no es curación perfecta. No imponer nueva discapacidad permanente sin resolverla en historia/decisión del creador.
+
 Campo: constructs sin CE invisibles a los ojos, luego silencio total en el sector; manada que aprende patrones exitosos. Cuarto del Arquitecto (#18) sin amenazas: la oferta de quedarse. Sin técnica nueva, sin unidad nueva (6.616).
 
 ## Heridas y estado — V71#1–4 (Claude)
@@ -193,6 +195,8 @@ Se corrige por etapas espalda/pie tras muñeca corregida B217. Mejor respuesta m
 V72#5/B221: visita breve a cena en silla con ayuda, no desplazamiento autónomo completo ni alta. Ningún nuevo uso de fuerza/CT por narrar mejoría. Mantiene inventario/shop/equipo, pero no necesita usarlos para sustituir cuidado elegido. Mai no carga CE por trabajo hecho en banco con material existente durante rehabilitación. Elige avisar Enough y volver a clínica.
 
 ## Registro histórico de cambios
+
+V72#9–12: no poderes ni unidades nuevos. Revisión PARCIAL de trabajo existente produce decisiones concretas sobre learner (mapa, no ejecución automática), Step (alcance ensayado, no test nuevo) y derivados invitados; resto del backlog no declarado revisado por terminar escena. DobleCT/Bang conservan estado previo. Analyze continuo no se apaga, no una purga de capacidades. Integración riesgosa sigue pendiente de estado médico/revisión, derivados invitados requieren alcance específico. Authority mueve sólo cup familiar en patio B224; inventario usado al guardar pertenencias, no redescubierto. Vuelta a cuarto B225 con ayudas, checks mantienen, no alta; B226 acepta distancia de marcha menor tras dolor reportado. Ring propio seguro por ajuste flojo, no perdido; papel Yuka junto a él, papel Ori con Ori. Grey/blur/dedos/cicatrices mayores conservados, sin pico físico por mejorar ánimo.
 
 V72#6–8: verdad de ensayos de separación y pensamiento de no regresar ya contada a Yuka, parte de riesgo compartida con Shoko/Ciel por acuerdo. Mayor lenguaje/participación conforme sana, no pico nuevo ni alta. Clip elegido de agua/espalda compartido con Maki/Yuta/Mai/Frieren y acompañantes, no todo archivo. Resto de lesiones y unidades sin cambio. Fechas/emoción no equivalen a nuevo análisis habilitado.
 

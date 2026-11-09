@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S11 v0.1
 **Volume:** 70
 **Season:** 11
-**Coverage:** S11E53–S11E57 (in progress)
+**Coverage:** S11E53–S11E59 (in progress)
 **Volume title:** **Until He Can Come Home**
-**Chapter files:** 8
+**Chapter files:** 12
 
 The house makes plans it expects to finish. Mau learns to show the work before the result, while another room is being prepared without his consent.
 
@@ -23,3 +23,7 @@ The house makes plans it expects to finish. Mau learns to show the work before t
 | 6 | S11E56 | What He Hears | `THE_ARRIVALS_S11E56_LN_CHAPTER_01_WHAT_HE_HEARS_v0.1.md` |
 | 7 | S11E56 | The Ordinary Check | `THE_ARRIVALS_S11E56_LN_CHAPTER_02_THE_ORDINARY_CHECK_v0.1.md` |
 | 8 | S11E57 | The First Room | `THE_ARRIVALS_S11E57_LN_CHAPTER_01_THE_FIRST_ROOM_v0.1.md` |
+| 9 | S11E57 | The Question Outside | `THE_ARRIVALS_S11E57_LN_CHAPTER_02_THE_QUESTION_OUTSIDE_v0.1.md` |
+| 10 | S11E58 | Where His Feet Should Be | `THE_ARRIVALS_S11E58_LN_CHAPTER_01_WHERE_HIS_FEET_SHOULD_BE_v0.1.md` |
+| 11 | S11E58 | The Days on the Floor | `THE_ARRIVALS_S11E58_LN_CHAPTER_02_THE_DAYS_ON_THE_FLOOR_v0.1.md` |
+| 12 | S11E59 | A Name Is Not a Key | `THE_ARRIVALS_S11E59_LN_CHAPTER_01_A_NAME_IS_NOT_A_KEY_v0.1.md` |

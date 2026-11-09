@@ -1,6 +1,6 @@
 # Final Trial — reloj, daño y rescate
 
-**Estado escrito:** V70#7–8. Trampa activada después de inspección real y primer guardián muerto. Ningún Arise nuevo. Heridas concretas/condiciones en [bag actual](MAU_CURRENT_KIT.md) y [producción](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md).
+**Estado escrito:** V70#12. Clock360x confirmado en#9; primer guardián y trío muertos, fracturaespinal y recuperaciónparcial días4–17, primer Arise almacenado +1 en#11. Afuera2h≈30d locales, ruta mantenimiento parcial sinentrada. Horizonte540d/36h aúnpropuestaajustable, no cumplido. Heridas concretas/condiciones en [bag actual](MAU_CURRENT_KIT.md) y [producción](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md).
 
 ## Próxima ejecución decidida por Work dentro de lo delegado
 

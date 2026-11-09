@@ -20,4 +20,10 @@ Papel Ori ya no está pendiente ni en cajón: V71#20 cumple promesa. La reparaci
 
 Plan inicial, ahora producido: primer despertar más sostenido, atención escalonada, tiempo para Ciel/Noise/DIO y recuperación de rescatistas. Papel original de Ori se retomó por decisión de ella, sin lectura previa de adultos. No reemplaza nota de Yuka ni compás.
 
-Cierre S11 puede descansar en primera noche acompañada; S12 continúa inmediatamente con reparación y escucha larga una vez Mau puede participar. No pausa de matrimonio, castigo de silencio ni curación mental por una frase. Calendario conserva celebración tardía de Yuka20/segundo aniversario, no insertar cumpleaños en ICU. Ningún nuevo test Rulers en plena reparación.
+Cierre S11 producido con noche acompañada y papel Ori; S12 continúa inmediatamente con reparación y escucha larga una vez Mau puede participar. No pausa de matrimonio, castigo de silencio ni curación mental por una frase. Calendario conserva celebración tardía de Yuka20/segundo aniversario, no insertar cumpleaños en ICU. Ningún nuevo test Rulers en plena reparación.
+
+## Continuación S12 realmente escrita
+
+V72#1–5, B218–B221: corrección espalda/pie por etapas, primera sedestación y pasos asistidos, primera escucha elegida con Yuka/Rimuru-Ciel/Shoko/Gojo/DIO, regreso breve a cena. Se confronta la minimización sin castigar; viejo recuerdo Rulers/falseYuka del desayuno/cuchillo anclado a V53#12 (no inventado como tortura nueva de Ultimate ni atribuido a Makima). Mau da permiso acotado a cronología; Noise a compartir pedido Stay...For me. Ninguna proyección automática de todo el archivo ni curación completa del matrimonio/cuerpo. Segunda tanda familia/Frieren/Mai/Yuta/Maki, cumpleaños tardío y regreso pleno a casa quedan abiertos.
+
+Auditoría final: metadatos/índices/orden/marcas de hablante/párrafos largos duplicados comprobados. Se conservaron nombres y número de legión, equipo, daltonismo, secuelas principales, canal de Ciel y custodia nueva del papel. Evitar decir «hombro sano» como si el otro nunca se hubiera lesionado: apoyos y contacto los determina Shoko, sin inferir curación universal fuera de escena.

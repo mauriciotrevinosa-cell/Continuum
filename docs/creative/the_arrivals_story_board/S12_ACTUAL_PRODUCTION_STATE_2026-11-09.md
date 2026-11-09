@@ -1,6 +1,6 @@
 # S12 — Estado real de producción
 
-**Inicio:** continuación directa de V71#20, sin salto de semanas. **Último producido:** V72#4, B+220 última tarde. Cuatro capítulos, S12E01–E02, volumen en curso. La recuperación no concluye porque la conversación exista.
+**Inicio:** continuación directa de V71#20, sin salto de semanas. **Último producido:** V72#5, B+221 cena. Cinco capítulos, S12E01–E03, volumen en curso. La recuperación no concluye porque la conversación exista.
 
 ## Escenas realmente escritas
 
@@ -12,6 +12,8 @@
 | V72#4 | S12E02 CH02 | B220 última tarde | Describe lesiones con minimización, grupo pregunta duración/acción concreta. Ciel/Noise corrigen fechas con permiso (tres meses junto a dragón, año total ~368). Explica sentir dungeon como lugar/intervalo excluido al volver al día anterior, no amnesia literal ni tiempo cambiado afuera. Cuchara lleva a recuerdo falso-Yuka del trial Rulers V53#12, claramente anterior/no Yuka real/no nuevo castigo Ultimate. Panic se acompaña con permiso/contacto y pausa. Comparte pedido propio Noise Stay...For me con consentimiento. Yuka sigue enfadada por secretos y afectuosa presente. |
 
 ## Estado al checkpoint
+
+**V72#5 / S12E03CH01, B221 tarde/cena:** M pide ir a mesa, Shoko permite visita breve trasladado/sostenido en silla, no marcha independiente. Autoriza a Yuka compartir información escogida con Maki/Yuta/Mai/Frieren estando presente; no reunión/exposición en cena. Ori/Frieren, Fort real Rem/Umaru, Beru de M sentado por invitación, Jin-Woo/familia, Bocchi/Kita conservan vida cotidiana. Mai adapta material ya disponible a mano, sin drenar CE médica. M come por sí con ayuda al bowl y dice Enough antes de forzar más; regreso a clínica. Quiere volver a mesa, todavía seguimiento/rehab pendientes.
 
 - **Mau:** en clínica; alineación urgente antebrazo/mandíbula corregida desde B216, muñeca B217 y espalda/pie en trabajo por etapas B218–B220. Puede sentarse y dar unos pasos CON AYUDA. Aún muy delgado, necesita descanso/alimento/seguimiento; no combate, vuelo propio, entrenamiento ni vida doméstica plena autorizados por haber caminado tres pasos. Fuerza ganada no apagada: lesión/agotamiento/coordinación restringen función, no reset de nivel. Grandes cicatrices, gris excepto Yuka, blur izquierdo y dedos viejos persisten; marcas pequeñas pueden cambiar por tejido reemplazado. Pelo acortado por Yuka según su elección, blanco sigue.
 - **Mau/Yuka:** casados, cercanos, camas acercadas por cuidado médico. Ella reconoce frase desafortunada, él admite no sabía que quería su vuelta. Nadie impone distancia/castigo de silencio. El enfado por decisiones unilaterales no se evapora por daño de Arquitecto; tampoco lo hace culpable de ser torturado.

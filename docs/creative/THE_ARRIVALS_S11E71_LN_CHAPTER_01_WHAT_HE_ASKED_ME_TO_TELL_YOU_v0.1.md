@@ -95,7 +95,7 @@ Gojo keeps his voice level.
 
 Yuka looks back into the clinic.
 
-Mau hasn't moved. Maki is adjusting the edge of the blanket where it has slipped off his good shoulder.
+Mau hasn't moved. Maki is adjusting the edge of the blanket where it has slipped beside his shoulder.
 
 “He was trying to make me feel better.” ʸ
 

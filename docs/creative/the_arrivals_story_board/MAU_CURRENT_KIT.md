@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V72#4, B+220 última tarde / rehabilitación y primera escucha S12. [Registro S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md) · [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Separar uso habitual consolidado de ensayo supervisado y de plano; la lista de posibilidades no equivale a poderes dominados.
+**Último estado producido consultado:** V72#5, B+221 cena / rehabilitación y primera vuelta asistida a mesa. [Registro S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md) · [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Separar uso habitual consolidado de ensayo supervisado y de plano; la lista de posibilidades no equivale a poderes dominados.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -186,11 +186,11 @@ No nuevo poder. Campo cerrado, herramientas retenidas pero el cuerpo no está en
 
 **Papel Ori original entregado y abierto V71#20**, por iniciativa de ella. Traído de caja/cajón, no estuvo en Final Trial. Ori primera lectora, comparte en voz alta, añade respuesta y toma custodia doblada tres veces. Ya no registrar como pendiente en manos de Mau; promesa cumplida. Nota Yuka separada sigue junto a cama.
 
-## Registro de cambios
-
 ## Rehabilitación directa — V72#1–4 / B218–B220
 
 Se corrige por etapas espalda/pie tras muñeca corregida B217. Mejor respuesta motora, sedestación B219 y pocos pasos apoyados cama-silla B220 con Yuta/Jin-Woo, luego descanso. **No alta ni combate autorizado.** Sigue muy delgado, dolor/fatiga/caudal/control distintos de reservas y fuerza permanente. Ciel/Noise apoyan plan médico pedido, no nueva construcción ni crecimiento automático. Pelo acortado por elección sin borrar blanco, grandes cicatrices/secuelas viejas conservadas. 6.617 vínculos, capturas Ultimate no manifestadas. Ciel usa cronología con permiso, no proyección de archivo; escenas de habla/trauma no son adquisición de habilidad. [Detalle S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md).
+
+V72#5/B221: visita breve a cena en silla con ayuda, no desplazamiento autónomo completo ni alta. Ningún nuevo uso de fuerza/CT por narrar mejoría. Mantiene inventario/shop/equipo, pero no necesita usarlos para sustituir cuidado elegido. Mai no carga CE por trabajo hecho en banco con material existente durante rehabilitación. Elige avisar Enough y volver a clínica.
 
 ## Registro histórico de cambios
 

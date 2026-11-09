@@ -179,7 +179,7 @@ Shoko moves it a little farther away from his supported arm.
 
 “I can move,” Yuka says. ʸ
 
-She goes round the other side without hesitation. The arrangement changes again until she can lie down near his uninjured shoulder, within reach of his fingers, with no weight pressing across him.
+She goes round the other side without hesitation. The arrangement changes again until she can lie down near his head, within reach of his fingers, with no weight pressing across him.
 
 Mau watches in silence.
 

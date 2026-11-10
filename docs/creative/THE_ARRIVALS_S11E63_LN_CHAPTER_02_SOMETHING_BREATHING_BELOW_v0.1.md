@@ -127,7 +127,7 @@ Then he looks down.
 
 His shirt is open. So is he.
 
-He understands it the way you understand a word in a language you don't speak well: slowly, one piece at a time, while the rest of you is still trying to do something else. There is a great deal of red. There are things inside the red that should be inside him and are not.
+He understands it the way you understand a word in a language you don't speak well: slowly, one piece at a time, while the rest of you is still trying to do something else. There is a great deal of blood, dark and wet and spreading across the stone. There are things in it that should be inside him and are not.
 
 He puts his left hand over it.
 

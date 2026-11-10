@@ -149,7 +149,7 @@ His voice comes out broken.
 
 He goes still.
 
-*Real,* Noise says again. *I can feel. Him. Gojo. The blue. Same as the house. Same as the clearing. Real.* ᴺ
+*Real,* Noise says again. *I can feel. Him. Gojo. His Infinity. Same as the house. Same as the clearing. Real.* ᴺ
 
 Mau looks at the fold.
 

@@ -27,7 +27,7 @@ He makes himself keep looking.
 
 It gives him a picture.
 
-Not a memory of anyone else. His own body, the way Noise has recorded it a thousand times: on the clinic table, in the yard, standing in front of a mirror shaving with his crooked hand. Where everything was. Where everything is supposed to be. It lays the picture over what he can see, very faintly, a pale shape on top of a red one.
+Not a memory of anyone else. His own body, the way Noise has recorded it a thousand times: on the clinic table, in the yard, standing in front of a mirror shaving with his crooked hand. Where everything was. Where everything is supposed to be. It lays the picture over what he can see, very faintly, a pale shape on top of a dark, wet one.
 
 The two don't match.
 
@@ -187,7 +187,7 @@ That is the worst thing that happens to him that day, and he has been opened fro
 
 On the hundred and sixty-fifth day he sits up.
 
-It takes a whole morning. When he gets there, he stays there, propped against the dragon's jaw, looking at his own belly: the long raised line of the closure, red and ugly and crooked, with a pucker in the middle where he passed out and the two sides met a little wrong.
+It takes a whole morning. When he gets there, he stays there, propped against the dragon's jaw, looking at his own belly: the long raised line of the closure, angry and ugly and crooked, with a pucker in the middle where he passed out and the two sides met a little wrong.
 
 He puts his hand on it.
 

@@ -13,7 +13,7 @@ The room is warm.
 
 That is the first thing. Not hot, not the damp heat of the shaft. Warm the way a house is warm in the evening when somebody has kept the stove going.
 
-The second thing is the light. Plain and yellow, coming from a lamp on a small table, though he can see no oil in the lamp and no flame.
+The second thing is the light. Plain and soft and steady, the kind a lamp gives in the evening, coming from a lamp on a small table, though he can see no oil in the lamp and no flame.
 
 The third thing is the bed.
 

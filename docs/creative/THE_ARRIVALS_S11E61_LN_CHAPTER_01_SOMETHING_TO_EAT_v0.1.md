@@ -73,7 +73,7 @@ He reaches with the left hand, gets it under the rim, and lifts.
 
 The wrist gives.
 
-The bowl tips, and the soup goes over the ledge in a long brown ribbon, and he watches it fall into the rain and vanish.
+The bowl tips, and the soup goes over the ledge in a long dark ribbon, and he watches it fall into the rain and vanish.
 
 He doesn't say anything.
 

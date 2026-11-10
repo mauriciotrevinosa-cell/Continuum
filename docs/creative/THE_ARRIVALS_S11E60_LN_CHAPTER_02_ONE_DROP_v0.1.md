@@ -13,7 +13,7 @@ The first drop lands on the back of his hand.
 
 It stings like a thrown pebble.
 
-He stops in the passage and looks at the place. There is a red mark the size of a fingertip, already darkening at the centre. Above him the stone is wet, and a second bead is gathering at the end of a small grey spike, getting heavier.
+He stops in the passage and looks at the place. There is a mark the size of a fingertip, darker than the skin around it and getting darker at the centre. Above him the stone is wet, and a second bead is gathering at the end of a small grey spike, getting heavier.
 
 He moves his hand before it falls.
 
@@ -135,7 +135,7 @@ He drops it under the first overhang he can drag himself to. It takes him a long
 
 When he can think again, he looks at the arm.
 
-He makes himself look at all of it. The skin is not broken except in two places, but the forearm is the wrong length and the wrong shape, soft where it should be straight, swelling already, purple at the wrist. When he tries to move his fingers, one of them moves.
+He makes himself look at all of it. The skin is not broken except in two places, but the forearm is the wrong length and the wrong shape, soft where it should be straight, swelling already, the skin at the wrist gone dark and tight. When he tries to move his fingers, one of them moves.
 
 He lies back against the wall.
 

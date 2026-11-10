@@ -1,5 +1,7 @@
 # Recuperación — verdad y cierre
 
+**Integración posterior autorizada por Mauri:** visitas Makima durante clínica (#9–11, B222–223) y después (#16, B228), sin borrar cierre MY #14–15. Mantiene archivos/IDs, sólo desplaza reading orders de antiguos9–12 a12–15. [Visitas y consecuencias](S12_MAKIMA_RECOVERY_VISITS_CREATOR_DIRECTION_AND_EXECUTION_2026-11-09.md).
+
 ## Dirección explícita de Mauri
 
 Tras preguntar si trauma dump sólo duraba cinco capítulos, pide que Mau diga verdad completa sobre lo que pensó dentro. Yuka pidió honestidad: escuchar que él ensayó separarse, proteger desde lejos y creyó que ella estaría mejor sin su vuelta le rompe el corazón. No castiga la confidencia ni convierte dolor propio en que él deba retirar verdad. **Acabar este arco**, con aspectos realmente arreglados y otros que necesitarán sanar; no exigir mariposas ni dejar todos los acuerdos en eterno pendiente.
@@ -10,9 +12,9 @@ Tras preguntar si trauma dump sólo duraba cinco capítulos, pide que Mau diga v
 - #7/B222: ambos cuentan acotadamente a Shoko/Ciel. Yuka procesa con Mai sin divulgar parte más privada; M deja salir y pregunta al volver si se arrepiente de oír. Ella no, puede llorar y querer conocerlo. Beso/almuerzo propios, no castigo de ausencia.
 - #8/B222 tarde: Maki/Yuta/Mai/Frieren escuchan con alcance elegido. Un clip no gráfico sobre intentar alcanzar agua tras lesión de espalda, cortado ahí y receptores voluntarios. No archivo público. Ellos cuentan lado afuera, sin conocer heridas en tiempo real. Responsabilidad por secretos/infoAshborn sigue distinta de culpa por tortura. Él pide comuniquen salidas y le dejen expresar añoranza sin encerrarlo; se compromete a conversar antes de decidir peligro oculto.
 
-## Cierre ejecutado — V72#9–12
+## Cierre ejecutado — V72#12–15
 
-#9/B223: revisión real de trabajos existentes, conversación sobre Step mientras aún cambia decisión, no borrado de poderes ni permiso blanco. Noise/Ciel/DIO se permiten desacuerdo/compañía, nada de matrimonio-premio. #10/B224: Yuka tiene tarde con Mai/Momo y vuelve, M puede expresar deseo cercano sin retener ni leer rechazo; propio patio con Gojo y ayuda, inventario familiar usado, preparan casa. #11/B225: vuelta con cuidado al cuarto compartido, objetos mezclados/gift ordinario y deseo futuro, M declara creerla y querer estar aquí. Comparten cama dentro límites. #12/B226: reporta dolor/acepta plan menor, pide compañía ante memoria vieja al desayunar, Ori/Frieren conviven, MY dicen están bien como pareja con trabajo pendiente. **Arco cerrado y V72 completo en doce capítulos; S12 continúa.**
+#12/B224 mañana: revisión real de trabajos existentes, conversación sobre Step mientras aún cambia decisión, no borrado de poderes ni permiso blanco. Noise/Ciel/DIO se permiten desacuerdo/compañía, nada de matrimonio-premio. #13/B224: Yuka tiene tarde con Mai/Momo y vuelve, M puede expresar deseo cercano sin retener ni leer rechazo; propio patio con Gojo y ayuda, inventario familiar usado, preparan casa. #14/B225: vuelta con cuidado al cuarto compartido, objetos mezclados/gift ordinario y deseo futuro, M declara creerla y querer estar aquí. Comparten cama dentro límites. #15/B226: reporta dolor/acepta plan menor, pide compañía ante memoria vieja al desayunar, Ori/Frieren conviven, MY dicen están bien como pareja con trabajo pendiente. **Arco agudo cerrado en #15; V72 ampliado a16 por visitas Makima, S12 continúa.**
 
 ## Alcance del cierre
 

@@ -1,6 +1,6 @@
 # Mau — Repertorio vigente al inicio de S11
 
-**Último estado producido consultado:** V72#12, B+226 mañana / cierre arco de escucha, cuarto propio y rehabilitación vigente. [Registro S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md) · [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar esta fecha de estado al producir avances, no al aprobar una idea. Separar uso habitual consolidado de ensayo supervisado y de plano; la lista de posibilidades no equivale a poderes dominados.
+**Último estado producido consultado:** V72#16, B+228 / coda de visitas Makima y rehabilitación vigente. [Registro S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md) · [Registro S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md). Actualizar al producir avances. Patrón retenido, construcción, prueba y uso habitual siguen separados; mejorar ánimo no concede poder.
 
 Ficha de consulta y registro de cambios. Consultar junto al [estado de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md). Contiene referencias al duelo y al cierre de temporada. La [auditoría de base de S8](MAU_CURRENT_STABLE_BASELINE_AND_LIGHT_FRAGMENT_GROWTH_AUDIT_2026-11-01.md) conserva el estado anterior. La [reescritura de V59](S9_SUKUNA_DUEL_REWRITE_DESIGN_AND_SHRINE_EVOLUTIONS_2026-11-03.md) gobierna los detalles de la pelea, y las adendas de [producción S9](S9_MARRIAGE_WORLD_AND_SUKUNA_PRODUCTION_STATE_2026-11-02.md) registran la recuperación.
 
@@ -194,9 +194,17 @@ Se corrige por etapas espalda/pie tras muñeca corregida B217. Mejor respuesta m
 
 V72#5/B221: visita breve a cena en silla con ayuda, no desplazamiento autónomo completo ni alta. Ningún nuevo uso de fuerza/CT por narrar mejoría. Mantiene inventario/shop/equipo, pero no necesita usarlos para sustituir cuidado elegido. Mai no carga CE por trabajo hecho en banco con material existente durante rehabilitación. Elige avisar Enough y volver a clínica.
 
+## Visitas y alcance Ciel — integración V72#9–16
+
+No nuevo poder/unidad. 6.617 vínculos, dos capturas Ultimate almacenadas sin forma/nombre; J mantiene100. M puede hacer sólo tramo de marcha apoyada al visitar mini Inn B228; resto con ayuda, sin alta de combate/vuelo/ensayos. Autoridad/tienda/inventario conservan estados previos, no coste usado como inmunidad.
+
+Makima ve estado físico/arm/andar, no recibe plano corporal, cuarto huéspedes, DIO ni archivo privado. Primera visita a clínica B223, segunda mini Inn B228; ninguna privada ni al dormitorio. Revisión con Ciel/DIO/Noise ahora #12/B224 mañana, después de primera visita y descanso. Contacto real reconocido: ya no conservar afirmación de que no hubo contacto con Makima.
+
+**Ciel no estuvo distraída con DIO ni apagada:** modelos/registro no compartidos y pruebas pequeñas de rutas conocidas permitieron ocultación parcial B197–209. Huellas físicas sí observables. Señales de combate vuelven alcance identificable y Ciel pregunta; detalles en [nota de ocultación parcial](S11_CIEL_PARTIAL_CONCEALMENT_CLARIFICATION_2026-11-09.md). Sin nuevo cloak, reservas masivas invisibles o cámara Mini Ciel que cambia de función a conveniencia.
+
 ## Registro histórico de cambios
 
-V72#9–12: no poderes ni unidades nuevos. Revisión PARCIAL de trabajo existente produce decisiones concretas sobre learner (mapa, no ejecución automática), Step (alcance ensayado, no test nuevo) y derivados invitados; resto del backlog no declarado revisado por terminar escena. DobleCT/Bang conservan estado previo. Analyze continuo no se apaga, no una purga de capacidades. Integración riesgosa sigue pendiente de estado médico/revisión, derivados invitados requieren alcance específico. Authority mueve sólo cup familiar en patio B224; inventario usado al guardar pertenencias, no redescubierto. Vuelta a cuarto B225 con ayudas, checks mantienen, no alta; B226 acepta distancia de marcha menor tras dolor reportado. Ring propio seguro por ajuste flojo, no perdido; papel Yuka junto a él, papel Ori con Ori. Grey/blur/dedos/cicatrices mayores conservados, sin pico físico por mejorar ánimo.
+V72#12–15: no poderes ni unidades nuevos. Revisión PARCIAL de trabajo existente produce decisiones concretas sobre learner (mapa, no ejecución automática), Step (alcance ensayado, no test nuevo) y derivados invitados; resto del backlog no declarado revisado por terminar escena. DobleCT/Bang conservan estado previo. Analyze continuo no se apaga, no una purga de capacidades. Integración riesgosa sigue pendiente de estado médico/revisión, derivados invitados requieren alcance específico. Authority mueve sólo cup familiar en patio B224; inventario usado al guardar pertenencias, no redescubierto. Vuelta a cuarto B225 con ayudas, checks mantienen, no alta; B226 acepta distancia de marcha menor tras dolor reportado. Ring propio seguro por ajuste flojo, no perdido; papel Yuka junto a él, papel Ori con Ori. Grey/blur/dedos/cicatrices mayores conservados, sin pico físico por mejorar ánimo.
 
 V72#6–8: verdad de ensayos de separación y pensamiento de no regresar ya contada a Yuka, parte de riesgo compartida con Shoko/Ciel por acuerdo. Mayor lenguaje/participación conforme sana, no pico nuevo ni alta. Clip elegido de agua/espalda compartido con Maki/Yuta/Mai/Frieren y acompañantes, no todo archivo. Resto de lesiones y unidades sin cambio. Fechas/emoción no equivalen a nuevo análisis habilitado.
 

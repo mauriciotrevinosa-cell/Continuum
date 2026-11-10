@@ -129,6 +129,8 @@ Her hand is still on him. The faint mark beneath her collar is hidden by the fab
 
 Noise looks at the ordinary paths through which changes become visible.
 
+Ciel is still reachable. That has not made every model Noise holds apart into a record she is already reading. Mau has told people he is practising old routes; effort in those routes will not, by itself, tell them he has lifted the construction boundary. It is an explanation he can hide behind for a while, not a way to stop his body showing what he does to it.
+
 It doesn't promise that nobody can ever notice. Ciel can compare his condition. Shoko can ask why something is different. The people who train with him will have eyes, memories and questions of their own.
 
 Mau watches the same difficulties.

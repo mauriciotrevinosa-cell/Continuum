@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 72
-## Chapter 10 — The Afternoon She Keeps
+## Chapter 13 — The Afternoon She Keeps
 
 **Status:** LN PRODUCTION DRAFT — S12 v0.1
 **Volume:** 72
-**Reading order:** 10
+**Reading order:** 13
 **Source episode:** S12E05
 **Continuity state:** B+224. Yuka keeps an ordinary afternoon with Mai and Momo Nishimiya in the workshop; Mau voices wanting her near without requiring her to cancel or calling it rejection. His own medically permitted courtyard visit combines a few supported steps with seated rest. A small familiar Authority use moves his cup; it is not a new movement test or physical recovery proof. Return-home preparation uses his established inventory. No outing beyond the ward, training or new enemy move. They discuss tomorrow's possible home transfer with Shoko still responsible for clearance.
 

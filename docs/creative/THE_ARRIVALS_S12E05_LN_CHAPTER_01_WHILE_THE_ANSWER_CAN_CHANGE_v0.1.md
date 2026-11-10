@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 72
-## Chapter 9 — While the Answer Can Change
+## Chapter 12 — While the Answer Can Change
 
 **Status:** LN PRODUCTION DRAFT — S12 v0.1
 **Volume:** 72
-**Reading order:** 9
+**Reading order:** 12
 **Source episode:** S12E05
-**Continuity state:** B+223 afternoon. Mau, Noise, Ciel, DIO and Rimuru make their earlier review agreement usable. Permanent analysis continues; no power is deleted and no blanket permission is issued. Retained personal study, derivative permission, risky bodily construction and medical assistance remain distinct. Mau keeps agency, explicitly accepts disagreement before a decision is executed, and does not resume private Makima visits. Noise owns its part without receiving Mau's blame or a romantic reward. Body still in recovery; prototype status unchanged.
+**Continuity state:** B+224 morning. Mau, Noise, Ciel, DIO and Rimuru make their earlier review agreement usable. Permanent analysis continues; no power is deleted and no blanket permission is issued. Retained personal study, derivative permission, risky bodily construction and medical assistance remain distinct. Mau keeps agency, explicitly accepts disagreement before a decision is executed, and does not resume private Makima visits. Noise owns its part without receiving Mau's blame or a romantic reward. Body still in recovery; prototype status unchanged.
 
 *When: Noise asks whether it may show them the unfinished work, Mau almost says they can look after it is safer.*
 
@@ -187,9 +187,11 @@ Mau knows the effort. He has been making it in the bed next to Yuka's every nigh
 
 Mau looks at him.
 
-“I haven't gone. I haven't contacted her.” ᴹ
+“I told her she could ask to visit again. With company. Not start the work again.” ᴹ
 
-“I know. I'm asking what happens when you want to.” ᴿ
+Rimuru nods. He was there. So was Yuka, who has not become comfortable with the offer merely because they all heard it being made.
+
+“I'm asking what happens when you want more than the visit,” he says. ᴿ
 
 Mau looks at Yuka.
 

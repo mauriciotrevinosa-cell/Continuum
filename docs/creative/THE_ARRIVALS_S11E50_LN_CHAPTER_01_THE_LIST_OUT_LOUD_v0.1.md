@@ -31,6 +31,12 @@ Not for the next one.
 
 *What else have you been doing without us?* ᶜ
 
+He looks toward Rimuru before answering.
+
+*I could see effort in the exercises you told us you were practising,* Ciel says. *That didn't tell me you had lifted the boundary we agreed on. You and Noise weren't sharing the working record. Today I could compare more than the effort.* ᶜ
+
+He had counted on that difference: ordinary practice to explain the strain, private work to keep the reason out of the answer. She had not stopped paying attention. He had made use of what she was willing to trust him to say.
+
 * * *
 
 He could answer with the cup.

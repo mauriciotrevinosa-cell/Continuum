@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S12 v0.1 — VOLUME COMPLETE
 **Volume:** 72
 **Season:** 12
-**Coverage:** S12E01–S12E06 (complete recovery/listening arc; season continues)
+**Coverage:** S12E01–S12E07 (complete; season continues)
 **Volume title:** **The Parts He Leaves Out**
-**Chapter files:** 12
+**Chapter files:** 16
 
 There is no new test waiting behind the clinic door. There are repairs to make, the ordinary distance between a bed and a chair, and people who want to hear what Mau has been making small enough to carry alone. Yuka hears the truth of the home he thought he had lost; together, they find their way back to the room they still want to share.
 
@@ -23,7 +23,11 @@ There is no new test waiting behind the clinic door. There are repairs to make, 
 | 6 | S12E03 | What He Meant to Give Her | `THE_ARRIVALS_S12E03_LN_CHAPTER_02_WHAT_HE_MEANT_TO_GIVE_HER_v0.1.md` |
 | 7 | S12E04 | When She Comes Back | `THE_ARRIVALS_S12E04_LN_CHAPTER_01_WHEN_SHE_COMES_BACK_v0.1.md` |
 | 8 | S12E04 | Their Side of the Door | `THE_ARRIVALS_S12E04_LN_CHAPTER_02_THEIR_SIDE_OF_THE_DOOR_v0.1.md` |
-| 9 | S12E05 | While the Answer Can Change | `THE_ARRIVALS_S12E05_LN_CHAPTER_01_WHILE_THE_ANSWER_CAN_CHANGE_v0.1.md` |
-| 10 | S12E05 | The Afternoon She Keeps | `THE_ARRIVALS_S12E05_LN_CHAPTER_02_THE_AFTERNOON_SHE_KEEPS_v0.1.md` |
-| 11 | S12E06 | The Things in the Drawer | `THE_ARRIVALS_S12E06_LN_CHAPTER_01_THE_THINGS_IN_THE_DRAWER_v0.1.md` |
-| 12 | S12E06 | What He Wants After Breakfast | `THE_ARRIVALS_S12E06_LN_CHAPTER_02_WHAT_HE_WANTS_AFTER_BREAKFAST_v0.1.md` |
+| 9 | S12E04 | The Person at the Outer Post | `THE_ARRIVALS_S12E04_LN_CHAPTER_03_THE_PERSON_AT_THE_OUTER_POST_v0.1.md` |
+| 10 | S12E04 | The One She Wanted Alive | `THE_ARRIVALS_S12E04_LN_CHAPTER_04_THE_ONE_SHE_WANTED_ALIVE_v0.1.md` |
+| 11 | S12E04 | What They Don't Have to Forgive | `THE_ARRIVALS_S12E04_LN_CHAPTER_05_WHAT_THEY_DONT_HAVE_TO_FORGIVE_v0.1.md` |
+| 12 | S12E05 | While the Answer Can Change | `THE_ARRIVALS_S12E05_LN_CHAPTER_01_WHILE_THE_ANSWER_CAN_CHANGE_v0.1.md` |
+| 13 | S12E05 | The Afternoon She Keeps | `THE_ARRIVALS_S12E05_LN_CHAPTER_02_THE_AFTERNOON_SHE_KEEPS_v0.1.md` |
+| 14 | S12E06 | The Things in the Drawer | `THE_ARRIVALS_S12E06_LN_CHAPTER_01_THE_THINGS_IN_THE_DRAWER_v0.1.md` |
+| 15 | S12E06 | What He Wants After Breakfast | `THE_ARRIVALS_S12E06_LN_CHAPTER_02_WHAT_HE_WANTS_AFTER_BREAKFAST_v0.1.md` |
+| 16 | S12E07 | A Visit, As Agreed | `THE_ARRIVALS_S12E07_LN_CHAPTER_01_A_VISIT_AS_AGREED_v0.1.md` |

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 72
-## Chapter 12 — What He Wants After Breakfast
+## Chapter 15 — What He Wants After Breakfast
 
 **Status:** LN PRODUCTION DRAFT — S12 v0.1
 **Volume:** 72
-**Reading order:** 12
+**Reading order:** 15
 **Source episode:** S12E06
 **Continuity state:** B+226 morning. The acute return/listening arc closes in ordinary married life, with rehabilitation and trust work continuing. Mau recognises his home on waking, reports pain instead of hiding it, and asks for company through a brief old feeding response. Yuka's anger over secrecy has eased through truth and changed behaviour; she still needs the agreements kept. He believes she wants him in their life and names what he wants himself. Ori/Frieren visit by invitation; prior paper custody and parent roles remain. No new powers, full medical clearance, conception or enemy event. Volume 72 complete; S12 continues beyond this arc.
 

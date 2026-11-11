@@ -75,31 +75,45 @@ He gets her free and tosses the shirt over her shoulder. It misses the chair. Sh
 
 “You can touch me,” she tells him. ʸ
 
-His hand goes to her bare waist. It is so warm there that she leans into it on instinct. He kisses the side of her neck, once, and feels her smile before he does it again. The second time she puts a hand on the back of his head to keep him there. He makes a sound like he's laughing and has forgotten how to finish.
+His hand goes to her bare waist. He kisses the side of her neck, and she puts her hand behind his head when he starts to move away. That gets her a second kiss in the same place, slower, his mouth open against her skin. By the time he finds the clasp of her bra, she can feel how hard he is through his shorts.
 
-“Come up here a minute,” she says. ʸ
+The clasp takes him long enough that she starts to smile. When it gives, he slides the straps down her arms and kisses between her breasts. She gets a good look at the top of his head before he takes one nipple into his mouth. Her fingers close in his hair. He glances up when she does it, and the sight of him looking at her like that makes her pull him closer.
 
-He does. They bump noses. She tells him it was his fault, with enough conviction to make him laugh right against her mouth. She kisses him until he forgets to laugh. He takes her hand and kisses the inside of her wrist, right where he can feel her pulse going fast. He's going to remember that one. She can tell by the look he gives her when he lifts his head.
+She wants to touch him too. Her hand finds the waistband of his shorts. He lifts his hips for her and she gets the cloth as far as one knee before she discovers his heel is standing on it.
 
-When they shift farther onto the bed, she gets her knee caught in the blanket. Mau tries to untangle it with the hand he's leaning on and they end up half sideways across the mattress. She has to put her face against his chest to keep the laugh down. She can feel him trying to do the same thing.
+“You're making this difficult,” she says. ʸ
 
-“I'm trying to be good at this,” he says. ᴹ
+“I thought I was helping.” ᴹ
 
-“You're doing a lot with one hand.” ʸ
+He gets his foot out. She laughs while she pulls the shorts the rest of the way off, then looks up and forgets what she was laughing about. He's naked and hard in front of her, his cock resting against his stomach. She wraps her hand around him. He takes a breath that starts out fine and catches halfway in when she strokes him. She does it again just to see his eyes close.
 
-He looks at where the other one has ended up. She sees him blush. She puts her hand over his when he starts to move it and feels him relax a little under her palm.
+“Like that?” she asks. ʸ
 
-“Stay there,” she says. ʸ
+“Very much like that.” ᴹ
 
-He does. Yuka tips her head back. The sheet has gone cool under the heel of her foot and she draws her knee up until she can feel the warmth of his leg again. When she says *slower*, he looks at her and does exactly that. She can feel the wait all the way down to where her toes are curled against the sheet. She wants to see what she does to him too. She kisses his jaw and hears his breath catch again, just as it did when she sat on his lap.
+She grins. He opens his eyes in time to see it, and that's when he reaches for her underwear. His knuckles brush the inside of her thigh as he slides it down. She has to get her own heel out of the way this time. Then he puts a hand between her legs and all she can think about is how carefully he's touching her.
 
-When they finally make love, the first moment takes them both by surprise. She'd thought she might be too nervous to move at all. Instead she moves towards him before she's quite decided to, and the little room gives her back the sound she makes. Mau goes still.
+“A little higher,” she says. ʸ
+
+She shows him with her hand over his. His thumb brushes her clit and her hips lift before she can help it. He does it again, watching her face. She lets her head fall back and spreads her legs a little wider. She's wet enough that his fingers slip when she tries to guide them, and the noise he makes when he feels it is almost enough to make her forget where she was putting his hand.
+
+He kisses her again. They bump noses.
+
+“That was your fault,” she says. ʸ
+
+“I'm trying to be good at this.” ᴹ
+
+“You were doing fine before you tried to think.” ʸ
+
+That gets him laughing against her mouth. She likes how much easier it is to ask him for something while he's laughing. She puts her hand on his shoulder and asks him to lie back. He eases himself down and she climbs over him, one knee on either side of his hips. He rests his hands on her thighs and looks up at her. She takes a second just to see him there. All evening she'd been finding excuses to keep hold of his hand. Now she can feel the whole length of him under her, and the only thing she wants to know is how close they can get.
+
+The first time she tries to take him inside, he slips sideways. Yuka has to put her forehead against his chest for a second. He's trying so hard to lie still for her that it makes her laugh, which makes his stomach move under her, which gets both of them laughing until she has to start again. She reaches down, guides the head of his cock against her, and lowers herself slowly. There is more of him than she expected. She feels herself stretch and lets out a sharp sound, loud enough that the room gives it back to her. Mau goes still.
 
 “Are you okay?” ᴹ
 
 “Yes. Give me a second.” ʸ
 
-She catches her breath against his shoulder. One of his hands is open on the sheet beside her. She slides her fingers between his and feels them close.
+She breathes through the tightness until she can tell what it feels like to have him inside her. One of his hands is open on the sheet beside them. She slides her fingers between his and feels them close.
 
 “I'm right here,” he says. ᴹ
 
@@ -107,7 +121,17 @@ She looks up. There is a serious little line between his brows. She kisses it an
 
 “I know. Come closer.” ʸ
 
-When they move again she keeps her eyes on him. They're out of step at first. She keeps hold of his hand and feels the moment they get it right, when he stops looking down to see where he's supposed to be and looks straight at her. A little later he says her name in a voice she's never heard him use. She forgets what she was going to tell him. She holds on tight enough that she feels him shiver when he finally lets his head rest against hers. Her breath comes back in pieces. She runs her hand down his back and waits with him while it does.
+She lowers herself a little farther. He stays still until she rocks her hips, and then he lifts to meet her too soon and she has to catch herself with both hands. The second time they get it right. She feels the whole length of him slide into her and has to close her eyes for a second. When she opens them he's looking straight at her.
+
+“Do that again,” she tells him. ʸ
+
+He does it slowly enough for her to feel the difference. She finds a way to roll her hips that brings him deep and puts pressure just where she wants it. After a few strokes, he puts his thumb back where she'd shown him. It takes him a moment to keep the same rhythm while she moves, and then he gets it and her legs start to shake. She grabs his wrist and holds him there.
+
+She comes with her face against his neck, saying his name so close to his ear that he hears the way her voice breaks. She can feel herself tighten around him. He groans and holds her hips still for a breath, and she lifts her head. His face is flushed and his eyes are squeezed shut.
+
+“Yuka.” ᴹ
+
+She knows what he's asking. She kisses him and tells him to stay right there. He moves under her once more and she feels him come inside her, his hands tight on her hips until he can breathe again. She stays over him with her forehead against his, warm and trembling, long enough that his grip loosens and turns into an ordinary hand at her waist. Then she gets off him carefully and lies close enough to feel his chest still going too fast. She puts her hand there and waits with him until both of them can laugh about how hard it is to get a whole breath.
 
 “That was both of us, right?” he asks eventually. ᴹ
 
@@ -121,7 +145,7 @@ It's halfway onto the floor. She watches it slip the rest of the way off while h
 
 * * *
 
-Later, after they've managed to get the blanket back between them, she takes up most of his half of the bed.
+Later, after they've managed to get the blanket back over them, she takes up most of his half of the bed.
 
 He moves his hand under the cover to see if there is any more of her he can touch. There isn't much. She has a leg over his and her cheek on his chest. When he puts his hand against the back of her head, she lifts it just enough to kiss him once more.
 

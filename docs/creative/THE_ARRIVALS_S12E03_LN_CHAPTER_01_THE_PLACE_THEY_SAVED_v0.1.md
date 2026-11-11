@@ -161,6 +161,18 @@ He eats the first mouthful slowly.
 
 The room keeps talking.
 
+Milim comes by with her plate and sits across from him. She spends the first few minutes telling Ori how Chloe won yesterday's game by hiding the last piece in plain sight. Mau listens until he can figure out which game it was. Then he realises he knows exactly which move she means. Chloe got him with it last time too.
+
+“I like hearing about yesterday,” he says. ᴹ
+
+Milim looks up. She'd been holding a bite in front of her mouth while she talked.
+
+“I can tell you what happened this morning too. It takes longer because I was right and Frieren wouldn't say so.” ᴹⁱˡ
+
+“I said you could check the answer yourself,” Frieren says. ᶠ
+
+Mau lowers his spoon so he can laugh without spilling anything. Milim starts from the beginning.
+
 * * *
 
 Beru has taken up a position behind his chair.

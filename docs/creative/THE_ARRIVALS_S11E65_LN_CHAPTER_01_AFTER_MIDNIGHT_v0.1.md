@@ -147,6 +147,16 @@ Yuka looks at Frieren over the top of Ori's head.
 
 Frieren looks back. She doesn't say anything. She just reaches up and puts one hand on the edge of the chair, near Yuka's, where Yuka can feel it.
 
+Milim comes back across the yard with two cups. Yuka has seen her make that walk twice since midnight, once with fresh water for Jin-Woo and once to find out whether anyone has learned how to get him through the frame. This time she comes straight to the chair.
+
+“Can you take it without moving her?” Milim asks. ᴹⁱˡ
+
+Yuka gets her free hand under the cup. Her shoulder aches as soon as she lifts it. She hadn't realised how hard she'd been holding herself still.
+
+“I'll watch the numbers,” Milim says. “You can look down for a while.” ᴹⁱˡ
+
+Yuka looks at Ori's sleeping face while she drinks. By the time she's finished, Milim has set the other cup on the ground beside Frieren and taken up a place where she can see the frame.
+
 * * *
 
 At the frame, Jin-Woo straightens.

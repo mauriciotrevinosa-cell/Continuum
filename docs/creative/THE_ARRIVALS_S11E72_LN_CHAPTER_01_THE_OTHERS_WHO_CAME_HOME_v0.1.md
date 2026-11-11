@@ -187,7 +187,21 @@ Frieren reaches across the table. Ori puts the piece of bread down and takes her
 
 Fern moves her chair closer to Ori's, near enough that their knees touch beneath the table.
 
-When Umaru comes to ask whether Ori wants company, she brings Rem and two places' worth of food with her. She sees the three of them holding the table together and doesn't announce anything.
+Milim stops beside them with the Fort key looped around one finger.
+
+“I told Chloe I'd open up so she could get the game you left there,” she tells Ori. “She wants to know if she should bring it here.” ᴹⁱˡ
+
+Ori looks at the clinic door again.
+
+“I don't think I can play.” ᴼ
+
+“I'll tell her. Do you want her to come anyway?” ᴹⁱˡ
+
+Ori nods.
+
+Milim puts the key down long enough to tear herself a piece from the bread. Ori tears one off too, and this time she eats it. Milim waits until she's swallowed to ask if she can save the chair across from her.
+
+When Umaru comes to ask whether Ori wants company, she brings Rem and two places' worth of food with her. She sees Ori's hand resting on the back of the chair she's keeping for Chloe and doesn't announce anything.
 
 She asks where to sit.
 

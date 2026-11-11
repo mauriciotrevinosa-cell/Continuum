@@ -37,7 +37,7 @@ Marin claps her hands.
 
 * * *
 
-Ori and Chloe have their own place near the end, with Frieren and Himmel working beside them.
+Ori, Chloe and Milim have their own place near the end, with Frieren and Himmel working beside them.
 
 It was Ori who asked whether they could stand there. Frieren had said yes before Himmel could ask if she'd like his help, and he has spent the minutes since trying not to look too happy about being handed a bowl.
 
@@ -66,6 +66,18 @@ She looks at the dough attached to her fingers. Then at Ori.
 Ori puts the cup down immediately.
 
 Himmel brings the flour closer without making a speech about helping.
+
+Milim holds the bowl still while Chloe dusts her fingers. Later, when Wakana shows her where to set the pan, she notices Ori counting the seconds out loud each time they put a piece in. The first one tears when they lift it.
+
+“Leave this one another breath,” Milim says. ᴹⁱˡ
+
+Ori gets to the end of her count and waits. Chloe slides the turner underneath. This time the piece comes up whole.
+
+“You can have that one,” Chloe says. ᶜʰ
+
+Milim looks over at Frieren and Himmel's plates, then slides it onto the clean one between the three of them.
+
+“Save it. We can taste the one we broke.” ᴹⁱˡ
 
 * * *
 
@@ -273,7 +285,7 @@ He tries a bite before answering.
 
 She loves him for taking the question seriously enough to check.
 
-Ori and Chloe divide their best piece and put the halves on different plates. Frieren receives one. Mau receives the other.
+Milim brings the piece they saved. Ori and Chloe divide it and put the halves on different plates. Frieren receives one. Mau receives the other.
 
 “You have to say what you think,” Ori tells him. ᴼ
 
@@ -281,11 +293,15 @@ He takes a bite.
 
 The edge is thick. One side has more filling. It is warm enough to make him slow down before swallowing.
 
-He looks at the two waiting faces.
+He looks at the three waiting faces.
 
 “I'd have another.” ᴹ
 
 Ori's shoulders lift with pleasure.
+
+“You have to come help make the next one,” Milim tells him. “You can count the seconds. Ori keeps skipping six when she gets excited.” ᴹⁱˡ
+
+“That's why we needed an extra breath,” Ori says, as if this explains everything. ᴼ
 
 Chloe points at the remaining plate.
 

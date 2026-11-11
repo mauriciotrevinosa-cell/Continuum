@@ -115,6 +115,22 @@ Ori considers this.
 
 Chloe nods with immediate conviction.
 
+Milim has been winding the spare line around her hand. She stops.
+
+“How many in a team?” ᴹⁱˡ
+
+Marin opens her mouth, then looks at Ori and Chloe. Chloe moves her elbow to make room on the bench.
+
+“Three, if you come with us,” she says. ᶜʰ
+
+“Can I do the part with the fire?” ᴹⁱˡ
+
+“We haven't picked the food,” Ori says. ᴼ
+
+Milim sits between them and puts the coil down in her lap.
+
+“Good. Pick one with fire.” ᴹⁱˡ
+
 Mau looks down at his end of the line. His hand has been holding it too tightly. The last few moments of the meeting are still running somewhere behind the yard: a wall crumbling, the woman explaining why she had thought there would be space for her after Yuka was gone.
 
 “Papa?” Ori says. ᴼ

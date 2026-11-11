@@ -1,6 +1,6 @@
 # S12 — Estado real de producción
 
-**Inicio:** continuación directa de V71#20. **Último producido:** V73#3, B+237. Veinte capítulos S12E01–E08, con V72 completo y V73 abierto. **Arco agudo de regreso y escucha cerrado en V72#16/B226.** La conversación con Shoko y Yuka se inserta en V72#14/B224. Las visitas de Makima quedan en V72#9–11 y #17. [Cierre](S12_RECOVERY_ARC_CLOSURE_DIRECTION_AND_STATE_2026-11-09.md) · [Visitas Makima](S12_MAKIMA_RECOVERY_VISITS_CREATOR_DIRECTION_AND_EXECUTION_2026-11-09.md).
+**Inicio:** continuación directa de V71#20. **Último producido:** V73#9, B+243. Veintiséis capítulos S12E01–E11, con V72 completo y V73 abierto. **Arco agudo de regreso y escucha cerrado en V72#16/B226.** La conversación con Shoko y Yuka queda en V72#14/B224. Las visitas de recuperación de Makima quedan en V72#9–11 y #17. La primera conversación de trabajo posterior se acuerda y ocurre en V73#8–9. [Cierre](S12_RECOVERY_ARC_CLOSURE_DIRECTION_AND_STATE_2026-11-09.md) · [Visitas Makima](S12_MAKIMA_RECOVERY_VISITS_CREATOR_DIRECTION_AND_EXECUTION_2026-11-09.md).
 
 ## Escenas realmente escritas
 
@@ -26,6 +26,12 @@
 | V73#1 | S12E08 CH01 | B229–236 | Mau prepara cita por segundo aniversario de la mano. Mai arregla mesa y vela, Rem y Momo Ayase cocinan con Mau, Maki/Yuta entretienen a Yuka y Ori traza ruta con Kaisel. Mau sigue rehab. Shoko permite paseo breve y sentado. En una revisión conjunta previa, DIO ejecuta con consentimiento el aislamiento de construcciones adquiridas de Mau para una posible herencia, sin afectar la de Yuka. |
 | V73#2 | S12E08 CH02 | B236 tarde-noche | Vuelo corto y vuelta lenta para ver sus ventanas. Cena en terraza, Yuka recuerda al oír Happy anniversary. Mau afirma que siguió amándola y queriendo volver con ella durante el Trial. Hablan de volver a la isla y del pájaro que se llevó su fruta. |
 | V73#3 | S12E08 CH03 | B236 noche–B237 desayuno | Mau carga a Yuka por gusto con apoyo conocido de Authority. Ambos eligen su primera vez y acuerdan intentar tener un hijo. Resultado abierto. Despiertan juntos, Ori llama y el desayuno paga las ayudas de la familia y la vuelta lenta. |
+| V73#4 | S12E09 CH01 | B237 tarde | Mau participa en el juego de botones del Fort y prepara el premio con Rem, Umaru, Ori, Chloe y Milim. Milim gana la tercera ronda. Yuka se suma al final. |
+| V73#5 | S12E09 CH02 | B238 | Anko envía a Hinata una invitación a desayunar por correspondencia ya existente. Habla con Ko y Nazuna y trasplanta con Mau una planta de esta vida. Hacen sus propios planes para volver a verse. Fecha de visita de Hinata abierta. |
+| V73#6 | S12E10 CH01 | B239 | Shuna trabaja en su cuarto del pueblo y muestra su tejido. Shion y Yuka retoman su rivalidad del festival con práctica pactada de madera, sin poderes. Las tres pasan un rato juntas después. |
+| V73#7 | S12E10 CH02 | B240 | Ramiris y Beretta retoman el reto de S8E51 CH02 con Milim y Mau. El modelo de madera revela el problema de abrir un paso de salida sin abrir otro de entrada. Mau ofrece llevar un dibujo. El laberinto de Tempest sigue allá y el prototipo aún no se construye a escala real. |
+| V73#8 | S12E11 CH01 | B241 | Mau explica a Yuka y la casa por qué quiere ayudar a Makima, antes de invitarla. Yuka pregunta por el riesgo de que Makima cambie solo para complacerlo. Umaru mantiene su enojo y su tarde acordada con Ori. Rimuru acepta acompañar una reunión. |
+| V73#9 | S12E11 CH02 | B243 | Reunión en mini Inn bajo condiciones renovadas, con Rimuru y Maki cerca. Makima plantea ofrecer a una persona del sitio de retención una conversación con testigo ajeno. Esa persona puede elegir si participa y a quién pide. Mau cuenta a Yuka lo hablado. |
 
 ## Estado al checkpoint
 
@@ -36,7 +42,7 @@
 - **Ciel/Noise/DIO:** canal restablecido y compañía con alcance. Registro médico no permiso universal para proyectar archivo. Noise habló de su deseo propio con autorización; no arma ni relación romántica como premio al sufrimiento. Analyze sigue permanente, construcciones nuevas no reanudadas ni ocultas durante atención.
 - **Legión:** 6.617, dos capturas Ultimate almacenadas sin nombre/forma. Ninguna nueva adquisición de poder. Dos Beru distintos, Jin-Woo mantiene100, familia viva a salvo. Rescatistas tuvieron nueve días locales y también reciben atención.
 - **Ori:** papel original YA entregado/abierto/escrito y en su custodia, V71#20; no volver a ubicar en cajón de M ni repetir entrega. Eligió Dad antes de carta. Frieren Mum, Yuka esposa/amiga. Papa previo no corregido retroactivamente.
-- **Makima:** visitas #10/B223 y #17/B228 con admisión avisada/acomp. Admite aporte causal; mano/compasión no perdonan ataque Y ni declaran inocencia. Casa expresa desacuerdo y mantiene voz. Próxima reunión de trabajo NO confirmada. Cuarto de MY fuera de visitas; Ciel/DIO/guest archive no revelados. [Detalle](S12_MAKIMA_RECOVERY_VISITS_CREATOR_DIRECTION_AND_EXECUTION_2026-11-09.md).
+- **Makima:** visitas de recuperación V72#10/B223 y V72#17/B228. Admite aporte causal y la casa mantiene voz. V73#9 muestra primera conversación de trabajo posterior, avisada y acompañada. Reze conserva el acuerdo de liberación de S11. El contacto con la persona del sitio, el brazalete y la petición de sombra quedan pendientes. Cuarto de MY, Ciel, DIO y archivo fuera de las visitas. [Detalle](S12_MAKIMA_RECOVERY_VISITS_CREATOR_DIRECTION_AND_EXECUTION_2026-11-09.md).
 - **Rulers/Arquitecto:** Arquitecto vivo cautivo, material de instancia en manos de Rulers. No nueva propiedad de cuerpo/Noise/Black Heart, no trial en plena rehabilitación. No resolver enemistades/Makima fuera de escena mientras casa cuida M.
 
 ## Qué quedó resuelto al cerrar V72
@@ -49,8 +55,10 @@ La escucha con Maki/Yuta/Mai/Frieren y apoyo previo Gojo/Rimuru/Shoko/Ciel/DIO o
 
 Marcha apoyada, rehabilitación, estado nutricional, seguimiento de cuerpo rehecho y capacidad de esfuerzo; sin autorización combate, vuelo intenso ni experimentación. Recuerdos y respuesta al despertar/comer pueden regresar, ahora se cuentan y se pide ayuda. La confianza necesita los mismos actos cuando se sienta fuerte; nadie promete ausencia de discusiones ni pensamiento doloroso. Viejas secuelas/cicatrices mayores siguen, nuevas lesiones no todas declaradas permanentes.
 
-El segundo aniversario de la mano se celebra tarde en B236. La cita se dedica a la relación y el cumpleaños queda disponible para otro momento. El intento de tener un hijo es mutuo, con resultado abierto. El archivo completo y el acceso al cuarto vacío siguen siendo decisiones futuras. Seguridad Makima, Arquitecto-Rulers y presiones exteriores siguen abiertos. S12 continúa después de V73#3.
+El segundo aniversario de la mano se celebra tarde en B236. La cita se dedica a la relación y el cumpleaños queda disponible para otro momento. El intento de tener un hijo es mutuo, con resultado abierto. El archivo completo y el acceso al cuarto vacío siguen siendo decisiones futuras. Seguridad Makima, Arquitecto-Rulers y presiones exteriores siguen abiertos. S12 continúa después de V73#9.
 
 ## Guía inmediata
 
 Priorizar petición propia de Mau y compañía ordinaria. Si ampliamos grupo, respetar quién oyó qué; los no presentes no saben automáticamente cada detalle traumático. No recontar cada herida como expediente para llenar capítulos. Entender daños no es juzgar a Yuka por la trampa ni eximir secreto. Emoción tiene tiempo, humor regresa sin hacer chiste de personas que sufren.
+
+La escena explícita del aniversario es la única de S12 por ahora. Consultar a Mauri antes de sumar otra escena explícita de cualquier pareja. La convivencia y los vínculos románticos de la casa siguen teniendo espacio propio.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 72
-## Chapter 16 — A Visit, As Agreed
+## Chapter 17 — A Visit, As Agreed
 
 **Status:** LN PRODUCTION DRAFT — S12 v0.1
 **Volume:** 72
-**Reading order:** 16
+**Reading order:** 17
 **Source episode:** S12E07
 **Continuity state:** B+228, after the acute recovery arc. Makima's second visit is requested and answered in advance, with renewed visitor terms and Rimuru/Maki accompanying in a mini Inn visitor room inside the established protected area. She receives no access to the couple's bedroom or private archive. Shoko permits the short journey using transport plus brief supported walking; Mau is still in rehabilitation. Yuka chooses not to attend and knows the plan. This is a health visit, not a resumed private research meeting. Makima keeps the limit while testing what kindness means; neither reform nor complete insincerity is certified. Mau reports the encounter to Yuka on returning. No new ability, enemy attack, conception or lost unit.
 

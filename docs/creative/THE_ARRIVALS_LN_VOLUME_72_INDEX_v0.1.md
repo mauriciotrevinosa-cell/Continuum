@@ -5,11 +5,11 @@
 **Season:** 12
 **Coverage:** S12E01–S12E07 (complete; season continues)
 **Volume title:** **The Parts He Leaves Out**
-**Chapter files:** 16
+**Chapter files:** 17
 
 There is no new test waiting behind the clinic door. There are repairs to make, the ordinary distance between a bed and a chair, and people who want to hear what Mau has been making small enough to carry alone. Yuka hears the truth of the home he thought he had lost; together, they find their way back to the room they still want to share.
 
-[Previous volume](THE_ARRIVALS_LN_VOLUME_71_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md)
+[Previous volume](THE_ARRIVALS_LN_VOLUME_71_INDEX_v0.1.md) · [Next volume](THE_ARRIVALS_LN_VOLUME_73_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md)
 
 ## Reading order
 
@@ -28,6 +28,7 @@ There is no new test waiting behind the clinic door. There are repairs to make, 
 | 11 | S12E04 | What They Don't Have to Forgive | `THE_ARRIVALS_S12E04_LN_CHAPTER_05_WHAT_THEY_DONT_HAVE_TO_FORGIVE_v0.1.md` |
 | 12 | S12E05 | While the Answer Can Change | `THE_ARRIVALS_S12E05_LN_CHAPTER_01_WHILE_THE_ANSWER_CAN_CHANGE_v0.1.md` |
 | 13 | S12E05 | The Afternoon She Keeps | `THE_ARRIVALS_S12E05_LN_CHAPTER_02_THE_AFTERNOON_SHE_KEEPS_v0.1.md` |
-| 14 | S12E06 | The Things in the Drawer | `THE_ARRIVALS_S12E06_LN_CHAPTER_01_THE_THINGS_IN_THE_DRAWER_v0.1.md` |
-| 15 | S12E06 | What He Wants After Breakfast | `THE_ARRIVALS_S12E06_LN_CHAPTER_02_WHAT_HE_WANTS_AFTER_BREAKFAST_v0.1.md` |
-| 16 | S12E07 | A Visit, As Agreed | `THE_ARRIVALS_S12E07_LN_CHAPTER_01_A_VISIT_AS_AGREED_v0.1.md` |
+| 14 | S12E05 | When Nothing Came | `THE_ARRIVALS_S12E05_LN_CHAPTER_03_WHEN_NOTHING_CAME_v0.1.md` |
+| 15 | S12E06 | The Things in the Drawer | `THE_ARRIVALS_S12E06_LN_CHAPTER_01_THE_THINGS_IN_THE_DRAWER_v0.1.md` |
+| 16 | S12E06 | What He Wants After Breakfast | `THE_ARRIVALS_S12E06_LN_CHAPTER_02_WHAT_HE_WANTS_AFTER_BREAKFAST_v0.1.md` |
+| 17 | S12E07 | A Visit, As Agreed | `THE_ARRIVALS_S12E07_LN_CHAPTER_01_A_VISIT_AS_AGREED_v0.1.md` |

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 72
-## Chapter 14 — The Things in the Drawer
+## Chapter 15 — The Things in the Drawer
 
 **Status:** LN PRODUCTION DRAFT — S12 v0.1
 **Volume:** 72
-**Reading order:** 14
+**Reading order:** 15
 **Source episode:** S12E06
 **Continuity state:** B+225 afternoon and night. Shoko clears a supported transfer to the couple's existing room with continued checks and rehabilitation, not unrestricted activity. Mau uses assistance for the distance he cannot walk; belongings remain his and his inventory is retained. Rimuru and Shizue remain in the shared apartment arrangement. The miniature house/tree is the ordinary shadow wedding gift, not a mechanism or new present. Future family desire reaffirmed without conception, fertility guarantee or scheduling. They share their own bed within current positioning limits; bodily and emotional healing continue.
 

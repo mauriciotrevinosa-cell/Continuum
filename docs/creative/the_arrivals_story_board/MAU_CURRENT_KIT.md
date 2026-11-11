@@ -202,6 +202,12 @@ Makima ve estado físico/arm/andar, no recibe plano corporal, cuarto huéspedes,
 
 **Ciel no estuvo distraída con DIO ni apagada:** modelos/registro no compartidos y pruebas pequeñas de rutas conocidas permitieron ocultación parcial B197–209. Huellas físicas sí observables. Señales de combate vuelven alcance identificable y Ciel pregunta; detalles en [nota de ocultación parcial](S11_CIEL_PARTIAL_CONCEALMENT_CLARIFICATION_2026-11-09.md). Sin nuevo cloak, reservas masivas invisibles o cámara Mini Ciel que cambia de función a conveniencia.
 
+## Salidas de recuperación y ancla de Makima — V73#16–20
+
+Mau dirige dos clears pequeños con sombras propias. En #16 entra acompañado solo hasta el turno del espacio ya inspeccionado. El crédito personal de tienda vuelve a subir de forma incremental después del gasto del Trial. No fijar un total nuevo. Fern contabiliza el mineral por separado. Sigue en rehabilitación y estas salidas no fijan rendimiento de combate.
+
+V73#20/B255. Un soldado ordinario de los 6.617 vínculos existentes queda como ancla de emergencia en la sombra de Makima con permiso revocable. Aviso si ella pide ayuda o si el soldado detecta peligro inmediato. Sin informes rutinarios. El aviso no garantiza Exchange si las condiciones lo bloquean. Rimuru y Maki presencian la colocación y se prueba la llamada y la retirada. Yuka y la casa conocen las condiciones antes de que ocurra. El brazalete es metal ordinario y queda bajo decisión de Mau. [Producción S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md).
+
 ## Registro histórico de cambios
 
 V72#12–15: no poderes ni unidades nuevos. Revisión PARCIAL de trabajo existente produce decisiones concretas sobre learner (mapa, no ejecución automática), Step (alcance ensayado, no test nuevo) y derivados invitados; resto del backlog no declarado revisado por terminar escena. DobleCT/Bang conservan estado previo. Analyze continuo no se apaga, no una purga de capacidades. Integración riesgosa sigue pendiente de estado médico/revisión, derivados invitados requieren alcance específico. Authority mueve sólo cup familiar en patio B224; inventario usado al guardar pertenencias, no redescubierto. Vuelta a cuarto B225 con ayudas, checks mantienen, no alta; B226 acepta distancia de marcha menor tras dolor reportado. Ring propio seguro por ajuste flojo, no perdido; papel Yuka junto a él, papel Ori con Ori. Grey/blur/dedos/cicatrices mayores conservados, sin pico físico por mejorar ánimo.

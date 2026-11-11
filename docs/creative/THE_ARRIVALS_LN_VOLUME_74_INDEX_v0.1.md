@@ -9,7 +9,7 @@
 
 Fern follows a line on a road notice and finds somebody has left space for a date. At the crossing, Reze hears a name she'd thought she might never hear again.
 
-[Previous volume](THE_ARRIVALS_LN_VOLUME_73_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md)
+[Previous volume](THE_ARRIVALS_LN_VOLUME_73_INDEX_v0.1.md) · [Next volume](THE_ARRIVALS_LN_VOLUME_75_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md)
 
 ## Reading order
 

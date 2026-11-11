@@ -5,7 +5,7 @@
 **Volume:** 75
 **Reading order:** 2
 **Source episode:** S12E27
-**Continuity state:** B+271 night. Mau initiates and Yuka asks to try his existing slime form. He returns to his usual form that night. The shared lift at the window repeats earlier episodes of floating together. The following evening's conversation about the hearing is separate.
+**Continuity state:** B+271 night. Mau and Yuka each take the initiative. Mau buys water from the shop when Yuka wants to stay close. The shared lift at the window repeats earlier episodes of floating together. The following evening's conversation about the hearing is separate.
 
 *When: Mau loses his place a second time, Yuka puts her finger on the line for him.*
 
@@ -97,79 +97,77 @@ He gets his arms around her. She moves against him once, slow and deep like he a
 
 * * *
 
-He gives her the shirt back and goes for the water. She puts one arm through it and gets distracted looking at him before she gets to the other. By the time he comes back with the glass she has the sleeve bunched in her fist.
+Mau slides one foot to the floor. Yuka puts a hand flat against his chest and follows him so closely that he brings the foot back up before either of them says anything.
+
+“I was going to get water,” he says. ᴹ
+
+“I know.” Her lips brush the side of his neck. “I was coming with you.” ʸ
+
+He looks down at her. She's got one leg over both of his. She hasn't so much as looked at the floor.
+
+“Are you planning to walk?” ᴹ
+
+She takes a moment to think about it. Then she settles more comfortably against him.
+
+He buys two bottles of water from the shop and rests the first one against her bare shoulder. She makes a sound and turns her head, and the look she gives him makes him laugh. She takes it anyway, drinks from it and holds it to his mouth before he can open the second one.
+
+“You could've done that from the beginning,” she says. ʸ
+
+“I could've. I wanted you to ask me to stay.” ᴹ
+
+Her fingers go still around the bottle. She looks at him long enough for him to get a little embarrassed about having said it. Then she leans past him to put the water on the table.
+
+“Stay,” she says. ʸ
+
+He moves his hand up her back. She lets him get almost to her mouth before she turns her face aside. The next time he tries, she puts a finger to his lips. There's a smile pulling at the corner of hers and she has to look down for a second to get it under control.
 
 “Can you take a little more?” she asks. ʸ
 
-He's halfway to saying yes when he sees how carefully she's watching him. He sits beside her and takes a drink first, because if he gives her the glass he'll have a reason to look away.
+His answer gets about as far as the back of his throat. She feels it against her fingertip and leaves her hand there until he reaches up and takes it away.
 
 “What did you have in mind?” ᴹ
 
-“I want you closer. I want to find out how close.” ʸ
+“I want you closer.” She looks at his mouth and then right at him. “I want to see how close we can get.” ʸ
 
-He moves his leg against hers. She laughs and puts a hand on his knee.
+He starts to pull her towards him. She catches his hand and puts it down on the bed. Then she does the same with the other one. He can get out of it whenever he wants. She isn't even holding on to the first hand anymore. He still leaves them both right where she put them.
 
-“Do you remember the sleepover when you changed and half the room wanted to put you in their lap?” she asks. ʸ
+“Do you like waiting?” she asks. ʸ
 
-“I remember you were one of them.” ᴹ
+“No.” ᴹ
 
-“I passed you around eventually. I think I deserve some credit for that.” ʸ
+She looks up in surprise. He waits until he can see she's about to move and brushes his mouth against hers just enough to stop her.
 
-She asks if he can show her his hand in that shape. Mau begins to tell her the difference between changing a hand and changing altogether and keeping a hand she can hold. He has got as far as what he'd do with his wrist when she reaches for the glass and takes it out of his.
+“I like watching you decide when I've waited long enough.” ᴹ
 
-“I asked if you wanted to try.” ʸ
+Her laugh comes out against his cheek. When she kisses him for real, he feels her smile give way before she draws back for breath. He goes after her without thinking. She lets him catch up this time. By the time he remembers about his hands, she's taken one of them herself and put it around her.
 
-His mouth stays open long enough for her to get the other sleeve on. She puts the glass on the floor, inside the reach of her foot in case one of them knocks it over.
+They get tangled trying to turn over. Her hair catches under his elbow and she has to say his name twice before he realises it's a request for help. He lifts his arm. She pulls the hair clear and gives him a look he has seen her give the shop when it sends him the wrong size of something.
 
-“I think I do,” he says. “Will you give me your hand?” ᴹ
+“I'm sorry,” he says. “Do I get to try again?” ᴹ
 
-She holds hers out flat. It reminds him of the first time she held it out to show him how cold it was after walking home. That time he'd taken both hands between his and she'd said the left one was fine, then left it with him anyway.
+She gathers her hair over one shoulder and lies back down. “Come here and ask.” ʸ
 
-He changes while she's still watching his fingers. Their weight stays in her palm even after their shape has softened. She lifts her hand a fraction, and a small warm fold follows it. Mau can feel the print of each of her fingertips where she lets them curl.
+He does. He says it into the little space beneath her ear, where he can feel her pulse jump. She puts both hands on him and tells him yes. Then she asks him to say it again a little farther down, because apparently he hasn't asked that part of her yet. He laughs against her skin. She laughs too, until he goes back to what she asked him to do and her hand tightens on his shoulder.
 
-“Can I squeeze?” she asks. ʸ
+When they stop to breathe, she reaches for the water again. Mau takes the bottle out of her hand when she's done and puts it down behind him without looking. It takes him two tries to find the table. Yuka catches him glancing back to make sure he hasn't knocked it over.
 
-“A little.” ᴹ
+“What are you doing?” she asks. ʸ
 
-She tries. He moves into the spaces between her fingers, slowly enough for her to follow him. Her thumb lifts. He could fit himself into the rest of the space in her hand, but he waits until she closes it again. For a while they just look at what her hand does when she can hold it as tightly as she wants.
+“I have an idea too.” ᴹ
 
-She brings him nearer. There is room on the inside of her wrist where the sleeve keeps slipping back. He settles there and feels her pulse before she even knows that's where he's going. She presses her lips together. The shirt slides back farther when she raises her arm, and he can tell by the way she holds it that she's waiting to see where he'll stop.
+She looks at the bottle. “Does it need water?” ʸ
 
-“There?” he asks. ᴹ
+“I think I've dealt with that part.” ᴹ
 
-“A little closer.” ʸ
+He puts her hand on his chest. She can feel the pace of his heart under her palm. He watches her figure out what he's showing her and sees the moment it makes her a little shy again. He wants to kiss her. He waits until she lifts her eyes all the way to his.
 
-He follows her wrist to the place her hand comes up against her chest. She feels him there and gets so quiet he can hear the water move when the glass settles into the rug. When she breathes again he moves with her. She draws the sleeve back with two fingers to see how he's done it. It falls straight over him.
+“Keep looking at me,” he says. ᴹ
 
-“I've lost my husband,” she says. ʸ
-
-“Your husband's very comfortable.” ᴹ
-
-She laughs so hard the sleeve moves again. Mau makes a small hand at the end of it and catches the edge before it can go over him a second time. She takes that hand, too. He gets the size of her fingers wrong trying to make his fit, and she sits there helping him for a moment before they both realise she's trying to teach him how to hold her hand.
-
-“A little unfair that you get to look at me the whole time,” he says. ᴹ
-
-“You can come back and look as long as you want.” ʸ
-
-He changes back beside her. His wrist is in her hand again. She puts her forehead to his and asks whether it felt strange. He tells her that he could feel her heartbeat all the way through him and that, for the first few seconds, he kept expecting her to move. She asks why.
-
-“I thought you'd want to see the next thing.” ᴹ
-
-“I wanted to stay with the first thing.” ʸ
-
-He gets the glass off the floor for her. She drinks most of it before she remembers to offer it back. He finishes it and goes to set it on the table. This time he's the one who comes back slowly, until she lifts her head to see what he's doing.
-
-“I have an idea too,” he says. ᴹ
-
-“Does it need a glass of water?” ʸ
-
-“It needs you to keep your eyes on me for a while.” ᴹ
-
-She'd been about to ask him something else. He can see it leave her. She holds his gaze while he puts her hand back on his chest, right where he'd felt her heartbeat before. She takes a breath and lets him get close enough to feel it. He kisses her there, with her eyes open, and when they pause to breathe she's smiling against his mouth. He wants to see that again. This time he tells her.
+She does. They get so close she has to turn her face to take a breath, then she comes right back and looks at him again. He feels her fingers close against his skin. She whispers his name and this time he knows exactly what she's asking for.
 
 * * *
 
-Later she gets the shirt back on and only does up the two buttons she can reach without looking. He pulls his trousers on and takes her with him to the seat by the window. They refill the glass. There is a little of the evening left in it by the time they sit down.
+Later she gets the shirt back on and only does up the two buttons she can reach without looking. He pulls his trousers on and takes her with him to the seat by the window. He brings the unopened bottle. Yuka has already stretched out both hands for him by the time he turns around with it.
 
 Yuka sits between his legs. She takes his hand and turns his wedding ring once. He started wearing it again a few days ago, and it still moves more easily than it used to.
 

@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 73
-## Chapter 5 — Before She Goes In
+## Chapter 6 — Before She Goes In
 
 **Status:** LN PRODUCTION DRAFT — S12 v0.1
 **Volume:** 73
-**Reading order:** 5
+**Reading order:** 6
 **Source episode:** S12E09
-**Continuity state:** B+238 early morning to afternoon. Hinata remains away after the departure in V70 #5. Anko makes an ordinary invitation by the existing correspondence route, talks with Nazuna and Ko, and spends time with Mau at home. The plant is from this branch. No restoration of the old timeline's plant or shared memories, and no visit confirmed.
+**Continuity state:** B+239 early morning to afternoon. Hinata remains away after the departure in V70 #5. Anko makes an ordinary invitation by the existing correspondence route, talks with Nazuna and Ko, and spends time with Mau at home. The plant is from this branch. No restoration of the old timeline's plant or shared memories, and no visit confirmed.
 
 *When: Anko brings her letter to breakfast, Nazuna asks why it needs three pieces of paper.*
 

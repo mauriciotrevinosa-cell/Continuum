@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 73
-## Chapter 8 — Before He Answers
+## Chapter 9 — Before He Answers
 
 **Status:** LN PRODUCTION DRAFT — S12 v0.1
 **Volume:** 73
-**Reading order:** 8
+**Reading order:** 9
 **Source episode:** S12E11
-**Continuity state:** B+241. Mau brings the possibility of a work conversation with Makima to Yuka and the house before sending the request. The family understands his motive at different speeds. Rimuru agrees to attend with renewed mini Inn visitor terms. Umaru withholds personal welcome. No access to the household, new pact or transfer of a shadow.
+**Continuity state:** B+242. Mau brings the possibility of a work conversation with Makima to Yuka and the house before sending the request. The family understands his motive at different speeds. Rimuru agrees to attend with renewed mini Inn visitor terms. Umaru withholds personal welcome. No access to the household, new pact or transfer of a shadow.
 
 *When: Mau puts the letter in front of Yuka, she sees that he hasn't folded it yet.*
 

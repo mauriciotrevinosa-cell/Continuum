@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 73
-## Chapter 7 — The Door That Answers
+## Chapter 8 — The Door That Answers
 
 **Status:** LN PRODUCTION DRAFT — S12 v0.1
 **Volume:** 73
-**Reading order:** 7
+**Reading order:** 8
 **Source episode:** S12E10
-**Continuity state:** B+240. Ramiris and Beretta continue living in the village while managing their existing Tempest labyrinth responsibilities. They invite Milim and Mau to try an ordinary model for the harder challenge promised in S8E51 CH02. Door and exit tests are paper and wood only. No dungeon established in the village or tactical deployment.
+**Continuity state:** B+241. Ramiris and Beretta continue living in the village while managing their existing Tempest labyrinth responsibilities. They invite Milim and Mau to try an ordinary model for the harder challenge promised in S8E51 CH02. Door and exit tests are paper and wood only. No dungeon established in the village or tactical deployment.
 
 *When: Milim gets to the third wall, she puts her game piece down and knocks.*
 

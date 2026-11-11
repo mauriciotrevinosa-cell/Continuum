@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 73
-## Chapter 4 — The Line in Chalk
+## Chapter 5 — The Line in Chalk
 
 **Status:** LN PRODUCTION DRAFT — S12 v0.1
 **Volume:** 73
-**Reading order:** 4
+**Reading order:** 5
 **Source episode:** S12E09
-**Continuity state:** B+237 afternoon, the day after the anniversary dinner. Mau plays a seated Fort game with Umaru, Rem, Ori, Chloe and Milim, then helps with ordinary supper preparation within his current limits. No new Fort membership, purchases, combat clearance or pregnancy update.
+**Continuity state:** B+238 afternoon, after the Fort sleepover. Mau plays a seated Fort game with Umaru, Rem, Ori, Chloe and Milim, then helps with ordinary supper preparation within his current limits. No new Fort membership, purchases, combat clearance or pregnancy update.
 
 *When: Mau puts down the plate, Umaru asks if he can throw a button.*
 
@@ -13,7 +13,7 @@
 
 “That's the entry requirement.” ᵁ
 
-He's come to bring back a plate Rem lent him yesterday. He washed it himself. He had also expected to be on his feet for less than five minutes, so he's grateful when she takes the plate and puts a cushion on the bench beside her. At the other end of the table, Ori is working out how wide to make a circle in chalk. Chloe turns a jar lid upside down and gives it to her to draw around.
+He's come to bring back a plate Rem lent him for the anniversary dinner. He washed it himself. He had also expected to be on his feet for less than five minutes, so he's grateful when she takes the plate and puts a cushion on the bench beside her. At the other end of the table, Ori is working out how wide to make a circle in chalk. Chloe turns a jar lid upside down and gives it to her to draw around.
 
 “Bigger than that,” Milim says. ᴹⁱˡ
 

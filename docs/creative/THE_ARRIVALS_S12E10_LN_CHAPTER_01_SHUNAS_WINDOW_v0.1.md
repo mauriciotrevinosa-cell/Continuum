@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 73
-## Chapter 6 — Shuna's Window
+## Chapter 7 — Shuna's Window
 
 **Status:** LN PRODUCTION DRAFT — S12 v0.1
 **Volume:** 73
-**Reading order:** 6
+**Reading order:** 7
 **Source episode:** S12E10
-**Continuity state:** B+239. Shion and Shuna are at their established homes in the village. Shuna asks Yuka and Shion for an ordinary favor and reserves her afternoon for her own work. Yuka and Shion resume their festival rivalry through a limited, unpowered practice. No new ability, duty or travel.
+**Continuity state:** B+240. Shion and Shuna are at their established homes in the village. Shuna asks Yuka and Shion for an ordinary favor and reserves her afternoon for her own work. Yuka and Shion resume their festival rivalry through a limited, unpowered practice. No new ability, duty or travel.
 
 *When: Shuna asks for a second pair of hands, Shion brings Yuka and starts counting hers as extra.*
 

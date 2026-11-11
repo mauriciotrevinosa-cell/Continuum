@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 73
-## Chapter 9 — One Thing She Would Choose
+## Chapter 10 — One Thing She Would Choose
 
 **Status:** LN PRODUCTION DRAFT — S12 v0.1
 **Volume:** 73
-**Reading order:** 9
+**Reading order:** 10
 **Source episode:** S12E11
-**Continuity state:** B+243 afternoon and evening. Makima accepts a scheduled work conversation with Mau and Rimuru in the mini Inn visitor room under renewed terms, Maki nearby. Reze's S11 release remains in force. Makima proposes asking one person at the holding site what they want in the presence of a neutral witness; names, access, and timing remain pending. Mau reports to Yuka. No gift, new pact, project, or permission to enter the family home.
+**Continuity state:** B+244 afternoon and evening. Makima accepts a scheduled work conversation with Mau and Rimuru in the mini Inn visitor room under renewed terms, Maki nearby. Reze's S11 release remains in force. Makima proposes asking one person at the holding site what they want in the presence of a neutral witness; names, access, and timing remain pending. Mau reports to Yuka. No gift, new pact, project, or permission to enter the family home.
 
 *When: Makima sees that Mau can get to the chair by himself, she starts to say something and waits until he's sat down.*
 

@@ -15,6 +15,14 @@ Mau lowers the piece of paper he has been holding against his chest. Mai expects
 
 “We missed the day,” he says. “The one when we held hands. I'd like to take her to dinner.” ᴹ
 
+“Does she know?” ᴹᵃ
+
+“She knows we missed it. I don't think she's thinking about it this week.” ᴹ
+
+“I meant does she know you're making dinner.” ᴹᵃ
+
+“I haven't asked her yet. I thought I'd give her an evening she didn't have to get ready first.” ᴹ
+
 She looks back at the list. He has drawn the table after all. It is a rectangle with a dark mark where one of the legs goes.
 
 “That's the little one by the washroom. It rocks,” he says. “I want to take it out to the east terrace.” ᴹ
@@ -35,7 +43,15 @@ They have a few days before Shoko will agree to the outing.
 
 Mau keeps his appointments. He gets far enough along the outside wall to argue that the bench has been moved and then sits down on it anyway. The next day he takes the turn by the stairs with Yuka, puts his hand on the rail, and tells her before his foot begins to drag. She sits on the step with him and finishes telling him something about Mai's window while the feeling comes back.
 
-They also go back to DIO with the question they'd asked before the gate. Yuka brings it up on the way home from one of the checks. She says she's been thinking about the answer and would like to hear how much of it still holds. At the table, with Shoko and Ciel there, DIO goes over the part she offered to help with. She can put a boundary around what was built into Mau so that it would stay his, if they ever had a child. Yuka asks her to say what happens on her side of that boundary. DIO tells her that anything a child could ordinarily inherit from her would still be possible.
+Yuka brings up the question they'd asked DIO before the gate on the way back from one of the checks. It takes her two tries. The first time she says *that thing we wanted to ask*, and Mau thinks she means whether they can have a rail on the inside of the door.
+
+“The other thing,” she says. “The one I asked about too.” ʸ
+
+He looks at her. She can tell the instant he works it out, because he stops walking.
+
+“We could see how much of the answer still holds,” she says. “I'd like to know.” ʸ
+
+They ask to see DIO together. Shoko comes and Ciel stays with them while DIO goes over the help she offered before. The things that were built into Mau can stay his. Anything a child could ordinarily inherit from Yuka would still be possible.
 
 “And we can have you do that now, even if we're still deciding when?” Yuka asks. ʸ
 
@@ -83,13 +99,45 @@ Momo looks at the cutting board.
 
 Rem reaches for a clean pan. She tips some of the sauce into it, shows Mau how much and tells him he gets to do the rest. Momo takes over the cutting board, finishes the vegetables and puts one little heel of bread by his elbow so he can taste the next batch with something to eat it on. He takes a bite and wants another one. That seems like the first sensible answer he's had all afternoon.
 
-Out in the gallery, Yuka comes by looking for him. Maki asks her to hold the other end of a measuring tape. Yuta arrives with a box which turns out to contain photographs and starts asking her where one of them was taken. By the time she has corrected him twice, all three of them are sitting down, and Yuta has taken out a picture she hasn't seen since before the wedding. Maki catches Mau passing the doorway with two covered plates. She looks directly at him and asks Yuka to tell the story from the beginning.
+* * *
 
-Yuka does. Mau can still hear her when he gets to the bottom of the stairs.
+Out in the gallery, Yuta is sitting with a canvas bag in his lap. He brought it to Maki to fix a strap. She's turned it inside out and found that he sewed through the lining the last time he tried it himself.
+
+“I could still use most of the pocket,” he says. ʸᵗ
+
+“You could use the top half. I'm surprised you still have anything you put in there.” ᴹᵃᵏ
+
+Maki sees Yuka coming and draws out the chair between them with her foot.
+
+“Come hold this. He's going to try to explain why it was better this way.” ᴹᵃᵏ
+
+“Is Mau in the kitchen?” Yuka asks. ʸ
+
+“He was. He can find you here.” ᴹᵃᵏ
+
+Yuka sits and takes the bag. Yuta tries to make a case for the half pocket while she digs out the old thread with her thumbnail. After a minute she tells him how many times she watched Mau do something just as bad to the bag they took on their honeymoon. He looks so genuinely pleased to hear it that she gives him all the particulars.
+
+“I thought he put everything in the inventory,” Yuta says. ʸᵗ
+
+“He wanted to look normal. He had the bag on while he said it.” ʸ
+
+“Did he?” ᴹᵃᵏ
+
+“He looked like somebody who'd just learned how to carry a bag.” ʸ
+
+Yuka has to stop laughing long enough to get the thread through. Out in the passage, Mau takes his chance and goes by with both covered plates. Maki sees him as he passes. She turns the bag over and asks Yuka to show Yuta the stitch again.
 
 * * *
 
-Ori has drawn two routes on the back of a sheet Fern was done with. One is very straight. The other has a loop so wide that it goes right through a word on the opposite side.
+Kaisel stretches his neck over the low wall while Mau puts the saddle out. It has been sitting folded long enough to have taken on the shape of the shelf. He lays it open in the sun and sits down on the wall until he can put his weight comfortably on both feet again.
+
+Ori finds him there. She climbs up beside him, holding a piece of paper by the corners.
+
+“Do you want to go out as far as this?” she asks. ᴼ
+
+She has drawn two routes on the back of a sheet Fern was done with. One is very straight. The other has a loop so wide that it goes right through a word on the opposite side.
+
+“Which would you take if you were showing her?” he asks. ᴹ
 
 “This one,” she says, with her finger on the loop. ᴼ
 
@@ -103,7 +151,17 @@ Mau studies the page. There is a mark beside the part where he needs to ask Kais
 
 “Yes. I'm telling you.” ᴼ
 
-He takes her very seriously for the rest of the briefing. At the end she folds up the sheet and puts it in his pocket herself.
+She draws him the approach with one finger while Kaisel bends down far enough to watch. Mau had thought they might go out just to feel the wind again. Ori wants Yuka to see where she lives. He asks Kaisel if he can come in low past the yard on the way back. Kaisel gives his shoulder a nudge gentle enough to leave him on the wall.
+
+“He can,” Ori says. ᴼ
+
+When Mau stands, Kaisel crouches and lets him ease the saddle over his back from the wall. Ori brings the strap round to the right side so Mau can buckle it from where he is. Afterward she folds up the sheet and puts it in his pocket herself.
+
+“Is she going to know about the table?” she asks. ᴼ
+
+“When we come back.” ᴹ
+
+Ori thinks about it. She looks at Kaisel as if she's considering telling him to take a second turn round the tree so Yuka gets both things for longer. Then she pats his neck and goes to find Frieren.
 
 Mai has put the little wedge in place by the time he gets back to the table. There's a glass cover waiting over the candle, open at the top, with a small handle so he can lift it without catching his sleeve. Momo has written the finishing time on the edge of a scrap. Rem has left two pieces of bread under the cloth, including a new one in place of the heel he ate.
 
@@ -113,4 +171,18 @@ Mau looks at the match beside the plate.
 
 “I'd like to do that.” ᴹ
 
-She leaves the match where he can get it. He sets out two glasses, shifts one because he knows which way Yuka is going to turn when she sits down, and goes to ask her if she has plans for dinner.
+She leaves the match where he can get it. He sets out two glasses and shifts one because he knows which way Yuka is going to turn when she sits down.
+
+In the gallery, Yuta has his bag right side out again. Yuka is holding a button she found in the bottom of the pocket. She puts it down and makes room for Mau beside her.
+
+“I've got a question,” he says. ᴹ
+
+“If you need a bag mended, we're taking tomorrow off,” she tells him. ʸ
+
+He looks down at her hand. The thread has left a shallow line across her finger. He takes it where he can and rests his thumb on the line.
+
+“Have you got time to go out with me before dinner?” ᴹ
+
+Yuka looks up from their hands.
+
+“I've got time now.” ʸ

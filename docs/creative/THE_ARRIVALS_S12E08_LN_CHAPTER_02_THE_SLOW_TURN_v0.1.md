@@ -7,7 +7,15 @@
 **Source episode:** S12E08
 **Continuity state:** B+236 late afternoon and evening. Kaisel takes Mau and Yuka on Ori's chosen short route before the couple share Mau's late second-anniversary dinner at home. The date follows the day they first held hands, not a wedding anniversary. Mau tells Yuka what doubt he carried and what he kept wanting through the Trial. No new travel booking, power or combat test.
 
-*When: Mau asks Yuka if she's free for dinner, she says she'll check with her husband.*
+*When: Mau and Yuka leave the gallery, he turns towards the yard instead of the kitchen.*
+
+She follows him as far as the outside step. The air smells like the grass at the bottom of the hill. He takes the step slowly, and when he's down it he offers her his hand again.
+
+“Are you going to tell me where we're going?” she asks. ʸ
+
+“Yes. Have you got plans for dinner?” ᴹ
+
+“I'll check with my husband.” ʸ
 
 He waits, which makes it worse.
 
@@ -17,15 +25,17 @@ He waits, which makes it worse.
 
 “If there's dessert, I have to save him some.” ʸ
 
-Mau considers this with an expression she had hoped to be the first one to ruin. Then he holds a hand out. There is a little nick near his thumb. She takes his hand anyway and finds that he has something tucked into the other one.
+Mau considers this with an expression she had hoped to be the first one to ruin. She's close enough to see a little nick beside his thumb. In his other hand is a piece of paper, folded about twice as many times as it needs to be.
 
-“Come see,” he says. ᴹ
+“Good. I'd like to feed you when we get back.” ᴹ
 
-Kaisel is waiting in the yard. The saddle has already been set. He brings his head around when he hears Yuka and stays where he is while she goes to put her hand against the side of his neck.
+“Back from where?” ʸ
+
+Then she sees the top of Kaisel's wing over the low wall. The dragon brings his head around when he hears her. The saddle has been sitting out in the sun long enough to be warm when she puts her hand on it.
 
 “You too?” she asks him. ʸ
 
-Kaisel presses into her palm. She looks back at Mau. He has unfolded the sheet in his hand and is trying to read it upside down.
+Kaisel presses his neck into her palm. She looks back at Mau. He has unfolded the sheet in his hand and is trying to read it upside down.
 
 “Shoko said yes,” he says, before she has asked. “Short and seated. I already sat down once while I was getting ready.” ᴹ
 
@@ -33,9 +43,21 @@ Kaisel presses into her palm. She looks back at Mau. He has unfolded the sheet i
 
 He looks up to see which part she means. She steps close enough to kiss him. Then he gives her the paper, and she turns it the right way up for him.
 
+“I see two routes.” ʸ
+
+“Ori says there's only one good one.” ᴹ
+
+“Does it matter where I sit?” ʸ
+
+He looks a little startled. She'd meant on the saddle, and when he looks down at the two places there's time for her to decide she'd like to see how long he's going to take to answer. Then he touches the place in front of him.
+
+“I was hoping you'd sit here.” ᴹ
+
+She gives him back the map. Kaisel crouches next to the wall so they can mount from the low side. Mau gets his foot in and settles himself. Yuka climbs in front of him and draws his hand around her before Kaisel has even stood up. She gets the pleasure of feeling the moment Mau realises he's allowed to hold her there.
+
 * * *
 
-For the first part of the ride, Yuka watches the ground go by underneath her boots. She's forgotten how much she likes sitting here, the soft shift of Kaisel's shoulder under the saddle and the lift that comes a little before she thinks it will. Mau is behind her with one arm around her waist. He loosens it when she moves to see down the hill, and she puts her hand over his to keep it there.
+For the first part of the ride, Yuka watches the ground go by underneath her boots. She's forgotten how much she likes sitting here, the soft shift of Kaisel's shoulder under the saddle and the lift that comes a little before she thinks it will. Mau loosens his arm when she moves to see down the hill, and she puts her hand over his to keep it there.
 
 She can recognise bits of the village from up here. There is the old way to the Fort, a little pale around the corners from use. She points it out and Mau points farther along, where somebody has carried a bench so it will catch the last of the sun. From this height the bench could be a twig. She knows it because they've walked past it three times this week.
 
@@ -67,7 +89,21 @@ Dinner is on the east terrace. Yuka knows the table because it used to lean far 
 
 She takes a bite. It's a little sharp at the end, and she likes it. She takes another before answering. Mau tries his own and his shoulders come down.
 
-For a while they talk about how much of the afternoon Yuta spent pretending he couldn't remember where a picture was taken. It had been in his own room. Maki had moved half the things visible in it and she'd let Yuka explain all of that twice. Yuka laughs now, thinking of it. She dips a piece of bread in the sauce while she decides which of the two of them owes her an explanation first.
+“What did you think I was doing all afternoon?” he asks. ᴹ
+
+“Taking your time finding me. Then Maki asked me to show Yuta the same stitch twice.” ʸ
+
+“Was it a difficult stitch?” ᴹ
+
+She lets him wait while she dips a piece of bread into the sauce.
+
+“Mau. When I got to the end of the second one, he asked whether it mattered which side of the bag we put the strap on.” ʸ
+
+“Did it?” ᴹ
+
+“I'm starting to think you put him up to that part.” ʸ
+
+He laughs, a little too quickly to pretend he hadn't put Yuta up to any of it. She wants to see if she can get him to do it again. She tells him Maki was much better at it, and he tells her how long Maki let him get away with thinking he'd come up with the whole thing himself.
 
 “Happy anniversary,” Mau says. ᴹ
 
@@ -91,7 +127,7 @@ She looks around at what that evening has turned out to be. The glass has a hand
 
 * * *
 
-The plates are almost empty when Mau tells her why he'd held on to the date.
+Yuka has the last of the sauce on a piece of bread when she asks him what made him think of doing this now. The wick dips, then comes back up behind the glass. Mau moves his hand away from it so she can see his face.
 
 “I kept getting stuck on one question in there,” he says. “Whether you still wanted me to come home.” ᴹ
 
@@ -103,9 +139,29 @@ She lets out the breath she was holding. His hand moves a little on the table, a
 
 “I love you, Yuka. I loved you the whole time. I love you more now. I always will.” ᴹ
 
-Her eyes sting. She reaches for his hand, misses it by enough that he has to turn it to catch hers, and lets him hold it while she looks down for a second.
+Her eyes sting. She reaches for his hand, misses it by enough that he has to turn it to catch hers, and lets him hold it while she looks down for a second. Her ring has turned. He puts it straight for her. She watches him do it and takes a breath that gets about halfway in.
 
-She had kept thinking about the time he'd spent in there. It was long enough to have a life she didn't know, long enough for the thing she'd said to have become a different thing in his head. When she thought about those months, she always started with what he'd believed about her. She had never really let herself ask what he'd wanted when he lay down at night. He sits there now, rubbing his thumb over the little bump at the side of her finger where her ring has turned. She gives him her hand properly, so he can set it straight.
+“I wanted to ask you something after you told me about the room,” she says. “I kept thinking I'd do it when you'd had some sleep. Then I kept finding something else to wait for.” ʸ
+
+He looks up. She can see him trying to remember what he said about the room.
+
+“Did you ever get angry at me?” she asks. ʸ
+
+The question comes out quieter than she meant it to. Mau looks at their hands for a moment.
+
+“Yes,” he says. “Sometimes. It was usually when I was trying to remember exactly what you'd said, and all I could hear was the last bit. Then I'd want you there to tell me the rest.” ᴹ
+
+She had expected the yes to hurt more than it does. Her eyes fill anyway. He stays where he is while she wipes one of them with the heel of her hand. When she looks at him again, he looks like he's spent all this time finding something to say and can finally put it down between them.
+
+“I wanted you even on the days I was angry,” he says. “I used to make up what I'd tell you about the day. About whatever I found that was worth telling you.” ᴹ
+
+“Like what?” ʸ
+
+“There was a piece of cloth I hung up to keep the wind off me. It kept falling. I got it to stay up one day and thought, that's going to make her so proud of me. A piece of cloth.” ᴹ
+
+“I would have been proud of you,” she says. ʸ
+
+He looks away long enough that she can get her own breath back. She reaches with both hands this time, and he gives her his.
 
 “I'd still have taken your hand,” she tells him. “If you'd asked me today.” ʸ
 
@@ -119,7 +175,21 @@ Mau laughs. She feels it move through his hand before he can let it go.
 
 * * *
 
-He asks if she'd like to go back to the island one day. Yuka says yes before he's finished telling her which room he'd want to ask for. She wants the breakfast table in the water again. He does too, even with the bird.
+Yuka keeps one hand in his while they finish the bread. She looks at the rim of his glass and thinks about what he just said. *I always will.* She's so used to reaching for his hand while he needs help with a step or while one of them is trying to say something hard. Right now she'd like to hold it until the candle goes out.
+
+“If we go back to the island, I want the same room,” she says. ʸ
+
+Mau looks up, surprised enough to forget to take the last bite.
+
+“The one we kept going back to in the middle of the afternoon?” ᴹ
+
+“Yes. And the little table we kept saying we'd eat at and never did.” ʸ
+
+“We had the table in the pool.” ᴹ
+
+“I want that one too.” ʸ
+
+“Even with the bird?” ᴹ
 
 “Especially with the bird,” she says. “I want to know if it remembers you.” ʸ
 
@@ -131,8 +201,38 @@ He remembers. She can see exactly when he does. She'd pointed the thief at his p
 
 “You did a wonderful job,” he tells her. ᴹ
 
-She laughs into her wrist and then wants to tell him about a place somebody mentioned in Tempest, with a beach long enough that Ori could take all day looking for shells and still end up asking to go back the next morning. They discuss which of them will have to tell Umaru there is only so much space for snacks. Yuka points out that Mau has an inventory and lost that argument on their honeymoon. He says he supposes he'll have to bring more snacks.
+She laughs into her wrist. There's a little time to imagine the breakfast they could have there before she wants to tell him about another place. She lets go of his hand to turn Ori's map over. A corner is dry enough to write on with her finger.
 
-There is one last piece of bread. She pulls it in half without asking him and gives him the part with the crust he likes. They keep talking after they've eaten it. At one point Yuka realises she has asked him what he'd like to do on the first morning back on the island, as if there's already a day when they're going. Mau takes the question seriously enough to tell her he'd like to sleep in first.
+“Do you remember the beach we saw on the way back from the island?” she asks. “I want to take Ori. The water goes out far enough that there are shells all over the ground.” ʸ
 
-She tells him that could be arranged. They leave the dishes stacked on the table with the cloth over them, blow out the candle together and take the long way back to their door.
+“You'd have to give her a whole day.” ᴹ
+
+“I thought I'd give her two. She can show us which ones she wants to go back for.” ʸ
+
+“Then Umaru's going to ask how many snacks she can pack for two days.” ᴹ
+
+“You've got an inventory.” ʸ
+
+“I thought maybe we'd try travelling light again.” ᴹ
+
+She looks at him over the map until he starts to laugh.
+
+“You lost that on the honeymoon,” she tells him. ʸ
+
+“I know. I'll pack the snacks.” ᴹ
+
+He presses his fingertip to the other corner of the paper, where the island would be if it were really a map. She asks him what he'd like to do on their first morning back. He thinks about it for long enough that she knows he is imagining himself there.
+
+“I'd like to sleep in with you,” he says. “We could go out after the bird has finished eating.” ᴹ
+
+She sets the paper down. A little while ago she had been trying to decide which part of the day to keep in her head. Now she's thinking about a morning she hasn't had yet, and exactly how it might feel to pull the covers up and keep him to herself for another hour.
+
+“Come here,” she says. ʸ
+
+He starts to reach across the table. She stands instead and goes around the candle to kiss him. His hand comes up to her waist and stays there until she straightens. Then she helps him stack the dishes, because if they both do it, it will get done a little faster.
+
+“Do you want to go in?” he asks when the candle's out. ᴹ
+
+“With you.” ʸ
+
+She waits for him to hear how she means it. He takes her hand, and they leave the terrace together.

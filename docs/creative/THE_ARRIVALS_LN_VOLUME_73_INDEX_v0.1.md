@@ -9,7 +9,7 @@
 
 Mau asks for an evening with Yuka. Mai fixes the table, Ori plans the long way round the tree, and there are two places ready when Kaisel brings them home. In the days afterward, the house makes time for new invitations and old friendships, and Mau brings his plans back to the table before taking them out on the road.
 
-[Previous volume](THE_ARRIVALS_LN_VOLUME_72_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md)
+[Previous volume](THE_ARRIVALS_LN_VOLUME_72_INDEX_v0.1.md) · [Next volume](THE_ARRIVALS_LN_VOLUME_74_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md)
 
 ## Reading order
 

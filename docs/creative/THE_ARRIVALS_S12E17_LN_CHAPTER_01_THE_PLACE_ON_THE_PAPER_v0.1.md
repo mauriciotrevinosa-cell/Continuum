@@ -201,29 +201,35 @@ He says her name into her ear this time. She goes still long enough for him to f
 
 He looks down at her shoulder. She sees where he's looking and turns her head to give him room. His mouth finds a place near the edge of her collarbone. It takes her a moment to work out whether he picked it for the mark or because he's figured out what makes her fingers catch in his hair.
 
-They start making love on their sides. Yuka tries to kiss him at the same time and bumps his chin with her nose. He laughs once into the pillow. She pulls him back by the jaw. This time he tilts his head before she gets there, and she feels his smile disappear against her mouth when she moves with him again.
+They start making love on their sides. Yuka tries to kiss him at the same time and bumps his chin with her nose. Mau laughs into the pillow. She takes him by the jaw and makes him look at her. He's got that smile still on his face when she kisses him again. She feels it go when she draws him closer with her leg.
 
-“You get so quiet when you're getting what you want,” she says. ʸ
+His hand goes around her back. He shifts his weight and her elbow slips off the pillow. She catches herself on the sheet. He stops when he feels her do it.
 
-She'd meant to get a laugh out of him. He puts his mouth to her ear. “I want you to pull me closer. Use your leg. Let me feel you do it.” ᴹ
+“Give me a second,” she says. ʸ
 
-Her hand tightens on his shoulder. He draws back far enough to see her face.
+She tugs the pillow back. It fits in the space behind his shoulder if she pushes one corner down. He lets his weight onto it a little at a time. She watches his face until he settles, then puts his hand back at her waist.
 
-“I can do that,” she says. ʸ
+“There?” he asks. ᴹ
 
-She slips her knee higher along his side and leaves it there. He takes a breath when she moves closer. Then he starts to hide his face in her shoulder again. She catches him with a hand in his hair.
+She moves with him once to find out. “There. You can hold me tighter.” ʸ
 
-“I want to see you when you ask me this time.” ʸ
+He does. She draws a breath to say something and ends up letting it go against his neck. He waits there with her. Then she feels him smile against her hair.
 
-“Closer, Yuka.” ᴹ
+“What were you going to say?” he asks. ᴹ
 
-He keeps looking at her when she does it. For the first two breaths she thinks she's going to be the one who gets to watch him lose his place. Then his hand slides to the small of her back and he pulls her in closer, right when she expects him to give her room. She has to close her eyes for a second. When she opens them, he's smiling at her.
+She remembers. She'd been about to tell him he gets very quiet when he's getting what he wants. She can still feel his smile. She lifts her head to see it properly.
 
-“Do that again,” she says. “With your hand right there.” ʸ
+“I was going to tease you,” she says. ʸ
 
-He does. Her heel slides on the sheet and she hooks her foot behind his calf to hold herself where she wants to be. The pillow starts to go under her elbow. She lets it fall and puts her other hand on him. When he takes a breath to ask her something, she kisses him until she can feel him give up on the question. Then he kisses her back hard enough that she's the one who has to pull away for air.
+“You can try again.” ᴹ
 
-She says his name against his cheek. He answers close to her ear and she has to get a better grip on his shoulder. His hand stays right where she asked him to keep it while she shivers against him. She feels him go still a beat later, then let out a breath that shakes against her hair. Her foot is still hooked behind his calf when he lets his head drop beside hers.
+He moves with her before she can think of anything. She grips his shoulder and laughs once, because he knows exactly what he did. Then she lifts her knee a little higher, pulls him in and gets to watch the smile go off his face all over again.
+
+“I want to hear you say my name like that again,” she tells him. ʸ
+
+He says it once into her ear. She kisses him and asks him to say it where she can see his face. The second time, she can see the breath he has to take halfway through. She wants to get him to do that again. Instead, she says his name and hears how hers sounds when she's the one losing her place.
+
+She comes with one foot still hooked behind his calf. He holds her where she asked him to and puts his cheek against hers until the shivering eases. A moment later he says her name again, so close she feels it before she hears it. She keeps a hand at the back of his neck when he comes, too. Afterward she can still feel his breath against her neck. She leaves her hand where it is.
 
 They lie there with their knees still tangled. Her hand slips down from his shoulder to the mark she left. She touches it with the back of one finger and feels him laugh before he has the breath to do it out loud.
 

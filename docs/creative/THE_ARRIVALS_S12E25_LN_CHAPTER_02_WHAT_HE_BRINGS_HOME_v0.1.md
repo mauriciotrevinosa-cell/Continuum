@@ -67,6 +67,24 @@ She stays close to him. He has his back against the door and there is enough roo
 
 She opens the door for him. There's a chair on the other side that she pulled out while she was waiting. He sits in it and she sits on the edge of the bed, close enough that he can keep her hand while he tells her what else happened.
 
+When he finishes, she puts a hand on the side of his chair.
+
+“Can I hold you on this side?” she asks. ʸ
+
+He brings his elbow up far enough for her to lean in. The first time she breathes out against him he realises she'd been holding her breath for the last part of what he'd told her. He lowers his hand until he can feel her shoulder under it.
+
+“I was going to give you a kiss when you walked through the door,” she says. “Then you started telling me things.” ʸ
+
+“Have I told you enough yet?” ᴹ
+
+She looks at him. “For one kiss.” ʸ
+
+He gets the first one and starts to say thank you. She kisses him again before he finishes. When she sits back he's smiling at her in a way he wasn't when he came through the door.
+
+“I missed you,” she says. “You can tell me the rest while I do this, if you want.” ʸ
+
+She stays against his good shoulder until he's ready to go down. At the door she lets him try moving his arm the way Shoko showed him. He does it once. Then he holds out his other hand and she takes it all the way to the table.
+
 * * *
 
 At the table he tells them what he did with the form.

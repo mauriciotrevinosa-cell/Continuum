@@ -76,3 +76,35 @@ He laughs a little. Maki has got back with the water. She sits at the far end of
 “Good. Now you know what it feels like.” ᴹᵃᵏ
 
 He takes the cup. Noise folds the drawing away. For a while, all Mau does is sit next to Maki and drink the water she brought him.
+
+* * *
+
+Yuka finds him in the kitchen waiting for his bread to toast. She came down for the knife Mai asked her to fetch. She finds it, sets it aside and puts both arms around him from behind.
+
+“Is that for me?” she asks. ʸ
+
+“The toast?” ᴹ
+
+“I already decided about the toast. Is the arm free?” ʸ
+
+He puts it over hers and feels her settle. He'd expected her to let go when the bread was ready. Instead she stays where she is and reaches around him to lift it onto his plate. She waits until he's buttered the first piece and steals it out from under his hand.
+
+Mai comes in while she's chewing. She finds the knife where Yuka left it.
+
+“Were you going to bring this back?” she asks. ᴹᵃ
+
+“Eventually.” ʸ
+
+Mai looks from her to Mau. “Do you want me to get you out of there?” ᴹᵃ
+
+“I think I'm doing all right.” He looks down at his plate. “I thought there'd be more toast.” ᴹ
+
+Yuka breaks the last piece in half and holds it up where he can reach it. Mai takes the knife back out with her. She calls from the doorway that Yuka still owes her ten minutes. Yuka says she'll give her fifteen if she can have five more here.
+
+“You'll have to ask him for those,” Mai says. ᴹᵃ
+
+Yuka sets her chin on his shoulder. “Can I have five more?” ʸ
+
+He pulls another slice of bread towards him. “I can make more toast.” ᴹ
+
+She kisses his cheek. By the time the second slice is done, he's figured out he can have a piece if he asks for it before he puts it down.

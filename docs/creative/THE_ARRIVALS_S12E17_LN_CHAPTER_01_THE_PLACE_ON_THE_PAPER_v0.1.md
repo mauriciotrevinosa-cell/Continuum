@@ -211,7 +211,23 @@ They get the rest of their clothes off under the blanket. One leg of his shorts 
 
 “I liked having your hand on my leg.” ᴹ
 
-She gets the blanket back over them, then puts her hand on his leg again. His skin is warm. She runs her fingers up the side of his thigh and rests them at his hip. He watches her do it with a look that makes her forget what she was going to say about the blanket.
+She gets the blanket back over them. When she puts her hand on his leg again, he turns a little towards her. His skin is warm where the sheet has been against it. She runs her fingers up his thigh and rests them at his hip. He's watching her hand, so she waits until he looks up.
+
+“Do you want me to touch you?” she asks. ʸ
+
+“Yes.” ᴹ
+
+She slips her hand lower under the blanket and touches him. He catches his breath and puts a hand over hers. She holds still for a moment to see if he wants her to move it. He leaves it where she put it.
+
+“I like it when you take your time,” he says. ᴹ
+
+She looks up. His face is pink all the way to his ears. She'd seen him go that colour earlier when she asked to leave him a mark. This time he gets the whole sentence out while she's watching him.
+
+“I can do that,” she says. ʸ
+
+He brings his forehead down against hers. She keeps her hand where it is and gives him the time he asked for. When he kisses her, she can feel the breath he takes before his lips part. It's the same breath she heard a moment ago. She draws him a little closer and gets to hear it again.
+
+After the kiss she brings her hand back to his waist. He puts his over it and looks at her for a moment. She likes that he can say something like that and let her look at him afterward.
 
 She looks down at the mark she left him. “You can leave one too. Somewhere I can cover it in the morning.” ʸ
 

@@ -88,3 +88,67 @@ The first shadow is out when they reach the turnout. Mau takes the report while 
 Fern asks where to send it. Makima gives her a place she can find by the same road the carter used. Maki checks the time and they leave together.
 
 Mau gets home in time to hear Yuka from the kitchen. He puts the walking support away and goes to see what she's making. When she asks him if he's hungry, he says yes before he tells her anything he found out on the road.
+
+* * *
+
+Later, in their room, Yuka asks him if he enjoyed the walk. Mau is undoing his cuff. He gets it open and leaves the other one alone.
+
+“Parts of it. Maki found a place I could get back down without turning sideways. I was pretty happy about that.” ᴹ
+
+“And being with her?” ʸ
+
+He looks up. Yuka has set her comb on the bed between them, close enough for her to pick it up if she needs something to do with her hands.
+
+“We laughed about something. I came home and thought about telling you what it was, and then I realised I didn't know if you'd want to hear it.” ᴹ
+
+“I think I do.” She waits a second. “I think I want to be able to hear that you had a good time without having to guess what it means.” ʸ
+
+He shifts towards her. She moves the comb so he can put his hand down.
+
+“Remember what I told you when I was writing her that letter? She thinks she'll always do the same thing because of what she is. I want to help her find out if she can choose something else. That's still what I want from seeing her.” ᴹ
+
+“I remember. I thought if I understood why, it'd stop bothering me that you wanted to.” ʸ
+
+“Some days it still bothers you.” ᴹ
+
+“Today it does.” She touches his loose cuff. “And I hate that I have to ask you for something you already told me.” ʸ
+
+He turns his hand so the cuff drops and she can put her fingers through his.
+
+“You can ask me again. I love you, Yuka. I only have eyes for you.” ᴹ
+
+She studies him a moment. “You know you're the only person who can say that and mean it twice.” ʸ
+
+He laughs. She hears herself do it too, and she puts her forehead down against his shoulder while it passes.
+
+“What do you see right now?” she asks. ʸ
+
+“My wife, who saved me the crispy piece at supper and then ate the corner of it off my plate. And who told me she had a question even though she was afraid I'd think she'd forgotten the answer.” ᴹ
+
+“I was afraid you'd be tired of answering.” ʸ
+
+“I like telling you why I love you. There are days I forget to say it before you ask. Today you asked me how the walk went before you asked me anything about her. I could tell you wanted to hear about my foot. I loved that.” ᴹ
+
+She'd wanted to hear about it. She wants to hear exactly how he got down the step now. He tells her, including the part where Maki made him start again because he tried to look over his shoulder at Fern halfway through it. Then he remembers Yuka's waiting to hear why he laughed, and tells her that too.
+
+By the time he gets up to finish changing, she's lying down with both hands tucked under her cheek. He draws the blanket back where her feet are and slips in beside her. She catches his sleeve before he can reach for the lamp.
+
+“Come a little closer first,” she says. ʸ
+
+He does. She lets the sleeve go and runs her hand up to the back of his neck. She kisses him once, thinks about it, and draws him back for a longer one. When he pulls away far enough to see her face, she looks delighted with herself for having kept him from getting to the lamp.
+
+“Do you want me to put it out?” he asks. ᴹ
+
+“In a minute. I want to see you a little longer.” ʸ
+
+He stays. She asks him if he'd like to spend the rest of the night like this with her. He says yes and puts her hand where she can feel how quickly he means it. When he does reach for the lamp, she keeps hold of him until the room goes dark.
+
+After they make love, he rolls onto his back to give her room to stretch out. She moves with him.
+
+“Am I in your way?” he asks. ᴹ
+
+“You're in exactly the right place.” She gets her feet under the blanket with his. “Can I have five more minutes of you like this?” ʸ
+
+“You can have me till morning.” ᴹ
+
+She gets closer anyway.

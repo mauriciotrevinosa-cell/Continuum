@@ -141,9 +141,39 @@ He does. She lets the sleeve go and runs her hand up to the back of his neck. Sh
 
 “In a minute. I want to see you a little longer.” ʸ
 
-He stays. She asks him if he'd like to spend the rest of the night like this with her. He says yes and puts her hand where she can feel how quickly he means it. When he does reach for the lamp, she keeps hold of him until the room goes dark.
+He stays. The cuff he never got around to undoing brushes her cheek when he touches her hair. She takes his hand and works the button loose. Then she gets to the first one at his collar and looks up to see whether he's still thinking about the lamp.
 
-After they make love, he rolls onto his back to give her room to stretch out. She moves with him.
+His eyes are on her fingers.
+
+“You can help,” she says. ʸ
+
+He starts at the bottom. They get to the same button and he lets her have it. She pushes the shirt back from his shoulder and kisses the skin she's uncovered. When she does it again, his fingers close in the blanket beside her. She looks down at them, then up at him. It takes him a second to see that she's waiting for him to put the hand somewhere else.
+
+He sets it at her waist, over the cloth. She lifts her arm to give him room and feels his palm slide around her back. The hem goes with it. She pulls the shirt the rest of the way over her head and drops it over the side. His follows. He tries to put it on the chair and misses. He leaves it where it lands.
+
+“Still want the lamp?” he asks. ᴹ
+
+“Yes.” She draws him back by the shoulder. “You can stop asking about the lamp.” ʸ
+
+She can feel him smile as he kisses her. He takes his time pulling her close and she has enough of it to notice the little breath he takes when she presses her mouth against his throat. It makes her want to hear it again. She does, a little farther up this time. When he turns his head to find her, his hand comes up behind her knee. She lets him draw her leg over his and follows until they're lying face to face.
+
+“Tell me if your back wants the other pillow,” she says. ʸ
+
+“I think it wants you to stay right there.” ᴹ
+
+She laughs. Then he moves a little and the laugh breaks off on a breath she hadn't meant for him to hear. He pauses. She gets her hand around his and holds it where it is.
+
+“That was good,” she says. ʸ
+
+She says it again a little later, when the whole sentence is hard to get out. He knows what she means by then. The slow pace suits them. Every so often one of them gets ahead of it and has to come back and find the other, and once he catches her laughing because she's the one who told him to take his time. He smiles against her cheek and goes slowly enough to make her say his name instead.
+
+By the time she turns her face into the pillow, she's got both arms around him. He bends his head close when he hears her, and she holds him there while her breath catches twice and finally comes loose. It takes her a moment to feel how tight she's holding his hand. She loosens her grip. He keeps his fingers between hers.
+
+They lie there long enough for the blanket to slide off her shoulder. Mau tugs it back up and finds her already reaching for his other arm. She kisses the corner of his mouth, then settles back to look at him once more.
+
+“Now you can put the lamp out,” she says. ʸ
+
+He reaches past her for it. By the time he rolls onto his back to give her room to stretch out, she's moving with him.
 
 “Am I in your way?” he asks. ᴹ
 

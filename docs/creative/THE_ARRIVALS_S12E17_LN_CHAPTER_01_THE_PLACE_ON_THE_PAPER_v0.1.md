@@ -195,7 +195,13 @@ She nods and takes him with her as she turns. They take a second to get their le
 
 “I liked that,” she says. “Do it again.” ʸ
 
-He says her name into her ear this time. She goes still long enough for him to feel it. Then she moves against him and he follows. The pillow slides away under her elbow and she lets it go. He's close enough now to feel her draw in a breath before she can tell him what she wants.
+He says her name into her ear this time. She goes still long enough for him to feel it. When he lifts his head, her thumb is back at the mark below his collarbone.
+
+“You can leave one too,” she says. “Somewhere I can cover it in the morning.” ʸ
+
+He looks down at her shoulder. She sees where he's looking and turns her head to give him room. His mouth finds a place near the edge of her collarbone. It takes her a moment to work out whether he picked it for the mark or because he's figured out what makes her fingers catch in his hair.
+
+They start making love on their sides. Yuka tries to kiss him at the same time and bumps his chin with her nose. He laughs once into the pillow. She puts a hand on his jaw and draws him back. This time he tilts his head before she gets there, and she's kissing him when he moves with her again. The pillow slides away under her elbow. She lets it go and takes his shoulder instead.
 
 “Stay with me right there,” she says. ʸ
 
@@ -215,7 +221,17 @@ They lie there with their knees still tangled. Her hand slips down from his shou
 
 “I'm checking that I did it right.” ʸ
 
-When he starts to lift his head, she puts her thumb on his cheek and draws him back for a kiss. It's gentle enough to make her think about how fast he came back when she touched him. She does it once more just to see.
+“You did.” He brushes a finger just below her collarbone. “Yours is here, by the way.” ᴹ
+
+She tucks her chin down. She can just see where his finger is, and the little mark beside it when he moves his hand. She laughs before she can tell him he picked almost the same spot she did.
+
+“Were you going to tell me in the morning?” she asks. ʸ
+
+“I was going to see how long it took you to find it.” ᴹ
+
+“You could've won that.” She touches the mark. “I think I would've been looking at yours.” ʸ
+
+When he starts to lift his head, she puts her thumb on his cheek and draws him back for one more kiss.
 
 “Now you can put the lamp out,” she says. ʸ
 

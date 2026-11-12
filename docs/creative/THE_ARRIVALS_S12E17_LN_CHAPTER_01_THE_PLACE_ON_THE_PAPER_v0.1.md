@@ -235,6 +235,28 @@ She feels him inside her and holds still for a breath. His hand rests on her hip
 
 He does. She can feel the effort of holding still in the way his fingers close at her hip. She gets her cheek against his and lets the second take as long as she wants it to. She's never had him this close. She can still hear him telling her she can ask again, as plainly as if he'd just said it with his mouth here beside hers. She could ask now. She could ask in the morning. Right now she wants to kiss him, and she lets herself take just as much time asking for that.
 
+She draws back far enough to see him. His lips are parted. He takes a breath when she shifts her leg and lets it out through his nose, very slowly, as if he thinks she won't notice that way.
+
+“That was more than a second,” he says. ᴹ
+
+“I know. Do you want me to hurry?” ʸ
+
+He opens his mouth, thinks better of whatever he was going to say, and wets his lower lip. She wants to laugh and kiss him and keep him waiting a little longer all at once.
+
+“I want to see what you do with the extra one.” ᴹ
+
+She traces his lower lip with her thumb. He keeps still under it. When he closes his eyes she takes her hand away, and he opens them so quickly she lets him see her smile. She'd spent so much of supper trying to work out what he was thinking. She likes this look on him well enough to take it exactly as he gives it to her.
+
+“You can move now,” she tells him. ʸ
+
+His palm slides from her hip to her back, and she feels him move with her. She'd meant to watch his face when he did it. He kisses the spot beneath her ear she'd shown him earlier, right when she draws him closer. Her smile breaks on an unsteady breath. She can feel him smile against her neck.
+
+“You planned that,” she says. ʸ
+
+“You gave me time.” ᴹ
+
+She holds him by the back of the neck when he starts to lift his head. He takes the hint and kisses her there again. This time she knows what he's doing and still has to take a moment before she can get the words out.
+
 “Here,” she says, turning her face towards his. ʸ
 
 She gets there first and bumps his chin with her nose. His laugh is warm against her mouth. She takes him by the jaw and tries again. This time she feels him tilt his head as she gets there, and the laugh breaks off when she draws him closer with her leg.

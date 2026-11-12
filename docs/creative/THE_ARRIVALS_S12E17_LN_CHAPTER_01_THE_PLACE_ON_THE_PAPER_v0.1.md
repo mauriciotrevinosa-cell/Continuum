@@ -215,11 +215,11 @@ She'd wanted to say that to him since he laughed into her hair. For a while she'
 
 “I heard you.” He kisses the corner of her mouth. “I liked hearing it twice.” ᴹ
 
-She grins so hard he has to wait a second to kiss her properly. When he can, he takes his time over it. She gets one hand around the back of his neck and feels him settle into her palm. He stays right there until she can put the other arm around him too.
+She grins so hard he has to wait a second to kiss her properly. He's still above her, braced on one elbow. She puts a hand at the back of his neck and draws him down until he has to set his free hand on the bed. He kisses her like that until she feels the arm he's leaning on begin to shake.
 
 “On our sides?” he asks. ᴹ
 
-She nods and takes him with her as she turns. They take a second to get their legs comfortable. Mau has to ask her to give him another inch of pillow. She gives him two and steals the room back with her hips. He says her name in a tone that makes it very difficult for her to pretend she did it by accident.
+She lets go so he can lower himself beside her. He rolls onto his side first. She turns to face him and pulls the pillow across until both their heads fit on it. They take off the rest of their clothes under the blanket, tugging it back into place when it catches around their feet. When she slides her leg over his, he says her name in a tone that makes it very difficult for her to pretend she did it by accident.
 
 “I liked that,” she says. “Do it again.” ʸ
 
@@ -227,9 +227,9 @@ He says her name into her ear this time. She goes still long enough for him to f
 
 “You can leave one too,” she says. “Somewhere I can cover it in the morning.” ʸ
 
-He looks down at her shoulder. She sees where he's looking and turns her head to give him room. His mouth finds a place near the edge of her collarbone. It takes her a moment to work out whether he picked it for the mark or because he's figured out what makes her fingers catch in his hair.
+He looks down at her shoulder. She tilts her head back against the pillow. He kisses her just below the collarbone and keeps his mouth there until she feels her fingers catch in his hair. When he lifts his head, she brings her knee a little higher and draws him towards her by the hip. He lets her set the distance between them.
 
-She feels him inside her and holds still for a breath. His hand rests on her hip. When he starts to move, she puts an arm around his back and draws him closer until she can feel him breathe against her lips.
+Lying face to face, she feels him enter her and holds still for a breath. His hand settles on her hip. When she feels him move inside her, she puts an arm around his back and draws him closer until she can feel him breathe against her lips.
 
 “Stay here for a second,” she says. ʸ
 
@@ -249,7 +249,7 @@ She traces his lower lip with her thumb. He keeps still under it. When he closes
 
 “You can move now,” she tells him. ʸ
 
-His palm slides from her hip to her back, and she feels him move with her. She'd meant to watch his face when he did it. He kisses the spot beneath her ear she'd shown him earlier, right when she draws him closer. Her smile breaks on an unsteady breath. She can feel him smile against her neck.
+His palm slides from her hip to her lower back. She feels him move inside her again as he draws her against him. She'd meant to watch his face. He bends his head and presses his mouth to the spot beneath her ear just as she pulls him closer with her leg. Her chin tips up before she thinks to move it. The laugh she'd been saving for him comes out as a short breath against his shoulder.
 
 “You planned that,” she says. ʸ
 
@@ -267,9 +267,9 @@ She takes that hand and brings it to the small of her back.
 
 “You can hold me tighter,” she says. ʸ
 
-His fingers spread as he pulls her to him. For a second she can feel the heel of his hand better than she can feel anything else. She had been about to tease him about how quiet he'd got. She lets the breath she'd saved for it go against his neck. He kisses her hair, then waits until she moves again to follow her.
+He spreads his fingers against the curve of her lower back. The pressure keeps her from rolling away when she brings her knee closer to his waist. She had been about to tease him about how quiet he'd got. She lets the breath she'd saved for it go against his neck. He kisses her hair and keeps his hand there until she starts to move again.
 
-She goes slowly enough to feel where he follows. When his hand shifts, she covers it with hers and guides it back. He presses it more firmly into the spot she'd chosen. She lifts her head to see if he knows what that did to her. He's already looking at her, and she sees the little smile start a moment before he does it again.
+His hand starts to slide up towards her ribs. She covers it with hers and brings it back down. He holds her there and draws her hip closer. She feels the change and digs her fingers into his shoulder. When she lifts her head to see if he noticed, he's already looking at her. His smile starts a moment before he draws her in again.
 
 “You knew,” she says. ʸ
 

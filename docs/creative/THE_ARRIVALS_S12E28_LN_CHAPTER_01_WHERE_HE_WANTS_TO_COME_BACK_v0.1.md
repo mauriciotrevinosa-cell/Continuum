@@ -9,7 +9,7 @@
 
 *When: When Yuka finds the question, she has to move a little to be able to look him in the eye.*
 
-Mau is trying to read the invitation around her. The part he's trying to see is down near her elbow. She follows his eyes, moves her arm and discovers that he's been looking at the same fold for long enough to have read both sides of the paper.
+On the night before the hearing, Mau is trying to read the invitation around her. The part he's trying to see is down near her elbow. She follows his eyes, moves her arm and discovers that he's been looking at the same fold for long enough to have read both sides of the paper.
 
 “Do you want to go?” ʸ
 
@@ -19,7 +19,7 @@ Mau is trying to read the invitation around her. The part he's trying to see is 
 
 He folds the invitation. She takes it and puts it on the floor on her side of the bed, where she knows he won't bother reaching for it. When she sits up again, he draws up one knee to give her room against him. She puts a hand on the inside of his wrist and stays there until he turns it over.
 
-“I thought of something yesterday,” she says. “You told me you spent a long time in there thinking I might never want to be near you again. I keep wanting to ask how long. And I think even if you could tell me, I'd just ask it again.” ʸ
+“I keep thinking about something you told me when you were recovering,” she says. “You said you thought I'd be better off if you didn't come back. I keep wanting to ask how long you believed that. And I think even if you could tell me, I'd just ask it again.” ʸ
 
 He can feel her thumb on the heel of his palm. “Sometimes I got very good at thinking about the next hour. Then a room would go quiet and I'd be back at what you said. It was hard to imagine you at home going to sleep, because then I'd have to imagine the room without me in it.” ᴹ
 

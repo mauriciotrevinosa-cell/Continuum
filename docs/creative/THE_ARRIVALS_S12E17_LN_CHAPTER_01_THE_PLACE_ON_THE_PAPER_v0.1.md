@@ -163,11 +163,27 @@ She can feel him smile as he kisses her. He takes his time pulling her close and
 
 She laughs. Then he moves a little and the laugh breaks off on a breath she hadn't meant for him to hear. He pauses. She gets her hand around his and holds it where it is.
 
-“That was good,” she says. ʸ
+“Stay there a second,” she says. ʸ
 
-She says it again a little later, when the whole sentence is hard to get out. He knows what she means by then. The slow pace suits them. Every so often one of them gets ahead of it and has to come back and find the other, and once he catches her laughing because she's the one who told him to take his time. He smiles against her cheek and goes slowly enough to make her say his name instead.
+The leg she's put over his is slipping. He slides his hand back under her knee and lifts it just enough to keep it where she wanted it. She settles against him again. His face is right there and she can see the moment he thinks of kissing her. She gets there first.
 
-By the time she turns her face into the pillow, she's got both arms around him. He bends his head close when he hears her, and she holds him there while her breath catches twice and finally comes loose. It takes her a moment to feel how tight she's holding his hand. She loosens her grip. He keeps his fingers between hers.
+“Tell me when,” he says against her mouth. ᴹ
+
+She takes one more breath because she likes that he's waiting for it. “Now.” ʸ
+
+He comes closer. She feels the sheet pull under her heel and lets it go. His mouth finds the place just under her ear and she tilts her head to give him more room. When he tries to come back up she puts a hand in his hair and draws him down to it again. She wants the warmth of his mouth there a little longer. He lets her keep it until she shifts to meet him.
+
+“Mau.” ʸ
+
+He lifts his head at once. She can feel the instant he goes still.
+
+“I'm allowed to say your name just because I like saying it,” she tells him. ʸ
+
+The corner of his mouth goes up. He tries hers against her cheek, quietly enough that she can feel the word better than she can hear it. She wants him to say it again. She kisses him first and makes him try with her smiling against his mouth. The second time he gets only half of it out. She moves with him and hears the rest when they come back together.
+
+Her fingers find his on the sheet. He turns his hand over and holds on. She can feel the two of them breathing at different times, until the next breath comes out of him exactly when hers does. Her knee draws him closer. She wants to say his name again and only gets as far as the sound of it. He kisses her temple while it passes through her. She holds his hand tight through the last shiver and feels his breath shake against her hair.
+
+He starts to lift his weight away. She touches the back of his neck and he comes back down far enough for her to kiss him. The kiss takes a while. When she lets him up, their hands are still together on the sheet.
 
 They lie there long enough for the blanket to slide off her shoulder. Mau tugs it back up and finds her already reaching for his other arm. She kisses the corner of his mouth, then settles back to look at him once more.
 

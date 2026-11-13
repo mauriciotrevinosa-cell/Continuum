@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 76 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — S13 v0.1 — IN PROGRESS
+**Status:** LN PRODUCTION DRAFT — S13 v0.1 — VOLUME COMPLETE
 **Volume:** 76
 **Season:** 13
-**Coverage:** S13E01–S13E07 (season continues)
+**Coverage:** S13E01–S13E13 (season continues)
 **Volume title:** **The Day She Gives Them**
-**Chapter files:** 13
+**Chapter files:** 25
 
 Mau brings back an account of the hearing and a card Yuka wants to read twice. The next morning, Ori has a question for the people at the table.
 
@@ -28,3 +28,15 @@ Mau brings back an account of the hearing and a card Yuka wants to read twice. T
 | 11 | S13E06 | Everyone Gets a Turn | `THE_ARRIVALS_S13E06_LN_CHAPTER_01_EVERYONE_GETS_A_TURN_v0.1.md` |
 | 12 | S13E06 | The Turn After Yours | `THE_ARRIVALS_S13E06_LN_CHAPTER_02_THE_TURN_AFTER_YOURS_v0.1.md` |
 | 13 | S13E07 | The House Has Supper | `THE_ARRIVALS_S13E07_LN_CHAPTER_01_THE_HOUSE_HAS_SUPPER_v0.1.md` |
+| 14 | S13E07 | The Man in the White Helmet | `THE_ARRIVALS_S13E07_LN_CHAPTER_02_THE_MAN_IN_THE_WHITE_HELMET_v0.1.md` |
+| 15 | S13E08 | Leave the Lamp On | `THE_ARRIVALS_S13E08_LN_CHAPTER_01_LEAVE_THE_LAMP_ON_v0.1.md` |
+| 16 | S13E08 | The Weight Jin-Woo Knows | `THE_ARRIVALS_S13E08_LN_CHAPTER_02_THE_WEIGHT_JINWOO_KNOWS_v0.1.md` |
+| 17 | S13E09 | The Space Between the Marks | `THE_ARRIVALS_S13E09_LN_CHAPTER_01_THE_SPACE_BETWEEN_THE_MARKS_v0.1.md` |
+| 18 | S13E09 | Something to Look At | `THE_ARRIVALS_S13E09_LN_CHAPTER_02_SOMETHING_TO_LOOK_AT_v0.1.md` |
+| 19 | S13E10 | The First Throw | `THE_ARRIVALS_S13E10_LN_CHAPTER_01_THE_FIRST_THROW_v0.1.md` |
+| 20 | S13E10 | Five Minutes | `THE_ARRIVALS_S13E10_LN_CHAPTER_02_FIVE_MINUTES_v0.1.md` |
+| 21 | S13E11 | What They Marked Done | `THE_ARRIVALS_S13E11_LN_CHAPTER_01_WHAT_THEY_MARKED_DONE_v0.1.md` |
+| 22 | S13E11 | The Name He Gives Her | `THE_ARRIVALS_S13E11_LN_CHAPTER_02_THE_NAME_HE_GIVES_HER_v0.1.md` |
+| 23 | S13E12 | The Cart That Turns Back | `THE_ARRIVALS_S13E12_LN_CHAPTER_01_THE_CART_THAT_TURNS_BACK_v0.1.md` |
+| 24 | S13E12 | Where the Orders Went | `THE_ARRIVALS_S13E12_LN_CHAPTER_02_WHERE_THE_ORDERS_WENT_v0.1.md` |
+| 25 | S13E13 | Nobody Takes the Next Turn | `THE_ARRIVALS_S13E13_LN_CHAPTER_01_NOBODY_TAKES_THE_NEXT_TURN_v0.1.md` |

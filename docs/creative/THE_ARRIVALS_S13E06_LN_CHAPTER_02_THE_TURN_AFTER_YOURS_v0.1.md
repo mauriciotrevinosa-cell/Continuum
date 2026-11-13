@@ -69,7 +69,7 @@ She stands beside him. From here she can see why Maki picked that end of the yar
 
 “Tell Rimuru. He can tell Gojo or whoever has it by then.” ᴹ
 
-“And if there's time for that?” ʸ
+“And if there isn't time for that?” ʸ
 
 He looks at her. She'd asked it as though it was only the first half of the question. He looks back at the door.
 

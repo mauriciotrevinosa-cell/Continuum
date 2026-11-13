@@ -1,6 +1,6 @@
 # S13 — Estado real de producción
 
-El volumen 76 continúa la mañana de B+273 después del parlamento. La última escena producida es V76#13, en B+280 cuando cae la tarde. La guardia confirma que el avance ha empezado en la fecha prevista. La identidad de todos los participantes y la cadena de mando siguen abiertas.
+El volumen 76 va de la vuelta del parlamento, B+273, a la cena después de la entrega de los dos responsables, B+285. No hay muertes confirmadas. El herido grave sigue a cargo de Shoko. El juicio queda en manos de las delegaciones.
 
 [Índice de V76](../THE_ARRIVALS_LN_VOLUME_76_INDEX_v0.1.md) · [Estado al cierre de S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md)
 
@@ -17,10 +17,16 @@ El volumen 76 continúa la mañana de B+273 después del parlamento. La última 
 | V76#11 | B+277, mañana | Ejercicio de la casa contra Mau con prioridades cambiantes. Shoko lo detiene al deteriorarse la marcha. Los observadores solo ven herramientas conocidas. |
 | V76#12 | B+278, mañana | Práctica de evacuación y relevos con sombras de Bellion. Mau propone rotar antes del agotamiento. Shoko revisará a quienes salgan del frente. Milim queda de reserva. Yuka propone la excepción para que Mau pueda actuar ante peligro inmediato y avise en cuanto pueda. |
 | V76#13 | B+279 a B+280, tarde | Shizue, Rem, Taihei y el Fort ensayan la ruta de los chicos desde sus cuartos y el espacio de estudio. Satella elige quedarse. Las comidas y la atención tienen lugares asignados. El primer aviso del avance llega al caer la tarde de B+280. |
+| V76#14–15 | B+280 anochecer a B+281 mañana | Mau conoce a los rescatistas de casco blanco y manos azules. La casa les da paso. El primer herido escoge que avisen a su hermano y después decide compartir lo que le dijeron sobre su familia. Primer relevo y cena. |
+| V76#16–17 | B+281, tarde y noche | Jin-Woo se enfrenta a Thomas Andre y Rook, un segundo Hunter nacional original, y luego pide ayuda a Mau. Ambos Hunters se retiran. Shuna detecta y corta una alteración incipiente, ubica su origen con Fern y Frieren. No identifica al autor. |
+| V76#18–19 | B+282 | Gojo, Maki y Yuta sostienen el paso. Qifrey y Ramiris abren el tramo de evacuación. Se advierte que el otro lado mide los relevos. Milim y Mau se estorban antes de coordinar Sky y el lanzamiento. Milim lo cuenta en la cena. |
+| V76#20–21 | B+283 | El relevo se marca completo por error. Yuta sale para atender un aviso real y Gojo sigue de camino. Yuka agota su técnica, mantiene a Bragas en su puesto y Mau llega por Exchange. La casa revisa el fallo esa noche y exige confirmación directa de quien llega. |
+| V76#22–24 | B+284–285 | Dos soldados aportan testimonios y una orden escrita. Un oficial hiere a un hombre de su bando. Los carros se retiran. Mau y Yuta entregan a los dos emisores de las órdenes al parlamento. Mau y Reinhard hablan de los heridos y de avisar a la persona que escoja el paciente. |
+| V76#25 | B+285 noche | Primera cena sin relevo de combate. Se conserva vigilancia extra hasta la mañana. El herido grave puede indicar a quién avisar. Umaru reclama los snacks. Yuka termina la carta a Elmesia. |
 
-## Primer avance
+## Hilos de la guerra que siguen abiertos
 
-La casa debe sostener lo que decidió con Ori cuando llegue el primer herido del otro lado. El hombre del casco y la elección del herido sobre a quién avisar abren el intercambio con quienes vienen obligados. Los relevos, el fallo de Yuta y Yuka y la intervención de Mau deben producirse con el tiempo que ya se estableció para cada posición. La prueba de Shuna funciona en un ejercicio. Su primer uso contra un ataque real queda pendiente.
+La asamblea recibe a los responsables sin decidir sentencia. El origen de los formularios y la identidad de quien intentó alterar al vigía no quedan demostrados. Kashimo no aparece. No hay altas médicas automáticas, nuevas sombras ni técnicas adquiridas.
 
 ## Después de la guerra
 

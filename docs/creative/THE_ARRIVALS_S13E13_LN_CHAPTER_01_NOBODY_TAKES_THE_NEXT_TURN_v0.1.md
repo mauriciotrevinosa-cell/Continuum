@@ -11,9 +11,9 @@
 
 Mau comes in carrying the paper the clerk gave Yuta. Fern gets to read it while he takes his shoes off. It says the hall received both men, and the time. She's been waiting for a place to put that time all afternoon. She writes it down before she goes to see whether anyone in the common room is still expecting to be relieved.
 
-Bellion is there, standing by the map. He has heard from the last two groups outside. The carts have gone the way the people driving them wanted to go. He wants to know whether Rimuru would like the additional shadows on the road until morning. Rimuru asks Fern what the posts have said. She reads him their messages, one after the other, until they get to the one that says somebody has reopened the turn where the carts had to stop.
+Bellion is there, standing by the map. He has heard from the last two groups outside. The carts have gone the way the people driving them wanted to go. He waits for Mau to decide what to do with the extra shadows on the road. Rimuru asks Fern what the posts have said. She reads him their messages, one after the other, until they get to the one that says somebody has reopened the turn where the carts had to stop.
 
-“Keep the extra eyes through tonight,” Rimuru says. “Ask us again in the morning.” ᴿ
+“Keep the extra eyes through tonight,” Mau tells Bellion. “Send the morning report to both of us. Muster can keep his forty on their normal rounds.” ᴹ
 
 Bellion marks the places he can cover without keeping anybody from the meal. Then he takes his thumb off the map and asks if the chair at the end of the table is for him.
 
@@ -37,7 +37,7 @@ Umaru brings a chair up to the table. She tells him she had put down everything 
 
 The first part takes until somebody brings a second dish out. It includes a kind of chip he's never seen in the shop and an argument over whether one bottle counts as a serving if it belongs to Milim. Milim votes that it does. Ori looks at the bottle Mau has just put on the table and asks how many cups it can fill. He gets another out and lets them see.
 
-Makima comes in while the cups are going around. She has brought Shoko's message from the room where the man in the ditch is staying. He is still there. He can answer one question at a time and has asked them to tell somebody his sister knows. Fern takes the name and goes far enough to see whether the watch can find a person to carry it.
+Makima comes in while the cups are going around. She has brought Shoko's message from the room where the man in the ditch is staying. He is still there. He can answer one question at a time and has asked them to tell somebody his sister knows. Fern takes the name to one of Muster's shadows so it can get the message to the rescuers at the post.
 
 “Have you eaten?” Ori asks Makima. ᴼ
 

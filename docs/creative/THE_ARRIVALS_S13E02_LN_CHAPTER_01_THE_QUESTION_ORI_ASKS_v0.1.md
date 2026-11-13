@@ -13,17 +13,17 @@ Fern has brought two cups to the table and keeps having to move the one she hasn
 
 “Anybody turn back?” Rimuru asks. ᴿ
 
-“Nobody the watch saw. I still want to know what they were saying at the other end of the road.” ᶠᵉ
+“Nobody your shadows saw. I still want to know what they were saying at the other end of the road.” ᶠᵉ
 
 She slides the cup over again. Ori puts it down on the other side of the notes, where Fern can reach it. She has come in with her drawing rolled up in both hands. She finds a place to put it against the wall so she can sit beside Frieren. The paper opens a little on its own.
 
 “Are we changing which way we go to the Fort?” she asks. ᴼ
 
-“No,” Rimuru says. “The watch is still using the same doors. They have extra help outside.” ᴿ
+“No,” Rimuru says. “Muster's forty are still using the same doors. Bellion put the reserve out on the roads.” ᴿ
 
 Ori looks at the report from where she's sitting. Fern turns it for her. She reads the bit about the axle slowly and gets to the part about the woman who brings bread. Then she asks whether the people at the meeting will know all the ways to the house.
 
-“They know the main roads,” Mau says. “If they try to use them to come for somebody, we'll know when somebody on the watch sees them.” ᴹ
+“They know the main roads,” Mau says. “If they try to use them to come for somebody, we'll know as soon as one of mine sees them.” ᴹ
 
 Ori puts her hand on the table. There are three little marks of pencil along one side of it, from yesterday. She tries to rub one off with her other thumb.
 

@@ -5,39 +5,39 @@
 **Volume:** 76
 **Reading order:** 17
 **Source episode:** S13E09
-**Continuity state:** B+281 evening. Shuna detects and blocks an attempt to alter a defender's memory. Frieren and Fern locate the source by their tested ward records. The source withdraws. The effect is not universal and no identity is confirmed.
+**Continuity state:** B+281 evening. Shuna detects and blocks an attempt to alter the memory of one of Muster's shadow sentries. Frieren and Fern locate the source by their tested ward records. The source withdraws. The effect is not universal and no identity is confirmed.
 
 *When: Shuna looks at the paper the first time somebody answers her with something she hasn't asked.*
 
-The first person back from the bridge has a wet sleeve and wants a dry one. Shuna finds him a cloth. He thanks her, dries his hand first and lays it flat beside her notes.
+The first of Muster's shadows back from the bridge comes in with water running off its gauntlet. It raises the hand so Shuna can move her notes before it puts anything down. She finds it a cloth. This one can speak. It thanks her, dries its hand first and lays it flat beside her notes.
 
 “Who did you leave there?” she asks. ˢʰᵘ
 
 “Nobody. We closed the bridge this morning.” ᵂ
 
-She looks at his hand. He's laid it down exactly where he'd put it when he asked her how long he would be out. She can see a little water come out of his cuff and run towards the paper. She puts the cloth in its way.
+She looks at the soldier's hand. It's laid down in the same place as when the shadow came to check which report she needed from the bridge. She can see a little water come out from under the gauntlet and run towards the paper. She puts the cloth in its way.
 
 “Which side did you come back from?” ˢʰᵘ
 
-He looks at the window. He can see the light above the bridge from there. It belongs to the same woman who asked for her bench to stay where it was. Shuna had gone to see whether she'd managed to get home, and the woman had insisted on putting the light out herself when she was ready.
+The soldier turns toward the window. The light above the bridge is visible from its chair. It belongs to the same woman who asked for her bench to stay where it was. Shuna had gone to see whether she'd managed to get home, and the woman had insisted on putting the light out herself when she was ready.
 
-“The house side,” he says. “I'd have had to go all the way around if it was closed.” ᵂ
+“The house side,” the sentry says. “I'd have had to go all the way around if it was closed.” ᵂ
 
-He says that part in a perfectly ordinary voice. Then he looks down at the cloth as though he's only just remembered that his sleeve is wet. Shuna pulls the ward sheet out from underneath it. There's a trace coming up along one edge, the way a little ink will move when a pen is put down too close to the end of a line.
+The answer comes easily. Then the sentry looks down at the cloth as though it's only just remembered the water on its gauntlet. Shuna pulls the ward sheet out from underneath it. There's a trace coming up along one edge, the way a little ink will move when a pen is put down too close to the end of a line.
 
 “Tell me when you first saw this,” she says to Fern. ˢʰᵘ
 
-Fern has her own sheet under the map. The two women look at their edges and then at the lamp by the door. Fern had seen the beginning of hers when the watchman first asked for a cloth. Shuna's had started a little later. She asks Fern to tell Frieren which way round it happened, then moves the watchman's chair into the space she prepared against the interior wall.
+Fern has her own sheet under the map. The two women look at their edges and then at the lamp by the door. Fern had seen the beginning of hers when the sentry first put its gauntlet down. Shuna's had started a little later. She asks Fern to tell Frieren which way round it happened, then moves the sentry's chair into the space she prepared against the interior wall.
 
-The trace stops spreading as soon as he sits there. He asks if he has to stay for a while. She tells him she'd like him to. He rests both hands on the cloth. After a little while he asks her whether anybody else is coming back from the bridge.
+The trace stops spreading as soon as the soldier sits there. It asks her to tell Muster it will be late to its next post. Fern sends word while Shuna pulls her chair closer. After a little while the shadow asks her whether anybody else is coming back from the bridge.
 
 “Did you leave somebody?” Shuna asks. ˢʰᵘ
 
-“I left Gojo.” He turns to look at the window again. “I knew that a minute ago.” ᵂ
+“I left Gojo.” The sentry turns to look at the window again. “I knew that a minute ago.” ᵂ
 
-Shuna pushes a fresh cup towards him. She wants him to be able to say it at his own pace. She has already asked Fern to confirm with Gojo and by the time the watchman drinks, Fern has got the reply. Gojo would like to know if he left the small man with the cloth to do anything more important than dry his sleeve.
+Shuna keeps her voice low. She wants the shadow to be able to say it at its own pace. Fern confirms with Gojo. He remembers standing with the shadow long enough to point out where it could get the water off its gauntlet, then sending it straight back to make its report.
 
-“I don't think I did,” the man says. ᵂ
+“That was all he told me,” the shadow says. ᵂ
 
 Shuna tells Fern to pass it on.
 
@@ -53,22 +53,22 @@ Fern calls it in. Frieren leaves long enough to find out whether she can see the
 
 “Will they know it failed?” Shuna asks. ˢʰᵘ
 
-“If they saw him go where he was meant to.” ᶠ
+“If they saw the sentry come back to report.” ᶠ
 
-Shuna looks back at the watchman. He is drinking slowly. She thinks about asking him what the bridge felt like when he had thought it was closed. He puts the cup down first and asks if he can tell her what he remembers.
+Shuna looks back at the sentry. It has set the folded cloth across its knees. She thinks about asking it what the bridge felt like when it had thought it was closed. Before she can ask, the sentry offers to give her the whole report from the beginning.
 
-She pulls the chair over beside him. He tells her he could see the light but remembered going home to get a coat on the morning the bridge was closed. He remembers being glad of the coat. He's wearing the one he put on at breakfast. He takes the end of its sleeve between two fingers and looks at it for a while. Shuna waits while he does it.
+She pulls the chair over beside the sentry. It remembers Muster ordering it to close the bridge in the morning and stand across the entrance until the carts turned back. The real order was to keep the way open. The shadow can remember being given both orders in the same place, with Muster standing close enough to point out exactly where to put its feet. It puts the cloth down and asks to hear which one it actually obeyed. Fern reads the morning report back to it.
 
 “I'm glad you told me who was there,” she says. ˢʰᵘ
 
-He looks up. “I didn't want you to think I left him.” ᵂ
+The sentry lifts its head. “I didn't want you to think I abandoned my post.” ᵂ
 
 “I saw you come in to report. That's what I wanted you to do.” ˢʰᵘ
 
-Fern brings the next watchman in by the other door. Shuna asks him whether he'd like to use a different route while she checks something. He says yes and goes to wait by the map. She keeps the three papers in the light so she can see all of them at once.
+Muster sends the sentry's relief in by the other door. Shuna shows Fern the route she wants it to use while she checks the first mark. Fern gives the change to Muster, and the soldier moves to the map as soon as Muster signals it. Shuna keeps the three papers in the light so she can see all of them at once.
 
-Mau comes in a little later, wanting to know what she found. She tells him the man thought he'd done something ordinary. Mau holds still beside the chair until she's got to the part where the thought stopped going any farther. Then he asks her what she needs.
+Mau comes in a little later, wanting to know what she found. She tells him what the sentry remembered. Whoever reached it had put a false order in Muster's voice. Mau holds still beside the chair until she's got to the part where the thought stopped going any farther. Then he asks her what she needs.
 
 “Someone out by the post to watch the first mark,” she says. “I want to know which one they reach for next time.” ˢʰᵘ
 
-Mau asks Bellion for a soldier who'd like to learn to read it. One comes in while Shuna is still wiping the water off the table. She gives it a dry corner of the sheet. It waits for her to show it what she saw.
+Mau orders Bellion to put a shadow by the post and have its relief learn the marks too. The first soldier comes in while Shuna is still wiping the water off the table. She gives it a dry corner of the sheet. It waits for her to show it what she saw.

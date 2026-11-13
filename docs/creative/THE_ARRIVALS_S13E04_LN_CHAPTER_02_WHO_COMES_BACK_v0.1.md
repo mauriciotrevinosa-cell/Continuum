@@ -23,7 +23,7 @@ She moves the end of the first thread with her nail. Mau can see where she means
 
 Shoko puts her bag down on the floor. “And the people?” ˢʰ
 
-Makima names the people she has in mind. They are adults from the watch who know the road and can answer questions convincingly. Two have been out since morning. One is expected back before supper. She says what she thinks they can get out of the position before they lose it.
+Makima has written down the names of three adults who know the road. She wants to recruit them from the people helping with the evacuation rehearsal. They can stop and talk like people waiting to cross, she says. By the time the other side realises they're there on purpose, it will already have committed to that bank.
 
 Maki reaches down and picks up the thread. “You had room to bring them back until the last thing you said.” ᴹᵃᵏ
 
@@ -41,7 +41,9 @@ Mau can see it too. It bothers him that he can. If they wait until the people at
 
 Bellion lifts his thumb. The paper curls up to the place where the road begins.
 
-“Mine,” Mau says. “From the legion. They can choose to hold it, and if their forms break they'll come back to me. We can have enough to do that without pulling anybody off the Watch or the roads Tempest asked us to cover.” ᴹ
+“Mine,” Mau says. “From the legion. I'll have them hold it. If their forms break, they'll come back to me. Bellion, take them from the reserve. Muster keeps his forty, and the ones on the Tempest roads stay where they are.” ᴹ
+
+“Yes, my king.” Bellion takes the pencil and marks the stream. ᴮᵉˡ
 
 Makima studies the map for another few seconds. He expects her to ask how many he'll give her. Instead she looks at Bellion.
 

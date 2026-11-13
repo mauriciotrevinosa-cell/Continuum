@@ -5,7 +5,7 @@
 **Volume:** 77
 **Reading order:** 4
 **Source episode:** S13E15
-**Continuity state:** B+292, Lantern accepts a place with Ori and the family ends the birthday together.
+**Continuity state:** B+292, Lantern accepts a place with Ori. Ori and Mai fit Beru's hat and the family ends the birthday together.
 
 *When: Later on Ori's birthday, while the first blanket is still being laid out.*
 
@@ -46,6 +46,24 @@ By the time the first tray goes out, the picnic has taken the whole tree. Milim 
 The answer is Beru. He is still wearing the paper hat and has started giving people the wrong answer if they guess without reading the clue aloud. When Ori comes up behind him and puts a hand on his arm, he sits down immediately so she can tell him what's funny about the hat. They both forgot to take the price off the paper. The number is upside down over his forehead. He makes a solemn request that she put a second number there and tell people he's been promoted.
 
 She draws one with her finger. He holds the hat out at the right angle for her.
+
+While everybody is getting their lunch onto plates, Mai calls Ori over to the bench. She has the cloth hat they'd cut together laid flat across her knees, with two gaps still unstitched. Ori brings Beru over and asks him to bow his head. He goes down on both knees, which puts the top of his head a little lower than the bench. She has to ask him to come up again.
+
+She fits the cloth over one antenna and then the other. Mai hands her the short piece of chalk and lets her mark where it pulls when he lifts his head.
+
+“Move them,” Ori tells him. ᴼ
+
+Beru moves one antenna. Then he moves the other. The first one still catches. Ori rubs the chalk out with her thumb and makes the mark a little farther over. Mai takes the hat back, opens the seam to the new mark and shows Ori where to bring the needle through. Ori does the last three stitches herself. When she puts the hat on him again, both antennae come through and the brim stays straight when he turns to look at her.
+
+“It's yours,” she says. “Now you don't have to borrow mine.” ᴼ
+
+Beru takes it off with both hands. For a second Ori thinks he doesn't want it. Then he folds up the paper one, asks Mai if he can put it somewhere safe, and puts the cloth one back on before she has time to answer.
+
+“Would you like me to wear it to lunch?” he asks. ᴮᵉ
+
+“Yes. You can wear it tomorrow too.” ᴼ
+
+He walks to the blanket beside her. Twice on the way there she sees him reach up to check that it's still on.
 
 After lunch Lantern follows her as far as the branches allow and settles with his chin close to the ground again. Ori wants to try calling him in front of Mau while she can still ask questions. She turns to see if Mau's looking and finds Frieren beside him, standing so close their sleeves touch. Frieren has a spot of paint on the back of her hand. When Ori catches her eye she turns the hand over to hide it and shows her the clean one instead.
 

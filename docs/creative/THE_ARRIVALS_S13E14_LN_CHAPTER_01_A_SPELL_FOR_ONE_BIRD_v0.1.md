@@ -51,21 +51,21 @@ He curls his fingers under the leaf and lets it go.
 
 Frieren looks at him in silence until he laughs.
 
-There's work to do before lunch. On the walk to the outer gate Mau counts the shadows by position, because the dusk watch is going back to its old routes and Bellion wants him to see that the near posts are covered. There's still a pair of extra shadows on the road Shoko's patient will take home when he's fit to go. He is no longer the only one waiting. His daughter arrived at dawn with her uncle and brought her own pillow because she didn't know if she would have to sleep on the floor. Rem found her a bed near him.
+There's work to do before lunch. On the walk to the outer gate Mau counts the shadows by position, as Muster's forty go back to their usual dusk routes and Bellion's reinforcements come off the near posts. There's still a pair of extra shadows on the road Shoko's patient will take home when he's fit to go. He is no longer the only one waiting. His daughter arrived at dawn with her uncle and brought her own pillow because she didn't know if she would have to sleep on the floor. Rem found her a bed near him.
 
-At the gate Bellion shows Mau where the shadows are listening from. The closest one is perched inside the back of a broken cart. The next one is at a turn where someone can see travelers approaching the house for quite a long time before they hear them. The runners can cover the distance without crossing the common room. If someone asks to speak to them, they can signal the guard who has the route that hour. Mau looks until he can picture the arrangement at night.
+At the gate Bellion shows Mau where the shadows are listening from. The closest one is perched inside the back of a broken cart. The next one is at a turn where someone can see travelers approaching the house for quite a long time before they hear them. The reserve shadows can carry reports without crossing the common room. If a traveler needs help at a post, the soldier stationed there signals Muster. One of the shadows that can speak comes out to meet them if the one at the post can't. Mau looks until he can picture the arrangement at night.
 
 “How long do you want the extra pair on the road?” Bellion asks. ᴮᵉˡ
 
 “Until the man and his daughter get where they decide to go. Then let me know they made it. You can bring that pair home yourself.” ᴹ
 
-Bellion confirms, and doesn't move from the gate. Mau realizes he's waiting for him to ask who will hold the other routes when he's gone. He does ask. The answers are the same as yesterday. He's about to start again from the road when he recognizes the temptation to give the whole arrangement a second look from the top.
+Bellion acknowledges the order. He runs through where Muster will have the forty and which reserve shadows he's keeping within call. Mau is about to go through the whole thing again from the road when he realises Bellion already knows what to do if something changes.
 
-“Can you make any changes with Rimuru while I'm away? Tell me if you need me. The rest, the two of you can handle.” ᴹ
+“You're in command of the reserve while I'm away. Let Muster keep the home watch. Work out any changes with Rimuru and send for me if you need me.” ᴹ
 
-“I would prefer to tell you when you get home, my king.” ᴮᵉˡ
+“Yes, my king. I'll have a report ready when you come home.” ᴮᵉˡ
 
-Mau can see how much Bellion likes saying that. He tells him to do it that way.
+Mau thanks him. Bellion bows, then turns to give Muster the order. Mau makes himself turn the other way and go to lunch.
 
 At lunch Yuka has a cold drink waiting on the edge of the table. Mau takes the chair next to her and holds his hands up so she can see that there's nothing in them.
 

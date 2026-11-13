@@ -13,9 +13,9 @@ There are four people at the table when Makima comes down from her room. Rimuru 
 
 Rimuru asks Makima to sit. He tells her what they have managed to confirm since last night and what he'd like her help with. The date is still the same. They would like to be able to get people off the roads before anybody is hurt. So far they've only agreed on where to tell Shoko a person is. They still need to know who will meet her.
 
-“Bellion can tell you which soldiers can stay outside the whole time,” Rimuru says. “I'd like you to help us decide what to ask them to do.” ᴿ
+“Bellion can tell you which soldiers can stay outside the whole time,” Rimuru says. “I'd like you to help us decide where we need them. Bellion will pass the orders down.” ᴿ
 
-Makima pulls a chair out and asks Bellion if he's looked at the place where the road goes low near the stream. He tells her what his soldiers have seen there. Fern puts a little piece of paper where he points. By the time they come back to the question of Shoko, the piece of paper has moved twice and they're going to have to ask Qifrey about the bank.
+Makima pulls a chair out and asks Bellion if he's looked at the place where the road goes low near the stream. He tells her what the shadows he sent have seen there. Fern puts a little piece of paper where he points. By the time they come back to the question of Shoko, the piece of paper has moved twice and they're going to have to ask Qifrey about the bank.
 
 Ori looks down at the pencil. She has written something on the small page beside it. She waits for Fern to get the papers straight.
 

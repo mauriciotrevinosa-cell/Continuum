@@ -39,7 +39,7 @@ Satella leaves one hand on the chair for a while after she sits. Then she asks i
 
 * * *
 
-They bring one lamp to the post. By the time they get there Makima has moved from the bench to the step so the man who is waiting for the next watch can sit down. He gets up when he sees Rimuru. Rimuru tells him to finish what he's doing and finds a place beside the post where they can set the lamp.
+They bring one lamp to the post. Makima has moved from the bench to the step to give one of Muster's shadows room to lay out the route for its relief. The soldier points out a turn on the paper, then taps the end of the bench to show Rimuru where the lamp will do the most good. Rimuru sets it there.
 
 Fern tells Makima what the tollkeeper confirmed. She leaves out the bit about where she keeps her other copies. Then she asks whether Makima has heard anyone name the people they mean to take.
 

@@ -67,7 +67,7 @@ Yuka walks inside with her hand on Ori's back, already starting the story. Mau w
 
 Bellion comes out where the shade reaches the far edge. He says the man and his daughter went home the day before. The blue hands met them at the turn. The daughter had asked to bring the pillow. Shoko said she could, and sent another one for the long ride. The extra pair came home as agreed. One of them is here if Mau wants to see it.
 
-Mau asks to see it. The shadow comes up beside Bellion. It has had a night's rest and wants a place on the regular watch. He asks Bellion to find it one. Bellion is still there when Mau turns to go inside. He wants to know if there are any changes Mau wants to make to the routes he and Rimuru chose.
+Mau calls it up beside Bellion. The shadow stands straight at once. Mau thanks it for seeing the family home and tells it to stand down with the rest of the reserve. Bellion inclines his head. He has the report ready for the routes he worked out with Rimuru and the rounds Muster kept while Mau was away.
 
 “Show me where you put them tomorrow. I'll come find you after breakfast.” ᴹ
 

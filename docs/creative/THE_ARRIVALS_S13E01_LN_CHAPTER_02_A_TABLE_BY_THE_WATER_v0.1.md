@@ -9,7 +9,7 @@
 
 *When: Mau still has one thing in his coat to show Yuka. He remembers it while she's deciding whether to hang the coat up.*
 
-By supper the soldiers have sent two reports. One is about the bread cart taking the long way back because the lower turn was muddy. The other is about three people with a handcart who asked the watch where they could get an axle looked at. Fern tells Mau both of those things while he helps her move a dish from one end of the table to the other.
+By supper Muster's shadows have sent two reports. One is about the bread cart taking the long way back because the lower turn was muddy. The other is about three people with a handcart who asked a shadow at the gate where they could get an axle looked at. Fern tells Mau both of those things while he helps her move a dish from one end of the table to the other.
 
 “Did the people with the axle find somebody?” he asks. ᴹ
 

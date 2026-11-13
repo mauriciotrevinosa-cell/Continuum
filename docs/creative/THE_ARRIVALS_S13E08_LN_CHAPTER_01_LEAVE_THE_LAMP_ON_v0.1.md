@@ -51,7 +51,7 @@ She waits a little. “Then he gets to see what we do next.” ʸ
 
 At the other end, Milim is asking Jin-Woo why nobody came for her. He tells her they could still see her from where they were. She considers whether that makes it better, and decides she wants somebody to ask her to pass the bread at least. Chloe does. Milim gives her half the loaf. Rem reaches over to take a piece for the plate before Milim can decide that the other half belongs to Ori.
 
-Makima comes in with Bellion's next set of notes. She stands near the end of the table until Rimuru has found somebody to take the first half of the watch. There's a chair beside him. Umaru sees her look at it. She moves her plate far enough back for Makima to sit without having to ask. She does not move her own chair.
+Makima comes in with Bellion's next set of notes. She stands near the end of the table until Rimuru has finished going over the first combat relief with Bellion. There's a chair beside him. Umaru sees her look at it. She moves her plate far enough back for Makima to sit without having to ask. She does not move her own chair.
 
 “I'm still angry,” Umaru tells her. ᵁ
 

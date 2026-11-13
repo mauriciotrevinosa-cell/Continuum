@@ -73,6 +73,6 @@ Frieren puts the papers down side by side. They know that they can mark a touch 
 
 Fern asks if she'd like to borrow the map. Frieren takes it and goes to the other end of the bridge while Shuna picks the person who'll tell her where the first mark showed up.
 
-By the time they go back, they know they can recognise the direction of the test twice in a row. The third time, Shuna has to ask for it again because somebody walked across the bridge in the middle of it and she was watching his feet. Fern notes that one too. She has room left on the page for a watch that can see the bridge, a way of calling Shuna and the name of the person who knows which woman uses the bench.
+By the time they go back, they know they can recognise the direction of the test twice in a row. The third time, Shuna has to ask for it again because somebody walked across the bridge in the middle of it and she was watching his feet. Fern notes that one too. She has room left on the page for a post for one of Muster's shadows with a view of the bridge, a way of calling Shuna and the name of the person who knows which woman uses the bench.
 
 Before they leave, Ramiris closes the little room. The grass falls back against the bank. Fern watches a person come down the track, put one hand on the bench to get around it and go on to the bridge. There's nothing he has to ask them before he can cross.

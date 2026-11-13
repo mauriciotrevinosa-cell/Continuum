@@ -45,7 +45,7 @@ He looks back towards Gojo. Gojo lifts a hand from the other side of the rail. Y
 
 * * *
 
-At supper, there is a mark through the mistake on Fern's first copy. She puts the copy where all three of them can see it. The little line is still there under the mark. She asks the person who drew it to come and tell them what he heard. He stands at the table without a bowl until Rem asks him if he'd rather have it when he's finished. He says he'd like it now. She gives him one and waits while he sets it down.
+At supper, there is a mark through the mistake on Fern's first copy. She puts the copy where all three of them can see it. The little line is still there under the mark. She calls over the shadow who drew it. It stands at the table and looks to Mau. He motions to the place by Fern where it can see the page. It comes round to stand beside her.
 
 “I heard the path was open,” he says. “I saw Gojo's name. I thought she'd written that he was there.” ᵂ
 
@@ -57,7 +57,7 @@ Fern shows them what she wrote. *On his way.* Yuta puts his spoon down when he s
 
 “No.” ʸᵗ
 
-Maki looks at Fern. Fern leaves the old page on the table and gets the new one. This time there is a place to write who said they had arrived and a different place for somebody saying the road is clear. Yuta asks if they can have the person who's leaving hear it from the person who's there. Bellion says he can do that with the shadows too. The man who drew the line puts a finger on the two places. He asks to be the one who writes it out for the next watch.
+Maki looks at Fern. Fern leaves the old page on the table and gets the new one. This time there is a place to write who said they had arrived and a different place for somebody saying the road is clear. Yuta asks if they can have the person who's leaving hear it from the person who's there. Mau tells Bellion to make it an order for every shadow handling the reliefs. The soldier who drew the line puts a finger on each of the two places to make sure it has them right. Bellion has it write the first copy for Muster's next rotation.
 
 Yuka tells them how much she thought she had left to use. Shoko asks whether she knew it was gone before the second light came. Yuka says she knew when she reached for it. She can still feel what it's like to make a fist around something that's already stopped being there.
 

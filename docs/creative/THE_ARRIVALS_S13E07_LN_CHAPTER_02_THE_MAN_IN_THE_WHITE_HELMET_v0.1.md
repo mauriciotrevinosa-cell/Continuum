@@ -61,6 +61,8 @@ The man says a name very quietly. The rescuer asks if he can write it on the bac
 
 Then Mau calls Fern and tells her what the blue hands mean. She asks whether the rescue workers have agreed to cross. He puts the question to the man beside him, who looks at the four shadows and says he would if his people can find the same way back out.
 
-“They can,” Mau tells him. “Tell them to show the hands. The watch will let them through.” ᴹ
+“They can,” Mau tells him. “Tell them to show the hands. I'll tell my soldiers to let them through.” ᴹ
+
+He sends the order to Bellion with a description of the helmet. Bellion passes it to Muster for the gate and down the line to the shadows on the road.
 
 Fern repeats what he told her. Mau hears her ask for Shoko while he's still holding the connection. By then the white helmet is bent over the injured man's leg. Mau goes to the edge of the little space the shadows made and stays there until he hears another set of feet coming down the road.

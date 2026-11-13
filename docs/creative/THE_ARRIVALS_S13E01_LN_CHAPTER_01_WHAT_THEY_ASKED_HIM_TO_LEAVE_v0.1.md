@@ -5,7 +5,7 @@
 **Volume:** 76
 **Reading order:** 1
 **Source episode:** S13E01
-**Continuity state:** B+273, late morning into early afternoon. Mau returns from the hearing, gives the house his account and reinforces the existing watch with ordinary shadows. The ant remains with Testarossa for the moment. No mobilization or known attack date.
+**Continuity state:** B+273, late morning into early afternoon. Mau returns from the hearing, gives the house his account and orders Bellion to reinforce the approaches with ordinary shadows alongside Muster's existing home watch. The ant remains with Testarossa for the moment. No mobilization or known attack date.
 
 *When: At the lodge, Mau makes sure the ant has found the steps.*
 
@@ -97,15 +97,15 @@ From beyond the yard, somebody calls to ask whether the bread cart can come in t
 
 Mau watches it go by. He thinks of the three people he'd pictured in the hall. One of them is out right now. He knows when she usually comes back because she brings a particular kind of bread and complains if somebody tries to carry it for her.
 
-“I want more eyes on the roads for a while,” he says. “I'll ask Bellion to put out some more of mine. I'd like the watch to keep doing what they were doing when I left.” ᴹ
+“I want more eyes on the roads for a while,” he says. “I'll send Bellion with more of my soldiers. Muster and his forty will keep their usual rounds.” ᴹ
 
 “Tell them who should hear if they see something,” Fern says. ᶠᵉ
 
 Mau asks if she'd be willing. She says yes, and asks him to give them Rimuru as well, in case she's out. Rimuru nods. He takes the end of the bench nearest the kitchen and waits there while Mau calls Bellion.
 
-Bellion comes up in the shade beside the wall. Mau shows him which roads he means. There are already soldiers at the places people in the house expect to find them. He asks for three times the usual number on the approaches, enough that they can take turns and keep an eye on the places between the posts. If someone comes who looks like trouble, he wants a report. If somebody comes home with bread, let them come home with bread.
+Bellion comes up in the shade beside the wall. Mau shows him which roads he means. Muster's shadows are already at the places people in the house expect to find them. Mau orders Bellion to triple the number on the approaches with soldiers from the reserve. He gives him enough to rotate the extra posts without calling anyone off the gate. If someone comes who looks like trouble, he wants a report. If somebody comes home with bread, let them come home with bread.
 
-Bellion asks whether he wants the roads stopped if he can't get an answer straight away. Mau says to use the watch's existing rules if someone is in immediate danger. For everything else he can send word and keep looking. Bellion takes a moment to make sure he knows whose word to ask for. Then he goes to tell the soldiers.
+Bellion asks whether he wants the roads stopped if he can't get an answer straight away. Mau says to use the watch's existing rules if someone is in immediate danger. For everything else he can send word and keep looking. Bellion repeats Fern's name and Rimuru's. He inclines his head to Mau and gives the order. Along the wall, the first shadows are on their feet before Mau has turned back to the road.
 
 The bread cart stops by the kitchen. The driver takes the top crate off before anybody reaches him. Yuka puts both feet down and tries the heel Mai worked on. It holds.
 

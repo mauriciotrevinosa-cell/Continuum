@@ -43,7 +43,7 @@ Mau comes in after Shoko has made him sit for a while. He has not come straight 
 
 Makima comes up to the table with Bellion. She has heard the second name in another place. She says it before Fern shows her the page. Then she asks whether they have any reason to think the second man is going to stay where he was when she heard him.
 
-They don't. Rimuru asks Bellion to find out if the group can hear its commanders from where they are. Bellion can ask the soldiers who have been watching. He sends one of his officers while they still have all the pages on the table.
+They don't. Rimuru asks Bellion to find out if the group can hear its commanders from where they are. Bellion sends an officer from the legion to get the scouts' report while they still have all the pages on the table.
 
 Mau wants to go for both names. He tells them that. Fern asks what he intends to do when he has them. He remembers Maki asking him that at breakfast four days ago. This time he has heard what the men who were given the orders want, and has a place he thinks they can go.
 

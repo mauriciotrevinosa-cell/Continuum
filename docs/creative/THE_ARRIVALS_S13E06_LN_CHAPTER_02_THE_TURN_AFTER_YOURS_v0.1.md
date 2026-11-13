@@ -9,23 +9,23 @@
 
 *When: Mau wants to know how many times they can let the other side see the same person in the same place.*
 
-Bellion brings ordinary soldiers through the yard one group at a time. They come at the pace people use when they are carrying something heavy, because that's what Shoko wants everybody to be ready for. The last two are carrying a rolled blanket with the weight of a person in it. One of them tries to put it down beside Mai's panel. Mai points to the line where she wants them to stop instead. They take it there.
+Bellion brings Mau's ordinary shadow soldiers through the yard one group at a time. They come at the pace people use when they are carrying something heavy, because that's what Shoko wants everybody to be ready for. The last two are carrying a rolled blanket with the weight of a person in it. One of them tries to put it down beside Mai's panel. Mai points to the line where she wants them to stop instead. They take it there.
 
-Mau watches from the other side of the line. Yesterday he'd been given two paper people and lost track of one. Today the soldier at the head of the group has to ask him which way they can carry the blanket without having to turn it on its side.
+Mau watches from the other side of the line. Yesterday he'd been given two paper people and lost track of one. Today the soldier at the head of the group reaches a turn it can't take without rolling the blanket. It looks to Mau for its next order.
 
-He looks at the gate. The way through it is blocked by three of Bellion's other soldiers.
+He looks at the gate. The way through it is blocked by three more shadows Bellion has stationed there.
 
 “Wait,” he says. ᴹ
 
 They wait. He can see that they could go the other way if they were willing to put the blanket down first. Shoko is watching him think of it. He asks her if they can. She asks what she'd have to do if the person inside it couldn't move on his own. He looks back at the soldiers.
 
-“Can somebody from the other end come and meet them?” he asks. ᴹ
+“Bellion, clear the far gate and send two to take the back end. Leave enough room to turn the blanket flat.” ᴹ
 
-“Ask,” Bellion says. ᴮᵉˡ
+Bellion bows his head. “At once, my king.” ᴮᵉˡ
 
-Mau asks. Yuta appears at the end he's looking at. He is already holding something else when he gets there and has to give it to Maki before he has his hands free. Maki asks what he wants her to do with it. He tells her. By the time he's there to get one end of the blanket, somebody else has taken the place he left. Mau sees that it is Jin-Woo only after Jin-Woo has been standing there long enough to wave.
+The three shadows at the gate are already moving when Bellion points two more toward the blanket. Mau calls across to Yuta to see if he's free to meet them. Yuta appears at the end he's looking at. He is already holding something else when he gets there and has to give it to Maki before he has his hands free. Maki asks what he wants her to do with it. He tells her. By the time he's there to get one end of the blanket, somebody else has taken the place he left. Mau sees that it is Jin-Woo only after Jin-Woo has been standing there long enough to wave.
 
-They run it a second time. This time Yuta calls to ask if he can leave what he's doing before he comes. Bellion makes him wait for the answer. It takes only a little longer. The extra moment is long enough for the person carrying the blanket to need to shift his grip. Mau goes close enough to ask whether he needs a hand. The soldier makes room for it.
+They run it a second time. This time Yuta calls to ask if he can leave what he's doing before he comes. Mau signals the shadows to hold until Yuta's relief confirms he's there. It takes only a little longer. The extra moment is long enough for the shadow carrying the blanket to need to shift its grip. Mau goes close enough to ask whether it needs a hand. The soldier makes room for it.
 
 * * *
 
@@ -53,7 +53,7 @@ They take a long time over which person that is. Shoko wants whoever comes off t
 
 Mau can hold the front by himself for a while. Jin-Woo says he can too. Yuta tells them what he can do if one of the others has to come back early. Milim would like everybody to remember she can stand where one of them was standing and still have something left when they go to ask her to stand somewhere else. Rimuru says he is counting on it. She looks at him to see if he means it. When she sees he does, she moves the mark beside her name a little farther from the others so nobody has to guess where she's meant to wait.
 
-They talk about some things in the yard. They take the rest inside. The soldiers keep to what Bellion has asked them to practise. There is enough in that for them to do until the next person comes to relieve them.
+They talk about some things in the yard. They take the rest inside. The soldiers keep to the drills Bellion assigned them. There is enough in that for them to do until the next person comes to relieve them.
 
 * * *
 
@@ -86,3 +86,21 @@ He hadn't thought she would be the one to say it. He looks at the hand she's put
 “I want that too.” ᴹ
 
 She takes the paper figure off his lap. One of its feet is folded from yesterday. She straightens it with her thumbnail and sets it back where he had it at the beginning. Then she asks if he'd like to come and see where she wants to stand with Mahoraga when there are people on the bridge. He gets up slowly enough to put his foot down where he intends. She stays beside the chair until he has it under him, then goes out at his pace.
+
+* * *
+
+Beru is already by the bridge when they get there. He has Ori's hat on. It sits between his antennae at an angle that can only have taken him several attempts. Ori comes running up behind him and stops the moment she sees it.
+
+“Beru. That's mine.” ᴼ
+
+Beru puts a claw against the brim. “I was keeping it safe.” ᴮᵉ
+
+“Give her the hat, Beru,” Mau says. ᴹ
+
+Beru lifts it off his head at once. He gets down on one knee to hand it back, and Ori sees him turn it so the good side faces her. She puts it on. Then she reaches up and checks how far apart his antennae are with both hands.
+
+“What are you doing?” Beru asks. ᴮᵉ
+
+“Seeing how big yours would have to be. I'll help you get one that fits.” ᴼ
+
+He holds his head very still. Ori has to start again because he's smiling and one of his antennae won't stay where she left it.

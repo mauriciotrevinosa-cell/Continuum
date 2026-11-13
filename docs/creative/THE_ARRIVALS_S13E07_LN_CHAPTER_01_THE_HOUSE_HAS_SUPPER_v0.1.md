@@ -23,7 +23,7 @@ Ori comes in a minute later with Frieren and a piece of paper under her arm. She
 
 That evening, Fern has a man waiting at the outer post who can tell her that some carts came to the tollhouse, left without going through and have asked to come back tomorrow. She asks what was in them. He says he saw blankets. She has a second question ready and then sees he's come all this way with nothing to eat. She asks if he can stay long enough for supper.
 
-At the table, Bellion reports the carts have stopped outside the roads they are watching for the house. Rimuru asks him to keep the existing posts until there is a report of something different. Makima goes over the places they'd like covered if it comes. She has written Ori's question on the small sheet for the people doing the carrying. It is in the words Ori gave her. Shoko has put what to do when the person can't answer on the line underneath.
+At the table, Bellion reports that his scouts saw the carts stop beyond Muster's routes. Rimuru says there's no reason to move the posts yet. Mau gives Bellion the order to hold them where they are and report any change. Makima goes over the places they'd like covered if it comes. She has written Ori's question on the small sheet for the people doing the carrying. It is in the words Ori gave her. Shoko has put what to do when the person can't answer on the line underneath.
 
 Satella has brought her own bowl over. She waits for the man from the tollhouse to be shown where he can sit. When there is room to speak, she asks Rimuru if he expects her to be somewhere else tomorrow.
 
@@ -49,9 +49,9 @@ After lunch the next day, Mau finds her where she said she'd be. Satella has eno
 
 They sit there for most of the time the water stays hot. Mau has already walked the bridge with Yuka and listened to her tell him which side she wants Mahoraga on if he has to come out. He knows where Ori will be. He knows where Shoko will be and what he'll say to her if he needs her. He checks the time once while Satella is talking to him, and then he puts both hands around the cup so he won't do it again.
 
-He goes back when he said he would. Fern has people at the map. Someone from the watch has asked for the spare chair because he'd rather have it near the door than find it after he's had to come back in. Rimuru gets it for him. Yuta comes to tell him he'll be by Gojo until somebody wants them to do something different. Jin-Woo has already taken the walk he wanted to take before dark and is ready to go back out. Milim is eating the end of a piece of bread in the yard because she wants to be able to see the first person who comes for her.
+He goes back when he said he would. Fern has people at the map. One of Muster's shadows stands near the door. It points out a spare chair in the path they'll use to bring reports inside. Rimuru puts it against the wall. Yuta comes to tell him he'll be by Gojo until somebody wants them to do something different. Jin-Woo has already taken the walk he wanted to take before dark and is ready to go back out. Milim is eating the end of a piece of bread in the yard because she wants to be able to see the first person who comes for her.
 
-Mau takes a bowl into the kitchen. He sets it down in the place where he found it. When he comes back, Fern has one hand on the map and the other on the message the watch has just sent in.
+Mau takes a bowl into the kitchen. He sets it down in the place where he found it. When he comes back, Fern has one hand on the map and the other on the message from one of Bellion's shadow scouts.
 
 “How many?” Rimuru asks. ᴿ
 

@@ -15,7 +15,7 @@ Yuta calls before Fern is done copying. The man with the blue hands has somebody
 
 “On his way,” Fern tells him. ᶠᵉ
 
-She puts it down in the place beside his name. At the same time a shadow comes in and asks Bellion where to take the spare blanket. He tells it to wait by the next door. Another soldier arrives from the bank. It says the route is open. The shadow recording the handoffs beside Fern hears *open*, sees the note beside Gojo's name and draws the little line that usually means the relief is in place.
+She puts it down in the place beside his name. At the same time a shadow comes in with the spare blanket. Bellion points it towards the next door. A sentry from the bank signals that the route is open. Bellion reads the signal back aloud for Fern. The shadow recording the handoffs beside her hears *open*, sees the note beside Gojo's name and draws the little line that usually means the relief is in place.
 
 Fern sees the line when she looks down again. She is still waiting for Gojo to call. Then somebody asks her which report she wants copied first. She gives him the one about the people on the far side. By the time she comes back to the line, the shadow has already sent the confirmation to Yuta.
 

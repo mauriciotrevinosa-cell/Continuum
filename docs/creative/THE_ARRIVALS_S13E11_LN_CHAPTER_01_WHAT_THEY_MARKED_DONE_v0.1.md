@@ -47,7 +47,7 @@ He looks back towards Gojo. Gojo lifts a hand from the other side of the rail. Y
 
 At supper, there is a mark through the mistake on Fern's first copy. She puts the copy where all three of them can see it. The little line is still there under the mark. She calls over the shadow who drew it. It stands at the table and looks to Mau. He motions to the place by Fern where it can see the page. It comes round to stand beside her.
 
-“I heard the path was open,” he says. “I saw Gojo's name. I thought she'd written that he was there.” ᵂ
+Fern asks which report it was working from. The shadow gives the same sign the sentry gave for an open route. Then it taps Gojo's name and the little line beside it. Bellion looks at Fern. She was there when he read the signal out. Both of them heard what the sentry actually reported.
 
 Fern shows them what she wrote. *On his way.* Yuta puts his spoon down when he sees it.
 

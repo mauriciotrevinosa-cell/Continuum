@@ -21,7 +21,7 @@ The man looks up. Somebody behind him calls to him to finish reading. He gets as
 
 Mau had expected a line to move like a line. The first three don't wait for the fourth. One of them comes close enough to swing. Mau brings the surface of the sky up between them and feels the blade go past his shoulder into empty air. He takes the man's wrist when it comes back down. The man lets go of the sword much later than Mau expects. Mau holds him through the part where he still thinks he can get it back, then lets him sit down on his own.
 
-Bellion's soldiers move. He hears three of them pass behind him, and a fourth calls to ask whether the cart at the front is empty. He can see a pair of hands on its side. He asks them to wait for the owner to get out before they move it. A moment later the hands are gone and the cart begins to roll towards the place the woman with the basket came from.
+Bellion's soldiers move. Mau hears three of them pass behind him. A fourth reaches the cart and points to a pair of hands gripping its side. Mau signals the shadows to hold until the owner gets out. A moment later the hands are gone and the cart begins to roll towards the place the woman with the basket came from.
 
 From the other side of the road comes a cry. Mau turns in time to see a man on the ground holding his leg. Someone in a white helmet is running towards him. The helmet has a blue mark on it, two open hands with a little space between. The man has got a strap over his shoulder and is trying to get it off while he runs.
 
@@ -43,7 +43,7 @@ Mau moves aside. The man gets to his knees next to the injured soldier. He asks 
 
 “Yes,” Mau says. ᴹ
 
-He calls to Bellion. The nearest shadows spread far enough apart for the man on the ground to see the road. They turn to face the people still standing. A man from the line shouts the injured soldier's name. He gets no farther than the ditch before one of the shadows asks him to stop. Mau tells the man in the helmet that somebody is calling. The injured man closes his eyes.
+He calls to Bellion. The nearest shadows spread far enough apart for the man on the ground to see the road. They turn to face the people still standing. A man from the line shouts the injured soldier's name. He gets no farther than the ditch before one of the shadows steps into his path and raises a hand. Mau tells the man in the helmet that somebody is calling. The injured man closes his eyes.
 
 “Don't tell him where I'm going,” he says. ᴵⁿ
 

@@ -53,7 +53,7 @@ Frieren looks at him in silence until he laughs.
 
 There's work to do before lunch. On the walk to the outer gate Mau counts the shadows by position, as Muster's forty go back to their usual dusk routes and Bellion's reinforcements come off the near posts. There's still a pair of extra shadows on the road Shoko's patient will take home when he's fit to go. He is no longer the only one waiting. His daughter arrived at dawn with her uncle and brought her own pillow because she didn't know if she would have to sleep on the floor. Rem found her a bed near him.
 
-At the gate Bellion shows Mau where the shadows are listening from. The closest one is perched inside the back of a broken cart. The next one is at a turn where someone can see travelers approaching the house for quite a long time before they hear them. The reserve shadows can carry reports without crossing the common room. If a traveler needs help at a post, the soldier stationed there signals Muster. One of the shadows that can speak comes out to meet them if the one at the post can't. Mau looks until he can picture the arrangement at night.
+At the gate Bellion shows Mau where the shadows are listening from. The closest one is perched inside the back of a broken cart. The next one is at a turn where someone can see travelers approaching the house for quite a long time before they hear them. The reserve shadows can carry reports without crossing the common room. If a traveler needs help at a post, the sentry signals Muster and shows them where to wait. Muster sends word to the house so someone can come out to speak with them. Mau looks until he can picture the arrangement at night.
 
 “How long do you want the extra pair on the road?” Bellion asks. ᴮᵉˡ
 

@@ -53,7 +53,7 @@ Later Yuka finds him with a little pile of cups by the door. He has been waiting
 
 “You know what I thought about on the bridge today?” she says. ʸ
 
-“Whether you had to get Bragas out?” ᴹ
+“Whether you had to get Mahoraga out?” ᴹ
 
 “After that.” She sets the cups down. “I thought we'd earned a trip.” ʸ
 

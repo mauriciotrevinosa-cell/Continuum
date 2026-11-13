@@ -77,11 +77,11 @@ Yuka takes a while to answer him. She looks down at the names on her page. Shizu
 
 “Gojo and Yuta to begin with,” Rimuru says. “And Milim, if we need her. I want to talk to each of them about what that means.” ᴿ
 
-Yuka puts a finger beside the place on the map where the footbridge would lead. Bragas could watch that approach with her. He'd have room to move without coming through the yard. She's spent enough time practising how to call him that she can tell them where she'd want everybody else when she does. She shows Frieren the place. Frieren leans over to see it properly and asks what Yuka wants to be able to see from there.
+Yuka puts a finger beside the place on the map where the footbridge would lead. Mahoraga could watch that approach with her. He'd have room to move without coming through the yard. She's spent enough time practising how to call him that she can tell them where she'd want everybody else when she does. She shows Frieren the place. Frieren leans over to see it properly and asks what Yuka wants to be able to see from there.
 
 Yuka gives her two things. They go back and forth until the second is possible.
 
-“I'll stay,” she tells Mau. “I want to be here if somebody gets through. That gives me something to do with Bragas I can actually practise.” ʸ
+“I'll stay,” she tells Mau. “I want to be here if somebody gets through. That gives me something to do with Mahoraga I can actually practise.” ʸ
 
 He starts to tell her how glad he is. She takes his wrist before he can get the words all the way out.
 

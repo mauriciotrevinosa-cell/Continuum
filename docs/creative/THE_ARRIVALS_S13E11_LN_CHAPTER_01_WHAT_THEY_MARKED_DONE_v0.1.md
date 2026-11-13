@@ -7,9 +7,9 @@
 **Source episode:** S13E11
 **Continuity state:** B+283 morning and night. Mau intervenes by Exchange while Yuka’s technique is exhausted; Gojo takes the actual relief. At supper the house traces the mistaken handoff and changes its confirmation. No deaths.
 
-*When: Mau hears the sound behind him first. It's Yuka telling Bragas to stay where he is.*
+*When: Mau hears the sound behind him first. It's Yuka telling Mahoraga to stay where he is.*
 
-The second light goes up. Mau gets Sky under it and bends it away from the rail. It leaves a white line above them, high enough that a man on the bridge turns his head to see it. Bragas has one foot down in front of the man's path. He leaves it there when the man looks back.
+The second light goes up. Mau gets Sky under it and bends it away from the rail. It leaves a white line above them, high enough that a man on the bridge turns his head to see it. Mahoraga has one foot down in front of the man's path. He leaves it there when the man looks back.
 
 Yuka takes a breath behind Mau. He turns enough to see her hand. She's still holding it as though there's something in it. She closes it when she sees him look.
 
@@ -23,7 +23,7 @@ He steps back far enough to meet Gojo.
 
 “Now it is,” Yuka says. ʸ
 
-She tells him what Bragas is holding and where the people on the path have stopped. He looks once and says he's got them. Mau waits for him to say it where Rimuru can hear before he takes a breath to ask Yuka how she's doing.
+She tells him what Mahoraga is holding and where the people on the path have stopped. He looks once and says he's got them. Mau waits for him to say it where Rimuru can hear before he takes a breath to ask Yuka how she's doing.
 
 “I thought I'd have enough for two,” she tells him. ʸ
 
@@ -31,7 +31,7 @@ He takes her hand. It closes on his a little sooner than he expects.
 
 “Do you want to walk with me?” he asks. ᴹ
 
-She looks at Bragas. She calls him back when Gojo gives her room to do it. He comes far enough to see which way she's going and keeps to that side of her until they're both past the bend.
+She looks at Mahoraga. She calls him back when Gojo gives her room to do it. He comes far enough to see which way she's going and keeps to that side of her until they're both past the bend.
 
 At the corner they meet Yuta coming back. The man he went for is still being carried. He puts his hand on the rail and looks at where the light went.
 
@@ -63,7 +63,7 @@ Yuka tells them how much she thought she had left to use. Shoko asks whether she
 
 “What did you want us to know?” Shoko asks. ˢʰ
 
-“That Bragas could still hold the bridge. And that I needed somebody with me.” ʸ
+“That Mahoraga could still hold the bridge. And that I needed somebody with me.” ʸ
 
 Mau is listening so hard he doesn't notice that Yuka has put a hand beside his until she moves it nearer. He takes it.
 

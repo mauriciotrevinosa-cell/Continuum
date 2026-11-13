@@ -23,21 +23,21 @@ Yuta leaves.
 
 * * *
 
-Yuka can see the corner of the near bank from where she's standing with Bragas. The first five minutes have been exactly what she'd expected. The next one brings somebody running up from the place where Yuta had been. He stops short when he sees the wheel above Bragas. He turns to tell somebody behind him where Yuka is.
+Yuka can see the corner of the near bank from where she's standing with Mahoraga. The first five minutes have been exactly what she'd expected. The next one brings somebody running up from the place where Yuta had been. He stops short when he sees the wheel above Mahoraga. He turns to tell somebody behind him where Yuka is.
 
 She calls to Fern and gets two answers. Yuta is with the wounded man. Gojo is still on his way down. Neither one can see the other from where he is.
 
-Yuka asks Bragas to hold the crossing. He gets far enough forward that the men on it have to stop and look. There is a second group where the path goes around the end of the rail. She had picked the place she is standing in so that she would be able to see that part. She can see it very well now. She can also see one of the people coming through is carrying the folded blanket from the bank.
+Yuka asks Mahoraga to hold the crossing. He gets far enough forward that the men on it have to stop and look. There is a second group where the path goes around the end of the rail. She had picked the place she is standing in so that she would be able to see that part. She can see it very well now. She can also see one of the people coming through is carrying the folded blanket from the bank.
 
 “Is there somebody in it?” she asks. ʸ
 
 The man shakes his head and lets the blanket go. Something bright comes out of the fold and hits the path behind her. It was meant to put her on the other side of the rail. She puts up the part of the technique she has left and gets it to go over instead. She can feel the instant it finishes. The shape she was holding is gone from her hand before she can ask it to come back.
 
-Bragas can still move. He's standing across the people she'd asked him to keep from coming through. If she calls him back, she can see which of them will go first. She leaves him where he is.
+Mahoraga can still move. He's standing across the people she'd asked him to keep from coming through. If she calls him back, she can see which of them will go first. She leaves him where he is.
 
 * * *
 
-Out by the road, Mau hears Yuta call twice. The first time he thinks Yuta is telling them he's found the injured man. The second time he hears him say he can't get back to the bridge before Gojo gets there. Mau asks Rimuru whether he can see the place Yuka is standing. Rimuru says he can see Bragas.
+Out by the road, Mau hears Yuta call twice. The first time he thinks Yuta is telling them he's found the injured man. The second time he hears him say he can't get back to the bridge before Gojo gets there. Mau asks Rimuru whether he can see the place Yuka is standing. Rimuru says he can see Mahoraga.
 
 Mau can see her through the shadow at the edge of the path. She is holding her hand out. The technique she expects to get back isn't there. The man with the blanket has already put his other hand up.
 

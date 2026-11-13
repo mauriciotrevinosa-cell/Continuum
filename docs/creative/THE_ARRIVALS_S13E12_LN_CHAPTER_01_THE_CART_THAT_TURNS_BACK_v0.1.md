@@ -31,7 +31,7 @@ The cart is almost clear when somebody farther up calls for it to stop.
 
 * * *
 
-Mau hears Yuka before he sees her. She's been watching the far end of the rail with Bragas. She calls out that there are people coming down on foot. He looks where she can see them. An officer is coming down with both hands full. The people coming with him are keeping well away from his right side. Mau thinks they're doing that to give him room. Then one of them puts a hand out to keep somebody else from getting into it.
+Mau hears Yuka before he sees her. She's been watching the far end of the rail with Mahoraga. She calls out that there are people coming down on foot. He looks where she can see them. An officer is coming down with both hands full. The people coming with him are keeping well away from his right side. Mau thinks they're doing that to give him room. Then one of them puts a hand out to keep somebody else from getting into it.
 
 The officer tells the driver to stop a second time. The driver doesn't. The officer turns towards the bridge and raises the thing in his right hand. One of his men catches him by the elbow. The light goes wide. It strikes a man who was waiting beside the ditch with his back to it.
 
@@ -41,7 +41,7 @@ The man in the white helmet runs past Mau. Mau follows as far as the rail. He ca
 
 “Then ask her to come here,” he says. ᴴ
 
-Mau does. The officer has put his weapon down by then. He reaches for it once. Bragas stops between him and the place where he put it. Yuka calls to the men behind him to ask whether any of them want to go with the cart. Two move before they hear the whole question. A third goes far enough to put his hand on the back of the seat.
+Mau does. The officer has put his weapon down by then. He reaches for it once. Mahoraga stops between him and the place where he put it. Yuka calls to the men behind him to ask whether any of them want to go with the cart. Two move before they hear the whole question. A third goes far enough to put his hand on the back of the seat.
 
 Mau stays where he can see the man in the ditch. The rescuer asks for a light. Mau makes a little one and gives it to the soldier who took the officer by the elbow. He puts it exactly where the rescuer asks.
 

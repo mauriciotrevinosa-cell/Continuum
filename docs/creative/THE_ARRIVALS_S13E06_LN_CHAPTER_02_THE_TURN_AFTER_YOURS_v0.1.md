@@ -85,4 +85,4 @@ He hadn't thought she would be the one to say it. He looks at the hand she's put
 
 “I want that too.” ᴹ
 
-She takes the paper figure off his lap. One of its feet is folded from yesterday. She straightens it with her thumbnail and sets it back where he had it at the beginning. Then she asks if he'd like to come and see where she wants to stand with Bragas when there are people on the bridge. He gets up slowly enough to put his foot down where he intends. She stays beside the chair until he has it under him, then goes out at his pace.
+She takes the paper figure off his lap. One of its feet is folded from yesterday. She straightens it with her thumbnail and sets it back where he had it at the beginning. Then she asks if he'd like to come and see where she wants to stand with Mahoraga when there are people on the bridge. He gets up slowly enough to put his foot down where he intends. She stays beside the chair until he has it under him, then goes out at his pace.

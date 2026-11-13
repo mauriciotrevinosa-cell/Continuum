@@ -31,7 +31,7 @@ Mau remembers the way the man tried to lift it himself. He asks whether Shoko wa
 
 The door to the common room is open. There are bowls at both ends of the table and a place beside Yuka, who is just putting hers down. He sits there. She lets him look at her for long enough to see where she'd been standing. The knees of her trousers are damp from the bridge. There is nothing on her hands but a bit of flour.
 
-“Did you need Bragas?” he asks. ᴹ
+“Did you need Mahoraga?” he asks. ᴹ
 
 “No. He would've liked me to ask him a second time.” ʸ
 

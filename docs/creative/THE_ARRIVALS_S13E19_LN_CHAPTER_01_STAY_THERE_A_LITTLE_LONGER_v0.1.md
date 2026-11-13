@@ -85,7 +85,27 @@ Mau looks at her for a second. She can still feel the smile in the corner of his
 
 She presses a kiss below his ear. The answer warms her as much as the breath he lets out there. She has no speech ready for him after that. She gets the sheet out from under his knee, he reaches down to pull it over them, and it catches on his foot. She laughs so hard into his shoulder he has to wait to try again. Once he gets it loose she catches his face between her hands and brings him back to her.
 
-When they make love, she keeps her eyes open as long as she can. Mau says her name into the small space between their faces. She draws him close before he's finished, and he says it again where she can hear it. For a while she's aware of every place the bed gives under their weight. Then she finds his hand in the folds of the sheet and has only to think as far as the next breath. He stays close enough for her to take it with him.
+Mau gets a hand around hers before she can take it away from his face. He turns his head and kisses her palm. She expects him to let go after that. Instead he keeps it against his cheek and looks at her from there.
+
+“I want to see you,” he says. “Will you look at me?” ᴹ
+
+She does. He's close enough that when his eyes move from one of hers to the other she can see him doing it. At the restaurant she could say his name a dozen different ways and still look out the window if she got embarrassed. Here he says hers once and she has to lower her face to his shoulder for a breath. She feels him start to laugh. Then he kisses her temple and waits for her to look up again.
+
+“Say it once more,” she says. ʸ
+
+He says it right away. She thought she'd be ready for it the second time. The way he says it is the same, and that's what gets her. She lifts her face and kisses him until she feels his hand tighten around hers.
+
+When they make love, the wind comes in under the curtain and cools the back of her shoulder. She asks Mau to come closer, and he draws the sheet up with him as he does. For a while she can hear both of them breathing over the water. His forehead slips against hers. She turns a little to give him room, and he takes that as a reason to pull away.
+
+“Where are you going?” ʸ
+
+“I thought you wanted room.” ᴹ
+
+“I wanted you to stop getting my hair in your mouth.” ʸ
+
+He laughs. She gets the hair out of the way herself, and before she can reach for him again he comes back and kisses her. He takes his time this time. She can feel the moment he stops trying to tell whether she's about to laugh and lets himself enjoy it. She puts her hand on his back and leaves it there. When he looks up to check on her, she finds she can keep her eyes on him as long as she likes.
+
+She loses track of the water. She can hear it again when he says her name a third time, softly enough she has to lean her cheek against his to catch the end of it. She finds his hand in the folds of the sheet and holds on while they get their breath back. His thumb moves once against her knuckles. She squeezes it and feels him smile before either of them opens their eyes.
 
 Afterward neither of them is in a hurry to speak. Mau puts his cheek against her hair, then moves it when she tugs a strand free from under his chin. She drapes it across the pillow where it won't catch again. He traces a little arc over her knuckles with his thumb. She feels him stop after the third pass and waits. The fourth one comes after a wave she can hear all the way up the beach.
 

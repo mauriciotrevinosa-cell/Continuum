@@ -33,7 +33,7 @@ He looks at his bread. He'd been about to wrap it and find out if there was some
 
 * * *
 
-There's an outer lodge where the carriages are turned around. Mau stops there and asks one of the ants to wait with him while he sees how far the hall is from the gate. From the top of the steps he can still see the flag over the lodge. He goes back down, points out the open doors at the top in case it finds itself in the hall, and lets it decide whether it wants to wait inside or out. It puts one foot on the warm stone outside and settles in.
+There's an outer lodge where the carriages are turned around. Mau stops there and asks one of the ants to wait with him while he sees how far the hall is from the gate. With all six feet on the ground, the ant's head comes up to Mau's knee. It angles its round abdomen out of the way of the next carriage and looks up at him. From the top of the steps he can still see the flag over the lodge. He goes back down, points out the open doors at the top in case it finds itself in the hall, and lets it decide whether it wants to wait inside or out. It puts one foot on the warm stone outside and settles in.
 
 Before he leaves it, Mau walks the last few steps with it at its pace. There's a lane for people who came on foot, where the wheels stay on the other side of a low stone edge. He shows it the gap by the post. The ant goes through and comes back on its own. Then it turns to face the sun and stays exactly where he can find it again.
 

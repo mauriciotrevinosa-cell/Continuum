@@ -103,4 +103,4 @@ Mau thinks of his finger on the paper at breakfast. They had asked him to hear w
 
 “You can try.” ᴹ
 
-The chair they had gone to so much trouble to put there is empty for a fraction of a second. Then an ant is on it. It has its forelegs on the edge of the seat, right where Mau showed it the exit would be.
+The chair they had gone to so much trouble to put there is empty for a fraction of a second. Then a black ant the size of a dog is on it. The chair creaks as it puts its forelegs on the edge of the seat and turns its head towards the exit.

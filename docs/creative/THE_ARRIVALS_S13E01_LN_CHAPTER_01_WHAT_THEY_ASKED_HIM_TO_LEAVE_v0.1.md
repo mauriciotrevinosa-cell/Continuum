@@ -11,7 +11,7 @@
 
 He waits on the foot side of the lodge. From there he can see the top of the steps if he stands where the driver would rather put his carriage. He moves for the driver. The next time he looks up, Testarossa is coming down at a pace that would make no sense if she were alone.
 
-The ant comes into view on the step below her. It can manage the drop. It puts one foot over, feels around for the stone and goes the rest of the way. Testarossa says something Mau can't hear from where he's standing. The ant stops to listen. Mau waits long enough to see it choose to go on beside her.
+The ant comes into view on the step below her. The stairs are wide enough for both of them. It reaches down with its front pair of legs, then brings the rest of its weight forward without scraping its abdomen on the stone. Testarossa says something Mau can't hear from where he's standing. The ant stops to listen. Mau waits long enough to see it choose to go on beside her.
 
 Then he goes home.
 

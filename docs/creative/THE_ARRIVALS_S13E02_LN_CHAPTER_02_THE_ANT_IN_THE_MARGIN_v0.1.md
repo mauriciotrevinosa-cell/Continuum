@@ -17,7 +17,7 @@ Testarossa has written for Tempest first. The permits for the house still stand.
 
 Fern turns it over. The second page is folded the other way. Testarossa wanted Mau to know that his ant got down the steps and went all the way to the lodge with her. It chose to come along a little farther when she asked. She finds it agreeable company and would like to know whether it can stay.
 
-Mau reads that bit for himself. There's a small mark beside the question. The ant has put a foot in ink and put it back down on the page. He knows because there are two faint prints where it walked off.
+Mau reads that bit for himself. An ink print takes up most of the space beneath the question. He can see where Testarossa must have held the page steady for the ant to put one foot on it. There's a faint second print on the corner where it stepped off.
 
 “It went with her?” asks Yuka. ʸ
 
@@ -31,13 +31,13 @@ Fern takes his cup off the place he was about to set it. She brings another chai
 
 * * *
 
-The ant arrives with Testarossa. It comes out from behind her case when she puts it down. Mau offers his hand. The ant steps onto it. He holds it long enough to ask if it's happy where it is.
+The ant comes in at Testarossa's knee. Its antennae sweep the legs of the chair Fern brought over. Mau sits back to give it a little room and offers a hand. It puts one forefoot in his palm. He holds it long enough to ask if it's happy where it is.
 
 It makes a small sound and looks back at Testarossa.
 
 “Then you can stay,” he says. He lowers his hand so it can go back to her. “She knows where to bring you if you change your mind.” ᴹ
 
-It crosses the table to the case. Testarossa puts a folded cloth beside it, and the ant steps onto the cloth without being asked.
+It goes around the table to where Testarossa has set her case down. She takes out a folded cloth and puts it on the floor. The ant wipes its front feet on it without being asked.
 
 “Thank you,” she says. “Antonio, you've left footprints on my good paper.” ᵀᵉ
 
@@ -55,7 +55,7 @@ She says it in exactly the voice she'd used for the trade permits. Mau takes a s
 
 “I'm trying.” ʸ
 
-Antonio stays on the cloth. He raises his head when Testarossa says his name a second time. Mau laughs at that too. By the time Fern asks whether there is anything else in the case, Testarossa has moved it nearer him so he can get down without having to cross the whole table again.
+Antonio settles beside the cloth. He raises his head when Testarossa says his name a second time. Mau laughs at that too. By the time Fern asks whether there is anything else in the case, Antonio has put both forefeet over the clean edge of the cloth, as though waiting to be told he's finished.
 
 There is a copy of the clerk's record in the case. Fern takes it and lets Testarossa finish telling Rimuru what happened after Mau left. Elmesia waited for the clerk to get through the pages she wanted, and Luminous took the parts about the roads with her. The man who proposed the restrictions asked for a stamp on a sheet he wanted to send. He went out with his own papers and an empty one.
 
@@ -75,7 +75,7 @@ Mau thinks of the ant taking the steps while she went on beside it. He'd expecte
 
 “That we're grateful. And that the people who relieved them yesterday will come at the usual time.” ᵀᵉ
 
-He tells her he'll pass it on. She pulls the cloth a little closer to herself before she opens the other side of the case. Antonio steps onto her cuff. He gets his front feet over the edge and waits for her to finish what she's doing.
+He tells her he'll pass it on. She bends down to open the other side of the case. Antonio puts one forefoot beside her boot and taps the cuff of her sleeve with an antenna. She puts her hand on his head while she looks through the rest of the papers.
 
 * * *
 

@@ -9,7 +9,7 @@
 
 *When: Testarossa is close enough to see the ant put its forelegs on the edge of the chair.*
 
-It makes it to the floor before anybody has decided what to do about the chair. A man standing between it and the door moves a shoe. The ant takes the space he gives it, comes around the shoe and stops in front of another one.
+It drops to the floor before anybody has decided what to do about the chair. A man standing between it and the door moves both feet to let it pass. The ant takes the space he gives it, skirts the end of the bench and stops behind a man who hasn't seen it coming.
 
 “Did he just leave that here?” asks the man who wanted the door closed. ᴰᵉ
 
@@ -31,7 +31,7 @@ Testarossa watches the clerk set a scrap of paper at the right place. He had bee
 
 Her packet of tea is still holding the notice down. She lifts it so the clerk can slide the notice free. She asks for a copy of the page on the forms along with the one the woman requested. The clerk says he can have both ready if she can give him a little time. She takes her packet back and sits down to give it to him.
 
-The Lugunican envoy has been collecting his pages. He has the one about Satella by itself. Reinhard stays beside him while he folds it and goes towards the door. The envoy pauses halfway there to ask whether he intends to come. Reinhard looks at the floor between them first. He takes one step back. The ant uses the opening, goes a little farther and stops when the attendant's heel comes down in front of it.
+The Lugunican envoy has been collecting his pages. He has the one about Satella by itself. Reinhard stays beside him while he folds it and goes towards the door. The envoy pauses halfway there to ask whether he intends to come. Reinhard looks at the floor between them first. He takes one step back. The ant uses the opening, goes a little farther and stops beside the attendant's leg.
 
 “I'll be along,” Reinhard says. ᴿʰ
 
@@ -59,11 +59,11 @@ The clerk asks Elmesia whether she wants her copy sent on ahead or if she'll tak
 
 Testarossa takes a moment to tell the clerk where in Tempest his letter should go. She gives him the name of the person who will open it. If anyone brings him another sheet with an empty place for a date, he can send that too. He writes the address in the margin of his own notes and underlines the name.
 
-She goes round the table to meet the ant. It's still by the attendant's shoe. She bends low enough for it to see her.
+She goes round the table to meet the ant. It's still by the attendant. She stops just short of its antennae and leans down to catch its eye.
 
 “Would you like help finding the way out?” ᵀᵉ
 
-The ant raises its head. After a moment it gives her a nod. She goes ahead of it as far as the doorway. The attendant looks down just in time to keep holding the door.
+The ant raises its head. After a moment it gives her a nod. She goes ahead of it as far as the doorway. The attendant takes another step back and holds the door wide enough for them both.
 
 Outside, it starts towards the middle of the steps. Testarossa points out a way down along the side where the stone is warm. The ant tries the first drop and finds it can manage it. She takes the next step while it works out how to make the turn.
 

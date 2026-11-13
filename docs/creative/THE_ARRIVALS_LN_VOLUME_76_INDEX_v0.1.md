@@ -9,7 +9,7 @@
 
 Mau brings back an account of the hearing and a card Yuka wants to read twice. The next morning, Ori has a question for the people at the table.
 
-[Previous volume](THE_ARRIVALS_LN_VOLUME_75_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S13_ACTUAL_PRODUCTION_STATE_2026-11-12.md)
+[Previous volume](THE_ARRIVALS_LN_VOLUME_75_INDEX_v0.1.md) · [Next volume](THE_ARRIVALS_LN_VOLUME_77_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S13_ACTUAL_PRODUCTION_STATE_2026-11-12.md)
 
 ## Reading order
 

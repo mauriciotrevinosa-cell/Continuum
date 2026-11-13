@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S13 v0.1 — IN PROGRESS
 **Volume:** 76
 **Season:** 13
-**Coverage:** S13E01–S13E04 (season continues)
+**Coverage:** S13E01–S13E07 (season continues)
 **Volume title:** **The Day She Gives Them**
-**Chapter files:** 7
+**Chapter files:** 13
 
 Mau brings back an account of the hearing and a card Yuka wants to read twice. The next morning, Ori has a question for the people at the table.
 
@@ -22,3 +22,9 @@ Mau brings back an account of the hearing and a card Yuka wants to read twice. T
 | 5 | S13E03 | The Day She Gives Them | `THE_ARRIVALS_S13E03_LN_CHAPTER_01_THE_DAY_SHE_GIVES_THEM_v0.1.md` |
 | 6 | S13E03 | A Key of Her Own | `THE_ARRIVALS_S13E03_LN_CHAPTER_02_A_KEY_OF_HER_OWN_v0.1.md` |
 | 7 | S13E04 | Who Do We Ask For | `THE_ARRIVALS_S13E04_LN_CHAPTER_01_WHO_DO_WE_ASK_FOR_v0.1.md` |
+| 8 | S13E04 | Who Comes Back | `THE_ARRIVALS_S13E04_LN_CHAPTER_02_WHO_COMES_BACK_v0.1.md` |
+| 9 | S13E05 | The Part That Felt Right | `THE_ARRIVALS_S13E05_LN_CHAPTER_01_THE_PART_THAT_FELT_RIGHT_v0.1.md` |
+| 10 | S13E05 | The Bank Is Still There | `THE_ARRIVALS_S13E05_LN_CHAPTER_02_THE_BANK_IS_STILL_THERE_v0.1.md` |
+| 11 | S13E06 | Everyone Gets a Turn | `THE_ARRIVALS_S13E06_LN_CHAPTER_01_EVERYONE_GETS_A_TURN_v0.1.md` |
+| 12 | S13E06 | The Turn After Yours | `THE_ARRIVALS_S13E06_LN_CHAPTER_02_THE_TURN_AFTER_YOURS_v0.1.md` |
+| 13 | S13E07 | The House Has Supper | `THE_ARRIVALS_S13E07_LN_CHAPTER_01_THE_HOUSE_HAS_SUPPER_v0.1.md` |

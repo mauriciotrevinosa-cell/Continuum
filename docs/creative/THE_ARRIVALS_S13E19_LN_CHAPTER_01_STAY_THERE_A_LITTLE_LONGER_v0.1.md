@@ -31,11 +31,11 @@ She nods toward the bed. He goes and sits on the side facing the water, and she 
 
 “What were you going to do if I got the same answer next time?” she asks. ʸ
 
-He knows which answer she means. He can feel her grip change on his shoulder as soon as she's asked.
+His hand stays at her waist. She feels him draw a breath before he answers. She's glad he takes the time, even though she wants to hear him right away.
 
 “Listen if you wanted to talk. Let you get in my lap if you didn't.” ᴹ
 
-She tucks her head down and gives a small laugh. He can feel the sound against his collarbone.
+She tucks her head down and laughs into his collarbone.
 
 “You'd get a break if you learned to put your book down slower.” ʸ
 
@@ -47,9 +47,55 @@ She moves back enough to look at him. He was careful on the balcony and she was 
 
 “Oh. Did you?” ʸ
 
-He shakes his head. She puts both hands on his shoulders and feels him lean in this time. There's a pause when he gets his arm behind her to ease her down and finds he's holding the corner of the pillow under it. She puts it where it belongs. It makes him laugh for the first time since she brought him here. She wants to see his face when he does it again. They move up the bed, leaving the warm place where they'd been sitting at their feet.
+He shakes his head. Yuka puts both hands on his shoulders and feels him lean in this time. His thumb catches on a seam at her waist. He starts to move it away. She covers his hand with hers and keeps it there while she kisses him, until he works out that she liked exactly where he'd put it.
 
-They make love with the sound of the water coming in through the open door. Yuka keeps her eyes open when he says her name. He has to repeat it once because she draws him closer right in the middle of it. Much later she still has her fingers curled around his hand under the sheet. Every time his thumb moves she can tell he's awake.
+She shifts her weight to lie back and finds that the edge of the bed is closer than she thought. He gets his arm behind her just as she reaches for him. For a second she's looking straight up at the ceiling with a pillow folded under one elbow and Mau trying to hold her up with the arm she has pinned.
+
+“I think you've got the pillow.” ʸ
+
+He looks down at the corner sticking out between them.
+
+“I was hoping you'd think that was on purpose.” ᴹ
+
+She laughs and lets him have his arm back. He brings the pillow with him as he moves up the bed and sets it by the headboard. She follows and pulls it a little lower before she lies down. From here she can see the curtain lifting off the floor and the line where it comes down again. Mau sits beside her, his knee making a dip in the mattress. She puts one hand on his leg and waits for him to turn.
+
+“Here,” she says. ʸ
+
+He comes down beside her on his elbow. He leaves enough room that she can roll toward him on her own. She likes that he does that. She also likes that when she pulls him the rest of the way in, he comes without making her ask twice. One of his hands settles between her shoulder blades. The wind is cool on the side of her neck he hasn't kissed yet.
+
+At dinner he'd told her about sitting with a book and listening for her at the door. She had pictured him looking up and finding her there. Now she sees the same look from so close she can watch it change. His eyes go from hers to her mouth. She runs a hand behind his neck and feels his breath change before he moves.
+
+“You can kiss me again.” ʸ
+
+He does. The first kiss is quick enough to make her laugh at him. She gets the second one herself and takes her time with it. His hand opens flat on her back. When she pulls away to breathe, he rests his forehead against hers. Neither of them moves for a moment. Somewhere beyond the door a wave goes flat over the sand.
+
+“Still good?” he asks. ᴹ
+
+“Very. I was waiting to see if you'd do that again.” ʸ
+
+“Which part?” ᴹ
+
+She shows him. It takes him half a second to catch up, and then she feels him smile against her mouth. She holds on to the back of his neck because she wants the smile and the kiss together. When the curtain comes up this time it lifts far enough to let a bar of light reach the foot of the bed. She watches it go and reaches for his hand.
+
+“I want to make love to you,” she tells him. ʸ
+
+Mau looks at her for a second. She can still feel the smile in the corner of his mouth where it rests against her cheek.
+
+“I want that too.” ᴹ
+
+She presses a kiss below his ear. The answer warms her as much as the breath he lets out there. She has no speech ready for him after that. She gets the sheet out from under his knee, he reaches down to pull it over them, and it catches on his foot. She laughs so hard into his shoulder he has to wait to try again. Once he gets it loose she catches his face between her hands and brings him back to her.
+
+When they make love, she keeps her eyes open as long as she can. Mau says her name into the small space between their faces. She draws him close before he's finished, and he says it again where she can hear it. For a while she's aware of every place the bed gives under their weight. Then she finds his hand in the folds of the sheet and has only to think as far as the next breath. He stays close enough for her to take it with him.
+
+Afterward neither of them is in a hurry to speak. Mau puts his cheek against her hair, then moves it when she tugs a strand free from under his chin. She drapes it across the pillow where it won't catch again. He traces a little arc over her knuckles with his thumb. She feels him stop after the third pass and waits. The fourth one comes after a wave she can hear all the way up the beach.
+
+“Do you want me to move?” he asks. ᴹ
+
+Yuka draws their joined hands in between them.
+
+“Stay there a little longer.” ʸ
+
+He lets his weight settle beside her. The place where their arms touch is warmer than the rest of the bed. She could go to sleep that way. After another minute she remembers she's thirsty and tries to work out how much she cares about it. Mau hears her swallow. She knows he hears it because he starts to lift his head before he says a word.
 
 “Water?” he asks. ᴹ
 

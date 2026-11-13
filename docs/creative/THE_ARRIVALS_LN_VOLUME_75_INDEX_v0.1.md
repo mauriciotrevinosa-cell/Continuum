@@ -9,7 +9,7 @@
 
 Shizue takes Rimuru to a place she likes. Mau reads his invitation with Yuka and goes to hear the questions people have brought for him.
 
-[Previous volume](THE_ARRIVALS_LN_VOLUME_74_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md)
+[Previous volume](THE_ARRIVALS_LN_VOLUME_74_INDEX_v0.1.md) · [Next volume](THE_ARRIVALS_LN_VOLUME_76_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md)
 
 ## Reading order
 

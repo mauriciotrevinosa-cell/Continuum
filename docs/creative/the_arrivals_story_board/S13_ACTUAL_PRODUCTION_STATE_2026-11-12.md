@@ -1,8 +1,8 @@
 # S13 — Estado real de producción
 
-El volumen 76 va de la vuelta del parlamento, B+273, a la cena después de la entrega de los dos responsables, B+285. No hay muertes confirmadas. El herido grave sigue a cargo de Shoko. El juicio queda en manos de las delegaciones.
+S13 completa. El volumen 76 va de la vuelta del parlamento, B+273, a la cena después de la entrega de los dos responsables, B+285. No hay muertes confirmadas. El juicio queda en manos de las delegaciones. El volumen 77 termina en B+299, con la familia estrenando el catálogo en la sala común.
 
-[Índice de V76](../THE_ARRIVALS_LN_VOLUME_76_INDEX_v0.1.md) · [Estado al cierre de S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md)
+[Índice de V76](../THE_ARRIVALS_LN_VOLUME_76_INDEX_v0.1.md) · [Índice de V77](../THE_ARRIVALS_LN_VOLUME_77_INDEX_v0.1.md) · [Estado al cierre de S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md)
 
 | Capítulo | Día | Hechos escritos |
 |---|---|---|
@@ -30,4 +30,18 @@ La asamblea recibe a los responsables sin decidir sentencia. El origen de los fo
 
 ## Después de la guerra
 
-El cumpleaños de Ori va antes del viaje. La casa prepara opciones y ella elige la de Milim. Lantern es el regalo que Mau le tiene preparado. La isla tendrá seis noches, con los días y la duración de los capítulos al servicio de cada escena. En B+236 fue el primer intento de formar una familia. Al cierre de S12 habían pasado 37 días, así que hay que contar el tiempo restante antes de escribir la conversación de Yuka la noche anterior al día de descanso. Yuka tiene 20 en este tramo. Mau entró a la historia con 22. Al regreso, Senku, Byakuya y Ramiris enseñan lo que pudieron montar con ayuda de Rimuru y la casa, y Umaru inaugura su estación de juegos.
+| Capítulo | Día | Hechos escritos |
+|---|---|---|
+| V77#1 | B+286 | El herido dicta un mensaje para su familia. Ori añade que su hija puede venir acompañada. Elmesia confirma que estará en la isla en una semana y ofrece el cuarto y el acceso a la alberca. Mau y Yuka acuerdan seis noches y reciben a DIO en el viaje. |
+| V77#2 | B+289 | Frieren le enseña a Mau un hechizo de captura suave para pájaros y lo prueba primero con hojas. La hija del herido ya llegó. Bellion y Rimuru quedan a cargo de las rutas normales durante el viaje. Un par de sombras sigue cuidando la salida del paciente. |
+| V77#3–4 | B+292 | Cumpleaños de Ori. La casa le presenta opciones y ella elige la propuesta de Milim, integrando aportes de otros. Lantern, dragón ya existente, entra voluntariamente a la sombra de Ori y atiende su llamado. Mau conserva el vínculo de la legión. Ori y Yuka persiguen a Mau hasta Mai después del chiste sobre los dragones. |
+| V77#5 | B+293 | Llegada en Kaisel y primera noche. Elmesia guarda el cuarto prometido y hace planes con DIO. DIO usa el refugio establecido, con salidas acordadas cerca del anfitrión. |
+| V77#6 | B+294 | Yuka elige caminar, hacer snorkel y volver a mirar la roca. La percepción de color de Mau sigue ligada a Yuka, que le describe la vista. |
+| V77#7–8 | B+295 | Mau elige el paseo en barco. Informa a Elmesia del análisis automático de su montura; ella consiente más observación. Noise prepara un posible derivado para Ten Shadows. Yuka cuenta que tuvo el periodo antes del viaje y que esperaba darle otra noticia. Han pasado 59 días desde su primer intento en B+236. Mau comparte su propia ilusión y la acompaña. |
+| V77#9–10 | B+296 | Día tranquilo de alberca, carajillo y cena con Elmesia y DIO. Noise elige una manifestación local temporal para su cita con DIO y Ciel y vuelve entero con Mau al terminar. El comentario de que estaban demasiado cerca es una broma. |
+| V77#11–12 | B+297 | Cena en la mesa de la luna de miel. Quieren hablar con Maki y Yuta a su regreso y prueban ideas de apellido. Siguen sin elegir uno. |
+| V77#13 | B+298 | Mau usa el hechizo de Frieren, suelta al pájaro y le ofrece un tazón propio. El pájaro vuelve a robarle fruta. El pase de Elmesia sirve para próximas visitas. |
+| V77#14–15 | B+299, mañana y tarde | Regreso después de seis noches. El herido pudo viajar la víspera con su familia y los rescatistas. Bellion informa que las dos sombras regresaron. Mau y Yuka confían a Maki y Yuta que están intentando formar una familia. |
+| V77#16–17 | B+299, tarde y noche | Senku, Byakuya, Ramiris y Rimuru presentan pantalla y catálogo de películas, música, manga y juegos reconstruidos a partir de aportes voluntarios. Umaru estrena el juego con Rem, Taihei, el Fort y Mau. Ori recibe respuesta del herido a través de Makima. La familia comparte la primera película. |
+
+Las seis noches abarcan B+293 a B+298. Yuka tiene 20 en este tramo; Mau entró a la historia con 22. La cena de aniversario retoma la celebración anterior y la visita de la luna de miel. Al cierre siguen intentando formar una familia. El resultado y el apellido siguen abiertos.

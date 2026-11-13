@@ -65,7 +65,19 @@ Thomas comes in hard enough for Jin-Woo to feel it in the arm he used to catch t
 
 Thomas goes that way. Jin-Woo lets him see that he wanted him to. The first thing Thomas does when he realises it is laugh.
 
-Rook calls for Thomas to come back. The pressure lifts all at once. Mau is standing in the road with his hand open. The man has one knee down and a piece of the cart's broken side laid across the ground in front of him. He looks at it, then looks at how far away the bridge is.
+Rook notices the same opening a moment later. The pressure leaves the road under Mau and comes down on the end of the bridge instead. A shadow at the rail drops to all fours. There are still people on the boards. Jin-Woo can see the head of the closest one dip below the rail.
+
+Cha Hae-In has been getting them off at the far end. She takes one look at the gap between the last two, doubles back and gets a hand around the shoulder of the one who dropped. The boards sag beneath her. She gets her sword under the rail and leans enough of her weight on it to keep a place for the man to put a knee. She tells Jin-Woo how much time she thinks they have in a voice that doesn't leave room for him to tell her to get off.
+
+Mau looks across at him. They have spent enough time in the yard doing a thing with two daggers that Jin-Woo knows the angle of his arm. There is usually a knife in that hand by the time he turns. This time the hand is empty. It's asking for half a step, and for Jin-Woo to trust that there will be somewhere to put his foot when he takes it.
+
+Jin-Woo lets Thomas come through his guard. Thomas knows him well enough to pull the second blow. He can't pull the first one back. It catches Jin-Woo across the ribs and lifts him as far as the bank. Jin-Woo gets the room he asked for, grabs Thomas by the arm and brings him around into the road. On the far side Mau catches a whole plank coming up off the bridge and makes it stay under Cha Hae-In's boots. The weight on it changes as Rook tries to put him down with it. Jin-Woo sees Mau look at the distance from Rook's open hand to the end of the plank.
+
+He sends his closest shadow toward Mau. Mau sends one of his own in the opposite direction. For a breath Jin-Woo can see exactly where both of them intend to be. Thomas sees one exchange. Rook has to take two steps to see the other, because Mau is already beside the cart. He raises his hand again. Mau brings his forearm underneath it and leans, holding it high enough that the weight takes the broken side of the cart and drives it into the mud between them.
+
+The bridge comes back up. Cha Hae-In gets the man onto his feet. The last two go together, one holding the back of the other's coat. Then she gets her sword out of the rail and stands looking at Jin-Woo until he gets his breath back. He taps two fingers to his ribs to tell her where it hit. She takes her own hand off the rail and calls in that she's clear.
+
+Rook calls for Thomas to come back. What remains of the pressure lifts. Mau is standing in the road with his hand open. The man has one knee down and the cart's broken side buried in the ground in front of him. He looks at it, then looks at how far away the bridge is.
 
 “Do you want to get up?” Mau asks. ᴹ
 

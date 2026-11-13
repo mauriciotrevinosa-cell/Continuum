@@ -219,6 +219,12 @@ V73#20/B255. Un soldado ordinario de los 6.617 vínculos existentes queda como a
 
 Elmesia acepta un soldado ordinario de la legión existente como ancla revocable solo para emergencias, con el mismo alcance de aviso de V73#20. Pide ver cómo sale y vuelve antes de consentir la colocación definitiva. La hormiga que Mau deja voluntariamente en el puesto exterior para el Exchange es otra unidad. Mau muestra la rueda brevemente ante el reconocimiento de la espada de Reinhard, sin contacto ni adaptación. Sin unidades ni técnicas nuevas. Sigue en 6.617 vínculos.
 
+## Guardia y Lantern — S13 / V76–77
+
+V76#1–25: despliegue de sombras existentes, relevos coordinados con Rimuru y Bellion y Exchange de emergencia en el puente tras aviso a Rimuru. Antonio elige quedarse con Testarossa; su vínculo con Mau se conserva. Ninguna extracción ni incremento de unidades.
+
+V77#2 y #13: Frieren enseña un hechizo de captura suave con espacio para moverse y aterrizar. Mau lo practica primero con hojas y después lo sostiene unos instantes sobre un pájaro, al que libera ileso. Aplicación pequeña y no ofensiva. V77#4: Lantern, dragón ya existente y no verbal, elige poder alojarse en la sombra de Ori. Atiende su llamado; ambos pueden pedir que se retire. El vínculo con Mau se conserva. V77#7: Noise y los ojos observan la montura gigante de Elmesia y reciben permiso para continuar. Derivado compatible con Ten Shadows en diseño, sin construcción, prueba o invocación.
+
 ## Registro histórico de cambios
 
 V72#12–15: no poderes ni unidades nuevos. Revisión PARCIAL de trabajo existente produce decisiones concretas sobre learner (mapa, no ejecución automática), Step (alcance ensayado, no test nuevo) y derivados invitados; resto del backlog no declarado revisado por terminar escena. DobleCT/Bang conservan estado previo. Analyze continuo no se apaga, no una purga de capacidades. Integración riesgosa sigue pendiente de estado médico/revisión, derivados invitados requieren alcance específico. Authority mueve sólo cup familiar en patio B224; inventario usado al guardar pertenencias, no redescubierto. Vuelta a cuarto B225 con ayudas, checks mantienen, no alta; B226 acepta distancia de marcha menor tras dolor reportado. Ring propio seguro por ajuste flojo, no perdido; papel Yuka junto a él, papel Ori con Ori. Grey/blur/dedos/cicatrices mayores conservados, sin pico físico por mejorar ánimo.

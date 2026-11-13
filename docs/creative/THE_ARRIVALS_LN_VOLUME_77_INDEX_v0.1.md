@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 77 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — S13 v0.1
+**Status:** LN PRODUCTION DRAFT — S13 v0.1 — SEASON COMPLETE
 **Volume:** 77
 **Season:** 13
-**Coverage:** S13E13–S13E16 (in progress)
+**Coverage:** S13E13–S13E21 (season finale)
 **Volume title:** **All the Mornings Left**
-**Chapter files:** 7
+**Chapter files:** 17
 
 Ori chooses what the house does on her birthday. Mau and Yuka take six nights on the island, with time to change their minds about what to do with a day.
 
@@ -22,3 +22,13 @@ Ori chooses what the house does on her birthday. Mau and Yuka take six nights on
 | 5 | S13E15 | Leave the Door Open | `THE_ARRIVALS_S13E15_LN_CHAPTER_02_LEAVE_THE_DOOR_OPEN_v0.1.md` |
 | 6 | S13E16 | Yuka Takes the First Morning | `THE_ARRIVALS_S13E16_LN_CHAPTER_01_YUKA_TAKES_THE_FIRST_MORNING_v0.1.md` |
 | 7 | S13E16 | The Way the Dragon Carries | `THE_ARRIVALS_S13E16_LN_CHAPTER_02_THE_WAY_THE_DRAGON_CARRIES_v0.1.md` |
+| 8 | S13E17 | Where She Was Going to Tell Him | `THE_ARRIVALS_S13E17_LN_CHAPTER_01_WHERE_SHE_WAS_GOING_TO_TELL_HIM_v0.1.md` |
+| 9 | S13E17 | Nothing on the Menu | `THE_ARRIVALS_S13E17_LN_CHAPTER_02_NOTHING_ON_THE_MENU_v0.1.md` |
+| 10 | S13E18 | They Were Too Close | `THE_ARRIVALS_S13E18_LN_CHAPTER_01_THEY_WERE_TOO_CLOSE_v0.1.md` |
+| 11 | S13E18 | The Table They Had Before | `THE_ARRIVALS_S13E18_LN_CHAPTER_02_THE_TABLE_THEY_HAD_BEFORE_v0.1.md` |
+| 12 | S13E19 | Stay There a Little Longer | `THE_ARRIVALS_S13E19_LN_CHAPTER_01_STAY_THERE_A_LITTLE_LONGER_v0.1.md` |
+| 13 | S13E19 | Two Bowls | `THE_ARRIVALS_S13E19_LN_CHAPTER_02_TWO_BOWLS_v0.1.md` |
+| 14 | S13E20 | On the Other Side of the Door | `THE_ARRIVALS_S13E20_LN_CHAPTER_01_ON_THE_OTHER_SIDE_OF_THE_DOOR_v0.1.md` |
+| 15 | S13E20 | Four Chairs in the Kitchen | `THE_ARRIVALS_S13E20_LN_CHAPTER_02_FOUR_CHAIRS_IN_THE_KITCHEN_v0.1.md` |
+| 16 | S13E21 | A Picture the Whole Room Can See | `THE_ARRIVALS_S13E21_LN_CHAPTER_01_A_PICTURE_THE_WHOLE_ROOM_CAN_SEE_v0.1.md` |
+| 17 | S13E21 | Do Not Even Think About Leaving | `THE_ARRIVALS_S13E21_LN_CHAPTER_02_DO_NOT_EVEN_THINK_ABOUT_LEAVING_v0.1.md` |

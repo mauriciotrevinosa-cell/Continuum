@@ -23,6 +23,28 @@ The man looks down at the stream. That gives Maki enough time to come up behind 
 
 The light on the far bank goes out. Gojo waits until somebody who was following it moves into the open. He could go and get the light himself. He stays where he is long enough for Yuta to call that he's already got somebody coming towards the path.
 
+There's another one under the bridge.
+
+He sees it in the water before he sees the man carrying it. The man is up to his ribs and holding on with one hand. The light runs from his fist to the first support. Gojo goes over the rail. His foot is still clearing it when he sees what the man has done with the other lights. The one upstream was put where he could reach it. The man underneath is standing just far enough away that if Gojo goes for him he can set off both and catch somebody on the path either way.
+
+Gojo catches the man's coat with Blue. His hand comes loose from the support. So does the light.
+
+He has time to swear once. Yuta's blade is already between the light and the timber when it goes off. The water leaps right past them. Yuta comes back out of it with the bottom of his shirt torn free and a boot in his hand. He throws the boot onto the bank. Then he lets Rika take the man Gojo caught and bring him out of the water where he can breathe.
+
+“Your boot?” Gojo asks. ᴳ
+
+“His.” ʸᵗ
+
+Gojo puts a hand on the timber. It's wet right through. One of Qifrey's marks has stopped moving with the shadow of the bridge and begun to hold steady on the bank. The other end of that mark is still open. Gojo asks Yuta whether anybody's using it. There are two people on the path. Yuta tells him the next light is on his side.
+
+Maki comes over the rail behind them. She has the spear she took. She runs it into the mud where the man has to step to climb out, hooks the flat of her foot behind his wrist and holds it until he lets go of the thing he was reaching for. A shadow comes up beside Rika with a hand free. Rika gives it room to take the man's weight. Maki gets back to the path before the shadow's finished getting him on his feet.
+
+“The two people on your side are through,” she tells Gojo. ᴹᵃᵏ
+
+He waits until Yuta hears it. Then he puts Blue above the water and takes the last light straight up. It goes high enough to be reflected in every window along the bank. He keeps it there until it goes out by itself. The man who brought it watches from beside the shadow. When Gojo comes up he asks him if they were supposed to go after the bridge or after whoever came to stop them.
+
+The man wants his boot. Yuta gets it for him. He works his foot into it, sits there with his palm around the heel and tells them he only knew about the bridge.
+
 * * *
 
 There is a cart just below the bench. The woman who uses it is on the seat next to the driver, telling him which way she usually walks when she wants the road to herself. He can see a corner of it from where he sits. There are two men on that corner now. He doesn't know either of them. He gets off the cart to ask the woman whether she wants him to try the bridge first.

@@ -13,41 +13,41 @@ Frieren waits until the bird in the courtyard has finished drinking.
 
 Mau is standing behind her with his hands in his pockets. The original question was whether she knew a way to catch something without giving it a fright. She asked how big, how fast and whether it would be something he actually meant to release. He explained that it was a bird and that the bird had started this. Frieren wanted to know if Yuka had agreed with that account. He could only say she'd heard it.
 
-“This one is the size you want?” Frieren asks. ᶠʳⁱᵉʳᵉⁿ
+“This one is the size you want?” Frieren asks. ᶠ
 
-“A little bigger. And it's got experience.” ᵐᵃᵘ
+“A little bigger. And it's got experience.” ᴹ
 
 The bird puts its toes on the rim of the dish and shakes the water off its beak. Frieren turns her wrist as slowly as she would to pick up a cup. A fold of mana closes around the space under its wings. It lifts off, gets about an inch, and lands where it started. For the next few breaths it looks from Frieren to Mau. Then it starts drinking again.
 
-“When it tries to fly, it ends up right where it is. Leave enough room to land. You can let it walk wherever it likes.” ᶠʳⁱᵉʳᵉⁿ
+“When it tries to fly, it ends up right where it is. Leave enough room to land. You can let it walk wherever it likes.” ᶠ
 
 She releases it. It hops from the dish to the courtyard wall. Mau can still see the tiny mark the mana left, a rounded edge he hadn't thought to leave between the ends of a spell. He raises his hand. Frieren takes hold of his sleeve.
 
-“Use a leaf first.” ᶠʳⁱᵉʳᵉⁿ
+“Use a leaf first.” ᶠ
 
 He does. The leaf hangs upside down, crisply still, an inch short of the ground.
 
-“Let it fall,” she says. ᶠʳⁱᵉʳᵉⁿ
+“Let it fall,” she says. ᶠ
 
 The instant he lets go, it hits the stone. Frieren kneels to pick it up, bringing it back to where he started.
 
-“Let it fall while you're holding it.” ᶠʳⁱᵉʳᵉⁿ
+“Let it fall while you're holding it.” ᶠ
 
 Mau starts again. From this close Frieren can probably see the little movements in his face before he sees them himself. He expects her to tell him to look at the leaf and stop thinking about every single point in the air around it. Instead she picks up another leaf and lets it drop beside his. It turns twice on the way down. His remains pinned, practically an accusation.
 
-“I have to let it move first,” he says. ᵐᵃᵘ
+“I have to let it move first,” he says. ᴹ
 
 She nods. He repeats it until there's enough space for the leaf to twist as it falls, still unable to slip past his hand. On the fourth try he catches it so gently he's almost sure he missed. Frieren pushes his hand sideways. The leaf skims along the ground and stops as soon as he lowers his fingers. He can imagine a small bird doing that without even noticing.
 
-“No copies in the middle of a cast,” she says. “Check the room you give it each time.” ᶠʳⁱᵉʳᵉⁿ
+“No copies in the middle of a cast,” she says. “Check the room you give it each time.” ᶠ
 
 He curls his fingers under the leaf and lets it go.
 
-“Thank you.” ᵐᵃᵘ
+“Thank you.” ᴹ
 
-“Was it a lot of fruit?” ᶠʳⁱᵉʳᵉⁿ
+“Was it a lot of fruit?” ᶠ
 
-“It was the one piece I wanted.” ᵐᵃᵘ
+“It was the one piece I wanted.” ᴹ
 
 Frieren looks at him in silence until he laughs.
 
@@ -55,34 +55,34 @@ There's work to do before lunch. On the walk to the outer gate Mau counts the sh
 
 At the gate Bellion shows Mau where the shadows are listening from. The closest one is perched inside the back of a broken cart. The next one is at a turn where someone can see travelers approaching the house for quite a long time before they hear them. The runners can cover the distance without crossing the common room. If someone asks to speak to them, they can signal the guard who has the route that hour. Mau looks until he can picture the arrangement at night.
 
-“How long do you want the extra pair on the road?” Bellion asks. ᵇᵉˡˡⁱᵒⁿ
+“How long do you want the extra pair on the road?” Bellion asks. ᴮᵉˡ
 
-“Until the man and his daughter get where they decide to go. Then let me know they made it. You can bring that pair home yourself.” ᵐᵃᵘ
+“Until the man and his daughter get where they decide to go. Then let me know they made it. You can bring that pair home yourself.” ᴹ
 
 Bellion confirms, and doesn't move from the gate. Mau realizes he's waiting for him to ask who will hold the other routes when he's gone. He does ask. The answers are the same as yesterday. He's about to start again from the road when he recognizes the temptation to give the whole arrangement a second look from the top.
 
-“Can you make any changes with Rimuru while I'm away? Tell me if you need me. The rest, the two of you can handle.” ᵐᵃᵘ
+“Can you make any changes with Rimuru while I'm away? Tell me if you need me. The rest, the two of you can handle.” ᴹ
 
-“I would prefer to tell you when you get home, my king.” ᵇᵉˡˡⁱᵒⁿ
+“I would prefer to tell you when you get home, my king.” ᴮᵉˡ
 
 Mau can see how much Bellion likes saying that. He tells him to do it that way.
 
 At lunch Yuka has a cold drink waiting on the edge of the table. Mau takes the chair next to her and holds his hands up so she can see that there's nothing in them.
 
-“Frieren taught me a spell for the bird. I'm ready.” ᵐᵃᵘ
+“Frieren taught me a spell for the bird. I'm ready.” ᴹ
 
 Yuka looks from one empty hand to the other.
 
-“Does the bird know what day we're coming?” ʸᵘᵏᵃ
+“Does the bird know what day we're coming?” ʸ
 
-“No.” ᵐᵃᵘ
+“No.” ᴹ
 
-“Good. I want you to have some kind of advantage this time.” ʸᵘᵏᵃ
+“Good. I want you to have some kind of advantage this time.” ʸ
 
 She slides the drink toward him. He takes a sip and puts his hand on the back of her chair.
 
-“Will you come sit by me when I do it?” ᵐᵃᵘ
+“Will you come sit by me when I do it?” ᴹ
 
-“Where else would I be?” ʸᵘᵏᵃ
+“Where else would I be?” ʸ
 
 She asks it so casually that he can't get his mouth around the answer he thought he had. He leans down to kiss her instead. She closes her eyes before he gets there.

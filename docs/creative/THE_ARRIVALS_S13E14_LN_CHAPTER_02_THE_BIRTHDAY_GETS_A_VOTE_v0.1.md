@@ -17,15 +17,15 @@ Ori goes to find her mother.
 
 Frieren is at the kitchen table with a cup under her nose. She has one sock on. There's a tray covered with a towel, and the room smells warm and sweet all the way from the stairs.
 
-“Beru's outside,” Ori says. ᵒʳⁱ
+“Beru's outside,” Ori says. ᴼ
 
-“He wanted to be the first person you saw.” ᶠʳⁱᵉʳᵉⁿ
+“He wanted to be the first person you saw.” ᶠ
 
-“I saw him out the window.” ᵒʳⁱ
+“I saw him out the window.” ᴼ
 
 Frieren puts her cup down and finds her other sock hanging from the back of the chair.
 
-“Good. He was out there when I got up for water.” ᶠʳⁱᵉʳᵉⁿ
+“Good. He was out there when I got up for water.” ᶠ
 
 Ori kneels on the chair beside her and rests her head on her shoulder. Frieren takes a little longer to get the sock on that way. When she's done, she kisses Ori behind one ear and says happy birthday so quietly that Ori feels it against her skin before she hears it.
 
@@ -33,15 +33,15 @@ People start coming down. Chloe has two ribbons over one shoulder. Rem brings br
 
 Umaru finds her feet at the end of the table.
 
-“We all came up with something to do today. We made plans for it while you were sleeping. You get to pick which one we actually do.” ᵘᵐᵃʳᵘ
+“We all came up with something to do today. We made plans for it while you were sleeping. You get to pick which one we actually do.” ᵁ
 
-“You already made them?” ᵒʳⁱ
+“You already made them?” ᴼ
 
-“They're ready if you want them.” ᵘᵐᵃʳᵘ
+“They're ready if you want them.” ᵁ
 
 Taihei folds his arms. Ori catches him looking at the towel on the tray.
 
-“Can I still eat that if I don't pick yours?” ᵒʳⁱ
+“Can I still eat that if I don't pick yours?” ᴼ
 
 “You can eat that before you pick anything,” he says. ᵗᵃⁱʰᵉⁱ
 
@@ -49,38 +49,38 @@ They show her the choices as she eats. Chloe and Shizue's students have made a m
 
 Milim has had her turn next since before Ori put the first piece of bread in her mouth. She's sitting on her hands. Ori asks her to go ahead.
 
-“We could put blankets all the way around the tree. Wherever you say. We'll take food out to each one, and you can draw a way around them, and I'll do all the carrying. And if anybody wants to add a place we have to ask you.” ᵐⁱˡⁱᵐ
+“We could put blankets all the way around the tree. Wherever you say. We'll take food out to each one, and you can draw a way around them, and I'll do all the carrying. And if anybody wants to add a place we have to ask you.” ᴹⁱ
 
-“Can the other plans go on the blankets?” ᵒʳⁱ
+“Can the other plans go on the blankets?” ᴼ
 
 Milim looks across the table at Chloe. Chloe unfolds her map and sets it down between them. The part where she drew the tree is big enough to draw more things around it.
 
-“If you want them there,” Milim says. ᵐⁱˡⁱᵐ
+“If you want them there,” Milim says. ᴹⁱ
 
-“Then I want to do yours.” ᵒʳⁱ
+“Then I want to do yours.” ᴼ
 
 Ori has just enough time to put the bread down. Milim gets an arm around her waist and lifts her straight out of the chair. From up there Ori can see the towel slid half off the tray and the one crooked cake on it with the corner Taihei meant to hide.
 
-“Put her down, Milim.” ᶠʳⁱᵉʳᵉⁿ
+“Put her down, Milim.” ᶠ
 
-“Yes. Sorry.” ᵐⁱˡⁱᵐ
+“Yes. Sorry.” ᴹⁱ
 
 She sets Ori down as carefully as she lifted her quickly, her hands coming off one at a time. Ori leans into her.
 
-“It's all right. Can I have a hug before we go out?” ᵒʳⁱ
+“It's all right. Can I have a hug before we go out?” ᴼ
 
 Milim hugs her with her feet still on the floor. Ori holds on until Milim quits being careful about smiling, too.
 
 Mau is in the courtyard when she goes out to pick a place for the first blanket. He has brought two folded ones and he walks where she walks, stopping whenever she checks the branches. When they find a patch that has shade enough for lunch, he kneels and gives her his end.
 
-“Did you have a plan too?” she asks. ᵒʳⁱ
+“Did you have a plan too?” she asks. ᴼ
 
-“I have somebody who wanted to see you.” ᵐᵃᵘ
+“I have somebody who wanted to see you.” ᴹ
 
-“After we pick all the places?” ᵒʳⁱ
+“After we pick all the places?” ᴼ
 
-“He'd like to help you pick them, if you say he can.” ᵐᵃᵘ
+“He'd like to help you pick them, if you say he can.” ᴹ
 
 Ori grabs two corners of the blanket. She flaps it once, the way she's seen Rem do, and it nearly covers Mau's head. He catches the edge without getting up.
 
-“Tell him he can come.” ᵒʳⁱ
+“Tell him he can come.” ᴼ

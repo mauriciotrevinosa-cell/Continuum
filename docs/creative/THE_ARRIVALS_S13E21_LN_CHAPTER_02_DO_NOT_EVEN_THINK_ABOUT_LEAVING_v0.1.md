@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 77
-## Chapter 17 — Do Not Even Think About Leaving
+## Chapter 18 — Do Not Even Think About Leaving
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
-**Reading order:** 17
+**Reading order:** 18
 **Source episode:** S13E21
 **Continuity state:** B+299, evening. The Fort tries the new library and the family stays for the first game and movie night.
 

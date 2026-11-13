@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 77
-## Chapter 9 — Nothing on the Menu
+## Chapter 10 — Nothing on the Menu
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
-**Reading order:** 9
+**Reading order:** 10
 **Source episode:** S13E17
 **Continuity state:** B+296, island day four, their quiet morning and carajillo afternoon.
 

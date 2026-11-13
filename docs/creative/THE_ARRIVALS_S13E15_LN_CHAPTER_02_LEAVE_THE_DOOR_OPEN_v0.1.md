@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 77
-## Chapter 5 — Leave the Door Open
+## Chapter 6 — Leave the Door Open
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
-**Reading order:** 5
+**Reading order:** 6
 **Source episode:** S13E15
 **Continuity state:** B+293, arrival and first evening on the island.
 

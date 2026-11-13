@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 77
-## Chapter 8 — Where She Was Going to Tell Him
+## Chapter 9 — Where She Was Going to Tell Him
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
-**Reading order:** 8
+**Reading order:** 9
 **Source episode:** S13E17
 **Continuity state:** B+295, third night, Yuka tells Mau what she had hoped to share.
 

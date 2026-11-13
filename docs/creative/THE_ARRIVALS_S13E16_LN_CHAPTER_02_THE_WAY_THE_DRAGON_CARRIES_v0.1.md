@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 77
-## Chapter 7 — The Way the Dragon Carries
+## Chapter 8 — The Way the Dragon Carries
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
-**Reading order:** 7
+**Reading order:** 8
 **Source episode:** S13E16
 **Continuity state:** B+295, island day three, Mau chooses a sunset boat and asks about the giant dragon.
 

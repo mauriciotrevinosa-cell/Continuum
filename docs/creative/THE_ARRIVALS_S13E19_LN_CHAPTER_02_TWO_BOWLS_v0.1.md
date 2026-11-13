@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 77
-## Chapter 13 — Two Bowls
+## Chapter 14 — Two Bowls
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
-**Reading order:** 13
+**Reading order:** 14
 **Source episode:** S13E19
 **Continuity state:** B+298, island day six, the bird accepts an offer and then reconsiders.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 77
-## Chapter 10 — They Were Too Close
+## Chapter 11 — They Were Too Close
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
-**Reading order:** 10
+**Reading order:** 11
 **Source episode:** S13E18
 **Continuity state:** B+296, fourth evening, DIO and Ciel take Noise out with a temporary manifestation.
 

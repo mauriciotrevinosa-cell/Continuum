@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 77
-## Chapter 14 — On the Other Side of the Door
+## Chapter 15 — On the Other Side of the Door
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
-**Reading order:** 14
+**Reading order:** 15
 **Source episode:** S13E20
 **Continuity state:** B+299, morning, six nights complete. Mau and Yuka return by Kaisel.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 77
-## Chapter 12 — Stay There a Little Longer
+## Chapter 13 — Stay There a Little Longer
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
-**Reading order:** 12
+**Reading order:** 13
 **Source episode:** S13E19
 **Continuity state:** B+297, fifth night, quiet after the anniversary dinner.
 

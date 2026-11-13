@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 77
-## Chapter 6 — Yuka Takes the First Morning
+## Chapter 7 — Yuka Takes the First Morning
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
-**Reading order:** 6
+**Reading order:** 7
 **Source episode:** S13E16
 **Continuity state:** B+294, island day two, Yuka chooses the walk, snorkeling and lunch.
 

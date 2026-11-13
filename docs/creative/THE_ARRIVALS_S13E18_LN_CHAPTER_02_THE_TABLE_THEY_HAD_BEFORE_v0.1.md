@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 77
-## Chapter 11 — The Table They Had Before
+## Chapter 12 — The Table They Had Before
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
-**Reading order:** 11
+**Reading order:** 12
 **Source episode:** S13E18
 **Continuity state:** B+297, fifth afternoon and evening, Mau and Yuka make time for their anniversary dinner.
 

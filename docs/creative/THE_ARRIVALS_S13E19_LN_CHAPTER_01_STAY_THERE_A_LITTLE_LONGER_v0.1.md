@@ -21,7 +21,7 @@ From here the restaurant has one lit window. They're far enough away that she ca
 
 Yuka laughs at the thought of it. She leans her shoulder against his. The water gets them again when they forget to watch it. They step up out of its reach and spend the rest of the way back walking in the soft sand with no one ahead of them.
 
-At the room Mau puts the sandals by the open door. Yuka stays beside him while he tries to stand up, close enough he has to turn around to see her face. She puts her arms around his neck.
+Back in the room, Mau opens the balcony door to let the sea air in and crouches at the threshold to knock the sand out of their shoes. Yuka brushes the soles of her feet on the mat and waits for him to finish, but when he starts to straighten she puts a hand on his shoulder. He sets the last sandal down and turns toward her. She puts her arms around his neck.
 
 “Can I sit with you again?” ʸ
 
@@ -105,7 +105,7 @@ That gets a laugh out of her before she can put her hand over her mouth. She hea
 
 “Leave the door open,” she says. ʸ
 
-He gets up long enough to put the hook back through its eye. On his way back he lifts his hands, like he wants her to see he hasn't brought anything with him. She moves to the edge of the bed and takes both of them.
+Mau gets up and puts the hook back through its eye. He leaves the balcony door where it was. Yuka watches him brush the curtain out of his face on the way back and scoots to the edge of the bed so she can reach him. She catches his hand first. When he holds the other one out too, she takes it.
 
 “You know what I was thinking at the restaurant?” she asks. ʸ
 
@@ -271,11 +271,11 @@ He lets his weight settle beside her. The place where their arms touch is warmer
 
 “Yes. Don't get up.” ʸ
 
-He has one foot on the floor by the time she gets to the last word. She draws his hand back toward her. He looks down at the foot, then swings it back onto the mattress. With his free hand he takes one of the bottles the hotel left for them out of his inventory. It touches the sheet before he gets the lid off, leaving a dark circle where the glass was. She props herself on one elbow to drink. He holds the bottom steady until she's got her other hand around it.
+He has one foot on the floor by the time she gets to the last word. She draws his hand back toward her. He looks down at the foot, then swings it back onto the mattress. With his free hand he takes one of the bottles the hotel left for them out of his inventory. It touches the sheet before he gets the lid off, leaving a dark circle where the glass was. She lets go of his hand to prop herself on an elbow. He holds the bottom steady until she's got her other hand around it. She takes two swallows, then lowers the bottle to look at him.
 
 “You had that the whole time?” ʸ
 
-“I thought you might want me to come back from the kitchen.” ᴹ
+“I forgot I put it away. I was already halfway to the kitchen in my head.” ᴹ
 
 “You can come back from the edge of the bed.” ʸ
 
@@ -351,7 +351,7 @@ She kisses him in the same place again. This time he says her name before she ha
 
 She lifts her face. There is a small warm patch on his neck where she's been kissing him. She touches it with her thumb and watches him turn toward her hand.
 
-“Your turn,” she says. ʸ
+“Your turn,” she says. “Tell me where you want me.” ʸ
 
 He takes her hand off his neck and kisses the heel of it.
 
@@ -425,14 +425,30 @@ She lifts her head to see his face. He's looking right at her with the expressio
 
 “I want to do the first one soon,” he says. “We can look at weekends with Frieren when we're home.” ᴹ
 
-“That's exactly what I want to do.” ʸ
+She nods. His hand is still resting on her shoulder. She can feel him take a breath to keep going, so she waits.
+
+“I want the other one too,” he says. “I used to get as far as picturing a crib. Now every time I get in the water here I think about what I'd do if they got scared the first time.” ᴹ
+
+“What would you do?” ʸ
+
+“Sit on the bottom where it's shallow. Let them climb onto me if a wave comes in. I think I'd be there for a while.” ᴹ
+
+“I'd bring you lunch.” ʸ
+
+“You'd steal half of it.” ᴹ
+
+“I'd sit down with you first.” ʸ
+
+He smiles at her. She can picture that part as clearly as she can picture Ori hauling a chair to the balcony. It feels good to leave it there, with the water shallow enough for both of them to sit in and nowhere else they need to be.
 
 He lifts the sheet higher over her shoulder. His hand comes back to hers under it. She feels him find her little finger first, then the rest of her hand.
 
 “I love you,” he says. ᴹ
 
-She makes a sleepy noise she means as an instruction to go to sleep. He kisses her forehead. She waits until his head is back on the pillow to say the thing that kept coming back to her while they sat at their old table.
+“Go to sleep,” she murmurs. ʸ
+
+He kisses her forehead. She waits until his head is back on the pillow to say the thing that kept coming back to her while they sat at their old table.
 
 “I love you more.” ʸ
 
-The laugh he makes is small enough she feels it through his shoulder. She wants to keep feeling it for a while, so when he starts to tell her something else she lets him.
+The laugh he makes is small enough she feels it through his shoulder. She keeps her cheek there until his breathing evens out. A wave breaks below the balcony and his fingers shift against hers once, already loose with sleep. She leaves her hand in his.

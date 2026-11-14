@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 77
-## Chapter 15 — On the Other Side of the Door
+## Chapter 22 — On the Other Side of the Door
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
-**Reading order:** 15
+**Reading order:** 22
 **Source episode:** S13E20
-**Continuity state:** B+299, morning, six nights complete. Mau and Yuka return by Kaisel.
+**Continuity state:** B+306, morning, thirteen nights complete. Mau and Yuka return by Kaisel.
 
-*When: After the sixth night, before the boats begin to leave.*
+*When: After the thirteenth night, before the boats begin to leave.*
 
 Yuka puts the bad sandals back in Mau's hand for the flight home. The sole has come free a little farther. He can push his thumb between it and the rest of the shoe now.
 

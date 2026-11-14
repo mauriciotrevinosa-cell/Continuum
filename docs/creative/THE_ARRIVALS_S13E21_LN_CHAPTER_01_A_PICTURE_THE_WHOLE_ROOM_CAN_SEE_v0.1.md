@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 77
-## Chapter 17 — A Picture the Whole Room Can See
+## Chapter 24 — A Picture the Whole Room Can See
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
-**Reading order:** 17
+**Reading order:** 24
 **Source episode:** S13E21
-**Continuity state:** B+299, late afternoon. Senku, Byakuya, Ramiris and Rimuru unveil the library.
+**Continuity state:** B+306, late afternoon. Senku, Byakuya, Ramiris and Rimuru unveil the library.
 
 *When: A little before supper, once the couch is in place.*
 

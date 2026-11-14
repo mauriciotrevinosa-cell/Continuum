@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 77
-## Chapter 16 — Four Chairs in the Kitchen
+## Chapter 23 — Four Chairs in the Kitchen
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
-**Reading order:** 16
+**Reading order:** 23
 **Source episode:** S13E20
-**Continuity state:** B+299, afternoon, Mau and Yuka tell Maki and Yuta they are trying to start a family.
+**Continuity state:** B+306, afternoon, Mau and Yuka tell Maki and Yuta they are trying to start a family.
 
 *When: Later that day, while the common room is still closed.*
 

@@ -1,6 +1,6 @@
 # S13 — Estado real de producción
 
-S13 completa. El volumen 76 va de la vuelta del parlamento, B+273, a la cena después de la entrega de los dos responsables, B+285. No hay muertes confirmadas. El juicio queda en manos de las delegaciones. El volumen 77 termina en B+299, con la familia estrenando el catálogo en la sala común.
+S13 completa. El volumen 76 va de la vuelta del parlamento, B+273, a la cena después de la entrega de los dos responsables, B+285. No hay muertes confirmadas. El juicio queda en manos de las delegaciones. El volumen 77 termina en B+306, con la familia estrenando el catálogo en la sala común.
 
 [Índice de V76](../THE_ARRIVALS_LN_VOLUME_76_INDEX_v0.1.md) · [Índice de V77](../THE_ARRIVALS_LN_VOLUME_77_INDEX_v0.1.md) · [Estado al cierre de S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md)
 
@@ -42,7 +42,21 @@ La asamblea recibe a los responsables sin decidir sentencia. El origen de los fo
 | V77#10–11 | B+296 | Día tranquilo de alberca, carajillo y cena con Elmesia y DIO. Noise elige una manifestación local temporal para su cita con DIO y Ciel y vuelve entero con Mau al terminar. El comentario de que estaban demasiado cerca es una broma. |
 | V77#12–13 | B+297 | Cena en la mesa de la luna de miel. Quieren hablar con Maki y Yuta a su regreso y prueban ideas de apellido. Siguen sin elegir uno. |
 | V77#14 | B+298 | Mau usa el hechizo de Frieren, suelta al pájaro y le ofrece un tazón propio. El pájaro vuelve a robarle fruta. La tarjeta con el sello de Elmesia cubre toda la visita, incluido el hotel, las comidas, las compras en los puestos y las actividades. Sigue vigente para futuras visitas de Mau, Yuka y los invitados que lleven. |
-| V77#15–16 | B+299, mañana y tarde | Regreso después de seis noches. El herido pudo viajar la víspera con su familia y los rescatistas. Bellion informa que las dos sombras regresaron. Mau y Yuka confían a Maki y Yuta que están intentando formar una familia. |
-| V77#17–18 | B+299, tarde y noche | Senku, Byakuya, Ramiris y Rimuru presentan pantalla y catálogo de películas, música, manga y juegos reconstruidos a partir de aportes voluntarios. Umaru estrena el juego con Rem, Taihei, el Fort y Mau. Ori recibe respuesta del herido a través de Makima. La familia comparte la primera película. |
+| V77#15 | B+299, mañana | Claude. Mañana de la salida prevista: Elmesia les dice que nunca vio a nadie tan feliz en su hotel y les pide quedarse unas noches más; aceptan sin fijar cuántas. Carta a casa con el correo de la mañana. Mau empacó las sandalias que Yuka quería usar; ella se hace la ofendida. |
+| V77#16 | B+300 | Claude. Día de no hacer nada en la alberca chica: Yuka se le sube al regazo mientras él lee, se duerme en su hombro; él se come el pastel que ella guardó «para luego», ella lo inmoviliza acostándose encima y el pájaro se roba la segunda rebanada. |
+| V77#17 | B+301 | Claude. En vez del paseo de linternas, Mau la lleva en Kaisel a un cabo vacío al otro lado de la isla. Él olvidó la manta; ella llevó la suya y la cena. Mau no puede ver el atardecer, sólo donde la luz cae sobre ella, lo único con color para él. |
+| V77#18 | B+302 | Claude. Día de lluvia en el cuarto: cartas, ella lo acusa de leer el mazo con los ojos y luego hace trampa abiertamente; comida en el piso, siesta con ella encima. |
+| V77#19 | B+303 | Claude. El pueblo con la tarjeta de Elmesia: Mau le compra un sombrero enorme que ella usa todo el día por principio; regalos para cada persona de la casa; buscan en la arena hasta encontrar la concha de Ori (espiral, rosa por dentro según Yuka). |
+| V77#20 | B+304 | Claude. Vuelven a la roca con la luz de la tarde: una tortuga; pleito juguetón por el pez chico, Mau usa un toque mínimo de Authority y ella lo declara trampa. Tarde en la arena con ella encima. DIO y Elmesia con más vidrio de mar para la ventana de Ori. |
+| V77#21 | B+305 | Claude. Carta de la casa escrita por todos (Rimuru, Ori, Umaru, Rem, Gojo, Shoko, Maki y Yuta, Frieren, Mai, Fern, Beru dictando); preguntan cuándo vuelven, nada malo en casa. Empiezan a extrañar a todos y deciden volver mañana. El pájaro le roba a Yuka. Cena con Elmesia y DIO; última noche. |
+| V77#22–23 | B+306, mañana y tarde | Regreso después de trece noches. El herido pudo viajar la víspera con su familia y los rescatistas. Bellion informa que las dos sombras regresaron. Mau y Yuka confían a Maki y Yuta que están intentando formar una familia. |
+| V77#24–25 | B+306, tarde y noche | Senku, Byakuya, Ramiris y Rimuru presentan pantalla y catálogo de películas, música, manga y juegos reconstruidos a partir de aportes voluntarios. Umaru estrena el juego con Rem, Taihei, el Fort y Mau. Ori recibe respuesta del herido a través de Makima. La familia comparte la primera película. |
 
 Las seis noches abarcan B+293 a B+298. Yuka tiene 20 en este tramo; Mau entró a la historia con 22. La cena de aniversario retoma la celebración anterior y la visita de la luna de miel. Al cierre siguen intentando formar una familia. El resultado y el apellido siguen abiertos.
+
+
+## Estancia extendida en la isla (Claude, por encargo de Mauri)
+
+Mauri pidió extender la isla sin tocar los capítulos que ya existían: Elmesia los invita a quedarse y se quedan hasta que la casa pregunta cuándo vuelven. Claude escribió V77#15–21 (B+299–B+305). El regreso pasó de seis a trece noches: V77#22–25 (antes #15–18) van ahora en B+306; se cambiaron sólo fechas, número de capítulo y la frase del «When» de #22. En #14 el «When» dice ahora «what they think is their last full day».
+
+**Para Work, antes de que Mauri lo lea:** Claude no escribe besos ni intimidad de Mau y Yuka. Dejó notas `[PARA WORK: …]` dentro de V77#15–21, en el lugar exacto, con el porqué y la indicación de no comprimir y sin límite de palabras: besos en #15, #16, #17, #18, #19 y #20; escena íntima en #17 (la noche del atardecer); en #21, escena íntima o beso largo, a elección de Work. Mauri pidió que Work revise todo el tramo, agregue lo que crea que falta, llene las notas y las quite, y luego le avise para leer. Pendiente posible: que en #22 Ori reciba la concha y la casa los regalos.

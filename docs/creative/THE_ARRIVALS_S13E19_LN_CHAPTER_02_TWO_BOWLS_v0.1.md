@@ -7,7 +7,7 @@
 **Source episode:** S13E19
 **Continuity state:** B+298, island day six, the bird accepts an offer and then reconsiders.
 
-*When: The last full day on the island, at the table closest to the little pool.*
+*When: What they think is their last full day on the island, at the table closest to the little pool.*
 
 The bird makes Mau wait almost the entire morning.
 

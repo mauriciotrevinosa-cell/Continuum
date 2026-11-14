@@ -5,7 +5,7 @@
 **Season:** 13
 **Coverage:** S13E13–S13E21 (season finale)
 **Volume title:** **All the Mornings Left**
-**Chapter files:** 18
+**Chapter files:** 25
 
 Ori chooses what the house does on her birthday. Mau and Yuka take six nights on the island, with time to change their minds about what to do with a day.
 
@@ -29,7 +29,14 @@ Ori chooses what the house does on her birthday. Mau and Yuka take six nights on
 | 12 | S13E18 | The Table They Had Before | `THE_ARRIVALS_S13E18_LN_CHAPTER_02_THE_TABLE_THEY_HAD_BEFORE_v0.1.md` |
 | 13 | S13E19 | Stay There a Little Longer | `THE_ARRIVALS_S13E19_LN_CHAPTER_01_STAY_THERE_A_LITTLE_LONGER_v0.1.md` |
 | 14 | S13E19 | Two Bowls | `THE_ARRIVALS_S13E19_LN_CHAPTER_02_TWO_BOWLS_v0.1.md` |
-| 15 | S13E20 | On the Other Side of the Door | `THE_ARRIVALS_S13E20_LN_CHAPTER_01_ON_THE_OTHER_SIDE_OF_THE_DOOR_v0.1.md` |
-| 16 | S13E20 | Four Chairs in the Kitchen | `THE_ARRIVALS_S13E20_LN_CHAPTER_02_FOUR_CHAIRS_IN_THE_KITCHEN_v0.1.md` |
-| 17 | S13E21 | A Picture the Whole Room Can See | `THE_ARRIVALS_S13E21_LN_CHAPTER_01_A_PICTURE_THE_WHOLE_ROOM_CAN_SEE_v0.1.md` |
-| 18 | S13E21 | Do Not Even Think About Leaving | `THE_ARRIVALS_S13E21_LN_CHAPTER_02_DO_NOT_EVEN_THINK_ABOUT_LEAVING_v0.1.md` |
+| 15 | S13E19 | A Few More Nights | `THE_ARRIVALS_S13E19_LN_CHAPTER_03_A_FEW_MORE_NIGHTS_v0.1.md` |
+| 16 | S13E19 | The Last Piece of Cake | `THE_ARRIVALS_S13E19_LN_CHAPTER_04_THE_LAST_PIECE_OF_CAKE_v0.1.md` |
+| 17 | S13E19 | Where the Light Lands | `THE_ARRIVALS_S13E19_LN_CHAPTER_05_WHERE_THE_LIGHT_LANDS_v0.1.md` |
+| 18 | S13E19 | Rain on the Balcony | `THE_ARRIVALS_S13E19_LN_CHAPTER_06_RAIN_ON_THE_BALCONY_v0.1.md` |
+| 19 | S13E19 | A Shell for Ori | `THE_ARRIVALS_S13E19_LN_CHAPTER_07_A_SHELL_FOR_ORI_v0.1.md` |
+| 20 | S13E19 | The Rock in the Afternoon | `THE_ARRIVALS_S13E19_LN_CHAPTER_08_THE_ROCK_IN_THE_AFTERNOON_v0.1.md` |
+| 21 | S13E19 | Everyone Wrote Something | `THE_ARRIVALS_S13E19_LN_CHAPTER_09_EVERYONE_WROTE_SOMETHING_v0.1.md` |
+| 22 | S13E20 | On the Other Side of the Door | `THE_ARRIVALS_S13E20_LN_CHAPTER_01_ON_THE_OTHER_SIDE_OF_THE_DOOR_v0.1.md` |
+| 23 | S13E20 | Four Chairs in the Kitchen | `THE_ARRIVALS_S13E20_LN_CHAPTER_02_FOUR_CHAIRS_IN_THE_KITCHEN_v0.1.md` |
+| 24 | S13E21 | A Picture the Whole Room Can See | `THE_ARRIVALS_S13E21_LN_CHAPTER_01_A_PICTURE_THE_WHOLE_ROOM_CAN_SEE_v0.1.md` |
+| 25 | S13E21 | Do Not Even Think About Leaving | `THE_ARRIVALS_S13E21_LN_CHAPTER_02_DO_NOT_EVEN_THINK_ABOUT_LEAVING_v0.1.md` |

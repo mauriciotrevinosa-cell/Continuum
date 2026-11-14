@@ -337,13 +337,113 @@ He waits until he feels the pressure on his shoulder and lifts the same short wa
 
 “Yes. Your turn to tell me what you want.” ʸ
 
-His first thought is still whether her knee's going to slide. He moves his hand to check. She catches it and rubs her thumb over his knuckle. Her knee's steady. She gives him the time to notice it and then look at her again. He wants her close enough that she can see his face without looking down.
+His first thought is still whether her knee's going to slide. He moves his hand to check. She catches it and rubs her thumb over his knuckle. Her knee's steady. She gives him the time to notice it and then look at her again.
 
-“Come here,” he says. ᴹ
+“Does it have to be a good answer?” he asks. ᴹ
 
-She brings their hands up beside his head and kisses him. She starts to move and stops at the top of the motion, waiting for him. He feels the heat of her breath against his cheek and lifts into the space she left him. His leg begins to shake where hers is resting against it. He gets her name out and she lifts her head.
+“It has to be yours.” ʸ
 
-“I'm close. Stay right there.” ᴹ
+She puts her chin down on his shoulder. He feels the breath she's still getting back and the small, unsteady pressure of her hand in his. She could have moved on as soon as he'd said she was okay. Instead she's lying here in a position she has to keep working to hold, waiting to find out what he likes.
+
+“I liked when you stayed still just now,” he says. ᴹ
+
+“Before or after?” ʸ
+
+“Both. I like feeling what happens before you move again.” ᴹ
+
+She brings her head up. Her hair slides across his mouth. He moves it with the backs of two fingers and takes a breath when he can get one.
+
+“Can you sit up again?” he asks. “I want to watch you.” ᴹ
+
+She draws her knees in first. Her palm comes down on his chest and she tests the weight she can put there before she straightens. He feels the heat where she's been resting on him change to cool air by degrees. She stops halfway up to check whether his leg still has her. He bends it just enough for her to feel him answer. By the time she's sitting up he can see her take a breath all the way in. He gets one too.
+
+“Like this?” she asks. ʸ
+
+“Yes. Put your hand back, though.” ᴹ
+
+She puts it back on his chest. It settles a little to the left of where it was. He takes her wrist and moves it over his heart. Her fingertips spread as soon as she feels the beat. He gets to watch it dawn on her why he wanted her hand there.
+
+“You're going a little fast,” she says. ʸ
+
+“You asked what I wanted.” ᴹ
+
+“I'm asking again. What do you want me to do now?” ʸ
+
+He thinks he could get used to that. He also thinks he's going to have to answer before she laughs at him for taking this long.
+
+“What you did right at the beginning. Slowly. And stay when you get there.” ᴹ
+
+She takes a little of her weight off him. He feels the drag as she lifts and the cold edge of the sheet shift under his calf. At the top she looks down at him. He puts his heel flat on the bed so he can let her set the pace. She lowers herself one careful inch at a time. The warmth of her closes around him, then gets tighter when she reaches the bottom and stays there. He opens his mouth and nothing comes out. Her palm gets heavier over his heart.
+
+“Do you want me to stop?” she asks. ʸ
+
+“I want you to keep looking at me like that.” ᴹ
+
+She does. He can see her mouth take the shape of a smile a little before it gets there. She shifts so slowly that all he feels at first is a new weight in the hand he has against her waist. Then the change gets all the way to where she's holding him inside her. His toes curl against the bed. He hears her inhale as she sees it in his face.
+
+“You felt that,” she says. ʸ
+
+“Yeah.” ᴹ
+
+She does it a second time. He gets his hand around her hip before his leg can lift of its own accord. She looks at his hand. He opens it enough for her to feel the difference between him holding her and trying to keep her in one place. When she takes his hand and puts it back a little farther round, he can feel how much of her weight she wants him to take.
+
+“Could we turn a little?” he asks. “My leg's getting tired.” ᴹ
+
+“Which way?” ʸ
+
+“Towards you. I want you to stay close.” ᴹ
+
+She puts her forearm down across the pillow by his head. He lowers his knee a little and finds she can follow him if he gives her time. They turn about a quarter of the way before she catches the sheet between her knees and laughs right in his ear.
+
+“I thought you'd got that out of the way.” ʸ
+
+“So did I.” ᴹ
+
+He brings his free hand down to pull it loose. The fabric comes with it all at once. She sinks against him as her knee finds the mattress. He feels the difference immediately. There's less for him to hold up, and he can bring his palm flat against her back. She tucks her nose against his cheek and waits for him to get settled.
+
+“Better?” she asks. ʸ
+
+“Much.” ᴹ
+
+She takes the hand he freed from the sheet and kisses his knuckles. He feels each kiss before he sees her lift her head for the next one. By the third he's the one who draws her mouth back to his. She goes still for him the way he asked. He can feel her pulse where her chest lies against his. The warmth between them has spread down the inside of his thigh, and when she shifts just enough to check that he's comfortable, he lets out a breath right into her kiss.
+
+“That too,” he says. ᴹ
+
+She laughs. He feels it even after the sound has stopped. She asks if he wants her to do it again, and he has to nod first because he wants it enough that he can't quite get the word out. She waits for the word anyway. He gets it on the next breath.
+
+“Yes.” ᴹ
+
+They ease back far enough for her to get her knee under her. She brings her mouth down again and moves just a little against him. He lets the pressure build before he lifts to meet it. She catches him with a hand at his shoulder when he comes up. He waits until her hips start to settle before he moves again. She says his name against his jaw. He answers hers on a breath he hasn't quite got enough of and feels her stop so she can hear him finish.
+
+“What?” she asks. ʸ
+
+“I just wanted to say your name.” ᴹ
+
+She kisses him, just once, then puts her cheek beside his so he can keep talking if he wants to. He feels a strand of her hair trapped between his hand and her back. He opens his fingers and it slides through them. For the first time since they moved, he has both hands where he can leave them.
+
+“Can I move first this time?” he asks. ᴹ
+
+“Show me how you want to.” ʸ
+
+He sets his foot on the mattress and pushes down gently to see how much he can lift without pulling her with him. It takes less than he thinks. Yuka's breath comes quick against his cheek. She puts a hand flat on his ribs and holds him steady while he draws back.
+
+“That was good,” she says. ʸ
+
+He tries it again a little slower. She catches his shoulder when the pressure deepens and the small sound she makes is enough to send him up another fraction. He feels her begin to bear down to meet him, then catch herself. She glances at him to see if he wants her to wait.
+
+“You can move with me now,” he says. ᴹ
+
+She does. He can feel where she lets him take the lead and where she gets impatient, and he smiles when the hand at his ribs begins pulling him in instead of holding him steady. She sees the smile.
+
+“What?” she asks. ʸ
+
+“I like when you do that.” ᴹ
+
+“I could tell this time.” ʸ
+
+She gives him the same pull again. He puts his hand over hers to keep it where he can feel it. She slows when he goes quiet, and for a breath he gets to feel her wait with him. He likes that he can ask for either thing and she'll give him time to find the words for it.
+
+“I'm close,” he says, against her ear. “Stay right there.” ᴹ
 
 She puts her cheek to his. The next time she bears down he keeps his hips up against hers and comes inside her. His heel slides a little. Her hand tightens in his as he sets his foot down flat and lowers his knee. She holds herself up on one arm until he's all the way down, then settles onto his chest. He feels the little sigh she gives when she puts her weight on him, the same one she made when she found a comfortable spot on him in the sand.
 

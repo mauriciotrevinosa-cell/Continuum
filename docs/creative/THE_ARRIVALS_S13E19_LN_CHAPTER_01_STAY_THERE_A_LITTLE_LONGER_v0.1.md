@@ -201,6 +201,62 @@ Mau raises his head. She sees the question get as far as his mouth. She lifts he
 
 His lips part. She was waiting for an answer she could hear, and what she gets first is the next stroke, slow enough for her to catch it and move with him. Then he says her name. She feels the last sound against her cheek and turns to get his mouth. He misses hers by a little and they laugh into each other's faces until he can get his head up enough to look.
 
+She'd expected the laugh to settle her. It sets off a little tremor instead. She feels him go still as it travels through her, and for a moment all she can hear is the two of them breathing out of time. Her palm comes down on the middle of his chest. His heart is going as fast as hers. It helps to find that out.
+
+“Wait,” she says. “I want to see what happens if I do it.” ʸ
+
+He starts to straighten his arm. She presses down before he can get much farther.
+
+“Stay right here. Just let me move first.” ʸ
+
+She gets her foot under her knee and presses down on the bed. The first lift is too much. Her heel skids and she drops back with a thump she feels in the base of her spine. Mau's mouth twitches. She puts one finger against it.
+
+“I know. Give me a second.” ʸ
+
+His lips close around the tip of her finger in a kiss. She takes it away before he can do it again because she is starting to forget what she wanted to try. This time she braces her foot a little farther out. She lifts only far enough to feel him shift inside her and lowers herself again until she feels the pull disappear. Mau's hand tightens at her waist. She likes that she can make that happen with such a small movement. She does it again with her eyes on his face.
+
+“You're making it very hard to stay still,” he says. ᴹ
+
+“Good.” ʸ
+
+She tries to do it a third time. This time he lets a breath out against her mouth and she laughs before she gets to the top of the movement. Her thigh goes slack. He catches her by the hip as she comes down.
+
+“Did that hurt?” he asks. ᴹ
+
+“No. I think I want to do something with my hand.” ʸ
+
+She slips it down between them. There isn't room to get where she wants without digging her wrist into his stomach. She draws his hand off her hip and shows him where to put it instead. The heel of his palm rests warm against her belly. Her own thumb comes down over his and nudges it the rest of the way.
+
+“There. A little to the side.” ʸ
+
+He lets her set his hand, then waits. When she takes her thumb away, his moves across her clit with a pressure so light she almost asks for more before it reaches the other side. She feels the catch in her breath a beat later. Mau can hear it. His thumb stays exactly where she put it.
+
+“That much?” he asks. ᴹ
+
+“That much. Slowly.” ʸ
+
+She keeps her hand over his wrist so she can feel the start of the next circle. Her toes draw up at the contact. She tries to stretch her leg flat to give them both a little more room and finds that the new angle pulls him away from the spot she'd just found. She brings her knee back in and lets her foot slide until he can feel her take his weight again. She wants his thumb and the warmth of him inside her at the same time. The two sensations come together for half a breath. She gets a hand around his wrist and holds him there.
+
+“Can we stay like this for a bit?” she asks. ʸ
+
+“However long you want.” ᴹ
+
+She lets go of him. His thumb moves and she can feel the small answering movement her own hips make before she decides to make it. For a second she thinks about saying *sorry*. The word comes from the same place as putting her hand over her mouth when she laughs. She lets it go. She draws him closer. He lowers his head to her shoulder and leaves it there while she does it again.
+
+“Look at me,” she says. ʸ
+
+He raises his head. His eyes move to her mouth when she takes the next breath. She'd asked him to look because she wanted to see what he'd do when she couldn't hold a thought all the way through. What he does is stay. She can see him follow the rise of her chest and then bring his eyes back up to hers. His hand is still moving, as slowly as she asked. She feels her knees begin to draw in.
+
+“Stop for a second,” she says. ʸ
+
+He stops before the end of the circle. She can still feel the warmth under his thumb. She lets her breath out through her mouth and presses the side of her face to the pillow where it's cool. The next wave outside breaks while she's trying to get her foot flat again. By the time the water goes back out, she can say what she wants without having to hurry.
+
+“I want to feel you move again. Can we leave your hand there a little longer?” ʸ
+
+He nods. His first stroke is so slow she has time to feel her thigh slide against his side. The next one takes her by surprise because his thumb moves too. She catches his shoulder with both hands. She can hear herself make the sound she thought she'd swallowed earlier, only louder this time. The way he closes his eyes when he hears it gives her enough nerve to say his name instead of trying to keep quiet.
+
+He kisses her once. She brings her hand down and draws his up to her waist. She feels the air where it was. She still wants to hold something. She loosens her other hand on his shoulder and he notices before she can work out whether she wants his wrist or his fingers.
+
 “Give me your hand,” he says. ᴹ
 
 She lets go of his shoulder and he laces his fingers through hers on the pillow. The seam presses the backs of her knuckles when his grip tightens. She moves their hands a little higher, onto the cool cotton. He follows. The moment her heel slips in a wrinkle of the sheet, she squeezes hard. He holds still without making her get the words out. She flattens the fold with her toes and puts her foot back down.

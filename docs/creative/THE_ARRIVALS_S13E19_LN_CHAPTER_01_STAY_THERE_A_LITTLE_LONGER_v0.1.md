@@ -185,7 +185,11 @@ He sets it aside and draws the sheet up over her back. She catches the edge with
 
 He puts his forearm beside her head and comes over her. The mattress gives under his elbow and rolls her a little towards him. Yuka brings her knee up against his side to stay there. He looks down to see where she put it, then at her face. She can feel him against her, warm and hard. He waits there until she puts her hand at his waist and draws him forward.
 
-He enters her slowly. Her heel presses into the mattress. The sheet wrinkles under it, but she leaves her foot there because moving it would mean letting go of his waist. She had meant to keep looking at him the whole time. She makes it as far as seeing his eyebrows draw together, then closes her eyes and lets her breath out.
+He enters her slowly. She feels the first stretch and presses her heel into the mattress to keep her place. The sheet wrinkles under it. Mau looks down when her fingers tighten on his waist, and the pressure eases as he stops.
+
+“A little more,” she says. ʸ
+
+She had meant to watch his face the whole time. She makes it as far as seeing his eyebrows draw together. Then he moves the last little way and her eyes close on their own. She lets the breath go against his cheek and feels him turn into it.
 
 He holds still. She can tell how much effort it takes from the pulse she feels beneath the heel of her hand. She spreads her fingers over his side and waits for the next breath to come easily. When she opens her eyes, he's looking at the hand she just moved.
 
@@ -235,7 +239,9 @@ His hand closes around hers. The backs of her fingers press into the pillow, sof
 
 “I'm right here.” ʸ
 
-His eyes close when she says it. His grip tightens once more, and the next breath goes out against her jaw in two uneven parts. She lets go of the sheet with her other hand and lays it on his shoulder. She can feel the muscle there stay tight after the rest of him goes quiet. She moves her thumb over it once. Then his breath comes out all at once, warm against the side of her face, and his shoulder softens under her palm.
+His eyes close when she says it. His grip tightens once more, and the next breath goes out against her jaw in two uneven parts. She lets go of the sheet and lays her palm on his shoulder. The muscle there stays tight after the rest of him goes quiet. She rubs it with her thumb and waits. The next breath is long and warm against the side of her face, and he lets more of his weight down where she can hold him.
+
+At dinner she'd had to wait until he was close enough to reach across the table. Now she can feel him swallow. She keeps her hand on his shoulder when he opens his eyes, so he knows where she wants him before he has to ask.
 
 The sheet has cooled where it's fallen away from her arm. She thinks about reaching for it. Then she hears him try to laugh and only get halfway there. She turns her face until her nose brushes his temple.
 
@@ -317,7 +323,7 @@ She laughs without covering her mouth. He lifts his head when he hears her, and 
 
 “Now let me see your face,” she says. ʸ
 
-He lifts his head. His hair has dried flat on the side he'd been lying on. She pushes it up with two fingers. It falls right back where it was. She can see him trying to decide whether she's making fun of him.
+He lifts his head. His hair has dried flat on the side he'd been lying on. She pushes it up with two fingers. It falls right back where it was. His eyes go to her mouth, where she's pressing her lips together a little too hard to keep a straight face. She lets herself smile. She wanted to see him smile back, and it takes him a second to work out that she's waiting for exactly that.
 
 “You wanted me to look at you earlier,” she says. “Let me look.” ʸ
 

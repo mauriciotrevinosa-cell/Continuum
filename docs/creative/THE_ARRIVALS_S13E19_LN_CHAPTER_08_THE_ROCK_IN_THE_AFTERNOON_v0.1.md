@@ -309,11 +309,13 @@ He lifts his hip so she can tug the sheet free. She puts a hand on his bare ches
 
 “I want you to stay right here.” ʸ
 
-He does. Yuka gets up long enough for both of them to get the rest of their clothes out of the way. When she comes back she puts a knee on either side of his hips. The mattress dips and she has to brace a hand against his shoulder. Mau steadies her at the waist.
+He does. Yuka moves back to give him enough room to push his shorts down. One cuff stays caught on his heel. She hooks two fingers in it and draws it free before she gets up to slip out of hers. He can still feel the place on his shoulder where she'd been leaning, cooler now that she's moved. When she comes back she plants one knee beside him first. He feels the mattress give before her other knee comes down. Her hand finds the same spot on his shoulder, and he steadies her at the waist.
 
 “Can I stay on top?” she asks. ʸ
 
-“Yes,” he says, and puts his head back so he can see her better. ᴹ
+“Yes.” ᴹ
+
+He puts his head back so he can see her better. She starts to brush her hair away again, then catches him smiling up at her and leaves it where it fell.
 
 She reaches between them and takes his cock in her hand. He feels the small change in her grip as she guides him to her, then the warmth when she begins to lower herself. She stops with him barely inside and shifts one knee farther out. He keeps his hands where they are while she finds her balance. The next inch takes his breath. Yuka looks up at him, sees it happen, and sinks down the rest of the way with a short, surprised breath of her own.
 
@@ -341,7 +343,7 @@ He waits for the pressure on his shoulder. It comes, and he lifts just enough to
 
 “Yes. Your turn to tell me what you want.” ʸ
 
-It takes him a second. He's already thinking about whether her knee has enough room. Then he feels her thumb brush the back of his hand. She has time to wait for him.
+It takes him a second. He's already thinking about whether her knee has enough room. He moves a hand to check. Yuka catches it, slips her fingers between his and brushes her thumb over his knuckle. Her knee has been steady for a while now. He lets himself look at her face. He wants her close enough that she can see his without looking down.
 
 “Come here,” he says. ᴹ
 
@@ -351,7 +353,7 @@ She puts their joined hands down beside his head and kisses him. He can feel her
 
 She nods and rests her cheek against his. He draws his knee a little farther back to give himself room to move. With each breath the warmth between them feels harder to pull away from, and the next time she meets him he stops trying. His leg shakes once against hers as he comes inside her. She stays braced on his shoulder until he can lower his leg without letting it fall. Then she lets herself down onto his chest, with her hand still in his.
 
-After a little while she shifts off him and puts her hand under the pillow looking for the edge of the sheet. Mau untucks it from behind his knee and lifts it over both of them. She turns onto her side so he can pull it all the way up. When he puts his head down, she's watching him with the little crease from the mask finally gone.
+Her breathing slows against his chest. He can tell when she's about to move from the way her hand bears down on the pillow beside his head. He gives her room to shift off him and keeps their fingers together until her cheek is down. Then she reaches under the pillow for the edge of the sheet. He feels it pull at the back of his knee, where it got caught. He frees it and lifts it over both of them. She rolls toward him to help, holding up the corner he can't quite reach. When he puts his head down, she's watching him with the little crease from the mask finally gone.
 
 “Did you finish rinsing mine?” she asks. ʸ
 

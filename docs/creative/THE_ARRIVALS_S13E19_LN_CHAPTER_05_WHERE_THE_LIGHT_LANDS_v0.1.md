@@ -5,7 +5,7 @@
 **Volume:** 77
 **Reading order:** 17
 **Source episode:** S13E19
-**Continuity state:** B+301, island day nine. Instead of the hotel's evening, Mau takes Yuka out on Kaisel to a high empty headland on the far side of the island for the sunset. He cannot see the sunset's colors; he sees them only where the light falls on her, the one thing in color for him. Return late to the room. Mau forgets the blanket; Yuka teases him. No danger, no new technique. Claude, by Mauri's request; bracketed notes are for Work.
+**Continuity state:** B+301, island day nine. Instead of the hotel's evening, Mau takes Yuka out on Kaisel to a high empty headland on the far side of the island for the sunset. He cannot see the sunset's colors; he sees them only where the light falls on her, the one thing in color for him. Return late to the room. Mau forgets the blanket; Yuka teases him. No danger, no new technique.
 
 *When: The hotel's card for the evening offers a lantern walk by the pier, and Mau puts it face down on the table before Yuka can read it.*
 
@@ -171,13 +171,39 @@ She waits.
 
 She doesn't say anything for a moment.
 
-Then she turns all the way towards him, on her knees on the blanket, so that she is between him and the sea, so that the whole of the light is behind her and on her, and she puts her hands on either side of his face.
+Then she turns towards him on her knees. One of them is still pointed toward the sea, so when she leans across him she catches the light down one side of her face. She puts her hands on either side of his.
 
 “Then look,” she says. ʸ
 
 He looks.
 
-[PARA WORK: aquí va el beso. Ella entre él y el mar, con todo el atardecer encima de ella, la única luz con color que él puede ver. Que sea el momento más bonito de toda la isla. Que dure lo que tenga que durar, sin prisa. Sin límite de palabras; no comprimas.]
+He can see the last of it on her knuckles, too. He turns his head enough to kiss one of them, and Yuka keeps that hand right where it is.
+
+“What color?” she asks. ʸ
+
+He wants to answer before it changes. There's a little of the color her hair goes when it's wet and the sun gets to it. There's a deeper color on her cheek, one he recognizes from that morning when Elmesia asked them to stay. He's thinking about how to put both of those things in a sentence when she runs her thumb under his eye.
+
+“Tell me after,” she says. ʸ
+
+She leans in. He sets his hand on the blanket to give her something steady to come towards. Her nose touches his first, cold from the wind. Then her mouth is warm against his and his free hand goes to her elbow. He feels her relax into it. The grass keeps moving around them, and every so often the loose corner of the blanket taps the back of his wrist.
+
+When she draws away she goes only far enough to look at him. He's still holding her elbow. She slides her hand from his face to the back of his neck and leaves it there while she takes a breath.
+
+“After which one?” he asks. ᴹ
+
+She lets out a laugh. He gets his hand all the way round her this time before she kisses him again. He had thought he ought to keep looking for as long as he could see the light. He closes his eyes the instant she touches him. He can feel where she is from the weight of her hand and the warmth coming through both their sleeves. He has nowhere he needs to be when he opens them.
+
+They stay close enough for him to answer without raising his voice.
+
+“Gold, I think. Here.” ᴹ
+
+He brushes the side of her cheek with a finger. Her eyes follow his hand when he lowers it.
+
+“Is it still there?” she asks. ʸ
+
+“A little. Put your head here and I'll tell you when it goes.” ᴹ
+
+She sits down beside him again and fits her head against his shoulder. She tells him that right now the clouds at the edge look like the thin part of a peach when you hold it up to a window. He turns his cheek into her hair and listens. By the time she gets to the water, the gold on her face is almost gone, and he finds he wants to hear about the water anyway.
 
 * * *
 
@@ -227,4 +253,58 @@ She takes his hand and pulls him towards the bed.
 
 “There'd better be,” she says. ʸ
 
-[PARA WORK: aquí, después de que ella lo jala hacia la cama, va la escena íntima de la noche. Vienen del momento más bonito del viaje, del atardecer en el que él sólo podía ver la luz sobre ella. Es una noche tierna y feliz, de dos personas que no tienen que estar en ningún otro lado. Cuéntala completa y bien. Sin límite de palabras; no comprimas.]
+Yuka sits down on the end of the bed and holds on to his hand while she tries to get one shoe off with the heel of the other. The knot holds. Mau kneels and puts her foot on his thigh so he can get at it.
+
+“I can do that,” she says. ʸ
+
+He looks up. She hasn't taken her foot away.
+
+“Want to?” he asks. ᴹ
+
+She considers it. “No. And there's sand in the other one.” ʸ
+
+There is. He shakes it out over the mat and sets the shoes together. When he comes back she's pulled her feet up under her and made a place for him beside her. He sits. The flight has cooled the ends of her hair. She pulls it all over one shoulder and asks if he'll get the tie she can feel coming loose. He works it down a little at a time, feeling for the caught strands so he won't pull. By the time he gets it free she has her eyes closed.
+
+“That good?” he asks. ᴹ
+
+“That good,” she says. “Do my hair tomorrow too.” ʸ
+
+He puts the tie on the table where she'll be able to find it, then feels two fingers close on the cuff of his shirt. She tugs him back the few inches he moved to reach the table.
+
+“You can tell me where you want me,” he says. ᴹ
+
+“I was showing you.” ʸ
+
+“Show me again.” ᴹ
+
+She pulls once more, slowly enough for him to see her deciding what she wants to do before she does it. He comes with her, gets a hand flat on the mattress so she has room to turn, and waits there. She kisses him once, takes a look at him, and kisses him again. The little space she left between them the first time is gone by the end of the second. He feels her fingers uncurl from his cuff and settle inside his palm.
+
+“You're smiling,” she says. ʸ
+
+“You said there'd better be a next time.” ᴹ
+
+“I was talking about the cliff.” ʸ
+
+“I know.” ᴹ
+
+She thinks about that, then buries her face in his shoulder to laugh. He feels it through his shirt. When she lifts her head, he asks if she wants the lamp on. She looks at the lamp, then back at him.
+
+“For a little longer,” she says. ʸ
+
+He moves the pillow out from behind his back and brings it down for her. She lies down first, and he feels her draw his hand with her until he's beside her, near enough to see the warm line of lamplight along her cheek. She touches his face as she did up on the cliff. This time she turns into his hand the moment he lifts it. They kiss with the lamp on until Yuka reaches past him to turn it out herself.
+
+* * *
+
+Later, Mau feels her hand moving about on the sheet. He takes it, and she draws his arm up a little higher until it's where she wants it. One of their pillows is on the floor. He can see its corner from where he's lying. He could reach it if he let go.
+
+“I left your hair tie on the table,” he says. ᴹ
+
+“I know. You put it on top of the card.” ʸ
+
+“You had your eyes shut.” ᴹ
+
+“You say that like you were the only one looking all night.” ʸ
+
+He laughs. She rests her forehead against his, and the pillow stays on the floor. A little while later she asks if they can sleep in tomorrow. Mau asks how late. She thinks about it for long enough that he thinks she's fallen asleep.
+
+“I'll tell you when I wake up,” she says. ʸ

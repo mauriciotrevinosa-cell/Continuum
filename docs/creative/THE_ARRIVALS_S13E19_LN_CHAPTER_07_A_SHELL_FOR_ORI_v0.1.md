@@ -5,7 +5,7 @@
 **Volume:** 77
 **Reading order:** 19
 **Source episode:** S13E19
-**Continuity state:** B+303, island day eleven, clear after the rain. A day in the village by the water with Elmesia's card: stalls, a straw hat Mau buys that is far too big and Yuka wears all day on principle, small gifts chosen for people at home, and a long search on the wet sand for Ori's shell. The house is thought of fondly, not missed yet. No danger, no new topic. Claude, by Mauri's request; bracketed notes are for Work.
+**Continuity state:** B+303, island day eleven, clear after the rain. A day in the village by the water with Elmesia's card: stalls, a straw hat Mau buys that is far too big and Yuka wears all day on principle, small gifts chosen for people at home, and a long search on the wet sand for Ori's shell. The house is thought of fondly, not missed yet. No danger, no new topic.
 
 *When: The morning after the rain, when the whole island smells of wet stone and the boats are already out.*
 
@@ -41,7 +41,7 @@ It's hot and sweet and burns his tongue. He eats it anyway.
 
 He buys her a hat.
 
-He doesn't plan to. They pass a stall hung with straw hats, wide ones, the kind the fishermen wear against the sun, and he sees one with a brim so enormous it could shade a small table, and he thinks of her on the balcony squinting into the light, and before he can think better of it he has paid for it and put it on her head.
+He doesn't plan to. They pass a stall hung with straw hats, wide ones, the kind the fishermen wear against the sun, and he sees one with a brim so enormous it could shade a small table. He thinks of her on the balcony squinting into the light. By the time Yuka realizes he's stopped, the woman has seen the seal on Elmesia's card and Mau is holding the hat up where Yuka can duck her head into it.
 
 It comes down over her eyes.
 
@@ -73,11 +73,11 @@ They buy things for the house.
 
 It happens without either of them deciding it. Yuka picks up a little carved bird from the old woman's blanket and turns it over and says *Frieren*, because it's the same bird that steals from Mau's plate, and Frieren will want to hear about the bird. So they buy it.
 
-Then there is a jar of the sharp sweets, and Yuka says *Umaru*, and they buy that too. A wooden spoon with a long handle, for Rem. A tin of the coffee from the little stall, a second one, for Gojo, who will drink the first one too fast. A strip of the cloth with a pattern Yuka says Mai will want to take apart to see how it was woven. A little carved boat for Shizue. A knife with a bone handle for Maki, which the man at the stall assures them is very sharp, and which Yuka tests on her thumb, and then has to suck the thumb.
+Then there is a jar of the sharp sweets, and Yuka says *Umaru*, and they get that too. A wooden spoon with a long handle, for Rem. At the coffee stall Yuka asks Mau to find out how the grinder works. By the time the man has shown him the last of the gears, she's waiting with a tin for him to put away for Gojo. There's a strip of cloth with a pattern Yuka says Mai will want to take apart to see how it was woven. A little carved boat for Shizue. A knife with a bone handle for Maki, which the man at the stall assures them is very sharp, and which Yuka tests by asking him to cut the loose end off the string around the box. The blade goes through it before he has to pull the string taut.
 
 “Is it sharp?” Mau asks. ᴹ
 
-“It's sharp,” she says, around her thumb. ʸ
+“I think she'll like it,” she says. ʸ
 
 They buy it.
 
@@ -169,4 +169,8 @@ He thinks about the shelf of gifts in his pocket. A bird for Frieren. Sweets for
 
 She doesn't say anything else about it. But she squeezes his hand a little harder, and they walk the rest of the way back to the hotel without talking, and when they get to the steps she stops and looks back at the beach for a long moment before she goes up.
 
-[PARA WORK: aquí, en los escalones, cuando ella se detiene a mirar la playa y luego lo mira a él con el sombrero enorme torcido, puede ir un beso corto. Es cariño, no un gran momento. Sin límite de palabras; no comprimas.]
+She lets go of his hand to pull off the hat. For a second he thinks she's finally going to give it back. Then she puts it on him. The brim comes down across his eyes, and he hears her take a step up so they're the same height.
+
+“I'll lead you,” she says. ʸ
+
+She lifts the brim with two fingers and kisses him once, quickly. He catches sight of her smile before she lets the brim come down again. Then she gives him her hand and leads him up the next two steps in the dark.

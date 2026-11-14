@@ -7,7 +7,7 @@
 **Volume title:** **All the Mornings Left**
 **Chapter files:** 25
 
-Ori chooses what the house does on her birthday. Mau and Yuka take six nights on the island, with time to change their minds about what to do with a day.
+Ori chooses what the house does on her birthday. Mau and Yuka plan six nights on the island and stay thirteen, with time to change their minds about what to do with a day.
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_76_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S13_ACTUAL_PRODUCTION_STATE_2026-11-12.md)
 

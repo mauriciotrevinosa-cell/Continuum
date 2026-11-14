@@ -5,7 +5,7 @@
 **Volume:** 77
 **Reading order:** 16
 **Source episode:** S13E19
-**Continuity state:** B+300, island day eight. A day of doing nothing at the little pool. Yuka sits on Mau's lap while he reads and falls asleep on his shoulder on the daybed. He eats the cake she saved for later; she plays offended and the bird finishes the second one. No danger, no new topic. Claude, by Mauri's request; bracketed notes are for Work.
+**Continuity state:** B+300, island day eight. A day of doing nothing at the little pool. Yuka sits on Mau's lap while he reads and falls asleep on his shoulder on the daybed. He eats the cake she saved for later; she plays offended and the bird finishes the second one. No danger, no new topic.
 
 *When: The first morning of the nights they didn't plan, with nowhere on the island they have to be.*
 
@@ -173,7 +173,23 @@ There is a long silence.
 
 Yuka puts her face in her hands and starts to laugh, and keeps laughing, until she has to lie back down on top of him again because she can't sit up any more.
 
-[PARA WORK: aquí, cuando ella está acostada encima de él muerta de risa después de lo del pájaro, va un beso. Ella lo empieza, a medio reír. Juguetón, no solemne. Sin límite de palabras; no comprimas.]
+She gets a hand on his shoulder and pushes herself up just enough to kiss him. She's still laughing when their mouths meet. He catches the next laugh against his lips and loses his own breath with it. Her knee slips in the gap between the cushions. Mau slides a hand behind her back to steady her and she uses the help to stay exactly where she is.
+
+“You taste like my cake,” she says. ʸ
+
+“So do you.” ᴹ
+
+She looks at him as if she's about to object. Then her thumb brushes the corner of his mouth and she gives him a slower kiss. This time they get all the way through it before she starts laughing again.
+
+“You're still ordering me another one,” she says. ʸ
+
+“I think we should eat that one inside.” ᴹ
+
+Yuka turns her head toward the roof. Mau feels the movement all the way down the cushion where she's still lying on him.
+
+“I'll order yours while he's looking the other way,” he says. ᴹ
+
+“We can share it,” she says. “If you're awake.” ʸ
 
 * * *
 

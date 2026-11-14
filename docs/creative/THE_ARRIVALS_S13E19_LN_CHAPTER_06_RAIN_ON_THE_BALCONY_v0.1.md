@@ -5,7 +5,7 @@
 **Volume:** 77
 **Reading order:** 18
 **Source episode:** S13E19
-**Continuity state:** B+302, island day ten. A rainy day kept indoors. Cards borrowed from the desk; Yuka accuses Mau of reading the deck with his eyes, then cheats openly herself. Room service, a long nap with her lying on him, rain on the open balcony door. No danger, no new topic. Claude, by Mauri's request; bracketed notes are for Work.
+**Continuity state:** B+302, island day ten. A rainy day kept indoors. Cards borrowed from the desk; Yuka accuses Mau of reading the deck with his eyes, then cheats openly herself. Room service, a long nap with her lying on him, rain on the open balcony door. No danger, no new topic.
 
 *When: Yuka opens the balcony door in the morning and the rain comes straight in.*
 
@@ -39,7 +39,7 @@ It rains all day.
 
 Not a storm. A steady grey rain that comes down past the balcony in long straight lines and hisses on the railing and fills the room with the sound of it. The sea below is a blur. The pools are empty. Somewhere downstairs a door bangs every so often as people run from one building to another with their arms over their heads.
 
-They don't go anywhere.
+The farthest either of them goes is downstairs.
 
 After breakfast, which comes up on a tray because neither of them is willing to run, Yuka opens the balcony door again, just a crack, just enough that they can hear the rain properly and smell it without it coming in. Then she goes down to the desk in a borrowed coat and comes back with a deck of cards and a look on her face that Mau has learned to be careful of.
 
@@ -71,7 +71,7 @@ Yuka looks at the cards. Then at him.
 
 “To me.” ʸ
 
-He tries to explain that his eyes don't work like that. That they see energy and structure and the shape of things, not the faint difference between one printed card back and another. That even if they did, he wouldn't. She listens to all of it with her arms folded and her chin up and an expression of deep, patient disbelief.
+He turns the top card sideways so she can see its edge. His eyes can pick out a crease in the paper. They can't tell him what number the printer put on the other side of it. She listens to all of this with her arms folded and her chin up and an expression of deep, patient disbelief.
 
 “Prove it,” she says. ʸ
 
@@ -127,7 +127,23 @@ She thinks about it.
 
 He can't think of a better plan.
 
-[PARA WORK: aquí, con ella acostada encima de él escuchando la lluvia, va un beso lento y sin prisa. Es la paz de un día en que no hay nada que hacer. Sin límite de palabras; no comprimas.]
+Mau brings the arm behind his head down and puts his palm on her cheek. She'd been warm against his shirt a moment ago. Now the air from the balcony has cooled the side of her face and she turns it into his hand for a second before lifting her head.
+
+He starts to push himself up to reach her. She sets a hand on his chest.
+
+“You can stay there,” she says. ʸ
+
+She puts her elbow down by his shoulder and kisses him. The mattress gives a little when she shifts her weight. He feels her catch it, settle, and lean in again on her own time. One of the cards is wedged under his shoulder. He fishes it out without looking and holds it up beside them. She takes it, sets it face down on the pillow and comes back to kiss him before he can ask which one it was.
+
+For a little while they take their breaths when they need them and come back when they want. The rain gets louder against the railing. Mau feels Yuka smile before she draws away enough to speak.
+
+“I thought I heard the lunch tray.” ʸ
+
+“You haven't ordered lunch.” ᴹ
+
+She lets that sit for a moment, then lowers her chin to his chest again.
+
+“I can wait.” ʸ
 
 * * *
 

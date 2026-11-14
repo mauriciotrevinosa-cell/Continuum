@@ -5,7 +5,7 @@
 **Volume:** 77
 **Reading order:** 20
 **Source episode:** S13E19
-**Continuity state:** B+304, island day twelve. Yuka finally goes back to the rock in afternoon light, as she wanted on the second day. Snorkeling; a turtle; a playful contest over which of them a small fish prefers, which Mau tries to win with the gentlest Authority and Yuka declares cheating. Long afternoon lying on warm sand. DIO and Elmesia pass with more sea glass. No danger, no new topic. Claude, by Mauri's request; bracketed notes are for Work.
+**Continuity state:** B+304, island day twelve. Yuka finally goes back to the rock in afternoon light, as she wanted on the second day. Snorkeling; a turtle; a playful contest over which of them a small fish prefers, which Mau tries to win with the gentlest Authority and Yuka declares cheating. Long afternoon lying on warm sand. DIO and Elmesia pass with more sea glass. No danger, no new topic.
 
 *When: The afternoon after the village, when the sun has come round to the far side of the rock.*
 
@@ -151,7 +151,21 @@ She looks at him for a long moment.
 
 “You're forgiven,” she says. ʸ
 
-[PARA WORK: aquí, en el agua, con los brazos de ella alrededor de su cuello después de perdonarlo, va un beso con sal y risa. Sin límite de palabras; no comprimas.]
+He braces his feet when a swell comes up behind her. Yuka's heels lift off the sand and her arms tighten around his neck. He keeps both hands at her waist until the water goes down again.
+
+“Still forgiven?” he asks. ᴹ
+
+She nods. She has to turn her head a little to get around the mask on his forehead. The first thing he tastes is salt. The next thing he feels is her laugh when the edge of his mask comes down across his eyes.
+
+Mau pushes it up. Yuka lifts it the rest of the way off him, loops the strap around her wrist and kisses him again before he can do anything about the state of his hair. He lets one hand slide to the small of her back. This time when the water lifts her, he feels her trust him with her weight before she even notices her feet have left the bottom.
+
+By the time they break apart there's a ripple at his elbow, just enough to make him look down. The little fish hangs there for a moment and darts past him to Yuka's side.
+
+Mau opens his mouth.
+
+“You already said it properly,” she says. ʸ
+
+She gives him his mask back. He lets her get a whole step toward the beach before splashing her.
 
 * * *
 
@@ -191,7 +205,7 @@ She thinks about it.
 
 DIO and Elmesia come along the beach a little later.
 
-They're walking slowly at the water's edge, heads down, looking at the sand. DIO has her hands cupped together in front of her. When they get close, she stops and looks at Mau and Yuka lying on the sand, one on top of the other, and a small smile crosses her face.
+They're walking slowly at the water's edge within reach of the shelter, heads down, looking at the sand. DIO has her hands cupped together in front of her. When they get close, she stops and looks at Mau and Yuka lying on the sand, one on top of the other, and a small smile crosses her face.
 
 “Don't let us disturb you,” Elmesia says. ᴱˡ
 

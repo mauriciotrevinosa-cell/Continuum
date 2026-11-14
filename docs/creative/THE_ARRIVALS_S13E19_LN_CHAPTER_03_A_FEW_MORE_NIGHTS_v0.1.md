@@ -5,7 +5,7 @@
 **Volume:** 77
 **Reading order:** 15
 **Source episode:** S13E19
-**Continuity state:** B+299, morning of the planned departure, island day seven. Elmesia sees them at breakfast and asks them to stay longer; they accept for a few more nights. A letter goes home with the hotel's morning post, no new route or power. No danger at home. Mau forgets he already packed Yuka's sandals and she pretends to be offended. Claude, by Mauri's request; bracketed notes are for Work.
+**Continuity state:** B+299, morning of the planned departure, island day seven. Elmesia sees them at breakfast and asks them to stay longer; they accept for a few more nights. A letter goes home with the hotel's morning post, no new route or power. No danger at home. Mau forgets he already packed Yuka's sandals and she pretends to be offended.
 
 *When: The morning they are supposed to leave, while the first boats are still being tied up at the pier.*
 
@@ -133,7 +133,17 @@ Underneath, in smaller letters, for Ori:
 
 *We'll bring you a shell. A good one. Don't let Beru wear the hat to bed.*
 
-Mau reads it over her shoulder.
+Mau takes the pen long enough to add a line for Frieren.
+
+*The spell worked. The bird came back.*
+
+Yuka looks at him.
+
+“You're leaving out the part she'll ask about first,” she says. ʸ
+
+“She can ask me when I get home.” ᴹ
+
+He gives her the pen back and reads the whole letter over her shoulder.
 
 “Should we say how many nights?” ᴹ
 
@@ -153,13 +163,25 @@ He turns his hand over under hers.
 
 “That's all right,” he says. ᴹ
 
-[PARA WORK: aquí, después de que ella le dice que no quiere saber todavía cuántas noches, va un beso tranquilo en el balcón con el viento. Es el momento en que los dos deciden quedarse sin plan. No tiene que ser largo, pero que se sienta. Sin límite de palabras; no comprimas.]
+The wind catches the fold just as he takes the letter. Yuka catches it against his chest with both hands. Mau puts a hand over hers and gets as far as looking for something to weigh the paper down before he realizes she's leaning in.
+
+He meets her halfway. The first kiss is quick because the corner of the letter comes up between them and touches his chin. Yuka slips the folded sheet into his shirt pocket and smooths it down. Her hand stays there.
+
+“Now you can pay attention,” she says. ʸ
+
+He touches the side of her face and kisses her again. The wind is cold on the back of his hand. It's warm where she leans into his palm. He keeps his eyes closed a little past the moment she draws back, and when he opens them she's still close enough that he can feel her laugh.
+
+“You know you can go back to bed after breakfast?” he says. ᴹ
+
+“I'm aware. I was going to ask you to come with me.” ʸ
+
+He looks down at the pier. The boatman is still carrying a crate across the gangplank. There's enough time for Mau to take the letter down without running. He stays where he is for one more kiss.
 
 * * *
 
-He takes the letter down to the pier himself.
+He takes the letter down to the pier himself, stopping at the desk for a sleeve with the hotel's seal.
 
-The boatman takes it, and the coin Elmesia's card says he doesn't need, and promises it will be at the house by evening. Mau stands on the pier for a while after the boat goes, watching it get smaller.
+The boatman sees the seal and tucks the letter into the morning post. He promises it will be at the house by evening. Mau stands on the pier for a while after the boat goes, watching it get smaller.
 
 When he turns round, Yuka is at the top of the steps.
 

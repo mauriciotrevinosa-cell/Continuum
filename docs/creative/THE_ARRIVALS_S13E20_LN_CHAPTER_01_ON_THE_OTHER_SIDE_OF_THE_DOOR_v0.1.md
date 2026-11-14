@@ -15,7 +15,7 @@ Yuka puts the bad sandals back in Mau's hand for the flight home. The sole has c
 
 “Then it's earned its trip home.” ʸ
 
-He puts the pair away together. There are sweets for the house, a stack of paper Elmesia found for Ori and a sealed packet of coffee that Yuka picked up from the little stall while he was looking at something else. She lets him see the coffee before he stores it. He asks how long she's been planning to do that. She tells him since he asked the man at the pool to tell him what the drink was called a second time.
+He puts the pair away together. The things from the village are already in his inventory, with Ori's shell set apart. Yuka has the last few things in her arms. There's a stack of paper Elmesia found for Ori, the hat, and a tin of coffee that looks exactly like the one he put away for Gojo. She lets him read the lid before he stores it. He asks how long she's been planning to do that. She tells him since he asked the man at the pool to tell him what the drink was called a second time.
 
 They have time to walk through the room once more after everything is out of it. She opens the curtain the rest of the way. The wind brings it back across the light. Mau keeps the bags in his inventory and comes up beside her empty-handed. They can see the low place beyond the steps where they stood after dinner. The water is coming in over that part of the sand.
 
@@ -71,4 +71,32 @@ Mau calls it up beside Bellion. The shadow stands straight at once. Mau thanks i
 
 “Show me where you put them tomorrow. I'll come find you after breakfast.” ᴹ
 
-Bellion inclines his head. Mau can already hear his wife telling Ori what the bird did when she set down the bowl. He opens the door in time to hear Ori ask why he gave the bird its own fruit when it clearly wanted his. He sets the bags out by the stairs, keeps the sweets where he can reach them, and goes in to give her the best answer he has.
+Bellion inclines his head. Mau can already hear his wife telling Ori what the bird did when she set down the bowl. He opens the door in time to hear Ori ask why he gave the bird its own fruit when it clearly wanted his.
+
+“I thought we could share breakfast without sharing a plate,” he says. ᴹ
+
+“Did you tell the bird that?” ᴼ
+
+“In those exact words.” ᴹ
+
+Yuka catches his eye. He sets the bags out by the stairs, then takes the shell from its place in the inventory. He lets her be the one to turn it over in Ori's hand, so she can see the pink inside.
+
+“It was half buried,” Yuka says. “We nearly walked past it.” ʸ
+
+Ori bends her head so far over it her hair falls across her eyes. Chloe holds it back for her while she tilts the shell toward the window. For a moment all Mau can see is the white line at the edge where the light comes through.
+
+“It's better than the one I drew,” Ori says. ᴼ
+
+“You drew one?” Mau asks. ᴹ
+
+She puts the shell into his hand for safekeeping and holds up two fingers to tell him to wait. He thinks she's going to run upstairs. Instead she reaches for the book Lantern had open and brings it over. There's a folded piece of paper between the pages. When she opens it, he recognizes the shape of the island she drew for them before they left. On this copy there's a spiral where she'd put the cross, and somebody has added a little hat by the water.
+
+“I was going to leave space for the glass next to it,” she says. ᴼ
+
+“Ask DIO if she'll help you pick a piece,” Yuka says. “She brought some back.” ʸ
+
+Ori looks around for DIO. Mau gives her the shell back, and she takes it with both hands before going to look. Chloe goes along to hold the door.
+
+By the time Mau gets the rest of the things out, Rem has found the bread knife and is asking who'll stay long enough for a slice. Yuka puts the long wooden spoon next to her elbow. Mai unrolls the strip of cloth from the village against the grain of the table, leaving just enough room for Shizue to set her little boat at the far end. Yuka sets Maki's box by the kettle and nudges the coffee tin towards Gojo's usual cup.
+
+Mau manages to put the carved bird in front of Frieren before Umaru spots the jar of sweets. Then he has to tell three people what the real bird did with the cake. Frieren turns the little carving to face his plate and asks him to start from the part where he ordered one while Yuka was asleep.

@@ -5,7 +5,7 @@
 **Volume:** 77
 **Reading order:** 21
 **Source episode:** S13E19
-**Continuity state:** B+305, island day thirteen. A letter from the house arrives with the morning boat, written in many hands, asking when they plan to come back; nothing is wrong at home. Mau and Yuka start to miss everyone and decide to go home the next morning. Last day: the pool, the bird steals from Yuka this time, dinner with Elmesia and DIO, a last night. Claude, by Mauri's request; bracketed notes are for Work.
+**Continuity state:** B+305, island day thirteen. A letter from the house arrives with the morning boat, written in many hands, asking when they plan to come back; nothing is wrong at home. Mau and Yuka start to miss everyone and decide to go home the next morning. Last day: the pool, the bird steals from Yuka this time, dinner with Elmesia and DIO, a last night.
 
 *When: The morning boat comes in while they are still at breakfast, and the boatman walks up from the pier with a letter in his hand.*
 
@@ -103,7 +103,7 @@ She says it quietly, as though she has only just found out.
 
 “Me too,” Mau says. ᴹ
 
-He hadn't, until now. He has been here thirteen days and has thought about the house every day, fondly, the way you think about a place you know is waiting for you. But he hasn't missed it. He hasn't needed to.
+Yesterday he was happy thinking about where Ori would put the shell. This morning he wants to see her pick up the things already on the sill and hold the shell in each spot until she finds one she likes.
 
 Now he can see Ori at the kitchen table with her careful downhill letters, asking whether the shell is good. He can see Beru with the hat on, dictating to Fern. He can see Gojo with his fourth cup and Shoko taking it away, and Maki writing *not me* and Yuta writing *she does* underneath, and Rem's bread on the morning they were supposed to come back.
 
@@ -119,9 +119,19 @@ She nods. She doesn't look sad about it. She looks like someone who has had exac
 
 * * *
 
-They spend the last day doing everything one more time.
+Yuka asks for a fresh sheet of paper at the desk. She writes *Tomorrow before lunch* and adds *The shell is good* underneath. Mau signs his name while she goes to ask which boat still has letters to take. He starts on hers. He gets through the first two strokes before she comes back and puts her hand over his.
 
-The little pool. The daybed with the curtain tied back on the left. Yuka on his lap with the island book open upside down until he turns it the right way. Lunch at the table by the rail, where the bird stole his fruit three times this week.
+“I want to sign it,” she says. ʸ
+
+He gives her the pen. She signs next to his two strokes and leaves them there. They watch the desk clerk slide the note into the pouch going out with the afternoon boat.
+
+At the little pool the daybed is still free. Yuka gets there first. By the time Mau has tied the curtain back on the left she's opened the island book at a drawing of a turtle and is holding it upside down. He turns it the right way. She turns it back.
+
+“I saw more of it from here,” she says. ʸ
+
+He remembers turning to look at her in the water and finding her floating almost sideways so she could see past him. He gets in beside her and turns his head until the drawing is upside down for him too.
+
+They take lunch by the rail. The server sets down the fruit last, and Yuka moves her little plate nearer the edge to make room for the rest. Mau looks at the plate. He looks at her. She doesn't see either look because she's picking out the piece she's going to eat first.
 
 The bird is there.
 
@@ -151,7 +161,7 @@ He gives her his fruit. All of it. She eats it with tremendous dignity while he 
 
 They have dinner with Elmesia and DIO.
 
-Elmesia has saved them the table by the window again, the one from the anniversary. DIO comes with a cloth bundle under her arm that turns out to have all the sea glass in it, every piece they found, sorted by size. She lays them out on the table so Yuka can tell Mau the colors, and Yuka does, one by one, and DIO listens to every word.
+Elmesia has saved them the table by the window again, the one from the anniversary. DIO comes out of the shelter with a cloth bundle under her arm that turns out to have all the sea glass in it, every piece they found, sorted by size. She lays them out on the table so Yuka can tell Mau the colors, and Yuka does, one by one, and DIO listens to every word.
 
 “Thank you for keeping us,” Yuka tells Elmesia over dessert. ʸ
 
@@ -195,4 +205,26 @@ He holds her a little tighter.
 
 She turns in his lap and puts her arms round his neck and her face against his shoulder, and stays there.
 
-[PARA WORK: aquí, la última noche en la isla. Del balcón, con ella en su regazo diciendo que olvida que pueden volver, pueden pasar adentro. Si te funciona, aquí va una escena íntima tierna y tranquila, la despedida de la isla; si sientes que la de la noche del atardecer ya cumplió, basta con un beso largo en el balcón. Tú decides cuál le queda mejor. Sin límite de palabras; no comprimas.]
+Mau brings a hand up to the back of her head. Her hair is cool where the wind has got to it. He keeps his hand there until she lifts her face on her own.
+
+“Same table next time?” she asks. ʸ
+
+“If you want it.” ᴹ
+
+“I do. I want to ask her how long she's been saving it.” ʸ
+
+“Since you ate the last of my dessert the first time, probably.” ᴹ
+
+She draws back enough to look at him. “That was our dessert.” ʸ
+
+Her laugh comes out against his cheek when he turns to kiss her. She takes a breath and steadies herself with a hand on the back of the chair. Then she leans in again, slow enough for him to feel her fingers relax one by one against his neck. They have to shift a little when his elbow starts to slip. He sets both feet flat, puts his arm around her again and feels her settle back into his lap.
+
+Down on the beach the water is pulling back over the pebbles. Mau listens to it until the next wave comes. When Yuka kisses him again, he loses track of where in that sound they were.
+
+“Did you put the letter away?” she asks after a while. ʸ
+
+“I left it on your side of the bed. You were still reading it when we went down to dinner.” ᴹ
+
+She rests her cheek against his. “Can we read Ori's part again before we go to sleep?” ʸ
+
+He holds the chair steady while she gets up. She slips a foot into the wrong sandal, works out what she's done, and kicks it off again without bothering to find the right one. Mau takes the pair in one hand and follows her inside. He leaves the balcony door open for the last little while.

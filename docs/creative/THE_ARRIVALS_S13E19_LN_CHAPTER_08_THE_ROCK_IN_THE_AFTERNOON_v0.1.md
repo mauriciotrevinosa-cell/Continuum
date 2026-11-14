@@ -5,7 +5,7 @@
 **Volume:** 77
 **Reading order:** 20
 **Source episode:** S13E19
-**Continuity state:** B+304, island day twelve. Yuka finally goes back to the rock in afternoon light, as she wanted on the second day. Snorkeling; a turtle; a playful contest over which of them a small fish prefers, which Mau tries to win with the gentlest Authority and Yuka declares cheating. Long afternoon lying on warm sand. DIO and Elmesia pass with more sea glass. No danger, no new topic.
+**Continuity state:** B+304, island day twelve. Yuka finally goes back to the rock in afternoon light, as she wanted on the second day. Snorkeling; a turtle; a playful contest over which of them a small fish prefers, which Mau tries to win with the gentlest Authority and Yuka declares cheating. Long afternoon lying on warm sand. DIO and Elmesia pass with more sea glass. Mau and Yuka spend the night together after dinner.
 
 *When: The afternoon after the village, when the sun has come round to the far side of the rock.*
 
@@ -231,4 +231,82 @@ Yuka puts her head back down on Mau's chest.
 
 “Good,” Yuka says. ʸ
 
-They lie there until the sun goes low and the sand starts to cool, and then they get up, and Yuka puts on the enormous hat, and they walk back along the beach to the hotel with the turtle still swimming in both their heads.
+They lie there until the sun goes low and the sand starts to cool, and then they get up. Yuka puts on the enormous hat and takes Mau's hand for the walk back along the beach. Halfway there she tells him she's changed her mind about the turtle.
+
+“It might've looked at you a little,” she says. ʸ
+
+“You're being very generous.” ᴹ
+
+“I had a good day.” ʸ
+
+* * *
+
+After dinner, Mau stands at the washbasin rinsing the masks. He runs his thumb along the edge of Yuka's, where a little sand has worked its way into the rubber. Behind him he hears the chair scrape and the soft thump of the hat landing on it.
+
+“Come look at my face,” Yuka says. ʸ
+
+He puts the mask down and turns. She stands in front of the mirror, lifting her hair off her forehead with one hand. There's a faint line where the top of the mask pressed in.
+
+“Have I looked like this all through dinner?” she asks. ʸ
+
+“I thought it was mostly gone by dessert.” ᴹ
+
+She lets her hair fall. “You were going to let me find out on my own?” ʸ
+
+“You've been looking at mine all evening.” ᴹ
+
+Yuka steps closer to check. She rubs her thumb along the bridge of his nose. There's water running off his wrist and into his sleeve, and by the time he thinks to reach for the towel she's moved her hand to the side of his face.
+
+“I told you I liked your face,” she says. ʸ
+
+“You put me after the turtle and being hungry.” ᴹ
+
+“I was hungry. You saw me at dinner.” ʸ
+
+He takes the towel off the rail and dries his hands. Before he can put it back she catches an end and uses it to draw him the rest of the way towards her. He catches her smile just before she kisses him. The towel slips through his fingers. It hits the floor and she looks down for a second, then pulls him back by the collar.
+
+“Leave it,” she says. ʸ
+
+He does. She lets her hand slide down from his collar to take his, and they make it as far as the foot of the bed before she turns around and kisses him again. The second time she stops, her forehead rests against his and he can feel her taking her time with the next breath. When she pulls back he's already leaning after her.
+
+“I've wanted to do that since the water,” he says. ᴹ
+
+“You did do that in the water.” ʸ
+
+“I know. I wanted to do it again.” ᴹ
+
+She sits on the bed and draws him down beside her. For a second their knees get in the way. She moves hers, waits while he works out what to do with his, then leans against him so hard they both go sideways into the pillows.
+
+“Was that on purpose?” he asks. ᴹ
+
+“I got where I wanted to go.” ʸ
+
+He laughs. She presses her lips to his cheek where the mask left its line, then takes his hand and brings it to her waist. His thumb moves once against the fabric there.
+
+“Stay with me tonight,” she says. ʸ
+
+He turns enough to see her face. “All night?” ᴹ
+
+“That's what I had in mind.” ʸ
+
+She shifts up the pillow so there's room for him to come closer. He leans over to switch off the lamp and she catches his sleeve.
+
+“You can leave that on,” she says. ʸ
+
+He brings his hand back to her. She keeps hold of his sleeve until his mouth finds hers again.
+
+* * *
+
+Much later, Yuka slides her hand under the pillow looking for the edge of the sheet. Mau untucks it from behind his knee and lifts it over both of them. She turns onto her side so he can pull it all the way up. When he puts his head down, she's watching him with the little crease from the mask finally gone.
+
+“Did you finish rinsing mine?” she asks. ʸ
+
+“Yes.” ᴹ
+
+“And yours?” ʸ
+
+He tries to remember which one he'd set down first. Yuka starts laughing before he answers. He reaches past her to turn off the lamp this time and feels her scoot closer as his arm comes back.
+
+“I'll finish it in the morning,” he says. ᴹ
+
+She fits her head under his chin. “I'll remind you after breakfast.” ʸ

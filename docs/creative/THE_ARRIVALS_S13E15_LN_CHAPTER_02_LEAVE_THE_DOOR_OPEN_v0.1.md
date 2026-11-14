@@ -7,7 +7,7 @@
 **Source episode:** S13E15
 **Continuity state:** B+293, arrival and first evening on the island.
 
-*When: The morning after Ori's birthday, with six nights booked.*
+*When: The morning after Ori's birthday, with six nights set aside for them.*
 
 Yuka packs the wrong shoes on purpose. Mau finds this out because she makes him guess which ones she's got in her hand behind her back. He names the pair she's been wearing around the house all week. Those are on her feet. Then he names the ones from the wedding and she laughs so hard she has to put a hand on his shoulder.
 
@@ -42,6 +42,14 @@ Elmesia meets them on the quiet end of the landing and waits while Yuka sits on 
 Yuka hesitates, still looking at the water.
 
 “Could we find it on our own?” ʸ
+
+At the desk, Yuka hands over the card Elmesia gave Mau at the hearing. The attendant enters both their names and returns it. Elmesia tells him to include DIO and to let the kitchens and the pier know her guests have arrived.
+
+“Keep that with you,” Elmesia tells Yuka. “If someone outside the hotel asks for payment, show them the seal. The stalls and the boats all know where to send the bill.” ᴱˡ
+
+“Even the little stall by the water?” ʸ
+
+“Especially that one. Go hungry.” ᴱˡ
 
 Elmesia gives her the key. She has drawn two small turns on the paper that came with it and marked the route that goes outside. They walk it slow. There's a flight of stairs Mau remembers taking three at a time because they were late to something. Yuka stops on those stairs now and leans on the rail to see what else is below. There's a small pool with most of the people sitting along the far side and a ledge that looks out over the waves. She says, very quietly, that it's even better than the one she asked for.
 

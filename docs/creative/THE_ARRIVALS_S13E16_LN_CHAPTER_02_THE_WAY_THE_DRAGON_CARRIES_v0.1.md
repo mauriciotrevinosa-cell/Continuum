@@ -11,9 +11,9 @@
 
 Mau chooses the boat that goes the long way around.
 
-There's a smaller one that leaves later and gets back sooner. If the choice were only about seeing the sunset they'd do fine with that one. He watches the two boats for a while and sees that the long one has a flat bench at the stern, wide enough that Yuka could sit sideways with her feet up and talk to him. He asks what time they're allowed to get on.
+There's a smaller one that leaves later and gets back sooner. If the choice were only about seeing the sunset they'd do fine with that one. He watches the two boats for a while and sees that the long one has a flat bench at the stern, wide enough that Yuka could sit sideways with her feet up and talk to him. He shows Elmesia's card at the pier and asks what time they're allowed to get on.
 
-Yuka finds him at the end of the pier with a receipt in his pocket and a cloth bundle in his lap. She doesn't look to see how much the ride cost. She asks what's in the bundle.
+Yuka finds him at the end of the pier with two boarding slips tucked under a cloth bundle in his lap. She asks what's in the bundle.
 
 “Something for you if you get hungry halfway around.” ᴹ
 
@@ -25,7 +25,7 @@ He points at the boat. She looks at it until it lifts far enough on the waves fo
 
 “I want to sit there too.” ᴹ
 
-She holds the bundle for him while he gets up. He bought two of the little rolls she'd eaten on the beach, a paper sack of the sharp sweets Elmesia had pointed out yesterday, and a soft fruit he only finds out is in danger when she takes a bite of it while he's still telling her about the boat. He makes her hold the bundle a bit longer so he can steal a bite from the same place.
+She holds the bundle for him while he gets up. He picked up two of the little rolls she'd eaten on the beach, a paper sack of the sharp sweets Elmesia had pointed out yesterday, and a soft fruit he only finds out is in danger when she takes a bite of it while he's still telling her about the boat. He makes her hold the bundle a bit longer so he can steal a bite from the same place.
 
 Elmesia appears on the pier just as Mau is licking juice off his thumb. She has a strap over one shoulder and looks like she's been carrying something heavier than the bag it holds. He steps over to ask if he can help. That's when he sees the shadow on the water.
 

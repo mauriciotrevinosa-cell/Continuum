@@ -17,11 +17,11 @@ Elmesia asks what they did all day. Mau says nothing. Yuka says the same thing a
 
 “And you had a third of it.” ᴹ
 
-“Write that on the bill.” ʸ
+“You're lucky I left you the other two.” ʸ
 
 Elmesia has to wait to swallow before she can ask how the floating worked. Yuka tells her about that, too. When she gets to the part about the stomach, Mau steals a piece of the bread on her plate and makes her watch him eat it.
 
-DIO has joined them close to the shelter Mau carries, in the same private alcove they used on the first day. She and Elmesia went down the far shore earlier while the pool was close enough to reach, found a stall serving food in paper and stayed there until the wind turned. Elmesia bought something from the stall because she thought it was a little different from the thing DIO had asked for. They tell the story together and keep disagreeing about whose idea it was to buy the second one. DIO picks a crumb off her sleeve as she argues. Mau realizes it's the first time he's seen her have to do that here.
+DIO has joined them close to the shelter Mau carries, in the same private alcove they used on the first day. She and Elmesia went down the far shore earlier while the pool was close enough to reach, found a stall serving food in paper and stayed there until the wind turned. Elmesia ordered something from the stall because she thought it was a little different from the thing DIO had asked for. They tell the story together and keep disagreeing about whose idea it was to get the second one. DIO picks a crumb off her sleeve as she argues. Mau realizes it's the first time he's seen her have to do that here.
 
 “What are you doing after this?” he asks her. ᴹ
 

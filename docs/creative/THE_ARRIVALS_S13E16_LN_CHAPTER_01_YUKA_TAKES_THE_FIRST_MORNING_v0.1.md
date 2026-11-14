@@ -37,7 +37,7 @@ They have to go back for breakfast after all. It gives them time to ask about th
 
 He eats. She gets his last piece of bread while he's still laughing about it.
 
-Yuka pays while he goes to rinse his hands. By the time he gets back she has stopped beside the rack of postcards outside the restaurant. She holds one by the corner so the light won't bounce off it. It's a picture taken from farther up the beach, showing the rock with the sea stretched out behind it. She holds it up to the view, then looks at him instead.
+Yuka thanks the server while he goes to rinse his hands. By the time he gets back she has stopped beside the rack of postcards outside the restaurant. She holds one by the corner so the light won't bounce off it. It's a picture taken from farther up the beach, showing the rock with the sea stretched out behind it. She holds it up to the view, then looks at him instead.
 
 “What do you see when you look past the rock?” ʸ
 
@@ -49,7 +49,7 @@ Yuka holds the picture up again. Mau waits. She follows the edge of the rock wit
 
 He looks as she talks. The line between the lighter and darker water really is where her finger stops. The man from the mask stand is checking his box again. He's got the lid open just far enough that he can bring a mask out and fit it over his face with one hand.
 
-“Would you buy the card?” Mau asks. ᴹ
+“Would you get the card?” Mau asks. ᴹ
 
 “Do you want it?” ʸ
 

@@ -15,7 +15,7 @@ Yuka puts the bad sandals back in Mau's hand for the flight home. The sole has c
 
 “Then it's earned its trip home.” ʸ
 
-He puts the pair away together. There are sweets for the house, a stack of paper Elmesia found for Ori and a sealed packet of coffee that Yuka bought while he was looking at something else. She lets him see the coffee before he stores it. He asks how long she's been planning to do that. She tells him since he asked the man at the pool to tell him what the drink was called a second time.
+He puts the pair away together. There are sweets for the house, a stack of paper Elmesia found for Ori and a sealed packet of coffee that Yuka picked up from the little stall while he was looking at something else. She lets him see the coffee before he stores it. He asks how long she's been planning to do that. She tells him since he asked the man at the pool to tell him what the drink was called a second time.
 
 They have time to walk through the room once more after everything is out of it. She opens the curtain the rest of the way. The wind brings it back across the light. Mau keeps the bags in his inventory and comes up beside her empty-handed. They can see the low place beyond the steps where they stood after dinner. The water is coming in over that part of the sand.
 

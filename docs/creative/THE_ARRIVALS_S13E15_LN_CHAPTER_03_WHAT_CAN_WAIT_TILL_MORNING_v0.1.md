@@ -71,7 +71,7 @@ He brings it down and sits on the rug across from her. He's still wearing the th
 
 “I was walking quickly so she'd have time to hear me.” ᴹ
 
-“And she made room for me to get through. I'll buy her something on the island.” ʸ
+“And she made room for me to get through. I'll bring her something from the island.” ʸ
 
 Mau folds the shirt once, puts it over his knee and starts it again. She takes the other one and shows him where the sleeves are supposed to go. He does the same thing to his. When he gets to the end she puts hers on top of his, and the two make a square that fits into the one empty corner. He presses a hand down over them while she puts in a thin bag for things that might get wet.
 

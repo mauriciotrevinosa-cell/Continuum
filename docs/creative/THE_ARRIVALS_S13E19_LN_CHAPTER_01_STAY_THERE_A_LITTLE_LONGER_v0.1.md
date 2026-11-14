@@ -175,9 +175,9 @@ He lets his weight settle beside her. The place where their arms touch is warmer
 
 “Yes. Don't get up.” ʸ
 
-He has one foot on the floor. She draws his hand back toward her. He brings his foot in, opens the shop and buys a bottle he can reach from where he is. It comes cold enough to put a mark on the sheet. He unscrews the lid and hands it to her before he takes any himself.
+He has one foot on the floor. She draws his hand back toward her. He brings his foot in and takes one of the bottles the hotel left for them out of his inventory. It's still cold enough to put a mark on the sheet. He unscrews the lid and hands it to her before he takes any himself.
 
-“You could have ordered some for both of us before you started getting up.” ʸ
+“You had that the whole time?” ʸ
 
 “I thought you might want me to come back from the kitchen.” ᴹ
 

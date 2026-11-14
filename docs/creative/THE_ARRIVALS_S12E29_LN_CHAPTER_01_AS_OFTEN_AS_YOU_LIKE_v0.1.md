@@ -89,7 +89,7 @@ Elmesia waits. He has to explain the fruit, and the fact that the bird took it c
 
 “How long can we go?” Mau asks. ᴹ
 
-“As long as you like. Bring her back whenever you want. Bring everyone if you want. Just write when you're going to arrive with everyone, so nobody has to find a spare room for half of Tempest at dinner.” ᴱˡ
+“As long as you like. Show them my seal when you arrive. Your room, meals, anything you want to do while you're there. You're my guests. Bring everyone if you want. Just write ahead so nobody has to find a spare room for half of Tempest at dinner.” ᴱˡ
 
 “You've saved me a lot of anniversary ideas.” He takes it with both hands. “Thank you. Can I offer you something while we're out here?” ᴹ
 

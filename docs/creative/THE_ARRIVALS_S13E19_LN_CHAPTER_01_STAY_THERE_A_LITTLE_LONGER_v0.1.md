@@ -75,7 +75,7 @@ He does. The first kiss is quick enough to make her laugh at him. She gets the s
 
 “Which part?” ᴹ
 
-She shows him. It takes him half a second to catch up, and then she feels him smile against her mouth. She holds on to the back of his neck because she wants the smile and the kiss together. When the curtain comes up this time it lifts far enough to let a bar of light reach the foot of the bed. She watches it go and reaches for his hand.
+She cups the back of his neck and kisses him the way he kissed her before, quick enough that he starts to follow when she pulls away. This time she stays long enough to feel his smile against her mouth. The curtain lifts and a bar of light reaches the foot of the bed. She watches it go and reaches for his hand.
 
 “I want to make love to you,” she tells him. ʸ
 
@@ -83,7 +83,7 @@ Mau looks at her for a second. She can still feel the smile in the corner of his
 
 “I want that too.” ᴹ
 
-She presses a kiss below his ear. The answer warms her as much as the breath he lets out there. She has no speech ready for him after that. She gets the sheet out from under his knee, he reaches down to pull it over them, and it catches on his foot. She laughs so hard into his shoulder he has to wait to try again. Once he gets it loose she catches his face between her hands and brings him back to her.
+She presses a kiss below his ear. The answer warms her as much as the breath he lets out there. She catches his face between her hands and brings him back to her.
 
 Mau gets a hand around hers before she can take it away from his face. He turns his head and kisses her palm. She expects him to let go after that. Instead he keeps it against his cheek and looks at her from there.
 
@@ -95,19 +95,73 @@ She does. He's close enough that when his eyes move from one of hers to the othe
 
 He says it right away. She thought she'd be ready for it the second time. The way he says it is the same, and that's what gets her. She lifts her face and kisses him until she feels his hand tighten around hers.
 
-When they make love, the wind comes in under the curtain and cools the back of her shoulder. She asks Mau to come closer, and he draws the sheet up with him as he does. For a while she can hear both of them breathing over the water. His forehead slips against hers. She turns a little to give him room, and he takes that as a reason to pull away.
+The wind comes in under the curtain and cools the back of her shoulder. Yuka reaches for the sheet, then changes her mind. She takes the first button of Mau's shirt between her fingers. It's the thin one she picked for him on their honeymoon. The button comes through easily. The next one catches on a thread.
+
+“Leave that one. I'll get it,” he says. ᴹ
+
+She waits for him to sit up. He stays where he is and puts his hand over hers to turn the button sideways. Their fingers are still together when it comes free. She runs her knuckles down the opening. The shirt falls away on one side and she feels him take a quick breath against her temple.
+
+“I like this shirt on you,” she says. ʸ
+
+“I had an idea you might.” ᴹ
+
+“Take it off anyway.” ʸ
+
+He does. She shifts to help him free the sleeve he's lying on and gets a strand of her hair right across his mouth. He lifts his head and starts to back off. She catches his arm.
 
 “Where are you going?” ʸ
 
 “I thought you wanted room.” ᴹ
 
-“I wanted you to stop getting my hair in your mouth.” ʸ
+“I want you to stop getting my hair in your mouth.” ʸ
 
-He laughs. She gets the hair out of the way herself, and before she can reach for him again he comes back and kisses her. He takes his time this time. She can feel the moment he stops trying to tell whether she's about to laugh and lets himself enjoy it. She puts her hand on his back and leaves it there. When he looks up to check on her, she finds she can keep her eyes on him as long as she likes.
+He laughs. She gathers it off her neck and lays it across the pillow, then puts her hand at the back of his head and brings him down herself. The next kiss lands right. He stays close when it ends. Yuka feels him reach for the side of her dress, stop at the seam and try the other side.
 
-She loses track of the water. She can hear it again when he says her name a third time, softly enough she has to lean her cheek against his to catch the end of it. She finds his hand in the folds of the sheet and holds on while they get their breath back. His thumb moves once against her knuckles. She squeezes it and feels him smile before either of them opens their eyes.
+“The zip's at the back.” ʸ
 
-Afterward neither of them is in a hurry to speak. Mau puts his cheek against her hair, then moves it when she tugs a strand free from under his chin. She drapes it across the pillow where it won't catch again. He traces a little arc over her knuckles with his thumb. She feels him stop after the third pass and waits. The fourth one comes after a wave she can hear all the way up the beach.
+“Will you turn for me?” ᴹ
+
+She turns. He draws it down with one hand flat between her shoulders so the fabric doesn't bunch. When he reaches the end she still feels the heel of his palm there. She stays on her side long enough for him to kiss the place the zipper started, then rolls back to him and gets the dress the rest of the way off. It slides down the side of the bed and lands on the floor without a sound.
+
+She puts a hand on his bare chest. He has one foot tangled in the sheet. She presses her lips together when she sees it, and he catches her looking.
+
+“I'm very good at this part,” he says. ᴹ
+
+“I've been watching.” ʸ
+
+He gets the sheet loose with his toes. They slip out of the rest of their clothes and he draws it up over her back. She catches the edge with one hand and lets him under it with her. There is a moment when she could say any one of the things she has wanted to say since the restaurant. The thing she wants right now is simple enough to tell him in a breath.
+
+“I want you closer. Come over here.” ʸ
+
+He puts his forearm beside her head and comes over her. The mattress gives under his elbow and rolls her a little towards him. Yuka brings her knee up against his side to stay there. He looks down to see where she put it, then at her face. She can feel him against her, warm and hard. He waits there until she puts her hand at his waist and draws him forward.
+
+He enters her slowly. Her heel presses into the mattress as she gets used to the stretch. She had meant to keep looking at him the whole time. When she has to close her eyes, he holds still enough that she can open them again and find him right where she left him.
+
+“Can you come down a little?” she asks. “I want to hold you.” ʸ
+
+He bends his elbow. The change brings his chest against hers and shifts the pressure low inside her. She gets both arms around him before he can lift himself again. Her next breath comes out against his neck, quick and uneven. He keeps his weight on his arm and waits.
+
+“Like that,” she says. ʸ
+
+He moves again. She feels the same pressure when he comes back, and this time she knows what to do with the breath it takes from her. She lets it go where he can hear it. He says her name close to her ear. She turns towards him and catches his mouth while he's still saying it.
+
+She runs her hand up his back until her fingers find the top of his shoulder. He turns his face into hers, his breath warm against her cheek. She feels his mouth move and lifts her head to hear him.
+
+“Your hand,” he says. ᴹ
+
+She loosens her grip on his shoulder. He takes the hand she frees and slides his fingers between hers.
+
+“Here. Keep it here.” ᴹ
+
+She closes her fingers. He exhales as soon as she does. She can feel where his ribs move against hers. When she brings her knee in closer, her heel slips on the sheet. She grips his hand and feels him lean harder on the forearm beside her head to steady them. She gets her foot down flat and keeps hold of him. The next stroke catches her there, braced well enough to meet it, and the breath she'd meant to take comes out against his cheek. He feels her go still and stays close while she catches up.
+
+His arm is shaking a little by the time she lifts her head. She kisses him and draws their hands in between them so he can rest his wrist on the pillow.
+
+“Stay close,” she says. ʸ
+
+Mau nods against her neck. She feels his breathing quicken again. His fingers curl around hers when he comes, and she holds on until the weight on his arm eases.
+
+They stay that way until she can hear the water again. Mau shifts onto his side and brings their hands with him. His cheek comes to rest on a piece of her hair. She tugs it free and drapes it across the pillow before he can offer to move. He traces a little arc over her knuckles with his thumb. She feels him stop after the third pass and waits. The fourth one comes after a wave she can hear all the way up the beach.
 
 “Do you want me to move?” he asks. ᴹ
 

@@ -317,17 +317,47 @@ He feels the weight of her leg through his hand. He shifts down a little to brin
 
 She nods. “Give me a second.” ʸ
 
-He keeps still. He can feel her take that second, from the first tight breath she takes through her nose to the way her fingers spread against his back. When she kisses him she moves her hips a little with it. He follows the movement. He draws back just far enough to feel her tighten around him, then eases forward until she lets out a breath that sounds almost like his name.
+He keeps still. His hand is under her thigh where the sheet has made her skin cool. Each time she takes a breath her knee bears down a little harder on his hip, until he works out that she's trying to hold it there herself.
+
+“I've got your leg,” he says. “You can let it go.” ᴹ
+
+She tests that a little at a time. The weight comes into his hand and the tension goes out of her fingers against his back. The next breath is long enough for her to get all the way through it. She kisses him at the end of it and shifts her hips towards him so slightly he could have missed it if he'd been doing anything else.
+
+He follows her. The warmth around him changes as he draws back, and when he eases in again she catches the air between her teeth. He thinks for an instant he's gone too far. Then she tucks her heel against him and he feels it pull.
 
 “Again,” she says. ʸ
 
-He does it again. She tips her face into the pillow this time and he feels the change in pressure as she pulls him closer with her leg. His arm starts to shake from holding her up at that angle. She notices before he says anything. She shifts her knee farther around him so it rests against the mattress behind his hip, then finds his mouth while his hand is still free to touch her face.
+The second time he knows to wait for the pull of her heel. She tips her face down and he sees the pillow take the shape of her mouth before he hears the breath go into it. His wrist starts to shake. He tries to take the weight farther up his arm, which only makes him lower her knee when she wants it up.
+
+“Is your hand going to sleep?” she asks. ʸ
+
+“Two fingers.” ᴹ
+
+She lifts her leg and slides her knee farther around him, looking down until she can get it to the mattress behind his hip. He pulls his hand out. Pins and needles reach the tips of his fingers all at once. Yuka takes them and rubs them between hers, which makes it worse for about a second and then helps.
+
+“Tell me when you're ready,” she says. ʸ
+
+He could say it now. He likes lying here with her hand around his, long enough to feel the warmth come back to the two fingers she'd noticed. She looks up when he puts them against her cheek. This close, the light on her face doesn't go anywhere when she turns her head.
+
+“Now,” he says, and she kisses him before she moves. ᴹ
 
 The pillow slides under her cheek. Mau reaches up to catch it. It drops over the edge before he gets a finger under it.
 
 “Leave it,” Yuka says, and puts her cheek against his arm. ʸ
 
-He leaves it. He can see the light on her eyelids when she shuts them. Her next breath comes faster and he slows enough for her to find the motion again. She finds it with her heel against the back of his leg. He matches her until she stops trying to move and just holds on. He feels her tighten around him in short pulses. Her fingers curl against his shoulder and she says his name clearly this time. He stays close while it passes, his forehead against hers. When she opens her eyes and pulls him back into the kiss, he lets himself move again. A few breaths later he comes inside her, with her hand cupped around the back of his neck.
+He leaves it. He can see the light on her eyelids when she shuts them. He feels the first little pull of her heel against the back of his leg and moves with it. The second pull comes before he's quite still. He slows down to let her catch up, and she opens her eyes.
+
+“That pace. Keep it,” she says. ʸ
+
+He gets his palm flat against her back to hold her in the same place. The muscles there go tight under his hand. Yuka takes a breath and only gets halfway through it before her fingers catch on his shoulder. She says his name as she comes, clear enough he can hear the end of it against his cheek. He holds still while the tight pulses around him ease. She keeps her forehead pressed against his. The curl in her fingers loosens one finger at a time.
+
+His next breath shakes a little. She feels it and draws back to see him.
+
+“Are you close?” she asks. ʸ
+
+“Yes.” ᴹ
+
+She slides her hand up to the back of his neck and waits there until he starts moving again. The pressure of her palm keeps him close enough that he can feel her breathing each time he moves. He manages to tell her a second time, right against her mouth. She draws him closer with her knee and he comes inside her, holding on to the little stretch of sheet he can reach beside her back. When he opens his hand, the cotton stays creased where his fingers were.
 
 It takes him a moment to remember he can let his knee go slack. Yuka draws her leg down off his hip and lets him ease away, then reaches past him for the lamp. The switch clicks. He feels her settle back beside him before he can see anything.
 

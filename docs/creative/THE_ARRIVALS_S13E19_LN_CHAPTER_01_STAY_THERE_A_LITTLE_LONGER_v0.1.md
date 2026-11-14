@@ -95,6 +95,36 @@ She does. He's close enough that when his eyes move from one of hers to the othe
 
 He says it right away. She thought she'd be ready for it the second time. The way he says it is the same, and that's what gets her. She lifts her face and kisses him until she feels his hand tighten around hers.
 
+Something knocks twice on the balcony. Yuka breaks the kiss and turns her head before she can think. Mau does too. The curtain lifts. A loose shutter swings out just far enough for her to see the hook it came off.
+
+“I thought somebody was at the door,” she says. ʸ
+
+“So did I. I was about to tell Ori we'd be right out.” ᴹ
+
+That gets a laugh out of her before she can put her hand over her mouth. She hears it go all the way to the balcony. There's a pause in which the shutter swings back, the water breaks below them, and nobody asks what's funny. Mau looks at the hand she still has halfway to her face. She puts it down.
+
+“Leave the door open,” she says. ʸ
+
+He gets up long enough to put the hook back through its eye. On his way back he lifts his hands, like he wants her to see he hasn't brought anything with him. She moves to the edge of the bed and takes both of them.
+
+“You know what I was thinking at the restaurant?” she asks. ʸ
+
+“About the dessert?” ᴹ
+
+“After the dessert. You were holding my wrist while I ate. I wanted you to come around the table.” ʸ
+
+“What were you going to do if I did?” ᴹ
+
+Yuka pulls him down far enough to kiss him. He takes a step between her feet to catch his balance. She feels the surprise in the way his fingers close, then feels him lean into it. When they part she has both heels off the floor. She lowers them slowly and makes him wait for her answer.
+
+“That. But then we'd have had to get up and go.” ʸ
+
+Mau draws one of her hands up to his shoulder and leaves it there. “I would've asked for another minute.” ᴹ
+
+“Ask now.” ʸ
+
+He gets as far as her name before she kisses him again. This time when his hand moves to the back of her neck she lets go of his other one and uses it to pull him down beside her. He takes a little too much of the pillow with him. She gets one corner back and keeps the rest of him exactly where he landed.
+
 The wind comes in under the curtain and cools the back of her shoulder. Yuka reaches for the sheet, then changes her mind. She takes the first button of Mau's shirt between her fingers. It's the thin one she picked for him on their honeymoon. The button comes through easily. The next one catches on a thread.
 
 “Leave that one. I'll get it,” he says. ᴹ
@@ -183,7 +213,27 @@ He has one foot on the floor. She draws his hand back toward her. He brings his 
 
 “You can come back from the edge of the bed.” ʸ
 
-He drinks, stretches his arm to put the bottle on the table and rolls in beside her. She scoots over until her head is on his shoulder again. At home someone would have started walking downstairs by now. Here she can lie still long enough to hear how the water comes in at an angle. She remembers him walking the route of their old table today, knowing every turn and still going back to make sure the step was the right one.
+He drinks, stretches his arm to put the bottle on the table and rolls in beside her. She goes to put her head on his shoulder. Before she gets there, he cups her cheek and kisses her. Her hand goes to his chest by reflex. He waits until her fingers relax before he kisses her again.
+
+“I thought you wanted to lie down,” she says. ʸ
+
+“I wanted a drink. I've had it.” ᴹ
+
+She laughs and he kisses her right through it, which makes it take longer for both of them to come up for air. She can taste the cold water on his lips. He starts to say something and she catches his chin with two fingers. He stops talking. She likes how quickly he does that. She also likes that the instant she lets him go, he finishes what he was going to say.
+
+“I want another minute.” ᴹ
+
+Yuka turns toward the balcony. The shutter is quiet. The hall is quiet too. At home someone would have started walking downstairs by now. Here she hasn't got the faintest idea what time it is.
+
+“You can have more than one.” ʸ
+
+He reaches for her. She catches his hand, brings it around her back and shifts closer, until she can speak against his ear without having to lift her head.
+
+“And you don't have to whisper my name this time.” ʸ
+
+She hears the breath he takes before he answers. Her name sounds different when he says it out loud. She feels herself smile and has nowhere to hide it because he's close enough to feel it too. He asks if that's what she meant. She says yes, then takes the chance to say his name the same way. He presses his face into her shoulder. She puts her hand behind his head and lets him stay there until he can look at her again.
+
+Later, when she finally puts her head down on his shoulder, the bottle on the table has stopped sweating. She can hear how the water comes in at an angle. She remembers him walking the route to their old table today, knowing every turn and still going back to make sure the step was the right one.
 
 “I want to take the kids to the beach sometime,” she says. ʸ
 

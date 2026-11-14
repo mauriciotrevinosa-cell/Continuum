@@ -293,11 +293,53 @@ She shifts up the pillow so there's room for him to come closer. He leans over t
 
 “You can leave that on,” she says. ʸ
 
-He brings his hand back to her. She keeps hold of his sleeve until his mouth finds hers again.
+He brings his hand back to her. She keeps hold of his sleeve until his mouth finds hers again. When she slides her hand up his arm she comes across the damp patch where the water from the washbasin ran into it.
 
-* * *
+“Take this off before you get the pillow wet,” she says. ʸ
 
-Much later, Yuka slides her hand under the pillow looking for the edge of the sheet. Mau untucks it from behind his knee and lifts it over both of them. She turns onto her side so he can pull it all the way up. When he puts his head down, she's watching him with the little crease from the mask finally gone.
+He pulls the shirt over his head and drops it over the foot of the bed. Yuka sits up to pull hers off too. By the time he turns back she's on her knees, trying to work the sheet loose from under him.
+
+“Am I in the way?” he asks. ᴹ
+
+“A little. Lie back.” ʸ
+
+He lifts his hip so she can tug the sheet free. She puts a hand on his bare chest, where he can feel how cool her fingers still are, and waits while he settles against the pillows. Then she kisses him. Her hair falls over his face. He sweeps it to one side, gets about half of it, and starts to laugh when she has to lift her head to do the rest.
+
+“You want me to go get the tie?” he asks. ᴹ
+
+“I want you to stay right here.” ʸ
+
+He does. Yuka gets up long enough for both of them to get the rest of their clothes out of the way. When she comes back she puts a knee on either side of his hips. The mattress dips and she has to brace a hand against his shoulder. Mau steadies her at the waist.
+
+“Can I stay on top?” she asks. ʸ
+
+“Yes,” he says, and puts his head back so he can see her better. ᴹ
+
+She reaches between them and takes his cock in her hand. He feels the small change in her grip as she guides him to her, then the warmth when she begins to lower herself. She stops with him barely inside and shifts one knee farther out. He keeps his hands where they are while she finds her balance. The next inch takes his breath. Yuka looks up at him, sees it happen, and sinks down the rest of the way with a short, surprised breath of her own.
+
+“You can hold me tighter,” she says. ʸ
+
+His fingers close around her hips. She lifts herself enough to move again, and he feels her settle deeper as she comes back down. The motion is uneven at first. She presses her hand to the headboard for leverage, and it taps the wall. They both look at it.
+
+“Think that was the shutter?” he asks. ᴹ
+
+She laughs, and he feels her tighten around him before she can answer. She drops her hand to his shoulder and leans down so her hair falls across the pillow instead of his eyes.
+
+“Help me here,” she says. ʸ
+
+He brings one hand around to her lower back and bends a knee so she can lean against his leg. She tries a shorter motion, putting more of her weight into his hand. He feels the angle change. This time her hips come down flush against his and she stays there, breathing hard against his cheek.
+
+“Like that?” he asks. ᴹ
+
+“Just like that. Again.” ʸ
+
+They find it again. He lifts to meet her when she moves, and she holds his shoulder a little harder each time. When her breath catches and she stops halfway through a stroke, he holds still with her. She presses her forehead into the pillow. He feels her come in a few tight pulses, her hand slipping from his shoulder to the sheet. When she lifts her head her eyes are wet from laughing and catching her breath at the same time.
+
+“Come here,” he says. ᴹ
+
+She leans down and kisses him. She starts to move again with her mouth still on his. He can feel how much steadier she is now, even with her legs tired. He tells her he's close. She nods against his cheek and brings her hips down to meet him until he comes inside her. She stays braced on his shoulder for another breath, then he feels her let herself down onto his chest.
+
+After a little while she shifts off him and puts her hand under the pillow looking for the edge of the sheet. Mau untucks it from behind his knee and lifts it over both of them. She turns onto her side so he can pull it all the way up. When he puts his head down, she's watching him with the little crease from the mask finally gone.
 
 “Did you finish rinsing mine?” she asks. ʸ
 

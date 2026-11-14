@@ -291,11 +291,47 @@ She thinks about that, then buries her face in his shoulder to laugh. He feels i
 
 “For a little longer,” she says. ʸ
 
-He moves the pillow out from behind his back and brings it down for her. She lies down first, and he feels her draw his hand with her until he's beside her, near enough to see the warm line of lamplight along her cheek. She touches his face as she did up on the cliff. This time she turns into his hand the moment he lifts it. They kiss with the lamp on until Yuka reaches past him to turn it out herself.
+He moves the pillow out from behind his back and brings it down for her. She lies down first, and he feels her draw his hand with her until he's beside her, near enough to see the warm line of lamplight along her cheek. She touches his face as she did up on the cliff. This time she turns into his hand the moment he lifts it.
 
-* * *
+They kiss until his elbow starts to slide. He catches himself. Yuka puts a hand to his ribs and gets him to lie down the rest of the way, facing her.
 
-Later, Mau feels her hand moving about on the sheet. He takes it, and she draws his arm up a little higher until it's where she wants it. One of their pillows is on the floor. He can see its corner from where he's lying. He could reach it if he let go.
+“Take your shirt off?” she asks. ʸ
+
+He sits up enough to get it over his head. The cuff catches on his wrist where she'd been holding it. She frees him with two fingers and lets the shirt fall behind him. When he lies down again she draws her palm from his shoulder to his waist, slowly enough that he feels where each of her fingers stops. He reaches for the hem of her shirt and she lifts her arms. Her hair catches as the collar comes up, and she waits while he gets the last of it free. He lays the shirt on the pillow. She pushes it off to make room for his head.
+
+“Were you this warm on the cliff?” he asks. ᴹ
+
+“I was freezing. I wanted you to keep looking.” ʸ
+
+He laughs against her forehead. She draws him down to kiss her and stays there with her bare chest pressed against his. His hand finds the small of her back and brings her closer. He feels her breath change before she lifts her mouth.
+
+“I want you inside me,” she says. “Can we stay like this?” ʸ
+
+“We can try.” ᴹ
+
+It takes a little room to get the rest of their clothes off. Yuka pushes the sheet down with her feet while Mau works his shorts past his knees and kicks them down the bed. She rolls onto her back long enough to get her underwear past one heel. When she turns back he puts his palm under her thigh and she settles her knee over his hip.
+
+He feels the weight of her leg through his hand. He shifts down a little to bring the head of his cock against her. She's warm and wet where he touches her. He holds still there and looks up. Yuka draws her knee closer around him. When he eases in, she breathes out against his mouth and puts her hand flat on his back. He moves in another inch, then another, until their hips meet and he can feel her leg relax into his palm.
+
+“There?” he asks. ᴹ
+
+She nods. “Give me a second.” ʸ
+
+He keeps still. He can feel her take that second, from the first tight breath she takes through her nose to the way her fingers spread against his back. When she kisses him she moves her hips a little with it. He follows the movement. He draws back just far enough to feel her tighten around him, then eases forward until she lets out a breath that sounds almost like his name.
+
+“Again,” she says. ʸ
+
+He does it again. She tips her face into the pillow this time and he feels the change in pressure as she pulls him closer with her leg. His arm starts to shake from holding her up at that angle. She notices before he says anything. She shifts her knee farther around him so it rests against the mattress behind his hip, then finds his mouth while his hand is still free to touch her face.
+
+The pillow slides under her cheek. Mau reaches up to catch it. It drops over the edge before he gets a finger under it.
+
+“Leave it,” Yuka says, and puts her cheek against his arm. ʸ
+
+He leaves it. He can see the light on her eyelids when she shuts them. Her next breath comes faster and he slows enough for her to find the motion again. She finds it with her heel against the back of his leg. He matches her until she stops trying to move and just holds on. He feels her tighten around him in short pulses. Her fingers curl against his shoulder and she says his name clearly this time. He stays close while it passes, his forehead against hers. When she opens her eyes and pulls him back into the kiss, he lets himself move again. A few breaths later he comes inside her, with her hand cupped around the back of his neck.
+
+It takes him a moment to remember he can let his knee go slack. Yuka draws her leg down off his hip and lets him ease away, then reaches past him for the lamp. The switch clicks. He feels her settle back beside him before he can see anything.
+
+Mau feels her hand moving about on the sheet. He takes it, and she draws his arm up a little higher until it's where she wants it. As his eyes adjust he can make out the corner of the pillow on the floor. He could reach it if he let go.
 
 “I left your hair tie on the table,” he says. ᴹ
 

@@ -229,9 +229,27 @@ He holds still. She plants her heel where the sheet is smooth and shifts sideway
 
 “Stay close,” she says. ʸ
 
-Mau nods against her neck. She feels his breathing quicken again. His fingers curl around hers when he comes, and she holds on until the weight on his arm eases.
+Mau nods against her neck. The motion brushes the corner of his mouth along her jaw. She tips her chin down to find him and gets his cheek first. He turns into the kiss. There's still a little salt at the corner of his mouth. She tastes it just before he draws a breath that ends with his lips parted against hers.
 
-Mau lifts his head. The skin along her jaw cools where his face was. She raises her hand to bring him back and finds him trying to move the arm he's been leaning on.
+His hand closes around hers. The backs of her fingers press into the pillow, soft at first and then far enough that she can feel the mattress underneath it. She bends her fingers around his in return. He lifts his head to look at her. She'd been watching his mouth. She has time to see his eyes find hers before he says her name and runs out of breath on the last part.
+
+“I'm right here.” ʸ
+
+His eyes close when she says it. His grip tightens once more, and the next breath goes out against her jaw in two uneven parts. She lets go of the sheet with her other hand and lays it on his shoulder. She can feel the muscle there stay tight after the rest of him goes quiet. She moves her thumb over it once. Then his breath comes out all at once, warm against the side of her face, and his shoulder softens under her palm.
+
+The sheet has cooled where it's fallen away from her arm. She thinks about reaching for it. Then she hears him try to laugh and only get halfway there. She turns her face until her nose brushes his temple.
+
+“What?” she asks. ʸ
+
+“I was going to say something clever.” ᴹ
+
+“How clever?” ʸ
+
+He takes another breath. “We'll never know.” ᴹ
+
+Her laugh makes him laugh properly this time. His forehead comes down against hers. She feels him start to lift it and holds him there with her hand at the back of his neck until she's stopped laughing enough to tell him she wants one more kiss. He gives her a soft one and lets his mouth rest against hers until she eases away.
+
+When he lifts his head, the skin along her jaw cools where his face was. She raises her hand to bring him back and sees him flex the fingers of the arm he's been leaning on. The last two barely move.
 
 “Give me a second,” he says. “My hand's gone to sleep.” ᴹ
 

@@ -233,6 +233,46 @@ He reaches for her. She catches his hand, brings it around her back and shifts c
 
 She hears the breath he takes before he answers. Her name sounds different when he says it out loud. She feels herself smile and has nowhere to hide it because he's close enough to feel it too. He asks if that's what she meant. She says yes, then takes the chance to say his name the same way. He presses his face into her shoulder. She puts her hand behind his head and lets him stay there until he can look at her again.
 
+“Now let me see your face,” she says. ʸ
+
+He lifts his head. His hair has dried flat on the side he'd been lying on. She pushes it up with two fingers. It falls right back where it was. She can see him trying to decide whether she's making fun of him.
+
+“You wanted me to look at you earlier,” she says. “Let me look.” ʸ
+
+He takes his hand off the pillow and lies back so she can. She follows him, one palm beside his shoulder. The wind has cooled the side of the bed he left to get water. She puts her foot there without thinking and pulls it back so quickly that he laughs.
+
+“What happened to more than one minute?” ᴹ
+
+“I need you to warm that side first.” ʸ
+
+He starts to move over. She catches him by the wrist, laughing now, and holds him where he is. There's something she wants to try and it occurs to her she can tell him plainly.
+
+“I want to kiss you till you say my name again.” ʸ
+
+“I can say it now.” ᴹ
+
+“I know. I want to earn it.” ʸ
+
+He opens his mouth anyway. She kisses the corner of it and hears him give up the first syllable. Then she goes down to the hollow under his jaw. He tips his head back so she can reach it. She feels him swallow against her lips. At home she might have taken that for her answer and moved on before he got any louder. She stays. The next breath he lets out is much less careful. It makes her pause just long enough to lift her eyes.
+
+“That spot?” ʸ
+
+“That spot. And I want your hand back.” ᴹ
+
+She's still holding his wrist. She lets go so he can turn his hand and lace his fingers through hers the way he did before they stopped for water. He rests their hands on his chest. There's no need for either of them to hold them there. She can feel his heart through the backs of her fingers.
+
+She kisses him in the same place again. This time he says her name before she has to look up. She hears it clear across the little space between them. A laugh comes out of her so quickly she has to put her forehead down against him. He laughs too, until she can feel it where their hands are joined.
+
+“Did I earn it?” she asks. ʸ
+
+“You can have it whenever you want.” ᴹ
+
+She lifts her face. There is a small warm patch on his neck where she's been kissing him. She touches it with her thumb and watches him turn toward her hand.
+
+“Your turn,” she says. ʸ
+
+He takes her hand off his neck and kisses the heel of it. She feels him smile as he brings it back down. Then he asks her to turn toward the open door. She does. He gets behind her and draws her back against his chest, close enough that she feels the breath he takes before he presses his lips to her shoulder. She moves her hair forward without being asked this time. He kisses the place she uncovered and says her name again. She lets her head tip back against him. From here she can see the light from the water move across the ceiling. She doesn't have to turn her head to know he's smiling when she asks him for one more.
+
 Later, when she finally puts her head down on his shoulder, the bottle on the table has stopped sweating. She can hear how the water comes in at an angle. She remembers him walking the route to their old table today, knowing every turn and still going back to make sure the step was the right one.
 
 “I want to take the kids to the beach sometime,” she says. ʸ

@@ -241,11 +241,11 @@ They lie there until the sun goes low and the sand starts to cool, and then they
 
 * * *
 
-After dinner, Mau stands at the washbasin rinsing the masks. He runs his thumb along the edge of Yuka's, where a little sand has worked its way into the rubber. Behind him he hears the chair scrape and the soft thump of the hat landing on it.
+After dinner, Mau stands at the washbasin and runs his thumb around the edge of Yuka's mask. There's sand in the groove where the rubber meets the glass. He rinses it again and holds it to the light. Behind him there's a scrape of wood and the soft thump of the hat landing on the chair.
 
 “Come look at my face,” Yuka says. ʸ
 
-He puts the mask down and turns. She stands in front of the mirror, lifting her hair off her forehead with one hand. There's a faint line where the top of the mask pressed in.
+He sets the mask down. She's at the mirror with one hand holding her hair off her forehead. The mark from the mask is still there if he knows where to look, which he does because he has the other half of it across the bridge of his own nose.
 
 “Have I looked like this all through dinner?” she asks. ʸ
 
@@ -255,19 +255,19 @@ She lets her hair fall. “You were going to let me find out on my own?” ʸ
 
 “You've been looking at mine all evening.” ᴹ
 
-Yuka steps closer to check. She rubs her thumb along the bridge of his nose. There's water running off his wrist and into his sleeve, and by the time he thinks to reach for the towel she's moved her hand to the side of his face.
+Yuka comes to see. Her thumb passes over the bridge of his nose and he closes his eyes when it goes near the corner of one of them. There's water running off his wrist into his sleeve. He's going to get the towel when she puts her hand to the side of his face.
 
 “I told you I liked your face,” she says. ʸ
 
-“You put me after the turtle and being hungry.” ᴹ
+“You put it after the turtle and being hungry.” ᴹ
 
 “I was hungry. You saw me at dinner.” ʸ
 
-He takes the towel off the rail and dries his hands. Before he can put it back she catches an end and uses it to draw him the rest of the way towards her. He catches her smile just before she kisses him. The towel slips through his fingers. It hits the floor and she looks down for a second, then pulls him back by the collar.
+He takes the towel off the rail and gets one hand dry. She catches the other end before he can do the second. The pull is small. He comes the rest of the way himself and catches her smile just before she kisses him. The towel slips between them. He hears it hit the floor and starts to look down. Her fingers close on his collar.
 
-“Leave it,” she says. ʸ
+“Leave it.” ʸ
 
-He does. She lets her hand slide down from his collar to take his, and they make it as far as the foot of the bed before she turns around and kisses him again. The second time she stops, her forehead rests against his and he can feel her taking her time with the next breath. When she pulls back he's already leaning after her.
+His wet hand rests against the edge of the basin until she moves hers down to take it. She feels the water on it and wipes it on his sleeve on the way to the bed. He laughs and gets as far as the foot of it before she turns around and kisses him again. When she pulls back to breathe he follows her far enough for the tip of his nose to touch hers.
 
 “I've wanted to do that since the water,” he says. ᴹ
 
@@ -275,85 +275,79 @@ He does. She lets her hand slide down from his collar to take his, and they make
 
 “I know. I wanted to do it again.” ᴹ
 
-She sits on the bed and draws him down beside her. For a second their knees get in the way. She moves hers, waits while he works out what to do with his, then leans against him so hard they both go sideways into the pillows.
+She sits on the bed and draws him down next to her. Their knees meet. He tries to turn his out of the way and she leans into the space he made so hard they both tip back onto the pillows. He gets a hand under her elbow after they've already landed.
 
 “Was that on purpose?” he asks. ᴹ
 
 “I got where I wanted to go.” ʸ
 
-He laughs. She presses her lips to his cheek where the mask left its line, then takes his hand and brings it to her waist. His thumb moves once against the fabric there.
+She kisses the faint line beside his nose. He has time to feel her smile against his cheek before she takes his hand and brings it to her waist.
 
 “Stay with me tonight,” she says. ʸ
 
-He turns enough to see her face. “All night?” ᴹ
+“All night?” ᴹ
 
 “That's what I had in mind.” ʸ
 
-She shifts up the pillow so there's room for him to come closer. He leans over to switch off the lamp and she catches his sleeve.
+He reaches for the lamp. She catches his sleeve and feels the damp patch the water left.
 
-“You can leave that on,” she says. ʸ
+“Leave that on. This can go.” ʸ
 
-He brings his hand back to her. She keeps hold of his sleeve until his mouth finds hers again. When she slides her hand up his arm she comes across the damp patch where the water from the washbasin ran into it.
+She pulls at the wet cuff. It takes both of them to get the sleeve over his hand because he's still laughing and hasn't thought to close his fingers. Once he has the shirt off, she pulls hers over her head and comes back to kiss him. Her hair falls across his mouth. He brushes it aside and gets half of it. She lifts her head to move the rest.
 
-“Take this off before you get the pillow wet,” she says. ʸ
-
-He pulls the shirt over his head and drops it over the foot of the bed. Yuka sits up to pull hers off too. By the time he turns back she's on her knees, trying to work the sheet loose from under him.
-
-“Am I in the way?” he asks. ᴹ
-
-“A little. Lie back.” ʸ
-
-He lifts his hip so she can tug the sheet free. She puts a hand on his bare chest, where he can feel how cool her fingers still are, and waits while he settles against the pillows. Then she kisses him. Her hair falls over his face. He sweeps it to one side, gets about half of it, and starts to laugh when she has to lift her head to do the rest.
-
-“You want me to go get the tie?” he asks. ᴹ
+“Want me to find a tie?” he asks. ᴹ
 
 “I want you to stay right here.” ʸ
 
-He does. Yuka moves back to give him enough room to push his shorts down. One cuff stays caught on his heel. She hooks two fingers in it and draws it free before she gets up to slip out of hers. He can still feel the place on his shoulder where she'd been leaning, cooler now that she's moved. When she comes back she plants one knee beside him first. He feels the mattress give before her other knee comes down. Her hand finds the same spot on his shoulder, and he steadies her at the waist.
+He keeps his place on the pillow. She gives him enough room to push his shorts down and works hers off at the side of the bed. He can feel the strip of sheet go cool where she was leaning. He starts to lift a hand towards her. She sees it, puts his hand down on the sheet and holds it there while she brings one knee up. The mattress dips, then dips again when she brings the other knee over him. She lets go when she's ready for him to put his hands at her waist.
 
 “Can I stay on top?” she asks. ʸ
 
 “Yes.” ᴹ
 
-He puts his head back so he can see her better. She starts to brush her hair away again, then catches him smiling up at her and leaves it where it fell.
+He puts his head down on the pillow so he can see her. She starts to brush her hair back again, catches his eye and leaves it. Then she reaches between them. His stomach goes tight as her hand closes around his cock. He takes a breath and feels her thumb move as she brings him into place. She lowers herself enough for him to feel how warm she is and stops before he's all the way inside. One knee has landed too close to his hip. She moves it out a little. He keeps his hands still until she's got it where she wants it.
 
-She reaches between them and takes his cock in her hand. He feels the small change in her grip as she guides him to her, then the warmth when she begins to lower herself. She stops with him barely inside and shifts one knee farther out. He keeps his hands where they are while she finds her balance. The next inch takes his breath. Yuka looks up at him, sees it happen, and sinks down the rest of the way with a short, surprised breath of her own.
+The next inch takes his breath. Her eyes lift to his. He sees her catch the look on his face before she sinks down the rest of the way and takes a short breath of her own.
 
 “You can hold me tighter,” she says. ʸ
 
-He closes his fingers around her hips. She lifts herself against his grip until he can feel her slipping away from him, then bears down. His heel digs into the mattress before he thinks about it. Yuka looks down at him as the last bit of space closes, close enough to catch what happens to his face. Her eyebrows lift. She tries it again without taking her eyes off him.
+He closes his fingers. She lifts herself against the grip until he feels her almost slip away, then sinks again. His heel digs into the mattress before he thinks about it. He sees her eyebrows go up. She lifts herself more slowly to see what he'll do.
 
-This time he lifts his hips to meet her before she's got her weight over him. Her knee slides on the bunched sheet. She reaches back for his thigh, misses, and catches the headboard instead. It taps the wall. They both look at it.
+He comes up to meet her too soon. Her knee slides on the fold of the sheet. She reaches for his thigh, misses, and puts a hand to the headboard to catch herself. It taps the wall. They both look at it.
 
 “Think that was the shutter?” he asks. ᴹ
 
-She lets out one laugh against his mouth, and he feels it all the way down as she tightens around him. She keeps her palm against the headboard until she can get her knee back under her. Then she leans forward and puts her hand on his shoulder. Her hair falls across the pillow. Mau turns his head so he can still see her through it.
+Her laugh reaches him in a little burst of air against his mouth. He feels her tighten around him as it comes out and has to take a breath before he can laugh with her. She keeps a hand on the headboard until her knee's back under her. Then she leans down and puts it on his shoulder.
 
-“Help me here,” she says. ʸ
+“Help me here.” ʸ
 
-He bends a knee, planting his foot where the sheet hasn't bunched, and she settles back against his thigh to test it. He can feel her trembling where her weight comes down. His hand goes to the small of her back. She moves it lower with her fingertips, then lets go when he presses where she wants it. She makes a smaller movement this time. He waits until her hand tightens on his shoulder before he lifts to meet her. The change draws a sharp breath from her against his cheek. For a moment she stays right there and he can feel her pulse as plainly as his own.
+He plants a foot against the mattress where the sheet is flat. She leans back against the thigh he gives her. He can feel the tremble in her leg through his. When he puts a hand at the small of her back, she reaches behind and draws it lower. She keeps her fingers over his until she feels him take the weight.
+
+“Wait till I do this.” ʸ
+
+She presses on his shoulder. Then she moves, just a little. He lifts into it. Her breath catches so close to his ear that he can hear the instant she loses it. He stays there while she takes another one.
 
 “Like that?” he asks. ᴹ
 
-“Just like that. Again.” ʸ
+“Again. Just like that.” ʸ
 
-He waits for the pressure on his shoulder. It comes, and he lifts just enough to meet her. Her fingers dig into his skin as he reaches the same spot. He feels her begin another movement, stop halfway and hold there with her forehead against the pillow. He keeps his leg braced behind her and gives her the moment she asks for by going still. Then she presses down once, sharply. He feels her come in several tight pulses, each one catching a little sound in her throat. Her hand slips from his shoulder. He finds it on the sheet and closes his fingers around it until she lifts her face again.
+He waits until he feels the pressure on his shoulder and lifts the same short way. She digs her fingers in when he reaches the spot she wanted. He feels her start another movement and stop halfway. She puts her forehead into the pillow. He leaves his leg braced and waits with her. Then she presses down sharply. The sound she makes catches against the cotton and he feels her come in several tight pulses. Her hand slips off his shoulder. He finds it beside his head and holds it until she lifts her face.
 
 “You okay?” he asks. ᴹ
 
 “Yes. Your turn to tell me what you want.” ʸ
 
-It takes him a second. He's already thinking about whether her knee has enough room. He moves a hand to check. Yuka catches it, slips her fingers between his and brushes her thumb over his knuckle. Her knee has been steady for a while now. He lets himself look at her face. He wants her close enough that she can see his without looking down.
+His first thought is still whether her knee's going to slide. He moves his hand to check. She catches it and rubs her thumb over his knuckle. Her knee's steady. She gives him the time to notice it and then look at her again. He wants her close enough that she can see his face without looking down.
 
 “Come here,” he says. ᴹ
 
-She puts their joined hands down beside his head and kisses him. He can feel her take her time, the pause between the first movement and the next just long enough for him to come up to meet her. He gets her name out first. She lifts her head to listen.
+She brings their hands up beside his head and kisses him. She starts to move and stops at the top of the motion, waiting for him. He feels the heat of her breath against his cheek and lifts into the space she left him. His leg begins to shake where hers is resting against it. He gets her name out and she lifts her head.
 
 “I'm close. Stay right there.” ᴹ
 
-She nods and rests her cheek against his. He draws his knee a little farther back to give himself room to move. With each breath the warmth between them feels harder to pull away from, and the next time she meets him he stops trying. His leg shakes once against hers as he comes inside her. She stays braced on his shoulder until he can lower his leg without letting it fall. Then she lets herself down onto his chest, with her hand still in his.
+She puts her cheek to his. The next time she bears down he keeps his hips up against hers and comes inside her. His heel slides a little. Her hand tightens in his as he sets his foot down flat and lowers his knee. She holds herself up on one arm until he's all the way down, then settles onto his chest. He feels the little sigh she gives when she puts her weight on him, the same one she made when she found a comfortable spot on him in the sand.
 
-Her breathing slows against his chest. He can tell when she's about to move from the way her hand bears down on the pillow beside his head. He gives her room to shift off him and keeps their fingers together until her cheek is down. Then she reaches under the pillow for the edge of the sheet. He feels it pull at the back of his knee, where it got caught. He frees it and lifts it over both of them. She rolls toward him to help, holding up the corner he can't quite reach. When he puts his head down, she's watching him with the little crease from the mask finally gone.
+He feels her breathing slow. When her hand bears down on the pillow he knows she's about to move and gives her room. She eases off him and puts her head down beside his. One of her hands goes looking for the sheet. He can feel it pulling at the back of his knee and untucks it for her. She lifts her corner while he gets the other one over them. When he puts his head back down, she's watching him. The crease from the mask is gone.
 
 “Did you finish rinsing mine?” she asks. ʸ
 
@@ -361,8 +355,8 @@ Her breathing slows against his chest. He can tell when she's about to move from
 
 “And yours?” ʸ
 
-He tries to remember which one he'd set down first. Yuka starts laughing before he answers. He reaches past her to turn off the lamp this time and feels her scoot closer as his arm comes back.
+He tries to remember which one he'd put down first. She starts laughing before he answers. He reaches past her to switch off the lamp. She scoots nearer the moment his arm comes back.
 
-“I'll finish it in the morning,” he says. ᴹ
+“I'll finish it in the morning.” ᴹ
 
 She fits her head under his chin. “I'll remind you after breakfast.” ʸ

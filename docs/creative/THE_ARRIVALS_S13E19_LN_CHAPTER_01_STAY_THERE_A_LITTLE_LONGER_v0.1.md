@@ -185,11 +185,17 @@ He sets it aside and draws the sheet up over her back. She catches the edge with
 
 He puts his forearm beside her head and comes over her. The mattress gives under his elbow and rolls her a little towards him. Yuka brings her knee up against his side to stay there. He looks down to see where she put it, then at her face. She can feel him against her, warm and hard. He waits there until she puts her hand at his waist and draws him forward.
 
-He enters her slowly. Her heel presses into the mattress as she gets used to the stretch. She had meant to keep looking at him the whole time. When she has to close her eyes, he holds still enough that she can open them again and find him right where she left him.
+He enters her slowly. Her heel presses into the mattress. The sheet wrinkles under it, but she leaves her foot there because moving it would mean letting go of his waist. She had meant to keep looking at him the whole time. She makes it as far as seeing his eyebrows draw together, then closes her eyes and lets her breath out.
+
+He holds still. She can tell how much effort it takes from the pulse she feels beneath the heel of her hand. She spreads her fingers over his side and waits for the next breath to come easily. When she opens her eyes, he's looking at the hand she just moved.
+
+“Look at me again,” she says. ʸ
+
+He does. She likes that she gets to ask him for the same thing he asked for earlier. His eyes come back to hers, and for a second she can see him thinking about whether to say something. His forearm sinks another little way into the mattress. She catches the dip with her heel and reaches for his shoulder.
 
 “Can you come down a little?” she asks. “I want to hold you.” ʸ
 
-He bends his elbow. The change brings his chest against hers and shifts the pressure low inside her. She gets both arms around him before he can lift himself again. Her next breath comes out against his neck, quick and uneven. He keeps his weight on his arm and waits.
+He bends his elbow. The change brings his chest against hers and shifts the pressure low inside her. Her first breath at that angle is so short she feels it more against his neck than in her own lungs. Mau starts to lift his shoulder. She gets her arm around it and holds him there until she can get the words out.
 
 “Like that,” she says. ʸ
 
@@ -207,7 +213,13 @@ She loosens her grip on his shoulder. He takes the hand she frees and slides his
 
 “Here. Keep it here.” ᴹ
 
-She closes her fingers. He exhales as soon as she does. She can feel where his ribs move against hers. When she brings her knee in closer, her heel slips on the sheet. She grips his hand and feels him lean harder on the forearm beside her head to steady them. She gets her foot down flat and keeps hold of him. The next stroke catches her there, braced well enough to meet it, and the breath she'd meant to take comes out against his cheek. He feels her go still and stays close while she catches up.
+She closes her fingers. He exhales as soon as she does. His ribs move against hers, then settle. She'd given him this same hand at dinner because she wanted to go on eating and still touch him. Now her thumb finds the side of his and stays there. He lifts their hands just enough to get her knuckles clear of the seam on the pillow. She hadn't noticed it digging in until it was gone.
+
+When she brings her knee in closer, her heel slips on the sheet. She grabs his hand before she can think what else to do. The mattress sinks at her ear as he leans on the arm beside her head. He waits there while she slides her foot down. Her toes meet the loose fold first. She nudges it flat with the side of her foot, then puts her heel down and presses until she knows it's going to stay.
+
+“Got it?” he asks. ᴹ
+
+She nods and squeezes his hand again, gently this time. The next stroke catches her there, braced well enough to meet it. The breath she'd meant to take comes out against his cheek, and she can feel the muscles around her knee tighten hard enough to pull her heel up again. She leaves her foot where it is and lets her forehead come to rest against his. Mau stays close. A wave breaks, then another, and when she takes the next breath without having to think about it, he takes one with her.
 
 His arm is shaking a little by the time she lifts her head. She feels it first where his shoulder touches her cheek. He tries to move his elbow nearer the pillow, and the mattress tips her towards him again.
 
@@ -219,7 +231,15 @@ He holds still. She plants her heel where the sheet is smooth and shifts sideway
 
 Mau nods against her neck. She feels his breathing quicken again. His fingers curl around hers when he comes, and she holds on until the weight on his arm eases.
 
-They stay that way until she can hear the water again. Mau shifts onto his side and brings their hands with him. His cheek comes to rest on a piece of her hair. She tugs it free and drapes it across the pillow before he can offer to move. He traces a little arc over her knuckles with his thumb. She feels him stop after the third pass and waits. The fourth one comes after a wave she can hear all the way up the beach.
+Mau lifts his head. The skin along her jaw cools where his face was. She raises her hand to bring him back and finds him trying to move the arm he's been leaning on.
+
+“Give me a second,” he says. “My hand's gone to sleep.” ᴹ
+
+Yuka frees the pillow from under his elbow. He brings his arm out, rolls onto his side and opens his fingers once where she can see them. She takes his hand again as soon as he's done. His cheek comes to rest on a piece of her hair. She tugs it free and drapes it across the pillow before he can offer to move.
+
+“Any better?” she asks. ʸ
+
+He tests his thumb against her knuckles. The first pass barely reaches the next finger. He tries it again with a little more pressure, and she closes her hand around his before he can check a third time. The water under the balcony has gone from a crash to a long, even wash. She listens to it without lifting her cheek from the pillow. Mau keeps his hand in hers.
 
 “Do you want me to move?” he asks. ᴹ
 

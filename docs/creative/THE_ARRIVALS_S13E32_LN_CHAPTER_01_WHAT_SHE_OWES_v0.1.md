@@ -167,11 +167,11 @@ Yuka stops. She thinks about it. About Makima's arms around him last night, befo
 
 Makima doesn't deny it. Yuka is almost grateful.
 
-“He's mine,” Yuka says. “He chose. He keeps choosing. You know that better than anyone now; you've been inside him. You know exactly what's in there and exactly who it's for.” ʸ
+“He's my husband,” Yuka says. “He chose me. I keep choosing him, too. When something comes through that belongs to him, leave it with him. If it's about me and you want to know more, you can ask me.” ʸ
 
 “I know,” Makima says. ᴹᵏ
 
-“Then that's the last one,” Yuka says. “Remember it.” ʸ
+“Then that's the last one,” Yuka says. “Wait for me to answer.” ʸ
 
 * * *
 

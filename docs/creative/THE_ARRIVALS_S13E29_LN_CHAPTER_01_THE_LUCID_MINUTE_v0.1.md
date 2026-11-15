@@ -169,7 +169,7 @@ The light surges. He feels the edges of the room go soft and dark and pulls hims
 
 “Say it.” ᴹ
 
-“I won't harm her. I won't harm anyone in this house. I won't control you. I'll hold what's in you and keep it where it belongs. And I'll stay. For as long as your body lives.” ᴹᵏ
+“I won't harm her or anyone in this house, myself or through anyone I send. I'll give Yuka her distance unless she invites me. I won't control you. I'll hold what's in you and keep it where it belongs. And I'll stay. For as long as your body lives.” ᴹᵏ
 
 Her eyes are very steady.
 

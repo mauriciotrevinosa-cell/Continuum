@@ -23,7 +23,7 @@ He learns the long things.
 
 After the fifth tower he knows how they move: the way their limbs unfold from the joint nearest the body first, the half-beat of hesitation before they commit to a direction, the way they always try to wrap rather than strike. After the eighth he knows how they think, as far as they think at all. They don't like the fire. They don't like Blue, which pulls them off balance and makes their long limbs tangle. They don't understand Infinity at all, and every one of them that touches it stops for a moment and tries to work out why it can't close, and that moment is all he needs.
 
-After the tenth, Movement Learner has enough to work with, and starts showing him the openings before he sees them himself.
+After the tenth, he sits with his back against a tower and asks Ciel to pull up two of the fights. Movement Learner sets one beside the other. In the first he blocks high and has to wrench his knife free. In the second, a stray step brings him inside the reach of the joint. He watches that step three times before he gets up.
 
 “You're dropping your shoulder on the left,” Ciel tells him, on the eleventh day, after a fight he thought went well. ᶜ
 
@@ -81,7 +81,7 @@ He's not sure how he feels about that. The wheel doesn't care what it adapts to.
 
 On the fifteenth day he gets careless.
 
-He's clearing the thirteenth tower. There are more of the long things than usual, a dozen, maybe more, and they're coming at him from the openings in the walls in waves, and he's moving well, better than he has all week, the eyes wide open and Movement Learner whispering openings and the daggers doing what they're told. He's watching all of them. He has all of them.
+He's clearing the thirteenth tower. There are more of the long things than usual, a dozen, maybe more, and they're coming at him from the openings in the walls in waves. He's moving better than he has all week. The first time he sees a joint unfold high he makes the step he'd watched, and the rest comes easily. He's watching all of them. He has all of them.
 
 He doesn't have the one underneath.
 

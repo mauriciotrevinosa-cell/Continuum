@@ -121,7 +121,7 @@ Yuka's face lights up. “Hot chocolate.” ʸ
 
 “With the dark.” ᴹ
 
-“With the *dark*,” she agrees, and slides off the counter to find a pot.
+“With the *dark*,” she agrees, and slides off the counter to find a pot. ʸ
 
 * * *
 

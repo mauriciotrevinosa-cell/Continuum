@@ -109,7 +109,7 @@ He stares at nothing.
 
 “*You* did?” ᴹ
 
-“She couldn't live inside you all the time. Nobody can. It took me years. So I built her somewhere to go. She still holds it from inside. But she can walk around. She can eat. She can sit at the table.” ᴺ
+“I thought about where she'd be when you woke up. You'd want her to have somewhere to go. So I built her a body. She still holds it from inside. But she can walk around. She can eat. She can sit at the table.” ᴺ
 
 “You built *Makima* a body.” ᴹ
 
@@ -131,7 +131,7 @@ He sits there for a long time.
 
 Like me. And me. He thinks about that. He thinks about the three of them, Noise and Ciel and now Makima, all living in him. All holding things. Noise holding everything, as it always has. Ciel watching, as she always has. And Makima, now, holding the sea that was going to kill him, so that he can sit up in bed with Ori drooling on his arm and Yuka holding his hand.
 
-He thinks about what she gave up. *Bound to your body. For as long as it lives.* Wherever he goes, now, she has to go. Whatever happens to him happens to her.
+He thinks about what she gave up. *Bound to your body. For as long as it lives.* She can walk out that door. The part of her doing the work still has to stay here, and keeping him alive is what keeps that part alive too.
 
 He thinks about what she did to Yuka.
 
@@ -177,7 +177,7 @@ She inclines her head, very slightly, to Yuka. Then to Mau. Then she turns and g
 
 She stops there.
 
-“I'll be nearby,” she says, without turning around. “I can't be very far. But I'll stay out of the way.” ᴹᵏ
+“I'll be downstairs,” she says, without turning around. “You can send for me when you're ready.” ᴹᵏ
 
 And she goes.
 
@@ -217,6 +217,44 @@ She's crying. He can feel it, soaking through his shirt. She isn't making a soun
 
 “The rest of me was just slow.” ᴹ
 
-She laughs, a small wet sound, and then she's crying harder, and he holds her, and she holds him, and outside the window the wind pushes at the glass the way it always does, and inside him, very deep, very still, a hand he didn't choose holds back a sea, and he's alive.
+She laughs, a small wet sound, and then she's crying harder. He puts his hand flat between her shoulder blades and feels each breath arrive. The wind pushes at the glass. There's room for him to hear it now. The hold deep inside him stays steady while he brings his mouth down to the top of his wife's head and waits.
 
-> **[PARA WORK: si quieres, aquí cabe un beso de reencuentro entre Mau y Yuka, sólo eso, al final de la noche, después de que ella deja de llorar.** Mauri pidió que la relación siga como va, sin pleitos fuertes; esto es el alivio después de tres días de que él no la reconociera. Ella le había dicho «I want him back». **Sin límite de palabras; no comprimas.]**
+When she lifts her face, there's a damp crease along one cheek from where it lay on his shirt. Mau reaches up to wipe it away. The crease stays. He remembers how quickly she'd loosened her arms at the window yesterday when he startled, and how long it took him to take her hands.
+
+“You said you still do that,” he says. ᴹ
+
+“Do what?” ʸ
+
+“Hold on to me from behind.” ᴹ
+
+Yuka rests her elbow on the pillow. His hand is still against her cheek. She keeps her face turned into it when she answers.
+
+“You scared me for a second. Then you did exactly what you always do.” ʸ
+
+“I remember the second.” ᴹ
+
+“So do I.” ʸ
+
+She shuts her eyes and leaves them shut for a little while. He can feel the wet at one corner against his thumb. He moves it away. She catches his wrist before he gets as far as the sheet and puts his hand back where it was.
+
+“Keep looking at me,” she says. ʸ
+
+He does. There was a moment on the first day when he'd noticed the colour of her mouth and wondered why she looked so sad to see him see it. Tonight he knows. He lets her see him recognise her for as long as she wants to look back.
+
+“I've been looking at you all day,” he says. “I think I'm going to look some more tomorrow.” ᴹ
+
+Her mouth lifts at one corner. “What are you looking at?” ʸ
+
+He knows that question. She asked it next to their lamp the night they got back. He brings his hand up to move a piece of hair away from her forehead.
+
+“You.” ᴹ
+
+She gets close enough to kiss him and waits the last fraction of a second with the tip of her nose against his. He closes the distance. The kiss is soft. When they part she barely lifts her head before he kisses her again, with time to feel the shape of her smile this time. She takes a breath and leaves her forehead against his.
+
+“Tomorrow you can tell me the rest,” she says. ʸ
+
+He opens his mouth. She puts a finger over it, laughing a little now.
+
+“I meant what happened to you. You can tell me I'm pretty any time.” ʸ
+
+He laughs into her hand. She moves it, kisses him once more and lays her cheek back over his heart. He rests his chin lightly on her hair. The next breath their chests take against each other is slow enough for him to count it without trying. He lets himself lose track after that.

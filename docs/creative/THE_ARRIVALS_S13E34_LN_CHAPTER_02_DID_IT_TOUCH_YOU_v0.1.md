@@ -7,7 +7,7 @@
 **Source episode:** S13E34
 **Continuity state:** B+322. Shoko clears Mau for a supervised dungeon with Yuka and Yuta: a harder gate Fern has kept for Yuka's training. Yuka leads; Mau holds back on purpose. Deep in, Yuka sees an opening and goes for it overconfident. Mau already has Sky running under her footing; he puts Infinity on her as well and pays the known cost of two techniques at once (pressure, heat, a nosebleed he wipes before she sees). Yuta kills the attacker. Mau goes straight to Yuka: "Did it touch you?" She says it reached. Not a scratch. On the way back she stays glued to him.
 
-*When: Eight days after he came back. Shoko signs the clearance with a face that says she'll regret it.*
+*When: Nine days after he came back. Shoko signs the clearance with a face that says she'll regret it.*
 
 “She leads,” Mau says. ᴹ
 
@@ -29,7 +29,9 @@ They're standing at the mouth of the gate, the three of them, in the cold early 
 
 Yuka looks at him for a long moment. Then she grins.
 
-“Okay,” she says. “I lead.” ʸ
+“Okay,” she says. “I lead. Can you give me some footing if I ask?” ʸ
+
+“That's one technique. I can do that.” ᴹ
 
 * * *
 
@@ -41,7 +43,7 @@ He hasn't watched her *lead* before. Not like this.
 
 She goes in fast and careful at the same time, which is the hardest thing there is. She reads the first room before she's through the door. She calls to Yuta without looking at him — *left, two, low* — and Yuta goes left and takes two low, and she's already moving on to the next. When something comes out of the ceiling at her she's not where it lands. When something comes out of the floor she's already turning.
 
-He stays behind. Ten paces. He keeps his hands in his pockets. He has Sky running, very faint, under her feet: just enough that the floor is always where she thinks it is, that a slick patch or a loose stone won't take her ankle. That's all. That's the only thing he's doing. She doesn't know it's there.
+He stays behind. Ten paces. She signalled for Sky at the first slick floor and again two rooms down, when gravel started slipping under their boots. He has it running now, very faint, just enough to hold underfoot.
 
 “You're grinning,” Ciel says. ᶜ
 
@@ -67,7 +69,7 @@ Yuka doesn't answer. She's looking at the thing. Mau can see her looking. He can
 
 And he sees her see the opening.
 
-It's real. He sees it too. The thing is turned slightly, its armoured front toward the pillar on the left, and there's a line, a clean line, from where Yuka is standing along the right side of the hall, behind the pillars, to the soft place at its back. If she's fast enough. If she goes now.
+It's real. He sees it too. The thing is turned slightly, its armoured front toward the pillar on the left, and there's a clean line along the right side to the soft place at its back. Yuka checks Yuta's position. Mau sees her hand come up to point out the lane. Then the thing shifts its weight and she drops her hand. She can still make it if she goes now.
 
 She goes.
 
@@ -119,17 +121,13 @@ And then Yuta is there.
 
 * * *
 
-He doesn't see Yuta move. Yuta is just suddenly *there*, beside the thing hanging in the air, and his sword goes in at the soft place where the armour doesn't reach, and out the other side.
+Yuta comes in from the left. Mau catches his eye across the hall. He could take Sky off the floor and cut the thing himself. Yuta already has his sword up. Mau trusts the look Yuta gives him and goes straight for Yuka.
 
-The thing goes still.
+Yuta's sword goes in at the soft place where the armour doesn't reach. The thing goes still. The other one turns toward them and Yuta steps back into its path.
 
-Mau lets go. Of the neutral first. Then Sky. Both at once, like setting down two heavy bags. The heat behind his eyes drops away so fast it leaves him dizzy.
+Mau lets the neutral go, then Sky. The heat behind his eyes drops away so fast it leaves him dizzy. He wipes his lip on the back of his hand as he goes. It comes away dark.
 
-He wipes his lip with the back of his hand. It comes away dark. He wipes it on his trousers before anyone can see.
-
-Then he's moving.
-
-He doesn't run. He doesn't remember deciding to cross the hall. He's ten paces behind and then he's not; he's there, in front of her, his hands on her shoulders, her arms, her ribs on the side where it hit, feeling for anything wrong.
+He's in front of her, his hands on her shoulders, her arms, her ribs on the side where the blow would have landed. He needs to feel it for himself.
 
 “Did it touch you?” ᴹ
 
@@ -153,7 +151,7 @@ She looks down at herself. At the space beside her ribs where the thing stopped.
 
 “And you had—you already had something—” ʸ
 
-“Sky. Under your feet. The whole time.” ᴹ
+“Sky. I still had it under your feet.” ᴹ
 
 She stares at him.
 
@@ -173,13 +171,21 @@ She doesn't say anything. She doesn't get angry. She doesn't tell him he shouldn
 
 He holds her back.
 
-Behind them, Yuta is cleaning his sword. He doesn't look at them. After a while he says, very mildly, “There were two,” ʸᵗ to nobody in particular, and goes to check that there aren't three.
+Behind them, Yuta pulls his sword free from under the armour of the first monster. He takes a moment to make sure it won't get up. Then he turns to check the spaces between the pillars.
+
+“Anything?” Yuka asks. ʸ
+
+“Two,” he says mildly, as if he's counting things in a cupboard. “Looking for a third.” ʸᵗ
 
 * * *
 
-She doesn't lead the rest of the way.
+At the end of the hall, Yuka checks both sides of the doorway and waits for Yuta to come level with her. She points and waits again, this time until he's seen her do it.
 
-She doesn't want to. She walks beside Mau, close, so close their shoulders bump every few steps, and when they come to a room she doesn't go in first. She waits for Yuta. She stays where Mau is.
+“Left's yours,” she says. “Then I think we should go home.” ʸ
+
+“Works for me,” Yuta says. ʸᵗ
+
+She stays beside Mau on the way back. Their shoulders bump every few steps. At first he thinks her leg must be hurting after all. When he moves away to look she comes with him, exactly the same distance, and he gets it.
 
 He doesn't say anything about it.
 
@@ -195,7 +201,13 @@ She takes his hand on the way out. She doesn't let go of it at the gate. She doe
 
 “There were *two*.” ʸ
 
-“The eyes didn't see the second one either,” he says. “Neither did Yuta. It was a good opening. It was the right call with what you could see. You just couldn't see enough.” ᴹ
+“The eyes didn't see the second one either,” he says. “Neither did Yuta. It was a good opening. You had time to let him see you point, though. You did it on the way out.” ᴹ
+
+“I had time,” she says. “I wanted to get there before either of you.” ʸ
+
+“You did,” he says. ᴹ
+
+She cuts him a look. He deserves it, and they both know it. By the time they reach the porch the corner of her mouth is moving.
 
 She thinks about that.
 

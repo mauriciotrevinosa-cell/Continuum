@@ -43,7 +43,7 @@ Then she hits him on the arm. Not hard. Hard enough.
 
 “*Ow.*” ᴹ
 
-“Two techniques,” Shoko says. “Eight days after you bled out of your eyes in my clinic. Two techniques, at forty paces, on a moving target.” ˢʰ
+“Two techniques,” Shoko says. “After what happened in my clinic twelve days ago. Two techniques, at forty paces, on a moving target.” ˢʰ
 
 “She was about to get hit.” ᴹ
 
@@ -59,7 +59,11 @@ He doesn't have an answer to that.
 
 “I know about Bang. I was *there*.” ˢʰ
 
-“Then that's everything.” ᴹ
+He almost says *that's everything*. Then it occurs to him that he doesn't know what everything is, either.
+
+“I thought I knew what I could do before the clinic,” he says. “I'll go through what's ready with you and Ciel. We can mark what I've actually tried. I don't know what half of it does at full strength.” ᴹ
+
+“Good,” Shoko says. “Bring Noise. I want to ask both of you what you think *ready* means.” ˢʰ
 
 Shoko looks at him for a long moment, the way she looks at a wound that's healing better than she expected and that she doesn't trust.
 
@@ -179,7 +183,45 @@ She holds it out to him. He takes a bite. It's sweet and tart at once, the gloss
 
 She takes the rest of it.
 
-> **[PARA WORK: aquí, a media tarde, cuando ya se acabó el segundo tart y ella sigue encima, cabe un beso juguetón entre los dos** (crema, «you already have one», el chiste de la esposa). Corto o largo, como le pida la escena. **Sin límite de palabras; no comprimas.]**
+She sets the empty cup on the floor, straightens up again and studies him.
+
+“What?” Mau says. ᴹ
+
+“I missed some.” ʸ
+
+He looks at the cup. There's a crumb on the fold of the paper, but it's barely even a crumb. By the time he looks up, she's smiling right in front of him. She kisses the corner of his mouth. The gloss from the tart is still sharp and sweet on her lips when she moves over to kiss him properly. He reaches for the back of her neck and she bumps his chin with hers, laughing, and has to sit up to catch her breath.
+
+“You could've said I had cream on my face.” ᴹ
+
+“I know,” she says. ʸ
+
+She's still grinning when she lowers herself onto him again. Then she's quiet. She puts her palm against the side of his head, over the place Shoko pressed earlier, with scarcely enough weight for him to feel it.
+
+“What did it cost?” she asks. ʸ
+
+“My head hurts a little.” ᴹ
+
+He's halfway to saying *it's fine* before he notices. He leaves it there and tips his face further into her hand.
+
+“Here?” she asks. ʸ
+
+“A little higher.” ᴹ
+
+She moves her thumb up. The room is warm where their legs are tucked together. For a while he watches her look down at him and she watches his eyes drift shut. When he opens them, she's in the same place.
+
+“Did I fall asleep?” ᴹ
+
+“Nearly.” ʸ
+
+“Good reward,” he says. ᴹ
+
+“Excellent reward.” ʸ
+
+He puts his arm around her. “Do I still get it tomorrow if I don't save anybody?” ᴹ
+
+Yuka pretends to think it over. It takes her all of a second. She leans down and kisses him once, with no cream involved at all.
+
+“I could probably make an exception for my husband,” she says, and tucks her face into his shoulder. ʸ
 
 * * *
 

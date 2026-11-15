@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 78 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — S13 v0.1 — first pass by Claude, Work to read and build on
+**Status:** LN PRODUCTION DRAFT — S13 v0.1 — collaborative revision
 **Volume:** 78
 **Season:** 13
 **Coverage:** S13E22–S13E35 (B+306 night to B+322)

@@ -263,17 +263,35 @@ Yuka comes to see. Her thumb passes over the bridge of his nose and he closes hi
 
 “I was hungry. You saw me at dinner.” ʸ
 
-He takes the towel off the rail and gets one hand dry. She catches the other end before he can do the second. The pull is small. He comes the rest of the way himself and catches her smile just before she kisses him. The towel slips between them. He hears it hit the floor and starts to look down. Her fingers close on his collar.
+“I saw you watching me at dinner, too.” ᴹ
+
+She runs her thumb back over the bridge of his nose. The mark sits a little higher than where she's touching him. He knows it because he checked before they went down. He lets her take her time.
+
+“I was thinking about kissing you in the water,” she says. “I wanted to do it right there at the table.” ʸ
+
+“I would've let you.” ᴹ
+
+“I know. I wanted to see how long you'd go without asking.” ʸ
+
+He takes the towel off the rail and gets one hand dry. She catches the other end before he can do the second. The pull is small. He comes the rest of the way himself and stops where he can feel her fingers brush his through the towel.
+
+“Ask me now,” she says. ʸ
+
+“Kiss me, Yuka.” ᴹ
+
+She gets one good look at him before she does it. Her mouth is still cool from the water she drank on the way upstairs. He feels the towel slip as he opens his hand to get closer to her. It hits the floor and he starts to look down. Her fingers close on his collar.
 
 “Leave it.” ʸ
 
 His wet hand rests against the edge of the basin until she moves hers down to take it. She feels the water on it and wipes it on his sleeve on the way to the bed. He laughs and gets as far as the foot of it before she turns around and kisses him again. When she pulls back to breathe he follows her far enough for the tip of his nose to touch hers.
 
-“I've wanted to do that since the water,” he says. ᴹ
+“You were going to make me ask in the water too, weren't you?” he says. ᴹ
 
-“You did do that in the water.” ʸ
+“You were too busy apologizing to the fish.” ʸ
 
-“I know. I wanted to do it again.” ᴹ
+“I apologized to you.” ᴹ
+
+“I remember.” She smooths the collar she just pulled crooked, then leaves a finger hooked inside it. “I'll let you make it up to me again.” ʸ
 
 She sits on the bed and draws him down next to her. Their knees meet. He tries to turn his out of the way and she leans into the space he made so hard they both tip back onto the pillows. He gets a hand under her elbow after they've already landed.
 
@@ -283,11 +301,15 @@ She sits on the bed and draws him down next to her. Their knees meet. He tries t
 
 She kisses the faint line beside his nose. He has time to feel her smile against his cheek before she takes his hand and brings it to her waist.
 
-“Stay with me tonight,” she says. ʸ
+“I want you tonight,” she says. ʸ
 
-“All night?” ᴹ
+He leaves his hand at her waist. She slides a little closer on the pillow. He feels his fingers tighten on their own.
 
-“That's what I had in mind.” ʸ
+“I had a whole line about the fish ready,” he says. ᴹ
+
+“You can tell me later.” ʸ
+
+He tries to remember it. She puts her mouth to the corner of his and he loses the part he still had.
 
 He reaches for the lamp. She catches his sleeve and feels the damp patch the water left.
 
@@ -355,6 +377,14 @@ She brings her head up. Her hair slides across his mouth. He moves it with the b
 
 “Can you sit up again?” he asks. “I want to watch you.” ᴹ
 
+She raises her eyebrows. He almost adds something to make her laugh. Her hand comes to rest on his shoulder and he can feel her fingertips press in as she waits for him to look at her again.
+
+“Like you did all through dinner?” ʸ
+
+“A little closer than that.” ᴹ
+
+He gets to see her smile at the answer before she moves. It's the same smile she gave him from the other side of the basin, only this time she doesn't come straight over to kiss him. She lets him have what he asked for.
+
 She draws her knees in first. Her palm comes down on his chest and she tests the weight she can put there before she straightens. He feels the heat where she's been resting on him change to cool air by degrees. She stops halfway up to check whether his leg still has her. He bends it just enough for her to feel him answer. By the time she's sitting up he can see her take a breath all the way in. He gets one too.
 
 “Like this?” she asks. ʸ
@@ -363,9 +393,9 @@ She draws her knees in first. Her palm comes down on his chest and she tests the
 
 She puts it back on his chest. It settles a little to the left of where it was. He takes her wrist and moves it over his heart. Her fingertips spread as soon as she feels the beat. He gets to watch it dawn on her why he wanted her hand there.
 
-“You're going a little fast,” she says. ʸ
+“What if I leave my hand here until you get your breath back?” she asks. ʸ
 
-“You asked what I wanted.” ᴹ
+He covers it with his own. “I don't think that's going to help.” ᴹ
 
 “I'm asking again. What do you want me to do now?” ʸ
 
@@ -437,9 +467,11 @@ She does. He can feel where she lets him take the lead and where she gets impati
 
 “What?” she asks. ʸ
 
-“I like when you do that.” ᴹ
+“I like when you forget who's supposed to be teasing who.” ᴹ
 
-“I could tell this time.” ʸ
+Her fingers stop against his ribs. For a second he's sure she's about to deny it. Then she presses her mouth to the side of his neck, in the one place where she can feel him swallow.
+
+“I could say the same thing,” she says. ʸ
 
 She gives him the same pull again. He puts his hand over hers to keep it where he can feel it. She slows when he goes quiet, and for a breath he gets to feel her wait with him. He likes that he can ask for either thing and she'll give him time to find the words for it.
 

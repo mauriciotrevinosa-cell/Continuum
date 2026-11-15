@@ -7,7 +7,7 @@
 **Source episode:** S13E22
 **Continuity state:** B+307, morning to afternoon. First full day home. Breakfast. Yuka takes the island cloth to Mai; Mau keeps her place on the bench and pulls her back down beside him the moment she's done. Rimuru and Shizue make a point of saying nothing about the wall. Mau is restless after thirteen days of not moving much; Gojo notices.
 
-*When: Breakfast on the first morning home. Shuna has made the bread Rem promised in the letter, and Rem is pretending she isn't watching to see if they like it.*
+*When: Breakfast on the first morning home. Rem has made the bread she promised in the letter, and she's pretending she isn't watching to see if they like it.*
 
 Rimuru says good morning in a completely normal voice.
 
@@ -237,4 +237,48 @@ He puts his hands over hers where they're locked in front of him. Her fingers ar
 
 “Come and help me take the shells to Mai. She wants to put them on something.” ʸ
 
-She still doesn't let go. He turns around inside her arms, which she allows, and then she takes his hand and leads him back toward the house, and he goes, and doesn't look back at the posts.
+She still doesn't let go. He turns around inside her arms, which she allows, and then she lets him carry the box of shells back to the workshop.
+
+* * *
+
+Mai has cleared one end of her bench. There's a strip of the cloth from the island pinned over an old piece of wood so they can see how it falls. She asks Mau to stand at the end by the window while she holds the loose edge up to his shoulder.
+
+“Hold this. What colour is it?” she asks Yuka. ᴹᵃ
+
+“Blue. Much darker than it was on the table.” ʸ
+
+Mau holds the edge. He can see the dark middle stripe, the lighter one at the end and the exact place where Mai has folded it to make both edges meet. He tells her which part he can see most clearly from where he's standing. Mai takes out one pin and puts it somewhere else.
+
+“I was going to use it on the outside,” she says. “If I use it on the inside, I can leave more of this bit where you'll see it when you move.” ᴹᵃ
+
+“For what?” Mau asks. ᴹ
+
+“For the thing you promised to stand still for.” ᴹᵃ
+
+He looks at Yuka. She's sitting on the corner of the bench with the shell box in her lap.
+
+“You did say you'd help me take the shells to Mai,” she says. ʸ
+
+“I thought the shells were the end of it.” ᴹ
+
+Yuka takes out a good one, flat and worn at the edges, and holds it against the cloth. Mai puts a pin where her finger is. The three of them get as far as deciding what would happen if they sewed it onto something and washed it. Then Yuka goes looking for a snack.
+
+She comes back with the small jar of sweets and two pieces of a chocolate bar on a folded wrapper. The drawing on it has one curved line in front and three behind.
+
+“I got you the piece with the bad corner,” she says. ʸ
+
+“What's bad about it?” ᴹ
+
+“It broke bigger than mine. I thought you could fix that.” ʸ
+
+He breaks it again and holds both pieces out. She takes the larger one. Mai has to move a cup to make room for the jar and ends up picking out a sweet herself. She asks Yuka to tell her what the outer stripe looks like beside the shell. Yuka tells her, then asks whether the curve on the chocolate wrapper looks like a bird.
+
+“It's a cloud,” Mau says. ᴹ
+
+“You always say cloud.” ʸ
+
+“Because it keeps being a cloud.” ᴹ
+
+Mai turns the wrapper halfway around and leaves it flat on the bench. “Show me the wing.” ᴹᵃ
+
+Yuka slides closer to do it. Mau sits beside her, takes the small piece she left him and keeps his arm where she can lean on it while she makes her case.

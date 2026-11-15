@@ -25,7 +25,7 @@ He lies there and looks at it.
 
 “Four minutes,” Ciel says. “In here.” ᶜ
 
-“So about four seconds out there.” ᴹ
+“So less than a second out there.” ᴹ
 
 “About that.” ᶜ
 
@@ -179,7 +179,7 @@ He starts to laugh, and the ribs stop him again, and he stands there in the bott
 
 * * *
 
-He walks home.
+He walks home from the quarry.
 
 He could use Sky. He could call Kaisel. He doesn't. He walks, slowly, because he wants to; because his body has done everything he asked of it for three weeks and it would like, now, to do something slow. The road from the quarry goes along the river and up through the fields and past the orchard, and he takes all of it at a walking pace, with his raw hand held against his chest and his ribs complaining at every step and the folded chocolate wrapper in his pocket.
 

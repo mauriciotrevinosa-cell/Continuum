@@ -5,9 +5,9 @@
 **Volume:** 78
 **Reading order:** 10
 **Source episode:** S13E26
-**Continuity state:** B+309, late morning. Yuka's point of view. Mau comes home fourteen minutes after he left, three weeks thinner. Shoko sees to the hand and ribs on the couch. When she's done, Mau sits; Yuka climbs onto his lap facing him, sees how tired he is before he can say he's fine, draws his head against her chest. He lets himself fall into her and is asleep in moments. Yuka tells people who come in, quietly, that he's sleeping. Mai stays and talks with her in low voices. Yuka falls asleep with her head on his shoulder. The chocolate wrapper.
+**Continuity state:** B+309, late morning. Yuka's point of view. Mau comes home after three weeks inside the gate and fourteen minutes outside between entry and clear. Shoko sees to the hand and ribs on the couch. When she's done, Mau sits and lets Yuka draw his head against her chest. Yuka tells people who come in, quietly, that he's sleeping. Mai stays and talks with her in low voices. Yuka falls asleep with her head on his shoulder. The chocolate wrapper.
 
-*When: Fourteen minutes after Mau walked out of the yard. Yuka had just sat down on the porch with a cup of tea she hadn't touched yet.*
+*When: B+309, shortly after the gate opens. Yuka has just sat down on the porch with a cup of tea she hasn't touched yet.*
 
 She'd only just sat down.
 
@@ -27,7 +27,7 @@ She's down the porch steps before she's decided to go.
 
 He's thinner.
 
-She sees that before she's halfway down the field, and it stops her for a moment, because it doesn't make sense. He left fourteen minutes ago. People don't get thinner in fourteen minutes. But his face is narrower than it was at breakfast, the bones of his cheeks sharper under the skin, and his shirt hangs differently, and there's a long strip torn off the bottom of it that's wrapped round his forearm and stiff with something dark.
+She sees that before she's halfway down the field, and it stops her for a moment, because it doesn't make sense. He left while they were still clearing breakfast. The plates aren't dry yet. But his face is narrower than it was at the table, the bones of his cheeks sharper under the skin, and his shirt hangs differently, and there's a long strip torn off the bottom of it that's wrapped round his forearm and stiff with something dark.
 
 Then she's close enough to see his eyes, and he's smiling at her. Tired. Enormously tired. But smiling.
 
@@ -35,11 +35,11 @@ Then she's close enough to see his eyes, and he's smiling at her. Tired. Enormou
 
 “*Hi?*” ʸ
 
-“I'm fine.” ᴹ
+“Can I have your arm?” ᴹ
 
-“You are *not*—” ʸ
+She's already holding it out. He reaches for her with the hand he's kept free. The weight comes onto her shoulder a little at a time until he's standing close enough for her to feel how hard he's breathing.
 
-“Three weeks,” he says. “It was red. Twenty-one days in there. Fourteen minutes out here. I'm fine. I'm just tired.” ᴹ
+“Three weeks,” he says. “It was red. Twenty-one days in there. Fourteen minutes from when I went in to when I came out.” ᴹ
 
 She stares at him.
 
@@ -97,7 +97,7 @@ She packs up and goes, and stops in the doorway to look back at him, and then at
 
 When it's just the two of them, Mau sits up on the couch and puts his feet on the floor.
 
-He's going to say something. Yuka can see it coming. He's going to say *I'm fine* again, or *I should tell Fern*, or *I should take the loot to Mai*, and then he's going to get up and go and do it, and fall over somewhere in the hallway.
+He's going to say something. Yuka can see it coming. The two usual things are *I should tell Fern* and *I should take the loot to Mai*. She waits to see whether he gets either of them out before she can get to him.
 
 She doesn't let him.
 
@@ -111,7 +111,7 @@ She looks at him properly.
 
 Up close, he's worse. There are shadows under his eyes like bruises. His face is thinner, much thinner, and there's a looseness in it she recognises, the look of somebody who has been holding himself up by force for so long that he's forgotten how to stop. His eyes keep wanting to close. She watches them try and watches him drag them open again.
 
-He was going to tell her he was fine.
+He lets his mouth close. She's near enough to see the next breath leave him.
 
 She puts her hand on the back of his head, very gently, and draws it forward until his face is against her chest.
 
@@ -189,9 +189,9 @@ At some point, Yuka's own eyes start to close.
 
 She doesn't notice it happening. The room is warm and quiet and Mai's voice is low, and Mau's breathing under her hands is slow and even and steady, like the sea at the island, and somewhere in the middle of Mai telling her about a stitch, Yuka's head goes down onto Mau's shoulder, and stays there.
 
-She's half aware of Mai getting up. Of the box being picked up. Of something being put on the table beside the chips: something small, which rustles.
+She's half aware of Mai getting up and of the box being picked up. Mau stirs, just enough to slide a hand into his pocket. Something small rustles when he puts it on the table beside the chips. His hand comes back to her waist and stays there.
 
-She wakes, much later, with the light gone long and gold across the floor, and Mau still asleep under her, and on the table beside the chips, there's a chocolate wrapper folded very small. Somebody must have taken it out of his pocket when they put the blanket over him. Ori, probably. Or Mai.
+She wakes with the light gone long and gold across the floor, and Mau still asleep under her, and on the table beside the chips, there's a chocolate wrapper folded very small. She remembers the rustle. He kept it all that way just to bring it home to her.
 
 Yuka unfolds it with one hand. It's the one with the little bird on it. It's empty. Licked clean.
 

@@ -9,9 +9,7 @@
 
 *When: Early afternoon. Jin-Woo spends most afternoons with his family since they arrived, and Mau has learned to go to him there rather than wait for him at the house.*
 
-> **[PARA WORK: ubicación.** No encontré en el canon dónde viven exactamente los Sung desde V65 #27–30. Aquí digo «the house past the orchard path». Corrígelo a lo establecido si existe.**]**
-
-The Sungs' house is the one past the orchard path, where the ground starts to slope down toward the stream.
+Mau takes the path to the guest rooms. The last time he went looking for Jin-Woo before dinner, Hae-In found both of them at the wrong end and showed him which steps to use.
 
 Mau can hear Suho before he sees any of them. Suho is at the age where everything he does is at full volume, including standing still, and he is not standing still. He's running in circles in the yard with something held over his head, shouting, and behind him, at a dignified walk that somehow keeps up with him perfectly, comes one of Jin-Woo's shadows.
 
@@ -45,7 +43,7 @@ Then he laughs. Not unkindly. It's a short, surprised sound, the laugh of someon
 
 “I know.” ᴹ
 
-“I have a hundred of my own right here. More where they came from. I *am* the—” ᴶʷ
+“I have a hundred of my own right here. I *am* the—” ᴶʷ
 
 “It's not for you,” Mau says. ᴹ
 
@@ -102,6 +100,12 @@ Nobody has asked him that. Ciel asked if it was heavy. That's not the same quest
 “No,” he says at last. “It doesn't hurt.” ᴹ
 
 She studies his face for a long moment, the way mothers do, and he has the distinct sense that she knows exactly how much of that is true. Then she holds out her hand anyway.
+
+Jin-Woo's father has been at the door for most of it, letting Suho past him in both directions without looking down. Mau makes him the same offer. He wants to see it come back out once more before he answers. When the soldier rises from his wife's shadow, she looks down at the empty space and asks Mau to put it back. Her husband watches it settle.
+
+“Ask me again another day,” he tells Mau. “I want to think about where I'd want you to come looking for me.” ᴵʰ
+
+Mau nods. Jin-Woo's father sets another cup down on the step next to him before he goes back inside.
 
 * * *
 

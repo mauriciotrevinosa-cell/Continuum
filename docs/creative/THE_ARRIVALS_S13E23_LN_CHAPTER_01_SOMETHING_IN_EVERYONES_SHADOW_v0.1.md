@@ -53,7 +53,7 @@ Yuka goes first, because she said she would.
 
 They do it in the yard, after breakfast, with everyone who wants to watch standing around on the porch. Bellion brings a soldier from the reserve: one of the ordinary ones, faceless, a shape that holds still when it's told and moves when it's needed, nothing about it to tell it apart from a hundred others. Mau has never named any of them. He knows every one.
 
-“This one's quiet,” he says. “It's been on the north wall since the war. It doesn't like to be noticed.” ᴹ
+“This one's quiet,” he says. “It used to take the north wall when Muster needed a relief. It stays where you put it.” ᴹ
 
 “That sounds like you,” Yuka says. ʸ
 
@@ -145,7 +145,7 @@ He can't say anything for a second. He puts it in.
 
 * * *
 
-By noon there are thirty-one soldiers in thirty-one shadows, not counting Lantern, not counting Muster's forty on the walls and Bellion's reserve, not counting the ones that went with the injured man's family to see them safely home.
+By noon there are thirty-one soldiers in thirty-one shadows, not counting Lantern, Muster's forty on the walls or the rest of Bellion's reserve. The two that went with the injured man's family are back with the reserve as agreed.
 
 Mau sits on the porch steps afterward and feels them.
 

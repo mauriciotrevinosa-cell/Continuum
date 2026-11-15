@@ -15,7 +15,7 @@ Not jogging. Running the way he used to run in the yard when nobody was watching
 
 It's not elegant. Jin-Woo would have something to say about the footwork. Gojo would have something to say about the waste: he's spending more than he needs to on every fight, throwing Blue where a dagger would do, holding Infinity open the whole time instead of only when something's about to touch him. Careful is cheaper. He knows that.
 
-He isn't being careful. He's being fast. Every hour he saves in here is a minute and a half Yuka doesn't spend looking at the door.
+He isn't being careful. He's being fast. Every day he saves in here is another day he doesn't have to spend working out where his next meal comes from. Outside, it's hardly enough time for Yuka to glance at the door and go back to whatever she's doing.
 
 * * *
 

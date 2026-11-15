@@ -167,7 +167,7 @@ The Pillow doesn't care what it's called. It follows him to the next tower and w
 
 “Are you going to keep it?” Ciel asks on the sixth day. ᶜ
 
-He thinks about that. He could. He knows how. A word, and it would stand up again in his shadow, shaggy and huge and warm, and he could take it home, and Ori would lose her mind, and Milim would try to ride it.
+He thinks about that. Ori would lose her mind if he brought it home, and Milim would try to ride it before anybody got the chance to ask. He'd have to find a safe way through the gate for it while it's alive. He can picture it trying to turn back for the first tower before they've got halfway.
 
 “No,” he says. ᴹ
 

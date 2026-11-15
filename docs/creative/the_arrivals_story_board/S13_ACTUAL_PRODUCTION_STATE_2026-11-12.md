@@ -1,6 +1,6 @@
 # S13 — Estado real de producción
 
-S13 completa. El volumen 76 va de la vuelta del parlamento, B+273, a la cena después de la entrega de los dos responsables, B+285. No hay muertes confirmadas. El juicio queda en manos de las delegaciones. El volumen 77 termina en B+306, con la familia estrenando el catálogo en la sala común.
+S13 continúa en V78. El volumen 76 va de la vuelta del parlamento, B+273, a la cena después de la entrega de los dos responsables, B+285. No hay muertes confirmadas. El juicio queda en manos de las delegaciones. El volumen 77 termina en B+306, con la familia estrenando el catálogo en la sala común.
 
 [Índice de V76](../THE_ARRIVALS_LN_VOLUME_76_INDEX_v0.1.md) · [Índice de V77](../THE_ARRIVALS_LN_VOLUME_77_INDEX_v0.1.md) · [Estado al cierre de S12](S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md)
 
@@ -60,3 +60,47 @@ Las seis noches previstas abarcan B+293 a B+298. Las siete adicionales abarcan B
 Mauri pidió extender la isla sin tocar los capítulos que ya existían: Elmesia los invita a quedarse y se quedan hasta que la casa pregunta cuándo vuelven. Claude escribió V77#15–21 (B+299–B+305). El regreso pasó de seis a trece noches: V77#22–25 (antes #15–18) van ahora en B+306; se actualizaron las fechas y los números de capítulo. En #14 el «When» dice ahora «what they think is their last full day».
 
 En la revisión se integraron los besos y las escenas de cercanía a los capítulos existentes. La noche del atardecer queda en #17, la de la roca en #20 y la despedida en el balcón en #21. La concha y los regalos del pueblo llegan a la casa en #22.
+
+
+## V78 — primera versión de Claude (15 de noviembre de 2026)
+
+S13 continúa. Claude escribió V78 #1–27 según el [handoff de coautoría](S13_V78_COAUTHOR_HANDOFF_FOR_CLAUDE_2026-11-15.md). Work ya desarrolló la primera noche (#1) en 3a6afb2. Mauri fijó el cierre: el volumen termina con el segundo dungeon y los días de slice de alrededor. [Índice de V78](../THE_ARRIVALS_LN_VOLUME_78_INDEX_v0.1.md). Unas 56 mil palabras.
+
+| Capítulo | Día | Hechos escritos |
+|---|---|---|
+| V78#1 | B+306 noche | Ori dormida en el sillón; la suben. Pasillo: Rimuru y Shizue al lado; risa contra la puerta. Primera noche en casa (desarrollada por Work). Ori sube el tercer escalón a «checar» y se va sin tocar. |
+| V78#2 | B+307 | Rimuru y Shizue «no oyeron nada». Yuka lleva la tela de la isla a Mai; Mau le guarda lugar y la jala de vuelta. Mau inquieto tras trece días sin moverse; Gojo le aconseja una gate que nadie quiera. Yuka lo abraza por detrás: «Today you're mine.» |
+| V78#3 | B+308 mañana | Mau ofrece anclas de emergencia a todos (mismas condiciones que Makima, Hinata y Elmesia). 31 soldados ordinarios en 31 sombras; Lantern cuenta para Ori; Milim dice que no; Frieren acepta. |
+| V78#4 | B+308 tarde y noche | Con los Sung: «I have an army.» / «It's not for you.» Anclas para Hae-In, Jin-Ah, su madre y Suho («Sir Shadow»); otra bajo el porche, junto a la puerta, a pedido de Jin-Woo. Yuka: «Go. Come back for dinner.» |
+| V78#5 | B+309 | Gate que nadie quiere (cantera al norte del río). Dentro se vuelve roja: sin Shop; inventario sólo con lo que llevó (un día de comida, el chocolate de Yuka «for later»). Decide ir rápido. |
+| V78#6 | Dentro, días 1–6 | Criaturas largas de las torres; lagartijas comestibles con el hechizo de fuego de Frieren. Una bestia enorme lo sigue tres días: quería el fuego. La llama the Pillow; no la levanta. Reloj: ~40 s fuera por día dentro. |
+| V78#7 | Dentro, días 7–20 | Torres a toda velocidad; comida agotada el día 10; congelamiento en dos dedos del pie y la oreja; la rueda gira por el frío; corte largo en el antebrazo izquierdo. Despedida del Pillow en el anillo interior. |
+| V78#8 | Dentro, días 20–21 | Guardián del anillo: hielo que se reconstruye de 24 piedras y come calor y CE. Rompe las piedras con Dismantle y Authority y mete Purple por el núcleo. Mano izquierda despellejada, costillas derechas fisuradas. |
+| V78#9 | Día 21 y salida | Sistema: operador confirmado; «system improvements must be completed by the operator»; recompensa Gate Authority (sólo esa gate), ajuste aplazado. Botín. Se come el chocolate. 21 días = ~14 min fuera. |
+| V78#10 | B+309 | POV Yuka. Shoko lo atiende. Yuka se le sienta encima de frente y le pone la cabeza en el pecho; él se deja caer y se duerme. La casa entra en silencio; Ori lo tapa; Mai y Yuka platican bajito; Yuka se duerme en su hombro. |
+| V78#11 | B+309 noche | Cuatro platos. Núcleos para Mai, esquirla para Senku, placas al registro; Fern añade la marca «red». Ramiris y Noise leen la Gate Authority. Yuka elige el primer ajuste («something warm in it»). Historia del Pillow en la cena. |
+| V78#12 | B+310 mañana | Revisión con Shoko; la isla; Shoko exige ir; Anko, Hinata, Gojo «if he behaves». Apellido: «I could take yours.» Ella mira a otro lado. Al voltear: mirada perdida, sangrado nasal; lo atrapa. |
+| V78#13 | B+310 | POV Shoko. La sobrecarga: fallan barreras y Mini Ciel, técnicas a la vez, rueda visible, dominio empezando. Mau intenta jalarlo hacia sí para protegerla; Noise lo deshace con Ciel. Lo estabilizan. Explicación de la refinación y los ojos. |
+| V78#14 | B+310 tarde–noche | La casa espera; Makima al final del pasillo sin entrar. «Holding.» Pasada la medianoche, convulsiones; los sangrados se reabren más rápido de lo que Shoko y Yuta cierran. |
+| V78#15 | B+311 madrugada | Makima ofrece el contrato; Yuka: «Ask him.» Minuto lúcido: términos de Mau (nadie de la casa, no control, Yuka sobre todo). Acepta. Fusión; paran las convulsiones. |
+| V78#16 | B+311 madrugada | POV Makima dentro de Mau: sostiene la carga; Noise le construye cuerpo; Ciel la vigila. Siente el recuerdo de Mau al encontrar a Yuka herida por el devil que ella mandó y no entiende por qué le duele. Yuka: «Not now.» |
+| V78#17 | B+311 tarde | Despierta con huecos. Conoce caras sin ubicarlas. No sabe quién es Yuka; es lo único con color y no sabe por qué. Le toma la mano por costumbre. La casa decide no contarle. |
+| V78#18 | B+312 | Yuka lo abraza por detrás; se pone rígido y luego le cubre las manos. Ori intenta con la concha, con Lantern y con la piedra. Beru: «King of what?» Vuelven cosas pequeñas. Gojo: «a room with the lights off». |
+| V78#19 | B+313 | Ori con su lista; berrinche; «Papa!»; «You love me.» Milim lo sacude; Yuka va a intervenir; «Milim. Stop.» Reconoce a Yuka; vuelve todo, incluido el hueco. Coraje por el tiempo. Abraza a Ori. Chiste de la sacudida. |
+| V78#20 | B+313 noche | La casa sube por oleadas. Makima lo abraza antes de que él sepa qué hizo. Noise: «Like me.» Ciel: «And me.» Makima pide disculparse con Yuka; Yuka: después, con Maki y Yuta. |
+| V78#21 | B+314 | POV Yuka. En el taller de Mai, con Maki y Yuta: disculpa concreta de Makima. Yuka no perdona hoy; agradece aparte la vida de Mau. Términos: el cuarto no se pisa, no la toca, pide antes de sentarse junto a ella. |
+| V78#22 | B+316 | Torneo de carreras de Umaru. Mau se cansa y se recarga en Yuka. Final: ella le tapa los ojos; Authority mueve las papas y lo descalifican; Yuka campeona. Makima pide la silla junto a la ventana. |
+| V78#23 | B+317 | Día de chocolate sin ocasión. Para cada quien algo elegido. Yuka lo abraza por detrás cuando se quiere parar. Para Makima, chocolate de un día cualquiera, de mano de Yuka. |
+| V78#24 | B+318 | POV Yuka. Mañana sola con Mai: se siente segura, él toma en serio hasta sus caprichos, él descansa con ella. Quiere tenerlo cerca y extraña a Mai. Acuerdan mañanas en el taller. |
+| V78#25 | B+319 | Con Makima ligada, Noise lee desde dentro su fuerza dirigida y completa Bang con maná de Mau. Tres tiros supervisados. La forma primordial está «más estable»; no se prueba. |
+| V78#26 | B+322 | Gate más difícil con Yuka al frente y Yuta. Segundo monstruo oculto; Mau ya tenía Sky bajo sus pies y le pone Infinity: dos técnicas dos respiraciones, sangrado nasal. Yuta lo mata. «Did it touch you?» / «It reached.» |
+| V78#27 | B+322 tarde | Se lo confiesa a Shoko. Yuka encima: «You've earned having me here all day and feeding me.» Tart. «Keep this up and you'll get yourself a wife.» Segundo tart. Ella se ríe. Yuta cuenta la historia a la casa. |
+
+### Relevo a Work
+
+- **Desde dónde seguir:** el último commit de Claude en la rama, el que añade este registro. V78 cubre de B+306 noche a B+322 en 27 capítulos.
+- **Corchetes `[PARA WORK]`:** #1 (ya desarrollado por Work), #4 (dónde viven los Sung: no lo encontré en el canon), #20 (beso de reencuentro opcional) y #27 (beso juguetón opcional).
+- **Los Monarcas quedan fuera del volumen.** Claude escribió siete capítulos del ataque (#28–34 provisionales). Mauri aclaró que ese arco va al final, después de Dabura, y pidió guardarlos. Están completos en [future_drafts/monarchs_claude_2026-11-15](future_drafts/monarchs_claude_2026-11-15/README.md). No son canon.
+- **Abierto:** los simurianos (reencuentro Yuka–Tsurugi), el duelo con Dabura, las señales de Makima sobre los primordiales y lo que sepa Qifrey siguen sin tocar. El viaje a la isla con Shoko, Anko, Hinata y Gojo quedó prometido en #12.
+- **Detalles que inventé y conviene confirmar:** la marca de Senku ˢᵉ; la cantera al norte del río; la razón de la mudanza de Rimuru y Shizue (el pan de Shuna); que Frieren probó ese chocolate con Himmel (#23); el apellido de Shoko como opción (#12).
+- **Color:** revisé los capítulos en el POV de Mau. Los POV de Yuka (#10, #21, #24), Shoko (#13 y final de #12) y Makima (#16) sí nombran colores.

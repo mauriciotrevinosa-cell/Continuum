@@ -1,15 +1,15 @@
 # The Arrivals — Light Novel — Volume 77 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — S13 v0.1 — SEASON COMPLETE
+**Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 77
 **Season:** 13
-**Coverage:** S13E13–S13E21 (season finale)
+**Coverage:** S13E13–S13E21
 **Volume title:** **All the Mornings Left**
 **Chapter files:** 25
 
 Ori chooses what the house does on her birthday. Mau and Yuka plan six nights on the island and stay thirteen, with time to change their minds about what to do with a day.
 
-[Previous volume](THE_ARRIVALS_LN_VOLUME_76_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S13_ACTUAL_PRODUCTION_STATE_2026-11-12.md)
+[Previous volume](THE_ARRIVALS_LN_VOLUME_76_INDEX_v0.1.md) · [Next volume](THE_ARRIVALS_LN_VOLUME_78_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S13_ACTUAL_PRODUCTION_STATE_2026-11-12.md)
 
 ## Reading order
 

@@ -163,7 +163,7 @@ Then he walks through the gate.
 
 The quarry is exactly as he left it.
 
-The pool of rainwater at the bottom. The scrub in the cracks. The cut stone walls. The air is mild and smells of wet rock and green things and the faint smoke of somebody's chimney a long way off, and it's so warm compared to where he's been that for a moment he just stands there with his eyes closed and breathes it.
+The pool of rainwater at the bottom. The scrub in the cracks. The cut stone walls. The air is mild and smells of wet rock and growing things and the faint smoke of somebody's chimney a long way off, and it's so warm compared to where he's been that for a moment he just stands there with his eyes closed and breathes it.
 
 “How long?” he asks. ᴹ
 

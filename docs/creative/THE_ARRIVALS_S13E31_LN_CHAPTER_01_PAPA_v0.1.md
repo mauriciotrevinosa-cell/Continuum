@@ -65,7 +65,7 @@ It comes out as a scream. She throws the paper at him. It hits the blanket and s
 
 That's Yuka, from the door, starting forward. Ori doesn't hear her.
 
-“I'm not somebody's kid!” Ori is crying now, really crying, the kind that comes from the bottom of the chest and shakes everything on its way out. Her face is red and wet and twisted up, and she's standing at the foot of the bed with her fists clenched at her sides, and she's shaking. “I'm *yours*! I'm *your* kid! You *said*! You said it on the bench and you said it on the porch and you said it every *night*, and now you don't even—you don't even—” ᴼ
+“I'm not somebody's kid!” Ori is crying now, really crying, the kind that comes from the bottom of the chest and shakes everything on its way out. Her face is blotched and wet and twisted up, and she's standing at the foot of the bed with her fists clenched at her sides, and she's shaking. “I'm *yours*! I'm *your* kid! You *said*! You said it on the bench and you said it on the porch and you said it every *night*, and now you don't even—you don't even—” ᴼ
 
 She can't finish. She makes a sound like something tearing.
 

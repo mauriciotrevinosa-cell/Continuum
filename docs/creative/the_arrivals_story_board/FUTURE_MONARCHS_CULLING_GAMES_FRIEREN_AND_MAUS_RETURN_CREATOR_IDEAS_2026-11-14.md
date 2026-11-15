@@ -67,3 +67,17 @@
 - **El tramo de construir sistemas** deja que la casa siga siendo protagonista sin escalar el poder: los problemas se resuelven con acuerdos, gente y decisiones. Encaja con lo que ya dice el plan de cierre de Work («aprietos por astucia, decisiones y consecuencias»).
 - **Mau limitándose al entrenar** conviene que lo note alguien que lo conoce (Gojo, Jin-Woo), no el narrador.
 - **El descanso:** la conclusión compartida llega después de que cada quien la piense por su lado; Senku y su cuenta le dan el tono alegre, no solemne.
+
+## Tercera ronda: cuándo llegan los Monarcas y cómo atacan (15 de noviembre de 2026)
+
+### Palabras de Mauri
+
+> de los monarchs me gustaria que si lo hacemos que uno vaya por elmesia para separara  mau y a jin woo y cuando mau logre poder hacer un segundo exchange se lleva al monarch con los otros y me gustaria que yuka fue con elmesia pq queria hablar algo con ella sin que mau supiera (lo mas seguro una sorpresa o quieren hablar de una futura vacacion larga.) PEro me encanta cuando elmesia pide la ayuda veamoslo de un pov de el monarca osea pq nosotros lo vemos de la manera mas casual y x pero mau si lo ves del otro lado es el diablo imaginate que hace el exchange y lo primero que ven salir de una sombra es una rueda rompiendo la sombra y de abajo sale alguien que su cabello parece rojo con blanco y unos ojos con el centro azul el resto naranja y lo balnco negro osea que mau escuhco que elmesia y yuka estan en peligro y saco todo y que antes de que pueda terminar d elevantar la mano tiene un corte en el hombro y mau ve que estan en medio de la ciudadela entocne mau hace lo mejor que se le ocurre comprar tiempo entoncespuede usar los bangs para que se enfoque en sanar hasta que mau tiene el exchange y cuando lelga jin woo diga no no no he eis going to die alone y este envergado y ahi podemos tener una mega pelea
+
+> oye lo de los monarcas es mucho despues de todo es lo ultimo hasta despues de lo de dabura
+
+### Dirección
+
+- **Orden:** los Monarcas son lo último, después de Dabura. No entran en V78.
+- Cuando lleguen: un Monarca va por Elmesia para separar a Mau de Jin-Woo; Yuka está con Elmesia por un secreto (sorpresa o vacaciones largas); Elmesia pide ayuda y se ve desde el POV del Monarca; la rueda rompe la sombra; pelo que parece rojo con blanco; ojos centro azul, resto naranja, negro donde va lo blanco; corte en el hombro antes de que el Monarca termine de levantar la mano; Mau en medio de la ciudadela compra tiempo con Bangs para que el Monarca se concentre en sanar; con el segundo Exchange se lleva al Monarca con los otros; Jin-Woo llega: «No, no, no, he is not going to die alone», enojadísimo; mega pelea.
+- Claude ya escribió un borrador de esa secuencia, guardado aparte en [future_drafts/monarchs_claude_2026-11-15](future_drafts/monarchs_claude_2026-11-15/README.md). No es canon.

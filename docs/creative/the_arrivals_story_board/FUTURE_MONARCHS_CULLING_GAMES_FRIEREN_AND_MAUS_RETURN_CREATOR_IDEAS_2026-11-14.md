@@ -21,7 +21,7 @@
   - Cuando van por el cuerpo de Mau, llega a la casa una oleada de las personas que la casa quería traer, y nadie entiende. Detrás, a Mau lo traen en una carreta.
   - Su cuerpo no se descompone: Noise lo mantiene, forzando al corazón a bombear y sosteniendo todo, sin rendirse. Oye a Yuka decirle que no pare.
   - Al morir, el alma de Mau cae al cuarto donde casi entra en el dungeon (el que el Arquitecto preparó). Mau cree que es su lugar para descansar. Tocan a la puerta: es Noise, que le dice que lo encontró. Mau lo abraza. Detrás de Noise, a lo lejos, ve el exterior y a Yuka, sin saber cómo puede verla. Noise: «Go, she is waiting». Mau: «¿Y tú?». Noise: «I'm already there». Así regresa.
-- **El final de la historia:** slice of life con momentos sueltos de sus vidas, saltando tiempo, ya no día por día.
+- ~~**El final de la historia:** slice of life con momentos sueltos de sus vidas, saltando tiempo, ya no día por día.~~ **Reemplazado** en la segunda ronda (abajo): sin saltos de tiempo.
 
 ## Notas de Claude (propuesta, no decisión)
 
@@ -32,3 +32,38 @@
 - **Monarcas:** el impulso de Mau de ponerse al frente es su herida. Después del año del dungeon y del secreto con Makima, conviene que esta vez avise al salir (a Yuka, a Ciel) aunque vaya igual, y que la casa reaccione como reaccionaría.
 - **Frieren:** respetar que cada quien elige si quiere vivir menos; nadie descansa por arrastre.
 - **Pendiente de confirmar con Mauri:** qué sombra con rango de monarca da la advertencia (la frase «diablo tiene una sombra que es un monarca» puede ser «de hecho»), y cotejar con la fuente antes de escribirla.
+
+## Segunda ronda, mismo día
+
+### Palabras de Mauri
+
+> es que la verdad no estoy enamorado con la idea de brincar tiempo la que mas me gusto como lo hice fue cuando se reseteo la linea del tiempo pero algo que me gustaria tal ves es como en tensura que ya los pleitos worl ending acabaron pero falta mucho que resolver se tendran que construir ccosas osea hay titanes hay yokais hay devils hay cursed monsters y asi osea tla ves eso lo podemos ver tambien como mau y la casa o se delinda de eso o ayudan a crear sistemas mau tal ves llega con un acuerdo con algunos ex agentes o jujustu sorceres apra que ayuden a matar a los monstruos tmb a gente para exorcisar a yokais y que tal ves de ves enc uando le pidan aydua a lacasa y asi pero ya no son worl ending y mas que mau puede ser que lo vemos en su prime mas refinado que la chingada y la verdad ya en 1v1 ya no hay nadie que le gane aunque al entrenar con gojoo y los otros se limita para seguir aprendiendo y disfrutar
+>
+> amamos a noise noise para presidente jajajajajaja
+>
+> si osea me encanta que tal ves todos tomen su tiempo pero al final todos lleguen a la misma conclusion y que frieren les diga que se vana  aburrir y todos les dicen cuando haz estado aburrida en esta casa y que senku se heche la aritmetica y explique que entre explorar el mundo y todo vamos a penas a tener suficeinte tiempo para todo.
+>
+> si osea que se vea una casa donde esten todos ya no un mundo un lugar donde las almas de todos ellos por fin descansen como en frieren que existe un lugar al noorte donde puedes hablar con las almas y descnasen y lo armaria para que no sea un castigo sino algo bello un valhalla que es apra descansar
+>
+> use diablo como expersion pero me referia que una de las sombras de mau estaba en jin woo
+
+### Dirección
+
+- **Sin saltos de tiempo.** El modelo que a Mauri le gustó es el reseteo de la línea temporal (S6), no el salto.
+- **Después del último juego, el modelo es Tensura tras las peleas que acaban el mundo:** ya no hay amenazas de ese tamaño, pero queda muchísimo por resolver y construir. Hay titanes, yokais, devils, cursed spirits y otros monstruos sueltos.
+  - La casa decide: se desentiende o ayuda a crear sistemas.
+  - Mau llega a acuerdos, por ejemplo con ex agentes (Chainsaw Man) y hechiceros de Jujutsu, para cazar monstruos, y con gente que pueda exorcizar yokais.
+  - De vez en cuando le piden ayuda a la casa. Nada de eso vuelve a ser del tamaño del fin del mundo.
+- **Mau en su prime.** Refinadísimo; en 1v1 ya nadie le gana. Al entrenar con Gojo y los demás se limita para seguir aprendiendo y disfrutarlo.
+- **Noise para presidente.**
+- **Frieren y el descanso:** cada quien se toma su tiempo, pero todos llegan a la misma conclusión. Frieren les dice que se van a aburrir; todos le responden que cuándo ha estado aburrida en esta casa. Senku hace la aritmética y explica que, entre explorar el mundo y todo lo demás, apenas les va a alcanzar el tiempo.
+- **El paraíso no es un mundo, es una casa** donde están todos: un lugar donde por fin descansan sus almas, como el lugar del norte en Frieren donde se puede hablar con las almas. Que no sea castigo sino algo bello, un Valhalla para descansar.
+- **La sombra de la advertencia es una sombra de Mau que está con Jin-Woo.** «Diablo» era expresión.
+
+### Notas de Claude (propuesta, no decisión)
+
+- **No encontré en el canon una sombra de Mau asignada a Jin-Woo** (ni en `MAU_CURRENT_KIT.md` ni buscando en los capítulos; el kit dice 6.615 vínculos de Mau y el ejército de Jin-Woo aparte). Hay que plantarla antes del arco de los Monarcas, idealmente en una escena chica y sin fanfarria: Mau deja una sombra con Jin-Woo o con su familia (que llegó en V65 #27–30) «por si acaso». Cuando dé la advertencia, el lector debe recordarla.
+- **Qué sombra:** el dragón del Final Trial está guardado y nunca se ha usado (V71 #3). Es candidato, pero Mauri ya dijo que no hay que forzar escenas con él; queda como opción, no como decisión.
+- **El tramo de construir sistemas** deja que la casa siga siendo protagonista sin escalar el poder: los problemas se resuelven con acuerdos, gente y decisiones. Encaja con lo que ya dice el plan de cierre de Work («aprietos por astucia, decisiones y consecuencias»).
+- **Mau limitándose al entrenar** conviene que lo note alguien que lo conoce (Gojo, Jin-Woo), no el narrador.
+- **El descanso:** la conclusión compartida llega después de que cada quien la piense por su lado; Senku y su cuenta le dan el tono alegre, no solemne.

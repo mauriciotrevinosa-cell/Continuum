@@ -5,7 +5,7 @@
 **Volume:** 78
 **Reading order:** 1
 **Source episode:** S13E22
-**Continuity state:** B+306, late night, after the first movie. Ori is carried to bed asleep. Mau and Yuka spend their first night home together after thirteen nights on the island. Rimuru and Shizue sleep next door.
+**Continuity state:** B+306, late night, after the first movie. Ori is carried to bed asleep. Mau and Yuka spend their first night home together after thirteen nights on the island. Rimuru and Shizue are talking in the sitting room of the apartment they have shared since V52. Rimuru has his own bedroom and Shizue stays in the guest room.
 
 *When: The movie ends a little after the house usually goes to bed. Shuna is already collecting cups, and Ori fell asleep somewhere near the middle.*
 
@@ -71,7 +71,7 @@ The hallway outside their room is dark.
 
 Halfway along it, Yuka stops so suddenly that Mau nearly walks into her back.
 
-She's looking at the door beside theirs. There's a thin line of lamplight under it, and from the other side comes the low murmur of two people talking. Shizue laughs at something. Rimuru says something back, too quiet to make out.
+She's looking back at the sitting-room door. There's a thin line of lamplight under it, and from the other side comes the low murmur of two people talking. Shizue laughs at something. Rimuru says something back, too quiet to make out.
 
 Yuka turns around very slowly.
 
@@ -81,9 +81,7 @@ Yuka turns around very slowly.
 
 She points at the door with her whole arm, like someone pointing out a bear.
 
-Mau looks at the door. Then he remembers too. While they were on the island, Rimuru and Shizue moved into the room beside theirs, because the old one was too close to the kitchen and Shizue wakes up whenever Shuna starts the bread. She'd told him on her way in to the movie, when he moved his feet so she could get past.
-
-He'd had an entire conversation with her about ovens. The part where they'd be sharing a wall has only just reached him.
+Mau looks at the door. There are three bedrooms off this passage: theirs, Rimuru's, and the guest room where Shizue has stayed since the house was built. There's usually someone talking over a last cup of tea at this hour. Thirteen nights with a whole place to themselves and he'd managed to forget the sound of it.
 
 Yuka has both hands over her mouth. Her shoulders are shaking.
 
@@ -95,7 +93,7 @@ Yuka has both hands over her mouth. Her shoulders are shaking.
 
 “*You're* about to laugh.” ʸ
 
-He is. He can feel it starting somewhere under his ribs. They stand in the dark hallway of their own house like two people who've broken into it, trying not to make a sound, and on the other side of the wall Shizue laughs again at something Rimuru said, and that's what does it. Yuka makes a small strangled noise into her hands. Mau grabs her by the wrist and pulls her the last few steps to their own door, and gets it open, and gets them both through it, and closes it with exaggerated care, the latch clicking into place as softly as he can make it.
+He is. He can feel it starting somewhere under his ribs. They stand in the dark hallway of their own house like two people who've broken into it, trying not to make a sound, and behind the sitting-room door Shizue laughs again at something Rimuru said, and that's what does it. Yuka makes a small strangled noise into her hands. Mau grabs her by the wrist and pulls her the last few steps to their own door, and gets it open, and gets them both through it, and closes it with exaggerated care, the latch clicking into place as softly as he can make it.
 
 Mau leans back against the door. Yuka puts her forehead on his shoulder. He feels her take a breath to try to stop laughing, which is when he starts, and she has to turn her face into his shirt to get quiet again.
 

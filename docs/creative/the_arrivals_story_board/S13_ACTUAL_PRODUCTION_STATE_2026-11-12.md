@@ -68,7 +68,7 @@ S13 continúa. Claude escribió V78 #1–27 según el [handoff de coautoría](S1
 
 | Capítulo | Día | Hechos escritos |
 |---|---|---|
-| V78#1 | B+306 noche | Ori dormida en el sillón; la suben. Pasillo: Rimuru y Shizue al lado; risa contra la puerta. Primera noche en casa (desarrollada por Work). Ori sube el tercer escalón a «checar» y se va sin tocar. |
+| V78#1 | B+306 noche | Ori dormida en el sillón; la suben. Mau y Yuka oyen a Rimuru y Shizue conversar en el estar. Se mantiene el reparto de V52: cuarto propio de Rimuru, cuarto de invitados de Shizue y dormitorio de Mau y Yuka. Primera noche de vuelta. Ori sube el tercer escalón a «checar» y se va sin tocar. |
 | V78#2 | B+307 | Rimuru y Shizue «no oyeron nada». Yuka lleva la tela de la isla a Mai; Mau le guarda lugar y la jala de vuelta. Mau inquieto tras trece días sin moverse; Gojo le aconseja una gate que nadie quiera. Yuka lo abraza por detrás: «Today you're mine.» |
 | V78#3 | B+308 mañana | Mau ofrece anclas de emergencia a todos (mismas condiciones que Makima, Hinata y Elmesia). 31 soldados ordinarios en 31 sombras; Lantern cuenta para Ori; Milim dice que no; Frieren acepta. |
 | V78#4 | B+308 tarde y noche | Con los Sung: «I have an army.» / «It's not for you.» Anclas para Hae-In, Jin-Ah, su madre y Suho («Sir Shadow»); otra bajo el porche, junto a la puerta, a pedido de Jin-Woo. Yuka: «Go. Come back for dinner.» |

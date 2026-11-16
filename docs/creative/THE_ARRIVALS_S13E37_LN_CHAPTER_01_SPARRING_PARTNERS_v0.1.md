@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 78
-## Chapter 32 — Sparring Partners
+## Chapter 34 — Sparring Partners
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 78
-**Reading order:** 32
+**Reading order:** 34
 **Source episode:** S13E37
 **Continuity state:** B+326. Yuka asks Mau to train with her, just the two of them, in the yard. He teaches her the shoulder roll Jin-Woo taught him; she teaches him nothing and says so. They spar with blunt trainers. He keeps holding back; she notices and gets angry in a playful way and makes him promise to stop "being nice". She lands one hit fair, then wins the last round by tickling him. Shoko watches from the porch and pretends to read. In the evening, the best part of the day is the bath of the tub-and-bucket kind, separately, then the porch with wet hair.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 78
-## Chapter 33 — Each with Their Own
+## Chapter 35 — Each with Their Own
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 78
-**Reading order:** 33
+**Reading order:** 35
 **Source episode:** S13E37
 **Continuity state:** B+327–328. Gojo declares a day apart. Mau goes with Gojo, Yuta and Jin-Woo to the stream to fish; nobody catches anything; Gojo talks about Shoko and the island trip; Jin-Woo teaches Suho to skip stones. Yuka spends the day with Maki, Mai, Umaru and Rem in town and the workshop. Both of them enjoy it, and both keep looking at the light. At supper they meet each other's eyes and leave before dessert. Next day it rains and they do nothing at all. The volume closes on the window seat.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 78
-## Chapter 34 — A Song for the Room
+## Chapter 36 — A Song for the Room
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 78
-**Reading order:** 34
+**Reading order:** 36
 **Source episode:** S13E38
 **Continuity state:** B+329, late morning and evening. Bocchi and Kita finish a song that grew out of the tune Mau hummed when they got back from the island. Byakuya, Mau and Yuka help Bocchi arrange the seats so she can see the porch door. Bocchi chooses her own audience and plays before the film, then asks to play the ending again.
 

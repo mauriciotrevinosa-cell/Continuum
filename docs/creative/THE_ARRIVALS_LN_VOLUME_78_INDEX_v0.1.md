@@ -5,7 +5,7 @@
 **Season:** 13
 **Coverage:** S13E22–S13E39 (B+306 night to B+330)
 **Volume title:** **The Floor Under Him**
-**Chapter files:** 36
+**Chapter files:** 38
 
 Home from the island, Mau goes looking for a gate nobody wants and finds a red one. Something he has carried for years breaks in the middle of an ordinary morning, and the help that saves him comes from someone the house does not trust. For three days he does not know Yuka's name.
 
@@ -44,10 +44,12 @@ Home from the island, Mau goes looking for a gate nobody wants and finds a red o
 | 27 | S13E34 | Did It Touch You? | `THE_ARRIVALS_S13E34_LN_CHAPTER_02_DID_IT_TOUCH_YOU_v0.1.md` |
 | 28 | S13E35 | Keep This Up | `THE_ARRIVALS_S13E35_LN_CHAPTER_01_KEEP_THIS_UP_v0.1.md` |
 | 29 | S13E35 | The Best Part of the Day | `THE_ARRIVALS_S13E35_LN_CHAPTER_02_THE_BEST_PART_OF_THE_DAY_v0.1.md` |
-| 30 | S13E36 | Badly Arranged | `THE_ARRIVALS_S13E36_LN_CHAPTER_01_BADLY_ARRANGED_v0.1.md` |
-| 31 | S13E36 | Even If I Do Nothing | `THE_ARRIVALS_S13E36_LN_CHAPTER_02_EVEN_IF_I_DO_NOTHING_v0.1.md` |
-| 32 | S13E37 | Sparring Partners | `THE_ARRIVALS_S13E37_LN_CHAPTER_01_SPARRING_PARTNERS_v0.1.md` |
-| 33 | S13E37 | Each with Their Own | `THE_ARRIVALS_S13E37_LN_CHAPTER_02_EACH_WITH_THEIR_OWN_v0.1.md` |
-| 34 | S13E38 | A Song for the Room | `THE_ARRIVALS_S13E38_LN_CHAPTER_01_A_SONG_FOR_THE_ROOM_v0.1.md` |
-| 35 | S13E39 | Tall Enough | `THE_ARRIVALS_S13E39_LN_CHAPTER_01_TALL_ENOUGH_v0.1.md` |
-| 36 | S13E39 | The Chair by the Lamp | `THE_ARRIVALS_S13E39_LN_CHAPTER_02_THE_CHAIR_BY_THE_LAMP_v0.1.md` |
+| 30 | S13E36 | Do Not Eat Yet | `THE_ARRIVALS_S13E36_LN_CHAPTER_03_DO_NOT_EAT_YET_v0.1.md` |
+| 31 | S13E36 | I Came Up Here for You | `THE_ARRIVALS_S13E36_LN_CHAPTER_04_I_CAME_UP_HERE_FOR_YOU_v0.1.md` |
+| 32 | S13E36 | Badly Arranged | `THE_ARRIVALS_S13E36_LN_CHAPTER_01_BADLY_ARRANGED_v0.1.md` |
+| 33 | S13E36 | Even If I Do Nothing | `THE_ARRIVALS_S13E36_LN_CHAPTER_02_EVEN_IF_I_DO_NOTHING_v0.1.md` |
+| 34 | S13E37 | Sparring Partners | `THE_ARRIVALS_S13E37_LN_CHAPTER_01_SPARRING_PARTNERS_v0.1.md` |
+| 35 | S13E37 | Each with Their Own | `THE_ARRIVALS_S13E37_LN_CHAPTER_02_EACH_WITH_THEIR_OWN_v0.1.md` |
+| 36 | S13E38 | A Song for the Room | `THE_ARRIVALS_S13E38_LN_CHAPTER_01_A_SONG_FOR_THE_ROOM_v0.1.md` |
+| 37 | S13E39 | Tall Enough | `THE_ARRIVALS_S13E39_LN_CHAPTER_01_TALL_ENOUGH_v0.1.md` |
+| 38 | S13E39 | The Chair by the Lamp | `THE_ARRIVALS_S13E39_LN_CHAPTER_02_THE_CHAIR_BY_THE_LAMP_v0.1.md` |

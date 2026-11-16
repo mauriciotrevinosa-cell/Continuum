@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 78
-## Chapter 35 — Tall Enough
+## Chapter 37 — Tall Enough
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 78
-**Reading order:** 35
+**Reading order:** 37
 **Source episode:** S13E39
 **Continuity state:** B+330, afternoon. Anko and Mau plant the plant they first repotted in V73 #6. Anko wants to see Hinata on purpose rather than inventing an errand, and asks Mau to come see her on purpose too. Yuka brings food and helps tie the plant to its support. Mau asks Anko to see how it is doing together next week.
 

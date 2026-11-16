@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 78
-## Chapter 30 — Badly Arranged
+## Chapter 32 — Badly Arranged
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 78
-**Reading order:** 30
+**Reading order:** 32
 **Source episode:** S13E36
 **Continuity state:** B+324, after supper. The common room is free; the house is at Umaru's tournament in the kitchen. Mau and Yuka do nothing: a movie, just the two of them. He settles on the couch; she climbs on top of him and immediately informs him he is badly arranged and she can't see. He fixes everything she names with Authority without getting up: cushions, blanket, lamp, popcorn, the table, the curtain, himself. Every instruction obeyed. She is delighted. Halfway through she falls asleep; he watches the rest of the movie with no idea what it's about.
 
-*When: The next evening. The best part of the day. Umaru has moved her second tournament into the kitchen because Senku wanted to test whether the screen works on a different wall, and the common room is empty.*
+*When: After supper on Maomao's chocolate day. Umaru has moved her second tournament into the kitchen because Senku wanted to test whether the screen works on a different wall, and the common room is empty.*
 
 The common room is empty.
 
@@ -20,6 +20,14 @@ He goes and finds Yuka.
 * * *
 
 She's in the hall, already coming to find him. They meet halfway and both stop.
+
+She's still in her shorts and the old McLaren with the papaya across the shoulders, which is what she calls that part of it so often he can put a name to the panel as soon as he sees it. He's got the good blanket folded over his forearm. He has to push it down far enough to free one hand from the sleeve of his Ferrari hoodie.
+
+“That one,” she says, touching the blanket. “You remembered.” ʸ
+
+“I brought the bowl, too.” He lifts the bowl he's got by the rim. ᴹ
+
+She looks at the bowl. It has enough room for exactly the amount she'd have claimed was too much popcorn while he was getting it, then eaten half of. She comes the rest of the way down the hall and takes the heavy end of the blanket.
 
 “The common room's empty,” he says. ᴹ
 

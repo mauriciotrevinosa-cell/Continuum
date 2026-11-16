@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 78
-## Chapter 36 — The Chair by the Lamp
+## Chapter 38 — The Chair by the Lamp
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 78
-**Reading order:** 36
+**Reading order:** 38
 **Source episode:** S13E39
 **Continuity state:** B+330, evening. Yuka comes to Mau in their room. In the chair by the lamp, she rests his head against her chest and says she will stay. He relaxes, then tells her how much he wants her close. They spend the night together.
 

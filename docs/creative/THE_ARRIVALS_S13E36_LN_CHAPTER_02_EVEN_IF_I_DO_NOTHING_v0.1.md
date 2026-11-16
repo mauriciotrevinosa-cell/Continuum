@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 78
-## Chapter 31 — Even If I Do Nothing
+## Chapter 33 — Even If I Do Nothing
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 78
-**Reading order:** 31
+**Reading order:** 33
 **Source episode:** S13E36
 **Continuity state:** B+325. Mau goes to the quarry to apply the gate setting Yuka chose (V78 #11). Yuka comes. She tells him that from now on she goes with him, even if she does nothing, so that if he gets stuck again he isn't alone. Mau says he has Noise; Noise is proud. Ciel says she's sometimes there too. Mau: "Yes. Sometimes." At the entrance Mau applies the setting; the gate accepts it and offers an exit while the operator is inside. Inside, the cold is gentler, the long things fewer; Yuka fights one, Mau does almost nothing. They find the warm place her setting made: a hollow at the foot of the first tower, heat coming up through the stone. The Pillow is lying beside it. It lets Yuka put her hands in its fur. They sit against it for a while (a few hours inside, a few seconds outside) and go home.
 

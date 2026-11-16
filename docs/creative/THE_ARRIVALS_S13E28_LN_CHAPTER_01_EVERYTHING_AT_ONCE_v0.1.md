@@ -5,7 +5,7 @@
 **Volume:** 78
 **Reading order:** 13
 **Source episode:** S13E28
-**Continuity state:** B+310, morning, in the clinic. Shoko's point of view. Ciel hears the rupture and alerts Rimuru. Barriers and Mini Ciel fail; Mau's techniques begin to fire at once (neutral flickering, Blue pulling, shadows spilling, the wheel appearing). Shoko sees a domain starting to form. With what consciousness he has left, Mau tries to hold it in to protect her. Noise contains the rest and, with Ciel, stops the domain. Mau vomits blood and collapses. Rimuru, Yuka, Yuta arrive. They stop the bleeding and put him to sleep. Ciel and Noise explain: the refinement operation they had run a thousand times, the belief that the change in his eyes gave the load an outlet; it had only changed what he could process without noticing, and the surplus kept building.
+**Continuity state:** B+310, morning, in the clinic. Shoko's point of view. Ciel hears the rupture and alerts Rimuru. Shoko hears Ciel and Noise directly only while Mau's barriers are down and his techniques are spilling out. Barriers and Mini Ciel fail; Mau's techniques begin to fire at once (neutral flickering, Blue pulling, shadows spilling, the wheel appearing). Shoko sees a domain starting to form. With what consciousness he has left, Mau tries to hold it in to protect her. Noise contains the rest and, with Ciel, stops the domain. Mau vomits blood and collapses. Rimuru, Yuka, Yuta arrive. They stop the bleeding and put him to sleep. Rimuru relays what Ciel and Noise found: the refinement operation they had run a thousand times, the belief that the change in his eyes gave the load an outlet; it had only changed what he could process without noticing, and the surplus kept building.
 
 *When: A few seconds after Shoko catches him. She will later work out that the whole thing took less than a minute.*
 
@@ -19,7 +19,7 @@ Then the air in the clinic goes strange.
 
 “Rimuru,” Ciel says. ᶜ
 
-Shoko hears it. She isn't supposed to be able to hear Ciel. Nobody outside Mau can, except when Ciel chooses to speak aloud through him or through Rimuru. But she hears this, clear as a bell, in the air of the clinic, as if Ciel has stopped caring who listens.
+Shoko has heard Rimuru relay Ciel's words before. This time he's nowhere in the room and Mau's mouth hasn't moved. The voice is in the air of the clinic. A glass starts to rattle on the tray, and she understands that whatever usually keeps that voice inside him has gone along with everything else.
 
 “Rimuru. Clinic. *Now.*” ᶜ
 
@@ -27,7 +27,7 @@ And then, quieter, faster, to someone else: “Noise. The barriers—” ᶜ
 
 “I know,” Noise says. ᴺ
 
-Shoko has heard Noise speak perhaps a dozen times in all the years she's known Mau. She's never heard it sound like this.
+It's just two words. Shoko has heard Mau repeat words like that for Noise before. Hearing them beside her while she's holding Mau up by herself is different.
 
 * * *
 
@@ -111,17 +111,19 @@ The air goes thin and ordinary again. The shadows on the floor sink back into hi
 
 And Mau's hand lets go of her sleeve.
 
+The voices in the air go quiet with the rest of it.
+
 * * *
 
 He's bleeding from everywhere.
 
 That's what she sees, when she can see again. His nose, his mouth, the corners of his eyes. Thin bright lines of it. He's breathing in short wet gasps and every one of them brings up more blood, and she has him on his side before she's thought about it, his head on her knee, her fingers in his mouth to clear it, her other hand already flat against his chest and pouring everything she has into him.
 
-“Inside,” Ciel says, very fast. “Vessels in the brain. Behind the eyes. His lungs—” ᶜ
+Rimuru looks up at her. “Ciel says there are bleeds behind the eyes. And in his lungs—” ᴿ
 
 “I can feel it.” ˢʰ
 
-“Shoko, the one behind the left eye—” ᶜ
+“Behind the left eye first,” he relays. ᴿ
 
 “*I can feel it.*” ˢʰ
 
@@ -155,35 +157,29 @@ Her voice is perfectly flat.
 
 * * *
 
-It's Ciel who answers, aloud, so that everyone can hear.
+Rimuru keeps his hand against Mau's back. He listens for a moment before he answers for Ciel.
 
-“It was a refinement,” she says. “Something Mau and Noise have done a thousand times. Every day, for a long time. It processes what he takes in. What the eyes take in, mostly. It keeps him from drowning in it.” ᶜ
+“A refinement. Something Mau and Noise do every day with what the eyes take in. Ciel says they were doing the usual pass when the barriers failed.” ᴿ
 
 “And it broke,” Yuka says. ʸ
 
-“No,” Noise says. “It worked. It always worked. That was the problem.” ᴺ
+Rimuru waits again. “Noise says the refinement worked. It was the same as yesterday and the day before.” ᴿ
 
-Everyone looks at Mau, because there's nowhere else to look.
+Shoko can see him gathering up the rest of what Ciel is telling him. His thumb shifts once against Mau's back.
 
-“We thought the change in his eyes was giving it somewhere to go,” Noise says. “The load. When his eyes changed, they started handling more, and we thought the overflow was going out through them. That it was being spent.” ᴺ
-
-“It wasn't,” Ciel says quietly. ᶜ
-
-“It wasn't,” Noise agrees. “The eyes changed how much he could take in without noticing. Not how much he could *hold*. It kept building. Underneath. Where neither of us was looking. Because we thought we'd solved it.” ᴺ
+“When the eyes changed, he could take in more without feeling it. Ciel and Noise thought the extra load had somewhere to go. It was still in him. It'd been accumulating where the two of them weren't looking.” ᴿ
 
 There's a long silence.
 
-“How long,” Rimuru says. ᴿ
+“For how long?” Yuka asks. ʸ
 
-“I don't know,” Noise says. “A long time.” ᴺ
+“They don't know.” ᴿ
 
 “And the gate?” Shoko asks. “Yesterday. He spent everything.” ˢʰ
 
-“The gate didn't cause it,” Noise says. “It was already full. The gate was just—” ᴺ
+“Already full,” Rimuru says after a moment. He looks down at Mau. “Those are Noise's words. Ciel says it keeps going back over the same spot, trying to see where it missed it.” ᴿ
 
-It stops. For a moment it doesn't say anything at all, and in that moment Shoko understands something she never thought she'd understand about Noise, which is that it's afraid.
-
-“It was already full,” Noise says again, much more quietly. “And I didn't see it.” ᴺ
+Shoko looks at the hand Mau closed on her sleeve. She'd heard what Noise sounded like when it took the domain apart. She has a better idea now how much work those two words cost.
 
 * * *
 

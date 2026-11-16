@@ -5,7 +5,7 @@
 **Volume:** 78
 **Reading order:** 15
 **Source episode:** S13E29
-**Continuity state:** B+311, the small hours. Makima comes to the door and asks to speak while Mau has a lucid moment between convulsions. She offers a contract: she merges with him to hold what is building, and in exchange stays bound to his body for as long as it lives. Yuka says it's Mau's to decide. In the lucid minute, Mau understands, sets terms (she harms no one in the house, does not control him, Yuka above all), and accepts. Mau can sign contracts outside dungeons. Makima merges with him. The convulsions stop; the bleeds stop reopening. First half Yuka's point of view, the lucid minute in Mau's.
+**Continuity state:** B+311, the small hours. Makima comes to the door and asks to speak while Mau has a lucid moment between convulsions. She offers a contract: she merges with him to hold what is building, and in exchange stays bound to his body for as long as it lives. Yuka says it's Mau's to decide. In the lucid minute, Mau understands, sets terms (she harms no one in the house, does not control him, Yuka above all), and accepts. Rimuru relays Ciel's and Noise's assessment. Mau can sign this contract outside the dungeon. Makima merges with him. The convulsions stop; the bleeds stop reopening. First half Yuka's point of view, the lucid minute in Mau's.
 
 *When: Somewhere past two in the morning. The fourth fit has just ended. Shoko has been working for more than two hours without stopping.*
 
@@ -69,19 +69,13 @@ Makima looks at her for a long moment. Yuka can't read her face. She doesn't thi
 
 “Can she do it?” Rimuru asks. ᴿ
 
-He's asking Ciel. Ciel takes a moment to answer.
+He's asking Ciel. He waits for her answer, then looks at Makima.
 
-“I think so,” Ciel says. “I can see how it would work. I can't see everything. It would take a contract. A real one.” ᶜ
+“Ciel thinks it could work from inside. She'd need a contract with him. A real one.” ᴿ
 
 “He can't sign contracts,” Fern says suddenly, from the corner. “In the dungeon. His name won't hold.” ᶠᵉ
 
-“That's only in dungeons,” Ciel says. “Out here he can sign anything.” ᶜ
-
-“Noise?” Rimuru says. ᴿ
-
-There's a pause.
-
-“I can't stop what's happening,” Noise says. Its voice is very quiet. “She can. I don't like it. I don't like her. But I can't stop it, and she can.” ᴺ
+“That was in the dungeon. Here his name will hold,” Rimuru says. He waits another moment. “Noise says she can stop it. That's all it gave Ciel.” ᴿ
 
 Everyone looks at Yuka.
 
@@ -197,21 +191,13 @@ Then it goes still.
 
 Not slack. *Still*. The shaking stops. The rigidness goes out of his back. His jaw unclenches. And the blood under his eyes, which was running, stops running. Yuka watches the last bright drop bead at the corner of his eye and *not* fall, and then it's just a drop, drying.
 
-“Shoko,” Ciel says. ᶜ
+“Shoko,” Rimuru says, watching Mau's chest. ᴿ
 
 Shoko's hands are still on his chest. She doesn't move them.
 
 “They've stopped,” she says slowly. “The bleeds. They've stopped opening.” ˢʰ
 
-“The load,” Noise says. ᴺ
-
-Its voice is very strange.
-
-“It's still there. It's all still there. But it's—” ᴺ
-
-It stops. Tries again.
-
-“It's *still*,” Noise says. “Something's holding it. Something's holding it exactly where it is.” ᴺ
+Rimuru listens to Ciel again. “Noise says the load's still there. She's holding it in place.” ᴿ
 
 * * *
 

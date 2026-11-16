@@ -5,7 +5,7 @@
 **Volume:** 78
 **Reading order:** 14
 **Source episode:** S13E28
-**Continuity state:** B+310, afternoon into night. The house waits. Yuka doesn't leave the bed. People come in and out: food nobody eats, Ori at Mau's feet, Gojo in the doorway, Makima at the end of the hall, not coming in. For some hours the house believes there is only waiting left. At night, Mau convulses. The bleeds reopen behind his eyes. Noise holds what it can; Ciel says it is not holding. Shoko says she can close them, but they will keep opening while whatever is in him keeps building.
+**Continuity state:** B+310, afternoon into night. The house waits. Yuka doesn't leave the bed. People come in and out: food nobody eats, Ori at Mau's feet, Gojo in the doorway, Makima at the end of the hall, not coming in. For some hours the house believes there is only waiting left. At night, Mau convulses. The bleeds reopen behind his eyes. Rimuru relays Ciel's updates. Noise holds what it can from inside, and the load keeps building. Shoko says she can close them, but they will keep opening while whatever is in him keeps building.
 
 *When: From early afternoon, when Shoko says he's stable, into the night. Yuka will remember later that she never once looked at the clock.*
 
@@ -119,25 +119,21 @@ It's worse than the first time.
 
 Shoko gets there in seconds. Yuta right behind her. Rimuru. The room fills with people and light and voices, and Yuka has her arms around Mau's head to keep it from hitting the headboard, and he's shaking so hard the whole bed is moving, and there's blood coming from his nose again. From the corners of his eyes.
 
-“The bleeds,” Ciel says. “They're opening. Behind the eyes again, both sides, and—” ᶜ
+“Ciel says they're opening again,” Rimuru tells Shoko. “Both eyes, behind—” ᴿ
 
 “I've got them,” Shoko says. ˢʰ
 
-“Shoko, they're opening *faster than*—” ᶜ
+“She says they're opening *faster than*—” ᴿ
 
 “I know!” ˢʰ
 
 Her hands are on him. Yuta's hands are on him. Yuka can feel their energy going into him, a flood of it, and she can feel it not being enough. Every time they close something, something else opens. It's like trying to hold water in your cupped hands.
 
-“Noise,” Ciel says. ᶜ
+Rimuru goes still for a moment, listening. He looks at Mau before he speaks again.
 
-“I'm holding it.” ᴺ
+“Noise is holding what it can. There's still more coming.” ᴿ
 
-“You're not holding it.” ᶜ
-
-“I'm holding *what I can*.” ᴺ
-
-There's something in Noise's voice that makes Yuka's whole body go cold.
+Yuka has both arms around Mau's head. She can't imagine being close enough to what hurts him to hold it back and still having to ask someone else to help.
 
 * * *
 
@@ -155,15 +151,13 @@ Just for a moment. His body goes slack all at once, as if a rope's been cut, and
 
 She finally looks up. Her face is grey with exhaustion. There's blood on her hands to the wrists.
 
-“It's still building,” she says. “Whatever's in him. Noise said it stopped; it hasn't stopped. It's slower, but it's building, and every time it builds far enough, something gives. I can fix what gives. I can't stop it giving.” ˢʰ
+“The domain stopped. This is still building,” she says. “It's slower, but every time it builds far enough, something gives. I can fix what gives. I can't stop it giving.” ˢʰ
 
-“Noise?” Rimuru says. ᴿ
+“Can we get it out?” Rimuru asks. ᴿ
 
-“She's right,” Noise says. ᴺ
+He waits for Ciel to put the question to Noise. Yuka sees the answer reach him before he says it. His eyes go to her hands, where she's still keeping Mau's head from moving.
 
-“Can you get it *out*?” ᴿ
-
-“There's nowhere for it to go,” Noise says. “It's his. It's part of him. If I take it out of him, I take him with it.” ᴺ
+“Noise says it's part of him,” Rimuru tells her. “We'd take him with it.” ᴿ
 
 Nobody says anything.
 

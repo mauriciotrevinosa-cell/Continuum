@@ -5,228 +5,186 @@
 **Volume:** 78
 **Reading order:** 34
 **Source episode:** S13E37
-**Continuity state:** B+326. Yuka asks Mau to train with her, just the two of them, in the yard. He teaches her the shoulder roll Jin-Woo taught him; she teaches him nothing and says so. They spar with blunt trainers. He keeps holding back; she notices and gets angry in a playful way and makes him promise to stop "being nice". She lands one hit fair, then wins the last round by tickling him. Shoko watches from the porch and pretends to read. After supper they wash up and sit on the porch with their hair still wet.
+**Continuity state:** B+326. Yuka asks Mau for a one-on-one session in the yard to build on the coordination they already have. They spar unarmed, with no techniques or reinforcement. Mau limits force and speed while giving Yuka honest responses and changing his counters. They begin to recognise the choices each makes under pressure. Yuka tests how long she can keep adapting before fatigue makes her repeat herself. Shoko watches from the porch. Mau and Yuka agree to train again.
 
-*When: The day after the gate. Yuka says she wants to be able to do more than nothing next time.*
+*When: The day after they bring the Pillow home from the quarry.*
 
-“Train with me,” Yuka says. ʸ
+The Pillow is lying by the common-room fire when Yuka comes looking for Mau. There is room for Ori between its front legs. It keeps putting its nose on the page of the book she's trying to show it. Mau has watched her turn the same page three times. She hasn't asked him for help, so he's leaving her to settle it herself.
 
-She says it in the doorway of their room, already dressed for it: the old clothes she wears in the yard, her hair tied back hard. She has two of the blunt trainers in her hand, the ones he uses with Jin-Woo. She must have taken them from the rack by the porch.
+“Come out in the yard with me,” Yuka says. ʸ
 
-“Now?” ᴹ
+She has her hair tied back, wearing what she wears to train with Maki. Both her hands are empty.
 
-“Now.” ʸ
+“Now?” he asks. ᴹ
 
-“Just us?” ᴹ
+“If you're free.” ʸ
 
-“Just us. I want you to teach me something.” ʸ
+He looks at Ori. She's worked out she can read to the Pillow without showing it the pictures first. She has a hand on its nose while she reads, and neither of them appears to need him for the foreseeable future.
 
-He sits up in bed.
-
-“Teach you what?” ᴹ
-
-“I don't know. Something Jin-Woo taught you. Something I don't know yet.” She holds out one of the trainers, handle first. “I told you I'm coming with you from now on. I'm not coming to be *useless*.” ʸ
+“I'm free.” ᴹ
 
 * * *
 
-He teaches her the shoulder roll.
+Yuka walks past the weapons rack. Mau follows her into the yard and leaves his shoes next to hers at the edge of the boards. The packed dirt still holds the cool from overnight.
 
-It's the first thing Jin-Woo taught him at the training posts: how to turn the shoulder away from a blow instead of meeting it, so the force slides past and leaves you facing the right way. It took Mau days. His bad fingers and the old breaks in his arm kept getting in the way, and Jin-Woo kept correcting him, patiently, again and again, until one morning it just worked.
+“You said you'd come even if you did nothing,” he says. ᴹ
 
-It takes Yuka about twenty minutes.
+“I meant it. Then something came out of the tower and you had to keep your hands in your pockets so I could do it.” ʸ
 
-He comes at her slowly with the trainer, the way Jin-Woo came at him. She meets it the first time, flat, and it pushes her back a step. The second time she tries to turn and turns the wrong way. The third time she gets it halfway. And the fourth time she rolls her shoulder exactly the way it's supposed to go, and the trainer slides past her collarbone, and she's facing him, and her own trainer is resting very gently against his ribs.
+“I made it all the way to the next tower with them in there.” ᴹ
 
-He looks down at it.
+“I'm very proud of you.” She pushes her sleeves back above her wrists. “I know we can fight together. I want to know what you'd do if I were the one coming at you. And how long I can keep up if you change it on me.” ʸ
 
-“That took me three days,” he says. ᴹ
+“Like Yuta with Maki?” ᴹ
 
-“I'm very talented,” Yuka says. ʸ
+“Exactly. She'll let him try the same thing twice. The third time he finds out she's been waiting for him to try it again.” ʸ
 
-“You are,” he says, and means it, and she goes pink and pushes the trainer into his ribs a little harder. ᴹ
+Mau remembers the last time he'd watched them do that. Yuta had come up off the dirt wanting to know how early she'd seen it. Maki had said back on the porch, when he put his shoes down on the side he preferred to turn toward. She had made him try it again anyway, and on the next pass she was the one who had to get her hand down before she fell.
 
-* * *
+Mau puts the ring out of the way in his pocket. “Hands only. No techniques. No reinforcement.” ᴹ
 
-“Now you teach *me* something,” he says. ᴹ
+“And you don't get to throw me over the porch.” ʸ
 
-“I don't know anything you don't.” ʸ
+“I was going to suggest that one too.” ᴹ
 
-“You know your technique.” ᴹ
+Jin-Woo can make him work for every inch with neither of them using anything but their bodies. Maki can set her feet in the dirt and give him the same problem. He knows roughly how much weight he has to put behind a move to get either of them to give ground. He'd hurt Yuka if he used that much here. He takes the first step toward her at a speed she can follow and stops where she can reach him if she comes another step.
 
-“You can't use my technique.” ʸ
-
-“Then teach me how you think about it.” ᴹ
-
-She considers this. She actually considers it, standing in the yard with the trainer resting on her shoulder, frowning.
-
-“No,” she says. ʸ
-
-“No?” ᴹ
-
-“No. That's mine. You have enough things. You have *everyone's* things. I'm keeping this one.” ʸ
-
-He laughs. He can't argue with that.
+Yuka comes another step.
 
 * * *
 
-They spar.
+She reaches high with her left hand. Mau moves outside it and feels the other hand brush his ribs. It's just fabric. Before he can get an arm between hers and his side, she's already backed out.
 
-He sets the rules. Trainers only. No techniques. No Authority. No Sky. Just bodies and blunt wood, the way he does it with Jin-Woo in the mornings.
+“Would that have gone through?” she asks. ʸ
 
-She's good. He knew she would be. She's fast, much faster than he expects every time, and he recognises Maki's work with her the moment she moves low and close, inside his reach, using the fact that she's smaller than him. The first time she gets past his trainer and taps him on the hip he's genuinely surprised.
+“You got my shirt. Keep going.” ᴹ
 
-He's holding back.
+She comes in the same way a second time. This time he turns toward the first hand and makes her take the longer way round. He can see exactly where her next step has to be. He starts to close that space and then takes some of the movement back, leaving her a way to get out.
 
-He knows he is. He doesn't mean to. He just can't make himself come at her the way he comes at Jin-Woo. Every time his trainer is going toward her his arm slows down a little on its own, softens, pulls the blow. Every time she's open he sees it and doesn't take it.
+She stops. Her eyes go to his foot. It's still a little turned in where he'd meant to put it.
 
-She notices on the third round.
+“Where were you going to go?” she asks. ʸ
 
-* * *
+“Across.” ᴹ
 
-“*Stop that*,” she says. ʸ
+“Then go across. Just leave the porch where it is.” ʸ
 
-“Stop what?” ᴹ
+He grins before he can help it. She does too, for just long enough that he thinks she's going to let him get his feet set. She doesn't. He has to take the step as she comes in. He makes it all the way across this time. Yuka starts the same turn and finds his shoulder already there. She catches her balance with a hand on his chest, and he stops before he puts any more weight against her.
 
-“Being *nice*.” ʸ
+“That's different,” she says. ʸ
 
-She's standing in front of him breathing hard, her hair coming loose, her cheeks flushed, the trainer pointed at his chest like an accusation.
+“Same speed.” ᴹ
 
-“You had me,” she says. “Just now. My left side was open. You saw it. I saw you see it. And you *didn't*.” ʸ
+“I know. You actually went where you meant to.” ʸ
 
-“I didn't want to hit you.” ᴹ
+He backs up and gives her the space again. She rubs the dirt into a little crescent with her toe, right where she'd tried to turn.
 
-“It's a *stick*, Mau. It's a blunt stick. Maki hits me harder than that in the yard and tells me I left an opening.” ʸ
+“You close a way out before you touch anybody,” she says. ʸ
 
-“I'm not Maki.” ᴹ
+“Sometimes.” ᴹ
 
-“*No*,” she says. “You're worse. You're being *careful*.” ʸ
+“You did it yesterday. To the thing reaching for me. You could've stopped it anywhere. You put its arm where it wouldn't be in my way.” ʸ
 
-He doesn't have an answer to that.
+He hadn't thought of it that way. He remembers her stepping in while he was reaching, putting herself exactly in the space he'd left. She'd seen him do it then, too.
 
-She comes closer. She pokes him in the chest with the end of the trainer. Not hard.
-
-“I told you,” she says. “I'm coming with you. Into gates. Into places. If you're going to be careful with me in the yard, you're going to be careful with me in there, and if you're careful with me in there you're going to be watching me instead of the thing that's coming at you, and then you're going to get hurt *because* of me, and then what's the point of me coming at all?” ʸ
-
-He stares at her.
-
-He hadn't thought of that. He should have. It's exactly the kind of thing Jin-Woo would say.
-
-“Promise,” Yuka says. ʸ
-
-“Promise what?” ᴹ
-
-“That you'll stop being nice. In here. In the yard. When we train. You come at me properly.” ʸ
-
-He looks at her for a long moment. At her flushed face and her loose hair and the trainer pointed at his heart.
-
-“I promise,” he says. ᴹ
-
-“*Properly*.” ʸ
-
-“Properly.” ᴹ
-
-She lowers the trainer, satisfied.
-
-“Good,” she says. ʸ
+“Do it again,” she says. ʸ
 
 * * *
 
-He comes at her properly.
+He does. Or that's what she thinks he's going to do.
 
-Not as hard as he comes at Jin-Woo. He can't do that; he's not sure he ever will. But properly. Fast. When she's open, he takes it. When she leaves her left side, his trainer finds it, and taps it, and she says “*ow*” and then “*good*” in the same breath.
+When she sees his foot turn in, she starts to go the other way. Mau lets the foot finish turning and leaves the rest of himself exactly where it is. Yuka comes up short. There's a little puff of dirt at her heel. She has to take an extra step before she can look at him without tipping forward.
 
-She gets better. Right there, in front of him, round by round. She stops leaving her left side open. She starts using the shoulder roll, the one he taught her an hour ago, and it works, and her face lights up every time it works.
+“That's mean,” she says. ʸ
 
-And on the seventh round, she gets him.
+“You asked me to change it.” ᴹ
 
-Fair. Clean. She rolls past his trainer and comes in under his arm and lays her trainer flat across his ribs, exactly where Jin-Woo got him twice last week, and holds it there.
+“I know. Do it again.” ʸ
 
-He looks down at it.
+After that he changes one thing at a time. The next time she reaches high, he moves his hands and keeps his feet where they are. Then he gives her the space she wanted on the first pass and lets her see that he'll be there when she tries to leave it. She finds another way round him, much closer, her forearm against his. For a moment she stays close enough that he has to turn his head to see what she's doing.
 
-“That was fair,” he says. ᴹ
+The next time her left hand comes up, he doesn't move.
 
-“That was *fair*,” she agrees, and the look on her face is worth every bruise on his body. ʸ
+Yuka brings it down again without trying to come the rest of the way in. They look at each other.
 
-* * *
+“You waited,” she says. ʸ
 
-The eighth round, she cheats.
+“You were looking at my shoulder. When you mean to come through, you look past it first.” ᴹ
 
-He knows she's going to. He can see it in her eyes. He just doesn't know how.
+She doesn't answer. She backs out far enough to breathe while she's thinking. He can see that she's trying to decide whether she actually does it. He isn't sure himself until she comes straight at him on the next pass with her eyes on his shoulder the whole way.
 
-She comes at him low, and he gets ready for the roll, and she doesn't roll. She drops the trainer. Just lets it fall. And while he's watching the trainer fall, trying to work out what she's doing, she gets both hands under his arms and *tickles* him.
+He waits for her to change her mind.
 
-He has no defence against that.
+She doesn't. Her palm lands flat against his side. Mau feels the touch through his shirt, right where she'd brushed it the first time. She steps away before he can close the space.
 
-He's never had a defence against that. Nobody's ever tried it in a fight. He folds in half with a sound he's never made before and drops his trainer and she keeps going, merciless, both hands, until he's on the ground in the middle of the yard laughing so hard he can't breathe and she's sitting on his chest with her hands in the air like a champion.
+“Did you see where I was looking?” she asks. ʸ
 
-“I win,” she announces. ʸ
+“Yes.” ᴹ
 
-“That's—” He can't breathe. “That's *cheating*—” ᴹ
-
-“There's nothing in the rules about tickling.” ʸ
-
-“There's nothing in the rules because *nobody would do that*—” ᴹ
-
-“I would,” Yuka says. “I did. I win.” ʸ
-
-He lies on his back in the dirt and looks up at her, sitting on him, her hair half down, flushed and grinning and completely pleased with herself, the only thing in the whole grey yard with colour.
-
-“You win,” he says. ᴹ
+“Good.” ʸ
 
 * * *
 
-On the porch, Shoko turns a page of her book.
+As the yard warms, Yuka lets a little more time pass between attempts. Mau sees her take the long way back to her mark so she can finish a breath before she turns. He could meet her in the middle and make her go again. He stays where he is until she looks up and gives him a nod.
 
-She's been there the whole time. She came out after the first round with a cup of tea and a book and sat down in the chair at the end of the porch, and she's been reading the whole time, very intently, turning pages at regular intervals.
+She makes it through the first change. On the second he gives her a little more room, and she takes it without looking at his feet. It puts her right back in the place where he'd stopped her earlier. He closes the space just far enough to show her. This time she doesn't need him to say anything. She sees it and puts a hand up herself.
 
-“How's the book?” Mau calls from the ground. ᴹ
+“Wait. I knew what you were doing on that one.” ʸ
 
-“Very good,” Shoko says, without looking up. ˢʰ
+“You took the opening anyway.” ᴹ
+
+“I was tired, and it was the one I knew what to do with.” She takes another breath. “I think that's enough at this speed.” ʸ
+
+He steps back. There are two cups on the porch rail that weren't there when they came out. Shoko is reading in the chair at the end of the steps. She puts a finger in her book when she sees them looking, lets the page go and points at the cups instead.
+
+Yuka takes one of them. She gets half the water down before she lowers it and looks back at Mau.
+
+“I want another go. Slower,” she says. “And this time you come in first.” ʸ
+
+He puts his cup down.
+
+This time he lets her see his foot turn. She stays in the middle for one beat longer than she has all morning. He's sure she's waiting to see which way he'll go. Then she slips past his lead foot and her forearm brushes his on the way through. He turns toward the gap she's used before he thinks to try to stop her. She leaves him a pace to her left, enough room for both of them to bring their hands up without touching. For two steps the whole thing is easy. They're facing the same way before either of them has said a word.
+
+Yuka looks across at him. “That's what I want. In a fight.” ʸ
+
+He knows what she means. They've found themselves there before with something coming at them, for one move or two, when she saw the opening as soon as he did. He'd always been glad of it after. He wants to get to the point where he expects her to be there.
+
+“Again?” he asks. ᴹ
+
+“Tomorrow. I want to remember that one.” ʸ
+
+* * *
+
+Shoko moves the cups onto the top step so they can sit without reaching behind themselves. Yuka sits close enough for her knee to touch his. There is dirt halfway up one sleeve and a mark on her forearm where it met his. She follows him looking at it and turns her arm over for him.
+
+“I'm fine,” she says. “Is your hand all right?” ʸ
+
+He flexes the fingers he'd been careful with all morning. They feel about the way they did when he came out.
+
+“Yeah. My legs are going to complain when I get up.” ᴹ
+
+She takes a drink. “Mine have already filed something.” ʸ
+
+On the porch, Shoko turns a page, which brings him back to something he's been wondering.
+
+“How's the book?” he asks. ᴹ
+
+“Very good,” Shoko says. ˢʰ
 
 “What's it about?” ᴹ
 
-Shoko turns another page.
+“I read the first two pages. Then Yuka got round you and I lost my place.” ˢʰ
 
-“I have no idea,” she says. “I've been watching you two for an hour.” ˢʰ
-
-Yuka laughs so hard she falls off him.
+Yuka gives Mau a little look over her cup. He can't pretend he missed it. The first time only his shirt. The next time her whole palm, and he'd known she was coming and still let his eyes tell him the wrong thing. He wants to tell her exactly which part she got him with. He waits until she finishes her water, and then she asks him first.
 
 * * *
 
-After supper they've both still got yard dirt on their knees.
+After supper, they come out with wet hair and clean sleeves. Yuka sits beside him on the steps in the place she picked in the morning. Her shoulder finds his without either of them looking. The dirt is full of their footprints until the light goes far enough that he can't see which ones stop and which ones turn.
 
-They take turns with the tub in the washroom, one after the other, hot water and the big bucket and the rough soap that Shuna makes. He goes first and she bangs on the door twice to tell him to hurry up. She goes second and takes so long he bangs on the door once, and she tells him through it that a champion takes as long as she likes.
+“Same tomorrow?” he asks. ᴹ
 
-Then the porch.
+“Same rules. You can change the rest.” ʸ
 
-They sit on the steps with their hair wet, in clean clothes, in the cooling evening, with a cup of Shuna's hot chocolate each. Her shoulder against his. The orchard going grey and then dark in front of them.
+“So can you.” ᴹ
 
-“Tomorrow,” she says. ʸ
-
-“Tomorrow what?” ᴹ
-
-“Train again.” ʸ
-
-“My ribs hurt.” ᴹ
-
-“That's because I'm very good.” ʸ
-
-“You tickled me.” ᴹ
-
-“That's because I'm very *smart*.” ʸ
-
-He laughs. She leans on him harder.
-
-“Properly,” she reminds him. ʸ
-
-“Properly,” he agrees. ᴹ
-
-“And no tickling,” he adds. ᴹ
-
-She doesn't answer.
-
-He turns to look at her. She's drinking her hot chocolate and looking out at the orchard with an expression of perfect innocence.
-
-“*Yuka*.” ᴹ
-
-“I didn't say anything,” she says. ʸ
+She leans into him the little bit farther that means she's pleased. He recognises that one without needing to look at her feet.

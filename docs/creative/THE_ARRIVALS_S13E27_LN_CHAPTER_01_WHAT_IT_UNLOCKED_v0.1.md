@@ -5,7 +5,7 @@
 **Volume:** 78
 **Reading order:** 11
 **Source episode:** S13E27
-**Continuity state:** B+309, evening. Mau wakes and eats everything Shuna puts in front of him. The loot goes to the table: frost cores (Mai), the unmelting spear-shard (Senku), frost-iron plates (Fern registers). Fern adds a fourth mark to the register. Ramiris and Noise read the Gate Authority: a standing permission over that one gate, deferred until chosen. The house argues about what to make it; Yuka gets the final word on the first setting. Mau tells the Pillow story at dinner.
+**Continuity state:** B+309, evening. Mau wakes and eats everything Shuna puts in front of him. The loot goes to the table: frost cores (Mai), the unmelting spear-shard (Senku), frost-iron plates (Fern registers). Fern adds a fourth mark to the register. Ramiris and Noise read the Gate Authority: a standing permission over the house's weekly gate alone. Its interior continues rotating weekly. The house discusses settings for its gate; Yuka gets the final word on the first setting. Mau tells the Pillow story at dinner.
 
 *When: Mau sleeps until the light is long across the floor. When he wakes up, Yuka is asleep on his shoulder, and his legs have gone numb under her.*
 
@@ -101,13 +101,13 @@ Ramiris arrives after dinner, because Rimuru sent word, and she comes in through
 
 “Show me,” she says. ᴿᵃᵐ
 
-He doesn't know how to show her. It isn't a thing. It's a box of light that only he can see, and a word the system has never used before, and a permission that's sitting somewhere at the edge of him, waiting.
+He doesn't know how to show her. It's a box of light that only he can see. He's seen boxes address him as Operator before. He has never had one give him a say in a gate the house already uses.
 
-So he tells her. All of it. *Operator identity confirmed. System improvements must be completed by the operator. Gate Authority (this gate). Adjustment deferred.* Ramiris listens with her small face screwed up in concentration, hovering over the table at the level of his eyes, and when he's done she doesn't say anything for a long moment.
+So he tells her. All of it. *Operator identity confirmed. System improvements must be completed by the operator. Scope: household weekly gate only. Apply at the household gate entrance.* Ramiris listens with her small face screwed up in concentration, hovering over the table at the level of his eyes, and when he's done she doesn't say anything for a long moment.
 
 “Noise,” she says finally. “What can you see?” ᴿᵃᵐ
 
-Noise answers through Mau, the way it does when someone outside asks it directly. “A permission,” it says. “Attached to him. Attached to one gate. It's not doing anything. It's waiting for him to tell it what to do.” ᴺ
+Noise answers through Mau, the way it does when someone outside asks it directly. “A permission,” it says. “Attached to him and the entrance here. The one you put up a new map for every week. It's waiting for him to tell it what to do.” ᴺ
 
 “Can you see what it *can* do?” ᴿᵃᵐ
 
@@ -115,9 +115,9 @@ Noise answers through Mau, the way it does when someone outside asks it directly
 
 They talk for a long time after that. Ramiris asks questions and Noise answers them, and sometimes Ciel joins in with something she's noticed, and sometimes Mau has to translate when Noise's answer is too strange for anyone else to follow. He doesn't understand all of it. He doesn't try to. He sits with Yuka leaning on his good side and listens to the shape of it emerge.
 
-The gate is his, in a narrow way. Not owned. *Operated.* He can set how hard it is, roughly. He can set what it drops, roughly, within whatever the gate is willing to give. He can't make it into something it isn't. He can't move it. He can't give the permission to anyone else.
+The house keeps opening its gate to a different place each week. The permission follows the entrance, so a difficulty setting can stay in place while what's inside changes. Mau can set the difficulty and favor drops the gate is able to give. He can apply the choices the house makes, and he has to be there to do it himself.
 
-“You'd have to go in to change it,” Ramiris says. “Or stand at the entrance, at least. It's not something you can do from here.” ᴿᵃᵐ
+“Stand at our entrance,” Ramiris says. “The quarry is outside this permission. The gate there was where you earned it.” ᴿᵃᵐ
 
 “That's fine.” ᴹ
 
@@ -167,7 +167,7 @@ Then Yuka says, “He should decide,” ʸ and everybody looks at him.
 
 “It's yours.” ʸ
 
-“It's the house's. I just went and got it.” ᴹ
+“The gate was already ours. I went and got a way to set it,” he says. ᴹ
 
 He looks at her.
 

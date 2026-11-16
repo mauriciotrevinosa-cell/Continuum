@@ -5,7 +5,7 @@
 **Volume:** 78
 **Reading order:** 33
 **Source episode:** S13E36
-**Continuity state:** B+325. Mau goes to the quarry to apply the gate setting Yuka chose (V78 #11). Yuka comes. She tells him that from now on she goes with him, even if she does nothing, so that if he gets stuck again he isn't alone. Mau says he has Noise; Noise is proud. Ciel says she's sometimes there too. Mau: "Yes. Sometimes." At the entrance Mau applies the setting; the gate accepts it and offers an exit while the operator is inside. Inside, the cold is gentler, the long things fewer; Yuka fights one, Mau does almost nothing. They find the warm place her setting made: a hollow at the foot of the first tower, heat coming up through the stone. The Pillow is lying beside it. It lets Yuka put her hands in its fur. They sit against it for a while (a few hours inside, a few seconds outside) and go home.
+**Continuity state:** B+325. Mau and Yuka apply her setting (V78 #11) at the house's weekly gate. It keeps its weekly rotation, gains the selected difficulty and reward settings and a warm place to rest. The system confirms the return stays available with the Operator inside that gate. They walk separately to the unchanged quarry gate to visit the Pillow. At the quarry, Yuka says she will go with Mau even if she does nothing, so that if he gets stuck again he isn't alone. Mau says he has Noise; Ciel says she's sometimes there too. The quarry route remains open after his earlier clear. Yuka fights the creatures there, then asks Mau to light the fire in a sheltered hollow. The Pillow comes to lie by it and lets Yuka put her hands in its fur. They spend a few hours inside and return a few seconds after entering.
 
 *When: The morning after the movie. Mau mentions at breakfast that he should go and set the gate. Yuka puts down her spoon.*
 
@@ -13,7 +13,7 @@
 
 He looks at her across the table.
 
-“It's just the entrance,” he says. “Ramiris says I have to stand at it. I stand there, I tell it what you picked, I come home.” ᴹ
+“It's just our entrance,” he says. “Ramiris says I have to stand at it. I stand there, I tell it what you picked, I come back.” ᴹ
 
 “I'm coming.” ʸ
 
@@ -25,7 +25,35 @@ She picks her spoon back up. Conversation over. Across the table, Maki raises he
 
 * * *
 
-She doesn't say why until they're at the quarry.
+At the house gate, the week's sketch is already up on the board. Mau stops where he can see both it and the light in the opening. The permission is still there, at the edge of him, exactly where he left it on the way out of the quarry.
+
+> **[Gate Authority: household weekly gate.]**
+>
+> **[Confirm adjustment?]**
+
+He stands at the threshold with Yuka beside him and holds what she said at the table: *Hard enough that I have to try. Not so hard anybody comes home without skin on their hand. Cores for Mai. And something warm in it. Somewhere. A place to rest.*
+
+> **[Adjustment accepted. Weekly rotation remains active.]**
+>
+> **[Operator present: exit available at will.]**
+
+“Can we see it?” Yuka asks. ʸ
+
+They only go as far as the first bend. There's a little alcove there, dry and warm enough that Yuka takes her hands out of her sleeves as she steps into it. She presses her palm to the stone.
+
+“I made that,” she says quietly. “I said it, and it's *there*.” ʸ
+
+“You picked a good place to stop,” he says. ᴹ
+
+She stays long enough to warm both hands. On the way out, Mau holds back a step to let her go through first. The opening stays there for him, and a moment later he's outside with her. He circles the rest spot on the sketch so Fern can check it later.
+
+“I thought I'd go see if the quarry's still open,” he says. “I wanted to see the Pillow.” ᴹ
+
+Yuka takes his hand. “I wanted to see where you were.” ʸ
+
+* * *
+
+She doesn't tell him the rest of it until they're at the quarry.
 
 They walk there. Neither of them suggests Kaisel. It's a long walk, along the river and up through the fields, and the morning is cool and bright, and she holds his hand the whole way and talks about nothing: Mai's new dress pattern, whether Ori is old enough for a knife of her own, the ship in the movie, which she has decided was a metaphor for something, though she won't say what.
 
@@ -125,27 +153,15 @@ Yuka is laughing now, quietly, with her hand over her mouth. She looks at Mau an
 
 “Four and a little,” Mau says. ᴹ
 
-“Four and a little.” Yuka takes his hand again. “Now go and tell that thing what I picked.” ʸ
+“Four and a little.” Yuka takes his hand again. “Will you show me where you met it?” ʸ
 
 * * *
 
 He stands in front of the gate.
 
-He reaches for the permission. It's still there, at the edge of him, exactly where he left it when he walked out of here. Waiting. A box of light opens in front of his eyes.
+He gets close enough for the eyes to read the way through. The return opened when the warden fell. It's still open now. He lets Ciel check it too before he says anything.
 
-> **[Gate Authority: adjust now?]**
-
-He tells it. He doesn't know how; he doesn't use words. He just holds what she said, in the kitchen, at the table full of arguing people: *Hard enough that I have to try. Not so hard anybody comes home without skin on their hand. Cores for Mai. And something warm in it. Somewhere. A place to rest.*
-
-The box goes away. Another comes.
-
-> **[Adjustment accepted.]**
->
-> **[Operator present: exit available at will.]**
-
-He reads it twice.
-
-“It'll let us out,” he says. “Whenever we want. As long as I'm in there.” ᴹ
+“We can turn straight round,” he says. “I cleared the trial. The way back is still there.” ᴹ
 
 Yuka looks at the gate. Then at him. Then back at the gate.
 
@@ -161,9 +177,7 @@ She's already walking toward it.
 
 * * *
 
-It's still cold inside.
-
-But it's a different cold. Not the bone-deep, breath-stealing cold of the first time; a winter cold, a cold you can stand in. The plain is still flat and grey and wide, the ceiling still flat and sunless. In the distance, the broken towers. Yuka stands at the edge with her breath clouding in front of her and looks at all of it with enormous eyes.
+The cold takes his breath as soon as he steps in. He'd remembered it as a thing he was carrying by the end. He'd forgotten how quickly it could get at his ears. The plain is still flat and grey and wide, the ceiling still flat and sunless. In the distance, the broken towers. Yuka stands at the edge with her breath clouding in front of her and looks at all of it with enormous eyes.
 
 “It's red,” she says. ʸ
 
@@ -185,9 +199,7 @@ He laughs, and his breath clouds, and hers does, and they walk out onto the plai
 
 * * *
 
-The long things are fewer.
-
-Three of them come out of the first tower instead of nine. They're slower than he remembers, or he's faster. They come toward the two of them in that loose jointed rush, and he steps forward, and Yuka says, “*Wait*.” ʸ
+Three long things come out of the first tower. He'd left bodies in every room of that tower the first time around. These three come toward them with that same loose jointed rush, and he steps forward, and Yuka says, “*Wait*.” ʸ
 
 He waits.
 
@@ -223,27 +235,13 @@ He does nothing for the next tower too. It's very hard.
 
 * * *
 
-The warm place is at the foot of the first tower.
+Yuka finds shelter in a shallow hollow near the base of the broken tower. It's lined with smooth stone, and once she steps down into it the wind goes straight over her head. She holds out a hand to Mau from the bottom.
 
-They find it by accident. Yuka's walking round the base of the tower looking for more long things to not let him fight, and she stops, and holds her hands out in front of her, and says, “*Oh*.” ʸ
+“Can you make the fire it liked?” she asks. ʸ
 
-He comes to look.
+He can. He uses the spell Frieren taught him and leaves it between two stones, where the warmth spreads slowly enough to get into the rock. Yuka settles beside it and holds her palms out. After a while she takes her hands away and rests one on the stone.
 
-There's a hollow in the ground. Shallow, wide, like a bowl scooped out of the frozen earth, lined with smooth stone. And coming up out of the stone, through the cold air, heat. He can feel it on his face. Soft, steady, like the warmth from a hearth that's been banked for the night.
-
-It wasn't here before. He walked past this tower three weeks ago, in here, and there was nothing.
-
-“Something warm in it,” Yuka says. ʸ
-
-Her voice is very quiet.
-
-“A place to rest,” Mau says. ᴹ
-
-She looks at him. Her eyes are shining.
-
-“I made that,” she says. “I said it, and it's *there*.” ʸ
-
-“You made it,” he agrees. ᴹ
+“I see why it wanted to follow you,” she says. ʸ
 
 And then something huge and shaggy comes round the side of the tower.
 
@@ -341,9 +339,9 @@ Yuka stops at the lip of the quarry and looks back.
 
 “With Ori,” he agrees. ᴹ
 
-“And Mai. For the cores.” ʸ
+“And we'll take Mai through ours when she's ready. For the cores.” ʸ
 
-“And Mai.” ᴹ
+“We can show her where to sit.” ᴹ
 
 “And next time—” ʸ
 

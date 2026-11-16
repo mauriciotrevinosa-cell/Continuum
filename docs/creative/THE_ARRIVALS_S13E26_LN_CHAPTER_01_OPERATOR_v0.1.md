@@ -5,7 +5,7 @@
 **Volume:** 78
 **Reading order:** 9
 **Source episode:** S13E26
-**Continuity state:** Red gate, local day 21, then outside. Mau wakes on the stone after a short faint. The system speaks: it confirms Mau as the operator and states that system improvements must be completed by the operator. The clear reward grants control over this gate's future difficulty and loot. Loot: frost cores from the warden's armour and the long things, a shard of the spear-ice that will not melt, plates of the frosted armour. He eats the chocolate. The gate opens. Total inside ≈ 21 days; outside ≈ 14–15 minutes. He walks out into the quarry and goes home.
+**Continuity state:** Red gate, local day 21, then outside. Mau wakes on the stone after a short faint. He recognizes his existing Operator designation. The system confirms that improvements must be completed by the Operator. The clear reward allows difficulty and reward adjustments exclusively at the house's weekly gate, with settings retained across weekly rotations. Loot: frost cores from the warden's armour and the long things, a shard of the spear-ice that will not melt, plates of the frosted armour. He eats the chocolate. The gate opens. Total inside ≈ 21 days; outside ≈ 14–15 minutes. He walks out into the quarry and goes home.
 
 *When: The end of the twenty-first day inside. Outside, Fern has looked at the clock twice.*
 
@@ -37,11 +37,11 @@ The box changes.
 
 > **[Operator identity confirmed.]**
 
-He frowns at it.
+He remembers *Operator only* over the entrance to Kamish's floor. The system knew exactly who to leave in the room. He waits to see what it wants him to do this time.
 
 > **[Notice: System improvements must be completed by the operator.]**
 
-“What does that mean?” he asks. ᴹ
+“What improvement?” he asks. ᴹ
 
 “I don't know,” Noise says. ᴺ
 
@@ -51,23 +51,21 @@ That's unusual enough that he turns his head to look at nothing, the way he does
 
 “I can read the words,” Noise says. “I can't read what's behind them. It's not saying it to me. It's saying it to you.” ᴺ
 
-“Operator,” Mau says slowly. ᴹ
+The box changes again.
 
-The system has never been interested in what to call him. It tells him what he got and what it cost. It has never used that word.
-
-The box changes again before he can think about it any further.
-
-> **[Clear reward: Gate Authority (this gate).]**
+> **[Clear reward: Gate Authority.]**
 >
-> **[The operator may adjust the future difficulty and reward tier of this gate.]**
+> **[Scope: household weekly gate only.]**
+>
+> **[The Operator may adjust its difficulty and reward tier. Settings carry over between weekly rotations.]**
 
 And underneath, smaller:
 
-> **[Adjustment available on exit.]**
+> **[Apply at the household gate entrance.]**
 
 He reads it three times.
 
-“I can change it,” he says. “The gate. I can make it harder. Or easier.” ᴹ
+“The one at home,” he says. “It'll still change every week. I can set how hard we want it to be.” ᴹ
 
 “And what it drops,” Ciel says. “That's what it says.” ᶜ
 
@@ -75,7 +73,7 @@ He reads it three times.
 
 “Apparently it can.” ᶜ
 
-He lies there on the cold black stone, with the broken armour of the warden scattered around him and the last of the standing stones lying in pieces at the edge of the ring, and thinks about a gate that nobody wanted, that he could make into anything. A training ground. A place for Yuka to practise where the walls wouldn't fall on her. Somewhere Maki and Yuta could go together. Somewhere that drops what Mai needs, or what Senku needs, or what the house needs.
+He lies there on the cold black stone, with the broken armour of the warden scattered around him and the last of the standing stones lying in pieces at the edge of the ring, and thinks about the board they read each week to see what opened at home. Yuka could pick a week when she wanted to push herself and Maki and Yuta could join her. Or the house could choose something gentle that drops what Mai needs, or what Senku needs.
 
 “Ramiris will lose her mind,” he says. ᴹ
 
@@ -141,13 +139,11 @@ A box hangs beside it.
 
 > **[Exit available.]**
 >
-> **[Gate Authority: adjust now?]**
+> **[Household gate adjustment pending.]**
 
 He looks at it for a long moment.
 
-“Not now,” he says. ᴹ
-
-> **[Adjustment deferred. Gate Authority retained.]**
+“When I get home,” he says. ᴹ
 
 “Good,” Ciel says. “Ramiris will want to look at that first. And Noise.” ᶜ
 

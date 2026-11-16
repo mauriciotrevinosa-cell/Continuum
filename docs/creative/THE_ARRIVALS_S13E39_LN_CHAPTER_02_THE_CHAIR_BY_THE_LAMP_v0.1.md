@@ -93,7 +93,11 @@ When she takes her hand away from his face, he kisses her just beneath her colla
 
 “Here?” She puts a finger to the place his cheek was. ʸ
 
-He kisses her where she's pointing. His hand comes around her ribs, warm through the cotton. She feels his thumb move when she takes a breath, and the slight pull of her shirt where his fingers have closed on it. He kisses her again, a little lower this time. Her hand comes down from his hair to his shoulder. She could have used it to bring him back up. Instead she curls her fingers into the seam and lets him feel the way her breath changes.
+He kisses her where she's pointing. His hand comes around her ribs and slides up along the curve of her breast, slowly enough that she can feel the warmth of his palm through the cotton. Yuka lays her hand over his and presses it closer. He looks up at her then. She was going to say something clever about how much he likes it there, but he lowers his mouth to the skin just above her neckline and she lets the breath go without saying it.
+
+“Again,” she says, once she's found her voice. ʸ
+
+He smiles where she's warmest and kisses her again, slower this time. Her fingers loosen in his hair. She tips her head back to give him room and feels his hand firm up against her when she moves. By the time he looks up, she's pulled him close enough that the chair creaks under both of them.
 
 “You can tell, can't you?” she asks. ʸ
 

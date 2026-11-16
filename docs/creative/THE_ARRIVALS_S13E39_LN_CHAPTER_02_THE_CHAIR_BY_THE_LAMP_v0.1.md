@@ -79,7 +79,15 @@ Her laugh is small and pleased. She slides her hand down to his waist. When her 
 
 She draws him to her with the hand at his waist. His back comes away from the chair and he brings both arms around her. The first kiss goes a little crooked. She feels him smile, puts one hand against his jaw to hold him still, and tries it again exactly the way she wanted the first time.
 
-He stays there with her for as long as she wants. When she takes her hand away from his face, he presses his cheek into the curve of her neck. She had meant to tease him about needing more chair. What comes out instead is his name, so soft she thinks he must have felt her say it before he heard it.
+When she takes her hand away from his face, he kisses her just beneath her collarbone. Then he lowers his head to her chest again, all on his own. Yuka feels him turn his ear toward her heart. She'd put him there earlier because she could feel him holding himself up. This time she hasn't had to move him an inch.
+
+“I thought you'd had your rest,” she says. ʸ
+
+“I did.” He lifts his head enough to see her. “I'd still like to stay here a little longer.” ᴹ
+
+“Here?” She puts a finger to the place his cheek was. ʸ
+
+He kisses her where she's pointing. His hand comes around her ribs, warm through the cotton, and stays there while she settles against him. She can feel him smile against her chest when her heart picks up. That makes it worse. She'd meant to tease him about needing more chair, and all she can manage is his name.
 
 He turns his head to look up at her.
 

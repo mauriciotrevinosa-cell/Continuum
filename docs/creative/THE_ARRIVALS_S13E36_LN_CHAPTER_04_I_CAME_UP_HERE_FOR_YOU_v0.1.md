@@ -5,9 +5,9 @@
 **Volume:** 78
 **Reading order:** 31
 **Source episode:** S13E36
-**Continuity state:** B+324, late afternoon and before supper. Maomao's tasting has worn off. Yuka brings normal chocolate upstairs and tells Mau she wants time alone with him. They spend part of the afternoon together at her invitation. Later Yuka puts on her anthracite and papaya 2021 McLaren hoodie and black shorts, and Mau his red Ferrari zip hoodie and gray sweatpants. She asks him to bring the good blanket later for their movie.
+**Continuity state:** B+324, late afternoon and before supper. Maomao's tasting has worn off. Yuka brings normal chocolate upstairs and tells Mau she wants time alone with him. They make love at her invitation, then linger in bed talking and teasing before supper. Later Yuka puts on her anthracite and papaya 2021 McLaren hoodie and black shorts, and Mau his red Ferrari zip hoodie and gray sweatpants. She asks him to bring the good blanket later for their movie.
 
-*When: Later the same day. Yuka has two pieces in an ordinary tin and has kept Mau's sleeve all the way up the stairs.*
+*When: Later the same day. Mau carries the two ordinary squares in their tin. Yuka has kept his sleeve all the way up the stairs.*
 
 He sets his hand on the door when they get to it. Yuka can feel him stop walking. She doesn't let go of his sleeve yet.
 
@@ -17,7 +17,7 @@ He looks from her hand to the door. “I thought I was coming in.” ᴹ
 
 “You are.” ʸ
 
-She waits until he's inside and has closed it behind himself. Then she lets him have his sleeve back. She puts the tin on the low table by the window and lifts the lid. There are two squares in it, one of them broken down the middle just enough that there'll be a little edge for someone to steal.
+She waits until he's inside and has closed it behind himself. Then she lets him have his sleeve back. He gives her the tin. She sets it on the low table by the window and lifts the lid. There are two squares in it, one of them broken down the middle just enough that there'll be a little edge for someone to steal.
 
 Mau bends to look, hands on his knees. “Am I still supposed to guess who made them?” ᴹ
 
@@ -103,11 +103,57 @@ He keeps the arm where she put it. When she pulls back to breathe, she stays nea
 
 “I know.” She says it easily. He remembers when she used to need to hear the rest of the sentence before she could settle against him. This time the rest is only her smile and her arm around him, drawing him back to her. “I love you, too.” ʸ
 
-They let the afternoon go on without them for a while.
+Yuka starts to sit up and gets stopped by her own elbow. She's been holding herself away from putting any weight on him for so long that when she moves it, her hand shakes against the sheet.
+
+“You can lie down,” Mau says. ᴹ
+
+“Where would you like me to go?” ʸ
+
+He reaches for her arm and she gives it to him. He moves it off the sheet and puts it across his ribs. As soon as she lets herself settle, the breath she's been saving goes out of her all at once. She had been planning what to say next. With her ear here she can hear how fast his heart is going. She stays a little longer to listen.
+
+“Was that what you were going to ask me?” she says. “Just for a while up here?” ʸ
+
+“Part of it.” ᴹ
+
+She waits. His fingers move once in her hair and stop. She lifts her head far enough that he can see her.
+
+“Tell me the rest.” ʸ
+
+“I want to make love to you,” he says. ᴹ
+
+From this close she gets to see him say all of it, including the swallow afterwards. She thought she'd know what he'd look like when he asked. Somehow she hadn't pictured him as the one who'd need a second.
+
+“Yes,” she says, and kisses the corner of his mouth when it starts to pull into a smile. “Could you close the curtain first?” ʸ
+
+He puts a hand up without shifting his head from the pillow. The curtain rings rattle halfway across and jam.
+
+Yuka turns her face into his shoulder. “I can get it.” ʸ
+
+“It's thinking about it,” Mau says, with such misplaced confidence that she starts laughing all over again. ᴹ
+
+He gives up on Authority, rolls over onto his feet, and goes to the window. She takes his place on the pillow while he's gone. When he comes back there is still a thin stripe of light from the gap at the edge. It falls across his wrist as he braces his hand beside her head. She puts her hand on the back of his neck and draws him down to her. He takes a breath against her mouth. She feels him wait there, a hair's breadth away, till she moves the rest of the way herself.
 
 * * *
 
-Later, Yuka is on her back counting the little squares of light that come through the curtain. Mau has his head beside hers. She could turn and kiss him without either of them sitting up. She does it once, to see if he's as close as she thinks.
+By the time they're lying side by side again, the sheet has come loose at his feet and Yuka has got most of it. Mau tries to pull it straight with his heel. She tucks her corner under her chin and holds on when she feels him tug.
+
+“I can get cold, too,” he says. ᴹ
+
+“You can come over here.” ʸ
+
+He does. She lifts the sheet for him and rests her hand on his chest while he gets comfortable. His heartbeat is slower now. She settles her palm flat and stays there until she can feel the rhythm through her fingers. It makes her smile to remember how fast it was when she asked him to tell her the rest.
+
+“Was I supposed to go back down for the chocolate?” he asks. ᴹ
+
+“You left it on the table.” ʸ
+
+“I meant when we were in the kitchen. Were you actually offering me any?” ᴹ
+
+“I offered you the edge. You can still have it if you want.” ʸ
+
+He looks toward the table. Neither of them moves.
+
+Yuka lies on her back and watches the narrow line of light slide off the foot of the bed. Mau has his head beside hers. She could turn and kiss him without either of them sitting up. She does it once, to see if he's as close as she thinks.
 
 He is.
 

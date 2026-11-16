@@ -5,7 +5,7 @@
 **Volume:** 78
 **Reading order:** 30
 **Source episode:** S13E36
-**Continuity state:** B+324, breakfast through early afternoon. Maomao runs a blind chocolate tasting with Jinshi, Mau, Yuka and Ori. The experimental chocolate is labelled and offered only after Maomao explains its brief effect. Mau and Yuka choose to try it. Yuka asks for ordinary things much more openly and Mau is delighted to oblige. Both notice the effect ending before leaving the kitchen. A separate tin contains regular chocolate for later.
+**Continuity state:** B+324, breakfast through early afternoon. Maomao runs a blind chocolate tasting with Jinshi, Mau, Yuka and Ori. The experimental chocolate is labelled and offered only after Maomao explains its brief effect. Mau and Yuka choose to try it. Yuka asks for ordinary things much more openly and Mau is delighted to oblige. Both notice the effect ending before leaving the kitchen. They linger together after Maomao puts the tasting tray away, and Yuka asks Mau to take the ordinary chocolate upstairs with her.
 
 *When: The morning after the walk in the orchard. Jinshi makes a claim at the breakfast table and Maomao puts her chopsticks down.*
 
@@ -187,4 +187,22 @@ Yuka looks in the cup. It is completely empty. She pokes him once through the sl
 
 Maomao folds the card over the empty tasting tray. She has a whole page of notes and she thinks Jinshi is going to ask to see them, but he carries the last few cups to the sink and stays to help her put things away. Yuka asks if she can take two squares from the ordinary tin. Maomao says she can take the tin too if she brings it back tomorrow.
 
-Mau holds the kitchen door for her. She takes his sleeve this time instead of his hand. That way she can walk next to him all the way upstairs without having to put the tin down.
+Mau holds the kitchen door for her. Yuka stops with the tin held against her stomach, just inside the kitchen where it's still warm.
+
+“Come here a second,” she says. ʸ
+
+He lets the door go. She sets the tin on the counter and puts both arms around him from behind. He settles back into her just enough that she feels the change in his weight all the way down through her shoes. When he lays his hands over hers, she moves one thumb out from under his cuff so she can rub it over his knuckles.
+
+“You can have the sleeve too,” he says. ᴹ
+
+“I wanted the rest of you this time.” ʸ
+
+He laughs. She can feel it first, in his back, where she's put her cheek. Then he turns within the circle of her arms to look at her and she forgets she had been about to bother with the tin.
+
+“Will you come upstairs with me?” she asks. ʸ
+
+He picks it up for her. “Yeah. Which of us gets the broken one?” ᴹ
+
+“Me. But I'll let you have the edge.” ʸ
+
+She takes his sleeve on the way upstairs anyway.

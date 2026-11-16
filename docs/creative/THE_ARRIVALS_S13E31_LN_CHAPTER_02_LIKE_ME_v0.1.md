@@ -25,7 +25,7 @@ Maki, who punches him in the shoulder, not lightly, and then sits on the end of 
 
 Shoko, last, who checks everything twice and tells him that if he gets out of bed again without asking she'll tie him to it, and then sits down in the chair by the window and doesn't say anything for a long time, and finally says, very quietly, “You tried to close it. In the clinic. You tried to pull it in so it wouldn't take me.” ˢʰ
 
-He doesn't remember that part. He remembers the conversation. *I could take yours.* And then nothing.
+He doesn't remember that part. He remembers asking about her name and telling her why he'd want it. He can get as far as watching her turn toward the window. After that it goes blank.
 
 “Did I?” ᴹ
 

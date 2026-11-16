@@ -5,7 +5,7 @@
 **Volume:** 78
 **Reading order:** 12
 **Source episode:** S13E27
-**Continuity state:** B+310, morning. Shoko's check-up after the gate. Mau tells her about the island and about how he's been with Yuka. Shoko demands he take her to the island. He brings up Anko; she asks about Hinata; Gojo can come if he behaves. They move on to Mau choosing a surname, including taking Shoko's. She looks away, embarrassed, while she answers. When she turns back, Mau has been staring at nothing for a moment and his nose is bleeding. She catches him as he falls.
+**Continuity state:** B+310, morning. Shoko's check-up after the gate. Mau tells her about the island and about how he's been with Yuka. Shoko demands he take her to the island. He brings up Anko; she asks about Hinata; Gojo can come if he behaves. Mau considers taking Ieiri because Shoko is the closest thing he's had to a mother, as he told her in S9. She looks out the window, thinks through the idea aloud and answers her own questions. When he doesn't reply to a direct question about Yuka, Shoko finally turns to him. His gaze is vacant and his nose is bleeding. She catches him as he falls.
 
 *When: The morning after the gate. Shoko wants to look at the hand and the ribs again in daylight, and Mau goes to the clinic without being asked twice, which she notes.*
 
@@ -199,39 +199,53 @@ He thinks about it. He thinks about the people in this house, and the names they
 
 “I could take yours,” he says. ᴹ
 
-He doesn't really mean it. He means it a little. It just comes out.
+He's had it in his head since the island. Saying it in front of her feels different from trying it in his head on the way down to the pool. He waits while she decides what to do with it.
 
 Shoko goes very still.
 
 “Mine,” she says. ˢʰ
 
-“Ieiri. Mau Ieiri.” He tries it in his mouth. It sounds strange, and not bad. “You've patched me up more times than anyone. You're the reason I've still got most of my fingers. It'd make sense.” ᴹ
+“Ieiri. Mau Ieiri.” He tries it out. “Do you remember when you asked me if I meant like a mother?” ᴹ
 
-Shoko turns away.
+“I remember Gojo deciding he was your father. He's made it very hard to forget.” ˢʰ
 
-Not far. Just enough that he can't see her face, turning to look out the window again, the cigarette very still between her fingers. The back of her neck has gone a slightly different shade than the rest of her, a little darker.
+He smiles. “You asked me first. I said you were the closest I'd had. I meant it then, too.” ᴹ
 
-“That's stupid,” she says, to the window. ˢʰ
+She puts the cigarette down on the sill. Her hand stays there a little longer than it needs to.
+
+“There are a lot of names at that table,” Mau says. “Yours is the one I'd be happy to give if somebody asked where I got it.” ᴹ
+
+“That's stupid,” she says. ˢʰ
 
 “Is it?” ᴹ
 
-“It's very stupid.” ˢʰ
+“I'm still deciding whose idea that makes stupid.” ˢʰ
 
-“Okay.” ᴹ
-
-“I mean—” She stops. Her voice is strange. Not angry. Something else, something tight and careful. “It's not a name you just *take*, Mau. It comes with—there's my family. There's things. You don't even know what's attached to it.” ˢʰ
-
-“I know what's attached to you,” he says. ᴹ
-
-She doesn't answer that.
-
-He waits. She keeps looking out the window. He can see the side of her face now, just a little, the line of her jaw, and she's pressing her lips together in a way he's never seen her do before.
-
-“Ask Yuka,” she says finally, very quietly. “If Yuka says yes. Then—ask Yuka.” ˢʰ
+She puts her elbow on the sill and turns to face the window. He can see from the way she does it that she's decided how much of her face he gets to see. He lets her have the window.
 
 * * *
 
-She turns back around.
+From the clinic window Shoko can see the basket that somebody left on the porch rail. The wind has got hold of the cloth over it. One corner lifts and settles again.
+
+“What would we tell Gojo?” she asks the glass. Her mouth twitches before she finishes the thought. “Nothing. He'd hear it once at dinner, put his hand on your shoulder and tell you how proud he is to have given you such an excellent name.” ˢʰ
+
+She gives him room to laugh. The light has caught her reflection in the glass and she watches it closely. If she can see herself smile, she can tell how long it takes to get it under control.
+
+“What would it be like to see it written down?” She looks at her hand on the sill as if she's already writing it. “Same as on the forms at school, I suppose. It'd look a little less lonely on the page.” ˢʰ
+
+She hadn't meant to say the last part. She considers taking it back. There isn't a way to do that with him in the room. He's got a habit of letting a thing sit when it took someone a while to say it, and right now she's grateful for that.
+
+“You wouldn't have to keep it on my account,” she goes on. “Suppose you and Yuka choose something else next year. Do you think I'd expect you to come tell me you changed your mind? I'd ask if she was bringing you round for tea.” ˢʰ
+
+Her reflection is still smiling. She can work with that.
+
+“Ask Yuka,” she says. The words come out more quietly than the rest. “I'd like to know what she thinks. Did you tell her you were thinking about Ieiri?” ˢʰ
+
+She starts to turn her head, then gives him another moment. It's a direct question. Usually he gets as far as the first word of an answer before she's finished saying Yuka's name.
+
+The basket cloth lifts again. She watches it settle. The silence is still there.
+
+“Mau?” she says, and turns. ˢʰ
 
 And Mau is looking at nothing.
 
@@ -249,7 +263,7 @@ He doesn't answer.
 
 “*Mau.*” ˢʰ
 
-She's already moving. She's already off the stool, the cigarette falling somewhere, her hand already reaching for him, when his eyes roll up and he tips forward off the edge of the bed, all at once, like a puppet with the strings cut.
+She's already moving. She's off the stool and reaching for him when his eyes roll up and he tips forward off the edge of the bed, all at once, like a puppet with the strings cut.
 
 She catches him.
 

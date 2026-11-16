@@ -101,7 +101,7 @@ They don't talk for a while. They don't need to. She swings their joined hands a
 
 She looks up at him.
 
-“It's not bad,” he says quickly. “It's—Shoko told me to ask you something. Before the clinic. Before everything. I forgot, and then I remembered, and then there was the gate, and the tournament, and the chocolate, and—” ᴹ
+“It's not bad,” he says quickly. “Shoko told me something about the morning at the clinic. About what she said before I fell. I keep thinking I should ask you.” ᴹ
 
 “Ask me what?” ʸ
 
@@ -111,7 +111,7 @@ She looks up at him.
 
 He tells her.
 
-Sitting with Shoko in the clinic. Talking about the island, and who to bring, and then about surnames, the ones they tried on the island and didn't like. And then him saying, without really meaning to, *I could take yours*. Shoko's.
+Sitting with Shoko in the clinic. Talking about the island, and who to bring, and then about surnames they'd tried on the island. And then telling Shoko which name he'd thought about and why. *I could take yours*.
 
 “*Ieiri*,” Yuka says. ʸ
 
@@ -133,7 +133,7 @@ He waits for it. He doesn't know what he's waiting for. Then her face does somet
 
 Yuka laughs harder.
 
-“And then she looked out the window for a long time,” Mau says, “and said *ask Yuka*.” ᴹ
+“Then she looked out the window for a long time. She told me later she'd said *ask Yuka* when I was sitting there. I missed that part.” ᴹ
 
 Yuka stops laughing.
 
@@ -155,9 +155,9 @@ Yuka nods slowly. She's quiet. He can see her thinking about it, properly, the w
 
 “It's a good name,” he agrees. ᴹ
 
-“She's put you back together more times than I can count.” ʸ
+“You told her she's the closest thing you've had to a mother?” ʸ
 
-“More times than *I* can count.” ᴹ
+“I told her a long time ago. I wanted her to know I still meant it.” ᴹ
 
 “And she'd hate it,” Yuka says. “She'd pretend to hate it for the rest of her life. And she'd love it.” ʸ
 
@@ -167,7 +167,7 @@ He laughs.
 
 He waits.
 
-“I want—” She stops. Starts again. “I think I want it to be something we both picked. Not something you said in the clinic without meaning to. Even if it's a good one. Even if we end up picking it anyway.” ʸ
+“I want—” She stops. Starts again. “I think I want it to be something we both picked. Even if it's the name you've been thinking about since the island. Even if we end up picking it anyway.” ʸ
 
 She looks up at him.
 

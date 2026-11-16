@@ -237,7 +237,17 @@ They stay until the lamps are all lit and the orchard has gone dark around them,
 
 Then she slides down off the branch and holds her arms up, and he comes down after her, and she catches him, sort of, the way she caught him on the couch on the first night home when he came back from being a slime. They stand there in the dark under the tree for a moment with her arms round his neck.
 
-> **[PARA WORK: aquí, bajo el árbol, en lo oscuro, cabe un beso** antes de volver a la casa: es «su parte favorita del día» y acaban de decidir que el apellido lo van a escoger juntos. **Sin límite de palabras; no comprimas.]**
+For the first few seconds he's still got his hand on the branch behind him. She feels him check his footing, then takes one step into the space between his shoes. His hand comes down to her waist.
+
+“You managed to spend a whole evening with me without giving me homework,” she says. ʸ
+
+“We have a list.” ᴹ
+
+“We can lose it whenever we want.” ʸ
+
+He smiles. “I'd like to keep it.” ᴹ
+
+That is what gets her. He says it with a little crease between his eyes, as if she might actually throw it out and he'd have to go looking for it in the dark. She pulls him within reach and kisses him. She can feel the laugh leave him before he kisses her back. His hand moves from her waist to the middle of her back. She leans into it and stays long enough to forget that there are lights on in the house at all.
 
 “Tomorrow,” Yuka says, against his collar. ʸ
 

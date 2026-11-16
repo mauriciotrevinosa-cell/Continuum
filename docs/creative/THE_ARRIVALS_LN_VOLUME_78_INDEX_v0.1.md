@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S13 v0.1 — collaborative revision
 **Volume:** 78
 **Season:** 13
-**Coverage:** S13E22–S13E37 (B+306 night to B+328)
+**Coverage:** S13E22–S13E39 (B+306 night to B+330)
 **Volume title:** **The Floor Under Him**
-**Chapter files:** 33
+**Chapter files:** 36
 
 Home from the island, Mau goes looking for a gate nobody wants and finds a red one. Something he has carried for years breaks in the middle of an ordinary morning, and the help that saves him comes from someone the house does not trust. For three days he does not know Yuka's name.
 
@@ -48,3 +48,6 @@ Home from the island, Mau goes looking for a gate nobody wants and finds a red o
 | 31 | S13E36 | Even If I Do Nothing | `THE_ARRIVALS_S13E36_LN_CHAPTER_02_EVEN_IF_I_DO_NOTHING_v0.1.md` |
 | 32 | S13E37 | Sparring Partners | `THE_ARRIVALS_S13E37_LN_CHAPTER_01_SPARRING_PARTNERS_v0.1.md` |
 | 33 | S13E37 | Each with Their Own | `THE_ARRIVALS_S13E37_LN_CHAPTER_02_EACH_WITH_THEIR_OWN_v0.1.md` |
+| 34 | S13E38 | A Song for the Room | `THE_ARRIVALS_S13E38_LN_CHAPTER_01_A_SONG_FOR_THE_ROOM_v0.1.md` |
+| 35 | S13E39 | Tall Enough | `THE_ARRIVALS_S13E39_LN_CHAPTER_01_TALL_ENOUGH_v0.1.md` |
+| 36 | S13E39 | The Chair by the Lamp | `THE_ARRIVALS_S13E39_LN_CHAPTER_02_THE_CHAIR_BY_THE_LAMP_v0.1.md` |

@@ -43,7 +43,7 @@ He looks down at it.
 
 “I'm very talented,” Yuka says. ʸ
 
-“You are,” he says, and means it, and she goes pink and pushes the trainer into his ribs a little harder.
+“You are,” he says, and means it, and she goes pink and pushes the trainer into his ribs a little harder. ᴹ
 
 * * *
 

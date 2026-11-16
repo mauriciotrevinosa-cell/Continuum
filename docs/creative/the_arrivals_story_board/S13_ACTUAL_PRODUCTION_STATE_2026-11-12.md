@@ -93,13 +93,13 @@ S13 continúa. Claude escribió V78 #1–27 según el [handoff de coautoría](S1
 | V78#23 | B+317 | Día de chocolate sin ocasión. Para cada quien algo elegido. Yuka lo abraza por detrás cuando se quiere parar. Para Makima, chocolate de un día cualquiera, de mano de Yuka. |
 | V78#24 | B+318 | POV Yuka. Mañana sola con Mai: se siente segura, él toma en serio hasta sus caprichos, él descansa con ella. Quiere tenerlo cerca y extraña a Mai. Acuerdan mañanas en el taller. |
 | V78#25 | B+319 | Con Makima ligada, Noise lee desde dentro su fuerza dirigida y completa Bang con maná de Mau. Tres tiros supervisados. La forma primordial está «más estable»; no se prueba. |
-| V78#26 | B+322 | Gate más difícil con Yuka al frente y Yuta. Segundo monstruo oculto; Mau ya tenía Sky bajo sus pies y le pone Infinity: dos técnicas dos respiraciones, sangrado nasal. Yuta lo mata. «Did it touch you?» / «It reached.» |
-| V78#27 | B+322 tarde | Se lo confiesa a Shoko. Yuka encima: «You've earned having me here all day and feeding me.» Tart. «Keep this up and you'll get yourself a wife.» Segundo tart. Ella se ríe. Yuta cuenta la historia a la casa. |
+| V78#26 | B+320 | Mau va a buscar a Yuka al taller. Mai le da una funda de tela de la isla y Mau guarda dentro el envoltorio de la Red Gate. Paseo corto y merienda con Ori, Milim y Umaru. |
+| V78#27 | B+322 | Shoko acredita la recuperación que permitió Makima y autoriza a Mau a acompañar con una técnica de apoyo. Gate con Yuka al frente y Yuta. Segundo monstruo oculto; Mau ya tenía Sky bajo sus pies y le pone Infinity: dos técnicas dos respiraciones, sangrado nasal. Yuta lo mata. «Did it touch you?» / «It reached.» |
+| V78#28 | B+322 tarde | Se lo confiesa a Shoko. Yuka encima: «You've earned having me here all day and feeding me.» Tart. «Keep this up and you'll get yourself a wife.» Segundo tart. Ella se ríe. Yuta cuenta la historia a la casa. |
 
 ### Relevo a Work
 
-- **Desde dónde seguir:** el último commit de Claude en la rama, el que añade este registro. V78 cubre de B+306 noche a B+322 en 27 capítulos.
-- **Corchetes `[PARA WORK]`:** #1 (ya desarrollado por Work), #4 (dónde viven los Sung: no lo encontré en el canon), #20 (beso de reencuentro opcional) y #27 (beso juguetón opcional).
+- **Primer bloque de V78:** de B+306 noche a B+322. La integración de «Two Plates» lo dejó en 28 capítulos antes de añadir los días de abajo. Los Sung viven junto a los cuartos de invitados fijados en V65. Las ampliaciones del reencuentro y la tarde de los postres están en #20 y #28.
 - **Los Monarcas quedan fuera del volumen.** Claude escribió siete capítulos del ataque (#28–34 provisionales). Mauri aclaró que ese arco va al final, después de Dabura, y pidió guardarlos. Están completos en [future_drafts/monarchs_claude_2026-11-15](future_drafts/monarchs_claude_2026-11-15/README.md). No son canon.
 - **Abierto:** los simurianos (reencuentro Yuka–Tsurugi), el duelo con Dabura, las señales de Makima sobre los primordiales y lo que sepa Qifrey siguen sin tocar. El viaje a la isla con Shoko, Anko, Hinata y Gojo quedó prometido en #12.
 - **Detalles que inventé y conviene confirmar:** la marca de Senku ˢᵉ; la cantera al norte del río; la razón de la mudanza de Rimuru y Shizue (el pan de Shuna); que Frieren probó ese chocolate con Himmel (#23); el apellido de Shoko como opción (#12).
@@ -115,8 +115,11 @@ Mauri pidió, antes del siguiente pleito, más días de los dos en la casa: mini
 | V78#30 | B+324 | La sala vacía. Peli de los dos. Yuka se le encima: «You're badly arranged.» Mau gira el sillón, cojines, cobija, lámpara, cortina, palomitas, mesa y té con Authority, obedeciendo cada instrucción; el brazo alrededor de ella, sin Authority. Ella se duerme; él no sabe de qué era la peli («There was a ship»). |
 | V78#31 | B+325 | En la cantera aplica el ajuste de Yuka a la gate (operador dentro: salida cuando quiera). Yuka: lo acompañará siempre, aunque no haga nada, para que si se queda atorado no esté solo. Noise, orgulloso: «I'm always here.» Ciel: «I'm sometimes there too.» Mau: «Yes. Sometimes.» «Four and a little» (Makima cuenta un poco). Dentro: el lugar cálido que ella pidió; el Pillow duerme junto a él y deja que Yuka le meta las manos. |
 | V78#32 | B+326 | Entrenan solos en el patio. Él le enseña el giro de hombro de Jin-Woo (le sale en veinte minutos). Ella se guarda su técnica. Él se contiene; ella le hace prometer que pelee «properly». Ella gana una justa y otra con cosquillas. Shoko «leyendo». Baño por turnos y porche con el pelo mojado. |
-| V78#33 | B+327–328 | Gojo los separa un día. Mau pesca con Gojo, Yuta, Jin-Woo y Suho (nadie pesca; Gojo y el viaje a la isla con Shoko; Suho hace rebotar una piedra). Yuka en el pueblo con Maki, Mai, Umaru y Rem. Los dos miran el cielo. En la cena se van antes del postre. Al día siguiente llueve y no hacen nada en el asiento de la ventana. Cierre del volumen. |
+| V78#33 | B+327–328 | Gojo los separa un día. Mau pesca con Gojo, Yuta, Jin-Woo y Suho (nadie pesca; Gojo y el viaje a la isla con Shoko; Suho hace rebotar una piedra). Yuka en el pueblo con Maki, Mai, Umaru y Rem. Los dos miran el cielo. En la cena se van antes del postre y, ya juntos, se cuentan cómo les fue. Al día siguiente llueve y no hacen nada en el asiento de la ventana. |
+| V78#34 | B+329 | Bocchi y Kita estrenan para la casa una canción propia que empezó con un fragmento que Mau tarareó al volver de la isla. Mau, Yuka y Byakuya acomodan las sillas como pide Bocchi. Ella invita al público y pide tocar el final una segunda vez. |
+| V78#35 | B+330 tarde | Mau y Anko pasan a tierra la planta de V73#6. Anko le cuenta que quiere visitar a Hinata y también le pide a Mau que la busque para pasar tiempo juntos. Yuka ayuda a sujetar la planta. Mau queda de volver a verla con Anko la semana siguiente. |
+| V78#36 | B+330 noche | En su cuarto, Yuka sostiene a Mau en la silla junto a la lámpara. Él se relaja y le dice que quiere tenerla más cerca. Pasan la noche juntos. |
 
-- Corchetes `[PARA WORK]` nuevos: #29 (beso bajo el árbol) y #33 (después del día separados).
+- El beso bajo el árbol de #29 y el reencuentro de #33 están integrados en prosa.
 - **Semilla para después:** la promesa de Yuka en #31 de entrar con él a cualquier gate «aunque no haga nada», y el «four and a little», pueden servir de salida en un encierro futuro.
-- V78 queda en 33 capítulos, de B+306 noche a B+328.
+- V78 queda en 36 capítulos, de B+306 noche a B+330.

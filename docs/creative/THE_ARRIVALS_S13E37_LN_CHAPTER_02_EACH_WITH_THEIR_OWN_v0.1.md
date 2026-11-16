@@ -181,7 +181,27 @@ They meet in the hall. Halfway. Both stop. Both laugh.
 
 She takes his hand.
 
-> **[PARA WORK: aquí, en el pasillo o subiendo, tras un día separados por elección**, cabe que se busquen como pareja: beso, y lo que siga en su cuarto si Work lo ve, con lo que contaron de su día. El punto es que se eligen por gusto, no por necesidad: los dos la pasaron bien con sus amigos y aun así se fueron antes del postre. **Sin límite de palabras; no comprimas.]**
+She looks down at their hands. There is still dirt in the side of one of his nails. He has a sleeve turned back on one arm only. She lifts the hand she's holding a few inches, and he knows her well enough to turn it over so she can look properly.
+
+“You tried to teach Suho to skip stones too,” she says. ʸ
+
+“He wanted a flat one. Took him the good part of an hour to pick it,” Mau says. “Then he put it in his pocket and went home with it.” ᴹ
+
+“Did he get to skip one?” ʸ
+
+“Three bounces. He was so pleased he wanted to take that one home too, but it was in the stream. He took the flat one to show his mother.” ᴹ
+
+She likes that story enough to want to hear it sitting down. She also wants to tell him what Rem said when she saw what Mai had let Yuka talk her into buying. Apart from an interrupted minute over dinner, she hasn't heard his voice all day, and there are small things she wants to tell him while she still remembers who said them.
+
+“Come upstairs,” she says. ʸ
+
+He takes one step. She stays exactly where she is, holding him fast by the hand.
+
+“In a second,” she says. ʸ
+
+She brings him back. The sleeve he's turned back brushes her cheek when he puts his hand up to her face. She kisses him in the hallway, where they can hear somebody turning over a chair in the kitchen. He turns his face into hers a little more when she starts to pull away, and she gives him that second too.
+
+Upstairs he finally asks her what she bought. She gets as far as *Rem said* and has to put both hands over her face to make it through the rest of the sentence. Mau waits her out, sitting on the rug beside her shoes. She goes down to sit with him. By the time she tells him about the walk home, they're sitting shoulder to shoulder and he's got the things she brought back spread out between his knees, lifting the edge of the wrapping while she tells him which thing is for whom.
 
 * * *
 

@@ -137,37 +137,61 @@ His sleeve brushes her cheek when he lifts his arm. She gets hold of the cuff be
 
 “Wait. I want that hand back.” ʸ
 
-He gives it to her, open. There's an old scar through the palm. She knows it well enough to find it with a finger in the dark. She runs her thumb across it once and brings the hand back to her waist.
+He gives it to her, open. She traces the old scar through his palm with the side of her thumb. She knows the place where it gets wider and the faint ridge near his wrist. She can do it with her eyes closed. She does, for the pleasure of knowing exactly what she'll find. He curls his fingers around hers when she gets to the end of it.
 
-“There?” he asks. ᴹ
+“Were you going to do something with that?” he asks. ᴹ
 
-“There. Hold me like you mean it.” ʸ
+She opens her eyes. “I was going to put it here.” ʸ
 
-He lets out a little laugh. She would ask what was funny, but then his fingers close, warm and sure, and she has to take a breath before she can say anything at all.
+She brings his hand to her waist. It's warm, and for a moment all he does is lay it there, in the same careful way he did when they first came inside. She likes knowing how easily she can move it. She'd like to feel it stay when she moves.
+
+“Hold me like you mean it.” ʸ
+
+His laugh is gone almost as soon as she hears it. His fingers close, he draws her nearer, and she feels the pillowcase crease under her cheek. Her next breath comes a little sooner than she meant it to. So much for the clever thing she was going to say when he did it.
 
 “Oh,” she says. ʸ
 
 “That's what I thought you'd say.” ᴹ
 
-She gets a hand into his hair and kisses him for it. A minute ago he was watching her face to see if she'd make up her mind. Now he has his eyes shut, and when she breaks their kiss his mouth follows hers a little before he catches himself. She likes seeing that. She comes back just far enough to kiss him at the corner of his mouth and feels his smile against hers.
+She catches the hair at the nape of his neck and kisses him for it. Their noses bump. She turns her head until there's room for both of them and tries again. This time his mouth follows hers when she pulls back for air. He catches himself with his eyes still shut. She could pretend she didn't notice. She comes back and kisses him at the corner of his mouth so he knows she did.
 
-They make love with the last light coming through the curtain. Yuka loses sight of the bright line when she closes her eyes. She keeps her hand on Mau's back, where she can feel the quick rise of his breath against her palm. When he goes still, she opens her eyes and finds him looking down at her.
+“You can do that again,” she tells him. ʸ
 
-“Still good?” he asks. ᴹ
+“Which part?” ᴹ
+
+“The bit where you came after me.” ʸ
+
+He studies her face for just long enough that she feels herself start to blush. His thumb moves once against her side. Then he leans in, and this time she holds still to let him come to her. There's a little smile waiting for her when they meet. She can taste the dark chocolate again, but only at first.
+
+The pillow has worked its way up behind her, where it keeps pushing her chin down. She tugs at one corner, and Mau lifts his arm so she can pull it flat. While he's up she draws him closer by the shoulder, until she can rest her other arm over his back without stretching. He waits for her to get comfortable. She feels his breath against her cheek the whole time he's waiting.
+
+“Here,” she says. ʸ
+
+They make love with the last light coming through the curtain. She sees it cross the back of his hand before her eyes close. A moment later she opens them just to see him up close again. His brow is furrowed the way it gets when he wants to hear her through a room full of people. She sets two fingers between his eyebrows. His eyebrows lift beneath her fingers and she can't help laughing.
+
+“What?” he asks, smiling now in spite of himself. ᴹ
+
+“I like being this close to you,” she says. “That's all I was thinking.” ʸ
+
+His face changes at that. She feels the change in the hand at her waist, too. His grip eases and she has room to move in closer herself. She puts her cheek against his, where he's warm from ear to jaw. The sound of his next breath is right beside her. When she kisses him, she keeps the palm of her hand flat between his shoulders so she can feel it there as well.
+
+For a little while neither of them says anything. The sheet gathers under her heel. She leaves it. He stops long enough to look at her properly, and she puts her hand up to his face before he has time to ask.
+
+“Still good?” he says. ᴹ
 
 “Very. And you?” ʸ
 
-He nods. She waits, close enough that his next breath lifts a hair at her temple.
+He nods. A loose strand of her hair moves against her temple when he breathes out. She waits, because he's still looking at her.
 
 “I want you to stay right here a little longer,” he says. ᴹ
 
-She moves her hand up between his shoulders and holds him where he is. It's the way he's asked that makes her take her time answering. All through tea he was ready before she could finish telling him what she wanted. Right now she has one thing to do for him, and it's exactly what she wants to do.
+She slides her hand higher between his shoulders and feels him settle against her. He's asked so plainly that for a second all she wants is to keep hearing it. All through tea he was ready before she could finish telling him what she wanted. Right now she has one thing to do for him, and she wants to do it enough that her throat tightens a little before she can answer.
 
 “I can do that,” she says. ʸ
 
 His face comes down against her neck. She can feel the smile there, even before he says, “That's my line.” ᴹ
 
-She lets her laugh come out against his hair. His hand stays at her waist. She keeps hers against his back until she feels it rise with a slower breath, and when he lifts his head she puts her lips to his forehead first. He turns toward her kiss, and she gives him another one where he can give it back.
+She laughs into his hair. When she goes quiet, he does too. His hand stays at her waist, there through the last of the laughter and the long breath she lets go afterwards. By the time he lifts his head again, she can feel the warmth where his cheek was. She kisses his forehead. He turns his face toward her, so she gives him another where he can give it back.
 
 Her shoulder starts to ache from reaching around him. She gives it a little roll and Mau shifts his weight to give her room. She turns onto her side and he comes down beside her on the pillow. The edge of the sheet slides over her shoulder. She reaches down to get it back around both of them and discovers that the whole corner has come loose at his feet. Mau tries to pull it straight with his heel. She tucks her corner under her chin and holds on when she feels him tug.
 

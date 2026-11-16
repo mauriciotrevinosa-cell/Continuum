@@ -291,15 +291,15 @@ She puts her palm against his cheek again. He stays where she can see him. On th
 
 “Again. All the way to the end.” ʸ
 
-She starts the next stroke herself. The pressure against her clit gathers as he comes up to meet her and there's still a little way left to go. She presses down through the last of it. The muscles in her thighs draw in against him, and she can't get herself back up. Her breath breaks into two sounds, one against his mouth and the other into his shoulder as she folds forward. His hand travels up her spine and stays open there. The muscles low in her belly keep tightening even with her whole weight resting against him. She can feel him inside her every time. It takes two breaths before her knees will do what she asks, and when they do, his fingers press into her back.
+She starts the next stroke herself. The pressure against her clit gathers as he comes up to meet her and there's still a little way left to go. She presses down through the last of it and comes before she can lift herself again. Her thighs close hard around him. The first sound goes into his mouth, the next into his shoulder when she folds against him. Mau holds his hips still and spreads his hand over her spine. She feels herself tighten around him once, then again, with enough space between the two that she thinks the first might be the last. When the tightening lets go, she can put weight on her knees again. That's when she feels his fingers press into her back.
 
-“Yuka.” ᴹ
+“Yuka. I'm close.” ᴹ
 
 She gets upright enough to see him. The colour in his face runs halfway down his chest. From here she can see the place in his throat where he'd swallowed before asking if he could make love to her. His pulse is going there too.
 
 “I've got you,” she says. “Come a little closer.” ʸ
 
-His hips lift hard enough to bend the arm she's braced on his shoulder. She bears down to meet him. He goes tight in her hands and comes with his brow against hers, a low breath slipping out across her lips as his cock pulses inside her. She feels the small movements get farther apart until the only one left is his breath against her face. His eyes half close. Then he opens them again for her. She gets to see the effort turn into a smile. When she kisses him, she lets hers shut.
+His hips lift hard enough to bend the arm she's braced on his shoulder. She bears down to meet him. His forehead comes against hers and he comes inside her. She feels the first pulse while his thigh is still taut under hers. His breath slips out across her lips, low and unsteady. He settles back into the pillow, his cock still inside her, and she waits there with him until the last pulse fades. His eyes half close. Then he opens them again for her. She gets to see the effort turn into a smile. When she kisses him, she lets hers shut.
 
 She stays where he has her until she can feel the ends of her toes again. One knee has gone sore from keeping her upright. Mau puts a hand out when she shifts, and she sets her palm on his forearm to take some of her weight as she lifts. His cock slips free. Cool air touches the insides of her thighs all at once. She turns awkwardly on the knee that still wants to bend, and he's there beneath her elbow until she finds the space beside him and sits. The upright pillow comes away from the headboard when he turns. She gets a hand behind it to pull it flat and feels the edge of his shirt caught there.
 

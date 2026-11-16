@@ -104,3 +104,19 @@ S13 continúa. Claude escribió V78 #1–27 según el [handoff de coautoría](S1
 - **Abierto:** los simurianos (reencuentro Yuka–Tsurugi), el duelo con Dabura, las señales de Makima sobre los primordiales y lo que sepa Qifrey siguen sin tocar. El viaje a la isla con Shoko, Anko, Hinata y Gojo quedó prometido en #12.
 - **Detalles que inventé y conviene confirmar:** la marca de Senku ˢᵉ; la cantera al norte del río; la razón de la mudanza de Rimuru y Shizue (el pan de Shuna); que Frieren probó ese chocolate con Himmel (#23); el apellido de Shoko como opción (#12).
 - **Color:** revisé los capítulos en el POV de Mau. Los POV de Yuka (#10, #21, #24), Shoko (#13 y final de #12) y Makima (#16) sí nombran colores.
+
+### V78 — días de Mau y Yuka antes del siguiente pleito (Claude, segunda tanda)
+
+Mauri pidió, antes del siguiente pleito, más días de los dos en la casa: mini citas, buscarse, «la hora del día que más esperan», no hacer nada, una peli donde Yuka lo regaña por estar mal acomodado y él obedece todo con Authority, entrenar juntos, un dungeon solos con la frase de Yuka de acompañarlo aunque no haga nada, y el orgullo de Noise («esto nos puede dar una salida después»). Work había añadido #26 «Two Plates» (B+320); estos van después de #28.
+
+| Capítulo | Día | Hechos escritos |
+|---|---|---|
+| V78#29 | B+323 | La hora después de la cena se volvió lo que los dos esperan todo el día. Paseo por el huerto; Mau le cuenta lo del apellido de Shoko («ask Yuka»); Yuka quiere que lo escojan juntos; queda en la lista, cerca de arriba. La rama del tercer árbol; Ori saluda desde la ventana. |
+| V78#30 | B+324 | La sala vacía. Peli de los dos. Yuka se le encima: «You're badly arranged.» Mau gira el sillón, cojines, cobija, lámpara, cortina, palomitas, mesa y té con Authority, obedeciendo cada instrucción; el brazo alrededor de ella, sin Authority. Ella se duerme; él no sabe de qué era la peli («There was a ship»). |
+| V78#31 | B+325 | En la cantera aplica el ajuste de Yuka a la gate (operador dentro: salida cuando quiera). Yuka: lo acompañará siempre, aunque no haga nada, para que si se queda atorado no esté solo. Noise, orgulloso: «I'm always here.» Ciel: «I'm sometimes there too.» Mau: «Yes. Sometimes.» «Four and a little» (Makima cuenta un poco). Dentro: el lugar cálido que ella pidió; el Pillow duerme junto a él y deja que Yuka le meta las manos. |
+| V78#32 | B+326 | Entrenan solos en el patio. Él le enseña el giro de hombro de Jin-Woo (le sale en veinte minutos). Ella se guarda su técnica. Él se contiene; ella le hace prometer que pelee «properly». Ella gana una justa y otra con cosquillas. Shoko «leyendo». Baño por turnos y porche con el pelo mojado. |
+| V78#33 | B+327–328 | Gojo los separa un día. Mau pesca con Gojo, Yuta, Jin-Woo y Suho (nadie pesca; Gojo y el viaje a la isla con Shoko; Suho hace rebotar una piedra). Yuka en el pueblo con Maki, Mai, Umaru y Rem. Los dos miran el cielo. En la cena se van antes del postre. Al día siguiente llueve y no hacen nada en el asiento de la ventana. Cierre del volumen. |
+
+- Corchetes `[PARA WORK]` nuevos: #29 (beso bajo el árbol) y #33 (después del día separados).
+- **Semilla para después:** la promesa de Yuka en #31 de entrar con él a cualquier gate «aunque no haga nada», y el «four and a little», pueden servir de salida en un encierro futuro.
+- V78 queda en 33 capítulos, de B+306 noche a B+328.

@@ -215,11 +215,11 @@ She kisses him and feels his arm draw tight across her back. She was going to do
 
 He keeps still while she unwinds the ends one at a time. The last strand falls across his mouth. She bends back over him and blows it aside. He starts to laugh again, quietly enough that she feels it under the hand she's set on his chest. She bends the rest of the way, and this time she brings all her hair to the side with one hand before she kisses him.
 
-The warmth by the lamp follows them as they make love. It's on the side of her face when she looks up, and gone when Mau leans in close enough to shade her. She can feel where his hand is holding her, and when it loosens she brings him in again by the shoulders.
+The lamp is still on when they make love. Yuka can see where Mau has his elbow against the edge of the pillow, holding himself up. When she runs her hand down his arm, she can feel the muscle stay tight all the way to where his weight rests. She nudges the pillow underneath his shoulder the rest of the way. As soon as he comes down, one corner rises between their faces. She presses it flat with the heel of her hand so she can put her cheek against his. His laugh is almost soundless from here. She feels the bone of his jaw move against hers and settles her hand back on his arm. It feels different now. She wants him to leave it right where it is.
 
 “Can you stay there?” she asks. ʸ
 
-He does. They lie close enough that she can feel the little uneven place in his next breath. She holds him through it. A minute ago he left room for her to come the last inch herself. Now she can feel him leaning into her hand as soon as she gives him somewhere to rest it. She kisses the place under his ear because it's right beside her, and the sound he makes makes her do it again, slower.
+He does. The next breath starts against her ear and breaks halfway out when she touches his hair. She stills her fingers and feels him press back into them, asking for the rest without moving off the pillow. She runs them through again, slowly enough to feel where his hair is still warm near the roots. He lets the rest of that breath go against her collar. The patch of cotton there has gone warm and a little damp. She draws him closer by the back of his neck and kisses him under the ear, where he can turn toward her if he wants another. She feels him turn before she's lifted her mouth.
 
 His hand lifts to her cheek. The warmer part of his palm settles just under her ear. She tips her head into it until she can feel her own pulse quick against his thumb.
 
@@ -231,7 +231,7 @@ She gets a little laugh out. The next breath stays in her chest long enough to m
 
 “When I told you to rest. You don't have to come up with something for me every time I get close.” ʸ
 
-His eyes go to her mouth and back. She half expects a joke and would have liked whatever he said, but all he does is let the breath out slowly and ease toward her. She can feel it change through his back first, under her palm. Then his forehead comes to rest against hers. When he speaks again it's so quiet she feels the words on the breath between them first.
+His eyes go to her mouth and back. He lets the breath out slowly, long enough that she starts to let hers out with it. She can feel his shoulders lower in two separate little movements, the second one right under her hand. She loosens her fingers so he can come the rest of the way. His forehead comes to rest against hers, and when he speaks she has to listen closely. He says the words in one breath, into the small warm space between their mouths.
 
 “Would you hold me a little tighter?” he asks. ᴹ
 

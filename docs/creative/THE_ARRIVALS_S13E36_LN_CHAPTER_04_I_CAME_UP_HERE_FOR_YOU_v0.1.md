@@ -201,13 +201,13 @@ He looks down at their hands. She waits. There's a trick to waiting with Mau whe
 
 She puts them around him. She has a second to see the look on his face before he comes nearer. It stays with her even once his face is too close to see all of it. His arm was raised to help her get settled. It comes down slowly now, and she feels the weight of it cross her back.
 
-They make love with the last light coming through the curtain. She sees it cross the back of his hand before her eyes close. The mattress gives softly under them as he comes closer. With her eyes closed she can tell when he has moved by where his breath warms her cheek. She opens them and finds his brow furrowed the way it gets when he wants to hear her through a room full of people. She sets two fingers between his eyebrows. They lift beneath her fingers and she can't help laughing.
+They make love with the last light coming through the curtain. She sees it cross the back of his hand before her eyes close. The mattress gives under his elbow first. Then comes the warmth of his cheek. She turns enough to meet him, and her ear comes free of the pillow all at once. She can hear her own breathing again. It's quicker than she'd thought. She puts her hand on his shoulder and feels a breath of his catch at the same time hers does. When she opens her eyes, his brow is furrowed the way it gets when he wants to hear her through a room full of people. She sets two fingers between his eyebrows. She can feel the crease release just before he lifts them, and she can't help laughing.
 
 “What?” he asks, smiling now in spite of himself. ᴹ
 
 “I like being this close to you,” she says. “That's all I was thinking.” ʸ
 
-His face changes at that. She feels the change in the hand at her waist, too. His grip eases and she has room to move in closer herself. She turns her cheek against his. A little roughness along his jaw catches when she moves, so she comes back more slowly and lets it brush her again. Of all the sounds the house makes in the afternoon, she can pick out just this one for a few seconds, the quiet scrape of his breath next to her ear. Her palm is flat between his shoulders. She feels him take the next breath there before he lets it out against her mouth.
+His face changes at that. She feels the change in the hand at her waist, too. His grip eases and she has room to move in closer herself. She turns her cheek against his. A little roughness along his jaw catches when she moves. It makes her want to feel how soft his mouth is again. She turns back and kisses him. Their angle is different this time, and her upper lip catches on the inside of his for an instant before he tips his head to let her through. She feels the smile it gets out of him. She wants another kiss and takes a full breath first. With her palm flat between his shoulders, she can feel him take one with her.
 
 For a little while neither of them says anything. The sheet gathers under her heel. She slides it free just enough to set her foot down, and the mattress gives a small creak that she feels through her back. Mau has turned his head toward the sound. His hair brushes across her cheek with the movement. She smooths it back and catches his eye.
 
@@ -219,7 +219,7 @@ She hadn't made a word of the last sound. He can't have known what it was going 
 
 “Come here again. I want to see you when you kiss me.” ʸ
 
-He comes over slowly enough for her to watch his expression change. For a second neither of them closes their eyes. She sees his smile start before she feels it and then isn't sure whose smile she can feel. She draws back once, laughing under her breath, and the hand she's got against his face follows him as he comes after her. When he finds her again she keeps her eyes open one breath longer, just because she asked.
+He comes over slowly enough for her to watch his expression change. For a second neither of them closes their eyes. She sees his smile start before she feels it. The light is strong against one side of his face but the other is mostly shadow, and as he gets closer she loses the shape of his mouth first. She puts her thumb at the corner of it to find it again. His lips part against her thumb as he laughs. She draws back far enough to see his whole face, then gives him the time to close that bit of distance again. She keeps her eyes open one breath longer, just because she asked.
 
 Then Mau goes still. It's quiet enough for her to hear a board settle out in the hall. She keeps her hand by his face, and his cheek warms the inside of her wrist.
 

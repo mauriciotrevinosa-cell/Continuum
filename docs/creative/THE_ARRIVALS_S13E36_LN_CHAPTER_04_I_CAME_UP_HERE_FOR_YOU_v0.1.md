@@ -215,11 +215,31 @@ For a little while neither of them says anything. The sheet gathers under her he
 
 “For you.” ᴹ
 
-She hadn't made a word of the last sound. He can't have known what it was going to be, because she hadn't known herself until she made it. The answer makes her want the chance to say something that he'll hear straight away. She touches his cheek with her thumb and waits for him to look right at her.
+She hadn't meant to make a sound at all. She couldn't tell him where it came from if he asked. He'd turned toward it so quickly she'd thought he was listening for something down the hall. She brings her thumb to the side of his mouth, where she can feel the shape of the smile he's trying not to give her yet.
 
-“Come here again. I want to see you when you kiss me.” ʸ
+“You get a turn,” she says. ʸ
 
-He comes over slowly enough for her to watch his expression change. For a second neither of them closes their eyes. She sees his smile start before she feels it. The light is strong against one side of his face but the other is mostly shadow, and as he gets closer she loses the shape of his mouth first. She puts her thumb at the corner of it to find it again. His lips part against her thumb as he laughs. She draws back far enough to see his whole face, then gives him the time to close that bit of distance again. She keeps her eyes open one breath longer, just because she asked.
+“At what?” ᴹ
+
+“Tell me something you want to see.” ʸ
+
+He looks down at her hand. When he brings his own up, she thinks he's going to move it. He puts it over hers instead.
+
+“I want to see your face when I kiss you,” he says. ᴹ
+
+“You can see my face now.” ʸ
+
+“You close your eyes right before I get there.” ᴹ
+
+She starts to say she doesn't. Then he moves half an inch toward her and she does exactly what he said. She hears him laugh before she's opened them again.
+
+“All right. Come back and let me try.” ʸ
+
+She pushes herself up on one elbow so the afternoon light falls across both of them. The sheet pulls tight next to her wrist. He frees the edge with one finger, and she feels it slide away as he takes a little of her weight in his hand. It gives her room to face him straight on. She can see where one side of his mouth starts to rise and how hard he's trying to keep the other still. She watches until he's near enough that the two sides blur. Her eyes try to close again. She holds them open for one more breath, and the thing she gets for it is the look on his face when he realizes she's doing it for him.
+
+“Now you,” she whispers against his mouth. ʸ
+
+His eyes open. She gets to see the surprise at that distance, too. The kiss starts so softly she feels it at one corner first. Then she comes forward, enough to make him catch her at the elbow again, and they both have to stop because he knows she's smiling and she knows exactly when he noticed.
 
 Then Mau goes still. It's quiet enough for her to hear a board settle out in the hall. She keeps her hand by his face, and his cheek warms the inside of her wrist.
 

@@ -215,13 +215,21 @@ She kisses him and feels his arm draw tight across her back. She was going to do
 
 He keeps still while she unwinds the ends one at a time. The last strand falls across his mouth. She bends back over him and blows it aside. He starts to laugh again, quietly enough that she feels it under the hand she's set on his chest. She bends the rest of the way, and this time she brings all her hair to the side with one hand before she kisses him.
 
-The lamp is still on when they make love. Yuka can see where Mau has his elbow against the edge of the pillow, holding himself up. When she runs her hand down his arm, she can feel the muscle stay tight all the way to where his weight rests. She nudges the pillow underneath his shoulder the rest of the way. As soon as he comes down, one corner rises between their faces. She presses it flat with the heel of her hand so she can put her cheek against his. His laugh is almost soundless from here. She feels the bone of his jaw move against hers and settles her hand back on his arm. It feels different now. She wants him to leave it right where it is.
+The lamp is still on when they make love. Yuka can see where Mau has his elbow against the edge of the pillow, holding himself up. When she runs her hand down his arm, she can feel the muscle stay tight all the way to where his weight rests. She nudges the pillow underneath his shoulder the rest of the way. As soon as he comes down, one corner rises between their faces. She presses it flat with the heel of her hand so she can put her cheek against his. His laugh is almost soundless from here. She feels the bone of his jaw move against hers and settles her hand back on his arm. It feels different now, softer for the length of a breath. Then his elbow digs into the pillow again as he tries to make room for her.
 
-“Can you stay there?” she asks. ʸ
+“Would you turn onto your side for me?” she asks. ʸ
 
-He does. The next breath starts against her ear and breaks halfway out when she touches his hair. She stills her fingers and feels him press back into them, asking for the rest without moving off the pillow. She runs them through again, slowly enough to feel where his hair is still warm near the roots. He lets the rest of that breath go against her collar. The patch of cotton there has gone warm and a little damp. She draws him closer by the back of his neck and kisses him under the ear, where he can turn toward her if he wants another. She feels him turn before she's lifted her mouth.
+He looks up. She slides back just far enough to give him room. When he turns, the mattress dips toward her and she has to plant her foot to keep from going with it before she's ready. He catches her at the waist anyway. She leaves his hand there while she eases her arm beneath the pillow. There's a thin pull across her shoulder until she finds a place for her elbow. Then it lets go, and she can curl around him without holding herself up.
 
-His hand lifts to her cheek. The warmer part of his palm settles just under her ear. She tips her head into it until she can feel her own pulse quick against his thumb.
+“Is this how you wanted it?” he asks. ᴹ
+
+She'd changed places because she could feel him bracing again. What she finds is how easily she can kiss him from here. She puts her mouth to the skin under his ear and hears his answer to that, a small breath that stops halfway out. He's got his eyes closed. She lets him have a second before she puts another kiss a little lower on his neck, slow enough to feel his shoulder lift against hers.
+
+“Yes,” she says, when she remembers he asked. ʸ
+
+His arm comes around her back, briefly tight before it settles. She can hear the soft brush of their sleeves when she moves a hand to his hair. The roots are still warm. She runs her fingers through once and then holds still. He presses his head back into her hand to ask for more. Without thinking she loosens the arm she has beneath the pillow and lets its whole weight lie there. He does the same with the arm around her.
+
+She can tell exactly when he notices. He lets out the breath he'd been holding, in the place where her collar has gone warm and a little damp. She stays there with him, put quite out of the mood to move a single thing.
 
 “Remember the chair?” she says. ʸ
 

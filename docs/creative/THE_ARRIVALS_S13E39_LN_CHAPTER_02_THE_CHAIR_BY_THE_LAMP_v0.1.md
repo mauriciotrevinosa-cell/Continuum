@@ -53,7 +53,13 @@ She puts her mouth against his hair. She likes that he can do this awake now. Th
 
 From where Mau has his head, he can hear her breathe and feel it a moment before he hears it.
 
-She gives him enough time to forget about the chair under them. He notices the cuff of her sleeve against his ear when she raises her hand to touch his hair. He puts his hand over hers to keep it there. Yuka shifts one leg, worried perhaps that she's been on him too long, and he follows the movement with his arm before he knows he's trying to.
+She gives him enough time to forget about the chair under them. He notices the cuff of her sleeve against his ear when she raises her hand to touch his hair. He puts his hand over hers to keep it there. Yuka shifts one leg, worried perhaps that she's been on him too long, and his arm tightens around her waist before he thinks about it. She stops. He feels her look down at the place his hand has caught her.
+
+“Did you think I was getting up?” she asks. ʸ
+
+“A little.” He starts to let go. ᴹ
+
+She catches his wrist and brings his arm back around her. She twists far enough to get both her knees onto the chair, one on either side of his, and takes his hand with her when she settles. His fingers close against her back. She pauses there, watching his face, then puts her weight against him again. He'd have moved one of the cushions if she hadn't already found the place where she wanted to be.
 
 “I'll stay,” she says softly. ʸ
 
@@ -87,7 +93,19 @@ When she takes her hand away from his face, he kisses her just beneath her colla
 
 “Here?” She puts a finger to the place his cheek was. ʸ
 
-He kisses her where she's pointing. His hand comes around her ribs, warm through the cotton, and stays there while she settles against him. She can feel him smile against her chest when her heart picks up. That makes it worse. She'd meant to tease him about needing more chair, and all she can manage is his name.
+He kisses her where she's pointing. His hand comes around her ribs, warm through the cotton. She feels his thumb move when she takes a breath, and the slight pull of her shirt where his fingers have closed on it. He kisses her again, a little lower this time. Her hand comes down from his hair to his shoulder. She could have used it to bring him back up. Instead she curls her fingers into the seam and lets him feel the way her breath changes.
+
+“You can tell, can't you?” she asks. ʸ
+
+He tips his head. “That your heart's going faster?” ᴹ
+
+“I thought you were going to be kind and pretend you couldn't.” ʸ
+
+He lifts his face all the way this time. His eyes go to hers and he holds himself there, close enough for her to see the crease his cheek left in her top. She reaches down with the idea of smoothing it. He takes her hand before she gets very far and brings it to his chest.
+
+“Feel mine,” he says. ᴹ
+
+It's going just as quickly. She leaves her palm where he put it. He was up here waiting for her in the chair with two glasses of water and a book he couldn't read, and he'd wanted her badly enough to go quiet while she took off her shoes. The thought makes her grin. Then he pulls her closer by the waist, quite deliberately this time, and she has to catch herself with an arm round his shoulders. She'd meant to tease him about needing more chair. All she can manage is his name.
 
 He turns his head to look up at her.
 
@@ -111,6 +129,16 @@ There is plenty of space. They are standing in their own room, which is full of 
 
 He sits beside her when she puts the glass down. She catches his sleeve and he waits while she rolls it back past his wrist. The fabric has gone soft along the seam. She likes this shirt on him. She likes even more that he wears it until she has to steal it off the back of the chair to get it washed.
 
+“You could've asked me to come up earlier,” she says. ʸ
+
+“You were talking to Mai.” ᴹ
+
+“I would've finished talking to Mai.” ʸ
+
+“I like listening for you on the stairs, too.” ᴹ
+
+That one gets her worse than the thing he said in the chair. She pushes the sleeve up a little further than she meant to, then has to roll one side back to make it even. He lets her fuss. When she finally looks at him again he's still waiting right where she left him, with the beginnings of a smile and his hand open on the bed between them. She guides it to her hip and keeps hers over it until she feels him take hold.
+
 He brings his fingers up under her chin.
 
 “Look at me for a second,” he says. ᴹ
@@ -119,7 +147,13 @@ She does.
 
 He looks at her long enough that she almost asks what he's looking for. Then he says, with the same simple certainty he used in the chair, “I'm glad I asked.” ᴹ
 
-She kisses him before she can get embarrassed all over again. He makes room for her, and she pulls him with her until they are laughing into each other's mouths at how hard it is to do that without getting tangled in the cover. He gets the edge out from under her elbow. She stops him a second, just to put her hand on the side of his face and feel him turn toward her. Then they go on together, warm under the covers, still taking their time.
+She kisses him before she can get embarrassed all over again. He makes room for her, and she pulls him with her until they are laughing into each other's mouths at how hard it is to do that without getting tangled in the cover. He gets the edge out from under her elbow. Once she has her arm back, she puts it across him so he'll stay where he is for a second.
+
+“Lie down,” she tells him. ʸ
+
+He does, looking up at her the whole time. She slips a hand behind his neck again and leans across him. This time she has room to feel him reach round her and enough time to see his eyes close when she kisses his throat. She stays there for one more breath. Then she pulls back a little, and he opens his eyes, puts his hand to her cheek and draws her down just as slowly as she'd come the first time.
+
+The edge of the light goes all the way across his pillow. Yuka looks at it for a moment, deciding whether she wants to see his face or be close enough that she can't. He makes a little questioning sound under his breath. She smiles against his mouth, pulls the cover up around them both and lets the lamp burn a while longer.
 
 * * *
 

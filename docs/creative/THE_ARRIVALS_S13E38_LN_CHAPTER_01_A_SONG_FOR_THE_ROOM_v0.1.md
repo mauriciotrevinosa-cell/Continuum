@@ -133,6 +133,42 @@ She sees him smiling at his plate and finds, with genuine irritation, that she'd
 
 * * *
 
+Bocchi has asked five people by the time somebody asks whether they can bring somebody else. She'd had her answer ready in case nobody wanted to come. She has to think for a minute about this one.
+
+“Would you tell her it's before the film?” she asks Ori. “And I'll tell her myself where to sit, if she comes early.” ᴮ
+
+Ori goes to ask Milim. Bocchi can hear the question travel all the way along the porch, at the volume Ori usually reserves for news about dragons.
+
+Kita is trying very hard to get a sheet of music to stand up on the borrowed stool. It keeps folding over, page first. Bocchi puts one of Byakuya's blank cards against the back of it.
+
+“Are we going to practise again?” Kita asks. ᴷⁱ
+
+“We could try it out here once.” ᴮ
+
+They do. It's strange how familiar the chair feels and how little the rest of the room does. Halfway through, a spoon falls in the kitchen. Bocchi hears it bounce twice. She knows she's missed the next chord because Kita has taken the breath to come in and kept it. The two of them stop in different places.
+
+“Back to the start?” Kita asks. ᴷⁱ
+
+Bocchi looks at the first measure. She's played it so many times today that she'll be able to hear it when she shuts her eyes tonight. She moves the card down behind the paper until the corner sticks out by the place they stopped.
+
+“Could you sing from here?” she asks. ᴮ
+
+Kita finds the place and sings one line by herself. Bocchi waits for the second breath, comes in partway through the line and finds the chord under it. They get to the end. She wants to know if it will work twice, so she asks again, and this time Kita keeps singing when she hears Bocchi's fingers catch on a string. There's a little sound Bocchi wouldn't have chosen between two notes she would. By the time they get to the end, she's stopped thinking about it.
+
+Ori is at the porch door with Milim by the hand. She has heard enough to know that she's come back in the middle of something. She stands on the other side of the glass, eyes wide, and mimes clapping with her hands as far apart as she can get them.
+
+Bocchi has to put the guitar down to laugh. The sound carries farther than she expects. Ori hears it and opens the door.
+
+“Was that the end?” she asks. ᴼ
+
+“That was practice,” Bocchi says. She looks at Kita. “Do you want to do it like that if I miss it tonight?” ᴮ
+
+Kita nods. “I'll keep singing till you catch me.” ᴷⁱ
+
+This time Bocchi asks Milim herself. Milim wants to know if the song has drums. Bocchi tells her it might, in a few weeks, if she can find a way to hear the voice she likes underneath them. Milim sits down on the floor to demonstrate that she can, if asked, be very quiet. Byakuya has to walk around her with a stack of programmes. She doesn't move so much as a finger.
+
+* * *
+
 Ori arrives for the song with both hands in her coat pockets. She has promised to clap at the end and she's taking precautions.
 
 Milim sits cross-legged on the floor where the bench used to be. Gojo sits in the bad chair. He takes one look at the sliver of screen he can see and opens his mouth. Yuka holds up a plate of something fried. He reaches across and takes one. He doesn't say a word.
@@ -143,7 +179,7 @@ She sits down.
 
 Bocchi comes out with Kita. She sits in the chair and starts to put one ankle behind the other, then changes her mind and sets both feet flat on the floor. Kita doesn't count them in. She watches for Bocchi to start.
 
-The opening is nearly quiet enough to miss. You have to listen on purpose. Mau leans a little forward. Yuka can see how much he's waiting for something through the whole middle, though she has no idea what until he lifts one finger on his knee at the instant a familiar line rises through the new one. She's heard him sing that part under his breath when he's getting ready in the morning. Never the next part. She likes the way this one sounds after it.
+The opening is nearly quiet enough to miss. You have to listen on purpose. Mau leans a little forward. Yuka can see how much he's waiting for something through the whole middle, though she has no idea what until he lifts one finger on his knee at the instant a familiar line rises through the new one. She's heard him sing that part under his breath when he's getting ready in the morning. Never the next part. Kita sings through a snag in the chord. Bocchi looks up at her, smiling already, and comes back in under her voice. Yuka likes the way this part sounds enough that she tries it silently while they play it.
 
 Bocchi leaves a little time after the last chord. Her hands stay where they are. Yuka waits. Then Bocchi looks up and takes her left hand off the neck of the guitar.
 

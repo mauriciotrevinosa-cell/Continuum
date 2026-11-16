@@ -75,7 +75,7 @@ Anko looks at him. He looks mildly embarrassed, which is interesting. He leaves 
 
 “I did,” she says. “And I wanted to see you. I put it in the sun this morning so I'd remember to ask.” ᴬⁿ
 
-He sets his empty cup down between them. “You can ask me any time.” ᴹ
+He sets his cup down between them. “You can ask me any time.” ᴹ
 
 “You have to do it too,” she says. ᴬⁿ
 
@@ -99,6 +99,34 @@ One of the roots slips over his finger, pale and thin as a strand of thread.
 
 She scrapes a little more away on that side.
 
+They almost get it in on the second try. Anko has just put down the trowel to turn the root ball when Mau shifts his knee and the dirt he was kneeling on slides back into the hole. For a moment they both look down at it.
+
+“I thought you said the left side needed more room.” ᴬⁿ
+
+“Now it does again.” ᴹ
+
+She makes him hold it while she digs that side out for the third time. He could hang it there with a thought. Instead he moves to the other side of the hole, puts his forearms on his knees and asks her which way she wants the leaves to face. She hadn't known she had an answer until she sees him hold it one way and then the other. She chooses the one where the little bent shoot nearest the base will be out of reach of the path. Mau turns it back that way when he sees her checking.
+
+Anko has been turning the pot every few days since it put out that shoot. She mentions this to him once they're kneeling still enough to talk without losing more dirt.
+
+“You did that?” he asks. ᴹ
+
+“It kept leaning toward the window. I'd turn it, and the next morning it would be leaning again. I had a whole argument with it one morning while Nazuna was asleep.” ᴬⁿ
+
+“Did you win?” ᴹ
+
+“Look at it.” ᴬⁿ
+
+He looks. He starts to laugh first, which is good because she was going to say she won and it would have been difficult to get through that with a straight face. She sits back on her heels. The trowel is at the bottom of the hole again. He reaches in and picks it up by the end of the handle, leaving the plant steady against his wrist.
+
+“I like this,” he says, holding it out to her. “Being called out here to move half a pound of dirt back and forth with you.” ᴹ
+
+She takes the handle. “It was a very important half pound.” ᴬⁿ
+
+“I could tell.” ᴹ
+
+She looks down at the mud under her nails before she has to answer. There's a quiet place between his saying it and her having to be clever about it. She finds she's allowed to leave it quiet.
+
 Yuka comes round the corner and finds the two of them kneeling by the wall. She's got a clean cloth over one arm and two pieces of bread with sugar on top.
 
 “Shuna said you took tea out here without anything to eat.” ʸ
@@ -121,6 +149,18 @@ Between them they get the roots into the hole. Anko presses the soil in. Mau hol
 
 They stand up and look at it. The plant is taller than Anko's knee. It is untidy, with two leaves sticking out in an entirely different direction from the rest. She thinks she knows what part of it she is going to see first from her window.
 
+“That one's you,” Yuka tells Mau, pointing at the leaf that goes straight out into the path. ʸ
+
+Mau looks down to see which leaf she means. “Why?” ᴹ
+
+“It wants to go first and it doesn't know where it's going.” ʸ
+
+“That could be a number of people in this house.” ᴹ
+
+Anko points at the other one. “This one's me. I already figured out where the sun is.” ᴬⁿ
+
+Yuka gives both leaves a second look and takes the scrap of thread that's left over out of her pocket. She winds it round the stake for Anko to use if the first piece comes loose. The knot unpicks easily when she shows Anko the end to pull. Anko thanks her. Yuka reaches for the cloth to wipe the dirt off her fingers. Mau gets to it before she does and takes her hand, palm up, to clean the thumb she missed. She's already opening her other hand before he asks.
+
 Yuka waits until they've both had a good look.
 
 “Will you come in with me when you're done?” she asks Mau. ʸ
@@ -134,3 +174,11 @@ Mau looks down at the empty pot. “We can put something else in this.” ᴹ
 “Leave it,” she says. “We'll see if there's anything we want in it when you come next week.” ᴬⁿ
 
 He stays while she gathers the trowel and works the mud out of the edge with a piece of bark. It takes another minute. He lets it take the whole minute. Then he takes the two cups, she takes the empty pot, and they go in by the long way so they can look at the plant through the window on the other side.
+
+It's oddly hard to see. There's a frame in the way at exactly the wrong height, and the lower leaves blend into the wall. Anko kneels on a chair to get the angle. Mau sets both cups down and leans over the back of the chair, resting his weight on it so it won't go forward while she's up there.
+
+“There,” she says. She gives him the good part of the window and looks down at his hands. “All that and you still got tea in either of those?” ᴬⁿ
+
+He lifts a cup. There's hardly a mouthful at the bottom. He gives her that one and takes the other for himself. She drinks what's left. The tea has gone cold and picked up something of the porcelain on the way. There is enough of it to sit with him for one more minute.
+
+When she gets down she leaves the chair facing the window. She'll know where to look in the morning.

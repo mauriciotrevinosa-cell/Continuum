@@ -139,9 +139,11 @@ A box hangs beside it.
 
 > **[Exit available.]**
 >
+> **[Instance closure deferred.]**
+>
 > **[Household gate adjustment pending.]**
 
-He looks at it for a long moment.
+He looks at it for a long moment. The way out is there. Whatever the gate is putting off can wait.
 
 “When I get home,” he says. ᴹ
 

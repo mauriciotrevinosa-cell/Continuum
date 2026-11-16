@@ -5,7 +5,7 @@
 **Volume:** 78
 **Reading order:** 33
 **Source episode:** S13E36
-**Continuity state:** B+325. Mau and Yuka apply her setting (V78 #11) at the house's weekly gate. It keeps its weekly rotation, gains the selected difficulty and reward settings and a warm place to rest. The system confirms the return stays available with the Operator inside that gate. They walk separately to the unchanged quarry gate to visit the Pillow. At the quarry, Yuka says she will go with Mau even if she does nothing, so that if he gets stuck again he isn't alone. Mau says he has Noise; Ciel says she's sometimes there too. The quarry route remains open after his earlier clear. Yuka fights the creatures there, then asks Mau to light the fire in a sheltered hollow. The Pillow comes to lie by it and lets Yuka put her hands in its fur. They spend a few hours inside and return a few seconds after entering.
+**Continuity state:** B+325. Mau applies Yuka's settings at the weekly household gate. At the quarry gate, Yuka says she will go with Mau even if she does nothing. The cleared Red Gate remains open under a hold placed by the Architect, pending the Monarch's decision about the dying Pillow. Mau and Yuka light the old fire. Mau offers the Pillow a place in his shadow, gets its assent, and raises it after it dies naturally. They leave with it and the quarry gate permanently closes. The closure log identifies the Architect as alive in Ruler custody and the Rulers as current administrators. Mau suspects the quarry was their first trial of him with the seized system. The weekly household gate remains separate.
 
 *When: The morning after the movie. Mau mentions at breakfast that he should go and set the gate. Yuka puts down her spoon.*
 
@@ -107,47 +107,41 @@ He looks at her face, and doesn't say any of it.
 
 “I'm here,” Noise says at once. ᴺ
 
-It says it aloud. Not loud. But aloud, so she can hear. And there's something in the voice he's never heard before. Something almost like pride.
+It says it on their link, close and clear. There's something in the voice he hasn't often heard before. Pride, he thinks.
 
-“I'm always here,” Noise says. “I was there the whole three weeks. And the year. And before.” ᴺ
+“I'm always here,” Noise tells Mau. “Three weeks. The year. Before.” ᴺ
 
-Yuka looks at the space beside Mau's head where she imagines Noise must be.
+“Noise says it was there the whole time. In the long one, too,” Mau tells her. ᴹ
 
-“I know,” she says. “Thank you.” ʸ
+Yuka looks at him. She's stopped trying to look at a point in the air that might somehow be Noise.
 
-“You're welcome,” Noise says, and Mau could swear it sounds pleased with itself. ᴺ
+“I know,” she says. “Tell it thank you.” ʸ
+
+“Welcome,” Noise tells Mau. ᴺ
 
 * * *
 
-“I'm sometimes there too,” says Ciel. ᶜ
-
-Quieter. A little dry. A little, he thinks, put out.
+“I'm sometimes there too,” Ciel says, on the same link. ᶜ
 
 Mau almost laughs.
 
-“Yes,” he says. “Sometimes.” ᴹ
+“Ciel says she's there sometimes,” he tells Yuka. ᴹ
 
 “*Sometimes*?” ᶜ
 
-“You weren't in the long one.” ᴹ
+“You said it first,” Mau tells her. ᴹ
 
-“That wasn't my *choice*.” ᶜ
+Yuka covers her mouth with her hand. She's laughing now, quietly, watching Mau try to keep a straight face while Ciel takes a second to reconsider.
 
-“I know. Sometimes.” ᴹ
+“Sometimes is fair,” Ciel admits, just to him. ᶜ
 
-There's a pause.
-
-“Sometimes is fair,” Ciel admits. ᶜ
-
-Yuka is laughing now, quietly, with her hand over her mouth. She looks at Mau and then at the empty air on both sides of him, as though she can see them all standing there, the three of them, arguing about who gets to keep him company.
-
-“Then that's four,” she says. ʸ
+“Then that's four,” Yuka says. ʸ
 
 “Four what?” ᴹ
 
 “Four of us. Noise always. Ciel sometimes. Me from now on.” She thinks about it. “And Makima, I suppose, because she can't leave. But she doesn't count.” ʸ
 
-“She counts a little,” Noise says. ᴺ
+“Noise says she counts a little,” Mau says, after a short interruption. ᴹ
 
 “She counts a *little*,” Yuka concedes. ʸ
 
@@ -159,21 +153,35 @@ Yuka is laughing now, quietly, with her hand over her mouth. She looks at Mau an
 
 He stands in front of the gate.
 
-He gets close enough for the eyes to read the way through. The return opened when the warden fell. It's still open now. He lets Ciel check it too before he says anything.
+He gets close enough for the eyes to read the way through. When the warden fell, the system said the closure was deferred. He'd had a way out and ribs that hurt every time he took a breath. He hadn't thought to ask what it was waiting for.
 
-“We can turn straight round,” he says. “I cleared the trial. The way back is still there.” ᴹ
+He asks now.
 
-Yuka looks at the gate. Then at him. Then back at the gate.
+> **[Trial cleared. Instance closure deferred.]**
+>
+> **[Awaiting Monarch's decision: acquire the beast?]**
 
-“So we could go in,” she says. ʸ
+For a second it could mean anything. Then the system gives him a location: the line of low ground beyond the broken towers, along the path the Pillow always took.
 
-“We could go in.” ᴹ
+> **[Beast living. Vital reserve critical.]**
+>
+> **[If declined, closure will proceed after the Monarch exits.]**
 
-“Just to look.” ʸ
+“It's asking about the Pillow,” he says. ᴹ
 
-“Just to look.” ᴹ
+Yuka looks up at him. “What about it?” ʸ
 
-She's already walking toward it.
+“Whether I want to take it with me. It says it hasn't got long.” ᴹ
+
+He leaves the question unanswered. The words *acquire the beast* sit there while he remembers what it took to get near the Pillow the first time. A fire and an evening's worth of letting it decide how close it wanted to come.
+
+“Can we still get back?” Yuka asks. ʸ
+
+He lets Ciel check the return before he answers. The way is clear both ways.
+
+“Yes,” he says. “Let's find it first.” ᴹ
+
+She tightens her grip on his hand and crosses with him.
 
 * * *
 
@@ -251,9 +259,11 @@ Yuka goes very still.
 
 It's enormous. Taller than Mau at the shoulder. Three times as long. Covered from end to end in thick shaggy fur. A broad low head with two small dark eyes and a long swaying nose.
 
-It walks toward them. Slowly. It doesn't hurry. It looks at Mau with one small eye for a long moment.
+It stops when it sees Mau. Its nose comes up the way it used to when he came out of a tower, even if he was coming from the wrong door. Then it leans toward him, and for a moment he expects it to cross the distance in one of those long strides that always made him underestimate it.
 
-Then it walks past them both, and steps down into the warm hollow, and lies down in it with a long, deep, contented groan, like a door that needs oiling.
+The first foot it puts down barely clears the frost. It stands for a while before it moves the next one.
+
+He goes to meet it. It puts its nose against his chest, once, hard enough to make him step back. After that he can walk beside it, with his hand in the fur at its shoulder, all the way down into the hollow. It lowers itself beside the fire. The groan it makes when it lies down is the same one he remembers. It just takes two breaths to make it.
 
 “Is that—” Yuka whispers. ʸ
 
@@ -271,7 +281,7 @@ She stares at it. The Pillow closes its eyes.
 
 “You didn't say it was *that* big.” ʸ
 
-He goes down into the hollow. The Pillow opens one eye and watches him come. He puts his hand on its broad forehead, the way he did at the edge of the ring, and it groans again, deeper.
+He feeds the fire another thread of mana until it reaches the Pillow's side. It opens one eye to watch him. Some of the fur on its forehead has worn away in patches that weren't there when he left. He puts his hand there anyway, the way he did at the edge of the ring.
 
 “Hello,” he says. “You found it.” ᴹ
 
@@ -303,54 +313,94 @@ He sits down beside her.
 
 * * *
 
-They stay a long time.
+They stay while the fire makes the stone warm all the way underneath them. Mau used to know when the Pillow was going to move because its whole side rose against him a little higher than usual. He's been waiting for that out of habit. It hasn't happened once.
 
-He doesn't know how long. A few hours, inside. A few seconds, at home. He doesn't care. They sit in the warm hollow at the foot of the broken tower with their backs against the Pillow, which breathes long and slow beneath them like the sea, and Yuka leans on his shoulder, and the ugly red sky that he can't see hangs over everything.
-
-“This is where you slept,” she says. ʸ
+“This is where you slept,” Yuka says. ʸ
 
 “Some of it.” ᴹ
 
-“On the cold ground. Next to it.” ʸ
+She puts her hands flat in the fur. He can see the ends of her fingers disappear. The Pillow gives her one small puff of air, which is about as much as it did the first night Mau tried to use it as a backrest.
 
-“Next to it. It was the only warm thing.” ᴹ
+“I was home sixteen days,” he says. ᴹ
 
-She's quiet for a while.
+He doesn't know how many fires the Pillow has seen in the meantime. The one he left burning by the ring was good for another day or two. He lets the eyes look for an injury. There isn't a wound to close. Just a heart with a longer pause between beats than it had when the Pillow came down the slope. He lowers his hand to the place it can see without lifting its head.
 
-“Not any more,” she says. ʸ
+“Do you want to come home with me?” he asks. “I have a place for you in my shadow. It has room for you, and I'll let you out wherever it's warm. If you want to stay here, I'll stay with you for a while.” ᴹ
 
-He doesn't ask what she means. He knows. She means the hollow. She means herself. She means both.
+The Pillow's nostrils widen. He hears it gather enough breath for that low, familiar sound. It leans its head into his hand after it makes it. He opens his palm wider to take the weight.
 
-“Not any more,” he agrees. ᴹ
+“Okay,” he says. ᴹ
+
+Yuka sits closer. She draws her knees out of the way so the Pillow can stretch its nose across both their laps if it wants. It does, in one slow shuffle. The movement is so familiar that Mau starts to move his arm before the end of the nose gets there. Then he stops moving and lets it rest.
 
 * * *
 
-Later — much later, or a few seconds later — they walk out of the gate into the quarry.
+The fire is still going when the next breath doesn't come.
 
-The morning is exactly as they left it. Bright and cool. The rainwater still at the bottom of the bowl. Their footprints still on the path down.
+Mau waits. His hand stays on the Pillow's forehead. He can feel heat there from his own palm and on the other side from the stones. Beside him, Yuka puts her hand down in the fur. He holds his own breath for a moment to be sure.
 
-Yuka stops at the lip of the quarry and looks back.
+He looks down at the Pillow.
 
-“We're coming back,” she says. ʸ
+“Ready to go?” he asks softly. ᴹ
 
-“We're coming back.” ᴹ
+He lets the silence finish. Then, with his hand still where the Pillow put its head, he says, “Arise.” ᴹ
 
-“With Ori. She wants to see it.” ʸ
+The shadow lifts in the shape he knew before he had a name for it. First the shoulder, then the long line of the back, then the nose coming up to check whether he's still there. Mau gets to his feet just in time. It puts its nose against him and pushes exactly as hard as it did at the top of the hollow.
 
-“With Ori,” he agrees. ᴹ
+He laughs once. It comes out rough. When it lowers its head he gets his whole arm around as much of it as he can.
 
-“And we'll take Mai through ours when she's ready. For the cores.” ʸ
+> **[Acquisition complete: Pillow.]**
+>
+> **[Instance will close after final exit.]**
 
-“We can show her where to sit.” ᴹ
+Yuka lets it smell her hand again. Then she scoots a little farther down the warm stone and pats the space she's made. The Pillow comes straight over to lie beside her, as if it's never needed to be told what to do with a good fire.
 
-“And next time—” ʸ
+“Can Ori see you when we get home?” she asks it. ʸ
 
-She turns to him, and takes both his hands, and looks up at him very seriously.
+It gives her the noise she knows now.
 
-“Next time *you* get to do nothing,” she says. “The whole time. And I'll do everything. And you'll sit in the warm place with the Pillow and *watch*.” ʸ
+* * *
 
-He thinks about it.
+The return is right where they left it. They walk to it together. Mau stops at the threshold to let the Pillow settle into his shadow, then steps through with Yuka.
 
-“That sounds terrible,” he says. ᴹ
+The morning hasn't gone anywhere. Rainwater in the bottom of the quarry. The prints they left on the way down the slope. Yuka's hand still warm in his.
 
-“That's the point,” Yuka says, and leads him home. ʸ
+Behind them the hum cuts off. Mau looks back in time to see the last of the light narrow to a seam and go out.
+
+> **[Quarry instance closed.]**
+>
+> **[Closure hold: left open by the Architect.]**
+>
+> **[Architect: alive. In Ruler custody.]**
+>
+> **[Current instance authority: the Rulers.]**
+
+He reads the third line again. He'd seen them bind the Architect alive. He hadn't seen what they did with him once the window shut.
+
+“They still have him,” he says. ᴹ
+
+Yuka follows his eyes to the empty wall. She waits for him to explain what he's reading.
+
+“He left the gate open. The Rulers are running the instance now.” He keeps hold of her hand. “They took the whole thing that day. I thought they wanted to make sure he couldn't build another one.” ᴹ
+
+He thinks of the towers. The cold draining everything he sent into it. The way the return opened when he beat the warden, and the question he was free to walk away from. The first trial the Rulers handed him had put the people he loved in front of him and made their deaths the way out. In this one he'd had a hard fight and a way home. When he'd come back, there was still a choice he could make.
+
+“You think they were trying it out on you,” Yuka says. ʸ
+
+“I think this might be the first test they ran on me with what they took from him. I don't know how much of it was his idea.” ᴹ
+
+“And if there's another one?” ʸ
+
+“I'll tell Rimuru and Jin-Woo what the notice said. Fern should have it for the gate register, too.” He turns his hand in hers. “If we find another one like it, we decide what to do before I go in.” ᴹ
+
+She looks at him until she has what she wanted out of that answer. Then she stands a little nearer.
+
+“Can we still do nothing when we get home?” she asks. ʸ
+
+Mau looks down at his shadow. “We can get a fire going first.” ᴹ
+
+“With room for Ori.” ʸ
+
+“With room for Ori.” ᴹ
+
+They go up the path with the wall behind them bare. The Pillow is coming home with them.

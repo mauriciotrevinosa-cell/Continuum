@@ -5,47 +5,35 @@
 **Volume:** 78
 **Reading order:** 25
 **Source episode:** S13E34
-**Continuity state:** B+319, yard. With Makima bound to him, Noise can finally read the mechanism of her directed force from inside, with her consent. It is not Control. Noise completes the model it started in V69, powered by Mau's own mana. Supervised by Shoko, Gojo and Ciel: first shot cracks a board, second goes through it at range, third through two boards. Cost: pressure behind the eyes and a numb fingertip. Shoko stops it at three. Noise also notes that the temporary primordial-form model (V74) is steadier now that its source is bound to him; not tested. Bang: constructed, tested, repeatable at small scale; larger untested.
+**Continuity state:** B+319, yard. Mau already copied Bang from Makima's earlier demonstration and ran his own mana through it in V69. Makima offers to let Noise compare her own directed force from inside. Noise corroborates the existing mechanism. Shoko, Gojo and Ciel supervise a return-to-use test after the collapse, including three measured shots at range. Mau has pressure behind his eyes and a numb fingertip. Shoko stops the test. Noise observes that the temporary primordial-form model is steadier with its source bound to Mau; that form is left untested.
 
-*When: Five days after he came back. Shoko lets him into the yard for the first time, on condition that she stands in it.*
+*When: Shoko has cleared Mau to try one technique in the yard. She has brought a chair out so they can stop whenever she says.*
 
-Makima brings it up.
+Makima finds him on the porch with Yuka's head on his shoulder. She stops at the bottom step, far enough back that Yuka can look up without having to move.
 
-He doesn't expect that. He's on the porch steps in the morning sun with Yuka leaning on his shoulder, and Makima comes out of the house and stops at the bottom of the steps — not too close, never too close, she's been careful about that — and says, “I'd like to offer you something.” ᴹᵏ
+“Have you used Bang since you were in the clinic?” she asks. ᴹᵏ
 
-Yuka lifts her head.
+“Not since before the long dungeon,” Mau says. ᴹ
 
-“Not to you,” Makima says to her, quickly. “To him. If you don't object.” ᴹᵏ
+“The fence,” Yuka says. “You told me it split.” ʸ
 
-“Depends what it is,” Yuka says. ʸ
+“The board split. The fence was fine.” ᴹ
 
-“The bang,” Makima says. ᴹᵏ
+He can still remember the pressure in his finger after it worked. For the first shot he checked that the mana was his twice, once before raising his hand and once afterwards when he felt it leave. He could feel the same thing ready to move if he called for it now. What he didn't know was how hard it would be to do it from farther away with his head the way it was.
 
-* * *
+“Noise has been asking what mine looks like when I hold a direction without releasing it,” Makima says. “I could show it that much from inside.” ᴹᵏ
 
-He knows what she means.
+*Compare*, Noise says quietly. ᴺ
 
-He's seen her do it. In the warehouse yard, the day of the rescue: her hand coming up, two fingers out like a child pretending to hold a gun, and the word, quiet, almost bored. *Bang.* And something far away coming apart.
+Mau rests his chin against Yuka's hair for another breath. “That's what it wants. To compare mine with yours before I try it again.” ᴹ
 
-Noise has been trying to understand it ever since.
-
-They got part of the way, back before the long dungeon. A model, built from what Noise saw, powered with Mau's mana instead of whatever Makima uses. It worked, a little. It cracked a board in the yard. Once. And then it didn't do much of anything, because Noise couldn't see the part that mattered, the part that turned a pointed finger into a direction and a direction into force.
-
-“You couldn't see how it works,” Makima says. ᴹᵏ
-
-“No,” Noise says. ᴺ
-
-Makima tilts her head at the sound of it, the way she does now whenever Noise speaks aloud. As if she's listening to someone in the next room she's only just met.
-
-“You can now,” she says. “If I let you. I'm inside. You can look at it from where it starts.” ᴹᵏ
+“I had a feeling,” Makima says. ᴹᵏ
 
 * * *
 
-“Why?” Mau asks. ᴹ
+He looks at her. “Why offer?” ᴹ
 
-It's a reasonable question. Makima has never given anyone anything for free in her life.
-
-She thinks about it. He can see her thinking about it, which is new; she used to have answers ready before anyone finished asking.
+It's a reasonable question. Makima used to know the answer to it before she asked anyone to do anything.
 
 “Because you'll fight again,” she says. “Something will come. Something always comes, to this house. And when it does, I'm bound to your body. If you die, I go with you.” ᴹᵏ
 
@@ -59,77 +47,43 @@ She doesn't answer right away. She looks at Yuka, leaning on his shoulder, and t
 
 “The other part is that I'd like you to be harder to kill,” she says. “For reasons I'm still working out.” ᴹᵏ
 
-* * *
+Mau thinks about it. He doesn't need to see her use it to know he can. He would like to know what Noise notices about the way she keeps it steady.
 
-Shoko insists on being there.
-
-Gojo insists on being there, too, mostly because Shoko is. Ciel insists in the way Ciel insists, which is by saying, very calmly, *I'll be watching the whole time* in a tone that makes it clear this isn't a request.
-
-Yuka sits on the porch steps with her knees drawn up. She didn't insist. She just came.
-
-They set up boards at the far end of the yard: three planks of old fence, propped against the wall, one behind the other. Senku appears from somewhere with a measuring tape and a notebook and stands well back.
-
-“What's the procedure?” Shoko asks. ˢʰ
-
-“Noise looks,” Makima says. “I show it. It builds.” ᴹᵏ
-
-“And if something goes wrong?” ˢʰ
-
-“I stop showing it.” ᴹᵏ
-
-“And if *he* starts bleeding from the eyes again?” ˢʰ
-
-There's a short silence.
-
-“Then I'll stop everything,” Ciel says. ᶜ
-
-Shoko looks at the space where Ciel isn't. Then she nods once and folds her arms.
+“All right,” he says. “Let it look first. The first shot is mine.” ᴹ
 
 * * *
 
-It's the strangest thing he's ever felt.
+Shoko is standing beside the chair when they get to the yard. Gojo's already holding one end of a plank. When he sees her looking at him, he puts it down exactly where she's pointed and goes to get two more.
 
-He closes his eyes. He doesn't need to; Noise doesn't need him to. But it helps. He stands in the middle of the yard with his eyes closed and feels Noise turn inward, past everything, past the eyes and the blood and the cursed energy and the mana, down to the very deep still place where Makima's hand is holding the sea.
+Yuka sits on the porch steps, where she can see both Mau and the boards.
 
-And Makima, there, inside, turns something toward Noise. Like turning a page so someone can read it.
+Senku sets his notebook down on the arm of the spare chair and leaves three spaces on the page. He has the distance marked before Gojo gets back.
 
-He feels Noise *see*.
+“What am I watching for?” Shoko asks. ˢʰ
 
-It's like watching someone finally understand a word they've been mispronouncing their whole life. A sudden clarity. A click. He can't follow what Noise is looking at; it's too fast and too strange and too far down. But he can feel the shape of Noise's attention change, sharpen, go still with something that in a person would be wonder.
+“My finger went numb last time. We'll watch for that and for pressure behind the eyes. Ciel will tell me the second she sees it, and I'll tell you,” Mau says. ᴹ
 
-“Oh,” Noise says, very quietly. ᴺ
+“Good. Tell me after the first one anyway.” ˢʰ
 
-“What?” ᴹ
+He nods.
 
-“It's not Control.” ᴺ
+Makima stops at the steps again. He can feel her hand on the load deep inside him, exactly where it's been since the night at the clinic. She turns Noise's attention a little farther along, to a place it can see while she holds that hand still.
 
-Makima, standing by the porch steps in her outside body, says nothing.
+It's easier to read some people from the outside. When Noise can see a sorcerer's technique engraved in the brain, the pattern is already there to read. With Makima it had worked from what she did and tested the copy until it could produce the same force. Now it has both versions in front of it.
 
-“I thought it was,” Noise says. “Part of it. I thought you had to own the thing you pointed at. You don't. It's just *direction*. You decide where, and the decision is the force. It's so *simple*.” ᴺ
+For a time he feels Noise look from one to the other. He can tell which one is his by the way he already knows where to find it. In Makima's, Noise follows her attention while she holds the direction steady for a few seconds and lets it go without firing. It comes back to his own and runs the same line.
 
-“It's not simple,” Makima says. “It took me a very long time.” ᴹᵏ
+*Same direction*, Noise says. *Leave it.* ᴺ
 
-“It's simple once you can see it,” Noise says. “I couldn't see it.” ᴺ
+He opens his eyes. “It matches. We'll try mine the way it is.” ᴹ
 
-* * *
+Shoko looks at him from beside the chair. “And you're running it with your own mana?” ˢʰ
 
-It takes Noise about a minute to build.
+“I always have.” He looks down the yard toward the first board. “She's just showing us what she does with hers.” ᴹ
 
-He feels it happening. The old model, the one from before the dungeon, still sitting where Noise left it, half-finished. Noise picks it up and turns it over and fills in the part that was missing, and the whole thing changes, settles, fits.
+“Small,” Gojo says. ᴳ
 
-“Done,” Noise says. ᴺ
-
-“It runs on him?” Shoko asks sharply. “Not on her?” ˢʰ
-
-“On his mana,” Noise says. “Not her. She showed me how. She's not in it.” ᴺ
-
-“Try it,” Gojo says. “Small.” ᴳ
-
-Mau opens his eyes.
-
-He looks at the boards, at the far end of the yard, maybe forty paces away. He lifts his right hand. He feels stupid doing it. He's seen children do this. He's seen *Ori* do this, playing with Milim. Two fingers out. Thumb up.
-
-He feels the model sitting in him, ready. Waiting for a direction.
+Mau lifts his right hand. Two fingers out, thumb up, the grip familiar enough that he has to resist checking it. He picks the place he wants to hit, then leaves the power almost where it was when he split the board before.
 
 “Bang,” he says. ᴹ
 
@@ -169,7 +123,7 @@ Shoko looks at him. Gojo looks back. Something passes between them that Mau does
 
 * * *
 
-The second time, he knows what to do.
+The second time, he gives the same technique a little more mana.
 
 He doesn't think about the board. He thinks about the *direction*. About a line, from the end of his finger to a point just behind the board, straight and clean. He decides on the line.
 
@@ -209,11 +163,11 @@ Yuka is beside him before he's finished sitting. She doesn't say anything. She j
 
 “Noise?” Ciel asks quietly. ᶜ
 
-“It's solid,” Noise says. “Small, it's solid. It'll repeat. Bigger, I don't know. I haven't tried bigger. *He* hasn't tried bigger.” ᴺ
+*Steady at that range*, Noise says. ᴺ
 
-“And you won't,” Shoko says, “until I say.” ˢʰ
+“It held at that distance. That's as far as we've tested,” Mau tells Shoko. ᴹ
 
-“Understood,” Noise says. ᴺ
+“Then that's as far as you're going today,” Shoko says. ˢʰ
 
 * * *
 
@@ -229,7 +183,9 @@ He knows what Noise means. The day of the rescue, when Noise built him a body mo
 
 “What about it?” ᴹ
 
-“It's steadier,” Noise says. “The model. I built it from watching her. Now she's bound. The source is *inside*. The model doesn't wobble any more.” ᴺ
+*Steadier with her here*, Noise says. ᴺ
+
+Mau tells Yuka what it noticed. The model is the one he used at the warehouse. Noise can see it holding its shape more easily with Makima inside him.
 
 Mau looks at Makima, who's still standing by the porch steps, very still, listening.
 
@@ -239,7 +195,7 @@ Mau looks at Makima, who's still standing by the porch steps, very still, listen
 
 “Is it safe?” Yuka asks. ʸ
 
-“I don't know,” Noise says honestly. “It's steadier. That's all I know. I haven't tried it. *He* hasn't tried it.” ᴺ
+“We haven't used it since the clinic,” Mau says. “That's a separate test.” ᴹ
 
 “Then he won't,” Yuka says. “Not today.” ʸ
 
@@ -261,10 +217,10 @@ She looks at him for a moment.
 
 “You're welcome,” she says. ᴹᵏ
 
-Then, to Yuka: “Thank you for letting me.” ᴹᵏ
+Then, to Yuka: “I was glad you stayed with him.” ᴹᵏ
 
 Yuka looks up at her.
 
-“I didn't let you,” Yuka says. “He did. It's his body.” ʸ
+“I wanted to be here,” Yuka says. ʸ
 
 Makima inclines her head, very slightly, as though she's learned something, and goes inside.

@@ -120,7 +120,7 @@ Mauri pidió, antes del siguiente pleito, más días de los dos en la casa: conv
 | V78#35 | B+327–328 | Desayunan juntos y arman sus planes. Mau va al río con Gojo, Yuta, Jin-Woo y Suho; Suho lleva a Hae-In una piedra. Yuka va al pueblo con Maki, Mai, Umaru y Rem. Le guarda un pan a Mau y se lo da al volver a casa. Después de cenar se llevan el postre y acaban de contarse cómo les fue. Al día siguiente pasan la lluvia en el asiento de la ventana y ayudan a Ori con su barco de papel. |
 | V78#36 | B+329 | Bocchi y Kita estrenan para la casa una canción propia que empezó con un fragmento que Mau tarareó al volver de la isla. Mau, Yuka y Byakuya acomodan las sillas como pide Bocchi. Ella invita al público y pide tocar el final una segunda vez. |
 | V78#37 | B+330 tarde | Mau y Anko pasan a tierra la planta de V73#6. Anko le cuenta que quiere visitar a Hinata y también le pide a Mau que la busque para pasar tiempo juntos. Yuka ayuda a sujetar la planta. Mau queda de volver a verla con Anko la semana siguiente. |
-| V78#38 | B+330 noche | En su cuarto, Yuka sostiene a Mau en la silla junto a la lámpara. Él se relaja y le dice que quiere tenerla más cerca. Pasan la noche juntos. |
+| V78#38 | B+330 noche | En su cuarto, Yuka sostiene a Mau en la silla junto a la lámpara. Él se relaja y le dice que quiere tenerla más cerca. En la cama, le pide que lo abrace. Hacen el amor y se duermen juntos. |
 
 - El beso bajo el árbol de #29 y el reencuentro de #35 están integrados en prosa.
 - **Semilla para después:** la promesa de Yuka en #33 de entrar con él a cualquier gate «aunque no haga nada», y el «four and a little», pueden servir de salida en un encierro futuro.

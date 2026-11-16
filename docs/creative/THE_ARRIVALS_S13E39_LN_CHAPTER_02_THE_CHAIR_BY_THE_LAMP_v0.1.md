@@ -5,7 +5,7 @@
 **Volume:** 78
 **Reading order:** 38
 **Source episode:** S13E39
-**Continuity state:** B+330, evening. Yuka comes to Mau in their room. In the chair by the lamp, she rests his head against her chest and says she will stay. He relaxes, then tells her how much he wants her close. They spend the night together.
+**Continuity state:** B+330, evening. Yuka comes to Mau in their room. In the chair by the lamp, she rests his head against her chest and says she will stay. He relaxes, then tells her how much he wants her close. They make love, then fall asleep together.
 
 *When: Later that evening. Yuka has finished telling Mai about the thread she pinched for Anko's plant. Mau has brought two glasses of water upstairs and remembered the book he left open that morning.*
 
@@ -77,7 +77,9 @@ She goes red where her throat meets the collar of her shirt. He sees it travel a
 
 “I was trying to tell you earlier. You were trying to get bread into my mouth.” ᴹ
 
-Her laugh is small and pleased. She slides her hand down to his waist. When her fingers come up beneath the hem of his shirt, she feels his breath catch against her palm. He tips his face toward her before she's halfway to him. She brushes her mouth against his once, then stops close enough that he can feel her smile.
+* * *
+
+Yuka tries to keep the laugh in, but then she remembers how he'd opened his mouth for the piece of bread anyway. She slides her hand down to his waist. When her fingers come up beneath the hem of his shirt, she feels his breath catch against her palm. He tips his face toward her before she's halfway to him. She brushes her mouth against his once, then stops close enough to see him glance down at her smile.
 
 “More of me?” she asks. ʸ
 
@@ -165,7 +167,107 @@ He looks up, and she catches the smile before he can hide it against her. She mo
 
 She slides a hand to his jaw and brings his mouth back to hers.
 
-The edge of the light goes all the way across his pillow. Yuka looks at it for a moment, deciding whether she wants to see his face or be close enough that she can't. He makes a little questioning sound under his breath. She smiles against his mouth, pulls the cover up around them both and lets the lamp burn a while longer.
+The edge of the light goes all the way across his pillow. Yuka looks at it for a moment, deciding whether she wants to see his face or be close enough that she can't. He makes a little questioning sound under his breath. She touches his cheek where it's warmest. The mark from her collar has nearly gone.
+
+“Leave the lamp for now,” she says. “I like being able to see you.” ʸ
+
+“I hadn't moved.” ᴹ
+
+“I saw you look at it.” ʸ
+
+“I was looking for where you put the glass.” ᴹ
+
+She makes room for him to look over her shoulder. Neither of them can see it from here unless one of them sits up. She rather likes the way he looks at the other end of the bed and decides he still doesn't want to move.
+
+“I'll get it later, if you ask me,” she tells him. ʸ
+
+He puts a hand beside her head and comes up far enough to look down at her. The lamp catches the sleeve she rolled up for him. It's still uneven. She reaches for it, then changes her mind about what she wants to do with that hand.
+
+“Can you lie back a little?” she asks. ʸ
+
+He does. She takes the room he's made, shifts the pillow behind his shoulder and moves across until she's lying against his side. The hand he rested on the bed lifts as she settles. She takes his wrist in both hands and brings his arm across her. His elbow bends the instant she lets go and draws her in much farther than she would have managed on her own.
+
+“Oh, that's where you wanted me.” ʸ
+
+He ducks his head, laughing. When he looks back, she can see that he likes having been caught at it.
+
+“I was hoping you might come the rest of the way by yourself,” he says. ᴹ
+
+She hears the difference when he says *hoping*. He could have waited for her to decide it was what she wanted and made sure there was room when she got there. He'd done that often enough. Tonight when she had gone to settle sideways on the chair, he'd caught her and asked her to stay. He still has that same arm around her now, heavy enough across her back that she can feel it rise each time he takes a breath.
+
+“Like this?” she asks, and pulls herself nearer. ʸ
+
+His answer comes out against her hair. “Yes.” ᴹ
+
+She stays exactly there until the line of lamplight stops moving on the pillow. The cotton under her cheek is warm where he was lying. She can hear him swallow when she pushes herself up on her forearm to look at him.
+
+“I want to make love to you,” she says. “Do you want that too?” ʸ
+
+“Yes,” he says, and runs his thumb once along her side. He doesn't look away. ᴹ
+
+She kisses him and feels his arm draw tight across her back. She was going to do it rather grandly, now that they have space and she can see what she's doing. Instead she gets her hair caught between his cheek and the pillow and has to stop halfway to rescue it. Mau reaches to help. Somehow he gets his fingers tangled in a second piece entirely.
+
+“How did you get that bit too?” she asks. ʸ
+
+“I was trying to save you time.” ᴹ
+
+“Don't. I've got time.” ʸ
+
+He keeps still while she unwinds the ends one at a time. The last strand falls across his mouth. She bends back over him and blows it aside. He starts to laugh again, quietly enough that she feels it under the hand she's set on his chest. She bends the rest of the way, and this time she brings all her hair to the side with one hand before she kisses him.
+
+The warmth by the lamp follows them as they make love. It's on the side of her face when she looks up, and gone when Mau leans in close enough to shade her. She can feel where his hand is holding her, and when it loosens she brings him in again by the shoulders.
+
+“Can you stay there?” she asks. ʸ
+
+He does. They lie close enough that she can feel the little uneven place in his next breath. She holds him through it. A minute ago he left room for her to come the last inch herself. Now she can feel him leaning into her hand as soon as she gives him somewhere to rest it. She kisses the place under his ear because it's right beside her, and the sound he makes makes her do it again, slower.
+
+His hand lifts to her cheek. The warmer part of his palm settles just under her ear. She tips her head into it until she can feel her own pulse quick against his thumb.
+
+“Remember the chair?” she says. ʸ
+
+He opens his eyes. “We left it in the corner.” ᴹ
+
+She gets a little laugh out. The next breath stays in her chest long enough to make him wait for her answer.
+
+“When I told you to rest. You don't have to come up with something for me every time I get close.” ʸ
+
+His eyes go to her mouth and back. She half expects a joke and would have liked whatever he said, but all he does is let the breath out slowly and ease toward her. She can feel it change through his back first, under her palm. Then his forehead comes to rest against hers. When he speaks again it's so quiet she feels the words on the breath between them first.
+
+“Would you hold me a little tighter?” he asks. ᴹ
+
+She does. The edge of the cover is trapped under her arm. She has to pull it free without letting go of him, and it's harder than it ought to be, with one elbow caught and both of them determined to stay where they are. Mau lifts one shoulder and the cover slides free. The movement brings him up just enough for her to look at him.
+
+He was waiting for her when she opened the door, with the book open at the wrong page for an excuse and enough light to see what she did when she found him there. She likes that she can see him look back at her now. She puts the back of her hand against the side of his face and follows the line of it with her knuckle. He turns and kisses her fingers before she can get them out of the way.
+
+“I would have finished talking to Mai,” she tells him again. ʸ
+
+“I know.” ᴹ
+
+“You could ask me tomorrow.” ʸ
+
+He looks pleased before she finishes. “I think I will.” ᴹ
+
+She puts the cover back over them once there's room for it. He ends up with his head at her collar again. This time she's the one who found the space to settle her cheek against his hair, and she lets her arm go loose across his shoulder so he can feel what it's like to be the only thing holding up its weight. A short breath of his warms the fabric of her shirt. Then another, slower. She can tell he doesn't intend to get up any time soon.
+
+“Now do you want the lamp off?” she asks. ʸ
+
+He lifts his head enough for her to see one eye in the light. “Eventually.” ᴹ
+
+She reaches for the lamp with one hand. It's half an arm too far away. Mau watches her try and has the good sense to keep his hand on her back instead of offering to get it with Authority. She waits for him to come the rest of the way into her arms before she gives up and lets the lamp burn a little longer.
+
+A minute goes by. His breathing has slowed enough that she thinks he'll fall asleep. Then he lifts his face.
+
+“Could you get me some water?” he asks. ᴹ
+
+She smiles before she's even turned to look for it. The glass they forgot is empty now. There's another one by the chair. The two glasses were side by side when she came in. He'd filled hers right up.
+
+“Stay there,” she says, touching his shoulder. “I'll bring you mine.” ʸ
+
+The rug is cold when she puts her feet down. She crosses back with the glass in both hands so the water won't rock over the rim. He's shifted just enough to sit up and take it. When he's done, he sets it near the lamp and reaches for her. She puts a knee on the bed and lets him draw her back into the place she left warm.
+
+“Thank you,” he says. ᴹ
+
+She takes his hand. The fingers that were round the glass are cool against hers. She tucks them under the cover with her own until they warm. Then she nudges the lamp a little nearer, turns it off and lies back with him.
 
 * * *
 

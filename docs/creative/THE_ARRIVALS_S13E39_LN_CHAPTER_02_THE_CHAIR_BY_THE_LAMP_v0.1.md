@@ -157,6 +157,14 @@ She kisses him before she can get embarrassed all over again. He makes room for 
 
 He does, looking up at her the whole time. She slips a hand behind his neck again and leans across him. This time she has room to feel him reach round her and enough time to see his eyes close when she kisses his throat. She stays there for one more breath. Then she pulls back a little, and he opens his eyes, puts his hand to her cheek and draws her down just as slowly as she'd come the first time.
 
+Yuka rolls onto her side and takes him with her. His arm settles around her waist. The cover slips down when she reaches to smooth his hair, and he follows the opening at her collar with a kiss. She feels him start to come back up.
+
+“You can stay there,” she says. ʸ
+
+He looks up, and she catches the smile before he can hide it against her. She moves his hand from her waist to her breast. The cotton is warm where his palm rests, and when he draws her nearer she can feel the pressure of his fingers change. He takes his time kissing the skin above his hand. Yuka closes her eyes. This time she doesn't have to hold herself upright or get her knee around the arm of a chair. She can stretch out against him and put both hands in his hair. When she opens her eyes he's still looking at her, waiting to see where she'll bring him next.
+
+She slides a hand to his jaw and brings his mouth back to hers.
+
 The edge of the light goes all the way across his pillow. Yuka looks at it for a moment, deciding whether she wants to see his face or be close enough that she can't. He makes a little questioning sound under his breath. She smiles against his mouth, pulls the cover up around them both and lets the lamp burn a while longer.
 
 * * *

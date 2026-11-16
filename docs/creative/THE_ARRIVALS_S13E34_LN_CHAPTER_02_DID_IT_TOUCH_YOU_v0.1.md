@@ -1,19 +1,49 @@
 # The Arrivals — Light Novel — Volume 78
-## Chapter 26 — Did It Touch You?
+## Chapter 27 — Did It Touch You?
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 78
-**Reading order:** 26
+**Reading order:** 27
 **Source episode:** S13E34
 **Continuity state:** B+322. Shoko clears Mau for a supervised dungeon with Yuka and Yuta: a harder gate Fern has kept for Yuka's training. Yuka leads; Mau holds back on purpose. Deep in, Yuka sees an opening and goes for it overconfident. Mau already has Sky running under her footing; he puts Infinity on her as well and pays the known cost of two techniques at once (pressure, heat, a nosebleed he wipes before she sees). Yuta kills the attacker. Mau goes straight to Yuka: "Did it touch you?" She says it reached. Not a scratch. On the way back she stays glued to him.
 
-*When: Nine days after he came back. Shoko signs the clearance with a face that says she'll regret it.*
+*When: B+322, morning. Shoko wants a word with all three of them before they set out.*
+
+Shoko has the gate assessment on one side of her desk and Mau's notes on the other. She moves the assessment closer to Yuka so she can read it. Then she looks at Mau.
+
+“The pressure from the test in the yard. How long did it last?” ˢʰ
+
+“Through dinner. My finger was fine by then,” Mau says. ᴹ
+
+“And the walk with Yuka?” ˢʰ
+
+“I was fine.” He sees her reach for her pen. “I got tired by the orchard. We sat down. I felt better on the way back.” ᴹ
+
+Yuka has one finger on the line about the lower passages. She keeps it there while Shoko writes. She knows how often Mau used to leave out the second part of an answer like that.
+
+“Ciel?” Shoko says. ˢʰ
+
+“Steady all morning. The bleeding sites have closed. Makima's hold has been steady since the night she stopped the convulsions.” ᶜ
+
+“That's how you got the time to heal,” Shoko tells Mau. “She kept the pressure from opening everything again. Your balance is back. You've got enough in you for a walk like this.” She taps the assessment with the back of her pen. “And the test three days ago tells me your head still has to work hard when you use that much at once.” ˢʰ
+
+Mau nods. Yuka can see him take both parts in. He stands at the corner of the desk with his weight even on both feet, turning the strap of one glove down over his wrist.
+
+“Yuta takes the close work when Yuka calls for it. You can give her one technique for support,” Shoko says. “If Ciel tells you the pressure's coming up, you tell these two and you come back.” ˢʰ
+
+“We come back,” Yuka says. ʸ
+
+Mau turns the glove over in his hand. “We come back.” ᴹ
+
+Shoko signs the clearance. She slides it across the desk to Yuka, who folds it once and takes it with her.
+
+* * *
 
 “She leads,” Mau says. ᴹ
 
 Yuta looks at him. Yuka looks at him.
 
-They're standing at the mouth of the gate, the three of them, in the cold early light. It's a bigger gate than the red one was, and a meaner one; Fern has been keeping it in the register for weeks, marked with a small careful note that says *for Yuka, when she's ready*. The assessment says it's full of things that move fast and hit hard and come from directions you don't expect. Good practice. Not too dangerous, with backup.
+They're standing at the mouth of the gate, the three of them, in the cold early light. It's a wider opening than the red one's. Fern has been keeping it in the register for weeks, marked with a small careful note that says *for Yuka, when she's ready*. The assessment says it's full of things that move fast and hit hard and come from directions you don't expect. Good practice, with backup.
 
 “I lead?” Yuka says. ʸ
 

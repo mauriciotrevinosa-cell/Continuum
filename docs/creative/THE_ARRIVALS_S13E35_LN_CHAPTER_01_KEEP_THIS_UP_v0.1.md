@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 78
-## Chapter 27 — Keep This Up
+## Chapter 28 — Keep This Up
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 78
-**Reading order:** 27
+**Reading order:** 28
 **Source episode:** S13E35
 **Continuity state:** B+322, afternoon. Home from the gate. Mau tells Shoko about the two techniques and the nosebleed before Yuka can; Shoko checks him and finds nothing new, and is angry anyway. Then Yuka settles on top of him on the couch and announces, with complete seriousness, that he has earned having her there all day and feeding her. He takes a dessert out of the Shop. "Keep this up and you'll get yourself a wife." He takes out a second. She laughs. The afternoon of desserts; Gojo's tally; Yuta tells the house about the second monster in his own way.
 

@@ -5,7 +5,7 @@
 **Season:** 13
 **Coverage:** S13E22–S13E35 (B+306 night to B+322)
 **Volume title:** **The Floor Under Him**
-**Chapter files:** 27
+**Chapter files:** 28
 
 Home from the island, Mau goes looking for a gate nobody wants and finds a red one. Something he has carried for years breaks in the middle of an ordinary morning, and the help that saves him comes from someone the house does not trust. For three days he does not know Yuka's name.
 
@@ -40,5 +40,6 @@ Home from the island, Mau goes looking for a gate nobody wants and finds a red o
 | 23 | S13E33 | Chocolate for Whoever Comes In | `THE_ARRIVALS_S13E33_LN_CHAPTER_01_CHOCOLATE_FOR_WHOEVER_COMES_IN_v0.1.md` |
 | 24 | S13E33 | Safe | `THE_ARRIVALS_S13E33_LN_CHAPTER_02_SAFE_v0.1.md` |
 | 25 | S13E34 | Bang | `THE_ARRIVALS_S13E34_LN_CHAPTER_01_BANG_v0.1.md` |
-| 26 | S13E34 | Did It Touch You? | `THE_ARRIVALS_S13E34_LN_CHAPTER_02_DID_IT_TOUCH_YOU_v0.1.md` |
-| 27 | S13E35 | Keep This Up | `THE_ARRIVALS_S13E35_LN_CHAPTER_01_KEEP_THIS_UP_v0.1.md` |
+| 26 | S13E34 | Two Plates | `THE_ARRIVALS_S13E34_LN_CHAPTER_03_TWO_PLATES_v0.1.md` |
+| 27 | S13E34 | Did It Touch You? | `THE_ARRIVALS_S13E34_LN_CHAPTER_02_DID_IT_TOUCH_YOU_v0.1.md` |
+| 28 | S13E35 | Keep This Up | `THE_ARRIVALS_S13E35_LN_CHAPTER_01_KEEP_THIS_UP_v0.1.md` |

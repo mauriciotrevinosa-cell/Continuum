@@ -13,7 +13,7 @@ It's very loud in here.
 
 That's the first thing Makima understands. She has been inside people before, in a manner of speaking: inside their wants, their fears, the small levers that move them. She knows what a person sounds like from close up. She has never been *inside* one like this, in the meat and the light of them, and she had not expected it to be so loud.
 
-Everything is moving. Blood, breath, the slow heavy pulse of a heart that's too big for an ordinary chest. Cursed energy running in channels like rivers. Mana somewhere deeper, in a different current, cold and ancient. The eyes, behind everything, pouring in and pouring in, a ceaseless flood of what-is that would drown anyone who had to look at it directly.
+Everything is moving. Blood, breath, a warm beat she recognizes and a colder, heavier one answering from deeper in his chest. She counts three of each before she can listen to anything else. Cursed energy running in channels like rivers. Mana in a different current, cold and ancient. The eyes, behind everything, pouring in and pouring in, a ceaseless flood of what-is that would drown anyone who had to look at it directly.
 
 And under all of it, the thing that's killing him.
 

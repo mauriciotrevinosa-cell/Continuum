@@ -185,7 +185,7 @@ Shoko looks at the hand Mau closed on her sleeve. She'd heard what Noise sounded
 
 They carry him to his own room. Yuka walks beside the stretcher with her hand on his chest the whole way. Shoko follows with her bag and her ruined coat.
 
-They put him in the bed. Shoko checks everything twice. Three times. His breathing is slow and steady. His heart has settled. Nothing is bleeding.
+They put him in the bed. Shoko checks everything twice. Three times. His breathing is slow and steady. She feels the ordinary beat settle, then waits for the heavier beat of the Black Heart before she takes her hand off his chest. Nothing is bleeding.
 
 “He's stable,” she says, finally. ˢʰ
 

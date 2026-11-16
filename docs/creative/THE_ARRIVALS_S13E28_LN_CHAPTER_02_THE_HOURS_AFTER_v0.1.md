@@ -53,9 +53,9 @@ Yuka doesn't think about it. She doesn't have room to think about it.
 
 * * *
 
-Toward evening, Shoko comes back to check him.
+Toward evening, Shoko comes back to check him. Rimuru comes with her.
 
-She does everything again, slowly, carefully: his pulse, his breathing, his eyes, her hands flat on his chest and then on the sides of his head, feeling for something under the skin. Ciel talks to her quietly the whole time, aloud, so Yuka can hear. Numbers. Pressures. Things that sound medical and that Yuka doesn't understand and listens to anyway.
+She does everything again, slowly, carefully. His breathing, his eyes. Two fingers at his wrist for the first pulse, her palm flat on his chest for the second. She leaves her hand there through several beats before she moves it to the sides of his head. Rimuru listens to Ciel and relays the numbers quietly. Yuka doesn't understand half of them and listens anyway.
 
 When she's done, Shoko sits back.
 
@@ -85,7 +85,7 @@ The news goes through the house the way news does, and the house breathes out.
 
 She can feel it, even from up here. Voices downstairs getting a little louder. Someone in the kitchen, finally, and the sound of a pan. Milim's laugh, once, cut off short as if she's remembered, but there. Shuna brings up a third bowl of soup and this time Yuka eats some of it, because Shoko is standing there watching her until she does.
 
-Rimuru comes in and sits on the other side of the bed for a while. He doesn't say much. He tells her that Shizue has made up a bed for Ori in the room next door if she wants it, and Ori says no without looking up, and Rimuru says that's fine, and puts a blanket around Ori's shoulders instead.
+Rimuru comes back and sits on the other side of the bed for a while. He doesn't say much. He tells her that Shizue has made up a bed for Ori in the room next door if she wants it, and Ori says no without looking up, and Rimuru says that's fine, and puts a blanket around Ori's shoulders instead.
 
 Yuta comes in with Maki. He puts his hand on Mau's chest for a minute with his eyes closed, the way Shoko did, and then nods to himself and takes it away.
 

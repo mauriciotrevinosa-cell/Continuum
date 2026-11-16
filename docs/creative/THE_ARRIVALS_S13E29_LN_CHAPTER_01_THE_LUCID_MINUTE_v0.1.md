@@ -183,7 +183,7 @@ She'll never be able to describe it, either. It isn't violent. It isn't loud. Ma
 
 And then she sinks into him.
 
-Into his chest, through Shoko's fingers, into the place where his heart is beating too fast. The way the soldiers went into the shadows, two days ago, in the yard. Like stepping into water.
+Into his chest, through Shoko's fingers, past the two beats she has her palm over. The way the soldiers went into the shadows, two days ago, in the yard. Like stepping into water.
 
 Mau's whole body jerks once.
 

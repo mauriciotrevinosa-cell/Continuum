@@ -267,7 +267,7 @@ She's already moving. She's off the stool and reaching for him when his eyes rol
 
 She catches him.
 
-He's heavier than he looks. She goes down on one knee under his weight and gets her arms round his chest and holds him, and his head falls against her shoulder, and she can feel his heart going under her hand, much too fast, like something trying to get out.
+He's heavier than he looks. She goes down on one knee under his weight and catches him against her shoulder. Under her palm she feels both hearts: the ordinary one racing, and the colder beat coming after it.
 
 “Ciel,” Shoko says, into his hair, very calm, very clear, the voice she uses in the worst moments, because she has learned that calm is the only thing that helps. “Ciel, something's wrong.” ˢʰ
 

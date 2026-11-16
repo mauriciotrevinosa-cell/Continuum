@@ -13,7 +13,7 @@ The common room is empty.
 
 That never happens. He stands in the doorway for a moment just looking at it: the couch, the armchairs, the screen dark on the wall, the curtain half drawn. Nobody on the floor. Nobody arguing about the chart. Through the wall he can hear the tournament in the kitchen, Umaru announcing a disqualification, Milim protesting, the whole house laughing.
 
-The common room is empty, and it's the best part of the day, and he's standing in it.
+They've got the sofa to themselves for a film. Mau goes to find Yuka before somebody notices.
 
 He goes and finds Yuka.
 

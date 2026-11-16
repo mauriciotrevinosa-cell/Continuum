@@ -43,7 +43,7 @@ Shoko signs the clearance. She slides it across the desk to Yuka, who folds it o
 
 Yuta looks at him. Yuka looks at him.
 
-They're standing at the mouth of the gate, the three of them, in the cold early light. It's a wider opening than the red one's. Fern has been keeping it in the register for weeks, marked with a small careful note that says *for Yuka, when she's ready*. The assessment says it's full of things that move fast and hit hard and come from directions you don't expect. Good practice, with backup.
+They're standing at the mouth of the gate, the three of them, in the cold early light. It's a wider opening than the red one's. Fern has been keeping it in the register, marked with a small careful note that says *for Yuka, when she's ready*. The assessment says it's full of things that move fast and hit hard and come from directions you don't expect. Good practice, with backup.
 
 “I lead?” Yuka says. ʸ
 
@@ -67,7 +67,7 @@ Yuka looks at him for a long moment. Then she grins.
 
 She's good.
 
-He knew she was good. He's watched her train for years, in the yard and in the small gates and with Maki and Yuta in the woods past the stream. He's seen her technique grow from something desperate and wild into something with shape. He's seen her hold the line in the war with Mahoraga beside her and nothing left in her.
+He knew she was good. He's watched her train in the yard and in the small gates and with Maki and Yuta in the woods past the stream. He's seen her technique grow from something desperate and wild into something with shape. He's seen her hold the line in the war with Mahoraga beside her and nothing left in her.
 
 He hasn't watched her *lead* before. Not like this.
 

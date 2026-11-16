@@ -45,7 +45,7 @@ She stops.
 
 Yuka looks at her for a long time.
 
-She thinks about the day. She doesn't like to. She's mostly managed not to, these last months. But she lets herself now. The pain first, sudden and enormous and everywhere. The ground. The taste of the ground. And then Mau's face, above her, and something in his eyes she had never seen before and has only seen once since, in the dungeon, near the end.
+She thinks about the day. She doesn't like to. Most days she manages not to. But she lets herself now. The pain first, sudden and enormous and everywhere. The ground. The taste of the ground. And then Mau's face, above her, and something in his eyes she had never seen before and has only seen once since, in the dungeon, near the end.
 
 “Why now,” Yuka says. ʸ
 
@@ -57,7 +57,7 @@ Yuka didn't know that. She was there. She didn't hear it. She was holding his he
 
 She hesitates.
 
-Yuka has never seen Makima hesitate. In all the months of dinners and visits and carefully neutral conversations at the far end of the table, Makima has never once looked as though she didn't know exactly what to say next.
+Yuka has never seen Makima hesitate. Through the visits and the carefully neutral conversations at the far end of the table, Makima has never once looked as though she didn't know exactly what to say next.
 
 “When I went into him,” Makima says slowly, “things came through. His things. Memories. I wasn't looking for them; they came. And one of them was that day.” ᴹᵏ
 

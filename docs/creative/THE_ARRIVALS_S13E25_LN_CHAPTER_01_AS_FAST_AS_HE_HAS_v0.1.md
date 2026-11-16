@@ -99,7 +99,7 @@ He puts pressure on it. He closes it with RCT, carefully, from the inside out, t
 
 “You got careless *because* you got tired.” ᴺ
 
-He doesn't argue. Noise is right. He's spent fifteen days running at the edge of everything he has and his body has started making mistakes. He knew it would. He's been waiting for it.
+He doesn't argue. Noise is right. He's been running at the edge of everything he has since the seventh day and his body has started making mistakes. He knew it would. He's been waiting for it.
 
 “Do you want to slow down?” Ciel asks quietly. ᶜ
 

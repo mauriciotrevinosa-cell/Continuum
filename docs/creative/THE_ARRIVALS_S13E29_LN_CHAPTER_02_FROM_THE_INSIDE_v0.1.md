@@ -21,7 +21,7 @@ And under all of it, the thing that's killing him.
 
 She finds it quickly. She doesn't have to look hard. It's the loudest thing here.
 
-It sits in him the way water sits behind a dam. Vast. Patient. Pressing. It isn't malicious; it isn't anything. It's simply *more*: more than he was built to hold, poured into him a little at a time, over years, by the eyes and the refinement and everything he has ever taken in, until there's nowhere left for it to go. It presses against the walls of him. Where the walls are thin, it seeps. Where it seeps, things break.
+It sits in him the way water sits behind a dam. Vast. Patient. Pressing. It isn't malicious; it isn't anything. It's simply *more*: more than he was built to hold, poured into him a little at a time by the eyes, pass after pass of refinement, with no room made for what he took in, until there's nowhere left for it to go. It presses against the walls of him. Where the walls are thin, it seeps. Where it seeps, things break.
 
 She has never seen anything like it. She has never seen anything so much like a thing that wants to be *ordered*.
 

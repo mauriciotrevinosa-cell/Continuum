@@ -25,7 +25,7 @@ Nobody answers her.
 
 Yuka looks at her.
 
-She knows that face. She has spent months learning not to flinch from it at dinner. She knows the polite little smile and the calm eyes and the voice that never rises, and she knows what's underneath, or some of it. She knows about the devil that came for her, sent by those same calm eyes, back when Makima thought that taking her out of the way would bring Mau closer. She remembers Mau's face when he found her.
+She knows that face. She has learned not to flinch from it at dinner. She knows the polite little smile and the calm eyes and the voice that never rises, and she knows what's underneath, or some of it. She knows about the devil that came for her, sent by those same calm eyes, back when Makima thought that taking her out of the way would bring Mau closer. She remembers Mau's face when he found her.
 
 Makima isn't smiling now.
 

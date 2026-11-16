@@ -7,7 +7,7 @@
 **Source episode:** S13E33
 **Continuity state:** B+318, morning, Mai's workshop. Yuka's point of view. Yuka's conversation alone with Mai that the handoff asks for: she feels safe with Mau; he takes even her whims seriously; it makes her happy that he feels safe resting with her too. She wants him near almost all day, and she also misses Mai. They agree on a standing morning in the workshop. Mai cuts the island cloth.
 
-*When: The morning after chocolate day. Mau is asleep again; Shoko says he will be, on and off, for a while. Yuka goes to the workshop without him for the first time since they came home.*
+*When: The morning after chocolate day. Mau is asleep again; Shoko says he will be, on and off, for a while. Yuka brings Mai a cup of hot chocolate and sits with her while she marks the island cloth.*
 
 The workshop is cold in the mornings.
 
@@ -153,7 +153,7 @@ Yuka takes her hands away from her face. She looks at Mai. At Mai's cold red-knu
 
 Mai goes still.
 
-“I miss you,” Yuka says. “I miss the workshop. I miss sitting here in the cold while you mark things and not talking. I miss you telling me my hair looks like a bird's nest. I miss telling you what colour things are. Since the island I've been with him every minute and I love it and I don't want to stop, and I still miss *you*, and I don't know how to have both.” ʸ
+“I miss you,” Yuka says. “I miss the workshop. I miss sitting here in the cold while you mark things and not talking. I miss you telling me my hair looks like a bird's nest. I miss telling you what colour things are. Since the clinic I keep telling myself I'll come down as soon as I know he's all right. And then I get here and I've only got five minutes before you have to go do something else. I'd like a whole morning with you.” ʸ
 
 * * *
 
@@ -165,19 +165,19 @@ Then she picks up the chalk again, and turns back to the cloth, and makes a mark
 
 “What?” ʸ
 
-“Mornings. Here. Before I light the stove. He sleeps late now anyway. Shoko said.” ᴹᵃ
+“Mornings. Here. Before I light the stove.” ᴹᵃ
 
 Another mark.
 
-“You come down after breakfast,” Mai says. “Every day you want to. You bring Shuna's hot chocolate. You sit there and tell me what colour things are, and I tell you your hair looks like a bird's nest, and we don't talk about him unless you want to. And then you go back up and climb on him and Gojo adds one to his tally.” ᴹᵃ
+“You come down after breakfast,” Mai says. “Bring Shuna's hot chocolate. You sit there and tell me what colour things are, and I tell you your hair looks like a bird's nest. We can start tomorrow.” ᴹᵃ
 
 Yuka stares at her.
 
-“And on the days you don't come,” Mai says, “I'll know he needed you more, and I won't mind.” ᴹᵃ
+“And if we miss a morning,” Mai says, “we'll pick up where we left off. I won't keep a tally.” ᴹᵃ
 
 Another mark. Her voice is perfectly dry.
 
-“Much,” she adds. ᴹᵃ
+“Gojo's doing enough of that for everybody,” she adds. ᴹᵃ
 
 Yuka laughs. It comes out wet and surprised and much too loud for the quiet workshop. She leans over and puts her arms round Mai's shoulders from the side, coat and chalk and all, and holds on.
 

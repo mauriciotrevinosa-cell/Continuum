@@ -5,7 +5,7 @@
 **Volume:** 78
 **Reading order:** 34
 **Source episode:** S13E37
-**Continuity state:** B+326. Yuka asks Mau to train with her, just the two of them, in the yard. He teaches her the shoulder roll Jin-Woo taught him; she teaches him nothing and says so. They spar with blunt trainers. He keeps holding back; she notices and gets angry in a playful way and makes him promise to stop "being nice". She lands one hit fair, then wins the last round by tickling him. Shoko watches from the porch and pretends to read. In the evening, the best part of the day is the bath of the tub-and-bucket kind, separately, then the porch with wet hair.
+**Continuity state:** B+326. Yuka asks Mau to train with her, just the two of them, in the yard. He teaches her the shoulder roll Jin-Woo taught him; she teaches him nothing and says so. They spar with blunt trainers. He keeps holding back; she notices and gets angry in a playful way and makes him promise to stop "being nice". She lands one hit fair, then wins the last round by tickling him. Shoko watches from the porch and pretends to read. After supper they wash up and sit on the porch with their hair still wet.
 
 *When: The day after the gate. Yuka says she wants to be able to do more than nothing next time.*
 
@@ -31,7 +31,7 @@ He sits up in bed.
 
 He teaches her the shoulder roll.
 
-It's the first thing Jin-Woo ever taught him, weeks ago, on the training posts: how to turn the shoulder away from a blow instead of meeting it, so the force slides past and leaves you facing the right way. It took Mau days. His bad fingers and the old breaks in his arm kept getting in the way, and Jin-Woo kept correcting him, patiently, again and again, until one morning it just worked.
+It's the first thing Jin-Woo taught him at the training posts: how to turn the shoulder away from a blow instead of meeting it, so the force slides past and leaves you facing the right way. It took Mau days. His bad fingers and the old breaks in his arm kept getting in the way, and Jin-Woo kept correcting him, patiently, again and again, until one morning it just worked.
 
 It takes Yuka about twenty minutes.
 
@@ -73,7 +73,7 @@ They spar.
 
 He sets the rules. Trainers only. No techniques. No Authority. No Sky. Just bodies and blunt wood, the way he does it with Jin-Woo in the mornings.
 
-She's good. He knew she would be. She's fast, much faster than he expects every time, and she's been training with Maki for years, and it shows: she moves low and close, gets inside his reach, uses the fact that she's smaller than him the way Maki taught her. The first time she gets past his trainer and taps him on the hip he's genuinely surprised.
+She's good. He knew she would be. She's fast, much faster than he expects every time, and he recognises Maki's work with her the moment she moves low and close, inside his reach, using the fact that she's smaller than him. The first time she gets past his trainer and taps him on the hip he's genuinely surprised.
 
 He's holding back.
 
@@ -95,7 +95,7 @@ She's standing in front of him breathing hard, her hair coming loose, her cheeks
 
 “I didn't want to hit you.” ᴹ
 
-“It's a *stick*, Mau. It's a blunt stick. I've been hit with worse by Maki every week for three years.” ʸ
+“It's a *stick*, Mau. It's a blunt stick. Maki hits me harder than that in the yard and tells me I left an opening.” ʸ
 
 “I'm not Maki.” ᴹ
 
@@ -193,7 +193,7 @@ Yuka laughs so hard she falls off him.
 
 * * *
 
-That evening, after supper, in the best part of the day, they're both still in the yard dirt.
+After supper they've both still got yard dirt on their knees.
 
 They take turns with the tub in the washroom, one after the other, hot water and the big bucket and the rough soap that Shuna makes. He goes first and she bangs on the door twice to tell him to hurry up. She goes second and takes so long he bangs on the door once, and she tells him through it that a champion takes as long as she likes.
 

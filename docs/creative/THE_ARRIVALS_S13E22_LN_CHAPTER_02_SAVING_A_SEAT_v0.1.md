@@ -43,7 +43,7 @@ The bread is very good.
 
 Rem watches them try it from the far end of the table while pretending to read the household register over Fern's shoulder. Fern lets her pretend. When Mau looks up and nods, Rem ducks her head and turns a page of the register that Fern hasn't finished reading yet. Fern turns it back.
 
-The table is full. It's the first breakfast in two weeks where everybody is in one place, and the noise of it is something Mau didn't realise he had missed until it was all around him again: Milim telling Ori about a dream she had in which the screen was the size of the orchard; Gojo asking Shoko if three cups is still a reasonable number on a day when somebody has come home from a trip; Shoko telling him it isn't; Maki stealing a piece of Yuta's bread while he's looking the other way, and Yuta letting her, and both of them knowing it. Frieren is reading at the end of the bench with a cup of tea that has gone cold. She looks up once when Mau sits down and says, “You owe me the bird,” ᶠ and goes back to her book.
+The table is full. It's the first breakfast since they left for the island where everybody is in one place, and the noise of it is something Mau didn't realise he had missed until it was all around him again: Milim telling Ori about a dream she had in which the screen was the size of the orchard; Gojo asking Shoko if three cups is still a reasonable number on a day when somebody has come home from a trip; Shoko telling him it isn't; Maki stealing a piece of Yuta's bread while he's looking the other way, and Yuta letting her, and both of them knowing it. Frieren is reading at the end of the bench with a cup of tea that has gone cold. She looks up once when Mau sits down and says, “You owe me the bird,” ᶠ and goes back to her book.
 
 “After breakfast,” Mau says. ᴹ
 
@@ -185,7 +185,7 @@ Gojo nods slowly, as though Mau has confirmed a diagnosis. He walks over and lea
 
 “She does not like you that much.” ᴹ
 
-Gojo concedes this with a tilt of his head. He looks at the posts, then back at Mau, and there's something in his face under the blindfold that Mau has learned to read over the years, the part of Gojo that isn't joking.
+Gojo concedes this with a tilt of his head. He looks at the posts, then back at Mau, and there's something in his face under the blindfold that Mau has learned to recognise, the part of Gojo that isn't joking.
 
 “Go somewhere,” Gojo says. “Not today. You only just got back, and she'd want you here. But soon. Find a gate nobody wants. Clear it. Come back tired.” ᴳ
 

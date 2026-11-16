@@ -5,31 +5,39 @@
 **Volume:** 78
 **Reading order:** 35
 **Source episode:** S13E37
-**Continuity state:** B+327–328. Gojo declares a day apart. Mau goes with Gojo, Yuta and Jin-Woo to the stream to fish; nobody catches anything; Gojo talks about Shoko and the island trip; Jin-Woo teaches Suho to skip stones. Yuka spends the day with Maki, Mai, Umaru and Rem in town and the workshop. Both of them enjoy it, and both keep looking at the light. At supper they meet each other's eyes and leave before dessert. Next day it rains and they do nothing at all. The volume closes on the window seat.
+**Continuity state:** B+327–328. Mau and Yuka make plans over breakfast. He goes fishing with Gojo, Yuta, Jin-Woo and Suho while she goes into town with Maki, Mai, Umaru and Rem. They see each other when they get home and trade stories after supper. The next day it rains and they spend most of it in the window seat.
 
-*When: Two days after the gate. Gojo announces at breakfast that the two of them are being separated "for the good of the house and the integrity of my tally".*
+*When: B+327, two days after their visit to the quarry. Maki needs a few people for an errand in town. Gojo has borrowed Senku's fishing rods.*
 
-“You're being separated,” Gojo announces. ᴳ
+Yuka has got both hands round Mau's cup when Maki leans over the back of their bench.
 
-The table goes quiet.
+“I'm going to town after breakfast. Want to come?” ᴹᵃᵏ
 
-“For one day,” Gojo says. “For the good of the house. For the integrity of my tally, which has become statistically meaningless. And because Maki says Yuka hasn't spent a whole day with her friends since before the island, and I say Mau hasn't spent a whole day with *his* friends since before the island, and Shoko says if I don't stop counting things she'll take my notebook.” ᴳ
+“What are we getting?” ʸ
 
-“I said I'd *burn* it,” Shoko says. ˢʰ
+“Thread. Snacks. A new pan because Milim used Rem's old one as a helmet.” ᴹᵃᵏ
 
-“She said she'd burn it,” Gojo agrees. ᴳ
+“It was too small,” Milim calls from three seats over. ᴹⁱ
 
-Mau looks across the table at Yuka.
+“That only makes it worse,” Rem tells her. ᴿᵉ
 
-Yuka looks at Maki. Maki looks back with her arms folded, unmoved.
+Yuka laughs into the cup. She hands it back to Mau and asks Maki to give her time to find her shoes.
 
-“One day,” Maki says. “Town. Mai needs thread. Umaru needs snacks. Rem needs a new pan because Milim used the old one as a helmet. You're coming.” ᴹᵃᵏ
+“Stream?” Gojo asks, coming around the table with four rods under his arm. “Senku wants these tested.” ᴳ
 
-“And you,” Gojo says to Mau, “are coming fishing.” ᴳ
+“Did he ask you to test them?” ᴹ
 
-“I don't fish.” ᴹ
+“He'll appreciate the data.” ᴳ
 
-“Nobody fishes. That's what fishing is.” ᴳ
+Mau looks at the rods. He used to go past the stretch below the Sungs' house and think about sitting down on the big rock. Somehow he was always headed somewhere by the time he saw it.
+
+“Let me finish my coffee,” he says. ᴹ
+
+Yuka puts her chin on his shoulder. His cup is empty.
+
+“Want some of mine?” she asks. ʸ
+
+He takes it. It's exactly how he makes his, down to how much she left in it.
 
 * * *
 
@@ -41,7 +49,7 @@ The stream is wide and slow below the Sungs' house, where it bends round a big f
 
 Nothing happens for a long time.
 
-It's the strangest morning he's had in months. Nobody needs anything. Nobody's hurt. Nothing is coming. The water goes past, slow and grey and glinting, and the sun is warm on the rock, and Gojo is lying on his back with his rod propped between his feet and his blindfold pushed up on his forehead, and Yuta is very carefully watching his line as if it might do something, and Jin-Woo is showing Suho how to choose a flat stone.
+Mau stays on the warm part of the rock until he hears Suho asking why the fish aren't hungry. The water goes past, slow and grey and glinting, and the sun is warm on the rock, and Gojo is lying on his back with his rod propped between his feet and his blindfold pushed up on his forehead, and Yuta is very carefully watching his line as if it might do something, and Jin-Woo is showing Suho how to choose a flat stone.
 
 “Like this,” Jin-Woo says. “Flat. Thin. Smooth.” ᴶʷ
 
@@ -101,57 +109,43 @@ Suho skips a stone, once, three times across the water before it sinks, and is s
 
 They eat Shuna's food. They lie on the rock in the sun. Yuta falls asleep. Gojo tells a long story about a curse that turned out to be a very large fish, which is clearly the same story as the cat one with the animal changed, and nobody points this out.
 
-It's good. It's really good.
+By the time they reel in, Suho has found another flat stone. He's been carrying it up and down the rock in both hands.
 
-And he keeps looking at the sky.
+“Going to try for four?” Mau asks. ᴹ
 
-* * *
+Suho shakes his head. “This one's for Mom.” ˢᵘ
 
-“You're doing it,” Jin-Woo says, in the afternoon. ᴶʷ
-
-They're sitting at the edge of the rock with their feet in the water. Suho is asleep against his father's side.
-
-“Doing what?” ᴹ
-
-“Checking the sun.” ᴶʷ
-
-Mau stops.
-
-“Hae-In does it too,” Jin-Woo says. “When I'm at a gate. She says she doesn't. Jin-Ah told me.” ᴶʷ
-
-He looks down at Suho, asleep.
-
-“It's a good thing,” he says. “Wanting to get home. It's a good thing to have somewhere you're checking the sun for.” ᴶʷ
-
-Mau looks at the light on the water. It's getting long.
-
-“Yeah,” he says. ᴹ
+Mau helps him get it into a pocket it won't fall out of on the walk back. At the Sungs' house, Suho calls Hae-In to the door to see it. She asks him to show her how he threw the first one. He makes her put out her hand first so she can hold his while he shows her.
 
 * * *
 
-Yuka's day, he hears about later. In pieces. From her, and from Maki, and from Umaru, who has opinions.
+Yuka has a paper bag on her lap when Mau comes in carrying the rods. She's sitting on the bench by the door, unlacing one of her shoes.
 
-They went into town. Mai bought thread, too much of it, in colours Yuka described to her one by one in the shop until the shopkeeper started listening too. Umaru bought snacks, too many of them, and argued about the price of one bag for a quarter of an hour and won. Rem found a pan, a good heavy one, and carried it home herself and wouldn't let anyone help. They had lunch at a place with tables outside. Maki made Yuka laugh so hard she got tea up her nose.
+“Put those down. I saved you something.” ʸ
 
-“She kept looking at the sky,” Maki tells him, at supper, without being asked. “All afternoon. Every ten minutes.” ᴹᵃᵏ
+From the bag she takes a bun, folded over in the middle where the sugar melted. He takes a bite before he says thank you. Yuka holds the bag under his chin to catch the crumbs.
 
-“So did he,” Yuta says. ʸᵗ
+“It's still warm,” he says. ᴹ
 
-“*Every* ten minutes?” ᴹᵃᵏ
+“I got it on the way out. Mai had to go back for a spool she saw after we'd already paid.” ʸ
 
-“About every five,” Jin-Woo says. ᴶʷ
+“And whose fault was that?” Mai asks from behind her. ᴹᵃ
+
+“Mine,” Yuka says. “It was the exact colour of the jam in that bun. She needed to know.” ʸ
+
+Rem goes by with her new pan held flat in both hands. She lets Milim look at it for exactly as long as it takes to say, “This is a pan.” ᴿᵉ
+
+Milim puts her hands behind her back.
 
 * * *
 
 At supper, he finds her eyes.
 
-She's at the other end of the table. Between Maki and Umaru, where she's been all day. She's laughing at something Umaru said. And then she looks up, down the long table, past the bread and the dishes and the twenty people talking, and finds him.
+She's at the other end of the table. Between Maki and Umaru, listening with her chin in her palm. She's laughing at something Umaru said. And then she looks up, down the long table, past the bread and the dishes and the twenty people talking, and finds him.
 
 They look at each other.
 
-She's been gone one day. Not even a whole day: breakfast to supper. She was in town. He was at the stream. Both of them had a good day. He knows she had a good day; he can see it on her face, the leftover brightness of an afternoon with her friends.
-
-And still.
+He thinks of the things he's heard so far about town, and how every time she gets to the part about Rem she has to stop because she's laughing. He wants to hear her get through it.
 
 She puts down her spoon. He puts down his.
 
@@ -163,7 +157,7 @@ So does he.
 
 Gojo looks from one of them to the other. He opens his notebook. Then he looks at Shoko, who is looking at the notebook, and closes it again.
 
-“Go,” Shoko says. ˢʰ
+“Take a plate with you,” Shoko says, and slides them each one. ˢʰ
 
 They go.
 
@@ -191,7 +185,7 @@ She looks down at their hands. There is still dirt in the side of one of his nai
 
 “Three bounces. He was so pleased he wanted to take that one home too, but it was in the stream. He took the flat one to show his mother.” ᴹ
 
-She likes that story enough to want to hear it sitting down. She also wants to tell him what Rem said when she saw what Mai had let Yuka talk her into buying. Apart from an interrupted minute over dinner, she hasn't heard his voice all day, and there are small things she wants to tell him while she still remembers who said them.
+She likes that story enough to want to hear it sitting down. She also wants to finish telling him what Rem said when she saw what Mai had let Yuka talk her into buying. She's pretty sure she'll make it all the way through this time.
 
 “Come upstairs,” she says. ʸ
 
@@ -201,7 +195,7 @@ He takes one step. She stays exactly where she is, holding him fast by the hand.
 
 She brings him back. The sleeve he's turned back brushes her cheek when he puts his hand up to her face. She kisses him in the hallway, where they can hear somebody turning over a chair in the kitchen. He turns his face into hers a little more when she starts to pull away, and she gives him that second too.
 
-Upstairs he finally asks her what she bought. She gets as far as *Rem said* and has to put both hands over her face to make it through the rest of the sentence. Mau waits her out, sitting on the rug beside her shoes. She goes down to sit with him. By the time she tells him about the walk home, they're sitting shoulder to shoulder and he's got the things she brought back spread out between his knees, lifting the edge of the wrapping while she tells him which thing is for whom.
+Upstairs he finally asks her what she bought. She gets as far as *Rem said* again and has to put both hands over her face to make it through the rest of the sentence. Mau waits her out, sitting on the rug beside her shoes. She goes down to sit with him. By the time she tells him about the walk home, they're sitting shoulder to shoulder and he's got the things she brought back spread out between his knees, lifting the edge of the wrapping while she tells him which thing is for whom.
 
 * * *
 
@@ -237,7 +231,9 @@ They watch the rain.
 
 People go up and down the stairs past them all day. Milim, chasing Ori. Ori, chasing Milim. Fern, with the register. Makima, once, who stops at the top of the stairs and looks at them in the window seat and then goes back down without a word. Gojo, who doesn't take out his notebook. Beru, with his hat, who takes up a post at the bottom of the stairs and stays there.
 
-Nobody asks them to do anything.
+Ori comes back with a newspaper folded into a boat, which is already listing to one side. Yuka holds the hull open while Mau creases the bottom against the sill. Ori wants to know if she should put a passenger in it. Mau finds a little twist of paper that will do. Yuka tells her the passenger needs a name and just like that Ori's back down the steps to ask Milim for one.
+
+They can hear the argument from the window seat. By the sound of it the boat is going to need a second passenger.
 
 * * *
 
@@ -259,7 +255,7 @@ She turns her head to look up at him.
 
 “Really nothing.” ᴹ
 
-He means it. That's the strange part. For the first time in he doesn't know how long, there's nothing in his head. No gate. No sea. No door he's holding shut. No count. Just the rain, and her, and the window, and the orchard going grey and greyer in the falling light.
+He means it. For a while he'd been following one drop down the glass, seeing if it would catch the one below it. Then Yuka leaned her head back and he lost the drop.
 
 She looks at him a moment longer. Then she smiles, and turns back to the window, and settles her head against his chest.
 

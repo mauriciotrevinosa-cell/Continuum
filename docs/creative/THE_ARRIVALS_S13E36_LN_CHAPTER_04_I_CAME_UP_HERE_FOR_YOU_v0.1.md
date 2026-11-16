@@ -79,7 +79,7 @@ She puts her hands against his chest and gives him one very gentle push. The bac
 
 * * *
 
-Mau can see her whole face from here. In all the time he's known what it looks like to watch Yuka trying to decide on a thing, he can still sometimes get it wrong. There is no mistaking what she's thinking about now. She puts one knee beside him and one hand flat at his shoulder. He steadies her at the waist and feels her settle across his legs.
+From where Mau's sitting, he has to tip his head back a little to look at her. Yuka likes having that second to see what it does to him when she takes her time. She puts one knee beside him and one hand flat at his shoulder. His hands go to her waist only when the mattress moves under her knee, and she takes the help and settles across his legs.
 
 “You never asked me what I wanted while we were downstairs,” she says. ʸ
 
@@ -89,19 +89,19 @@ Mau can see her whole face from here. In all the time he's known what it looks l
 
 “I wanted to hear you say yes.” ᴹ
 
-The tips of her ears go pink this time. He watches it happen. She's so close that he forgets to hide the smile until she's already seen it. She takes his face in both hands, as if to keep him from making any observations about her ears, and kisses him.
+Her ears get hot. She watches his eyes go straight to the one she tucked her hair behind earlier, then back to her face. He's halfway to a smile. She cups his face with both hands to forestall whatever he's going to say about the ears and kisses him.
 
-He feels her laugh when he leans into it a little too far. The bed sinks under his weight and she follows him down, still laughing, her palm spread against the back of his head so he won't knock it on the wall. Once they're still, he can see a strip of light on the side of her face. He puts his hand against that cheek. She shifts into his palm, and he has time to feel the way her mouth moves before they kiss again.
+He leans into her kiss a little too far. She laughs and goes down with him, spreading her palm across the back of his head so he won't hit the wall. The mattress dips. She waits until it settles to get her hand out from underneath him. By then he's got his hand against her cheek. She turns into it and kisses the pad of his thumb before she comes back to his mouth.
 
-He wants to hold her there with one arm. He tries it, the way he did in the kitchen, then feels her slip her hand underneath his to make room for him to do it properly.
+His arm comes round her the way it did in the kitchen. The sleeve catches underneath her, and she props herself up long enough to get it loose and put his hand where she wants it.
 
 “That's better,” she says, barely loud enough for him to hear. ʸ
 
-He keeps the arm where she put it. When she pulls back to breathe, she stays near enough that he can feel her forehead against his. He goes to move a loose strand off her mouth. She catches the tips of his fingers and kisses them, one at a time, with such unhurried care that by the time she lets go he has forgotten what he was going to do with his hand. He leaves it on her cheek.
+He keeps the arm where she put it. When she pulls back to breathe, she rests her forehead against his. A strand of hair sticks to her mouth. He goes to move it. She catches his fingers on the way, kisses the tip of each one, and puts his palm back against her cheek when she's done. It takes him another second to remember the hair. She blows it away herself.
 
 “I love you,” he tells her. ᴹ
 
-“I know.” She says it easily. He remembers when she used to need to hear the rest of the sentence before she could settle against him. This time the rest is only her smile and her arm around him, drawing him back to her. “I love you, too.” ʸ
+“I know,” she says, and hears how easily it comes out. There was a time when she would have asked him how long he'd been thinking about that, or whether he'd say it again when they were downstairs. Now she can just reach around him and say, “I love you, too.” ʸ
 
 Yuka starts to sit up and gets stopped by her own elbow. She's been holding herself away from putting any weight on him for so long that when she moves it, her hand shakes against the sheet.
 
@@ -133,9 +133,43 @@ Yuka turns her face into his shoulder. “I can get it.” ʸ
 
 He gives up on Authority, rolls over onto his feet, and goes to the window. She takes his place on the pillow while he's gone. When he comes back there is still a thin stripe of light from the gap at the edge. It falls across his wrist as he braces his hand beside her head. She puts her hand on the back of his neck and draws him down to her. He takes a breath against her mouth. She feels him wait there, a hair's breadth away, till she moves the rest of the way herself.
 
-* * *
+His sleeve brushes her cheek when he lifts his arm. She gets hold of the cuff before it can go past her.
 
-By the time they're lying side by side again, the sheet has come loose at his feet and Yuka has got most of it. Mau tries to pull it straight with his heel. She tucks her corner under her chin and holds on when she feels him tug.
+“Wait. I want that hand back.” ʸ
+
+He gives it to her, open. There's an old scar through the palm. She knows it well enough to find it with a finger in the dark. She runs her thumb across it once and brings the hand back to her waist.
+
+“There?” he asks. ᴹ
+
+“There. Hold me like you mean it.” ʸ
+
+He lets out a little laugh. She would ask what was funny, but then his fingers close, warm and sure, and she has to take a breath before she can say anything at all.
+
+“Oh,” she says. ʸ
+
+“That's what I thought you'd say.” ᴹ
+
+She gets a hand into his hair and kisses him for it. A minute ago he was watching her face to see if she'd make up her mind. Now he has his eyes shut, and when she breaks their kiss his mouth follows hers a little before he catches himself. She likes seeing that. She comes back just far enough to kiss him at the corner of his mouth and feels his smile against hers.
+
+They make love with the last light coming through the curtain. Yuka loses sight of the bright line when she closes her eyes. She keeps her hand on Mau's back, where she can feel the quick rise of his breath against her palm. When he goes still, she opens her eyes and finds him looking down at her.
+
+“Still good?” he asks. ᴹ
+
+“Very. And you?” ʸ
+
+He nods. She waits, close enough that his next breath lifts a hair at her temple.
+
+“I want you to stay right here a little longer,” he says. ᴹ
+
+She moves her hand up between his shoulders and holds him where he is. It's the way he's asked that makes her take her time answering. All through tea he was ready before she could finish telling him what she wanted. Right now she has one thing to do for him, and it's exactly what she wants to do.
+
+“I can do that,” she says. ʸ
+
+His face comes down against her neck. She can feel the smile there, even before he says, “That's my line.” ᴹ
+
+She lets her laugh come out against his hair. His hand stays at her waist. She keeps hers against his back until she feels it rise with a slower breath, and when he lifts his head she puts her lips to his forehead first. He turns toward her kiss, and she gives him another one where he can give it back.
+
+Her shoulder starts to ache from reaching around him. She gives it a little roll and Mau shifts his weight to give her room. She turns onto her side and he comes down beside her on the pillow. The edge of the sheet slides over her shoulder. She reaches down to get it back around both of them and discovers that the whole corner has come loose at his feet. Mau tries to pull it straight with his heel. She tucks her corner under her chin and holds on when she feels him tug.
 
 “I can get cold, too,” he says. ᴹ
 

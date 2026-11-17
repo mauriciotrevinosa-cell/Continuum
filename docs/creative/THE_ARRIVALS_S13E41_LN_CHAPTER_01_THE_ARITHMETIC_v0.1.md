@@ -171,7 +171,7 @@ She stands in the hallway with both hands pressed flat over her stomach and does
 
 That night they lie awake.
 
-Not touching very much. Just lying side by side under the blanket in the dark, her head on his shoulder, his hand resting very lightly on her hip, both of them looking at the ceiling. The wind is in the orchard. Through the wall, nothing, because Senku put something in it.
+So close that when he tries to turn onto his back she follows him without waking all the way, her leg hooked over his and her head on his shoulder. His hand rests on her hip; her fingers stay over his as though that can keep their careful hopes from getting ahead of them. They look at the ceiling together. The wind is in the orchard. Through the wall, nothing, because Senku put something in it.
 
 “If it's something,” she says, very quietly. ʸ
 

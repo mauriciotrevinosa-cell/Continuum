@@ -277,6 +277,6 @@ She lies there a while longer. Then she says, so softly he almost doesn't hear i
 
 He doesn't answer. He just holds on tighter.
 
-She falls asleep on him. He lets her.
+> **[PARA WORK: aquí cabe un beso de buenas noches**, justo después de «Thank you for not letting go» y antes de que ella se duerma. Cercanía, no escena íntima: todavía está saliendo del bajón. La escena sigue con los dos juntos. **Sin límite de palabras; no comprimas.]**
 
-> **[PARA WORK: aquí cabe un beso de buenas noches** antes de que ella se duerma encima de él, después del «Thank you for not letting go». Cercanía, no escena íntima: todavía está saliendo del bajón. **Sin límite de palabras; no comprimas.]**
+She shifts until her ear rests over his heart, takes his hand and draws it under her cheek. He stays awake long enough to feel her breathing settle. She falls asleep on him. He lets her.

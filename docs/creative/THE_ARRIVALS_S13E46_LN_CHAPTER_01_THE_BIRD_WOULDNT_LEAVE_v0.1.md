@@ -201,7 +201,9 @@ She turns in his lap until she can see his face.
 
 She doesn't say *I'm sorry*. She doesn't say *you should have told me*. She just looks at him, for a long time, with her hand flat on his chest. And then she puts her forehead against his, and closes her eyes, and they sit like that on the porch steps in the sun.
 
-> **[PARA WORK: aquí cabe un beso,** el primero después del bajón, suave, en el porche al sol, cuando él le dice «It was ugly» y ella pone la frente contra la suya. Cercanía, no escena íntima. **Sin límite de palabras; no comprimas.]**
+He starts to say something else, but she cups his face with both hands and kisses him, softly, before the words can come. When she pulls back she doesn't move away. Her forehead rests against his again; her thumb stays beside his cheek.
+
+He puts his arms round her and waits. She looks at him long enough to make sure he understands that she heard every word.
 
 “Next time,” she says, “you tell me. While it's happening. Not after.” ʸ
 

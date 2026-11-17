@@ -145,7 +145,7 @@ She sees them come out of the air in the middle of the yard.
 
 She sees Yuka, in a dress Ori's never seen, the colour Yuka told her about once and Ori has been trying to imagine ever since.
 
-She sees Mau, with his arm in a splint from his knuckles to his elbow, and the side of his shirt gone, and Yuka's arm round his waist holding him up.
+She sees Mau, with his arm in a splint from his knuckles to his elbow, and the side of his shirt gone, and Yuka supporting him carefully on his uninjured right side.
 
 She doesn't run. She doesn't shout. She stands up very slowly, the way Frieren taught her to stand up when something is too big to run at, and comes down the steps, past the Pillow, across the yard, and stops in front of him.
 
@@ -162,6 +162,50 @@ He thinks about it.
 Ori nods, very seriously.
 
 Then she puts her arms round his waist, on the good side, very carefully, the way someone's taught her to hug people who are hurt. And holds on.
+
+Yuka kneels beside them. She doesn't try to move Ori, or take the place she's found against Mau's right side. She puts one hand on his back, above the burn, and the other on Ori's shoulder.
+
+“I'm home too, you know,” she says. ʸ
+
+Ori looks up at her.
+
+“I know. I saw the dress.” ᴼ
+
+“Is that all you saw?”
+
+Ori studies her for a moment, then reaches with one hand for Yuka without letting go of Mau. Yuka shifts close enough to take it.
+
+“You both left,” Ori says. “And then everyone was being quiet again.” ᴼ
+
+Mau opens his mouth, but Yuka gives his back a small tap.
+
+“I know,” she tells Ori. “I didn't like it either.” ʸ
+
+Ori looks between them. “Are you going upstairs now?” ᴼ
+
+“Soon,” Mau says. “Shoko says I have to.” ᴹ
+
+“Can I come?”
+
+“Not for long. He needs to rest,” Yuka says. “But you can come sit with us before bedtime if you want.” ʸ
+
+Ori thinks about the offer with the gravity she gave the Pillow's treaty.
+
+“Can I bring Lantern?”
+
+“Of course.”
+
+“And the Pillow?”
+
+“The Pillow won't fit through the door if it turns sideways,” Mau says. ᴹ
+
+“It always fits,” Ori says. ᴼ
+
+“Then we'll have to make room,” Yuka answers. ʸ
+
+Ori smiles, finally. She has been holding her shoulders stiff the whole time, and now they drop. She lets go of Mau just enough to touch his bandaged fingers with one careful fingertip, then lets Yuka help her up.
+
+Yuka stands on Mau's right and waits until he is steady before they start toward the porch together. She keeps her hand on his good side, and he lets her set the pace.
 
 * * *
 

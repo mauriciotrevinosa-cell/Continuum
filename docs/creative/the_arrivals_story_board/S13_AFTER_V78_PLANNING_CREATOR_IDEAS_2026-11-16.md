@@ -577,3 +577,18 @@ Unos 100–140 capítulos (la historia decide).
   4. Excepto el Monarca del hielo, que se queda por ego. Ese fue su error: es la segunda muerte.
 - **Nota de Claude:** si el del hielo muere y Mau lo levanta, tendría en la sombra a la vez a Rime, la copia falsa de S8, y al Monarca del hielo original, débil por la extracción sin probar. Encuentro de copia y original para más adelante.
 - Sobre Rime y el original del hielo, Mauri: «eso no es malo». Queda como semilla.
+
+## Conteo de escenas íntimas y plan del tramo (17 de noviembre de 2026)
+
+**Conteo hasta ahora**, según los registros de producción: unas 8 escenas desde la primera vez en V73, quizá 9 si alguna noche no quedó registrada. V78 tiene 3.
+
+**Propuesta para B+331 hasta la isla** (5, todas en momentos cómodos o juguetones; ninguna en duelo, llanto ni recién pasado un susto):
+
+1. **Arco 1, parte A.** La noche después de la cena en que la casa se pelea por la isla. Todavía no le bajó, hay ilusión y ganas de reír.
+2. **Arco 2.** Unos días después de los Monarcas, cuando Mau ya está bien y el susto quedó atrás. No la noche del reencuentro.
+3. **Arco 2.** La noche del cumpleaños de Mau (B+365), después de la fiesta sorpresa.
+4. **Arco 2.** Un día juguetón, por ejemplo después de probar el lazo nuevo del contrato, cuando Ciel tapa la vista de Noise.
+5. **Arco 4.** La noche antes de la isla, si da el tiempo desde la gate. Si no, un *let go* en su lugar.
+
+Los corchetes de beso van aparte, en cualquier momento que la escena lo pida.
+

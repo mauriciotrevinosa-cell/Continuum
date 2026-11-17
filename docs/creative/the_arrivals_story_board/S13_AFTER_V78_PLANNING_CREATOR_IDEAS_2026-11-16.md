@@ -143,3 +143,54 @@ Work se quedó sin créditos; Mauri y Claude planean lo que viene. **Nada de est
 
 - **Ritmo:** S12 son 65 capítulos para unos 55 días (B218–B273), casi un capítulo por día. V73–V74 dan a cada día una historia pequeña de alguien de la casa (Shuna y su tejido, Shion contra Yuka, Ramiris y Beretta, Rem y Umaru, Satella), mientras el hilo grande (Makima, los formularios, Reze) avanza por debajo. El día del almacén (B265) ocupa ocho capítulos.
 - **Fechas del ciclo:** Yuka tuvo el periodo poco antes del viaje a la isla (V77 #5, B+292; V77 #9 lo cuenta). V78 termina en B+330 sin mencionar el siguiente. Si el ciclo ronda los 28 días, en B+331 lleva cerca de dos semanas de retraso: da para «se retrasa, nace la ilusión, llega». Ya hubo un «esta vez no» en V74 #9–10 (B263–264); esta segunda vez pesa más por la playa de V77 #13 y por lo que hablaron con Maki y Yuta en V77 #22–23.
+
+
+## Quinta ronda: el plan del arco de los Monarcas con ideas propias de Claude
+
+> y esas ideas son algunas si se te ocurren mas adelante no tomes todos los ejemplos que te doy como lo unico que agregar son ejemplos y puedes agregar mas
+
+Las ideas de Mauri son ejemplos, no la lista completa. Claude propone las suyas; todas son **propuesta**, por confirmar.
+
+### Plan por partes (unos 50–60 capítulos; la historia decide)
+
+**A. El retraso (B+331–334)**
+- Yuka cuenta los días en el calendario de Fern y se da cuenta. Se lo dice a Mau de inmediato. Él se ilusiona también (el niño en el agua, V77 #13). Deciden no decir nada todavía.
+- **Idea de Claude: los ojos.** Mau podría saberlo con los Six Eyes. Yuka le pregunta «¿puedes ver?» y él contesta que no va a mirar a menos que ella quiera. Ella elige que no: quiere enterarse como cualquiera. Él lo cumple aunque le cueste. Esto ya prepara el golpe de cuando le baje.
+- **Idea de Claude:** Mau y Noise hacen a escondidas una lista de nombres; Noise se la toma muy en serio. Más adelante duele, y luego da ternura.
+- Días normales con la ilusión escondida: escriben juntos la carta a Elmesia; Jin-Woo entrena con los dos y anda raro.
+- Le baja.
+
+**B. Los días bajos de Yuka (B+334–339)**
+- Ella se queda en la cama; Mau la sostiene, la escucha, la abraza y la saca de la cama (baño, comer, el huerto). Mau habla con Shoko: es normal, más si estaba ilusionada, puede durar días.
+- **Idea de Claude:** el miedo de Yuka a que sea por ella, por el cáncer y los tratamientos de antes. Shoko, y quizá Maomao, le contestan con honestidad, sin prometer.
+- **Idea de Claude:** Mau no esconde que a él también le duele. Ori lo encuentra solo en la rama del tercer árbol, y se sienta con él sin preguntar.
+- **Idea de Claude:** Makima siente la tristeza de Mau por el vínculo. Respetando los términos de Yuka, le deja a Mau para ella un chocolate ordinario, como el del día del chocolate. Yuka decide si lo acepta.
+- **Idea de Claude:** visita de Maki: cariño duro de abuela-que-no-lo-parece.
+- El día en que Yuka se vuelve a reír.
+
+**C. La fiebre de la isla (B+339–344)**
+- Shoko le cuenta a Anko, Anko le reclama a Mau en la cena, y todos quieren ir.
+- **Idea de Claude:** Umaru organiza un «proceso de selección» con tabla en la pared; Mau y Yuka son jueces y la casa compite por los lugares. Gojo hace campaña, Milim intenta sobornar, Ori presenta una carta formal.
+- **Idea de Claude:** Frieren pide ir en voz baja, sin campaña. Mau y Yuka la ponen en la lista sin que concurse.
+- Llega la respuesta de Elmesia («vayan») pidiendo la lista. Hinata y Anko: la invitación a propósito.
+
+**D. Las presencias (B+344–346)**
+- **Idea de Claude:** Hae-In le cuenta a Yuka que Jin-Woo tiene pesadillas otra vez, antes de que él diga nada.
+- Jin-Woo le explica a Mau lo de las presencias. Mau se lo cuenta completo a Yuka, sin «estoy bien». Yuka llevará la lista en Kaisel; después de los días bajos, eso le da algo suyo que hacer.
+- Noche de despedida (corchetes).
+
+**E. El día de la ciudad (B+347)**
+- **Idea de Claude:** el vuelo de Yuka visto por ella, hablándole a Kaisel, que no contesta pero la escucha. Elmesia y la lista.
+- Mau y Jin-Woo explorando. El ataque; POV del Monarca; Mau en la ciudadela con Bangs y las nueve respiraciones; Yuka lo ve así por primera vez.
+
+**F. La emboscada y la mega pelea (B+347)**
+- Jin-Woo emboscado (su POV). Segundo Exchange con el Monarca. «No, no, no. He is not going to die alone.» La cara de Yuka que Mau ve gris. Lejos de todos; las muertes.
+
+**G. Después (B+347–352)**
+- Jin-Woo enojado y luego el gracias. Reencuentro con Yuka; la verdad completa: «está feo» (corchetes). Shoko. La deuda de Elmesia.
+- **Idea de Claude:** Suho le pregunta a Mau si Sir Shadow ayudó, y Mau le dice que sí aunque no sea del todo cierto.
+- Paso al arco del taller.
+
+### Pendiente de Mauri
+
+Quién muere (propuesta: Rakan muere; Querehsha cae con Beru y Jin-Woo; Yogumunt escapa). Mau muy lastimado pero no al borde de la muerte; el extremo queda para la gate de Yuka.

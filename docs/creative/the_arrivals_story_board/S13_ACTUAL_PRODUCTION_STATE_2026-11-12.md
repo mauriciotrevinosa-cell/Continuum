@@ -161,4 +161,4 @@ Escrito por Claude según el [plan acordado con Mauri](S13_AFTER_V78_PLANNING_CR
 - El tratado del Fort con el Pillow.
 - Que el Pillow cuente como un vínculo más en la legión: actualizar el kit al confirmar el conteo.
 
-**Error de canon en V78 #19 (de Claude, no se tocó porque V78 está cerrado):** recuerda a «Yuka at seventeen… dying» en la casa y «in the hospital bed… the day the cancer was gone». El canon dice que Yuka llegó del final de *Modulo* ya sin el tumor. Mauri decide si se corrige.
+**Canon de V78 #19 — corregido el 2026-11-17:** el recuerdo de «Yuka at seventeen… dying» y de una cura del cáncer dentro de la casa era erróneo. El capítulo «Papa» ahora conserva el reencuentro de memoria sin atribuirle a Mau una cura que no ocurrió: Yuka llegó del final de *Modulo* ya sin el tumor.

@@ -25,6 +25,8 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 | 8 | S13E60 | Do Whatever You Want | `THE_ARRIVALS_S13E60_LN_CHAPTER_02_DO_WHATEVER_YOU_WANT_v0.1.md` |
 | 9 | S13E61 | The King and His Ant | `THE_ARRIVALS_S13E61_LN_CHAPTER_01_THE_KING_AND_HIS_ANT_v0.1.md` |
 | 10 | S13E61 | The Day They Picked | `THE_ARRIVALS_S13E61_LN_CHAPTER_02_THE_DAY_THEY_PICKED_v0.1.md` |
+| 11 | S13E62 | The Rule for Makima | `THE_ARRIVALS_S13E62_LN_CHAPTER_01_THE_RULE_FOR_MAKIMA_v0.1.md` |
+| 12 | S13E62 | The Ring | `THE_ARRIVALS_S13E62_LN_CHAPTER_02_THE_RING_v0.1.md` |
 
 ## Continuity locks and open decisions
 
@@ -44,4 +46,6 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 2. Develop the Yuka–Mau contract improvements through a consensual design and controlled test, **not** an unexplained instant upgrade.
 3. Give the household and Mau's birthday (B+365) their own space before the Rulers' gate; the gate's multiplier-only condition and available Shop remain creator-planned future beats.
 4. Work toward the island trip only after the home, recovery and Rulers' arc have their own pacing. Keep the guest list and itinerary open until the creator confirms them.
-- #7–10 (Claude): Noise's ring pattern shown to Mai (one curve corrected; build set for after the birthday); Mau's birthday B+365 — Yuka's note, Shoko clears one gate, Beru's dungeon at the hardest setting, level 5 with 10 unallocated points (not spent; waiting for Yuka), the surprise party, Elmesia's letter (gift waits on the island), Frieren's flower spell, Yuka's matching enormous hat for the island; intimate scene note in #10.
+- #7–10 (Claude): Noise's ring pattern shown to Mai (one curve corrected; build set for after the birthday); Mau's birthday B+365 — Yuka's note, Shoko clears one gate, Beru's dungeon at the hardest setting, level 5 with 10 unallocated points (not spent; waiting for Yuka), the surprise party, Elmesia's letter (gift waits on the island), Frieren's grimoire (kept in her room for him), Yuka's matching enormous hat for the island; intimate scene note in #10.
+- #11 (Claude, B+367): Yuka's contract expanded. She can start the Exchange herself (summon Mau to her shadow or go to his; nine breaths between). Mind link like Mau–Rimuru's, through Ciel, to Yuka: Noise, Ciel, DIO, Makima. Makima's rule: important → speak at once; not important → Yuka comes to her; Makima may ask "Can I speak?" and Yuka decides, no asking why. Intimate scene note.
+- #12 (Claude, B+369): ring built by Noise with Mau's Construction, Mai's permission and her corrected curve. Implanted at the base of the katana; holds CE and mana side by side. Upgrades: Kaisel's scale in the spine, Beru's chitin in the guard (deflects), Kamish's tooth ground into the edge (cuts thick steel under its own weight). Rika whole, every form; Yuta says "Hi" to her for the first time. Points: 10 still unspent; Jin-Woo: keep some back, "you'll know when".

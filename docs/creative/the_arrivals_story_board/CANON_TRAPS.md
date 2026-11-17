@@ -522,3 +522,8 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 - La vigilancia y el registro de visitas conviven con la barrera protectora y sus límites existentes. Jinshi puede recibir a alguien en el marcador como parte de sus tareas de la casa. Una posible ayuda voluntaria de Tempest queda abierta para cuando la historia la establezca.
 - Las sombras de los puestos vigilan, señalan y pasan avisos. Los anfitriones y el escritorio reciben a las visitas. Cuando Mau necesita detalle de una ruta, mira por el explorador y comunica él lo que ve (V64 #8). Los guardias de Edran, los mensajeros de camino y Sela en el cruce tienen sus propios papeles.
 - La legión también puede cargar y hacer obra por encargo, como las cuadrillas de Igris en Vey. Eso es distinto del equipo que Mau conserva para la extracción o una pelea. V62 #21 muestra a Mau llamar a Kaisel y Kamish para volar. Kaisel vuelve a su sombra; Kamish elige quedarse afuera. En V63 #1 Beru se queda a la mesa con permiso y se entera allí de los cumplidos. Ori le pide ayuda directamente en #12. Estas escenas establecen quién está presente y por qué.
+
+## Lazo y voz de Noise (Mauri, 17 de noviembre de 2026)
+
+- **El lazo es sólo entre Mau y Rimuru** (por Ciel). La casa no está en él. Si Mau quiere avisar a la casa, se lo pide a Rimuru. El contrato de Yuka del arco del taller le dará a ella un lazo propio, pero eso todavía no existe.
+- **Noise no habla en voz alta fuera de Mau.** Sólo Mau lo oye. Si alguien más tiene que saber lo que dice Noise, Mau lo repite. Ciel habla por Mau o por Rimuru. Makima, ligada por dentro, puede tratar con Noise dentro de Mau, no en voz alta en el cuarto.

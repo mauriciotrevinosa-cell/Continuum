@@ -5,7 +5,7 @@
 **Volume:** 79
 **Reading order:** 6
 **Source episode:** S13E42
-**Continuity state:** B+336, early morning. The day after they decided how to tell the house. Yuka wakes before him, says she's going to the bathroom, and doesn't come back. Her period has come. Mau finds her crying on the floor; when she sees him she breaks completely. She blames herself; he tells her it isn't her fault. She won't walk, so he carries her back to bed. He buys breakfast from the Shop and sends a message over the link that Yuka isn't well (not hurt, he'll explain later) and not to wait for them. Rimuru offers to bring breakfast; Mau says he already has something. Yuka falls asleep again holding his shirt. No intimate scene; the focus is Yuka.
+**Continuity state:** B+336, early morning. The day after they decided how to tell the house. Yuka wakes before him, says she's going to the bathroom, and doesn't come back. Her period has come. Mau finds her crying on the floor; when she sees him she breaks completely. She blames herself; he tells her it isn't her fault. She won't walk, so he carries her back to bed. He buys breakfast from the Shop and sends a message over his link with Rimuru that Yuka isn't well (not hurt, he'll explain later) and asks him to tell the house not to wait for them. Rimuru offers to bring breakfast; Mau says he already has something. Yuka falls asleep again holding his shirt. No intimate scene; the focus is Yuka.
 
 *When: B+336. Just after dawn. The folded letter to Elmesia is still on the bedside table, waiting for the bird.*
 
@@ -145,13 +145,13 @@ Then he reaches for the link.
 
 * * *
 
-It isn't words, exactly, the link. It's the thing Ciel built so the house can reach each other when someone's somewhere else. He only uses it when he has to. He keeps the message short.
+It isn't words, exactly, the link. It's the line between him and Rimuru, the one that runs through Ciel; nobody else in the house is on it. He only uses it when he has to. He keeps the message short.
 
-*Yuka isn't well this morning. Not hurt. Nothing physical. I'll explain later. Please don't wait for us at breakfast.*
+*Yuka isn't well this morning. Not hurt. Nothing physical. I'll explain later. Can you tell everyone not to wait for us at breakfast?*
 
 He sends it, and then sits there with his hand on her hip and waits.
 
-It's Rimuru who answers first. Of course it is.
+Rimuru answers almost at once.
 
 *Do you need anything? I can bring breakfast up.*
 
@@ -159,7 +159,7 @@ It's Rimuru who answers first. Of course it is.
 
 A pause.
 
-*Okay,* Rimuru sends. *We're here. Whatever it is.*
+*Okay,* Rimuru sends. *I'll tell them. We're here. Whatever it is.*
 
 Mau closes the link. He doesn't know what to do with how that feels, so he doesn't do anything with it. He just sits there.
 

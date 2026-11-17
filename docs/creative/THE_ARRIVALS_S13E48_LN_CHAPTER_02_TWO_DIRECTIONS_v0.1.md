@@ -113,7 +113,13 @@ She nods.
 
 She puts both arms round his waist and her face in his chest and holds on. He holds her back. Neither of them says anything. Behind them, Kaisel breathes out, slow and warm, and the training posts creak.
 
-> **[PARA WORK: beso de despedida en el patio,** delante de la casa que finge no ver; él con su chamarra puesta en ella, ella con «Not back. To you.» todavía en el aire. Cercanía, no escena íntima. **Sin límite de palabras; no comprimas.]**
+Yuka rises onto her toes and kisses him goodbye. Her fingers are still knotted in the back of his jacket; he holds her carefully, as though letting go too soon could change the rule they have just made.
+
+“Not back,” she says against his forehead. “To me.” ʸ
+
+“To you,” he answers. ᴹ
+
+Behind them, somebody on the porch clears a throat far too loudly. Yuka doesn't turn around. She takes his hand for another moment, presses it between both of hers, and only then steps back toward Kaisel.
 
 * * *
 

@@ -105,9 +105,9 @@ Nine breaths later, he's on the porch again.
 
 The link takes longer.
 
-It's the same kind of thing as the line between him and Rimuru: not a voice in the ear, not words exactly, a channel that runs through Ciel. Until now it's only ever run between the two of them. Today Ciel opens a second one. To Yuka. And through it, if Yuka allows, the others who are tied to him.
+It's the same kind of thing as the line between him and Rimuru: not a voice in the ear, not words exactly, a channel that runs through Ciel. Until now it's only ever run between the two of them. Today Ciel opens a second one. To Yuka. And through it, if Yuka allows, the others who live in him.
 
-Noise. Ciel herself. DIO, who has her own body and her own room in the house, with the small plant on the windowsill she waters every morning, and who has been bouncing about this since breakfast because it means she can talk to Yuka from the other end of the house.
+Noise. Ciel herself. DIO, who lives in him the way Ciel does and comes out in her own body whenever she likes, who has a guest room in the mini Inn with a small plant by the window that she looks after. When she's out, everyone can see her and hear her. When she's in, until today, only Mau could. She has been bouncing about this since breakfast.
 
 And Makima.
 
@@ -163,13 +163,15 @@ Noise first, careful and enormous. *Hello*, it says, very formally, in a way tha
 
 Ciel, crisp. *Testing. Can you hear me?* ᶜ
 
-And DIO, who doesn't bother with the link at all for her first word. She's sitting on the porch railing in her own body, swinging her feet, and she leans down to Yuka's ear and says it out loud, and then says it again down the line, to compare.
+And DIO, who comes out for her first word.
 
-“Hello,” she says. ᴰ
+She steps out of him onto the porch in her own body, the way she does, and sits on the railing swinging her feet, and leans down to Yuka's ear.
 
-*Hello*, she says. ᴰ
+“Hello,” she says, out loud. ᴰ
 
-“Which one's better?” she asks. ᴰ
+Then she goes back in. Just like that, between one breath and the next. And from inside him, down the new line, for the first time in Yuka's head instead of only in his:
+
+*Hello*, she says. *Which one's better?* ᴰ
 
 Yuka laughs out loud with her eyes still closed.
 
@@ -197,7 +199,7 @@ Yuka looks at the bottom of the porch steps, where Makima is standing with her h
 
 The rest of the day is ridiculous.
 
-Yuka tests everything. She asks Noise the time, every hour, until Noise starts answering before she asks. She asks Ciel to tell her what Mau is thinking, and Ciel says *no*, very primly, and Yuka says *please*, and Ciel says *absolutely not*, and Yuka laughs so hard she has to sit down. DIO sits beside her on the steps half the afternoon and describes the island from very high up, the way she saw it once from the air: the bay, the roofs, the long curve of the beach where they walked. Yuka goes quiet for a long time. Mau, in the yard, hears every word of it and pretends not to.
+Yuka tests everything. She asks Noise the time, every hour, until Noise starts answering before she asks. She asks Ciel to tell her what Mau is thinking, and Ciel says *no*, very primly, and Yuka says *please*, and Ciel says *absolutely not*, and Yuka laughs so hard she has to sit down. DIO sits beside her on the steps half the afternoon, out in her own body, and describes the island from very high up, the way she saw it once from the air: the bay, the roofs, the long curve of the beach where they walked. Yuka goes quiet for a long time. Mau, in the yard, hears every word of it and pretends not to.
 
 She summons him four more times. Once from the kitchen, because she wants him to taste something. Once from the workshop, because Mai wants to see. Once from the bath, which he does not discuss with anyone. Once from absolutely nowhere, in the middle of the orchard, for no reason at all, and when he lands beside her she just puts her arms round him and says *I wanted to see if it worked from here*.
 

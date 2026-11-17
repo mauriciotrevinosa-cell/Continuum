@@ -159,6 +159,8 @@ Beru goes past them both like a wall falling and takes the stone thing's head of
 
 “I know,” Mau says. “I know.” ᴹ
 
+DIO, inside, doesn't say anything at all. That's how he knows how bad it looks.
+
 He breathes. It hurts. He does it anyway. He finds the place inside himself where the RCT lives, the way he's found it a hundred times, and opens it on the lung first, because Noise said so and Noise is right.
 
 Yuka is still on the ground under him.

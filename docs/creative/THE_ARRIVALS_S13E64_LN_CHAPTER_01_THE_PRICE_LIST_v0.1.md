@@ -161,6 +161,18 @@ He writes it down. In her notebook. In his own crooked letters, under the prices
 
 *Yuka: middle.*
 
+DIO comes out while Yuka is still laughing.
+
+She sits down on the end of the mattress in her own body, bounces once to test it, and picks up the jacket that would fit Ori.
+
+“I could have told you,” she says to Mau. “Middle. I've watched her try things on at the market. You were there. You were looking at her face.” ᴰ
+
+“You didn't say anything.” ᴹ
+
+“You didn't ask,” says DIO. “And this was funnier.” ᴰ
+
+She folds the small jacket neatly and puts it at the bottom of the bag, the way she'd put away something she might want later, and goes back to watching Yuka laugh.
+
 * * *
 
 Kamish eats for the first time at noon.

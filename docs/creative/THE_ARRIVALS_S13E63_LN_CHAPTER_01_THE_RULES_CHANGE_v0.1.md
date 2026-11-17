@@ -223,6 +223,16 @@ She nods slowly.
 
 She stands very still.
 
+DIO comes out.
+
+She steps out of him onto the stone beside them in her own body, the way she does at home on the porch, and looks up the stair at the seamless place where the way out used to be, and then at Yuka.
+
+“I'm here too,” she says. “For what it's worth. I came in with him. I'm staying in with him.” ᴰ
+
+Yuka looks at her. Something in her shoulders comes down half an inch.
+
+“It's worth something,” she says. ʸ
+
 * * *
 
 Then she does the thing he'll remember.

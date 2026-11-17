@@ -5,7 +5,7 @@
 **Volume:** 79
 **Reading order:** 32
 **Source episode:** S13E55
-**Continuity state:** B+351, morning, Thalion. Yuka wears the blue dress she brought for this; Mau sees its colour on her. Elmesia comes to the room. Her terrace is broken, her fountain frozen, her city whole: nobody below the citadel died, because he took it up where nobody was underneath. She tells him what the city owes him, and that she won't pay it in gold because he'd hate that. She'll pay it the way she pays her friends: the island, for everyone, in a better room than the one she kept, and her city whenever they want it. Rimuru arrives through his own space with Shoko, because Mau asked him over the link at dawn. Shoko takes one look at the arm.
+**Continuity state:** B+351, morning, Thalion. Yuka wears the blue dress she brought for this; Mau sees its colour on her. Elmesia comes to the room. Her terrace is broken, her fountain frozen, her city whole: nobody below the citadel died, because he took it up where nobody was underneath. She tells him that the city owes him something, though not gold or a title. The invitation to the island still stands for everyone, but what she wants to give Mau personally will remain a surprise until they arrive there. The city is also open to them as friends. Rimuru arrives through his own space with Shoko, because Mau asked him over the link at dawn. Shoko takes one look at the arm.
 
 *When: B+351. The morning after. The fountain in the third ring is still frozen; Elmesia has asked the city not to thaw it yet.*
 
@@ -47,6 +47,30 @@ She sits carefully on the edge of the bed, on his good side, and takes the hand 
 
 She bends to kiss him, gently enough not to jostle his splint. Afterward he keeps her hand in his and studies the blue a little longer. For once she doesn't tease him for staring.
 
+“You're doing that thing,” she says eventually. ʸ
+
+“What thing?” ᴹ
+
+“Looking like you're trying to memorise something before someone takes it away.”
+
+He stops moving his thumb over the fabric.
+
+“I can't see it when you're not here,” he says. “Not the way I can now.” ᴹ
+
+“Then look while I am.”
+
+He does. She folds herself close to his uninjured side and sits quietly, letting him trace the fall of the cloth with his eyes. After a while she rests her temple against his.
+
+“I wanted the first blue you saw to be something good,” she says. ʸ
+
+“It is.” ᴹ
+
+“You're not just saying that because I'm wearing it?”
+
+“That's exactly why I'm saying it.”
+
+She laughs against his shoulder. It doesn't take the ache out of his arm, or make yesterday easier to think about. But it gives him somewhere to put his attention that isn't the pain, and for a few minutes she lets him stay there.
+
 * * *
 
 Elmesia comes after breakfast.
@@ -83,15 +107,49 @@ She looks out of the window at the rings of roofs going down the hill.
 
 Yuka laughs.
 
-“I'll pay it the way I pay my friends,” Elmesia says. “Which is badly, and constantly, and without asking.” ᴱˡ
+“I'll thank you the way I thank my friends,” Elmesia says. “Badly, constantly, and without asking permission first.” ᴱˡ
 
-She folds her bandaged hands in her lap.
+She folds her bandaged hands in her lap, then looks from Mau to Yuka.
 
-“The island,” she says. “All of you. Everyone. The word *some* in your letter is now officially *everyone*, and I'm not discussing it. And not the room I kept for you last time. A better one. There's a house on the far side of the island, on the cape where you watched the sunset. It's mine. It's always been mine. Nobody's stayed in it in four hundred years. It's yours, when you come.” ᴱˡ
+“The island invitation still stands,” she says. “For all of you. I already told you that, and no number of letters pleading that you meant *some* will change my mind.” ᴱˡ
 
-Yuka has gone very still beside him.
+“That's not what I was going to say,” Mau replies. ᴹ
 
-“And this city,” Elmesia says, “whenever you want it. Every room. Every garden. Every crooked fountain. You don't write. You don't ask. You come.” ᴱˡ
+“It was exactly what you were going to say.”
+
+Yuka is smiling beside him. “He was going to ask whether we were imposing.” ʸ
+
+“Yes,” Elmesia says. “That's how I knew.” ᴱˡ
+
+Then her smile changes, very slightly.
+
+“But there's something else,” she says. “Something I want to give you, Mau. Not to the city. Not to the house. To you.” ᴱˡ
+
+He shakes his head. “Elmesia, you don't owe me—” ᴹ
+
+“I know what you're going to say. I'm going to do it anyway.” ᴱˡ
+
+“What is it?” Yuka asks. ʸ
+
+“I'll tell you when you reach the island.”
+
+“You can't just say that and stop,” Yuka protests. ʸ
+
+“I can. I've been a queen a very long time. It's one of the few privileges I still enjoy.” ᴱˡ
+
+Mau looks at her. He knows that look of hers: the decision has been made, and arguing will only make her enjoy herself more.
+
+“So you'll tell us on the island,” he says. ᴹ
+
+“I'll give it to you on the island,” she corrects. “The two of you can be curious until then.” ᴱˡ
+
+Yuka looks ready to ask again. Instead she takes Mau's good hand and squeezes it.
+
+“Fine,” she says. “But you can't be surprised when I spend the trip guessing.” ʸ
+
+“I would be disappointed if you didn't,” Elmesia says. ᴱˡ
+
+“And this city,” Elmesia adds, looking toward the rooftops below, “you are welcome here whenever you want to visit. Every garden, every crooked fountain. You don't need a reason. Come because you want to see us.” ᴱˡ
 
 She looks at Mau.
 

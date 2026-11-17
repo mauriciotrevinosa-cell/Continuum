@@ -125,3 +125,40 @@ Mauri pidió, antes del siguiente pleito, más días de los dos en la casa: conv
 - El beso bajo el árbol de #29 y el reencuentro de #35 están integrados en prosa.
 - **Semilla para después:** la promesa de Yuka en #33 de entrar con él a cualquier gate «aunque no haga nada», y el «four and a little», pueden servir de salida en un encierro futuro. Después del cierre, Pillow puede salir de la sombra de Mau en la casa. Mau se compromete a contar el contenido del aviso a Rimuru, Jin-Woo y Fern. A partir de #33 esa Red Gate de la cantera queda cerrada; la gate semanal y sus ajustes funcionan aparte.
 - V78 queda en 38 capítulos, de B+306 noche a B+330. Regresan de la isla en B+306 y la sobrecarga es en B+310. El paseo de #29 (B+323) cae 17 días después del regreso y 13 después de la sobrecarga. En el día de chocolate y película (B+324) se cumplen 18 y 14 días, respectivamente. Los 21 días de la Red Gate transcurren dentro. Afuera pasan 14 minutos.
+
+
+## V79 — arco de los Monarcas, partes A–D (Claude; Work sin créditos)
+
+Escrito por Claude según el [plan acordado con Mauri](S13_AFTER_V78_PLANNING_CREATOR_IDEAS_2026-11-16.md) y la [guía de cercanía](MAU_YUKA_CLOSENESS_GUIDE_FOR_CLAUDE_2026-11-17.md). [Índice de V79](../THE_ARRIVALS_LN_VOLUME_79_INDEX_v0.1.md).
+
+| Capítulo | Día | Hechos escritos |
+|---|---|---|
+| V79#1 | B+331 | Despiertan tarde enredados; el hombre del libro sigue sin caballo. El Pillow (sombra desde V78) y Lantern compiten por Ori; ella los hace compartir. Paseo del Pillow por el patio. |
+| V79#2 | B+332 | Día libre de Shuna. Mau y Yuka hacen el desayuno; Rem supervisa sentada; Yuka es «quality control»; Authority voltea los huevos. Jin-Woo entrena con los dos como pareja y mira al norte. Shuna llora al encontrar la cocina limpia. |
+| V79#3 | B+333 | POV Yuka. Cuenta en el calendario de Fern: unas dos semanas de retraso (el último periodo fue antes de la isla). Se lo dice a Mau de inmediato: «Late for what?». Le pide que no mire con los ojos; él ya estaba intentando no hacerlo. No se lo dicen a nadie. De noche: la cuna junto a la ventana de su lado, el niño en el agua. |
+| V79#4 | B+334 | Mau no mira. Noise arma una lista de nombres; Ciel añade tres. Makima siente la ilusión por el hilo y propone «Asa»; Mau: «you're helping… that doesn't change that you're my friend». Yuka más pegada que nunca. Shoko nota algo y no dice nada. |
+| V79#5 | B+335 | Anko le dora la píldora a Mau en la cena hasta decir «the island». Todos quieren ir. Mau y Yuka salen al porche y deciden contarlo en la isla si es real. Escriben la carta a Elmesia en la cama. |
+| V79#6 | B+336 | Le baja. Mau la encuentra llorando en el baño; se rompe al verlo; ella se culpa, él le dice que no. La carga a la cama, compra del Shop, avisa por el enlace. Rimuru ofrece desayuno. Noise guarda la lista sin borrarla. |
+| V79#7 | B+336 | Mau busca soluciones en vez de llorar; pide a Noise que no le diga nada a Yuka; sin mirarla no se sabe nada. Makima en la escalera, sin entrar: siente el dolor y no lo entiende. Mau la abraza (la única de los cuatro a la que puede abrazar); ella se queda tiesa. |
+| V79#8 | B+337 | Segundo día: llanto, culpa, disculpas, enojo. «It could be me»; ella le grita que no. La baña, le lava el pelo, le da de comer. |
+| V79#9 | B+338 | Yuka saca lo de los tratamientos de antes. No quiere a Shoko; lo manda a él: «Go, but hurry». Plática corta con Shoko (toma tiempo; la verdad sobre tratamientos; qué buscar). Mau vuelve, le pide permiso a Yuka y mira: no hay nada dañado. |
+| V79#10 | B+338 | Mau les cuenta a Maki y Yuta. Mai llega sin que nadie le diga y habla tras la puerta; Yuka la deja pasar. Yuka les cuenta todo a Maki, Yuta y Mai. Maki sólo la abraza. Mau intenta salir; lo agarran las dos: «Bathroom». |
+| V79#11 | B+339–341 | Días lentos; no lo suelta. «You should divorce me» → «I will never divorce you… Forever?» «Forever.» Mau solo en la rama del tercer árbol; Ori sube y se sienta con él. Frieren: «Tomorrow I'll let her go.» |
+| V79#12 | B+342 | Ori visita con el Pillow: el tratado del Fort con el Pillow, Milim atorada bajo él, el diagrama de Senku, las reglas de Umaru, el segundo gorro de Beru. Yuka se ríe de verdad y pide que Ori le enseñe lo que se perdió. Mau con Mai en el taller. |
+| V79#13 | B+343 | Yuka vuelve a ser Yuka, más empalagosa. Mau mandó la carta el cuarto día porque el pájaro no se iba. «How were you?» «Bad… It was ugly.» |
+| V79#14 | B+345 | Respuesta de Elmesia: todos a la isla, pero antes quiere verlos y mostrarles su ciudad unos días; pide que vaya DIO. Makima pide ir; «vas porque vas, pero no me toques». Los términos: los puede cambiar Mau (contrato) y Yuka (Makima la aceptó como esposa); Yuka no los cambia por ahora. |
+| V79#15 | B+346 | Interrogatorio de Shoko y Mau a Gojo; Shoko contesta todo; Gojo fue a la escalera cada día y dejó de contar siete días. La cuenta de Yuka: 112. Frieren quiere conocer al «enemigo del Estado»; fue Ori quien le puso el nombre. |
+| V79#16 | B+347–348 | Empacan (cuatro cosas azules). Hae-In: Jin-Woo tiene pesadillas y mira al norte. Jin-Woo sigue algo y vuelve: presencias viejas de su mundo en el norte. Yuta y Gojo se quedan cerca de la casa. Jin-Woo le pide ayuda a Mau. Mau se lo cuenta todo a Yuka: ella va a Thalion en Kaisel con DIO; él con Jin-Woo y Makima. |
+| V79#17 | B+348 noche | POV Yuka. Mau agotado de mirar el norte con los ojos al máximo. Ella repite el *let go* a propósito. «I love you» se le escapa antes del cuarto aliento; ella se pone roja; él ronca. |
+
+**Escenas íntimas:** ninguna en V79 hasta aquí (por decisión de Mauri; la del arco 1 se quitó). **Corchetes de beso/cercanía:** #1, #3, #11, #13, #15, #17.
+
+**Sigue:** parte E (el día de la ciudad), F (la emboscada y la pelea) y G (después).
+
+**Detalles a confirmar:**
+- Marca de Nazuna ᴺᶻ.
+- «Asa» como nombre propuesto por Makima.
+- El tratado del Fort con el Pillow.
+- Que el Pillow cuente como un vínculo más en la legión: actualizar el kit al confirmar el conteo.
+
+**Error de canon en V78 #19 (de Claude, no se tocó porque V78 está cerrado):** recuerda a «Yuka at seventeen… dying» en la casa y «in the hospital bed… the day the cancer was gone». El canon dice que Yuka llegó del final de *Modulo* ya sin el tumor. Mauri decide si se corrige.

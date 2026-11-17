@@ -9,7 +9,7 @@
 
 Home from the island, Mau goes looking for a gate nobody wants and finds a red one. Something he has carried for years breaks in the middle of an ordinary morning, and the help that saves him comes from someone the house does not trust. For three days he does not know Yuka's name.
 
-[Previous volume](THE_ARRIVALS_LN_VOLUME_77_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S13_ACTUAL_PRODUCTION_STATE_2026-11-12.md) · [Handoff](the_arrivals_story_board/S13_V78_COAUTHOR_HANDOFF_FOR_CLAUDE_2026-11-15.md)
+[Previous volume](THE_ARRIVALS_LN_VOLUME_77_INDEX_v0.1.md) · [Next volume](THE_ARRIVALS_LN_VOLUME_79_INDEX_v0.1.md) · [Current production state](the_arrivals_story_board/S13_ACTUAL_PRODUCTION_STATE_2026-11-12.md) · [Handoff](the_arrivals_story_board/S13_V78_COAUTHOR_HANDOFF_FOR_CLAUDE_2026-11-15.md)
 
 ## Reading order
 

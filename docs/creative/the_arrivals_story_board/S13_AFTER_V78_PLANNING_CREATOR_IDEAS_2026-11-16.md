@@ -564,7 +564,7 @@ Unos 100–140 capítulos (la historia decide).
 - **La revisión de Yuka:**
   - Yuka, en la cama, saca lo del cáncer. Mau le dice que puede traer a Shoko. Ella se niega y le pide que vaya él: no quiere que se vaya, pero quiere saber si eso es una oportunidad. Le dice que está bien, pero que se apure.
   - La plática de Mau con Shoko es corta y lleva toda la preocupación de Mau. Shoko le dice que esto toma tiempo. Mau pregunta por el cáncer y Shoko le dice la verdad.
-  - Mau pregunta si podría ver lo que está buscando. Shoko le explica cómo, y **le pide permiso a Yuka**.
+  - Mau pregunta si podría ver lo que está buscando, y Shoko le explica cómo. **Corrección de Mauri:** «no shoko no ve a yuka mau le cuenta y le pide permiso a yuka de revisarla». Shoko no ve a Yuka: Mau le cuenta, vuelve y **es Mau quien le pide permiso a Yuka** para revisarla él.
 - **El Arise no es gratis:** primero tuvo que matarlos («mandarlos al lobby»), y además la sombra sale débil porque la extracción nunca se probó.
 - **Ritmo:**
   - En la ciudad, nueve respiraciones, quizá un poco más.
@@ -576,3 +576,4 @@ Unos 100–140 capítulos (la historia decide).
   3. Los que no huyeron al principio empiezan a huir.
   4. Excepto el Monarca del hielo, que se queda por ego. Ese fue su error: es la segunda muerte.
 - **Nota de Claude:** si el del hielo muere y Mau lo levanta, tendría en la sombra a la vez a Rime, la copia falsa de S8, y al Monarca del hielo original, débil por la extracción sin probar. Encuentro de copia y original para más adelante.
+- Sobre Rime y el original del hielo, Mauri: «eso no es malo». Queda como semilla.

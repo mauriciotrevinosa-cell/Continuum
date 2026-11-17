@@ -5,7 +5,7 @@
 **Volume:** 79
 **Reading order:** 12
 **Source episode:** S13E45
-**Continuity state:** B+342. Frieren lets Ori visit. Ori sits on the bed with the Pillow's nose on the blanket and Lantern sulking in her shadow, and tells Yuka everything the Fort and the house did while she was in bed: the Fort's treaty with the Pillow, Milim's attempt to ride it, Senku's lecture about scissors (again), Umaru's tournament rules, Beru's hat. Yuka laughs, really laughs, for the first time. Then she asks Ori to take her to see what she missed, and Ori does. Mau, left behind on purpose, goes to the workshop and talks with Mai. No intimate scene.
+**Continuity state:** B+342. Frieren lets Ori visit. Ori sits on the bed with the Pillow's nose on the blanket and Lantern sulking in her shadow, and tells Yuka everything the Fort and the house did while she was in bed: the Fort's treaty with the Pillow, Milim's attempt to ride it, Senku's lecture about scissors (again), Umaru's tournament rules, Beru's hat. Yuka laughs, really laughs, for the first time. Then she asks Ori to take her to see what she missed, and Ori does. Mau, left behind on purpose, goes to the workshop and talks with Mai. Once she's seen the house with Ori, Yuka comes to find Mau again of her own accord. No intimate scene.
 
 *When: B+342. The seventh day. Frieren knocks on the door herself, which she has never done, and stands aside to let a small person through.*
 
@@ -220,3 +220,74 @@ Through the window, across the yard, he can see the common room. Through its win
 “She's looking at the sign,” he agrees. ᴹ
 
 They sit there in the warm workshop and watch her laugh through two windows, and neither of them says anything else for a long time.
+
+* * *
+
+The workshop door opens later, and Yuka is standing in it with Ori tucked close against one side.
+
+“Found you,” Yuka says. ʸ
+
+“You said you'd know where I was.” ᴹ
+
+“I did. I still wanted to find you.” ʸ
+
+Ori steps forward holding the tournament sign. She has taken it down from the common-room wall, apparently with Umaru's permission, and now unrolls it across Mai's workbench.
+
+There he is, Mau, drawn with enormous eyes and a line through his whole body.
+
+Mai laughs.
+
+Mau looks at Yuka.
+
+“You let her bring that?” he asks. ᴹ
+
+“It's evidence,” Yuka says solemnly. ʸ
+
+“Of what?”
+
+“Your crimes against indoor games.”
+
+Ori nods, satisfied that the matter has been settled.
+
+“Mai, will you show me the rain hat?” she asks. ᴼ
+
+Mai puts the needle down. “Come on. It's not finished being adjusted.” ᴹᵃ
+
+“I thought Beru already wore it.”
+
+“He does. That doesn't mean it's finished.” ᴹᵃ
+
+Ori considers this an excellent answer. She follows Mai toward the shelves at the other end of the workshop.
+
+Yuka crosses the little space to Mau. She's tired. He can tell by the way she steadies herself against the bench before she sits beside him. He doesn't reach to pick her up or ask whether she needs to go back to bed. He offers his hand, and she takes it.
+
+“Did you see everything?” he asks. ᴹ
+
+“Not everything. Ori says there's a whole list for tomorrow.” ʸ
+
+“Tomorrow's good.”
+
+She watches Mai and Ori argue about whether the brim needs another stitch.
+
+“I laughed,” Yuka says quietly. ʸ
+
+“I heard.” ᴹ
+
+“It doesn't mean I'm not sad anymore.”
+
+“I know.” ᴹ
+
+She turns to him and puts her arms around his middle. He holds her there, tucked under his chin, while the sound of Ori's voice fills the far end of the workshop.
+
+“I wanted to come find you,” she says, so softly that only he hears. ʸ
+
+“I'm glad you did.” ᴹ
+
+She leans back just enough to look up at him.
+
+“Let's go downstairs together next time.”
+
+“Together,” he says. ᴹ
+
+She rests her forehead against his and keeps her hand in his until Ori calls for them to come and inspect the hat.
+

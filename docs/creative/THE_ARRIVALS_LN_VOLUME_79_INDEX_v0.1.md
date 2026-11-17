@@ -1,6 +1,6 @@
 # The Arrivals — Light Novel — Volume 79 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — S13 v0.1 — editorial continuity pass completed 2026-11-17; kiss placeholders remain for Work; not publication-final.
+**Status:** LN PRODUCTION DRAFT — S13 v0.1 — editorial continuity pass and six affection placeholders completed 2026-11-17; ready for creator review.
 **Volume:** 79
 **Season:** 13
 **Coverage:** S13E40–S13E48 (B+331 to B+348, so far)
@@ -9,9 +9,9 @@
 
 A late period, the days after it comes, and the house that holds them both. Then Jin-Woo feels something in the north.
 
-**Editorial boundary for this entire volume:** no chicawow / intimate-sex scenes, including during grief and recovery. The six `[PARA WORK]` notes are for optional kisses or affectionate closeness only, never an invitation to escalate into an intimate scene. A note must stay in the middle of an ongoing shared scene, with Mau and Yuka together afterward. Yuka's training is unarmed coordination work, not a return to weapon training. Preserve the purposeful separations (the visit to Shoko, Yuka going downstairs with Ori, Mau's short time alone in the tree).
+**Editorial boundary for this entire volume:** no chicawow / intimate-sex scenes, including during grief and recovery. The six former `[PARA WORK]` placeholders have been replaced by completed affectionate moments. They are kisses or quiet closeness only, with Mau and Yuka remaining together afterward. Yuka's training is unarmed coordination work, not a return to weapon training. Preserve the purposeful separations (the visit to Shoko, Yuka going downstairs with Ori, Mau's short time alone in the tree).
 
-**Continuity pass (2026-11-17):** Reviewed chapters 1–17. Fixed the training reference in #2; kept Mau and Yuka physically close in #3; replaced a stated explanation of affection with observable care in #13; moved the #15 kiss note before sleep and continued the scene; made #1 and #3 placeholders part of ongoing shared scenes. Other chapter beats and the remaining placeholders are retained. The canon question flagged for V78 #19 remains outside this volume and is not silently resolved.
+**Continuity pass (2026-11-17):** Reviewed chapters 1–17. Fixed the training reference in #2; kept Mau and Yuka physically close in #3; replaced a stated explanation of affection with observable care in #13; moved the #15 kiss note before sleep and continued the scene; made #1 and #3 placeholders part of ongoing shared scenes. Other chapter beats are retained. All six placeholders have since been written in full; none remain. The V78 #19 cancer-memory canon slip has been corrected directly in that chapter, and the S13 production state now records the resolution.
 
 [Previous volume](THE_ARRIVALS_LN_VOLUME_78_INDEX_v0.1.md) · [Plan](the_arrivals_story_board/S13_AFTER_V78_PLANNING_CREATOR_IDEAS_2026-11-16.md) · [Closeness guide](the_arrivals_story_board/MAU_YUKA_CLOSENESS_GUIDE_FOR_CLAUDE_2026-11-17.md)
 

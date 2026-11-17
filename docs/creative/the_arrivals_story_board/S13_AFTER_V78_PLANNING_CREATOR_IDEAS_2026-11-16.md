@@ -639,3 +639,9 @@ Claude planeó sin releer la versión final de V78. La revisión cambió hechos 
 ### Pendiente para después del tramo
 
 - **Revisión completa del bag de Mau y de sus sombras con nombre** (Mauri: «tiene unas muy buenas que nunca usa»). Lista de las que casi no aparecen, y mostrar que las de nombre andan casi siempre sueltas: Beru conviviendo en la casa, Kamish cuidando, Kaisel volando, Bellion, Igris, etc. Mauri pidió dejarla para cuando acabemos y arrancar ya con los capítulos.
+
+## Headcanon de Mauri (17 de noviembre de 2026)
+
+> y tsurugui anda un desaparecido jajajaj me gusta creer que tsurugui subaru y suho andan en su vaina y se fueron a buscar a emilia
+
+Tsurugi, Subaru y Suho andan en lo suyo y «se fueron a buscar a Emilia». Broma de Mauri, no canon por ahora; Suho sigue apareciendo con su familia en V79.

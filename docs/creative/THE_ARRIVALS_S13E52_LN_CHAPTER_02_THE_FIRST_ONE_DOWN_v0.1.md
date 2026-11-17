@@ -145,7 +145,7 @@ The hollow goes completely still.
 
 He feels it. Every king left standing. The queen in her humming cloud. The cliff that walks. The giant with his head in the clouds. The thing made of fire.
 
-They're looking at the shape kneeling at his feet. At one of their own. At a king, killed and raised and kneeling in front of a tall thin man with red hair, in less time than it takes to say his name.
+They're looking at the shape kneeling at his feet. At one of their own. At a king, killed and raised and kneeling in front of the man they came to kill, in less time than it takes to say his name.
 
 Mau doesn't know what they know. He doesn't know their history, their wars, the long dark ages before Jin-Woo. He only knows what he reads on them through the eyes: a single shared understanding, going through all of them at once, like a cold wind through grass.
 

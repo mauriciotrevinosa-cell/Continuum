@@ -162,3 +162,35 @@ Escrito por Claude según el [plan acordado con Mauri](S13_AFTER_V78_PLANNING_CR
 - Que el Pillow cuente como un vínculo más en la legión: actualizar el kit al confirmar el conteo.
 
 **Canon de V78 #19 — corregido el 2026-11-17:** el recuerdo de «Yuka at seventeen… dying» y de una cura del cáncer dentro de la casa era erróneo. El capítulo «Papa» ahora conserva el reencuentro de memoria sin atribuirle a Mau una cura que no ocurrió: Yuka llegó del final de *Modulo* ya sin el tumor.
+
+
+### V79 — partes E–G: la ciudad, la emboscada y después (Claude)
+
+| Capítulo | Día | Hechos escritos |
+|---|---|---|
+| V79#18 | B+349 | Despedida en el patio. Yuka y DIO (con sombrero) se van en Kaisel a Thalion. Gojo y Yuta se quedan en la puerta norte. Mau, Jin-Woo y Makima caminan al norte; Mau ya tenía un soldado en la sombra de Jin-Woo. |
+| V79#19 | B+349 | POV Yuka. Le habla a Kaisel en el vuelo; él inclina la cabeza al oír «Mau». Elmesia les enseña su ciudad en persona (fuente torcida, biblioteca mudada, mercado). Le guardó un cuarto. Yuka trae el vestido azul para cuando llegue Mau. |
+| V79#20 | B+349–350 | Fogata en los cerros. Jin-Woo enumera a los Monarcas; Destrucción es al que le teme; al de Hielo no hay que cortarle el hombro antes de que se mueva. Makima mira las estrellas. Al amanecer jala el ancla de Elmesia. Makima regresa dentro de Mau (su cuerpo no puede seguir un Exchange). Forma y rueda. |
+| V79#21 | B+350 | POV del Monarca de Hielo. El plan de Transfiguración (Elmesia como señuelo, los demás contra Jin-Woo). Congela la fuente torcida. Elmesia lo aguanta; Yuka evacua con Mahoraga; Elmesia dice «Mau». |
+| V79#22 | B+350 | POV del Monarca: la rueda rompe la sombra; pelo rojo con blanco; ojos centro azul, anillos naranjas, negro en lo blanco; corte en el hombro antes de levantar la mano; inclinación de cabeza prestada de Makima: «Are you going to get angry?». Elmesia y Yuka como si fuera un martes; «úsalo para visitarme» / «I'll remind him». Bang. «¿En qué parte de la ciudad estamos?» «En el centro.» Se lo lleva al cielo. |
+| V79#23 | B+350 | Nueve respiraciones en el cielo: Bang para que se detenga a sanar; el neutral aguanta el hielo; jaula de hielo. Al octavo, jala el soldado de Jin-Woo. Mau baja al parapeto y le avisa a Yuka (la regla). Exchange llevándose al Monarca. |
+| V79#24 | B+350 | POV Jin-Woo. Siete Monarcas salen del suelo (Bestias, Plagas, Cuerpo de Hierro, Transfiguración, Principio, Llamas Blancas, Destrucción). Sus cien. Transfiguración con la cara de Hae-In; no la mira. Llega Mau con el de Hielo. |
+| V79#25 | B+350 | Mau se pone al frente; Jin-Woo: «No. No, no, no. He is not going to die alone.» Se pone a su lado, furioso. Salen Beru (dos gorros), Igris, Bellion, Tusk, Kamish, Kaisel. Sale Rime frente al Monarca de Hielo original. |
+| V79#26 | B+350 | Transfiguración se va sin pelear. Shrine pequeño sin nadie debajo contra Bestias, con Jin-Woo inmovilizándolo; muere. Arise con la extracción de Noise sin probar: sale débil, a medias, y se arrodilla. Plagas, Hierro, Principio y Llamas huyen. El de Hielo se queda. Destrucción baja. |
+| V79#27 | B+350 | Destrucción mira a Mau, no a Jin-Woo. Su aliento contra Purple: el neutral cede por la izquierda; brazo izquierdo roto y quemado de muñeca a codo, costado izquierdo quemado; la rueda gira tres veces. Ve a Kamish y Kaisel: «traidores». Mau: «I treat them better.» Destrucción se ríe, querrá verlo pelear «properly», se va. |
+| V79#28 | B+350 | Orgullo: el de Hielo contra Rime (copia contra original). Jin-Woo lo inmoviliza; Mau, con un brazo, le vuelve a cortar el hombro; pierde la elegancia; Rime; Bang al núcleo del frío. Arise, peor que el primero; sale débil junto a Rime. Makima: «Enough». Cae la forma; Jin-Woo lo atrapa. |
+| V79#29 | B+350 | POV del War Devil: lo vio todo desde lejos; se sienta con Destrucción sobre las nubes; propone que podrían serse útiles. Él: «I'll think about it.» |
+| V79#30 | B+350 | Mau despierta tres horas después con el brazo en una lanza de Jin-Woo y el abrigo de Makima debajo. Le dice la verdad («It's ugly»). Jin-Woo: si moría era su culpa porque se lo pidió; Mau: fue mi decisión. Gracias. «Next time you stand beside me from the start.» Mau guarda el abrigo y hace Exchange al soldado de Yuka. |
+| V79#31 | B+350 | POV Yuka. Sale de su sombra en el balcón, todavía a medias en la forma (Makima lo ayudó a cruzar). «You look ugly. The red doesn't suit you.» Se ríe, se le quita. «Better?» «You looked good in both.» Le cuenta todo. Se duerme. |
+| V79#32 | B+351 | Mau ve el azul del vestido en Yuka por primera vez. Elmesia: nadie murió en su ciudad; lo pagará como paga a sus amigos: la isla para todos, la casa del cabo en vez del cuarto, su ciudad cuando quieran; tratado con la ciudad bajo el mar. Rimuru llega por el espacio con Shoko (Mau se lo pidió por el lazo). |
+| V79#33 | B+351 | Shoko alinea y vuelve a romper huesos con Rimuru y Yuka sujetándolo; cura el costado por etapas. «I'm tired… and I'll do it every time anyway.» Rimuru los regresa. Ori: «Did you win?» «Mostly.» La madre de Jin-Woo agradece. Duermen en su cama; Yuka con el vestido azul. |
+
+**Corchetes:** beso o cercanía en #18, #31 y #32. Ninguna escena íntima (después de la pelea y del susto, según la regla de Mauri).
+
+**Estado de Mau al cierre:** brazo izquierdo roto en muchas partes, alineado y entablillado por Shoko; costado izquierdo quemado y cerrado por etapas; agotado. Arise de dos Monarcas reales con la extracción sin probar (débiles, medio formados): Bestias y Hielo. Rime sigue entero. Destrucción y el War Devil quedan como amenaza; Transfiguración, Plagas, Hierro, Principio y Llamas Blancas huyeron.
+
+**Para confirmar:**
+- Marcas inventadas: Monarca de Hielo ˢⁱˡ, Rakan ᴿᵏ, Destrucción ᴬⁿᵗ, Yogumunt ʸᵒ, War Devil ʷᵈ.
+- Que Kamish y Kaisel sean dragones de la sangre de Destrucción.
+- La casa del cabo como el «cuarto mejor» de Elmesia.
+- Mencionar el tratado con la ciudad bajo el mar aquí y no hasta la isla.

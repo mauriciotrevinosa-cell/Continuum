@@ -47,7 +47,7 @@ It looks at Mau.
 
 The eyes try to read it. They can't. Not properly. It's like trying to read the sun. There's too much there, layered too deep, folded back into itself so many times that the eyes come back with nothing but *more*. He keeps them open anyway. He makes himself.
 
-The Monarch looks at his red hair and his burning eyes and the wheel turning slowly over his head.
+The Monarch looks at his changed hair and his burning eyes and the wheel turning slowly over his head.
 
 “So,” it says. “You're the one he chose.” ᴬⁿᵗ
 

@@ -7,7 +7,7 @@
 **Source episode:** S13E47
 **Continuity state:** B+346. At breakfast, the island list. Mau remembers Shoko's condition: Gojo goes if he behaves. He calls Shoko over, whispers in her ear; they sit together with a notebook and begin questioning Gojo on his conduct. Before Gojo can give his speech, Shoko answers every question herself. Then Yuka reveals that she's been keeping her own count of things. Frieren asks, quietly, to go: she wants to meet Mau's opponent, the bird, which she calls the enemy of the state. Ori, beside her, is enormously proud, and the table realises who gave the bird its title. Yuka stays in Mau's lap through all of it.
 
-*When: The next morning. The bird's letter is pinned to the wall of the common room under Umaru's tournament sign, and everyone has read it, and everyone has noticed the word "everyone".*
+*When: B+346. The next morning. The bird's letter is pinned to the wall of the common room under Umaru's tournament sign, and everyone has read it, and everyone has noticed the word "everyone".*
 
 The house has read the letter.
 

@@ -7,7 +7,7 @@
 **Source episode:** S13E46
 **Continuity state:** B+345. Elmesia's reply arrives. She'll gladly have the house at the island, but she wants to see Mau and Yuka first: to talk, and to show them her city, which in all the time they've known each other they've never seen. She asks them to stay a few days, and asks whether DIO, who can pass through Mau's protection, would come too. DIO is thrilled. Makima asks to come. Yuka: she's part of the little group that lives inside Mau, so she goes because she goes, but that doesn't mean Yuka wants to be touched. Yuka and Makima go over the terms; Makima explains Mau can change the contract, and Yuka's terms hold because Makima accepts Yuka is his wife. Yuka can change them if she wants; Makima would give her opinion. Yuka doesn't want to change them yet. Makima: okay.
 
-*When: Two days after the bird. The same bird. It lands on the porch rail in the middle of the morning and looks at everyone present as though it has been personally inconvenienced by all of them.*
+*When: B+345. Two days after the bird. The same bird. It lands on the porch rail in the middle of the morning and looks at everyone present as though it has been personally inconvenienced by all of them.*
 
 It's the same bird.
 

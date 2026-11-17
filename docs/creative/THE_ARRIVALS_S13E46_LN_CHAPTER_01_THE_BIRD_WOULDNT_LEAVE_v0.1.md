@@ -7,7 +7,7 @@
 **Source episode:** S13E46
 **Continuity state:** B+343. Yuka is Yuka again, and clingier than before: she knows Mau never once blamed her, loves him more for it, and will never admit that's why. First breakfast downstairs in a week; the house pretends nothing happened, badly. Yuka notices the letter to Elmesia is gone from the bedside table. Mau admits he sent it on the fourth day, because Elmesia's bird sat on the porch rail for three days and refused to leave without it. Gojo's notebook returns. Mau tells Yuka the truth when she asks how he was: he was bad.
 
-*When: The eighth morning. She wakes up before him and, instead of lying there looking at him with her face already wet, she climbs on top of him.*
+*When: B+343. The eighth morning. She wakes up before him and, instead of lying there looking at him with her face already wet, she climbs on top of him.*
 
 He wakes up because something is sitting on his chest.
 

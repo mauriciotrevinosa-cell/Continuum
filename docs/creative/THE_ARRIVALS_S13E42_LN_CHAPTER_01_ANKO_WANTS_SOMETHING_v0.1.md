@@ -7,7 +7,7 @@
 **Source episode:** S13E42
 **Continuity state:** B+335, supper. Shoko has told Anko about the island trip Mau promised her (V78 #12). Anko spends the whole of supper buttering Mau up; he doesn't understand what she wants; she finally says it straight: the island. Within a minute the whole table wants to go and is arguing about it. Mau and Yuka slip out to the porch while the house argues, and decide that if it's something, they'll tell everyone on the island. That night they write the letter to Elmesia together, in bed, Yuka dictating and Mau writing.
 
-*When: The next evening. Anko has been in a suspiciously good mood since lunch. Hinata visited yesterday.*
+*When: B+335. The next evening. Anko has been in a suspiciously good mood since lunch. Hinata visited yesterday.*
 
 Anko is being nice to him.
 

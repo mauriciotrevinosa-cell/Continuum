@@ -7,7 +7,7 @@
 **Source episode:** S13E43
 **Continuity state:** B+337. The second day. Yuka cries, blames herself, apologises to Mau, gets angry at herself and at nothing. At one point Mau says the problem could be him; she shouts at him that it isn't. He never tells her what she feels is wrong. He gets her into the bath, washes her hair, feeds her, and she sleeps again. The focus stays on Yuka. No intimate scene.
 
-*When: The second morning. She wakes before he does again, but this time she doesn't get up. When he opens his eyes she's lying on her side looking at him, and her face is already wet.*
+*When: B+337. The second morning. She wakes before he does again, but this time she doesn't get up. When he opens his eyes she's lying on her side looking at him, and her face is already wet.*
 
 “I'm sorry,” she says. ʸ
 

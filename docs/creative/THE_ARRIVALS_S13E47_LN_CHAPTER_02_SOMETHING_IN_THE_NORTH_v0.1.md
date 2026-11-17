@@ -7,7 +7,7 @@
 **Source episode:** S13E47
 **Continuity state:** B+347–348. Packing for Thalion: Yuka choosing clothes and making Mau carry them in the inventory, DIO bouncing, Makima quiet. Hae-In mentions to Yuka that Jin-Woo has been having nightmares again. On the second day, Jin-Woo feels something, leaves to follow it, and comes back at dusk. He tells Mau, Yuta and Gojo: presences in the far north hills, old ones, ones he knows. Yuta and Gojo will stay near the house in case. Jin-Woo asks Mau to come with him. Mau tells Yuka all of it. They decide: Yuka goes to Elmesia on Kaisel with DIO, as planned; Mau goes with Jin-Woo and joins her when he can. Makima, who can't be far from Mau, stays with him.
 
-*When: The two days before they were meant to leave. The bird has been and gone again, with a reply saying they're expected in three days.*
+*When: B+347–348. The two days before they were meant to leave. The bird has been and gone again, with a reply saying they're expected in three days.*
 
 “The blue one,” Yuka says. ʸ
 

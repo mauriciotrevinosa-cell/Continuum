@@ -7,7 +7,7 @@
 **Source episode:** S13E42
 **Continuity state:** B+336, early morning. The day after they decided how to tell the house. Yuka wakes before him, says she's going to the bathroom, and doesn't come back. Her period has come. Mau finds her crying on the floor; when she sees him she breaks completely. She blames herself; he tells her it isn't her fault. She won't walk, so he carries her back to bed. He buys breakfast from the Shop and sends a message over the link that Yuka isn't well (not hurt, he'll explain later) and not to wait for them. Rimuru offers to bring breakfast; Mau says he already has something. Yuka falls asleep again holding his shirt. No intimate scene; the focus is Yuka.
 
-*When: Just after dawn. The folded letter to Elmesia is still on the bedside table, waiting for the bird.*
+*When: B+336. Just after dawn. The folded letter to Elmesia is still on the bedside table, waiting for the bird.*
 
 She says she's going to the bathroom.
 

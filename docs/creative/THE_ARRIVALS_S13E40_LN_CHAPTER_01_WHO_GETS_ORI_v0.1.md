@@ -7,7 +7,7 @@
 **Source episode:** S13E40
 **Continuity state:** B+331, morning to afternoon. They wake late, tangled; he still hasn't found out whether the man in the book gets the horse. Breakfast side by side. The Pillow, raised as Mau's shadow at the quarry, has claimed the common-room fire and Ori; Lantern sulks in Ori's shadow and the two of them compete for her. Mau and Yuka referee from the couch with her in his lap. Gojo's tally resumes. No new units beyond the Pillow already recorded in V78.
 
-*When: The first morning after the chair by the lamp. Shuna has already started the bread; Ori has already been downstairs for an hour, which nobody is supposed to know.*
+*When: B+331. The first morning after the chair by the lamp. Shuna has already started the bread; Ori has already been downstairs for an hour, which nobody is supposed to know.*
 
 He wakes up because she's reading his book.
 

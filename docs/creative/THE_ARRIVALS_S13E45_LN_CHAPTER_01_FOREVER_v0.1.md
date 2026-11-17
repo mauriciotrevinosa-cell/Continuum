@@ -7,7 +7,7 @@
 **Source episode:** S13E45
 **Continuity state:** B+339–341. The low days go on, more slowly. Yuka gets up and walks to the window and back, then the hall, then the porch at night. She won't let go of Mau; she asks him not to leave her. One night she tells him he should divorce her, that he could have a child with someone whose body works. He tells her he will never divorce her, that he loves her more than she has any idea of. "Forever?" "Forever." She just holds on. On the third evening Mau tells Frieren that Yuka seems a little better. Mau's own grief has a place too: alone for a minute on the third tree's branch. No intimate scene.
 
-*When: The fourth, fifth and sixth days. The house has started to move normally again downstairs, carefully, the way you walk around someone sleeping.*
+*When: B+339–341. The fourth, fifth and sixth days. The house has started to move normally again downstairs, carefully, the way you walk around someone sleeping.*
 
 She gets up on the fourth day.
 

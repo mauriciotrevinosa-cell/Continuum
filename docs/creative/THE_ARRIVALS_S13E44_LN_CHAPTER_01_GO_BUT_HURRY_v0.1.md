@@ -7,7 +7,7 @@
 **Source episode:** S13E44
 **Continuity state:** B+338, morning. In bed, Yuka brings up the cancer herself: the treatments before she came, whether they left something. Mau offers to bring Shoko; Yuka refuses. She doesn't want him to go, but she wants to know if it's a chance, so she tells him to go and hurry. A short conversation in the clinic: Mau worried, Shoko telling him these things take time, the truth about what treatments like hers can and can't do, and how he could look for it with the eyes. Shoko never sees Yuka. Mau goes back and asks Yuka's permission himself before he looks. She gives it. He looks, and finds nothing of the kind. No intimate scene.
 
-*When: The third morning. She's been awake for a while again. He knows by the way she's breathing, careful and even, like someone who's been thinking about how to say something.*
+*When: B+338. The third morning. She's been awake for a while again. He knows by the way she's breathing, careful and even, like someone who's been thinking about how to say something.*
 
 “The hospital,” she says. ʸ
 

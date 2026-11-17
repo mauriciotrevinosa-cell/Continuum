@@ -7,7 +7,7 @@
 **Source episode:** S13E40
 **Continuity state:** B+332. Rimuru talks Shuna into a day off. Mau and Yuka volunteer to make breakfast for the house, with Rem supervising from a chair she isn't allowed to leave. Yuka can't cook and is proud of it; Mau can, a little. Flour, a burned first batch, Authority used to flip things, Yuka sitting on the counter as "quality control". In the afternoon Jin-Woo trains with both of them, as a pair, and is quieter than usual; he doesn't say why. Shuna comes home and finds the kitchen clean, which is the part that makes her cry.
 
-*When: The next morning, before dawn. Rimuru has spent the previous evening convincing Shuna that the house will survive one day without her, and she has agreed on the condition that she doesn't hear about it.*
+*When: B+332. The next morning, before dawn. Rimuru has spent the previous evening convincing Shuna that the house will survive one day without her, and she has agreed on the condition that she doesn't hear about it.*
 
 “We'll do it,” Yuka says. ʸ
 

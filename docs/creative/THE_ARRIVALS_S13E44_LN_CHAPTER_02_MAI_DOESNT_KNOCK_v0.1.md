@@ -7,7 +7,7 @@
 **Source episode:** S13E44
 **Continuity state:** B+338, afternoon. While Yuka sleeps, Mau tells Maki and Yuta in the hall. Then Mai arrives at their door without anyone telling her anything. She sits on the floor and talks: about the workshop, the cloth, nothing. She waits for Yuka to answer her, and talks with Mau while she waits. When Maki and Yuta come in, Yuka tells the three of them herself. Maki, instead of being tough, just hugs her. Mau starts to slip out to give them room; Maki and Yuka both grab him. He says he's going to the bathroom. No intimate scene.
 
-*When: The afternoon after the eyes. Yuka has slept since. It's the first sleep in three days that doesn't look like hiding.*
+*When: B+338. The afternoon after the eyes. Yuka has slept since. It's the first sleep in three days that doesn't look like hiding.*
 
 He tells Maki and Yuta in the hall.
 

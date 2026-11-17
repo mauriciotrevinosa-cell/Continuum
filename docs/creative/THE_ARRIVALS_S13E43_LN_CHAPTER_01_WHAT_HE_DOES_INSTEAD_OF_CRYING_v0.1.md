@@ -7,7 +7,7 @@
 **Source episode:** S13E43
 **Continuity state:** B+336, late morning to night. While Yuka sleeps, Mau does what he does instead of crying: he looks for a solution. Without looking at her, he asks Noise and the wheel what could cause this and what could be done, and makes them promise not to tell Yuka, because the answer could hurt. Noise says there are too many possible causes and they can't know anything without looking at her. Makima feels his grief through the thread and comes to the door without coming in; Mau goes out to her. She doesn't understand what she's feeling. He tells her it's what he feels, only she's living it. He hugs her, the only one of the four who feel it with him that he can hug. She goes stiff. Yuka wakes in the evening, eats a little, says almost nothing, and holds his shirt all night.
 
-*When: The same day. Yuka sleeps through most of the morning. The house is quieter than he's ever heard it.*
+*When: B+336. The same day. Yuka sleeps through most of the morning. The house is quieter than he's ever heard it.*
 
 He doesn't cry.
 

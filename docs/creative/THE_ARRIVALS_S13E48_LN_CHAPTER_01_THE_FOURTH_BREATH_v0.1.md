@@ -7,7 +7,7 @@
 **Source episode:** S13E48
 **Continuity state:** B+348, night. Yuka's point of view. Mau spends the evening on the roof with the eyes at full, searching the north for the faintest sign of what Jin-Woo described, with Yuka wrapped in the blanket between his knees the whole time; at midnight she makes him stop and gets him down. Yuka, twice as clingy as before, remembers the day of the red gate, when he let go, and does it again on purpose: climbs onto him, takes his head and draws it against her chest. He lets go, the same way. Just before he falls asleep an "I love you" slips out of him. She goes red, holds him tighter, and hears a snore. Closeness, no intimate scene (five days out of the low days; she's only just getting her strength back).
 
-*When: The night before they leave in two directions. The packed inventory is ready. The four blue things have been reduced to one.*
+*When: B+348. The night before they leave in two directions. The packed inventory is ready. The four blue things have been reduced to one.*
 
 She makes him come down at midnight.
 

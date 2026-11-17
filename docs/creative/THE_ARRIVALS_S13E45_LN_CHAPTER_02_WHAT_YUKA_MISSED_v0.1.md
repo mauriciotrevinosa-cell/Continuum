@@ -7,7 +7,7 @@
 **Source episode:** S13E45
 **Continuity state:** B+342. Frieren lets Ori visit. Ori sits on the bed with the Pillow's nose on the blanket and Lantern sulking in her shadow, and tells Yuka everything the Fort and the house did while she was in bed: the Fort's treaty with the Pillow, Milim's attempt to ride it, Senku's lecture about scissors (again), Umaru's tournament rules, Beru's hat. Yuka laughs, really laughs, for the first time. Then she asks Ori to take her to see what she missed, and Ori does. Mau, left behind on purpose, goes to the workshop and talks with Mai. No intimate scene.
 
-*When: The seventh day. Frieren knocks on the door herself, which she has never done, and stands aside to let a small person through.*
+*When: B+342. The seventh day. Frieren knocks on the door herself, which she has never done, and stands aside to let a small person through.*
 
 Ori comes in very carefully.
 

@@ -7,7 +7,7 @@
 **Source episode:** S13E41
 **Continuity state:** B+334, morning to afternoon. Mau keeps his promise not to look. Unable to sit still, he starts a list of names in his head; Noise takes it very seriously, and Ciel adds her own. Makima, who feels his hope through the bond, offers one too. Mau tells her she's helping, but that doesn't make her anything less than his friend. Yuka is clingier than ever all day, and neither of them says a word to the house. Gojo's tally suffers.
 
-*When: The morning after the arithmetic. Neither of them slept much. Yuka is pretending, very badly, that nothing is different.*
+*When: B+334. The morning after the arithmetic. Neither of them slept much. Yuka is pretending, very badly, that nothing is different.*
 
 He doesn't look.
 

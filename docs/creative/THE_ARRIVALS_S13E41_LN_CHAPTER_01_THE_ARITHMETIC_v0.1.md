@@ -7,7 +7,7 @@
 **Source episode:** S13E41
 **Continuity state:** B+333. Yuka, marking the household calendar for the island letter, counts back to before the island (her last period was just before the trip) and realises she's about two weeks late. She tells Mau at once, in the workshop corridor. "What do you mean, late?" She explains. She asks if he can see. He has been trying not to look since the moment she said it; he doesn't look. They decide to tell no one yet. Night: they lie awake making careful, quiet plans, and he tells her about the boy in the shallow water he imagined on the beach (V77 #13).
 
-*When: Mid-morning. Yuka has the household calendar open on Fern's desk because she wants to count how many days until a date they could offer Elmesia. Mau is in Mai's workshop next door, holding something still for Mai.*
+*When: B+333. Mid-morning. Yuka has the household calendar open on Fern's desk because she wants to count how many days until a date they could offer Elmesia. Mau is in Mai's workshop next door, holding something still for Mai.*
 
 She counts the days for the letter.
 

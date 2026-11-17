@@ -601,3 +601,20 @@ Claude planeó sin releer la versión final de V78. La revisión cambió hechos 
 - **El registro de cierre dice que el Arquitecto está vivo, bajo custodia de los Rulers, y que los Rulers administran la instancia.** Mau sospecha que la cantera fue su primera prueba con el sistema incautado. Esto amarra directo con la gate de los Rulers del arco 3: no es una idea nueva, ya está sembrada.
 - **Antes de escribir V79:** releer completa la versión final de V78 (Work y Mauri la ajustaron; hay capítulos nuevos y otros reescritos) y actualizar el kit con lo que haya cambiado (la sombra del Pillow, el conteo de vínculos).
 
+### Respuesta de Mauri al plan de escenas íntimas
+
+> ya te vi corchete corchete corchete jajajajajajajjaj pero esta bien. Bastante cerca habia dicho como uan nueve. mmm puede ser pero no crees raro que lo hagan cuando creen que ya hay un chamaco ahi lo diria antes que la casa se emocione el dia antes o antes d eque yuka haga la aritmetica. OKay a la dos solo me explicas el porque de ahi o algo despues. 3 ya te vi que si os si lo quieres ahi y esta bien conque no le quite el espacio a la casa todo bien
+> 4 si esta bien me agrada
+> 5 perfe y es que digo podemos hacer el let go y uno extra en la isla pero me gustaria que yuka ponga una lista de cosas que no hacer y todas involucren no molestarlos y dejamos el itinerary como misterio que la casa ya lo tenga pero nosotros no eso me da tiempo de pensar y a ti tmb
+
+**Ajustes:**
+1. **La primera se mueve antes del retraso:** el día antes de que Yuka haga la cuenta, o antes de que la casa se emocione. No cuando ya creen que hay un bebé.
+2. **La segunda:** Mauri pide la razón (ver abajo).
+3. **El cumpleaños:** aprobado, siempre que no le quite espacio a la casa.
+4. **El día juguetón:** aprobado.
+5. **La noche antes de la isla:** el *let go*, y quizá una más ya en la isla.
+   - Yuka escribe una lista de cosas que la casa **no** debe hacer, y todas son no molestarlos.
+   - **El itinerario queda en misterio:** la casa ya lo tiene, nosotros todavía no. Da tiempo de pensar la isla.
+
+**La razón de la segunda (Claude):** no va la noche del reencuentro, porque eso es justo después del susto. Va unos días después, en el arco 2, cuando Mau ya está sano y vuelven a andar juguetones: por ejemplo, el día del inventario, cuando la casa se burla de que a Mau se le olvidó que podía subir de nivel y Yuka se pasa la tarde molestándolo con «¿qué más se te olvidó?». Marca que la vida volvió a la normalidad después de los Monarcas, con el Mau que ya no le esconde nada.
+

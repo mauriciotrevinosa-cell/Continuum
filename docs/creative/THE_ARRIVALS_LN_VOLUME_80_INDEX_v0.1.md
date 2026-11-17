@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S13 v0.1 — opening chapters; awaiting creator review
 **Volume:** 80
 **Season:** 13
-**Coverage:** S13E57–S13E59 (B+352 to B+360, so far)
+**Coverage:** S13E57–S13E61 (B+352 to B+365, so far)
 **Working volume title:** The Things We Kept
-**Chapter files:** 6
+**Chapter files:** 10
 
 After the Monarchs, the house can be a house again. Mau is still recovering, Yuka will not let him disappear behind a reassuring answer, and the old inventory might contain a problem neither of them noticed. The island invitation remains open; the party and itinerary are not final.
 
@@ -21,6 +21,10 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 | 4 | S13E58 | Noise Checks the Walls | `THE_ARRIVALS_S13E58_LN_CHAPTER_02_NOISE_CHECKS_THE_WALLS_v0.1.md` |
 | 5 | S13E59 | Off the Stick | `THE_ARRIVALS_S13E59_LN_CHAPTER_01_OFF_THE_STICK_v0.1.md` |
 | 6 | S13E59 | The Things He Didn't Know He Had | `THE_ARRIVALS_S13E59_LN_CHAPTER_02_THE_THINGS_HE_DIDNT_KNOW_HE_HAD_v0.1.md` |
+| 7 | S13E60 | The Pattern | `THE_ARRIVALS_S13E60_LN_CHAPTER_01_THE_PATTERN_v0.1.md` |
+| 8 | S13E60 | Do Whatever You Want | `THE_ARRIVALS_S13E60_LN_CHAPTER_02_DO_WHATEVER_YOU_WANT_v0.1.md` |
+| 9 | S13E61 | The King and His Ant | `THE_ARRIVALS_S13E61_LN_CHAPTER_01_THE_KING_AND_HIS_ANT_v0.1.md` |
+| 10 | S13E61 | The Day They Picked | `THE_ARRIVALS_S13E61_LN_CHAPTER_02_THE_DAY_THEY_PICKED_v0.1.md` |
 
 ## Continuity locks and open decisions
 
@@ -40,3 +44,4 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 2. Develop the Yuka–Mau contract improvements through a consensual design and controlled test, **not** an unexplained instant upgrade.
 3. Give the household and Mau's birthday (B+365) their own space before the Rulers' gate; the gate's multiplier-only condition and available Shop remain creator-planned future beats.
 4. Work toward the island trip only after the home, recovery and Rulers' arc have their own pacing. Keep the guest list and itinerary open until the creator confirms them.
+- #7–10 (Claude): Noise's ring pattern shown to Mai (one curve corrected; build set for after the birthday); Mau's birthday B+365 — Yuka's note, Shoko clears one gate, Beru's dungeon at the hardest setting, level 5 with 10 unallocated points (not spent; waiting for Yuka), the surprise party, Elmesia's letter (gift waits on the island), Frieren's flower spell, Yuka's matching enormous hat for the island; intimate scene note in #10.

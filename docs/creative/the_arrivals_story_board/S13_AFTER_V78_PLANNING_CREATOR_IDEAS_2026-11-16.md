@@ -226,7 +226,7 @@ Partes A–G como en la quinta ronda. Corchetes:
   4. **Respuesta de la rueda bajo demanda:** la adaptación ofrecida que ya probaron (V66), convertida en algo que ella pide.
 
   Recomendación de Claude: 1 + 3, y quizá 2. Así pelean como uno en lo mediano, y en lo enorme ella tiene una puerta.
-- **El cumpleaños de Mau (B+365):** primer aniversario del cumpleaños que la casa eligió para él («The Day We Picked»; Mau no lo eligió). La casa lo celebra; el regalo de Yuka; Ori. **[C]** esa noche.
+- **El cumpleaños de Mau (B+365):** el cumpleaños que la casa eligió para él («The Day We Picked», S3E22; Mau no lo eligió). No es el primero: el calendario B cuenta desde su cumpleaños anterior. La casa lo celebra; el regalo de Yuka; Ori. **[C]** esa noche.
 - **Mau y Makima:** la conversación de control contra caos. Mau sabe que ella está porque quiere controlar las cosas y él es caos; pelean hasta donde el contrato deja. Mau se da cuenta de que estaba mal y se abre más con ella.
 - **Noise:** sus avances con Ciel y DIO; cómo se encariña con Makima sin ser tonto (ella se le acerca porque quiere a Mau, y Noise es parte de él).
 - **Slice diario:** cada día una historia de alguien de la casa (Hinata y Anko; Rimuru y Shizue; Umaru, Rem y Taihei; Ori y Chloe; Frieren), con Mau y Yuka siempre juntos. **[C]** en por lo menos dos noches tranquilas más.

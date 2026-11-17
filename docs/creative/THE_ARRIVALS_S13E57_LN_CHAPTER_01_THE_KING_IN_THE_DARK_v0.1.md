@@ -23,11 +23,11 @@ Yuka feels him open his eyes.
 
 “Morning.” ᴹ
 
-“You moved.”
+“You moved.” ʸ
 
-“I woke up.”
+“I woke up.” ᴹ
 
-“You moved before that.”
+“You moved before that.” ʸ
 
 He considers arguing. It isn't worth it.
 
@@ -37,9 +37,9 @@ She lifts her face enough to look at him.
 
 “You don't have to apologise for being hurt,” she says. ʸ
 
-“Shoko's going to tell me I do.”
+“Shoko's going to tell me I do.” ᴹ
 
-“Shoko's going to tell you much worse things.”
+“Shoko's going to tell you much worse things.” ʸ
 
 That, he thinks, is certain.
 
@@ -69,9 +69,9 @@ She reaches up with two fingers and smooths the hair away from his eyes. She wai
 
 “It was a Red Gate,” he says. “Not the quarry. Much earlier. The one where the levels changed faster than I could keep up with them.” ᴹ
 
-“I know that one.”
+“I know that one.” ʸ
 
-“You know the part I told you. Not all the things I kept when it was over.”
+“You know the part I told you. Not all the things I kept when it was over.” ᴹ
 
 “Then tell me the other part.” ʸ
 
@@ -85,17 +85,17 @@ He doesn't soften the sentence. He told her last night that the fight with Destr
 
 “I hadn't,” he says. “I found that out afterward. But for a while I thought I had. And there was a shape in there, a thing the gate had built using the pattern of a king made of frost.” ᴹ
 
-“The king from yesterday.”
+“The king from yesterday.” ʸ
 
 “Not him. A copy of him. A pattern the gate made. I killed that pattern and raised what was left.” ᴹ
 
-“You called it Rime.”
+“You called it Rime.” ʸ
 
-“Noise helped with the name.”
+“Noise helped with the name.” ᴹ
 
 “Noise usually helps with names by making a list of forty.” ʸ
 
-“Noise has been very quiet about the baby-name list.”
+“Noise has been very quiet about the baby-name list.” ᴹ
 
 “I know,” she says, and for a moment the room goes still around them. ʸ
 
@@ -105,13 +105,13 @@ Then she draws a breath and gives the morning back its shape.
 
 “So Rime isn't the king you fought.” ʸ
 
-“No.”
+“No.” ᴹ
 
-“But now you have that king too.”
+“But now you have that king too.” ʸ
 
 “Part of him. I don't know how much of him survived the extraction.” ᴹ
 
-“And the wolf.”
+“And the wolf.” ʸ
 
 “Same problem.” ᴹ
 
@@ -119,13 +119,13 @@ She looks at him for a long time.
 
 “Do you know whether they can think?” ʸ
 
-“Not yet.”
+“Not yet.” ᴹ
 
-“Then don't say they're fine.”
+“Then don't say they're fine.” ʸ
 
 “I wasn't going to.” ᴹ
 
-“Good.”
+“Good.” ʸ
 
 * * *
 
@@ -137,11 +137,11 @@ Noise has been listening, of course.
 
 Yuka raises an eyebrow.
 
-“Noise?”
+“Noise?” ʸ
 
-“Noise.”
+“Noise.” ᴹ
 
-“Tell Noise I said not to turn them into a project before breakfast.”
+“Tell Noise I said not to turn them into a project before breakfast.” ʸ
 
 “Noise heard you.” ᴹ
 
@@ -159,11 +159,11 @@ Mau almost laughs. The pain along his side changes his mind.
 
 “Rime's different,” he tells her. “The shape is old. It's been with me a long time. I know what it does when I call it. The other two were never meant to be easy.” ᴹ
 
-“You didn't know how difficult it would be until you tried.”
+“You didn't know how difficult it would be until you tried.” ʸ
 
-“No.”
+“No.” ᴹ
 
-“Do you regret trying?”
+“Do you regret trying?” ʸ
 
 He thinks about the wolf kneeling in the hollow. The weak shape of it, smoking at the edges. The way seven kings had looked at one another when it rose.
 
@@ -179,7 +179,7 @@ Shoko knocks with the authority of someone who doesn't expect to be told no.
 
 “No,” Yuka answers. ʸ
 
-“Good. Then the patient won't complain when I change the dressing.”
+“Good. Then the patient won't complain when I change the dressing.” ˢʰ
 
 The door opens.
 
@@ -189,7 +189,7 @@ Shoko has a basin, a fresh roll of cloth and the expression she gets when she's 
 
 He starts to lift the left one.
 
-“Not by yourself.”
+“Not by yourself.” ˢʰ
 
 Yuka has already sat up. She moves the pillow with both hands, one under his elbow and one under the splint, just as Shoko showed her yesterday. Mau holds still. Shoko checks the support first, then the swelling around the exposed fingers, then the cloth over his side.
 
@@ -201,17 +201,17 @@ That, he suspects, is what Shoko wants.
 
 “It's not worse.” ˢʰ
 
-“Is that good?”
+“Is that good?” ʸ
 
-“Today? Very.”
+“Today? Very.” ˢʰ
 
 Mau looks at his arm. It still looks like somebody has attached the wrong piece of wood to him.
 
 “When can I take it off?” he asks. ᴹ
 
-“When I tell you.”
+“When I tell you.” ˢʰ
 
-“That's not a date.”
+“That's not a date.” ᴹ
 
 “It's the only date you have.” ˢʰ
 
@@ -219,7 +219,7 @@ She checks the edge of the dressing and tapes it down.
 
 “No training. No new extraction tests. No clever uses of RCT on your own bones while I'm asleep. And if you tell me the eyes say you're perfectly fine, I'll ask whether the eyes know how to make breakfast.” ˢʰ
 
-“They know where breakfast is.”
+“They know where breakfast is.” ᴹ
 
 “That isn't the same skill.” ˢʰ
 
@@ -231,7 +231,7 @@ Shoko gives her a look.
 
 “We can do that,” Yuka says. ʸ
 
-“I was speaking to you. He'd be on the roof if I asked him.”
+“I was speaking to you. He'd be on the roof if I asked him.” ˢʰ
 
 Mau has the decency not to argue.
 
@@ -251,13 +251,13 @@ Yuka looks at Mau. He nods.
 
 Ori comes straight to the good side of the bed. She doesn't jump up. She studies the splint, then looks at Mau's face, then at the splint again.
 
-“Does it still hurt?”
+“Does it still hurt?” ᴼ
 
 “Yeah,” he says. ᴹ
 
-“A lot?”
+“A lot?” ᴼ
 
-“Enough.”
+“Enough.” ᴹ
 
 She thinks about this.
 
@@ -271,7 +271,7 @@ Yuka reaches out and draws Ori gently toward her, into the space between her hip
 
 “The Pillow talks now?” Mau asks. ᴹ
 
-“No. I can tell. It lay down across the door when Beru tried to come in.”
+“No. I can tell. It lay down across the door when Beru tried to come in.” ᴼ
 
 Beru straightens, tray still in his hands.
 
@@ -295,9 +295,9 @@ Yuka settles down again, careful of his arm.
 
 “Are we done with Rime?” she asks. ʸ
 
-“For now.”
+“For now.” ᴹ
 
-“Not with the story.”
+“Not with the story.” ʸ
 
 “No.” ᴹ
 
@@ -305,9 +305,9 @@ She folds his good hand between both of hers.
 
 “Next time, don't start with 'long story' like you're trying to make me give up.” ʸ
 
-“What should I start with?”
+“What should I start with?” ᴹ
 
-“The part you're afraid I'll mind.”
+“The part you're afraid I'll mind.” ʸ
 
 He looks at her.
 
@@ -321,13 +321,13 @@ But he's not going down there this morning.
 
 He's going to stay where she is.
 
-“Besides,” Yuka says, nestling carefully against his right shoulder, “after you tell me all that, we're looking through the inventory.”
+“Besides,” Yuka says, nestling carefully against his right shoulder, “after you tell me all that, we're looking through the inventory.” ʸ
 
-“What inventory?”
+“What inventory?” ᴹ
 
-“Yours. The one that apparently has entire kings in it that you forget to mention.”
+“Yours. The one that apparently has entire kings in it that you forget to mention.” ʸ
 
-“That's a very different inventory.”
+“That's a very different inventory.” ᴹ
 
 “Then we can start with the one that has the candy.” ʸ
 

@@ -13,17 +13,17 @@
 
 Mau looks at her.
 
-“Show you what?”
+“Show you what?” ᴹ
 
-“The inventory.”
+“The inventory.” ʸ
 
-“Which part?”
+“Which part?” ᴹ
 
-“All of it.”
+“All of it.” ʸ
 
 “That isn't a part.” ᴹ
 
-“Then start at the beginning.”
+“Then start at the beginning.” ʸ
 
 He's sitting on the long bench by the common-room table, with his left arm in a splint, a cushion behind his injured side and a blanket over his knees that Shuna brought before he'd managed to refuse it. Yuka is beside him, pressed against his good right side. She has a notebook.
 
@@ -35,13 +35,13 @@ That should worry him more than it does.
 
 “Because you told me the story of a king you forgot to tell me you owned, and I started wondering what else you forgot.” ʸ
 
-“I didn't forget Rime.”
+“I didn't forget Rime.” ᴹ
 
 “You forgot to tell your wife about Rime.” ʸ
 
-“That's different.”
+“That's different.” ᴹ
 
-“I know. This notebook is for both kinds.”
+“I know. This notebook is for both kinds.” ʸ
 
 * * *
 
@@ -51,21 +51,21 @@ Yuka looks at it.
 
 “Why?” ʸ
 
-“Because it's rope.”
+“Because it's rope.” ᴹ
 
-“That's not an answer.”
+“That's not an answer.” ʸ
 
 “It is if you need rope.” ᴹ
 
 He puts it on the table. Next come two folded tarpaulins, a small bundle of spare straps and a box of ordinary screws.
 
-“That's not the interesting part,” Yuka says.
+“That's not the interesting part,” Yuka says. ʸ
 
-“I didn't say it would be interesting.”
+“I didn't say it would be interesting.” ᴹ
 
-“You said you had everything.”
+“You said you had everything.” ʸ
 
-“I said I had a lot of things.”
+“I said I had a lot of things.” ᴹ
 
 “Then show me the a lot of things.” ʸ
 
@@ -83,15 +83,15 @@ The eyes don't give the room a new colour. They still show him the table, the br
 
 “Okay,” he says. “Basic supplies. Tools. Material. Equipment. Old records.” ᴹ
 
-“Candy.”
+“Candy.” ʸ
 
-“That's under food.”
+“That's under food.” ᴹ
 
 “Show me the candy.” ʸ
 
-“I haven't got candy in my hand.”
+“I haven't got candy in my hand.” ᴹ
 
-“That's why you're showing me the inventory.”
+“That's why you're showing me the inventory.” ʸ
 
 He opens the Shop instead. A small packet appears in his good hand. The balance changes by exactly the amount it should.
 
@@ -99,11 +99,11 @@ Yuka takes it before he can put it down.
 
 “You used money,” she says, pleased. ʸ
 
-“That's how the Shop works.”
+“That's how the Shop works.” ᴹ
 
-“I know. I just like watching you buy me things.”
+“I know. I just like watching you buy me things.” ʸ
 
-“That's a very expensive hobby.”
+“That's a very expensive hobby.” ᴹ
 
 “You're very good at it.” ʸ
 
@@ -131,39 +131,39 @@ The fourth is a collection of things that nobody at the table can explain.
 
 Mau leans closer.
 
-“I don't know.”
+“I don't know.” ᴹ
 
-“You bought it?”
+“You bought it?” ʸ
 
-“Maybe.”
+“Maybe.” ᴹ
 
-“From where?”
+“From where?” ʸ
 
 “I don't know.” ᴹ
 
 She makes a mark.
 
-“That's two.”
+“That's two.” ʸ
 
-“Two what?”
+“Two what?” ᴹ
 
-“Things you don't know.”
+“Things you don't know.” ʸ
 
 Mai takes the fitting from her and turns it over, examining the edge.
 
 “It's an ordinary part,” she says. “You don't need a theory. You need to stop putting parts from different jobs in the same place.” ᴹᵃ
 
-“I didn't put it anywhere.”
+“I didn't put it anywhere.” ᴹ
 
-“You put it in a place where you can find it and then never looked at it again.”
+“You put it in a place where you can find it and then never looked at it again.” ᴹᵃ
 
 “That sounds like putting it somewhere.” ᴹ
 
 “It sounds like the same thing you do to my scissors.” ᴹᵃ
 
-“I don't take your scissors.”
+“I don't take your scissors.” ᴹ
 
-“You once took a whole bench because you thought it was in the way.”
+“You once took a whole bench because you thought it was in the way.” ᴹᵃ
 
 Yuka writes something in the notebook and won't show him what.
 
@@ -177,13 +177,13 @@ Mai reads the notes silently.
 
 “Don't tell me you've already made the thing,” she says. ᴹᵃ
 
-“I haven't.”
+“I haven't.” ᴹ
 
-“Good.”
+“Good.” ᴹᵃ
 
 “Why is that good?” ᴹ
 
-“Because I would like to know what you think the thing does before you give it to me to fix.”
+“Because I would like to know what you think the thing does before you give it to me to fix.” ᴹᵃ
 
 Noise speaks in his head.
 
@@ -197,13 +197,13 @@ Yuka looks from one to the other.
 
 “So the katana gets a project, not a miracle.” ʸ
 
-“Exactly,” Mai says.
+“Exactly,” Mai says. ᴹᵃ
 
 Yuka writes *KATANA — ASK MAI FIRST* in large letters.
 
 Mau reaches for the notebook with his good hand. She lifts it out of range.
 
-“You're supposed to be helping.”
+“You're supposed to be helping.” ᴹ
 
 “I am helping.” ʸ
 
@@ -231,13 +231,13 @@ All of it. The missing positions, what Noise can read, what Noise can't.
 
 “Can you open them?” ʸ
 
-“Not yet.”
+“Not yet.” ᴹ
 
-“Can you tell whether it's dangerous?”
+“Can you tell whether it's dangerous?” ʸ
 
-“Not yet.”
+“Not yet.” ᴹ
 
-“Then don't open them in the common room.”
+“Then don't open them in the common room.” ʸ
 
 “I wasn't going to.” ᴹ
 
@@ -245,9 +245,9 @@ She studies him.
 
 He studies her.
 
-“You were thinking about it.”
+“You were thinking about it.” ʸ
 
-“I was thinking about asking Noise.”
+“I was thinking about asking Noise.” ᴹ
 
 “That's a kind of thinking about it.” ʸ
 
@@ -263,7 +263,7 @@ Ciel's voice comes through the other place inside him, calm enough to sound almo
 
 Yuka closes her eyes.
 
-“You live with those two all day?”
+“You live with those two all day?” ʸ
 
 “Yes.” ᴹ
 
@@ -287,7 +287,7 @@ Noise is silent for a moment.
 
 “It was recorded under the former system. It doesn't establish that the same leveling mechanism is operational now,” Noise says. ᴺ
 
-“I know.”
+“I know.” ᴹ
 
 “What is it?” Yuka asks. ʸ
 
@@ -297,11 +297,11 @@ She blinks. Once. Twice.
 
 “You forgot about levels?” ʸ
 
-“I didn't forget.”
+“I didn't forget.” ᴹ
 
-“You put them in a folder and never looked again.”
+“You put them in a folder and never looked again.” ʸ
 
-“That isn't forgetting.”
+“That isn't forgetting.” ᴹ
 
 “It's exactly forgetting. With extra steps.” ʸ
 
@@ -317,9 +317,9 @@ Then Ori, from beside the Pillow: “You're allowed to forget a level?” ᴼ
 
 Gojo, who has appeared in the doorway at a very unfortunate moment, says, “Some of us have never been allowed to forget that he's on a different level.” ᴳ
 
-“Gojo,” Shoko calls from the hall, “don't make him demonstrate anything.”
+“Gojo,” Shoko calls from the hall, “don't make him demonstrate anything.” ˢʰ
 
-“I was going to ask him to stand up.”
+“I was going to ask him to stand up.” ᴳ
 
 “Especially don't do that.” ˢʰ
 
@@ -343,9 +343,9 @@ And Yuka gets the rest of the sweets.
 
 “That's not fair,” Mau says. ᴹ
 
-“You bought them for me.”
+“You bought them for me.” ʸ
 
-“You told me to.”
+“You told me to.” ᴹ
 
 “Exactly.” ʸ
 
@@ -355,13 +355,13 @@ At the top of the next page she has written *ISLAND*.
 
 “That's not inventory,” he says. ᴹ
 
-“No. It's the next thing we need a list for.”
+“No. It's the next thing we need a list for.” ʸ
 
-“Elmesia said everyone.”
+“Elmesia said everyone.” ᴹ
 
-“Elmesia said we can bring everyone. That's different from deciding who is actually going.”
+“Elmesia said we can bring everyone. That's different from deciding who is actually going.” ʸ
 
-“Right.”
+“Right.” ᴹ
 
 “And this time,” Yuka says, putting the pencil down, “we're asking people before we put them on anything. I want the house to come. I also want some time when we're not surrounded by the entire house.” ʸ
 
@@ -369,7 +369,7 @@ He knows what she means.
 
 “I'll help you ask,” he says. ᴹ
 
-“I know you will.”
+“I know you will.” ʸ
 
 She reaches across him for the notebook. He catches it with his good hand before it slides off the table, and she gives him a look that makes him think she did it on purpose.
 
@@ -393,9 +393,9 @@ He doesn't say *I'm fine*.
 
 “I'm tired,” he says. ᴹ
 
-“I know.”
+“I know.” ʸ
 
-“It hurts more now.”
+“It hurts more now.” ᴹ
 
 “I know that too.” ʸ
 
@@ -409,9 +409,9 @@ Yuka puts her hand over his good one on the banister.
 
 “Tomorrow,” she says, “we go through the rest.” ʸ
 
-“Tomorrow Shoko might make me stay in bed.”
+“Tomorrow Shoko might make me stay in bed.” ᴹ
 
-“Then I'll bring the notebook.”
+“Then I'll bring the notebook.” ʸ
 
 He looks at her.
 

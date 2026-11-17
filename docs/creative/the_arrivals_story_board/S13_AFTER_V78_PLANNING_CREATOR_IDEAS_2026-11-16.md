@@ -689,3 +689,12 @@ Tsurugi, Subaru y Suho andan en lo suyo y «se fueron a buscar a Emilia». Broma
 - **Sigue en duda:** si el día va lleno, se escriben más capítulos. Por cantidad no es «de chocolate» (van tres en unos 140 capítulos), y la primera vez ya fueron dos capítulos seguidos, así que dos días seguidos tampoco romperían nada.
 - **Recomendación de Claude:** mantenerlo, con dos condiciones. Que la casa y la fiesta tengan su espacio completo primero. Y que nazca de algo de ellos esa noche (el regalo de Yuka, lo cómodos que quedan), no de la fecha.
 
+### Decisión del cumpleaños
+
+> okay me agrada y para tu punto 2 que sea ambos que yuka le haya guardado algo mas no un jueguete ni nada algo para la isla y andan comodos y un beso lleva a otro mas largo y de ahi nace
+
+- **El chicawow del cumpleaños se queda.**
+- Nace de las dos cosas: Yuka le guardó un regalo a solas, que no es un juguete sino algo para la isla, y están cómodos.
+- Un beso lleva a otro más largo, y de ahí nace la escena. Va en corchete para Work o Chat.
+- La casa y la fiesta tienen su espacio completo antes.
+

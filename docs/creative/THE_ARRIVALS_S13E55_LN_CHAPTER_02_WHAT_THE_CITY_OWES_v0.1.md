@@ -131,7 +131,7 @@ He shakes his head. “Elmesia, you don't owe me—” ᴹ
 
 “What is it?” Yuka asks. ʸ
 
-“I'll tell you when you reach the island.”
+“I'll tell you when you reach the island.” ᴱˡ
 
 “You can't just say that and stop,” Yuka protests. ʸ
 

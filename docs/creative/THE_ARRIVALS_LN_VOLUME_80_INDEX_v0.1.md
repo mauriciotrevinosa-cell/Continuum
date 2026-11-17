@@ -26,7 +26,7 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 - The inventory index gaps are **unverified**: not yet confirmed hidden objects, unlocks or stolen items. Noise and Ciel must compare records before any discovery or use.
 - The historical level-200 record does not prove the old leveling mechanism still works, and nobody has gained levels from opening the record.
 - Katana/ring notes are only retained observations, not a constructed or installed ring. Mai keeps authority over her own Construction work.
-- Elmesia offered the island and her city; no invitation roster, confirmed schedule or itinerary is invented here.
+- Elmesia's invitation to the island for the household still stands, and her city remains open to them. She separately promises Mau an **unspecified personal gift to be given on the island**, with no details established yet. No invitation roster, confirmed schedule, item or itinerary is invented here.
 - No intimate scene is written in these opening chapters while Mau is injured. No placeholder markers remain in either chapter.
 
 ## Possible next chapters (proposals, not yet canon)

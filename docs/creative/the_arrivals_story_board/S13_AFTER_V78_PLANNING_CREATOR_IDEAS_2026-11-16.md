@@ -656,7 +656,7 @@ Tsurugi, Subaru y Suho andan en lo suyo y «se fueron a buscar a Emilia». Broma
 
 ### Dirección
 
-- **Dónde estaban:** Tsurugi (última aparición V61) y Subaru (última aparición S11E09) se fueron juntos, después de S11, a buscar a Emilia por los mundos de la convergencia. La casa lo sabía. Antes del regreso puede llegar una carta suya (propuesta de Claude para el arco del taller).
+- **Dónde estaban:** Tsurugi (última aparición V61) y Subaru (última aparición S11E09) se fueron juntos, después de S11, a buscar a Emilia explorando este mundo (no otros mundos). La casa lo sabía. Antes del regreso puede llegar una carta suya (propuesta de Claude para el arco del taller).
 - **Regreso:**
   - Subaru vuelve con Emilia, y con Puck.
   - Tsurugi vuelve con los simurianos, porque Dabura detectó algo. Ahí arranca el arco simuriano.
@@ -667,4 +667,13 @@ Tsurugi, Subaru y Suho andan en lo suyo y «se fueron a buscar a Emilia». Broma
   - Mega pelea. **Mau gana y no mata a Dabura.**
   - Para entonces Mau ya tiene los ojos y el RCT evolucionados, y un cerebro que se regenera. Puede usar sus CT las 24 horas o más de una a la vez porque ya casi no gasta CE, igual que Gojo.
 - **Flujo de trabajo:** Chat sigue con los corchetes de V79 y revisa. Mauri avisa cuando termine; Claude lo checa y, si está bien, arranca con lo siguiente (arco del taller).
+
+### Aclaración de Mauri
+
+> No mundos de explorar el mundo y lo de cross nos da lo que hablamos de Yuka molestandolo despues y casi no gasta no literalmente elos ojos hacen que literalmente no gaste osea el gasto es tan minuscule que ni se nota y mai se emociona a escuchar eso por su contrato
+
+- Tsurugi y Subaru buscaron a Emilia explorando este mundo, no otros.
+- Los celos por Cross dan pie a que después Yuka lo moleste por «celosito», como estaba planeado.
+- Después de la gate, los ojos hacen que el gasto de CE sea tan minúsculo que ni se nota. No es «casi no gasta»: en la práctica no gasta.
+- Mai se emociona al enterarse, por su contrato: Mau le aporta CE para su Construction, así que ahora puede construir sin preocuparse por el costo.
 

@@ -530,3 +530,5 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 - **Yuka es nieta de Maki y Yuta, literal** (Mauri, 17 de noviembre de 2026). No escribir «su nieta aunque no lo sea» ni «de una forma que no dice en voz alta».
 - **El primer hechizo que aprendió Mau fue el de las flores de Frieren** (Mauri, 17 de noviembre de 2026). No se le puede «enseñar» como regalo.
 - **Nivel en la escala nueva:** nivel 5 = antiguo 500 (2.5 veces lo que tenía). Umaru y Jin-Woo ofrecen ayuda para repartir los puntos.
+- **DIO tiene cuerpo, habla en voz alta y oye** (Mauri, 17 de noviembre de 2026). No es un ente mudo que sólo «manda sensaciones». Tiene su cuarto en la casa y cuida una plantita junto a la ventana (S9E31). Por el lazo de Yuka (V80 #11), Mau oye lo que DIO y Yuka se dicen, y viceversa: es el mismo cuarto, no uno aparte.
+- **El lazo de Yuka ya existe desde V80 #11** (B+367): Noise, Ciel, DIO y Makima la pueden alcanzar; regla de Makima: importante, habla; si no, Yuka va a ella; puede pedir «Can I speak?».

@@ -105,9 +105,9 @@ Nine breaths later, he's on the porch again.
 
 The link takes longer.
 
-It's the same kind of thing as the line between him and Rimuru: not a voice in the ear, not words exactly, a channel that runs through Ciel. Until now it's only ever run between the two of them. Today Ciel opens a second one. To Yuka. And through it, if Yuka allows, the others who live in him.
+It's the same kind of thing as the line between him and Rimuru: not a voice in the ear, not words exactly, a channel that runs through Ciel. Until now it's only ever run between the two of them. Today Ciel opens a second one. To Yuka. And through it, if Yuka allows, the others who are tied to him.
 
-Noise. Ciel herself. DIO, who has been bouncing about it since breakfast.
+Noise. Ciel herself. DIO, who has her own body and her own room in the house, with the small plant on the windowsill she waters every morning, and who has been bouncing about this since breakfast because it means she can talk to Yuka from the other end of the house.
 
 And Makima.
 
@@ -163,7 +163,19 @@ Noise first, careful and enormous. *Hello*, it says, very formally, in a way tha
 
 Ciel, crisp. *Testing. Can you hear me?* ᶜ
 
-DIO, who doesn't say anything at all; who just pours down the line a great warm wash of delight, like someone throwing open a window, so that Yuka laughs out loud with her eyes still closed.
+And DIO, who doesn't bother with the link at all for her first word. She's sitting on the porch railing in her own body, swinging her feet, and she leans down to Yuka's ear and says it out loud, and then says it again down the line, to compare.
+
+“Hello,” she says. ᴰ
+
+*Hello*, she says. ᴰ
+
+“Which one's better?” she asks. ᴰ
+
+Yuka laughs out loud with her eyes still closed.
+
+“Both,” she says. ʸ
+
+Mau hears both, too. He hears all of it: every word that goes down the line to Yuka and every word she sends back. That was the point. It isn't a second room he's shut out of. It's the same room, with one more person in it.
 
 And then, very faintly, a question.
 
@@ -185,7 +197,7 @@ Yuka looks at the bottom of the porch steps, where Makima is standing with her h
 
 The rest of the day is ridiculous.
 
-Yuka tests everything. She asks Noise the time, every hour, until Noise starts answering before she asks. She asks Ciel to tell her what Mau is thinking, and Ciel says *no*, very primly, and Yuka says *please*, and Ciel says *absolutely not*, and Yuka laughs so hard she has to sit down. DIO sends her a picture, somehow, of the island from very high up, and Yuka goes quiet for a long time.
+Yuka tests everything. She asks Noise the time, every hour, until Noise starts answering before she asks. She asks Ciel to tell her what Mau is thinking, and Ciel says *no*, very primly, and Yuka says *please*, and Ciel says *absolutely not*, and Yuka laughs so hard she has to sit down. DIO sits beside her on the steps half the afternoon and describes the island from very high up, the way she saw it once from the air: the bay, the roofs, the long curve of the beach where they walked. Yuka goes quiet for a long time. Mau, in the yard, hears every word of it and pretends not to.
 
 She summons him four more times. Once from the kitchen, because she wants him to taste something. Once from the workshop, because Mai wants to see. Once from the bath, which he does not discuss with anyone. Once from absolutely nowhere, in the middle of the orchard, for no reason at all, and when he lands beside her she just puts her arms round him and says *I wanted to see if it worked from here*.
 

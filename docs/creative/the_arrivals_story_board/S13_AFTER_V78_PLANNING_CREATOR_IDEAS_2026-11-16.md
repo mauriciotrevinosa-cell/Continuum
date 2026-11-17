@@ -101,7 +101,7 @@ Work se quedó sin créditos; Mauri y Claude planean lo que viene. **Nada de est
 ### Dirección
 
 - **Invitación de Elmesia:** «vayan»: que vayan a verla a su ciudad. Mau le presta Kaisel a Yuka, que va a llevarle la lista.
-- **Segundo Exchange:** Jin-Woo ya tiene una sombra de Mau; su familia está bajo la protección de las anclas.
+- **Segundo Exchange:** Jin-Woo ya tiene una sombra de Mau. Su familia está bajo **la protección de la Diosa** (corrección de Mauri: «estan el la proteccion de la diosa»).
 - **La gate de los Rulers que quiere matar a Yuka va antes de la isla.** Al salir:
   - Mau se recupera saliendo y queda como nuevo, preocupadísimo por Yuka. Yuka no sabe qué decir. Shoko casi infartada.
   - Un momento entre Mau y Shoko, Shoko como mamá. Después de un rato entra Gojo y Mau no se queja.

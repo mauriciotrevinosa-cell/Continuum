@@ -1,5 +1,7 @@
 # Después de V78: quejas, dirección y lo que sigue (Mauri con Claude, 16 de noviembre de 2026)
 
+**Actualización de canon (17 nov 2026, prevalece sobre propuestas anteriores):** V79 #32 ya no promete una casa ni «cuarto mejor» en el cabo. Elmesia mantiene la invitación previa a la isla para la casa; además le dice a Mau que tiene **algo personal que darle allí**, sin revelar de qué se trata. Su naturaleza no está decidida y debe quedar abierta hasta escribir la isla. Las menciones anteriores a una casa en el cabo quedan archivadas como *ideas*, no hechos de V79.
+
 Work se quedó sin créditos; Mauri y Claude planean lo que viene. **Nada de esto se escribe sin hablarlo antes con Mauri.** Sus palabras van íntegras; las notas de Claude son propuesta.
 
 ## Palabras de Mauri

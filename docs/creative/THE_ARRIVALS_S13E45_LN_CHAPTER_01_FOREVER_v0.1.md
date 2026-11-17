@@ -117,7 +117,7 @@ She just holds on.
 
 She turns on her side and puts both arms round him and her face in his chest and holds on so hard he can feel her fingernails through his shirt, and she doesn't cry, and she doesn't speak, and she doesn't let go. And he holds her back, all the way round, and puts his chin on top of her head, and they lie like that in the dark until her breathing changes.
 
-> **[PARA WORK: cercanía, no escena íntima (ella sigue en el bajón; Mauri no la quiere aquí).** Si quieres, un beso en la frente o en el pelo de él cuando ella por fin se duerme, nada más. El peso es el «Forever». **Sin límite de palabras; no comprimas.]**
+When she finally falls asleep, he moves only enough to press a kiss to her forehead. She makes a small sound and curls closer without waking. He stays where he is, one hand spread across her back, because there is nothing he needs to solve before morning and nowhere he needs to be except here.
 
 * * *
 

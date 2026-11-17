@@ -3,9 +3,9 @@
 **Status:** LN PRODUCTION DRAFT — S13 v0.1 — opening chapters; awaiting creator review
 **Volume:** 80
 **Season:** 13
-**Coverage:** S13E57 (B+352 to B+355, so far)
+**Coverage:** S13E57–S13E59 (B+352 to B+360, so far)
 **Working volume title:** The Things We Kept
-**Chapter files:** 2
+**Chapter files:** 6
 
 After the Monarchs, the house can be a house again. Mau is still recovering, Yuka will not let him disappear behind a reassuring answer, and the old inventory might contain a problem neither of them noticed. The island invitation remains open; the party and itinerary are not final.
 
@@ -15,19 +15,24 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 
 | Order | Source episode | LN chapter | File |
 |---:|---|---|---|
-| 1 | S13E57 | The King in the Dark | THE_ARRIVALS_S13E57_LN_CHAPTER_01_THE_KING_IN_THE_DARK_v0.1.md |
-| 2 | S13E57 | The Things He Forgot | THE_ARRIVALS_S13E57_LN_CHAPTER_02_THE_THINGS_HE_FORGOT_v0.1.md |
+| 1 | S13E57 | The King in the Dark | `THE_ARRIVALS_S13E57_LN_CHAPTER_01_THE_KING_IN_THE_DARK_v0.1.md` |
+| 2 | S13E58 | Control | `THE_ARRIVALS_S13E58_LN_CHAPTER_01_CONTROL_v0.1.md` |
+| 3 | S13E57 | The Things He Forgot | `THE_ARRIVALS_S13E57_LN_CHAPTER_02_THE_THINGS_HE_FORGOT_v0.1.md` |
+| 4 | S13E58 | Noise Checks the Walls | `THE_ARRIVALS_S13E58_LN_CHAPTER_02_NOISE_CHECKS_THE_WALLS_v0.1.md` |
+| 5 | S13E59 | Off the Stick | `THE_ARRIVALS_S13E59_LN_CHAPTER_01_OFF_THE_STICK_v0.1.md` |
+| 6 | S13E59 | The Things He Didn't Know He Had | `THE_ARRIVALS_S13E59_LN_CHAPTER_02_THE_THINGS_HE_DIDNT_KNOW_HE_HAD_v0.1.md` |
 
 ## Continuity locks and open decisions
 
 - Mau's left arm is still in a splint and his left ribs/side are healing. No sudden recovery or unsupervised combat.
 - Mau and Yuka remain together as the emotional centre; the scenes show affection and trust without putting them in different rooms to avoid it.
 - Rime is an old false-pattern Frost Monarch shadow. The newly extracted real Frost Monarch and Monarch of Beasts remain weak and untested. No successful stabilization has been produced.
-- The inventory index gaps are **unverified**: not yet confirmed hidden objects, unlocks or stolen items. Noise and Ciel must compare records before any discovery or use.
-- The historical level-200 record does not prove the old leveling mechanism still works, and nobody has gained levels from opening the record.
-- Katana/ring notes are only retained observations, not a constructed or installed ring. Mai keeps authority over her own Construction work.
+- The inventory index gaps (#3) turn out in #6 to be storage sealed during the Final Trial and never restored to Mau's view: castle pieces, old gate materials, remains from Beru/Kaisel/Kamish kills.
+- #6: the current level page exists. Level 2 on the new scale = old 200; Mau is level 4 at 91% toward 5; point allocation locked until 5.
+- #6: Noise has finished analysing the three rings and can build one for the katana with Mau's version of Construction; Mai gives permission (after a smack) on condition it's done in her workshop with the pattern shown first. Not yet built.
 - Elmesia's invitation to the island for the household still stands, and her city remains open to them. She separately promises Mau an **unspecified personal gift to be given on the island**, with no details established yet. No invitation roster, confirmed schedule, item or itinerary is invented here.
-- No intimate scene is written in these opening chapters while Mau is injured. No placeholder markers remain in either chapter.
+- No intimate scene while Mau is injured (#1–5). First intimate scene of the stretch is a [PARA WORK] note in #6 (inventory day, after he heals). Closeness/kiss notes in #4 and #5.
+- Claude added #2 (Makima, control vs chaos), #4 (Noise checks the walls), #5 (the splint comes off) and #6 (the rest of the inventory: sealed storeroom, castle and dragon war part two, remains for the katana, Mai's permission for the ring, the level page). Chat's inventory chapter moved to #3 (B+355, still injured).
 
 ## Possible next chapters (proposals, not yet canon)
 

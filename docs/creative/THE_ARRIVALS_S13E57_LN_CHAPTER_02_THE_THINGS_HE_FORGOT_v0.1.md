@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 80
-## Chapter 2 — The Things He Forgot
+## Chapter 3 — The Things He Forgot
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1 — opening inventory arc; creator review pending
 **Volume:** 80
-**Reading order:** 2
+**Reading order:** 3
 **Source episode:** S13E57
 **Continuity state:** B+355, afternoon. Shoko permits Mau downstairs for a short supervised visit, with his left arm splinted and his side still healing. Yuka insists on reviewing his inventory together. They find ordinary neglected supplies and old project notes, not free power upgrades. Noise notices a gap in the old inventory index but cannot yet prove that hidden objects exist. A level-200 readout is a historical system record, not an automatic level gain. Mai keeps construction decisions in her workshop. The house has not yet settled the island guest list. No intimate scene.
 

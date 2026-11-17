@@ -40,3 +40,51 @@ Work se quedó sin créditos; Mauri y Claude planean lo que viene. **Nada de est
 - **Corchetes:** Claude no puede escribirlos (límite con Mau y Yuka). Siguen en el texto, con su contexto, para cuando Work vuelva o Mauri decida.
 - **«Mau salvó su ciudad»:** eso sólo pasa en el borrador de los Monarcas, que va al final. Hay que darle a Elmesia otra razón o confirmar con Mauri qué ciudad y cuándo.
 - **Tsurugi:** el canon dice que ya llegó (Day492); el handoff de V78 proponía que la llegada simuriana empezara como reencuentro de Yuka y Tsurugi. Confirmar.
+
+
+## Segunda ronda, mismo día: el orden de lo que sigue
+
+### Palabras de Mauri
+
+> si me referia a los corchetes que los pongas cuando escribes y que no se te olvide y algo que note eres muy liviana con ellos tuvimos que hacer varias repasadas jajajajajaja
+>
+> v78 no lo toques ya lo arreglamos por eso nos quedamos sin creditos jajajajajaj
+>
+> me gusta que primero sea lo de los monarcas que yuka y mau le escirben a elmesia y elmesia pide una lista y le dice a yuka y a mau que si le quieren caer mau le presta a kaisel y ella se lanza pq jin woo le explico a mau que detecto unas presencias que van a ser un problema y mau decide ayudar a jin woo y le pide a yuka que explique ahi es que mau y jin woo ven mau escucha la pedida de ayuda de elmesia le dice a jin woo que esta sucediendo y que uno de los que describio esta ahi y mau hace el exchange y mientras mau pelea protegiendo la ciudad en lo que su exchange sucede jin woo es emboscado por los otros entonces cuando mau consigue su exchange de regreso lo hace pero se lleva al monarca de la ciudad y hace que jin woo este ahi dando una muy buena pelea y me gustaria que la pelea entre dabura y mau sea el centor del conflicto de los simurianos osea que no sea un conflicto dificil peor lelgan yuka y tsurugi ya concocen a dos y dabura detecta una presencia que se esta escondiendo y es mau pq gracias a frieren comprime su presencia entonces se pued eburlar de el y levanta una mano y cuando mau libera su aura antes d ela pelea esto causa algo demasiado chingon para el inicio y me encantaria dependiendo como es la relacion de yuka y cross que mau se ponga un poco celoso y ahora es el turno d eyuka d edemostrar que no paso and ay que fue solo una persona que la ayudo en uno de sus momentos mas bajos y luego lo molesta que e un celosito y en si que el arco de los simurianos no dure mucho y pondria lo de ju jutsu un poquito despues de lo de la isla pq aqui podemos hacer cosas muy chingonas como mau vs yuji prime un all way contra todos un preview o nos esperamos de traer a los de jujutsu hasta despues del primer mini culling y tengo una persona que me interesa meter ya ves que hablamos que mau en el primer culling esta protegiendo una persona y que cuandos e acabe desaparece y mau no sabe si murio o no y aun la tenemos pin en si vuelve que sea rika la de yuta vivita y culiando jajajaja.
+> tsurugui se callo de la faz de la tierra desaparecio de la historia y nunca volvio me gusta asumir que se junta mucho con suho y esta ahi exisitendo peor no lo prioritice y dejamos el hilo d epq mau analizo los anillos pq ya casi nunca usamos la katana y me gusta la idea que para que mau termien de copiar a rika y todas sus formas dentro de la katan termina de analizar los tres anillos qu epara este punto ya acabo y que nosie construya un anillo y que mau lo implante en la katana y que aparte de ce le eimbbuded mana y puede ponerle varias mejoras a la katana ya ves que tiene un chorro de cosas en su inventario podemos hacer la limpia de inventario como un cap y que neta que mau se le haya olvidado cosas o que en trial hayan sido bloqueados y pues como no los veia no sabia que los tenia hasta que en la inspeccion de inventario detectan que algo estaba siendo escondido y son todoas las cosas que hemos olvidado y aqui nos da ams avances de mau y aqui podemos ver como mejoramos aun a mau x yuka pq mau le puede mejorar el contrato a yuka y ay definimos que es YYYYYYYYYYYY ahorita que me cayo el veinte esto que estoy contando sin pedos es mas de un volumen podemos alargar esta season para que todo quepa peor ni siquiera pienses en forzarlo en un volumen o limitarte de capitulos o de palabras que ya te vi
+
+### Dirección
+
+- **V78 no se toca:** Mauri y Work ya lo arreglaron, incluido «Sparring Partners».
+- **Corchetes:** Claude los pone siempre que escriba, y con generosidad. En la primera versión de V78 se quedó corta y hubo que hacer varias pasadas.
+- **Los Monarcas van primero.** Esto **reemplaza** lo dicho el 15 de noviembre («lo último, después de Dabura»). Secuencia:
+  1. Mau y Yuka le escriben a Elmesia; ella pide una lista y les dice que vayan.
+  2. Jin-Woo le explica a Mau que detectó presencias que van a ser un problema. Mau decide ayudarlo, le presta Kaisel a Yuka para que vaya y le pide que se lo explique a Elmesia.
+  3. Mau y Jin-Woo salen a ver. Mau oye el pedido de ayuda de Elmesia, le dice a Jin-Woo que uno de los que describió está ahí y hace el Exchange.
+  4. Mau pelea protegiendo la ciudad mientras se recarga el Exchange; los otros emboscan a Jin-Woo.
+  5. Con el Exchange de vuelta, regresa llevándose al Monarca de la ciudad a donde Jin-Woo está dando muy buena pelea.
+- **Simurianos (corto):** la pelea Mau–Dabura es el centro del conflicto, sin que el conflicto sea difícil.
+  - Llegan cuando Yuka y Tsurugi ya conocen a dos de ellos.
+  - Dabura detecta una presencia escondida (Mau la comprime gracias a Frieren), se burla y levanta una mano.
+  - Mau libera su aura antes de la pelea, y eso causa algo demasiado chingón para el inicio.
+  - Según la relación de Yuka con Cross, Mau se pone un poco celoso. Le toca a Yuka demostrar que no pasó nada (sólo alguien que la ayudó en uno de sus momentos más bajos), y luego lo molesta por celosito.
+- **Jujutsu:** un poco después de la isla (Mau vs Yuji en su prime, un all-out contra todos como adelanto), o esperar hasta después del primer mini Culling Game.
+- **La persona del primer Culling Game:** Rika, la de Yuta, viva. Sigue el pin de si vuelve.
+- **Tsurugi** desapareció de la historia; asumir que se junta mucho con Suho y anda ahí.
+- **Katana y anillos:** Mau termina de analizar los tres anillos para terminar de copiar a Rika y todas sus formas dentro de la katana. Noise construye un anillo; Mau lo implanta en la katana, le imbuye maná además de CE y le pone varias mejoras con cosas del inventario.
+- **Limpieza de inventario (un capítulo):**
+  - Cosas que a Mau se le olvidaron, o que quedaron bloqueadas en el Trial y no veía.
+  - En la inspección detectan que algo estaba escondido: son todas las cosas que hemos olvidado. Trae más avances de Mau.
+  - Mejora a Mau x Yuka: Mau le puede mejorar el contrato a Yuka, y ahí se define qué es.
+- **Extensión:** es más de un volumen. Se alarga la temporada para que todo quepa, sin forzar ni limitar capítulos ni palabras.
+
+### Propuesta de Claude para el orden (por confirmar)
+
+1. **Monarcas**, como arriba.
+   - El borrador guardado sirve de base con dos cambios: Mau está explorando con Jin-Woo (no entrenando en el patio), y la emboscada es contra Jin-Woo (no contra su familia).
+   - Mau deja un soldado con Jin-Woo al separarse; ese es el ancla del segundo Exchange.
+   - La ciudad salvada es la razón del mejor cuarto de Elmesia en la isla.
+2. **Recuperación y taller:** limpieza de inventario con lo escondido del Trial; anillos, katana y Rika; contrato de Yuka; Mau se acuerda de los niveles; plática con Makima (control contra caos); Noise y Makima.
+3. **Isla, parte tres**, con la lista que pidió Elmesia, el regreso escalonado y la alianza con la ciudad bajo el mar.
+4. **Simurianos y Dabura** (corto).
+5. **Pendiente de lugar:** la gate de los Rulers que quiere matar a Yuka (ojos terminados, RCT extremo) y la entrada de Jujutsu.

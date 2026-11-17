@@ -30,6 +30,8 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 | 13 | S13E63 | The Rules Change | `THE_ARRIVALS_S13E63_LN_CHAPTER_01_THE_RULES_CHANGE_v0.1.md` |
 | 14 | S13E63 | What She Had Only Heard | `THE_ARRIVALS_S13E63_LN_CHAPTER_02_WHAT_SHE_HAD_ONLY_HEARD_v0.1.md` |
 | 15 | S13E64 | The Price List | `THE_ARRIVALS_S13E64_LN_CHAPTER_01_THE_PRICE_LIST_v0.1.md` |
+| 16 | S13E64 | The Bell | `THE_ARRIVALS_S13E64_LN_CHAPTER_02_THE_BELL_v0.1.md` |
+| 17 | S13E65 | Something Warm in It | `THE_ARRIVALS_S13E65_LN_CHAPTER_01_SOMETHING_WARM_IN_IT_v0.1.md` |
 
 ## Continuity locks and open decisions
 
@@ -57,3 +59,5 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 - #15 (Claude, trial day 3): Yuka takes the money (1,100 currency; prices in the notebook); Mau's habit of buying the cheapest and saving "in case" (Trial). Mattress, thick blanket, basin, soap, pan. Three jackets in three sizes; "Yuka: middle". Kamish and Beru fed from the Shop. Bandage morning and night; "turned" / "I heard". Beru tells Yuka about the tower.
 - **Gate expanded at Mauri's request ("solo 2 caps para la gate nononnono")**: days 3-9 get their own chapters (#15-24); the Warden moves to #25 (`THE_ARRIVALS_S13E69_LN_CHAPTER_01_THE_WARDEN_v0.1.md`, days 10-11), then the climax. Hits taken for Yuka before the Warden: only the hip cut (day 2); the arm and leg marks come on day 10.
 - #11 fix: DIO has a body, speaks aloud and through the link; Mau hears everything said between DIO and Yuka.
+- #16 (Claude, day 4): Yuka plans the bell-tower fight in the notebook; Mau pulls her with the Exchange from his side for the first time (twice: the plan, then a falling shard). Rule clarified: hits aimed at Mau close clean; only hits he takes by getting between Yuka and something aimed at her are marked. DIO: "you looked like one person".
+- #17 (Claude, day 5): a small warm house at the city's edge that nothing enters: Yuka's household-gate setting from the table (S13E27) survived under the override. Rest day: bath, she washes his hair, DIO by the fire (her plant at the Inn). Mau tells her what his body remembers of the Trial ("put your boot down"). He sleeps the whole night for the first time since the Trial.

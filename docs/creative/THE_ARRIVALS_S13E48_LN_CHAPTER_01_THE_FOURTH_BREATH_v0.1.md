@@ -137,7 +137,7 @@ She thinks about the bathroom door, a week and a half ago. About lying on the fl
 
 The bottom didn't fall out. It's right here. It's him. And tonight, for one night, she gets to be it for him back.
 
-> **[PARA WORK: cercanía, no escena íntima** (lleva cinco días fuera del bajón y apenas recupera fuerza; Mauri la quiere así). Si quieres, ella le da un beso en el pelo cuando él ronca, y al final le dice «I love you too» aunque él ya no la oiga. **Sin límite de palabras; no comprimas.]**
+She bends her head and kisses his hair. He snores, utterly undisturbed. That gets another helpless smile out of her. She keeps her hand at the back of his head, not trying to wake him and not asking him to promise anything about tomorrow. He gave her the truth; tonight she can give him sleep.
 
 * * *
 

@@ -487,3 +487,12 @@ Unos 100–140 capítulos (la historia decide).
 
 - El final de su mensaje, que se cortó.
 - Qué Monarca tiene ya Mau en su sombra. Claude encontró en el canon la representación del Monarca del hielo de S8, sin Arise registrado.
+
+### Respuesta de Mauri sobre el Monarca que ya tiene Mau
+
+> lo primero no me acuerdo y dos era una copia de uno no me acuerdo bien en donde fue pero si esta ah fue en la red gate que tenia que ser mas rapido que los cambios d enivel cuando cree que mata a makima
+
+- El final del mensaje cortado no se recupera.
+- **El Monarca de Mau es Rime:** el Arise del patrón falso del Monarca del hielo en S8 (red gate donde tenía que ser más rápido que los cambios de nivel). Copia, no el alma original del Monarca. Era la unidad 6.615.
+- **Idea de Claude:** si el Monarca de la ciudad es el del hielo (Mauri: «si es que es el monarca del hielo»), Mau saca a Rime frente a él o frente a los demás. Una copia del Monarca del hielo en la sombra de Mau explica el temor de los Monarcas.
+

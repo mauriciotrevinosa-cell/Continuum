@@ -149,7 +149,7 @@ He takes out his notebook and makes a mark in it, and Yuka points the serving sp
 
 In the afternoon, Jin-Woo trains with them.
 
-Both of them. Together. He's started doing that since the island, since Yuka asked him once in the yard whether he'd show her what he shows Mau, and he looked at the two of them and said *not separately*, and that's been the arrangement ever since. Mau and Yuka on one side of the yard. Jin-Woo on the other. Blunt trainers. Ten minutes at a time.
+Both of them. Together. He's started doing that since the island, since Yuka asked him once in the yard whether he'd show her what he shows Mau, and he looked at the two of them and said *not separately*, and that's been the arrangement ever since. Mau and Yuka on one side of the yard. Jin-Woo on the other. No practice swords, no borrowed blades: Yuka has asked for balance, timing and the way the two of them cover each other, not another lesson in weapons. Jin-Woo tests them with empty hands, feints, changes of direction and the sudden weight of a shadow at their backs. Ten minutes at a time.
 
 They're good together. Mau knows it and so does Jin-Woo. Yuka has her own technique, the second Limitless Mau made for her inside himself, and the reserves she draws from him under their arrangement; she knows how to use the weight of what he gives her without it costing her the edge she brought from home. Mau knows where she is without looking. When Jin-Woo comes at her left he's already moving to cover it; when Jin-Woo comes at him, she's already there.
 

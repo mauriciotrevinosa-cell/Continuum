@@ -93,13 +93,25 @@ She looks at him for a long time.
 
 And he laughs again, harder, and has to stop because it hurts, and puts his good hand over hers on his face, and holds on.
 
-> **[PARA WORK: beso del reencuentro, en el balcón, de rodillas los dos,** después de «You looked good in both». Él lastimado, ella todavía temblando de todo el día. Cercanía y alivio, **no escena íntima** (acaba de salir de una pelea y ella de un día de miedo). **Sin límite de palabras; no comprimas.]**
+She leans in and kisses him. It is a small, uneven thing because they're both shaking and he has to keep his injured side still; neither of them tries to make it anything else. When she draws back, she stays on her knees in front of him, her hands on his cheeks.
+
+“You came to me,” she says. ʸ
+
+“I said I would.” ᴹ
+
+“You also said you'd tell me when it got ugly.” ʸ
+
+He glances down at the splint. “It got ugly.” ᴹ
+
+“Then you can tell me everything once you're sitting down.” ʸ
+
+She slips her good shoulder under his right arm without touching the injured left one. He lets her help; he doesn't say he's fine.
 
 * * *
 
 She gets him onto the bed.
 
-It takes both of them and DIO, who appears in the doorway in her hat at exactly the right moment, as if she's been waiting in the next room listening, which she has. DIO takes his good side. Yuka takes his bad side, very carefully, under the arm that isn't on a stick. Between them they get him across the room and onto the edge of the bed meant for two, and he sits there swaying slightly, looking at the balcony door with the last of the sunset in it.
+It takes both of them and DIO, who appears in the doorway in her hat at exactly the right moment, as if she's been waiting in the next room listening, which she has. DIO takes his good side. Yuka stays on his injured left, one arm secure around his waist below the burn, careful not to touch the splinted arm or put weight on his ribs. Between them they get him across the room and onto the edge of the bed meant for two, and he sits there swaying slightly, looking at the balcony door with the last of the sunset in it.
 
 “You can see the sea from here,” he says. “Elmesia said. On a clear day.” ᴹ
 

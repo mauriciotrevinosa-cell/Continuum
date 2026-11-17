@@ -182,7 +182,7 @@ Escrito por Claude según el [plan acordado con Mauri](S13_AFTER_V78_PLANNING_CR
 | V79#29 | B+350 | POV del War Devil: lo vio todo desde lejos; se sienta con Destrucción sobre las nubes; propone que podrían serse útiles. Él: «I'll think about it.» |
 | V79#30 | B+350 | Mau despierta tres horas después con el brazo en una lanza de Jin-Woo y el abrigo de Makima debajo. Le dice la verdad («It's ugly»). Jin-Woo: si moría era su culpa porque se lo pidió; Mau: fue mi decisión. Gracias. «Next time you stand beside me from the start.» Mau guarda el abrigo y hace Exchange al soldado de Yuka. |
 | V79#31 | B+350 | POV Yuka. Sale de su sombra en el balcón, todavía a medias en la forma (Makima lo ayudó a cruzar). «You look ugly. The red doesn't suit you.» Se ríe, se le quita. «Better?» «You looked good in both.» Le cuenta todo. Se duerme. |
-| V79#32 | B+351 | Mau ve el azul del vestido en Yuka por primera vez. Elmesia: nadie murió en su ciudad; lo pagará como paga a sus amigos: la isla para todos, la casa del cabo en vez del cuarto, su ciudad cuando quieran; tratado con la ciudad bajo el mar. Rimuru llega por el espacio con Shoko (Mau se lo pidió por el lazo). |
+| V79#32 | B+351 | Mau ve el azul del vestido en Yuka por primera vez. Elmesia: nadie murió en su ciudad. La invitación a la isla para todos sigue en pie; quiere entregarle un obsequio personal a Mau cuando lleguen a la isla, pero no revela qué es. Su ciudad sigue abierta a los amigos; menciona el tratado con la ciudad bajo el mar. Rimuru llega por el espacio con Shoko (Mau se lo pidió por el lazo). |
 | V79#33 | B+351 | Shoko alinea y vuelve a romper huesos con Rimuru y Yuka sujetándolo; cura el costado por etapas. «I'm tired… and I'll do it every time anyway.» Rimuru los regresa. Ori: «Did you win?» «Mostly.» La madre de Jin-Woo agradece. Duermen en su cama; Yuka con el vestido azul. |
 
 **Corchetes:** beso o cercanía en #18, #31 y #32. Ninguna escena íntima (después de la pelea y del susto, según la regla de Mauri).
@@ -192,7 +192,7 @@ Escrito por Claude según el [plan acordado con Mauri](S13_AFTER_V78_PLANNING_CR
 **Para confirmar:**
 - Marcas inventadas: Monarca de Hielo ˢⁱˡ, Rakan ᴿᵏ, Destrucción ᴬⁿᵗ, Yogumunt ʸᵒ, War Devil ʷᵈ.
 - Que Kamish y Kaisel sean dragones de la sangre de Destrucción.
-- La casa del cabo como el «cuarto mejor» de Elmesia.
+- El regalo personal que Elmesia entregará a Mau en la isla: **sin definir y sin revelar antes de llegar**. La antigua propuesta de la casa del cabo no es canon ni una promesa vigente.
 - Mencionar el tratado con la ciudad bajo el mar aquí y no hasta la isla.
 
 
@@ -204,3 +204,6 @@ Escrito por Claude según el [plan acordado con Mauri](S13_AFTER_V78_PLANNING_CR
 | V80#2 — The Things He Forgot | B+355 | Under Shoko's limits, Mau and Yuka begin a domestic inventory review, with Mai, Noise and Ciel. Yuka demands sweets and keeps notes. Three-ring/katana notes remain a project, not a completed installation. Noise identifies unexplained old index gaps, with no confirmed hidden objects. A level-200 record is historical, not a free gain. The island list remains undecided. |
 
 **V80 status:** Two initial drafts are now in the V80 index and need creator review. No new combat ability, major arc resolution, or finalized island itinerary was presumed.
+
+
+**Revisión editorial V79 (17 de noviembre de 2026):** #12 amplía el regreso gradual de Yuka a la casa y su reencuentro con Mau tras la visita de Ori; #32 desarrolla el vestido azul y sustituye la casa del cabo como regalo explícito por un obsequio desconocido que Elmesia promete entregar en la isla; #33 amplía la llegada a casa con Ori sin alterar el final. El regalo sigue indefinido; no anticipar qué es en planes futuros.

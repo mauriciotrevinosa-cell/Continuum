@@ -73,9 +73,9 @@ He knows why.
 
 He doesn't say so. He knows she'll never say so either. But he can see it in her face every time she looks at him: something that wasn't there before the bathroom door, or was, but quieter. Something that knows he sat on a washroom floor and didn't once tell her it was her fault. That he said *it could be me* and meant it, and didn't take it back when she screamed at him. That he looked, when she asked him to, and only then.
 
-She loves him more for it. He can see that. She'll go to her grave before she admits that's the reason.
+When he reaches for his cup, she puts it in his hand before his fingers get there. When he forgets to take the next bite of bread, she breaks off a piece and waits, stubbornly, until he eats it. He catches her looking at him twice. Both times she turns back to her plate and presses her knee harder against his.
 
-So she's being nice to him. Extravagantly, suspiciously nice. And she's sitting so close he can feel her heartbeat through his arm.
+She'll never tell him why she's doing it. He takes the next piece of bread from her fingers without asking.
 
 He doesn't say anything. He just lets her.
 

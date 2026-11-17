@@ -31,7 +31,9 @@ She considers this with great seriousness. Then she turns her face into his shou
 
 He doesn't answer. He doesn't have to. She lifts her head to look at him with an expression of enormous innocence, and he puts his hand on the back of it and draws it down again, and she lets him, and for a while nobody reads anything.
 
-> **[PARA WORK: aquí cabe un beso de buenos días, perezoso, todavía bajo la cobija;** vienen de la noche de V78 #38 y él ni sabe si el hombre del libro consigue el caballo. Corto o largo, como quiera la escena. **Sin límite de palabras; no comprimas.]**
+> **[PARA WORK: aquí cabe un beso de buenos días, perezoso, todavía bajo la cobija;** vienen de la noche de V78 #38 y él ni sabe si el hombre del libro consigue el caballo. La escena sigue con ellos juntos, sin escena íntima. **Sin límite de palabras; no comprimas.]**
+
+She finds the corner of the book with her toes, pushes it farther down the blanket and settles back against him. He tries to remember what page they were on. She catches the look and laughs into his shoulder again.
 
 * * *
 

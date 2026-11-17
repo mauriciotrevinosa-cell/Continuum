@@ -123,7 +123,7 @@ It comes back all at once, like a door blown open in a storm. Like a dam breakin
 
 *Yuka.*
 
-Yuka at seventeen, in the doorway of a house that wasn't this house yet, small and furious and dying and refusing to admit it. Yuka laughing on the roof. Yuka in the hospital bed. Yuka the day the cancer was gone. Yuka on the porch with her feet in his lap. Yuka at the door of the long dungeon, every single day, though he told Gojo to tell her she didn't have to be. Yuka in a white dress. Yuka on the island in an enormous hat, telling him the sea was a colour he'd never see, and him seeing it anyway, on her, where the light landed.
+Yuka at seventeen, newly arrived from the end of *Modulo*, in the doorway of a house that wasn't this house yet, small and furious and refusing to let anyone decide what she could endure. She had already come through the cancer before she arrived; there had been no tumour for him to cure here. Yuka laughing on the roof. Yuka on the porch with her feet in his lap. Yuka at the door of the long dungeon, every single day, though he told Gojo to tell her she didn't have to be. Yuka in a white dress. Yuka on the island in an enormous hat, telling him the sea was a colour he'd never see, and him seeing it anyway, on her, where the light landed.
 
 Yuka two days ago, standing by the wall, saying *I'm Yuka* in a voice too steady to be real, while he looked at her like a stranger.
 

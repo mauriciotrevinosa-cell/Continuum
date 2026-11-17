@@ -88,3 +88,36 @@ Work se quedó sin créditos; Mauri y Claude planean lo que viene. **Nada de est
 3. **Isla, parte tres**, con la lista que pidió Elmesia, el regreso escalonado y la alianza con la ciudad bajo el mar.
 4. **Simurianos y Dabura** (corto).
 5. **Pendiente de lugar:** la gate de los Rulers que quiere matar a Yuka (ojos terminados, RCT extremo) y la entrada de Jujutsu.
+
+
+## Tercera ronda, mismo día: la gate de Yuka antes de la isla y el apellido
+
+### Palabras de Mauri
+
+> vayan a verla a su ciudad a su pueblo
+>
+> si  jin woo ya tiene una y la fam esta en la proteccion y si tal ves lo de la gate antes de la isla y que mau se recupere saliendo y anda como nuevo y precoupadisimo por yuka y yuk sin poder saber que decir y shoko casi infartada y me gustaria un momento entre mau y shoko shoko como mama y despues de un rato gojo entrando y mau no se queja y shoko le recomienda unos dias de descanso y ahi tal ves formalizamos el ieri y yuka dice yuka okkotsui ieri yuka ieri okkotsu y se rie y dice decision aun pendiente y tal ves ori uiera el apellido tmb y mau ve a shoko y le dice que tiene una nieta y ambos se rien y shoko le dice a mau que el explique quienes son quien  y le dice que la casa es una lista muy larga
+
+### Dirección
+
+- **Invitación de Elmesia:** «vayan»: que vayan a verla a su ciudad. Mau le presta Kaisel a Yuka, que va a llevarle la lista.
+- **Segundo Exchange:** Jin-Woo ya tiene una sombra de Mau; su familia está bajo la protección de las anclas.
+- **La gate de los Rulers que quiere matar a Yuka va antes de la isla.** Al salir:
+  - Mau se recupera saliendo y queda como nuevo, preocupadísimo por Yuka. Yuka no sabe qué decir. Shoko casi infartada.
+  - Un momento entre Mau y Shoko, Shoko como mamá. Después de un rato entra Gojo y Mau no se queja.
+  - Shoko le recomienda unos días de descanso.
+- **Se formaliza Ieiri.**
+  - Yuka prueba «Yuka Okkotsu Ieiri… Yuka Ieiri Okkotsu», se ríe y dice que la decisión sigue pendiente.
+  - Tal vez Ori quiere el apellido también. Mau mira a Shoko y le dice que tiene una nieta; los dos se ríen.
+  - Shoko le pide a Mau que le explique quién es quién, y él le dice que la casa es una lista muy larga.
+
+### Orden acordado hasta ahora
+
+1. Monarcas (Elmesia invita; Yuka vuela en Kaisel con la lista; Mau con Jin-Woo; ciudad; emboscada a Jin-Woo; segundo Exchange con el Monarca a donde está Jin-Woo).
+2. Recuperación y taller (limpieza de inventario y lo escondido del Trial; anillos, katana y Rika; contrato de Yuka; niveles; plática con Makima; Noise y Makima).
+3. La gate de los Rulers que quiere matar a Yuka (ojos terminados, RCT extremo); al salir, Shoko como mamá, Gojo, descanso, Ieiri.
+4. Isla, parte tres.
+5. Simurianos y Dabura (corto).
+6. Jujutsu, después de la isla o del primer mini Culling Game.
+
+**Pendiente de Mauri:** quién es el otro simuriano que ya conocen y cómo es lo de Yuka con Cross; qué es el contrato de Yuka (o pedir opciones a Claude).

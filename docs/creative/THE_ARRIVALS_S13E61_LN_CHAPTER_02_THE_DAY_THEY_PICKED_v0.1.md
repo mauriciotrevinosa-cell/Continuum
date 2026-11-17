@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 10
 **Source episode:** S13E61
-**Continuity state:** B+365, evening and night. Mau walks into the dark common room and the whole house shouts. It's his birthday, the day the house picked for him back in S3; he had forgotten. Ori's painted banner. Shuna's shy bread was the cake. The Sungs, Makima at the edge, DIO bouncing, Gojo's speech cut short by Shoko. Elmesia's bird arrives with a letter: happy birthday, and her gift is waiting on the island. Frieren gives him her favourite spell, the one that makes flowers bloom, to make for Yuka on the island. He tells the house about level five; Yuka writes it down. At night, alone, Yuka gives him what she and Mai made in the locked workshop: his own enormous hat, to match hers, for the island. They're comfortable; she puts it on him; a kiss turns into a longer one. Intimate scene in a note for Work.
+**Continuity state:** B+365, evening and night. Mau walks into the dark common room and the whole house shouts. It's his birthday, the day the house picked for him back in S3; he had forgotten. Ori's painted banner. Shuna's shy bread was the cake. The Sungs, Makima at the edge, DIO bouncing, Gojo's speech cut short by Shoko. Elmesia's bird arrives with a letter: happy birthday, and her gift is waiting on the island. Frieren gives him one of her grimoires, and it visibly breaks her heart; Mau accepts it and asks her to keep it in her room so he can come read it there, and her ears go up. Umaru and Jin-Woo offer to help with the points (level 5 = old 500). He tells the house about level five; Yuka writes it down. At night, alone, Yuka gives him what she and Mai made in the locked workshop: his own enormous hat, to match hers, for the island. They're comfortable; she puts it on him; a kiss turns into a longer one. Intimate scene in a note for Work.
 
 *When: B+365. Sunset. The house has been dark for exactly as long as it took Beru to walk Mau back from the orchard very, very slowly.*
 
@@ -111,29 +111,111 @@ The bird finishes its cake. It looks at Mau's plate. He gives it another piece. 
 
 Frieren gives him something at the end.
 
-She doesn't make a fuss about it. She waits until most people have moved away from the table, back toward the fire and the cake and Milim, who is trying to convince the Pillow to wear a paper hat. Then she sits down across from him and holds out her hand, palm up, over the table.
+She waits until most people have moved away from the table, back toward the fire and the cake and Milim, who is trying to convince the Pillow to wear a paper hat. Then she sits down across from him with something wrapped in an old cloth, and puts it on the table between them, and doesn't let go of it.
 
-A small flower opens in her palm.
+He knows what it is before she unwraps it. He can tell by the way she's holding it.
 
-Then another. Then a third, spilling over her fingers onto the wood, and then a fourth on the table itself, growing up out of the grain, small and perfect and grey to him, all of them grey, a little field of them blooming between his plate and hers.
+A book. Old. The cover worn soft at the corners, the spine cracked and mended and cracked again. A grimoire. One of hers.
 
-He's seen her do it before. Not often. It's the spell she likes best. The one she learned a long time ago, for no reason except that someone she travelled with liked flowers.
+She unwraps it the rest of the way. She pushes it across the table toward him, an inch. Then she stops. Her hand is still on it.
 
-“I'll teach it to you,” she says. “Tomorrow. It's not useful. It doesn't do anything except this.” ᶠ
+“For you,” she says. ᶠ
 
-She looks at the little field on the table.
+Her hand doesn't move.
 
-“You can make them for her,” she says. “On the island. She'll tell you what colour they are.” ᶠ
+* * *
 
-He can't say anything. He just looks at the flowers.
+Everyone sees it.
 
-“Happy birthday,” says Frieren, and gets up, and goes back to her book by the fire, and leaves the flowers on the table. ᶠ
+That's the thing. Everyone at that end of the room. Fern, at the next table, puts her cup down very slowly. Stark, beside her, stops chewing. Even Gojo, who was halfway into a story about a curse that turned out to be a very large goat, goes quiet and turns his blindfolded face toward the table.
 
-Yuka, in his lap, has gone very still. She reaches out and touches one of them with one finger.
+Because Frieren's face is doing something none of them have ever seen it do.
 
-“They're yellow,” she says, very quietly. “And some of them are white. And that one's blue.” ʸ
+She's trying to look calm. She's trying very hard. She's pushing a grimoire across a table to someone she loves on his birthday, the way you're supposed to, and her face is perfectly composed, and her hand on the cover is *shaking*. Just slightly. Her fingers flat on the old leather, not quite able to lift. Her ears have gone down. Her eyes keep going to the book and away and back to the book, the way a child's eyes go to a toy she's been told to share.
 
-He looks at the blue one. He can't see it. He keeps looking anyway.
+She has been collecting grimoires for a thousand years. She has crossed continents for spells that do nothing but polish bronze. Mau has watched her trade a week of work for a single page about making grapes sour.
+
+And she is giving one away. To him. And it is *killing* her.
+
+Fern has put her hand over her mouth.
+
+* * *
+
+He looks at the book. He looks at her hand on it. He looks at her face.
+
+“Thank you,” he says. ᴹ
+
+She nods. Her hand still doesn't move.
+
+“I'll take it,” he says. ᴹ
+
+Her fingers tighten on the cover, very slightly, and then, with visible effort, start to lift.
+
+“But,” he says. ᴹ
+
+She stops.
+
+“I don't have anywhere to keep it,” he says. “Not properly. The inventory isn't the same. Things go in there and I forget them. I just found out I forgot a whole castle.” ᴹ
+
+Somebody at the next table laughs and then stops.
+
+“And I don't know how to look after something like this,” he says. “The pages. The binding. The way you keep them dry in winter. I'd ruin it. I'd leave it somewhere and Milim would use it as a step.” ᴹ
+
+He looks at her.
+
+“Would you keep it for me?” he asks. “In your room. With the others. Where it's safe. And when I want to read it, I'll come and read it there. With you.” ᴹ
+
+* * *
+
+Frieren's ears come up.
+
+He watches it happen. Slowly, and then all at once: the long ears lifting from where they'd drooped, rising and rising until they're higher than he's seen them in months. Her hand on the book goes still. Her face does something complicated, and then something very simple.
+
+“Yes,” she says. ᶠ
+
+Very quickly. Before he can change his mind.
+
+“Yes. I can do that. I'll keep it. You can come and read it. Whenever you want. I'll make room on the shelf. By the window. Where the light is good.” ᶠ
+
+She's already pulling the book back toward her. Wrapping it in the cloth. Tucking the corners in with enormous care.
+
+“It's still yours,” she says, holding it against her chest. “I'm just keeping it.” ᶠ
+
+“I know,” he says. ᴹ
+
+“It's *yours*.” ᶠ
+
+“I know.” ᴹ
+
+She stands up, holding it. She looks at him a moment longer. Her ears are still up.
+
+“Happy birthday,” she says, and goes back to her chair by the fire, and sits down with the wrapped book in her lap and both hands on it, and doesn't open her other book for the rest of the night. ᶠ
+
+* * *
+
+Fern is looking at him across the tables.
+
+She doesn't say anything. She just looks at him for a long moment, the way you'd look at someone who has just done something very kind very quietly and doesn't want to be thanked for it. Then she picks her cup back up.
+
+Stark leans over to her.
+
+“Did he just,” Stark starts. ˢᵗ
+
+“Yes,” says Fern. ᶠᵉ
+
+“So she still—” ˢᵗ
+
+“Yes.” ᶠᵉ
+
+“And he—” ˢᵗ
+
+“He knew she would,” Fern says. “He's known her longer than any of us. He knew exactly what that book cost her.” ᶠᵉ
+
+Yuka, in Mau's lap, has turned her face into his shoulder. He can feel her smiling.
+
+“You're very good at her,” she says, so quietly only he can hear. ʸ
+
+He doesn't say anything. He watches Frieren by the fire, with the book in her lap and her ears up. They aren't what they were. They haven't been for a long time. But she's his family, and he knows exactly what to do with a gift she can't bear to give.
 
 * * *
 
@@ -150,6 +232,38 @@ The room stops.
 The room explodes again.
 
 Beru, by the door, stands up very straight with both hats back on, which Shuna returned to him from the high shelf in the pantry the moment he walked in, and looks enormously proud.
+
+Umaru is on her feet before the noise has died down.
+
+“How many points?” she demands. ᵁ
+
+“Ten.” ᴹ
+
+“On the *new* scale?” ᵁ
+
+“Five is five hundred on the old one,” Mau says. “Two and a half times what I had.” ᴹ
+
+Umaru stares at him with an expression of pure professional hunger.
+
+“Don't spend them,” she says. “Not one. Not until I've seen the stat sheet. I've done this a *thousand* times. You'll put them all in strength like an idiot.” ᵁ
+
+“I wasn't going to—” ᴹ
+
+“You *were*.” ᵁ
+
+“If he wants help,” says Jin-Woo, quietly, from the back of the room, “I've done this too.” ᴶʷ
+
+The room goes quiet for a second.
+
+Jin-Woo shrugs.
+
+“Not a game,” he says. “Mine was real. I know what happens when you put them in the wrong place. I'd be happy to look. If he wants.” ᴶʷ
+
+Mau looks at him. At Umaru, vibrating with the need to see a stat sheet. At Yuka, in his lap, holding her notebook against her chest like a shield.
+
+He can feel it in his hands. The itch. Not the old one, from the porch. A new one. Ten points. Five hundred. He doesn't know what any of it means yet, and he wants to know so badly his fingers are twitching.
+
+“Later,” he says. “All of you. With Yuka first.” ᴹ
 
 Yuka sits back down. She takes out her notebook. She writes, very carefully, on a fresh page: *Level 5. B+365. With Beru. 10 points. NOT SPENT. (waiting for me)*
 
@@ -229,9 +343,7 @@ Yuka is asleep on his chest. Her hand is on his arm, on the line, where she fell
 
 Downstairs the music has stopped. The house has gone quiet, the way it does at the very end of a long day: a door, a laugh, the third stair creaking once and then nothing.
 
-On the bedside table, beside Ori's *welcome home* note and the chocolate wrapper from the red gate, there's one of Frieren's small flowers, which Yuka carried up in her hand from the common room and put in a cup of water.
-
-He looks at it for a long time.
+On the bedside table there's Ori's *welcome home* note and the chocolate wrapper from the red gate. The grimoire is downstairs, on a shelf by Frieren's window, where the light is good. He'll go and read it tomorrow. With her.
 
 He thinks about the day the house picked a date and said *this one, this is yours*.
 

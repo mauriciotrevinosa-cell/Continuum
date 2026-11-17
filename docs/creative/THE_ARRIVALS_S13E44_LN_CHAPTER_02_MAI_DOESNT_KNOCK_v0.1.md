@@ -145,7 +145,7 @@ Yuka looks at Mau. He looks back.
 
 Maki and Yuta come in. Maki first. Yuta behind her. They stand at the foot of the bed.
 
-Yuka looks at the three of them. Mai on the floor with her chin on the mattress. Maki standing with her arms crossed, very straight. Yuta beside her, quiet. The three people in the house who were hers before they were anybody's. Her grandmother, in a way she never says out loud. Her grandfather, in the same way. And the friend who sat in a cold workshop for three days because nobody was there to tell her to light the stove.
+Yuka looks at the three of them. Mai on the floor with her chin on the mattress. Maki standing with her arms crossed, very straight. Yuta beside her, quiet. The three people in the house who were hers before they were anybody's. Her grandmother. Her grandfather. And the friend who sat in a cold workshop for three days because nobody was there to tell her to light the stove.
 
 She tells them.
 
@@ -165,7 +165,7 @@ He watches her decide not to say anything at all.
 
 She comes round the side of the bed. She sits down on the edge of it, on Yuka's other side. And she puts her arms round her.
 
-That's all. No words. No *two months is nothing*. No *you'll be fine*. Just Maki, holding her granddaughter who isn't her granddaughter, with her chin on top of Yuka's head and her eyes closed and her jaw tight.
+That's all. No words. No *two months is nothing*. No *you'll be fine*. Just Maki, holding her granddaughter, with her chin on top of Yuka's head and her eyes closed and her jaw tight.
 
 Yuka makes a small sound and turns her face into Maki's shoulder and holds on.
 

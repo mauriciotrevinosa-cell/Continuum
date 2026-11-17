@@ -194,3 +194,64 @@ Las ideas de Mauri son ejemplos, no la lista completa. Claude propone las suyas;
 ### Pendiente de Mauri
 
 Quién muere (propuesta: Rakan muere; Querehsha cae con Beru y Jin-Woo; Yogumunt escapa). Mau muy lastimado pero no al borde de la muerte; el extremo queda para la gate de Yuka.
+
+
+## Sexta ronda: el hilo completo hasta la isla, con los lugares de los corchetes
+
+> y tmb cosas puedes agregar ver areas dodne entra un chicawowo aunque no lo escribas y diria que tu plan ahoriat no acabes con el final de los monarcas este tramo lo tenemos que hacer de hilo hasta la isla de como armarlo y luego nos enfocamos en ideas mias ideas tuyas y asi para el de la isla
+
+El plan va como un solo hilo, de B+331 hasta que salen a la isla. La isla se planea aparte después. **[C]** marca un lugar donde entra un corchete para Work: beso, cercanía o escena íntima. Claude no los escribe; deja el contexto listo.
+
+### Arco 1. Los Monarcas (B+331–352, unos 50–60 capítulos)
+
+Partes A–G como en la quinta ronda. Corchetes:
+- **A:** la noche en que Yuka le dice a Mau que lleva retraso, con la ilusión recién nacida, ternura y miedo de ilusionarse **[C]**. Una mañana en la cama haciendo planes en voz baja **[C]**.
+- **B:** sin escena íntima mientras ella está baja; sí cercanía: él la abraza por detrás en la cama y le hace espacio. La noche en que ella vuelve a buscarlo, cuando ya se rió otra vez **[C]**.
+- **C:** después de hacer de jueces del proceso de selección, solos en el cuarto riéndose de las campañas **[C]**.
+- **D:** la despedida antes de que ella vuele a la ciudad de Elmesia y él se vaya con Jin-Woo **[C]**.
+- **G:** el reencuentro. Mau lastimado, Yuka encima de él con cuidado, él diciéndole la verdad de cómo está **[C]**. Cuando él ya puede, la primera noche **[C]**.
+
+### Arco 2. Recuperación y taller (B+352–368, unos 25–35 capítulos)
+
+- **Recuperación de la pelea:** Shoko; Yuka no se le despega; la casa los mima. Jin-Woo y su familia vienen a dar las gracias; Suho y Sir Shadow.
+- **Limpieza del inventario (uno o dos capítulos):** con Fern, Ramiris, Noise y Ciel. Aparecen las cosas olvidadas y lo que quedó escondido desde el Trial; Mau no lo veía porque estaba bloqueado. Cada objeto trae su anécdota y algunos avances.
+- **Los niveles:** al ordenar el inventario sale el aviso del sistema que Mau llevaba ignorando. Yuka: «¿se te *olvidó* que podías subir de nivel?». Toda la casa se burla. Primer ajuste de nivel con Ciel y Noise.
+- **Anillos, katana y Rika:** Mau termina de analizar los tres anillos; Noise construye uno; Mau lo implanta en la katana; le imbuye maná además de CE; mejoras con piezas del inventario, con Mai y Senku en el taller; Rika y sus formas completas dentro de la katana. Yuta presente cuando Rika aparece entera.
+- **El contrato de Yuka** (opciones de Claude; Mauri decide):
+  1. **Reserva compartida:** Yuka toma CE o maná de Mau directamente, dentro de un tope, sin pedirlo cada vez.
+  2. **Capa neutral propia:** una extensión del neutral de Mau que Yuka enciende y apaga ella, con consentimiento permanente (la versión estable de lo que tuvo Ori en V67).
+  3. **Exchange iniciado por Yuka:** Yuka puede llamar a Mau a donde está, o jalarse hacia él. Esto da la salida de la gate del arco 3.
+  4. **Respuesta de la rueda bajo demanda:** la adaptación ofrecida que ya probaron (V66), convertida en algo que ella pide.
+
+  Recomendación de Claude: 1 + 3, y quizá 2. Así pelean como uno en lo mediano, y en lo enorme ella tiene una puerta.
+- **El cumpleaños de Mau (B+365):** primer aniversario del cumpleaños que eligió. La casa lo celebra; el regalo de Yuka; Ori. **[C]** esa noche.
+- **Mau y Makima:** la conversación de control contra caos. Mau sabe que ella está porque quiere controlar las cosas y él es caos; pelean hasta donde el contrato deja. Mau se da cuenta de que estaba mal y se abre más con ella.
+- **Noise:** sus avances con Ciel y DIO; cómo se encariña con Makima sin ser tonto (ella se le acerca porque quiere a Mau, y Noise es parte de él).
+- **Slice diario:** cada día una historia de alguien de la casa (Hinata y Anko; Rimuru y Shizue; Umaru, Rem y Taihei; Ori y Chloe; Frieren), con Mau y Yuka siempre juntos. **[C]** en por lo menos dos noches tranquilas más.
+
+### Arco 3. La gate de los Rulers que quiere matar a Yuka (B+369–370 fuera; días dentro; unos 20–30 capítulos)
+
+- **Por qué:** los Rulers ven a Mau como el estabilizador, fuerza imparable e inamovible. Lo empujan con una prueba de proteger a su amada. Puede ser la primera vez que Yuka cumple su promesa de entrar con él (V78 #33).
+- **Reglas:** el juego cambia las reglas sin romperse. Un multiplicador hace que cualquier golpe directo a Yuka sea mortal, pero no a Mau. Él tiene que defenderla todo el tiempo.
+- **Dentro hay slice:** comer, dormir por turnos, el lugar cálido. Yuka ve por primera vez lo que él aguanta y cómo él, Beru, Ciel y Noise ya saben qué hacer, cosa que ella sólo había escuchado. **[C]** una noche dentro, la primera vez que ella lo ve curarse de algo horrible.
+- **Pelean como uno** en lo mediano, gracias al contrato nuevo.
+- **El clímax:** Yuka casi herida. Mau saca todo aunque Makima esté sosteniendo la carga atrás. Recibe el impacto por ella, o ella usa el Exchange del contrato para sacarlos.
+- **Avances:** RCT al extremo (podría quedar partido en dos y pegarse solo); ojos terminados, sin gasto de CE y mejores que los de Gojo. Más cerca del techo de Mau, dejando espacio para los últimos arcos.
+
+### Arco 4. Al salir (B+370–378, unos 8–12 capítulos)
+
+- Mau se recupera mientras sale y queda como nuevo, preocupadísimo por Yuka. Yuka no sabe qué decir. Shoko casi infartada.
+- Mau y Shoko, ella como mamá. Entra Gojo y Mau no se queja. Días de descanso recetados. **[C]** cuando Yuka por fin se suelta a llorar y él la sostiene.
+- **Ieiri:** «Yuka Okkotsu Ieiri… Yuka Ieiri Okkotsu»; decisión pendiente; Ori también quiere el apellido; «tienes una nieta»; «la casa es una lista muy larga».
+- **La lista final de la isla** (la del proceso del arco 1) y los preparativos. Termina cuando salen.
+
+### Total hasta la isla
+
+Unos 100–140 capítulos (la historia decide).
+
+### Pendiente de Mauri
+
+- Quién muere en los Monarcas.
+- Cuál opción de contrato.
+- Si la gate es la primera vez que Yuka cumple su promesa de entrar con él.
+- Confirmar el cumpleaños de Mau en B+365 dentro del arco 2.

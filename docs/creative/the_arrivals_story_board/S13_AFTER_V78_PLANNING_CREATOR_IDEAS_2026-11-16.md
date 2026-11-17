@@ -635,3 +635,7 @@ Claude planeó sin releer la versión final de V78. La revisión cambió hechos 
 - Sólo el multiplicador. **No se limita el Shop**: Mau les compra comida, ropa, agua. El foco no es sobrevivir con lo que haya.
 - Yuka ve el alivio de Mau cuando descubre que sí tiene el Shop y que los monstruos sí le dan dinero, el contraste con el Final Trial y con la primera Red Gate.
 
+
+### Pendiente para después del tramo
+
+- **Revisión completa del bag de Mau y de sus sombras con nombre** (Mauri: «tiene unas muy buenas que nunca usa»). Lista de las que casi no aparecen, y mostrar que las de nombre andan casi siempre sueltas: Beru conviviendo en la casa, Kamish cuidando, Kaisel volando, Bellion, Igris, etc. Mauri pidió dejarla para cuando acabemos y arrancar ya con los capítulos.

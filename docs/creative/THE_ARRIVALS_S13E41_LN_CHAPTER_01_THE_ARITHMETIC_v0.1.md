@@ -211,6 +211,15 @@ They lie there a long time. Not saying much. Making careful, quiet plans that bo
 
 “I'm not looking,” he says. ᴹ
 
-He isn't. She can tell without opening her own eyes: the small tightness at the hinge of his jaw against her forehead, the way he's holding himself very still, like someone keeping a door shut with his whole weight. > **[PARA WORK: aquí puede ir un beso suave de buenas noches, no una escena íntima.** El corchete cae antes de que ella se duerma; después ambos siguen abrazados, con la ternura y el miedo de ilusionarse demasiado. **Sin límite de palabras; no comprimas.]**
+He isn't. She can tell without opening her own eyes: the small tightness at the hinge of his jaw against her forehead, the way he's holding himself very still, like someone keeping a door shut with his whole weight.
 
-The last thing she knows before she falls asleep is the small tightness at the hinge of his jaw against her forehead. She closes her fingers round his and feels him relax, just a little. He is still keeping his promise.
+He turns his head just enough to kiss her softly. It isn't a promise about what the calendar means. It is only goodnight, and being here with her while neither of them knows.
+
+“Still not looking?” she whispers. ʸ
+
+“Still not looking.” ᴹ
+
+She takes his hand from her hip, threads their fingers together, and pulls both their hands against her chest. He feels her breathing slow. He keeps his eyes on her face until they close.
+
+
+The last thing she knows before she falls asleep is his hand steady in hers. He is still keeping his promise.

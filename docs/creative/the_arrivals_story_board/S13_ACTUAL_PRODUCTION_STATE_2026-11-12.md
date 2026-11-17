@@ -194,3 +194,13 @@ Escrito por Claude según el [plan acordado con Mauri](S13_AFTER_V78_PLANNING_CR
 - Que Kamish y Kaisel sean dragones de la sangre de Destrucción.
 - La casa del cabo como el «cuarto mejor» de Elmesia.
 - Mencionar el tratado con la ciudad bajo el mar aquí y no hasta la isla.
+
+
+### V80 — opening after the Monarchs (drafts for creator review)
+
+| Chapter | Day | Written beats |
+|---|---|---|
+| V80#1 — The King in the Dark | B+352 | Mau remains splinted. Yuka asks about Rime as promised in V79#33. He explains the old Red Gate's false-pattern Frost Monarch, not the original. Noise reports that the two real-Monarch extractions remain unstable, with no confirmed commands or repairs. Shoko restricts training. Ori, Beru and the Pillow bring breakfast. |
+| V80#2 — The Things He Forgot | B+355 | Under Shoko's limits, Mau and Yuka begin a domestic inventory review, with Mai, Noise and Ciel. Yuka demands sweets and keeps notes. Three-ring/katana notes remain a project, not a completed installation. Noise identifies unexplained old index gaps, with no confirmed hidden objects. A level-200 record is historical, not a free gain. The island list remains undecided. |
+
+**V80 status:** Two initial drafts are now in the V80 index and need creator review. No new combat ability, major arc resolution, or finalized island itinerary was presumed.

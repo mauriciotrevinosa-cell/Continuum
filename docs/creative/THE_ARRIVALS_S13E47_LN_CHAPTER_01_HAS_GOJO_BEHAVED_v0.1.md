@@ -277,6 +277,12 @@ She lies there a while longer. Then she says, so softly he almost doesn't hear i
 
 He doesn't answer. He just holds on tighter.
 
-> **[PARA WORK: aquí cabe un beso de buenas noches**, justo después de «Thank you for not letting go» y antes de que ella se duerma. Cercanía, no escena íntima: todavía está saliendo del bajón. La escena sigue con los dos juntos. **Sin límite de palabras; no comprimas.]**
+She lifts her head and kisses him goodnight. It's brief; afterward she stays close enough that their foreheads touch.
+
+“I'm not going anywhere,” he murmurs. ᴹ
+
+“You'd better not.” ʸ
+
+She says it with her eyes already closing. He smiles against her forehead, and she settles back onto his chest.
 
 She shifts until her ear rests over his heart, takes his hand and draws it under her cheek. He stays awake long enough to feel her breathing settle. She falls asleep on him. He lets her.

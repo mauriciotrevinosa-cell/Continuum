@@ -618,3 +618,20 @@ Claude planeó sin releer la versión final de V78. La revisión cambió hechos 
 
 **La razón de la segunda (Claude):** no va la noche del reencuentro, porque eso es justo después del susto. Va unos días después, en el arco 2, cuando Mau ya está sano y vuelven a andar juguetones: por ejemplo, el día del inventario, cuando la casa se burla de que a Mau se le olvidó que podía subir de nivel y Yuka se pasa la tarde molestándolo con «¿qué más se te olvidó?». Marca que la vida volvió a la normalidad después de los Monarcas, con el Mau que ya no le esconde nada.
 
+### Segunda respuesta de Mauri (quitar la primera; el día del inventario; la gate de los Rulers)
+
+> esta la siento muy forzada la na hasta no necesitamos literalmente vol 78 termina con un chicawow entonces no lo forzaria lo pense mejor lo quitamos
+>
+> ah ya entendi el 2 es en lo del inventario antes de la red gate si esta bien llevan tood el dia jugando con cosas que mau dejo en su inventario yuka le exige dulces y asi dandonos una base solida y que se sigan molestando cuando vayan a dormir y mau es el que normalmente mira y esta ves mau cacha a yuka viendo  y en esta red gate propongo que solo este el multiplicador y no limite la shop ahi mau les compra comida ropa agua y asi entonces el mayor enfoque noe s comida o sustento y que yuka vea el alivio de mau al ver que si tiene la shop y los monstros si le dan dinero.
+
+**Plan vigente de escenas íntimas hasta la isla:**
+- **Se quita la del arco 1.** V78 ya termina con una; no se fuerza.
+- **El día del inventario (arco 2, antes de la gate de los Rulers).** Llevan todo el día jugando con lo que Mau dejó en su inventario; Yuka le exige dulces. Siguen molestándose al irse a dormir. Normalmente Mau es el que la mira a ella; esta vez Mau cacha a Yuka mirándolo a él (espejo de V78 #1).
+- **El cumpleaños de Mau**, sin quitarle espacio a la casa.
+- **El día juguetón con el lazo nuevo del contrato.**
+- **La noche antes de la isla:** *let go*. Quizá una más en la isla.
+
+**La gate de los Rulers (arco 3):**
+- Sólo el multiplicador. **No se limita el Shop**: Mau les compra comida, ropa, agua. El foco no es sobrevivir con lo que haya.
+- Yuka ve el alivio de Mau cuando descubre que sí tiene el Shop y que los monstruos sí le dan dinero, el contraste con el Final Trial y con la primera Red Gate.
+

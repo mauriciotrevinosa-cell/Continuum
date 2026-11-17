@@ -645,3 +645,26 @@ Claude planeó sin releer la versión final de V78. La revisión cambió hechos 
 > y tsurugui anda un desaparecido jajajaj me gusta creer que tsurugui subaru y suho andan en su vaina y se fueron a buscar a emilia
 
 Tsurugi, Subaru y Suho andan en lo suyo y «se fueron a buscar a Emilia». Broma de Mauri, no canon por ahora; Suho sigue apareciendo con su familia en V79.
+
+## Tsurugi, Subaru y el arco simuriano (17 de noviembre de 2026)
+
+### Palabras de Mauri
+
+> Ya pero tsurugi y subaru cayeron de la fas de la tierra que hacemos con eso
+
+> Que Subaru llegue con Emilia tan y puck y tsurugi con los simurianos pq dabura detecto algo y ahi puede arrancar el arco de los simurianos y me gusta que mau se ponga celoso de cross pero el y noise no pueden dejar de ver a papi dabura y ya andan analizandolo la burla de dabura y mau soltando su ce y mana antes del 1v1 y que lo hagan en el quarry donde peleo contra sukuna y algo que me gustaria es que esta ves mau no lo mata despise de unapelea intensa y mau ya tiene los ojos y el rct evolucionados y un cerebro que se regenera si usa 24/7 sus CT o usa mas de una que ya puede pq el ya basicamente no gasta ce al igual que gojo nos da una mega pelea y que mau le gane y no lo mate estaria cm y entonces deja y le digo a chat que Continue con loc corchetes revsie y te aviso cuando acabe lo checas si esta bien te arrancas con lo siguiente
+
+### Dirección
+
+- **Dónde estaban:** Tsurugi (última aparición V61) y Subaru (última aparición S11E09) se fueron juntos, después de S11, a buscar a Emilia por los mundos de la convergencia. La casa lo sabía. Antes del regreso puede llegar una carta suya (propuesta de Claude para el arco del taller).
+- **Regreso:**
+  - Subaru vuelve con Emilia, y con Puck.
+  - Tsurugi vuelve con los simurianos, porque Dabura detectó algo. Ahí arranca el arco simuriano.
+- **Arco simuriano** (después de la gate de los Rulers, cuando Mau ya terminó de evolucionar):
+  - Mau se pone celoso de Cross. Aun así, él y Noise no pueden dejar de mirar a Dabura («papi Dabura»): ya lo andan analizando.
+  - La burla de Dabura a la presencia comprimida de Mau. Mau suelta su CE y su maná antes del 1v1.
+  - **El 1v1 es en la cantera donde peleó contra Sukuna.**
+  - Mega pelea. **Mau gana y no mata a Dabura.**
+  - Para entonces Mau ya tiene los ojos y el RCT evolucionados, y un cerebro que se regenera. Puede usar sus CT las 24 horas o más de una a la vez porque ya casi no gasta CE, igual que Gojo.
+- **Flujo de trabajo:** Chat sigue con los corchetes de V79 y revisa. Mauri avisa cuando termine; Claude lo checa y, si está bien, arranca con lo siguiente (arco del taller).
+

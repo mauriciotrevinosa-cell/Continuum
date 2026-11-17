@@ -101,7 +101,7 @@ Work se quedó sin créditos; Mauri y Claude planean lo que viene. **Nada de est
 ### Dirección
 
 - **Invitación de Elmesia:** «vayan»: que vayan a verla a su ciudad. Mau le presta Kaisel a Yuka, que va a llevarle la lista.
-- **Segundo Exchange:** Jin-Woo ya tiene una sombra de Mau. Su familia está bajo **la protección de la Diosa** (corrección de Mauri: «estan el la proteccion de la diosa»).
+- **Segundo Exchange:** Jin-Woo ya tiene una sombra de Mau. Su familia vive dentro de **la protección de la Diosa** (corrección de Mauri: «estan el la proteccion de la diosa… no es una proteccion en ellos es una barrera alrededor de la casa que si vas con intencion de hacer damage o algo»). Es el escudo divino sobre el asentamiento (canon V19 «Stillness»: SETTLEMENT PROTECTION WITHDRAWN, restaurada «upon entry»): una barrera alrededor de la casa, no un escudo sobre personas. Lee la intención: quien viene a hacer daño no la cruza (los titanes no entran; Sukuna la cruzó en un intervalo sin hostilidad). Cubre el asentamiento, no los caminos: dentro es seguro, fuera no. Por eso los Monarcas no pueden ir por la familia dentro de la casa, y la emboscada es contra Jin-Woo, fuera.
 - **La gate de los Rulers que quiere matar a Yuka va antes de la isla.** Al salir:
   - Mau se recupera saliendo y queda como nuevo, preocupadísimo por Yuka. Yuka no sabe qué decir. Shoko casi infartada.
   - Un momento entre Mau y Shoko, Shoko como mamá. Después de un rato entra Gojo y Mau no se queja.

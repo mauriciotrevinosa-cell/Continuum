@@ -52,3 +52,6 @@ A late period, the days after it comes, and the house that holds them both. Then
 | 31 | S13E55 | The Red Doesn't Suit You | `THE_ARRIVALS_S13E55_LN_CHAPTER_01_THE_RED_DOESNT_SUIT_YOU_v0.1.md` |
 | 32 | S13E55 | What the City Owes | `THE_ARRIVALS_S13E55_LN_CHAPTER_02_WHAT_THE_CITY_OWES_v0.1.md` |
 | 33 | S13E56 | Home Through the Wall | `THE_ARRIVALS_S13E56_LN_CHAPTER_01_HOME_THROUGH_THE_WALL_v0.1.md` |
+
+
+**Selective editorial expansion (2026-11-17):** #12 now follows Yuka's voluntary return to Mau after exploring the house with Ori; #32 gives the blue dress and the aftermath in Thalion more room, while Elmesia promises Mau a personal gift **only upon arrival on the island, without specifying what it is**; #33 gives Ori and the couple more time together after their homecoming. The already-established island invitation remains unchanged. The once-proposed cape house is not established as a gift. No new V79 chapters were added.

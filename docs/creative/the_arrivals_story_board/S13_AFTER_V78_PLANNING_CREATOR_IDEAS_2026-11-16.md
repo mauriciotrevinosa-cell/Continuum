@@ -255,3 +255,235 @@ Unos 100–140 capítulos (la historia decide).
 - Cuál opción de contrato.
 - Si la gate es la primera vez que Yuka cumple su promesa de entrar con él.
 - Confirmar el cumpleaños de Mau en B+365 dentro del arco 2.
+
+
+## Séptima ronda (17 de noviembre de 2026): las decisiones de Mauri sobre el hilo
+
+### Palabras de Mauri
+
+> okay creo durante que le baja lo cuent y el bajon nada de chicawow ahi quiero que ahi sea el enfoque en yuka que siente y que demuestre correctamente a mau ayudandola y sin decirle loq ue siente esta mal o que es su culpa sino el tambien se bajonea pero su enfoque es yuka si o si.
+>
+> los chicawow me gusta que no son cada dos segundos son momentos importantes y lindos osea en v78 hubieron 3 regresando de la isla despues de un dia y terminaron viendo una movie y el ultimo es un momento donde mau siente lo que yuka sintio la primera ves y de ahi creo que han habido como unas 10 total max creo que menos osea no es de darlas como chocolate sino normalmente es despues que uno de ellos se sienta tan comodo o despues de andar juguetones como chamacos entonces no lo des como chocolate.
+>
+> de tus ideas antes de el arco de los monarcas deja y te doy mi opinion:
+>
+> * si me gusta de despues de tener varios dias me gusta pero aqui haria algo que yuka le cuente a mau que va retrasada y mau le pregunta de como que y le dice y ahi metemos tu idea de que yuka le pregunta si puede ver y mau ya estaba intentando no ver y le hace caso a yuka . si me gusta que tengamos ese beat como lo propones  y si me gustaria que lo de elmesia entre aqui como que pueden ente que anko exige la isla pero en la amnera d eanko le dora la pildora y cuando ve que mau no entiende ahi le dice que la isla y todos meten su cuchara mientras la casa discute ellos se salen tantito y deciden contarles en la isla.
+>
+> y a B: me cagas pero si que el dia sig de que ya hasta planearon contarlo yuka despierta y se le desmorona todo y mau despierta tantito despues pq yuka le dijo que fue al escusado y se esta tardando y la encuentra lagrimiando y cuando ve a mau se rompe por completa y ella se puede hechar la culpa y mau le dice que no lo es y le ofrece ir por desayuno por lo menos y yuka ni quiere caminar mau la carga hacia la cama y le compra cosas del shop y manda tras el enlace que ahorita yuka no anda bien no fisico que este lastimada que luego le explica pero que no los esperen y rimuru ofrece traer el desayuno y mau le dice que ya compro algo de la store. y me gusta que yuka se vuelva a dormir y que sea hasta el segundo dia que yuka de llorar culparse pedir disculpas y enojarse y mau puede decir en algun punto que el puede decir que el pued ser el problema y yuka le grita que no y asi y ahi cuando yuka se vuelve a dormir despues de que mau la ayudo a banarse y todo a darle de comer y asi es cuando acude con shoko y le cuenta a maki y a yuta me gusta que mai llegue a su cuarto sin que nadie le diga nada y mai se pone a platicar con ellos y espera a que yuka le conteste y habla con mau y puede ser que cuando maki yuta y mai esten ahi yuka les confiese
+>
+> C: movi lo de lo de shoko y asi a b duarante todo:
+> aqui movemos lo de que yuka vuelve a reir despues de star varios dias triste y a veces no soltando a mau o decirle que no la deje o que yuka le diga a mau que la va divorciar o algo y mau le dice que nunca se va a divorciar de ella que la ama como no tiene una idea y yuka le puede preguntar para siempre y mau le dice para siempre y yuka solo lo agarra y que se ria de algo que dice ori hasta este punto frieren no habia dejado verlos pq no queria ver a ori asustarse otra ves y menos despues de lo que vio con mau entonces cuando mau dice qu eya ve mejor a yuka ori le pregunta a su mama frieren si ya puede visitar y ahi ori le cuenta cosas que hizo el fort y la casa y ahi es donde se rie y ella le pide a ori que la lleve a ver lo que se perdio y se la lleva y mau se va con mai a cotorrear.
+>
+> lo de que mau le duela esta bien ahi ves como meterlo.
+>
+> me gust que despues de esto que ya escirbieron la carta antes de que le bajara les llega ya despues de que yuka es yuka y de empalagoza pq aunque estaba tristre  sabe que mau en ningun momento la culpo y por eso lo ama mas y no se lo va a admitir peor va a ser mas empalagosa que antes.
+>
+> y que la respuesta de elmesia sea de que esta bien pero que los quiere ver antes a ellos para platicar y les quiere mostrar su ciudad que desde que se conocen nunca la ahan visto y queire mostrarles y que se queden unos dias y como dio tiene acceso a la proteccion de mau ella puede ntrar e ir con ellos y elmesia pide eso que si puede venir dio tmb y dio emocionada y makima pide si puede ir tmb y yuka le dice eres parte del grupito que vive dentro de mau vas pq vas pero eso no significa que quiero que me toques y revisamos bien el trato que hizo y yuka le puede preguntar a makima que si los terminos que ella puso los pueden cambiar y makima le dice que si se pueden cambiar y yuka pregunta como y le explica que mau los puede cambiar porque el contrato inicial es con el y el contrato que hizo con ella es mas de aceptar que es la esposa de mau y por eso las respeta pero si ella yuka los quiere cambiar puede y makima podria opinar y yuka le dice que esta bien pero que ahorita no quiere cambiarlos y makima le dice que okay
+>
+> D:
+> me gusta que mientras mau y yuka se preparan para ir jin woo detecta algo sigue lo que sintio y le cuenta a mau y a yuta y a gojo y ellos yuta y gojo dicen que se quedaran cerca de la casa por si acaso entonces ahi jin woo pide ayuda a mau.
+>
+> me gusta y mira tal ves me aguantaria a un chicawow llevan 5 dias desde sus dias bajos y apenas esta agarrando energias me gustaria mas que sigamos con yuka el doble de empalagoza y tal ves busca que mau vuelva a let go todo y piensa y se acuerda como mau se  let go y se acuerda lo que hace y mau puede estar cansado pq estuvo buscando todo el dia buscando los mas minimos treats de lo que jin woo le dijo que tenia los ojos al 100 y yuka aprovecha el momento y ya se que no creo que podras escribir esto pero que yuka se le suba y luego agarre su cabeza y la ponga en su pecho y mau repite lo mismo y antes de dormir se le escapa un i love you y yuka se sonroja y lo sostiene mas fuerte y escucha un ronquido.
+>
+> si a E no le cambiaria nada esta bien y me encanta pinche mau en el pov de este cabron es el diablo encarnado una figura de una rueda rompe lo negro se ve de su color y de ahi sale alguien nmms esta duro y elmesia y yuka con las caras de que ya mamaste y esto es un martes y elmesia le dice a mau que a la proxima use eso para verla con yuka y dio mas seguido y mau no le contesta pq ya comenzo los bangs y yuka le puede decir a elmesia que le va a recordar y em gusta que son 9 respiros pero que jin woo le haya contado que le cago cuando el corto el hombro si es que es el monarca del hielo y mau como anda tmb siendo una copia de makima le corta con la casualidad y solo mueve su cabeza como lo hace makima y le dice que si se va a enojar y ve que esta emputado y antes que haga algo le comienza a hacer varios bangs y mau solo pregunta que en que parte de la ciudad estan y le dicen que ne el centor entonces se lo lleva al cielo.
+>
+> F:
+> me gusta que jin woo sabe el peligor y aparte se entera que se lelvo a aotro aquiel problema es antares tu dices que no quieres que mau salga lastimado.
+>
+> no en contra yuka es el beacon de mau y ahi vas a quitarle el color vas a caer opus akutami ajjajajajajajajjaja
+>
+> y si a ver quienes mueren y recuerda que mau puede hacer arise a los monarcas y ya tiene uno y que lo saque y eso causa un temor en los monarcas y aqui podmeos ver que uno puede huir y antares me gusta que demuestre un pcoo de poder y mau tmb y le dice que despues que vee que tiene unos traidores en sus ombra y mau le dice que el los trata mejor y antares le dice que va querer verlo pelear y algo que este con madre es que el war devil los ve y hable con antares y las muertes haria dos y que los levante y eso hace que el resto termine de huir
+>
+> G: me gusta que el enojo de jin woo no sea pq lo quito sino pq siente que si mau muere es por su culpa y cuando lo ve.
+>
+> ME encanta que yuka le dice que se ve feo que el rojoe n el cabello no le queda mau se rie aun en la forma de makima y se lo quita y mau pregunta mejor y ella le dice que en amabs se veia bien y mau se rie
+>
+> en lo de shoko elmesia y el paso al taller explica ams lod e elmesia y shoko
+>
+> los extras de propuesta que mencionas:
+>
+> lo de los ojos ya lo puse y no que nosie ciel y dio aporten pq noise le conto a dio ciel y sabe pq escucha como noise pero me encnata que aqui entendmaos que ciel bloquea la vista d enoise y de ella cuando anden haciendo cosas perosnales y me gustaq ue ciel y si dio esta ahi con ellos aprovechen para andar con noise y ciel cree que vana a hacer el chicawowo o un moento de ellos entonces bloquea la vista y se ponen a hacer algo y mau las ve encimosas de noise y mau dice que puede volver en otro momento y ciel y dio comienzana  actuar como si nada y me encanat que noise pide help y makima llega y nosie huye a checar las walls y ciel y dio se celan y pues duele que hayan hecho la lista y que makima tambien proponga pq mau la metio a al combo y le dice estas ayudando pero no quita que eres mi amiga (esto queda muy bien con lo hablado muchos de la casa no son santos y han matado mau a un mundo entero entre quien sabe cuantos en un trial rimuru para convertirse en un demon king los de jjk casi todos han matado entocnes es una familia de gente no limpia que makima manipulara es otra cosa.
+>
+> los dias bajo:
+> fakkkkkkkkk y que mau este ahi y nosie y el y la rueda se ponene a investigar como arreglar si es eso y no le dicen nada a yuka pq sabe que la respuesta puede doler (esto estara heavy pq es mau intentando todo y esa es su manera de sufrir tal ves no llora ni nada pero lo que hace es buscar soluciones y mau al analizar a yuka ene ste rato se da cuenta que no es nad de eso
+>
+> lo de ori me encanta que sea despues de lo de shoko y que yuka no diga nada del cancer sino mejor que sea mau.
+>
+> me encanta lo de makima y neta que no comprenda y mau le dice que es lo que siente el solo que tu lo estas viviendo y algo que me gusta es qe mau sea la que esta ves abrace a makima pq es la unica que puede abrazar de los cuatro que sienten lo que mau siente y makima se queda tieza
+>
+> me gusta lo de maki pero aqui muestre mas la madurez de maki que en ves de seguir con su forma dura ve a yuka y solo la abraza y mau tal ves se comienza a ir y maki y yuk lo agarran y mau dice que va al escusado
+>
+> me gusta y mau recuerda lo que shoko le dijo sobre gojo si se porto bien y mau le dice a shoko que venga ella se acerca le susurra algo ene l oido se sientan juntos y sacan una libreta y mau comienza con preguntas de que gojo se ah pportado bien y antes d eque gojo de su speech shoko conteste y luego yuka saca que lelva contando cosas y asi
+>
+> frieren me encanta que quiera ir q quiere concocer al oponente de mau el bird que frieren llama el enemigo del estado y ori aladod e ella super orgullosa y ahi se dan cuenta quien dio el nombre
+>
+> Arco 2:
+> si me gusta que le den las gracias por no dejar que jin woo vaya a otra guerra.
+>
+> si me gusta lo de el inventario y tomen su tiempo en ver cosas ven el castillo y mau propone que como nunca vinieron por el pueden hacer la guerra de dragones parte dos ve todos los shrds de los que mato beru kaisel kamish y de ah vemos que hacen cad auno y puede ser qu euno convenga para mejorar la katana y asi otros son upgrades apra el gracias al sistema y asi
+>
+> me encanta que mau no ah abierto la pagina y la abre por accidente y ahi los ve pero apenas los desbloquea pq nivel 2 era nivel 200 entonces vemos que tanto tiene y le falta ada para 4 o 5 y no consigue los puntos hasta llegar el cinco entonces aqui podemos meter lo de la red gate.
+>
+> si que mientras esten en el inv nosie diga que acabo de anlaizar que necesita permiso de mai para construir el anillo recuerda el sape que mai le dio cuando usa su cursed technique.
+>
+> me encanta que mau le pregunte bien y medio la acuse de que si lo emocional es intento de control y cuando entiende bien que makima decidio quitar su inmortalidad para una vida con el y asi.
+>
+> ah ya hicimos el aniversairo de cuando andaron y si que mau ni se acuerde y ve que no esta yuka y solo tiene una nota que no va a estar en un rato que haga lo que quiera y decide ver la gate y le ofrecen un dungeon dificil pero sin restricciones el con todo y beru alado de el y le pregunta que quiere hacer y le pide a beru que deje el gorro pq si se mancha ori los mata a los dos y beru va en chinga a a guardarlo regresa mau le dice a ciel si lista y mocos se chinag el dungeon en chinga no se detiene y consigue lo que le falatab para desbloquear sus mejoras de nivel y puntos.
+>
+> ahorita el contrato es que yuka puede usar cualqueir ct de mau y mau usa sus reservas y todoe el peso cae ene lla y mau creo un segundo limitless dentro de el para que yuka tenga el suyo eso ya esta y aparte mau en una mergencia puede activar una ct en ella mi idea es eso lo del exchange y que yuka lo pruebe y mau ve la cara de su error pero tmb me gustaria que expandan para que tengan un lazo en su cabeza como el de con rimuru y ciel pueda comunicarse a traves de ese bond noise dio y makima y antes d enada makima pregunta que es la regla de esto y yuka le dice si es importante que le hable si no lo es ella la puede buscar y makima puede preguntar si puede hablar y yuka decide
+>
+> y algo que me gusta es que yuka poco a poco va aceptando a makima y es un paralelismo como el de mau con dio dio lo torturo y todo y ahora la ama no quita lo que hizo pero mau entendio pq lo hacia y aprendio y la ayudo a mejorar y hasta la salvo
+>
+> Arco 3:
+> comoo que cochean la primera noche queeeeeeee bellaka jajajaj no se si me guste y me gustaria por el golpe mau logra evitar que duren mucho ahi adentro entonces vemos bien eso y no se comco que me agrada pero quiero usar eso para demostrar mas que nada que yuka ve lo que mau sufre y que una lastimada que aun no sana y yuka lo quiere defender y ahi es donde sucede mau se lelva al 11 destruye la gate saca ayuka pero queda aprtido en dos como con sukuna pero el rct lo reconectoantes de que se partiera y los ojos entonces basicamente ya no gasta energia maldita y me encnata que vemos cuales ct tiene siempre utilisables y que mau las integre en su dia a dia que gojo el explique como mantener el infinity siempre abierto y prendido y como usar el rct constantemente y asi que shoko pq ya ve que mau se puede sanar solo esta agadecida pero a la ves se siente triste pq siente que mau ya no la va aver y se pone en modo mama.
+>
+> pq yuka llora y pq metiste un corchete bellaka
+>
+> si lo de ieri y ori y me gusta y la lista final se la mandan a elmesia mau con un exchange avisandole si puede darle la lista
+>
+> y repito los chicawow no me gusta la idea que este llorando y lo hagan estoy en contra d eponerlos en esos momentos.
+>
+> okay se me fundio el cerebro si se me ocurren ideas para que pueden hacer en la isla y me gusta que no digamos quienes van hasta que decidamos bien todo que lo ultimo que escirbimos es la noche antes y puede ser que terminen de planear y dependiendo del ultimo chicawow me gustaria que dependiedno desde cuantos dias fue lo triste despues del susto y todo tal ves otro let go pero si usamos nuestro promedio de 3 por cada 38 caps o por volumen estas hablando de 9 chicawows si quitas los caps de pelea recuperacion bajones puedn ser 4-6 chicawows en este plazo si es que uqedan pueden ser mas si los momentos quedan pero sigo con lo del primer mensaje
+>
+> jajajaj me gusta que como sh
+
+(El mensaje se cortó ahí por el límite de uso; falta el final.)
+
+### Reglas que fija Mauri para los chicawow
+
+- No van cada dos segundos. Son momentos importantes y lindos. En V78 hubo tres, y en total han sido unos diez o menos.
+- Suelen venir cuando uno de los dos se siente muy cómodo, o después de andar juguetones como chamacos.
+- **Nunca** cuando ella está llorando, triste o en el bajón, ni justo después de un susto: Mauri está en contra.
+- Promedio de referencia: unos tres por volumen de ~38 capítulos. Hasta la isla, quitando pelea, recuperación y bajones, quedan **unos 4–6**, más si los momentos lo piden.
+- Los corchetes de cercanía sin chicawow (abrazos, «let go», dormir juntos) sí pueden ir en más lugares.
+
+### Plan vigente hasta la isla (reemplaza la sexta ronda donde choque)
+
+**Arco 1 · Los Monarcas**
+
+**A. El retraso.**
+- Varios días normales primero.
+- Yuka le dice a Mau que va retrasada. Él pregunta «¿cómo que…?» y ella le explica.
+- Ella le pregunta si puede ver con los ojos. Él ya estaba intentando no mirar, y le hace caso.
+- La lista de nombres de Mau y Noise (ver «Extras»).
+- La isla entra aquí: en la cena, Anko exige la isla a su manera, dorándole la píldora. Cuando ve que Mau no entiende, se lo dice directo, y todos meten su cuchara. Mientras la casa discute, Mau y Yuka se salen un momento y deciden contarles lo del bebé en la isla.
+- Escriben la carta a Elmesia antes de que le baje.
+
+**B. Le baja. Sin chicawow; el foco es Yuka.**
+- **Día 1.**
+  - Al día siguiente de planear cómo contarlo, Yuka despierta y se le desmorona todo. Le dijo a Mau que iba al escusado y se tarda; él va y la encuentra llorando. Al verlo se rompe por completo.
+  - Ella se echa la culpa y él le dice que no lo es. Le ofrece ir por desayuno; ella no quiere ni caminar, así que la carga a la cama y compra cosas del Shop.
+  - Avisa por el enlace que Yuka no anda bien (no está herida físicamente), que luego explica y que no los esperen. Rimuru ofrece llevar el desayuno; Mau le dice que ya compró algo. Yuka se vuelve a dormir.
+- **Día 2.**
+  - Yuka llora, se culpa, pide disculpas, se enoja. Mau dice en algún momento que el problema podría ser él, y ella le grita que no.
+  - Él la ayuda a bañarse, le da de comer. Cuando ella se vuelve a dormir, Mau va con Shoko, y le cuenta a Maki y a Yuta.
+  - Mai llega al cuarto sin que nadie le diga nada. Platica con ellos, espera a que Yuka le conteste y habla con Mau. Con Maki, Yuta y Mai ahí, Yuka les confiesa lo que pasó.
+- **Mau no le dice a Yuka que lo que siente está mal ni que es su culpa.** A él también le duele, pero su foco es Yuka sí o sí.
+- **La forma de sufrir de Mau:** él, Noise y la rueda se ponen a investigar cómo arreglarlo, si fuera eso, sin decirle nada a Yuka porque la respuesta podría doler. Él no llora; busca soluciones. Analizándola se da cuenta de que no es nada de eso.
+- **Shoko** le explica que es normal, más si estaba ilusionada, y que puede durar unos días.
+- **El cáncer** no lo saca Yuka; lo saca Mau, con Shoko.
+- **Maki**, con madurez: en vez de su forma dura, ve a Yuka y solo la abraza. Mau empieza a irse, Maki y Yuka lo agarran, y él dice que va al escusado.
+- **Makima** no comprende lo que siente. Mau le explica que es lo que siente él, solo que ella lo está viviendo. Esta vez es Mau quien abraza a Makima, porque es la única de los cuatro que sienten lo que él siente a la que puede abrazar. Makima se queda tiesa.
+- **Mau también duele;** encontrar dónde meterlo.
+
+**C. Vuelve a reír.**
+- Varios días triste, a veces sin soltar a Mau, pidiéndole que no la deje. Le dice que se va a divorciar de él o algo. Mau: nunca se va a divorciar de ella, la ama como no tiene idea. «¿Para siempre?» «Para siempre.» Ella solo lo agarra.
+- **Ori:** Frieren no la había dejado verlos porque no quería verla asustarse otra vez, menos después de lo que vio con Mau. Cuando Mau dice que ya ve mejor a Yuka, Ori le pregunta a Frieren si ya puede visitar.
+  - Ori le cuenta lo que hicieron el Fort y la casa, y ahí Yuka se ríe.
+  - Yuka le pide a Ori que la lleve a ver lo que se perdió, y Ori se la lleva.
+  - Mau se va con Mai a cotorrear.
+- **La respuesta de Elmesia** llega cuando Yuka ya es Yuka otra vez, y más empalagosa que antes: sabe que Mau en ningún momento la culpó, por eso lo ama más, y no lo va a admitir. Elmesia está de acuerdo con la isla, pero antes quiere verlos para platicar, mostrarles su ciudad (desde que se conocen no la han visto) y que se queden unos días.
+- **Quién va a Thalion:**
+  - Elmesia pregunta si puede ir DIO, que tiene acceso a la protección de Mau. DIO, emocionada.
+  - Makima pide ir. Yuka: «eres parte del grupito que vive dentro de Mau; vas porque vas, pero eso no significa que quiero que me toques».
+- **Los términos de Yuka con Makima:** revisan bien el trato.
+  - Yuka pregunta si sus términos se pueden cambiar. Makima: sí.
+  - ¿Cómo? Mau puede cambiarlos, porque el contrato inicial es con él. Lo de Yuka es más bien que Makima acepta que es la esposa de Mau, y por eso respeta sus términos; si Yuka quiere cambiarlos, puede, y Makima podría opinar.
+  - Yuka: está bien, pero ahorita no los quiere cambiar. Makima: okay.
+
+**D. Las presencias.**
+- Mientras se preparan para ir, Jin-Woo detecta algo, sigue lo que sintió y se lo cuenta a Mau, Yuta y Gojo. Yuta y Gojo se quedan cerca de la casa por si acaso. Jin-Woo le pide ayuda a Mau.
+- **Sin chicawow** (lleva unos cinco días desde los días bajos y ella apenas recupera energía). En su lugar, Yuka el doble de empalagosa: quiere que Mau vuelva a hacer *let go*.
+  - Se acuerda de cómo fue la vez anterior y de lo que hizo. Mau está cansado de buscar todo el día, con los ojos al cien, las mínimas amenazas que Jin-Woo describió.
+  - Ella aprovecha: se le sube, le toma la cabeza y la pone en su pecho, y Mau se suelta igual que entonces.
+  - Antes de dormir a él se le escapa un *I love you*. Yuka se sonroja, lo abraza más fuerte y escucha un ronquido. (Corchete de cercanía, no chicawow.)
+
+**E. El día de la ciudad (sin cambios; Mauri lo aprueba).**
+- POV del Monarca: Mau es el diablo encarnado. Una rueda rompe lo negro, se le ve su color, y de ahí sale alguien.
+- Elmesia y Yuka con cara de «ya valiste», y esto es un martes. Elmesia le dice a Mau que la próxima vez use eso para ir a verla con Yuka y DIO más seguido. Mau no contesta porque ya empezó los Bangs; Yuka le dice a Elmesia que se lo va a recordar.
+- Nueve respiraciones.
+- Jin-Woo ya le había contado lo que le molestó cuando él le cortó el hombro (si es el Monarca del hielo).
+- Mau, que también anda siendo una copia de Makima, le corta con naturalidad y solo mueve la cabeza como ella. Le pregunta si se va a enojar; ve que está furioso, y antes de que haga algo le suelta varios Bangs.
+- Mau pregunta en qué parte de la ciudad están. En el centro, así que se lo lleva al cielo.
+
+**F. La emboscada y la pelea.**
+- Jin-Woo conoce el peligro, y además se entera de que Mau se llevó a otro.
+- **El problema es Antares:** con él presente, Mau sí sale lastimado.
+- **Fuera la cara de Yuka en gris:** Yuka es el faro de Mau, y no se toca su color.
+- **Arise de Monarcas:** Mau puede hacerlo y ya tiene uno. Sacarlo causa temor en los Monarcas.
+- Antares muestra un poco de poder, y Mau también.
+- Antares ve que tiene «traidores» en su sombra. Mau: «yo los trato mejor». Antares dice que va a querer verlo pelear.
+- El War Devil los observa y habla con Antares.
+- **Dos muertes.** Mau levanta a los dos, y eso hace que el resto termine de huir.
+
+**G. Después.**
+- El enojo de Jin-Woo no es porque Mau se lo quitó, sino porque siente que si Mau muere sería por su culpa. Le estalla cuando lo ve.
+- Yuka le dice que se ve feo, que el rojo en el pelo no le queda. Mau se ríe aún en la forma de Makima y se la quita. «¿Mejor?» Ella: se veía bien en ambas. Mau se ríe.
+- Explicar más de Elmesia (la ciudad, la deuda) y de Shoko al pasar al taller.
+
+**Extras aprobados con ajustes**
+
+- **Los ojos:** ya está decidido. Noise, Ciel y DIO no aportan (Noise le contó a DIO; Ciel lo sabe porque escucha como Noise).
+- **Ciel tapa su vista y la de Noise** cuando Mau y Yuka andan en lo suyo.
+  - Si DIO está con ellos, aprovechan para andar con Noise: Ciel cree que Mau y Yuka van a tener un momento, tapa la vista y se ponen a hacer algo. Mau las ve encimosas con Noise y dice que puede volver en otro momento. Ciel y DIO actúan como si nada.
+  - Noise pide ayuda; llega Makima y Noise huye a «revisar las paredes». Ciel y DIO se ponen celosas.
+- **La lista de nombres:** duele que la hayan hecho, y que Makima también proponga nombres, porque Mau la metió al combo. Él le dice: «estás ayudando, pero eso no quita que eres mi amiga».
+  - Encaja con lo hablado: muchos en la casa no son santos. Mau mató un mundo entero, y quién sabe a cuántos en un Trial; Rimuru, para volverse Demon King; casi todos los de JJK han matado. Es una familia de gente no limpia; que Makima manipulara es otra cosa.
+- **Gojo y la isla:** Mau recuerda lo que Shoko dijo de que Gojo vaya si se porta bien. Le dice a Shoko que venga; ella se acerca, él le susurra algo al oído, se sientan juntos y sacan una libreta. Mau empieza a preguntar si Gojo se ha portado bien. Antes de que Gojo dé su discurso, Shoko contesta, y luego Yuka saca que lleva contando cosas.
+- **Frieren** quiere ir a conocer al oponente de Mau: el pájaro, al que ella llama «el enemigo del Estado». Ori a su lado, orgullosísima; así se dan cuenta de quién le puso el nombre.
+
+**Arco 2 · Recuperación y taller**
+
+- **Gracias:** la familia de Jin-Woo le da las gracias a Mau por no dejar que Jin-Woo se fuera a otra guerra.
+- **Inventario con calma:**
+  - Ven el castillo. Mau propone que, como nunca vinieron por él, pueden hacer la guerra de dragones parte dos.
+  - Revisan los shards de lo que mataron Beru, Kaisel y Kamish, y qué hace cada uno: alguno sirve para mejorar la katana, otros son mejoras para él gracias al sistema.
+- **Niveles:**
+  - Mau nunca había abierto la página y la abre por accidente. Ahí ve los niveles, pero apenas los desbloquea, porque nivel 2 era nivel 200.
+  - Vemos cuánto tiene y cuánto le falta para el 4 o el 5. No consigue los puntos hasta llegar al cinco; ahí entra lo de la gate.
+- **El anillo:** mientras están en el inventario, Noise dice que acaba de terminar el análisis y que necesita permiso de Mai para construir el anillo. Recordar el zape que Mai le dio cuando usó su cursed technique.
+- **Makima:** Mau le pregunta bien y medio la acusa de que lo emocional sea un intento de control. Al final entiende que Makima decidió quitarse su inmortalidad para tener una vida con él.
+- **El aniversario de cuando empezaron a andar ya se hizo.** En cambio:
+  - Un día Mau no ve a Yuka; solo hay una nota de que no va a estar en un rato y que haga lo que quiera.
+  - Decide ir a ver la gate. La gate le ofrece un dungeon difícil sin restricciones, para él con todo y Beru al lado.
+  - Beru le pregunta qué quiere hacer. Mau le pide que deje el gorro, porque si se mancha Ori los mata a los dos; Beru va corriendo a guardarlo y regresa.
+  - Mau: «Ciel, ¿lista?». Se acaba el dungeon a toda velocidad, sin detenerse, y consigue lo que le faltaba para desbloquear sus mejoras de nivel y sus puntos.
+- **El contrato:**
+  - **Lo que ya existe:** Yuka puede usar cualquier CT de Mau, con las reservas de él y todo el peso en ella. Mau creó un segundo Limitless dentro de él para que Yuka tenga el suyo. En emergencia, Mau puede activar una CT en ella.
+  - **La ampliación:**
+    - Exchange: Yuka lo prueba, y Mau pone la cara de que se equivocó.
+    - Un lazo en la cabeza como el de Rimuru, por el que Ciel, Noise, DIO y Makima puedan comunicarse.
+    - Antes que nada, Makima pregunta la regla. Yuka: si es importante, que le hable; si no, Yuka la busca. Makima puede preguntar si puede hablar, y Yuka decide.
+- **Yuka acepta a Makima poco a poco,** en paralelo con Mau y DIO: DIO lo torturó y ahora la ama. No borra lo que hizo, pero Mau entendió por qué lo hacía, aprendió, la ayudó a mejorar y hasta la salvó.
+
+**Arco 3 · La gate de los Rulers**
+
+- **Sin chicawow dentro.**
+- Por el golpe, Mau logra que no duren mucho adentro. Lo central: Yuka ve lo que Mau sufre, y la lastimada que él lleva aún sin sanar. Yuka lo quiere defender, y ahí sucede.
+- **El clímax:** Mau se va al once, destruye la gate y saca a Yuka.
+- **El precio:** queda partido en dos como con Sukuna, pero el RCT lo reconecta antes de que se separe. Los ojos dejan de gastar energía maldita.
+- **CT siempre activas:** vemos cuáles puede tener siempre utilizables y cómo las integra a su día a día. Gojo le explica cómo mantener Infinity siempre abierto y prendido, y cómo usar el RCT constantemente.
+- **Shoko:** ya ve que Mau puede sanarse solo. Está agradecida, pero a la vez triste porque siente que él ya no la va a ir a ver, y se pone en modo mamá.
+
+**Arco 4 · Al salir**
+
+- **Sin corchete de chicawow cuando hay llanto.**
+- **Ieiri y Ori** como estaba.
+- **La lista final:** Mau se la manda a Elmesia con un Exchange, avisándole antes si le puede dar la lista.
+- **Quién va a la isla:** no se dice hasta decidirlo todo bien.
+- **Lo último que se escribe es la noche antes:** terminan de planear. Dependiendo de cuándo fue el último chicawow y de cuántos días han pasado desde lo triste y el susto, quizá otro *let go*.
+
+**Antes de escribir, preguntar a Mauri**
+
+- El final de su mensaje, que se cortó.
+- Qué Monarca tiene ya Mau en su sombra. Claude encontró en el canon la representación del Monarca del hielo de S8, sin Arise registrado.

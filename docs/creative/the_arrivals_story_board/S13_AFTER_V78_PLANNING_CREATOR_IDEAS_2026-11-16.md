@@ -496,3 +496,51 @@ Unos 100–140 capítulos (la historia decide).
 - **El Monarca de Mau es Rime:** el Arise del patrón falso del Monarca del hielo en S8 (red gate donde tenía que ser más rápido que los cambios de nivel). Copia, no el alma original del Monarca. Era la unidad 6.615.
 - **Idea de Claude:** si el Monarca de la ciudad es el del hielo (Mauri: «si es que es el monarca del hielo»), Mau saca a Rime frente a él o frente a los demás. Una copia del Monarca del hielo en la sombra de Mau explica el temor de los Monarcas.
 
+
+
+## Octava ronda: aclaraciones de Mauri
+
+### Palabras de Mauri
+
+> es que me quede pensando algo que dijiste cuando dije que mau defiende a makima de denji reze y power y entre mas lo pense es que si mau pudo verse en ella y no justifica lo que hizo para nada pero no quiere juzgar a alguien en un  mundo donde sabe que la gente cambia y pues mau de cierta manera en su trauma ve a otra persona traumada o eso quiso creer. y lo  de esto es un martes es que cuando elmonarca ve a mau levantarse y es una de las cosas mas aterradoras que ah visto y una ve a un amigo y la otra ve a su esposo y ven eso como muy normal.
+>
+> osea que lo que yo decia era que cuando hable con shoko y mau menciona el cancer puede ser que yuka se lo dice a shoko o no se y ahi es donde mau propone revisarla si las terapias o algo le dejaron algo que no le permita tener hijos y mau analizandose quieres ques e muera verdad?! jajajajjajajajaj.
+>
+> si construyo algo y me gusta que tal ves consigue las blueprints pero como nunca lo habian testeado la sombra queda o muy debil o no funciona del tanto y noise tiene que chambear.
+>
+> Si peor recuerda que ashborn ah estado prefiriendo su cuarto en el in que estar en su cuarto dentro de mau y las sombras y lo de ashorn son dos cosas muy diferente mau nunca mato a ashborn ni le hizo arise le ofrecio un lugar para descansar y le dio dos pero mau en su sombra tiene un reglao de ashborn
+>
+> y recuerda ashborn fue traicionado por los monarcas y los rulers entonces no es como que le agrade si ashborn si ah matado a otros monarcas
+>
+> 3. Factos buen ojo de ese error ahora fui yo que no se acordo del bag de mau
+>
+> 4. Por eso me gusta la idea que antares y mau solo hagan un poco de show y antares se vaya y de ahi la war devil se acerca a antares pq antares no es pendejo y sabe que va anecesitar toda la ayuda ya subestimo a la casa una ves
+>
+> lo de no voy a etsar un rato lo propuse en el cumple de mau que ni se acuerde que es su cumple su esposa esta desaparecida haciendo algo y beru quiere hacer un dungeon con el
+>
+> si me gusta rime v el monarca de hielo pero me gusta que el tiempo que este en la ciudad es breve en si suficiente para loa cordado y es que ahorita me cayo el veinte es que fue una emboscada a jin woo entonces mau cree que llevo al unico monarca hacia el medio de nada y ahora esta contra 7 creo que son 7 mas el de las sombras
+
+### Dirección
+
+- **Mau y Makima:** Mau se pudo ver en ella. No justifica nada de lo que hizo, pero no quiere juzgar a alguien en un mundo donde sabe que la gente cambia. Desde su trauma ve a otra persona traumada, o eso quiso creer. (Sirve para la plática de control contra caos del arco 2.)
+- **«Esto es un martes»:** para el Monarca, ver a Mau levantarse es de lo más aterrador que ha visto. Elmesia ve a un amigo y Yuka a su esposo, y para ellas es de lo más normal.
+- **La revisión de Yuka:**
+  - Ocurre en la plática con Shoko. Cuando sale el cáncer (quizá Yuka se lo dice a Shoko, o no), Mau propone revisarla, por si las terapias le dejaron algo que no le permita tener hijos.
+  - **Mau no se analiza a sí mismo**: con lo que carga, sería un riesgo enorme («¿quieres que se muera, verdad?»). Queda descartada la idea de Claude.
+- **El Arise de los Monarcas:** Noise tiene los planos de una extracción para Monarcas, pero nunca se probó. La sombra queda muy débil o no funciona del todo, y Noise tiene que trabajar en ella.
+- **Ashborn no es una sombra.**
+  - Mau nunca lo mató ni le hizo Arise: le ofreció un lugar para descansar, y le dio dos. Ashborn ha preferido su cuarto en el Inn al cuarto dentro de Mau.
+  - En la sombra de Mau hay un regalo de Ashborn (la unidad «gift» del registro).
+  - Los Monarcas y los Rulers traicionaron a Ashborn, y él ha matado a otros Monarcas. No le agradan: si reacciona a verlos como sombras, no es con cariño.
+- **Infinity siempre activo:** Mauri acepta la corrección. Lo nuevo del arco 3 es que ya no le cueste y que el RCT corra solo.
+- **Antares:** Antares y Mau sólo se lucen un poco y Antares se va. Después el War Devil se le acerca, porque Antares no es tonto: sabe que va a necesitar toda la ayuda; ya subestimó a la casa una vez.
+- **La nota «no voy a estar un rato»** es del cumpleaños de Mau (B+365). Él ni se acuerda de que es su cumpleaños, su esposa está desaparecida haciendo algo, y Beru quiere hacer un dungeon con él.
+- **La ciudad y la emboscada:**
+  - El tiempo en la ciudad es breve, lo justo para lo acordado. Puede haber Rime contra el Monarca del hielo.
+  - Fue una emboscada a Jin-Woo: Mau cree que se llevó al único Monarca a la nada y se encuentra con que ahora pelea contra todos. Mauri cree que son siete más el de las sombras.
+
+### Notas de Claude
+
+- **Cuántos son:** en *Solo Leveling* los Monarcas son nueve contando a Ashborn: Sombras (Ashborn), Destrucción (Antares), Hielo, Bestias, Plagas, Cuerpo de Hierro, Transfiguración, del Principio y Llamas Blancas. Sin Ashborn, son ocho. Si el de la ciudad es uno, Mau y Jin-Woo se encuentran con los otros siete. Así cuadra el «siete» de Mauri: siete más el que trae Mau.
+- **Jin-Woo solo contra siete:** su poder de fuente sigue limitado (kit). Puede aguantar y dar muy buena pelea unos minutos, no ganarles solo. Por eso llega Mau.
+- **La revisión con Shoko:** que Yuka sepa y acepte, para no romper que Mau ya no le oculta nada.

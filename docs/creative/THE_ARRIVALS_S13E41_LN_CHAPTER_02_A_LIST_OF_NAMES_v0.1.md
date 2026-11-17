@@ -101,17 +101,17 @@ She doesn't announce them. She just puts them on the list, quietly, in the place
 
 “It's *our* list,” Ciel says, very primly. “You both started it. I can't be expected to listen to the two of you arguing about whether Sora is too much like Shiro all morning without contributing.” ᶜ
 
-Mau laughs out loud, alone on the porch steps. Ori, passing with the Pillow, looks at him strangely.
+Mau laughs out loud on the porch steps. Yuka, dozing with her head in his lap, opens one eye, decides it isn't worth asking, and closes it again. Ori, passing with the Pillow, looks at him strangely.
 
 * * *
 
 Makima finds him in the late afternoon.
 
-She doesn't come close. She never comes close any more without asking; that's part of what Yuka set, and part of what she's chosen to keep on her own. She stops at the bottom of the porch steps where he's sitting and stands with her hands folded.
+She doesn't come close. She never comes close any more without asking; that's part of what Yuka set, and part of what she's chosen to keep on her own. She stops at the bottom of the porch steps where he's sitting with Yuka asleep across his lap, and stands with her hands folded, and looks at Yuka before she looks at him.
 
 “May I?” she asks, looking at the step. ᴹᵏ
 
-He nods. She sits on the bottom step, two steps below him, and doesn't look at him.
+He nods, carefully, so as not to wake Yuka. Makima sits on the bottom step, two steps below them, as far from Yuka's feet as the step allows, and doesn't look at either of them.
 
 They sit there a while.
 

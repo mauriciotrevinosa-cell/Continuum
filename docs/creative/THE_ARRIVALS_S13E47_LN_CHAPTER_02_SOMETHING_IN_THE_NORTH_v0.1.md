@@ -81,9 +81,9 @@ Makima looks at him. Something happens at the corner of her mouth.
 
 Hae-In comes up the orchard path in the evening with a basket.
 
-She's brought bread. Jin-Woo's mother made it, for the trip. She gives it to Yuka on the porch and stays for a while, sitting on the step beside her while Mau is inside, and they talk about the city and the gardens and whether Elmesia's hotel will have enough rooms for *everyone*.
+She's brought bread. Jin-Woo's mother made it, for the trip. She gives it to Yuka on the porch, where Yuka is sitting in Mau's lap with a list of gardens from Elmesia's map, and stays for a while on the step below them, and they talk about the city and the gardens and whether Elmesia's hotel will have enough rooms for *everyone*.
 
-Mau hears the end of it through the window.
+It's near the end, when the light is going, that Hae-In says it.
 
 “He's been having them again,” Hae-In says. Quietly. Not quite to Yuka. ᴴᶦ
 

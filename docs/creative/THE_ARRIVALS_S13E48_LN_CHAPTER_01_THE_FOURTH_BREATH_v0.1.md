@@ -5,29 +5,37 @@
 **Volume:** 79
 **Reading order:** 17
 **Source episode:** S13E48
-**Continuity state:** B+348, night. Yuka's point of view. Mau has spent the evening with the eyes at full, searching the north for the faintest sign of what Jin-Woo described, and comes to bed exhausted. Yuka, twice as clingy as before, remembers the day of the red gate, when he let go, and does it again on purpose: climbs onto him, takes his head and draws it against her chest. He lets go, the same way. Just before he falls asleep an "I love you" slips out of him. She goes red, holds him tighter, and hears a snore. Closeness, no intimate scene (five days out of the low days; she's only just getting her strength back).
+**Continuity state:** B+348, night. Yuka's point of view. Mau spends the evening on the roof with the eyes at full, searching the north for the faintest sign of what Jin-Woo described, with Yuka wrapped in the blanket between his knees the whole time; at midnight she makes him stop and gets him down. Yuka, twice as clingy as before, remembers the day of the red gate, when he let go, and does it again on purpose: climbs onto him, takes his head and draws it against her chest. He lets go, the same way. Just before he falls asleep an "I love you" slips out of him. She goes red, holds him tighter, and hears a snore. Closeness, no intimate scene (five days out of the low days; she's only just getting her strength back).
 
 *When: The night before they leave in two directions. The packed inventory is ready. The four blue things have been reduced to one.*
 
-He comes to bed very late.
+She makes him come down at midnight.
 
-She hears him on the stairs. Slow. Heavy. Not his usual tread, which is light for someone his size, almost silent, the way he learned to walk in places where sound got you killed. Tonight he's walking like someone carrying something up the stairs, and when he opens the door she sees that he isn't carrying anything at all.
+They've been on the roof since supper. Both of them. He said he wanted to look north, and she said *then I'm coming*, and went and got the good blanket, and he didn't argue. So for five hours he's sat on the flat part of the roof above their room with his back against the chimney and his eyes open all the way, and she's sat between his knees with her back against his chest and the blanket round both of them, watching his hands.
 
-It's his eyes.
+She couldn't see what he was seeing. She never can. She could only feel it: the stillness in him, total, the way he goes still in a fight, and every so often a small hitch in his breathing when he'd reached for something far away and found nothing. His heart under her shoulder blades, steady and a little too fast. His chin resting on top of her head. Once, around ten, his arms tightening round her for no reason, and then loosening.
 
-He's been on the roof since supper. She knows; she watched him go up. He told her he wanted to look north. He didn't tell her how long he'd be looking, and she didn't ask, and now it's past midnight and he's standing in the doorway with his hand on the frame and his face grey with something that isn't the light.
+By midnight his hands had started to shake.
 
-“Did you find anything?” she asks. ʸ
+“Enough,” she said, and turned round in his arms and took his face in both hands and made him look at her instead of at the north. ʸ
 
-He shakes his head.
+He looked at her. His eyes were wet at the corners from being open so long, and the blue at their centres was too bright.
 
-“I looked as far as I could,” he says. “All of it. Everything Jin-Woo said. I had them open all the way. All evening.” ᴹ
+“Did you find anything?” she asked. ʸ
 
-He rubs his eyes with the heels of his hands.
+He shook his head.
 
-“There's nothing there,” he says. “Nothing I can see. Which means either there's nothing, or there's something good enough at hiding that I can't.” ᴹ
+“I looked as far as I could,” he said. “All of it. Everything Jin-Woo said.” ᴹ
 
-He doesn't say which he thinks it is. He doesn't have to.
+He closed his eyes. She felt him let the filter close, felt it in the way his whole body sagged against the chimney.
+
+“There's nothing there,” he said. “Nothing I can see. Which means either there's nothing, or there's something good enough at hiding that I can't.” ᴹ
+
+He didn't say which he thought it was. He didn't have to.
+
+She got him off the roof. She went first through the window and held her hands up, and he came down after her slowly, heavily, like someone carrying something, and she saw that he wasn't carrying anything at all.
+
+It was his eyes.
 
 * * *
 

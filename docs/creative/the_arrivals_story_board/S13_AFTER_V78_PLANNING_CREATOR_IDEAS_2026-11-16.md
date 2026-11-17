@@ -544,3 +544,35 @@ Unos 100–140 capítulos (la historia decide).
 - **Cuántos son:** en *Solo Leveling* los Monarcas son nueve contando a Ashborn: Sombras (Ashborn), Destrucción (Antares), Hielo, Bestias, Plagas, Cuerpo de Hierro, Transfiguración, del Principio y Llamas Blancas. Sin Ashborn, son ocho. Si el de la ciudad es uno, Mau y Jin-Woo se encuentran con los otros siete. Así cuadra el «siete» de Mauri: siete más el que trae Mau.
 - **Jin-Woo solo contra siete:** su poder de fuente sigue limitado (kit). Puede aguantar y dar muy buena pelea unos minutos, no ganarles solo. Por eso llega Mau.
 - **La revisión con Shoko:** que Yuka sepa y acepte, para no romper que Mau ya no le oculta nada.
+
+
+## Novena ronda: la revisión de Yuka, el ritmo de la emboscada y el error del Monarca del hielo
+
+### Palabras de Mauri
+
+> (sobre «ha visto cambiar a la gente») y por lo que el mismo ah hecho aunque haya sido un trial
+>
+> si solo ver si shoko sabe sino puede ser que yuka este en la cama y saque lo del cancer y mau le dice que puede traer a shoko y yuka se niega y dice que si el puede ir y yuka le dice que no quiere que se vaya pero quiere saber si eso es una oportunidad entonces le dice yuka que esta bien pero que se apresure y que la convo entre shoko y mau sea chica aqui metemos todo lo de mau preocupado diciendole que esto tarda tiempo y pregunta sobre el cancer y shoko le dice la verdad y mau pregunta si pudiera ver que stoy buscando y shoko le explica y le pide pemriso a yuka
+>
+> (sobre «no es un premio gratis») de acuerdo pero digo gratos? los tuvo que mandar al lobby primero peor si me gusta este plan
+>
+> si osea mau necesita 9 breathes para que se refresque y tal ves se tarda un poco mas pero en si fue un o dos minutos en lo de la emboscada mau saliendo la mini platica el corte y de ahi sacarlo y el exchange y tu mismo lo dijiste y me gustaria que el edge y hace que antares solo le haga mini pelea pq ellos iban por jin woo que no estaba a su peak mau es otra variable y que rime salga y luego mate a uno y lo levante ni ashborn podia esto hace que los que no huyeron al inicio comiencen a huir excepto el de hielo por su ego y ese fue su error
+
+### Dirección
+
+- **Mau y Makima:** no juzga porque ha visto cambiar a la gente, y por lo que él mismo ha hecho, aunque haya sido en un Trial.
+- **La revisión de Yuka:**
+  - Yuka, en la cama, saca lo del cáncer. Mau le dice que puede traer a Shoko. Ella se niega y le pide que vaya él: no quiere que se vaya, pero quiere saber si eso es una oportunidad. Le dice que está bien, pero que se apure.
+  - La plática de Mau con Shoko es corta y lleva toda la preocupación de Mau. Shoko le dice que esto toma tiempo. Mau pregunta por el cáncer y Shoko le dice la verdad.
+  - Mau pregunta si podría ver lo que está buscando. Shoko le explica cómo, y **le pide permiso a Yuka**.
+- **El Arise no es gratis:** primero tuvo que matarlos («mandarlos al lobby»), y además la sombra sale débil porque la extracción nunca se probó.
+- **Ritmo:**
+  - En la ciudad, nueve respiraciones, quizá un poco más.
+  - La emboscada dura uno o dos minutos: Mau sale, la mini plática, el corte, se lo lleva al cielo, el Exchange.
+- **Antares** sólo pelea poquito: venían por Jin-Woo, que no está en su mejor momento, y Mau es una variable que no esperaban.
+- **El orden del final:**
+  1. Sale Rime.
+  2. Mau mata a uno y lo levanta. Ni Ashborn podía eso.
+  3. Los que no huyeron al principio empiezan a huir.
+  4. Excepto el Monarca del hielo, que se queda por ego. Ese fue su error: es la segunda muerte.
+- **Nota de Claude:** si el del hielo muere y Mau lo levanta, tendría en la sombra a la vez a Rime, la copia falsa de S8, y al Monarca del hielo original, débil por la extracción sin probar. Encuentro de copia y original para más adelante.

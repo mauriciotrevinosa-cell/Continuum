@@ -121,3 +121,25 @@ Work se quedó sin créditos; Mauri y Claude planean lo que viene. **Nada de est
 6. Jujutsu, después de la isla o del primer mini Culling Game.
 
 **Pendiente de Mauri:** quién es el otro simuriano que ya conocen y cómo es lo de Yuka con Cross; qué es el contrato de Yuka (o pedir opciones a Claude).
+
+
+## Cuarta ronda, mismo día: más espacio antes de los Monarcas
+
+### Palabras de Mauri
+
+> y no es una proteccion en ellos es una barrera alrededor de la casa que si vas con intencion de hacer damage o algo lee que es bien porfa  y deja y leo oto
+
+> mmm la verdad no me encanta ahorita te doy mis observaciones pq primero checa como los otros arcos funcionan osea los que tu no escribiste y que hizo work checa comments y todo 35 caps se me hace poco pq estas comprimiendo todo o estas haciendo que todo susceda rapidamente y no digo que hagas timeskips pero puedes ahi meter slcie of life de mau y yuka y yo se pero si las fechas les dan puede ser que yuka revisa si le bajo y si le bajo significando que no tienen un chico y puede caer no en depresion pero en un periodo depresivo y mau la sostiene la escucha la abraza la fuerza a salir de la cama y asi como una persona normal y mau se preocupa y habla con shoko y shoko le explica que esto es normal y mas si estaba ilusionada y puede durar asi unos dias y mira ya saque mas slice of life y puede ser que la shoko habla con anko sobre ir anko le reclama a mau en la cena y ahora todos quieren ir y asi ves como le dimos mas historia y ya agregue sin pedo alguno uno 4 caps
+
+### Dirección
+
+- El primer plan de Claude (unos 35 capítulos) comprimía todo. No hay saltos de tiempo, pero sí más días de Mau y Yuka con la casa antes de que arranque la pelea.
+- **El periodo de Yuka:** si las fechas lo permiten, Yuka revisa si le bajó. Si le baja, significa que no hay bebé, y puede caer, no en depresión, pero sí en un periodo depresivo.
+  - Mau la sostiene, la escucha, la abraza y la obliga a salir de la cama, como una persona normal.
+  - Mau se preocupa y habla con Shoko. Shoko le explica que es normal, más si estaba ilusionada, y que puede durar unos días.
+- **La isla se contagia:** Shoko habla con Anko sobre ir, Anko le reclama a Mau en la cena, y ahora todos quieren ir.
+
+### Lo que Claude encontró al revisar los arcos de Work
+
+- **Ritmo:** S12 son 65 capítulos para unos 55 días (B218–B273), casi un capítulo por día. V73–V74 dan a cada día una historia pequeña de alguien de la casa (Shuna y su tejido, Shion contra Yuka, Ramiris y Beretta, Rem y Umaru, Satella), mientras el hilo grande (Makima, los formularios, Reze) avanza por debajo. El día del almacén (B265) ocupa ocho capítulos.
+- **Fechas del ciclo:** Yuka tuvo el periodo poco antes del viaje a la isla (V77 #5, B+292; V77 #9 lo cuenta). V78 termina en B+330 sin mencionar el siguiente. Si el ciclo ronda los 28 días, en B+331 lleva cerca de dos semanas de retraso: da para «se retrasa, nace la ilusión, llega». Ya hubo un «esta vez no» en V74 #9–10 (B263–264); esta segunda vez pesa más por la playa de V77 #13 y por lo que hablaron con Maki y Yuta en V77 #22–23.

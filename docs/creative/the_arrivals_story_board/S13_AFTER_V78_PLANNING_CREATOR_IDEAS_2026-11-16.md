@@ -592,3 +592,12 @@ Unos 100–140 capítulos (la historia decide).
 
 Los corchetes de beso van aparte, en cualquier momento que la escena lo pida.
 
+## Lo que cambió en V78 después de la revisión de Mauri y Work (leer antes de escribir V79)
+
+Claude planeó sin releer la versión final de V78. La revisión cambió hechos que afectan el plan:
+
+- **El Pillow murió de viejo y Mau lo levantó** con su consentimiento (V78, «Even If I Do Nothing», B+325). Ahora vive en la sombra de Mau y se echa junto a la chimenea de la sala con Ori. Es una sombra nueva.
+- **La gate de la cantera se cerró para siempre.** La gate semanal de la casa, con el ajuste de Yuka, es otra.
+- **El registro de cierre dice que el Arquitecto está vivo, bajo custodia de los Rulers, y que los Rulers administran la instancia.** Mau sospecha que la cantera fue su primera prueba con el sistema incautado. Esto amarra directo con la gate de los Rulers del arco 3: no es una idea nueva, ya está sembrada.
+- **Antes de escribir V79:** releer completa la versión final de V78 (Work y Mauri la ajustaron; hay capítulos nuevos y otros reescritos) y actualizar el kit con lo que haya cambiado (la sombra del Pillow, el conteo de vínculos).
+

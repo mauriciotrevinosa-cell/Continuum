@@ -35,7 +35,17 @@ He doesn't say anything for a long time. He just looks.
 
 “I brought it,” she says, “so that when you saw the city for the first time, there'd be one thing in it you could see properly.” ʸ
 
-> **[PARA WORK: cercanía, no escena íntima** (él sigue con el brazo roto y la quemadura; Mauri pide que el momento se quede en el vestido y la primera vez que él ve el azul). Si quieres, un beso cuando ella se sienta en la orilla de la cama y él le toca la tela. **Sin límite de palabras; no comprimas.]**
+She sits carefully on the edge of the bed, on his good side, and takes the hand he can still move. He reaches out with his thumb and feels the fold of the dress against her knee, watching the colour change as the fabric shifts under the morning light.
+
+“It's different when you move,” he says. ᴹ
+
+“Most dresses are.” ʸ
+
+“I mean the blue.” ᴹ
+
+“I know what you mean.” ʸ
+
+She bends to kiss him, gently enough not to jostle his splint. Afterward he keeps her hand in his and studies the blue a little longer. For once she doesn't tease him for staring.
 
 * * *
 

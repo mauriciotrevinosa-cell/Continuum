@@ -19,7 +19,7 @@
 
 From the earlier plan (still standing):
 - Unanimous agreement not to bother the lovebirds, enforced by Yuka's threat to tell Elmesia (V80 #30).
-- A room that's similar to the last one but better, because Mau saved her city. **Not revealed in V80:** Chat removed it from #30 (commit 018f7e36) to keep the mystery; it can be revealed when they arrive.
+- A room that's similar to the last one but better, because Mau saved her city. **Not revealed in V80:** removed from #30 at Mauri's request (commit 018f7e36), to polish it and reveal it when they arrive.
 - Explore.
 - Each group returns at a different time:
   - Hinata, because Luminous gets word that something is happening. Mau offers to go; Yuka says no; Hinata and Luminous say "you heard her". Luminous asks for a shadow; Hinata reminds her of the one she already has.
@@ -94,4 +94,23 @@ Mauri has the final word on the list.
 
 ## Mauri's answers
 
-(pending)
+> si lo que quite se lo pedi yo pq creo que lo podemos pulir me gusta lo que propones pero separas mucho vamos a planearlo con calma te di varias ideas
+
+- He asked for the room removal from #30 himself, so they can polish it.
+- He likes the proposals, but **they separate the cast too much.** Don't break the island into isolated groups with their own scenes. The house is together, with Mau and Yuka at the centre and everyone around them, the way it was on the previous trips.
+- Plan it calmly, starting from his ideas.
+
+### Skeleton v2 (Claude, after the adjustment; to discuss)
+
+The island is lived **as one house.** The others' moments happen around Mau and Yuka, at the same table, on the same beach, not in separate chapters. The "do not bother us" days are spaced between the shared ones, and Mau and Yuka still come to meals.
+
+1. **Arrival.** Everyone together. Elmesia. The room, polished.
+2. **First night: the family dinner.** Everyone tells their adventures and plans (Mauri). Later, the bracket for Work in the room.
+3. **Beach day, everyone.** Ori in the sea with Frieren, Mau, Yuka, Fern, Stark and Himmel (Mauri). Around them, the rest of the house: Anko and the turtle, Gojo, Hinata, Shoko under the umbrella.
+4. **Carajillo night.** Shoko gets Mau, Gojo and Anko drunk (Mauri; Gojo and Anko go down at two, canon).
+5. **The rest:**
+   - Exploring together.
+   - The undersea city.
+   - The staggered returns as interruptions to the shared days.
+   - Mau and Yuka's days alone, spaced out.
+

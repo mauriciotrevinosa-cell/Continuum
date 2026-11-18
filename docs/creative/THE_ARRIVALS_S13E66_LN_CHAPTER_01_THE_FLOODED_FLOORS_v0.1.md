@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 19
 **Source episode:** S13E66
-**Continuity state:** Inside the Rulers' trial, day seven. The great stair ends in water: a drowned level, waist-deep on Mau, chest-deep on Yuka, cold, with things moving under the surface that the eyes read as lethal to her. Mau carries her on his back the whole level; she keeps her arms round his neck and fights from there. Her dogs can't swim it and stay in her shadow. For the first time she uses his Shrine through the contract, small careful lines into the water, and it goes wrong once (too wide, it cuts a pillar) and right after that. Kamish lies flat on the surface as a raft for the bags; Beru wades ahead. Nothing gets past to her. The hip cut gets wet and stings; he says so. At the far side they climb onto dry stone soaked and shaking and laughing, and Mau buys dry clothes for both of them, in the right size this time. No intimate scene inside the gate.
+**Continuity state:** Inside the Rulers' trial, day seven. The great stair ends in water: a drowned level, waist-deep on Mau, chest-deep on Yuka, cold, with things moving under the surface that the eyes read as lethal to her. Mau carries her on his back the whole level; she keeps her arms round his neck and fights from there. Her dogs can't swim it and stay in her shadow. Yuka uses Mau's already-familiar Shrine through the contract, but the submerged angles make a line extend too far and cut a pillar; they recalibrate it together instead of pretending she is learning Shrine for the first time. Kamish lies flat on the surface as a raft for the bags; Beru wades ahead. Nothing gets past to her. The hip cut gets wet and stings; he says so. At the far side they climb onto dry stone soaked and shaking and laughing, and Mau buys dry clothes for both of them, in the right size this time. No intimate scene inside the gate.
 
 *When: Inside the trial, day seven. Outside, still B+370, late morning; Rimuru and Shizue have reached the orchard, and Rimuru has asked Ciel, through the link, whether Mau can hear him. He can't.*
 
@@ -65,11 +65,11 @@ She looks at him for a long moment.
 
 He hesitates. Just for a second. She sees it.
 
-“You've never let me use Shrine,” she says. ʸ
+“We've practised Shrine,” she says. “You always make me stop the line before it gets away from me.” ʸ
 
-“You've never asked.” ᴹ
+“Because it doesn't stop itself.” ᴹ
 
-“I'm asking.” ʸ
+“Then I'll stop it. The water's different, but I know the technique.” ʸ
 
 He turns round and crouches on the step with his back to her.
 
@@ -135,7 +135,7 @@ And he feels her reach for Shrine.
 
 It goes wrong.
 
-He feels it go wrong as she does it. Shrine isn't like Blue. Blue is a pull, a fist closing; you aim it and let it go. Shrine is an edge. You have to know how *long* you want it, and how *wide*, and where it *stops*, and she's never used it, and she's frightened, and she makes it too long.
+He feels the line go wrong as she releases it. Yuka knows Shrine. On dry ground she can see a target, choose a length and cut where she intends. Here the thing is under opaque water, the floor is below them somewhere she cannot judge, and the pillar beyond the target rises out of the same grey surface. From Mau's back she's aiming downward past his shoulder, with no ordinary horizon. She estimates the end of the line too far away. The cursed-energy cost reaches him as it always has; the mistake is one of geometry, not a technique she's never learned.
 
 The line goes out from her hand across the water. It takes the long flat thing in half. And then it keeps going, wide and hungry, and it takes the pillar behind it too, clean through, a little above the surface.
 
@@ -187,7 +187,7 @@ She hesitates. Six steps, past Beru. If she gets it wrong—
 
 She doesn't get it wrong.
 
-He feels her get better. Line by line, number by number, the way he felt her get better with Blue on the first floor. Not good. *Better*. Each one a little cleaner, a little more hers. By the twentieth, Ciel has stopped giving her numbers, and she's giving them to herself, under her breath, in his ear.
+He feels her recalibrate. Line by line, number by number, she learns to use the submerged steps rather than what the surface seems to show. This isn't learning to cast Shrine; it's adjusting a familiar edge to an unfamiliar depth and a very bad angle. Mau pays for the cuts and calls out when she reaches farther than they need. By the twentieth, Ciel has stopped giving her numbers because she's giving them to herself, under her breath, in his ear.
 
 “Three. Five. *Two*—” ʸ
 
@@ -207,9 +207,13 @@ Halfway across, she puts her chin on his shoulder.
 
 “Yeah.” ᴹ
 
-“This is your Shrine.” ʸ
+“It's strange,” she says. “Using your Shrine from here.” ʸ
 
-“Yes.” ᴹ
+“From my back?” ᴹ
+
+“In the water. When I can't see where the line ends.” ʸ
+
+He hears her swallow.
 
 “The one that—” She stops. ʸ
 
@@ -217,9 +221,9 @@ He knows what she's going to say. The duel. The quarry. The cuts he took and the
 
 “The one from Sukuna,” he says. ᴹ
 
-“I'm using it.” ʸ
+“I know what it is. I've used it before. I don't forget where it came from.” ʸ
 
-“You're using it.” ᴹ
+“Neither do I.” ᴹ
 
 She's quiet for a while.
 

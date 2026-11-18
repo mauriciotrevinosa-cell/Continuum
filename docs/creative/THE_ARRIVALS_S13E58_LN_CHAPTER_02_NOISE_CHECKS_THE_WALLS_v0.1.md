@@ -207,4 +207,40 @@ She thinks about that.
 
 “Good for Noise,” she says, and puts her head back down. ʸ
 
-> **[PARA WORK: cercanía, no escena íntima** (él sigue con el brazo entablillado; Mauri las guarda para después de que sane). Si quieres, un beso perezoso cuando por fin dejan de reírse, con ella encima de su lado bueno. **Sin límite de palabras; no comprimas.]**
+Yuka shifts higher against his good shoulder, careful to keep her weight off the splint and the side Shoko is still dressing. She cups his face in both hands as if she is about to ask a serious question.
+
+“Are you sure you're not going to go check the walls too?” she says. ʸ
+
+“I think Noise has that covered.” ᴹ
+
+“All of them?”
+
+“Every single one.”
+
+She makes a heroic attempt to remain solemn. It lasts about two seconds.
+
+He kisses the corner of her mouth before the laughter starts again, and she catches him by the collar with a quiet, indignant sound.
+
+“That was supposed to be my joke,” she says. ʸ
+
+“Your jokes take too long.”
+
+“Your jokes aren't even jokes.”
+
+“That's why I borrow yours.” ᴹ
+
+She settles back down, warm against him, still smiling. He adjusts the blanket over her feet with his good hand. The afternoon is grey beyond the windows, and he can't do anything about the ache in his side, but it is the kind of afternoon he wouldn't trade: her breathing slowing against his chest, the last of their laughter leaving the room a little at a time.
+
+After a while Yuka speaks without lifting her head.
+
+“I like hearing you laugh like that,” she says. ʸ
+
+“Like what?”
+
+“Like you forgot to be careful.”
+
+He thinks about that. Then he rests his cheek against her hair.
+
+“I'm trying,” he says. ᴹ
+
+“I know,” she answers, and stays right where she is. ʸ

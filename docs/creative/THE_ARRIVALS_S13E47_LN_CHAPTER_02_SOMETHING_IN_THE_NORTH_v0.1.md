@@ -41,17 +41,17 @@ He doesn't understand the point. He holds out his hands for the next thing.
 
 Inside him, very far away, DIO is bouncing again. She's been bouncing for two days, ever since the bird came back with Elmesia's second letter, the one that said *three days* and drew a little map. He can feel it the way you feel a child kicking the back of your seat on a long drive. Constant. Delighted. Mildly exhausting.
 
-“She wants to know if she should bring a hat,” Ciel reports. ᶜ
+“Should I bring a hat?” DIO asks him, from inside. ᴰ
 
-“Who?” ᴹ
+“For Thalion?” ᴹ
 
-“DIO.” ᶜ
+“For the sun. The letter said gardens. Gardens have sun.” ᴰ
 
-“She doesn't need a hat. She doesn't have a head.” ᴹ
+“Then bring a hat.” ᴹ
 
-“She says she's building one for the trip.” ᶜ
+“I don't have one,” says DIO. “I'm going to make one. For the trip.” ᴰ
 
-He decides not to think about that.
+He decides not to ask how.
 
 * * *
 
@@ -261,9 +261,9 @@ Makima stays with him. She has to. She can't be far from him.
 
 “DIO goes with me,” Yuka agrees. “She'll protect me.” ʸ
 
-“DIO doesn't have a body.” ᴹ
+“With a hat,” he says. ᴹ
 
-“She's building a hat,” Yuka says. “That's practically a body.” ʸ
+“With a very good hat,” Yuka says. “She's been making it for two days. She showed me. It's lopsided.” ʸ
 
 He laughs. He can't help it. She doesn't laugh, but she smiles, a little, and then the smile goes away and she just looks at him.
 

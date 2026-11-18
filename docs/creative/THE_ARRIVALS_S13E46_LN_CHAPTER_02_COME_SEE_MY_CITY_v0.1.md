@@ -81,13 +81,17 @@ Something is happening in Yuka's face. Something bright and a little bit stunned
 
 “*One more thing*,” Yuka reads. “*DIO. Would she come? I understand that she can pass through your protection, Mau, and that she prefers to stay near you. I would very much like her to see my city too. We have had many conversations about building things. I would like to show her something I built.*” ʸ
 
-He doesn't have to answer that. He can feel it already, through the place in him where DIO's attention lives: a sudden bright wash of excitement, like a child who's been told about a trip to the sea.
+He doesn't have to answer that.
+
+“*Yes*,” says DIO, inside him, so loudly that he winces. “Yes. Yes. Tell her yes. Tell her I want to see what she built.” ᴰ
 
 “She wants to come,” he says. ᴹ
 
 “How do you know?” ʸ
 
-“She's—” He searches for the word. “She's *bouncing*.” ᴹ
+“She just said yes,” he says. “Four times. And she's—” He searches for the word. ᴹ
+
+“She's *bouncing*.” ᴹ
 
 Yuka looks at him. Then she laughs, and puts her face in his shoulder.
 

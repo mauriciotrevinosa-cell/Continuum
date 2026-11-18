@@ -25,7 +25,7 @@ Kaisel blinks at her, very slowly.
 
 DIO has made a hat.
 
-Mau doesn't know how. DIO doesn't have hands; DIO doesn't have a head, not the way people do. But DIO has the shelter, the small solid place in the world she uses when she wants to be somewhere, and this morning, standing beside Yuka in the yard, the shape DIO wears when she goes out has something on top of it that is unmistakably a hat. It's wide-brimmed and slightly lopsided and there is a sea-glass pin stuck in the band.
+She comes out of him in the yard this morning in her own body and stands beside Yuka wearing it. It's wide-brimmed and slightly lopsided and there is a sea-glass pin stuck in the band.
 
 Yuka looks at it.
 
@@ -35,7 +35,7 @@ Yuka looks at it.
 
 “It's lovely,” Yuka says, with total sincerity. ʸ
 
-DIO glows a little. Mau can feel it through the place in him where DIO's attention lives: a bright wash of pleasure, like a child who's been told her drawing is good.
+DIO beams, the way a child beams when she's been told her drawing is good.
 
 He doesn't say anything about the hat. He's learned.
 

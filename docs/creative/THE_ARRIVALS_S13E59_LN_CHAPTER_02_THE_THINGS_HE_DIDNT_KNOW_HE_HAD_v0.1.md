@@ -383,7 +383,187 @@ She knows it too. He watches her know it. Watches her go pink, slowly, from her 
 
 “You,” she says. ʸ
 
-> **[PARA WORK: primera escena íntima de este tramo, aquí.** Es el espejo de V78 #1: esa noche Mau no podía dejar de mirarla y ella le preguntó qué veía; esta vez es Yuka la que lo mira a él desde la cama, él la cacha, le pregunta con la misma frase, y ella contesta «You». Vienen de un día entero de molestarse (el «¿qué más se te olvidó?», el «I'm going to divorce you» / «It's in my notebook. *Forever*.», la montaña de envolturas), así que nace de andar juguetones y cómodos, como pide Mauri. Él ya está sano: el brazo nuevo con la cicatriz larga que ella ha estado recorriendo todo el día como un camino, y la piel nueva del costado que le jala si levanta los brazos; dejar que eso aparezca en la escena con cuidado. Que ella sea la que lleva la iniciativa al principio, como fue él en V78. **Sin límite de palabras; no comprimas.]**
+She says it as if it is the most obvious answer in the world.
+
+*You.*
+
+For a moment he stays where he is, one hand still on the wardrobe door. He can remember the night she's thinking of. This same room, this same place beside the wardrobe, and Yuka asking why he was staring at her after the island. He'd been unable to answer quickly enough because there had been too many answers, all true.
+
+Now it's his turn to wait.
+
+“You could have said the hat,” he tells her. ᴹ
+
+“Which hat?”
+
+“Beru's second one. It was an impressive hat.”
+
+“Beru doesn't keep the hat in our bedroom.” ʸ
+
+“Not yet.”
+
+She laughs, and then tips her head a little, studying him again.
+
+“What?” he asks. ᴹ
+
+“Come here.”
+
+“I'm right here.”
+
+“That's not here.” ʸ
+
+She holds out both hands. He shuts the wardrobe door and crosses the room. The new skin at his left side catches when he bends to take her hands, so she moves first, sliding forward until she's sitting on the edge of the mattress with her bare feet resting on the floor. He has to stand close to keep their fingers linked.
+
+Yuka studies the line down his arm. She knows where it begins and ends. She's spent the day finding it whenever he reaches across the table or passes her another sweet.
+
+“Shoko said you can use it again,” she says. ʸ
+
+“She said I could stop treating it like a stick.”
+
+“That's not the same thing.”
+
+“No.” ᴹ
+
+She turns his left hand palm up. His grip is still weaker than he likes. She folds her fingers into it anyway, gently enough that he isn't tempted to prove anything, then guides the hand to her cheek.
+
+“There,” she says. “You can do that.” ʸ
+
+He strokes his thumb across her cheek. She leans into it without taking her eyes from him.
+
+“Your face was funny when I caught you looking at me,” she says. ʸ
+
+“Yours is doing something similar.”
+
+“Good.”
+
+“You knew I could see you looking.”
+
+“I was hoping you would.” ʸ
+
+He thinks about all the things she could have asked him today. The sealed inventory, the castle pieces, the old system and the numbers he apparently left unread for months. There would have been answers for each of them. Instead she's asked him to cross their bedroom because she wanted to look at him from closer up.
+
+He bends and kisses her.
+
+She catches his shirtless shoulder with one hand, then stops herself and checks his face.
+
+“Side?” she asks. ʸ
+
+“Only when I turn too far.”
+
+“Then don't turn too far.”
+
+“You were the one who asked me to come here.” ᴹ
+
+“And I'm the one telling you how to stay.”
+
+She shifts her feet, giving him room between her knees without making him twist his left side, then takes his face in both hands. This kiss lasts longer. When they part, she rests her forehead against his and breathes out through a small, pleased smile.
+
+“That was better,” she says. ʸ
+
+“Than what?”
+
+“Than standing by the wardrobe looking confused.”
+
+“I wasn't confused.”
+
+“You were very confused.”
+
+He starts to answer, but she kisses him again before he can. The mattress dips as she draws him down to sit next to her; he places his left hand on the coverlet to steady himself. The old instinct is to catch his weight with that arm as he always did. He pauses when the muscles protest. Yuka pauses too.
+
+“We can move the pillow,” she says. ʸ
+
+“It's all right.”
+
+“Mau.”
+
+He looks at her.
+
+“It pulls,” he admits. “Not badly. I keep forgetting which movements do it.” ᴹ
+
+“Then tell me when you remember.”
+
+She reaches behind the pillows and pulls a firm one free. He lets her tuck it beside him, and they sit back against the headboard together. He is about to thank her when she takes his hand again.
+
+“You let me tell you when I was hurt,” she says. “Even when I couldn't say much else. You don't have to pretend you never get hurt just because we're having a good night.” ʸ
+
+“I know.”
+
+“Do you?”
+
+He takes a moment before answering.
+
+“I'm learning.” ᴹ
+
+“Good.”
+
+She climbs across the coverlet and settles beside him, her shoulder under his right arm. He draws the blanket over them both. The little movement sends a familiar ache along his left side, and this time he tells her before she asks.
+
+“Just there,” he says. ᴹ
+
+She adjusts the pillow one more inch. The ache eases.
+
+“Better?”
+
+“Better.”
+
+“See? The notebook works.” ʸ
+
+He laughs.
+
+“That's not what notebooks do.”
+
+“Mine does. Mine knows everything you forget.”
+
+“That's a dangerous book.”
+
+“Extremely.” ʸ
+
+She's smiling, but her fingertips have found the line on his forearm again. They travel slowly from wrist toward elbow, stopping when she reaches the place where the break had been worst.
+
+“I was afraid,” she says. ʸ
+
+He doesn't ask what she means.
+
+“When Shoko took the splint away,” Yuka continues, “I was so happy you could move your arm that I didn't want to say it. I was still afraid of touching it wrong.” ʸ
+
+He takes her hand and turns it over against his palm.
+
+“Touch it,” he says. ᴹ
+
+She looks up.
+
+“I'm not made of glass.”
+
+“I know,” she says. “Glass would have given up before the north.” ʸ
+
+“That isn't reassuring.”
+
+“It's not supposed to be. It's true.”
+
+She presses a kiss to the inside of his wrist, just below the scar, then lets her cheek rest against his shoulder. He holds her with his good arm, close enough that her breath warms the place beneath his chin.
+
+“Can I ask you the question again?” he says after a while. ᴹ
+
+“Which question?”
+
+“What are you looking at?”
+
+She lifts her face. Pink rises along her cheeks—the only colour he can see in the room.
+
+“You,” she answers again. ʸ
+
+This time he doesn't look for a clever reply. He brings his forehead to hers and stays there until she leans in and kisses him. The house keeps making its familiar small noises beyond the door, but neither of them listens for anything in particular.
+
+At last Yuka moves back just enough to see his eyes.
+
+“Forever?” she asks, very softly. ʸ
+
+“Forever,” he says. ᴹ
+
+She nods as though confirming a fact in her notebook, then settles against him and pulls his hand into both of hers. He can feel her smiling.
+
+The lamp stays on while they talk. They find things to laugh about that neither of them would put in the notebook. And when she asks him to stop thinking about the level page for one night, he agrees without bargaining for a later hour.
+
+He is still awake when she drifts off against his chest. There is no door to watch. There is only the weight of her hand over the line on his arm, and the knowledge that she chose to put it there.
 
 * * *
 

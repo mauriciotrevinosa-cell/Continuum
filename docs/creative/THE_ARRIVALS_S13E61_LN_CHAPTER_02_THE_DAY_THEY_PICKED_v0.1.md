@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 10
 **Source episode:** S13E61
-**Continuity state:** B+365, evening and night. Mau walks into the dark common room and the whole house shouts. It's his birthday, the day the house picked for him back in S3; he had forgotten. Ori's painted banner. Shuna's shy bread was the cake. The Sungs, Makima at the edge, DIO bouncing, Gojo's speech cut short by Shoko. Elmesia's bird arrives with a letter: happy birthday, and her gift is waiting on the island. Frieren gives him one of her grimoires, and it visibly breaks her heart; Mau accepts it and asks her to keep it in her room so he can come read it there, and her ears go up. Umaru and Jin-Woo offer to help with the points (level 5 = old 500; the unspent points equal 300 old levels, from 2 to 5). He tells the house about level five; Yuka writes it down. At night, alone, Yuka gives him what she and Mai made in the locked workshop: his own enormous hat, to match hers, for the island. They're comfortable; she puts it on him; a kiss turns into a longer one. The birthday-night romance around the hat has been completed as a tender, non-graphic scene.
+**Continuity state:** B+365, evening and night. Mau walks into the dark common room and the whole house shouts. It's his birthday, the day the house picked for him back in S3; he had forgotten. Ori's painted banner. Shuna's shy bread was the cake. The Sungs, Makima at the edge, DIO bouncing, Gojo's speech cut short by Shoko. Elmesia's bird arrives with a letter: happy birthday, and her gift is waiting on the island. Frieren gives him one of her grimoires, and it visibly breaks her heart; Mau accepts it and asks her to keep it in her room so he can come read it there, and her ears go up. Umaru and Jin-Woo offer to help with the points (level 5 = old 500; the unspent points equal 300 old levels, from 2 to 5). He tells the house about level five; Yuka writes it down. At night, alone, Yuka gives him what she and Mai made in the locked workshop: his own enormous hat, to match hers, for the island. They're comfortable; she puts it on him; a kiss turns into a longer one. The birthday-night intimacy around the handmade hat is a mutual choice, with Mau's healing limits acknowledged; the encounter remains non-graphic.
 
 *When: B+365. Sunset. The house has been dark for exactly as long as it took Beru to walk Mau back from the orchard very, very slowly.*
 
@@ -641,11 +641,115 @@ They settle against the pillows, still talking in low voices while the last of t
 
 He looks at her, then at the hat.
 
-“That's a new rule?”
+“That's a new rule?” ᴹ
 
-“Birthday rule. We're done doing things tonight.” ʸ
+“Birthday rule. The hat can wait.” ʸ
 
 He leaves it there.
+
+Yuka watches him turn back toward her. There's a stray piece of ribbon on the coverlet, probably caught on her dress when she brought the hat upstairs. She catches it before it can slide away, winds it once around her finger and sets it on the bedside table.
+
+“You really like it?” she asks. ʸ
+
+“Yuka.”
+
+“Answer.”
+
+“I love it.” ᴹ
+
+She smiles and looks down at her hands. He's seen her be proud of things she's worked hard for before, but this is different. She wanted to make something he couldn't possibly need. He knows why it matters that she succeeded.
+
+He moves his left hand toward her. She takes it, and his fingers close a little more easily than they did when she first gave him the hat.
+
+“Come closer,” he says. ᴹ
+
+She looks up.
+
+“I've been close all evening.”
+
+“I know. More.” ᴹ
+
+The delight on her face is immediate. She moves across the blanket toward him, kneeling beside his right hip rather than leaning over the side that still pulls. He shifts farther against the headboard to make room. The old wood gives a quiet creak as they settle.
+
+“Like this?” she asks. ʸ
+
+He puts his hand against her cheek. She leans into it and waits.
+
+“That's good,” he says. ᴹ
+
+“Only good?”
+
+“Very good.”
+
+“You could do better.”
+
+He smiles, and she catches it before he can find a reply.
+
+Their next kiss is slower. The tip of her nose brushes his cheek; when she moves, the loose strand of hair by her ear catches against his fingers. He tucks it back. Her hand comes to rest at his shoulder, warm through the shirt, and stays there while she draws back to look at him.
+
+Downstairs somebody cheers. They both pause, listening for a name. Then a door shuts, and Beru's voice follows, stern enough to send them into another brief fit of laughter.
+
+“Your birthday party is going to be here until breakfast,” Yuka whispers. ʸ
+
+“Probably.”
+
+“Do you want to go back down?”
+
+“No.” ᴹ
+
+She studies him.
+
+“Good. I don't either.” ʸ
+
+She lets the smile fade, but doesn't move away.
+
+“I wanted this part too,” she says. “The party was for everyone. This is just for us.” ʸ
+
+He takes a moment to answer. There has been a great deal of noise today, much of it made on his behalf. Now that she says it, he realises he's been waiting to be alone with her as well, and he hadn't thought to tell her.
+
+“I want that,” he says. ᴹ
+
+She runs her thumb across his knuckles.
+
+“Your side?”
+
+“Pulls if I twist too far. Not if I stay like this.”
+
+“Your arm?”
+
+“Still weaker than I want, but it doesn't hurt when you hold it.” ᴹ
+
+“Then tell me if either of those changes.”
+
+“I will.”
+
+She brings her forehead against his. The blue fabric rustles as she shifts. He has been watching that colour since he first saw her in the dress, and now he's near enough to feel the soft fold at her shoulder move beneath his hand.
+
+“I want you tonight, Mau,” she says, quietly enough that the music downstairs almost covers the words. ʸ
+
+He looks at her. She doesn't turn her face away.
+
+“I want you too.” ᴹ
+
+“Even with this ridiculous hat on the floor?”
+
+“Especially with the hat on the floor.” ᴹ
+
+She laughs, then reaches for him again.
+
+They take their time settling farther back on the bed. Mau turns on his right side, testing the scar before he lets his weight rest against the pillow. Yuka slides the blanket clear of his elbow and draws the extra cushion closer in case he needs it. He catches her hand before she can start rearranging everything else.
+
+“I'm comfortable,” he says. ᴹ
+
+“Really?”
+
+“Really. Come here.” ᴹ
+
+She does. The mattress dips beneath her knee. He draws her toward him by the hand, feeling her fingers tighten around his when she moves the last inch on her own. The faint sound of the party remains below them, but it is no longer something they need to listen to.
+
+He kisses her, and she presses her cheek against his afterward, smiling. For the first time all day there is no one waiting to hand him something, ask for an answer or tell him what he's supposed to do next. He doesn't have to be useful. He only has to be here with her, and he wants to be.
+
+The rest of the night is theirs.
 
 * * *
 

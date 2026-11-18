@@ -40,6 +40,7 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 | 23 | S13E68 | Both Hands | `THE_ARRIVALS_S13E68_LN_CHAPTER_01_BOTH_HANDS_v0.1.md` |
 | 24 | S13E68 | The Last Night Above | `THE_ARRIVALS_S13E68_LN_CHAPTER_02_THE_LAST_NIGHT_ABOVE_v0.1.md` |
 | 25 | S13E69 | The Warden | `THE_ARRIVALS_S13E69_LN_CHAPTER_01_THE_WARDEN_v0.1.md` |
+| 26 | S13E69 | Eleven | `THE_ARRIVALS_S13E69_LN_CHAPTER_02_ELEVEN_v0.1.md` |
 
 ## Continuity locks and open decisions
 
@@ -77,3 +78,4 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 - #23 (Claude, day 9): rest day; with Yuka behind Infinity Mau fights with both hands for the first time in the gate and she sees how much he's been holding back ("it frightened me a bit, and I'm very glad it's ours"). Her dogs come back in the afternoon; she laughs. Armour doesn't stop the rule ("direct" is direct); light warded-hide jacket, middle. Noise: the knot is a day or two below.
 - #24 (Claude, night of day 9): the real promises. Mau will open everything if one hand isn't enough, and Makima holds it; he promises to try with everything to come back, not that it works. Yuka: two steps behind "until I can't". DIO wants to go home to see her plant. Beru: in the tower his king always came back, "and he did not have you then".
 - #25 The Warden (Claude, days 10-11): written earlier, moved here.
+- #26 Eleven (Claude, day 11): Mau takes his hand off the door; Makima stands where the tearing is and holds the weight. Ciel's scale stops at ten (the duel); he goes to eleven. The eyes' filter burns away and they stop drawing CE at all ("paying for themselves"); he can read the Warden: a rule standing up. Its highest stroke comes for Yuka; he gets past her and is cut in two from left shoulder to right hip; RCT follows the blade in and he's whole before the halves separate (scar line remains). Purple at full through the Warden and up into the watching: the rule dies, all four marks close, the gate comes apart. Box: Trial THE STABILIZER complete. Mau closes the door himself. Makima nearly gone, then "I held it"; asks him to tell Yuka she's sorry she didn't get to tell her first. They fall into the orchard.

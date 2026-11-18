@@ -5,13 +5,13 @@
 **Volume:** 80
 **Reading order:** 25
 **Source episode:** S13E69
-**Continuity state:** Inside the Rulers' trial, days ten and eleven. The deep floors. Mau keeps the cut above his hip from getting worse, but every turn opens it a little; by day eleven it's bleeding through the bandage and he tells Yuka each time, as promised. Two more hits taken for her; RCT closes them, and each leaves a second mark that won't. Yuka keeps count in the notebook and stops showing him the page. The bottom floor: a round hall like a stage with an empty sky. The Warden is a tall faceless shape made of the gate itself, holding a long blade. Every attack it makes is aimed at Yuka. Every time Mau blocks, it learns. It cannot be read all the way by the eyes. The chapter ends with Mau on one knee, three marks open, and Yuka stepping in front of him.
+**Continuity state:** Inside the Rulers' trial, days ten and eleven. The deep floors. Mau keeps the cut above his hip from getting worse, but every turn opens it a little; by day eleven it's bleeding through the bandage and he tells Yuka each time, as promised. Two more hits taken for her; RCT closes them, and each leaves a mark that won't. Yuka keeps count in the notebook, under "Both". The bottom floor: a round hall like a stage with an empty sky. The Warden is a tall faceless shape made of the gate itself, holding a long blade. Every attack it makes is aimed at Yuka. Every time Mau blocks, it learns. It cannot be read all the way by the eyes. The chapter ends with Mau on one knee, three marks open, and Yuka stepping in front of him.
 
 *When: Inside the trial, days ten and eleven. Outside, still B+370: the whole house is in the orchard now, and Shoko has had her bag packed for an hour.*
 
 “Turned,” he says. ᴹ
 
-They're walking down a long ramp into the fourth level. He turned to look at something on the wall and the cut above his hip pulled.
+They're walking down a long ramp below the landing where they spent the last night. He turned to look at something on the wall and the cut above his hip pulled.
 
 “How bad?” ʸ
 
@@ -25,7 +25,7 @@ She stops. She takes the roll of bandage out of the bag from the Shop. She doesn
 
 She stands up and writes something in the notebook.
 
-He doesn't ask what. He knows. She's been writing it since the second day. Ten days now. Every time he says *turned* or *it opened* or *that one hit*. A line for each. He saw the page once, on the fourth morning, before she started holding it so he couldn't.
+He doesn't ask what. He knows. She's been writing it since the second day. Ten days now. Every time he says *turned* or *it opened* or *that one hit*. A line for each. She read the whole page to him on the seventh night, and wrote *He's still here. So am I.* at the bottom, and he wrote *Both.* under it. Every line since goes under that.
 
 * * *
 
@@ -45,7 +45,7 @@ The second is a spine, shot from the far side of a round room at the place where
 
 She writes them down.
 
-She doesn't show him the page.
+She writes them under *Both*.
 
 * * *
 
@@ -183,7 +183,7 @@ He sees it happen. He's on one knee on the smooth grey floor with the katana acr
 
 She's shaking.
 
-He can see her shaking. Her shoulders. Her hands. She knows what the box says. She knows what one hit means. She's read it every morning. She's counted his marks in the notebook and stopped showing him the page.
+He can see her shaking. Her shoulders. Her hands. She knows what the box says. She knows what one hit means. She's read it every morning. She's counted his marks in the notebook, every one, under *Both*.
 
 She doesn't move.
 

@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 22
 **Source episode:** S13E67
-**Continuity state:** Inside the Rulers' trial, night of day eight, in the tent on the first landing of the next level. Yuka wakes with Ten Shadows still in burnout; she can borrow Mau's cursed techniques and use the new mana channel, but both cost him, so she refuses to exhaust his reserves while his wound remains open. She's frightened of having lost her own reliable way to protect them for the next day. Mau makes the soup from the dried bag she bought on day three and feeds her when her hands shake too much. Then Ciel speaks to Yuka directly, through the link, for the first time about something other than numbers: she tells Yuka what counting is for. In the Trial she counted because counting was the only thing that proved time was passing and he was still in it; tonight she's counting Yuka's breaths for the same reason. Mau hears it all. Yuka asks Ciel to keep counting. DIO comes out and sits by the tent door so Beru can rest one wing. No intimate scene inside the gate.
+**Continuity state:** Inside the Rulers' trial, night of day eight, in the tent on the first landing of the next level. Yuka wakes with Ten Shadows still in burnout; she can borrow Mau's cursed techniques and use the new mana channel, but both cost him, so she refuses to exhaust his reserves while his wound remains open. She's frightened of having lost her own reliable way to protect them for the next day. Mau makes the soup from the dried bag she bought on day three and feeds her when her hands shake too much. Then Ciel speaks to Yuka directly through their established link and, instead of offering a technical reading, tells Yuka what counting meant to her during the Trial. In the Trial she counted because counting was the only thing that proved time was passing and he was still in it; tonight she's counting Yuka's breaths for the same reason. Mau hears it all. Yuka asks Ciel to keep counting. DIO comes out and sits by the tent door so Beru can rest one wing. No intimate scene inside the gate.
 
 *When: Inside the trial, night of day eight. Outside, still B+370, mid-afternoon; Shoko has sat down on the grass in front of the oval, which she never does.*
 
@@ -119,7 +119,7 @@ She closes her eyes.
 
 Then Ciel speaks.
 
-Not to him. To her. Through the link, the way Ciel has spoken to her every day since the contract: lengths in steps, readings, *it's true*, *nine breaths*, *it works*. Numbers. Ciel has only ever given her numbers.
+Not to him. To her. Through the link they've already used for questions about magic, privacy, and all the ordinary arguments of the house. During this gate Ciel has mostly given her lengths in steps, readings, *it's true*, *nine breaths*, *it works*. Useful things. Tonight the voice has something else to say.
 
 This isn't a number.
 

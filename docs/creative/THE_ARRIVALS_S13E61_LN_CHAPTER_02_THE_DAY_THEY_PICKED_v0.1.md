@@ -331,7 +331,205 @@ They're standing very close. Her hands are still on his face. The brim of the ha
 
 He leans down.
 
-> **[PARA WORK: escena íntima del cumpleaños, aquí.** Como la decidió Mauri: nace de las dos cosas, del regalo (el sombrero enorme que ella y Mai hicieron a escondidas para que en la isla combinen) y de lo cómodos que están después de la fiesta. Un beso, bajo el ala del sombrero, que lleva a otro más largo, y de ahí nace. Él llegó cansado del dungeon con Beru, en el buen sentido, con el brazo nuevo que todavía tiene menos fuerza y el costado que le jala si levanta los brazos; ella con el vestido azul, el único color que él ve, y su libreta con «waiting for me» subrayado tres veces abajo, en la mesa. Abajo la casa sigue con música. El sombrero puede seguir en la escena (o caerse) como juego entre ellos. **Sin límite de palabras; no comprimas.]**
+He kisses her under the brim.
+
+The hat immediately tries to help. The front edge drops across his eyes and strikes Yuka's forehead with a soft, ridiculous *thump*.
+
+She starts laughing against his mouth.
+
+“It's attacking me,” she says. ʸ
+
+“You made it.”
+
+“I know. I didn't make it for this.”
+
+“What did you make it for?”
+
+“So that when we get to the island people will look at the two of us and think, *those two have terrible taste in hats*.” ʸ
+
+“They already think that.”
+
+“Then we should be consistent.” ʸ
+
+She takes the brim in both hands, tips it back, and makes a very deliberate inspection of his face. He's sure she's about to say something insulting. Instead she looks almost shy.
+
+“Does it fit?”
+
+“Eventually.”
+
+“Mau.”
+
+He lifts the hat and settles it properly, keeping it tipped back so he can see her.
+
+“It fits,” he says. “I love it.” ᴹ
+
+“Really?”
+
+“Really.” ᴹ
+
+She lets go of the brim. Her hands remain on his cheeks, thumbs moving once over the skin near his eyes.
+
+“I wanted to get you something nobody could make you use for work,” she says. ʸ
+
+“It's not good for work?”
+
+“It's awful for work. That's the point.”
+
+He thinks of the sword downstairs, the system, the numbers he used to think he had to keep chasing, the little mountain of things the whole house has given him because he always needs something fixed. A hat, apparently, is the first present he's received in a long time that doesn't ask him to do anything with it.
+
+“You hid in the workshop for that,” he says. ᴹ
+
+“Mai helped.”
+
+“I know.”
+
+“And nobody told you.”
+
+“I noticed.”
+
+“You didn't notice anything.” ʸ
+
+“That's what I noticed.”
+
+She laughs, triumphant, and takes his hand.
+
+“Come sit down,” she says. ʸ
+
+He lets her lead him to the bed, still wearing the hat. She sits beside him and turns to admire it from the side. The brim brushes the curtain when he looks toward the window; she pulls him back by the sleeve before he knocks anything over.
+
+“You're worse than Beru,” she says. ʸ
+
+“Beru has two hats and excellent balance.”
+
+“You have one hat and a wife who'll stop you walking into things.”
+
+“I like my chances.” ᴹ
+
+She rests her head against his right shoulder. Downstairs someone starts another song, and they can hear Ori calling for someone to dance. Mau waits for the small ache to pass through his left side. It does, quickly. Yuka feels him take the deeper breath.
+
+“Does it hurt?” she asks. ʸ
+
+“A little. Not enough to stop.”
+
+“That's not what I asked.”
+
+He turns toward her, carefully.
+
+“It's tired,” he says. “So am I. The good kind, like I told you.” ᴹ
+
+“Then we can sit.”
+
+“We can.”
+
+She seems satisfied. She puts one hand on his left forearm and runs her thumb once along the healed line. He watches the movement under the shade of the brim.
+
+He thinks about the other things she made happen tonight. The surprise. The whole house waiting in the dark. Ori's painted banner. Frieren handing him a grimoire with an expression that made the room feel suddenly very small. Shoko watching him read the letter from Elmesia and pretending she wasn't watching.
+
+“Did you plan all of it?” he asks. ᴹ
+
+“Not all. I was in charge of keeping you from remembering.”
+
+“You did a very good job.”
+
+“That part was easy.” ʸ
+
+“Thank you.”
+
+She turns her face toward him.
+
+“For the hat?”
+
+“For the whole day.” ᴹ
+
+Her expression changes at once. She tries to look casual and fails.
+
+“It's your birthday.”
+
+“I know.”
+
+“You didn't know this morning.” ʸ
+
+“I know now.”
+
+He takes her hand off his arm and folds it in his own. Her fingers are small enough to disappear between his when he closes his hand.
+
+“I didn't know what to do when everyone shouted,” he says. “I'm used to being the one who shows up. The one who gets called when something's wrong. I don't always know what to do when everybody shows up for me instead.” ᴹ
+
+“You don't have to do anything.”
+
+“That's what you said about the hat.”
+
+“It's a very good rule.” ʸ
+
+He bends his head. She leans up at the same time, and they kiss again. The hat shifts sideways, but neither stops until she begins to laugh.
+
+“Take it off before it gives me a bruise,” she whispers. ʸ
+
+“You said I had to wear it.”
+
+“On the island. Not in bed.” ʸ
+
+He takes it off and sets it on the chair. She considers the chair, the hat, and the distance between them.
+
+“Actually,” she says, “bring it back.”
+
+He looks at her.
+
+“Why?”
+
+“Because I made it. I can make you wear it for five more minutes.” ʸ
+
+“You're going to be unbearable on the island.”
+
+“I'm going to be wonderful on the island.”
+
+She reaches out. He lifts the hat from the chair and places it on her head instead. It is somehow even more enormous on her, covering one eye and most of her nose.
+
+“Perfect,” he says. ᴹ
+
+“You can't see me.”
+
+“I can see the important part.”
+
+“What important part?”
+
+“The colour.”
+
+She goes pink below the brim. He can see it plainly.
+
+“That's cheating,” she says. ʸ
+
+“It's my birthday.”
+
+“That excuse expires at midnight.”
+
+“We have a few minutes.”
+
+She tips her head back far enough to uncover her face. She's still smiling, but quieter now, and she looks at him for a long time before she reaches up and touches his cheek.
+
+“I like you like this,” she says. “Not because you won anything. Just because you're here.” ʸ
+
+He thinks of the dungeon that morning and Beru's fierce pleasure at the end of it, and then of coming back through the door to find everyone waiting for him.
+
+“I like being here,” he says. ᴹ
+
+She kisses him then, still wearing the hat. It slides between them; she catches it with one hand, drops it onto the coverlet and laughs into his shoulder. He holds her until she can stop.
+
+After a while she looks at the hat, lying upside down between the pillows.
+
+“We're really going to wear these,” she says. ʸ
+
+“Of course.”
+
+“In public.”
+
+“In front of everyone.” ᴹ
+
+She nods, satisfied. They settle together against the headboard, trading stories from the party in low voices while the music carries through the floor. Whenever the song changes, she squeezes his hand and tells him who she thinks has taken control of the room downstairs.
+
+Eventually she grows quiet, with her cheek against his chest and his hand in her hair. He draws the blanket across her shoulders. The hat slips from the coverlet when he reaches for the corner, landing softly beside the bed.
+
+Neither of them bothers to pick it up.
 
 * * *
 

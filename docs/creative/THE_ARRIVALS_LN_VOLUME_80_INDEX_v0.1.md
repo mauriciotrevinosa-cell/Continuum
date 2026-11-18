@@ -33,6 +33,8 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 | 16 | S13E64 | The Bell | `THE_ARRIVALS_S13E64_LN_CHAPTER_02_THE_BELL_v0.1.md` |
 | 17 | S13E65 | Something Warm in It | `THE_ARRIVALS_S13E65_LN_CHAPTER_01_SOMETHING_WARM_IN_IT_v0.1.md` |
 | 18 | S13E65 | What Makima Sees | `THE_ARRIVALS_S13E65_LN_CHAPTER_02_WHAT_MAKIMA_SEES_v0.1.md` |
+| 19 | S13E66 | The Flooded Floors | `THE_ARRIVALS_S13E66_LN_CHAPTER_01_THE_FLOODED_FLOORS_v0.1.md` |
+| 20 | S13E66 | Three Sweets | `THE_ARRIVALS_S13E66_LN_CHAPTER_02_THREE_SWEETS_v0.1.md` |
 
 ## Continuity locks and open decisions
 
@@ -63,3 +65,5 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 - #16 (Claude, day 4, rewritten after Mauri's note): Yuka plans the bell-tower fight in the notebook; they climb the inside stair together, never split. Rule clarified: hits aimed at Mau close clean; only hits he takes by getting between Yuka and something aimed at her are marked. A shard falls toward her and Yuka uses her own Exchange to go to him (Mau's Exchange takes him to an anchor; it doesn't pull people to him). DIO: from inside "it felt like one person". #13 also fixed: Yuka goes up the stair with him when he checks the exit.
 - #17 (Claude, day 5): a small warm house at the city's edge that nothing enters: Yuka's household-gate setting from the table (S13E27) survived under the override. Rest day: bath, she washes his hair, DIO by the fire (her plant at the Inn). Mau tells her what his body remembers of the Trial ("put your boot down"). He sleeps the whole night for the first time since the Trial.
 - #18 (Claude, day 6): leaving the warm house; the great stair down (about two days to the Warden). Yuka uses her rule the other way and goes to Makima through the link: Mau fights with one hand, the other always kept free for her; he keeps the part of him that wants to open everything shut himself; Makima, bound to his body but not quite part of him, could hold the tearing weight if he ever opened all of it, for a little while, and would tell Yuka first if there were time. Noise checks and agrees. Mau hears it all and doesn't interrupt. "Good night, Makima."
+- #19 (Claude, day 7): the drowned level; Mau carries Yuka on his back the whole way; Kamish floats as a raft for the bags. Yuka uses his Shrine for the first time: too long once (cuts a pillar, wakes the level), then Ciel gives lengths in steps and she gets cleaner. "It feels like it wants to be longer." "Every time." Dry clothes: "middle".
+- #20 (Claude, night of day 7): the three sweets Yuka was saving "in case"; they eat them. Island talk: matching enormous hats, Mau guesses Elmesia's gift is a boat; DIO asks for a third matching hat. Yuka reads him the notebook page of every mark and "turned"; she writes "He's still here. So am I." He adds "Both."

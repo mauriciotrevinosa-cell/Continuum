@@ -37,6 +37,9 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 | 20 | S13E66 | Three Sweets | `THE_ARRIVALS_S13E66_LN_CHAPTER_02_THREE_SWEETS_v0.1.md` |
 | 21 | S13E67 | The Garden | `THE_ARRIVALS_S13E67_LN_CHAPTER_01_THE_GARDEN_v0.1.md` |
 | 22 | S13E67 | Ciel Counts | `THE_ARRIVALS_S13E67_LN_CHAPTER_02_CIEL_COUNTS_v0.1.md` |
+| 23 | S13E68 | Both Hands | `THE_ARRIVALS_S13E68_LN_CHAPTER_01_BOTH_HANDS_v0.1.md` |
+| 24 | S13E68 | The Last Night Above | `THE_ARRIVALS_S13E68_LN_CHAPTER_02_THE_LAST_NIGHT_ABOVE_v0.1.md` |
+| 25 | S13E69 | The Warden | `THE_ARRIVALS_S13E69_LN_CHAPTER_01_THE_WARDEN_v0.1.md` |
 
 ## Continuity locks and open decisions
 
@@ -71,3 +74,6 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 - #20 (Claude, night of day 7): the three sweets Yuka was saving "in case"; they eat them. Island talk: matching enormous hats, Mau guesses Elmesia's gift is a boat; DIO asks for a third matching hat. Yuka reads him the notebook page of every mark and "turned"; she writes "He's still here. So am I." He adds "Both."
 - #21 (Claude, day 8): a cavern floor made of nests; all wake at once, too many directions for one free hand. Yuka opens Chimera Shadow Garden around both of them (closed barrier, dark ground that takes their feet, Ten Shadows and duplicates placed; nothing outside sees in) and covers Mau, the first time she protects him in the gate. Mau's Blue through holes she opens in the lid. Burnout on closing: her technique closed about a day, and even his techniques through the contract are too heavy for her. Mau carries her in his arms.
 - #22 (Claude, night of day 8): Yuka still burnt out and frightened of being useless; Mau makes the soup and holds the cup. Ciel tells Yuka why she counted in the Trial: not useful, only proof that time was passing and he was still in it; she's counting Yuka's breaths since the garden for the same reason. "Keep going." DIO makes Beru fold one wing and watches that side. Mau thanks Ciel for the Trial, the first time.
+- #23 (Claude, day 9): rest day; with Yuka behind Infinity Mau fights with both hands for the first time in the gate and she sees how much he's been holding back ("it frightened me a bit, and I'm very glad it's ours"). Her dogs come back in the afternoon; she laughs. Armour doesn't stop the rule ("direct" is direct); light warded-hide jacket, middle. Noise: the knot is a day or two below.
+- #24 (Claude, night of day 9): the real promises. Mau will open everything if one hand isn't enough, and Makima holds it; he promises to try with everything to come back, not that it works. Yuka: two steps behind "until I can't". DIO wants to go home to see her plant. Beru: in the tower his king always came back, "and he did not have you then".
+- #25 The Warden (Claude, days 10-11): written earlier, moved here.

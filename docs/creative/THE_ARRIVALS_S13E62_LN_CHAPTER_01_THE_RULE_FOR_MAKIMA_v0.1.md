@@ -237,4 +237,170 @@ He feels Ciel close the door. The small, polite *click*. And somewhere at the fa
 
 She reaches up and pulls him down by the front of his shirt.
 
-> **[PARA WORK: escena íntima del día del contrato, aquí.** Nace de un día entero de andar juguetones (las cinco veces que ella lo invoca, el té en la camisa, Gojo cayéndose del barandal, «You're going to love this») y de lo que ella acaba de decirle: que ya puede encontrarlo y jalarlo si se queda atorado. Ella lo jala de la camisa. Ciel acaba de cerrar la puerta y Noise mira hacia otro lado. El lazo nuevo puede tener un detalle tierno o chistoso (que ella le pida a Ciel que lo cierre también de su lado). **Sin límite de palabras; no comprimas.]**
+He leans toward her. She pulls him the rest of the way by his shirt, quick enough to surprise him, and kisses him with a satisfied little sound.
+
+When she lets go, she studies his face.
+
+“That's five,” she says. ʸ
+
+“Five what?”
+
+“Times I've called you to me today.”
+
+“You didn't call me just now. You pulled my shirt.”
+
+“It's a demonstration.” ʸ
+
+“Of the contract?”
+
+“Of how many ways I can get you to come here.”
+
+He shakes his head, smiling. She puts both arms around his neck and draws him into another kiss, softer than the first, then lets him straighten enough to see her face.
+
+“You look very pleased with yourself,” he says. ᴹ
+
+“I am. I've wanted this for so long.” ʸ
+
+“The contract?”
+
+“Being able to go where you go. Or bring you back. Not wondering whether the door's going to close while I'm on the wrong side of it.” ʸ
+
+He thinks about the first time she waited outside a dungeon. The year that passed and the sound of her voice when he told her she shouldn't come. He remembers how carefully he'd wrapped that refusal in words that sounded like reassurance.
+
+“I thought I was protecting you,” he says. ᴹ
+
+“I know.”
+
+“I should have told you what I was afraid of.”
+
+“You tell me now.” ʸ
+
+He nods. It is a small motion, but she feels it through the arm she's holding behind his neck.
+
+“I still get afraid,” he says. “When I think about something happening to you. I don't think the contract changes that.” ᴹ
+
+“It doesn't,” she says. “It changes what we can do together.” ʸ
+
+She releases him long enough to shift toward the centre of the bed. When he turns to join her, she catches his wrist and guides his hand to the blanket beside hers. She is making room for him, not ordering him around, and he recognises the difference because she gives him a moment to settle before curling against his shoulder.
+
+“Can you hear Ciel?” she asks. ʸ
+
+“Not through the door.”
+
+“Can *I* hear Ciel?”
+
+He considers that. The new link is hers as well as his. It doesn't make privacy on both ends automatic.
+
+“Ciel?” he says aloud. ᴹ
+
+The response comes inside them both, neatly and without irritation.
+
+*Yes.* ᶜ
+
+“Could you close Yuka's side too?” he asks. ᴹ
+
+There is a pause.
+
+*With her permission.* ᶜ
+
+Yuka looks deeply delighted by the formality.
+
+“You're asking me?” she says. ʸ
+
+*Yes.* ᶜ
+
+“Then yes. Please. And if I need you, I'll call.” ʸ
+
+*Understood.* ᶜ
+
+The answer fades. For the first time Yuka feels the small, polite sensation of a door being shut on her side of the link. She goes very still, watching Mau.
+
+“What does it feel like?” he asks. ᴹ
+
+“Like the house has a room that's ours,” she says. “But inside my head.” ʸ
+
+“Is that strange?”
+
+“Yes.” ʸ
+
+“Bad strange?”
+
+She shakes her head.
+
+“Good strange. I just never thought I'd have to ask Ciel to knock.”
+
+“She'll take it seriously.”
+
+“She takes everything seriously.” ʸ
+
+“Not everything. She laughed at Gojo.”
+
+“Everyone laughs at Gojo.”
+
+She turns on her side to face him. He lifts an arm so she can tuck herself closer. The arm that used to be broken doesn't protest now unless he stretches it past its comfortable range, and he can hold her without the careful mathematics he needed a week ago.
+
+Yuka's fingers find the scar anyway.
+
+“I could have asked you to come to me while you were healing,” she says. ʸ
+
+“You would have.”
+
+“Every hour.”
+
+“Every five minutes.”
+
+“Every time I wanted a sweet.” ʸ
+
+“That's what I'm afraid of.”
+
+She laughs and kisses him. He smiles into it, then catches her hand when she starts to draw away. This time he is the one who asks her to stay.
+
+“Wait,” he says. ᴹ
+
+She stops at once.
+
+“Everything today happened so quickly,” he says. “I don't want to act like it's just a toy because we had fun with it.” ᴹ
+
+Her expression softens. She moves back enough to see his eyes.
+
+“It's not a toy,” she says. “I know.” ʸ
+
+“And if it gets dangerous, or something I built starts hurting you, I need you to tell me.”
+
+“Even if I think you'll blame yourself?”
+
+“Especially then.” ᴹ
+
+“Okay.”
+
+She brushes his hair away from his forehead.
+
+“And when you're scared, you tell me too,” she says. “Not just Ciel. Not just Noise. Me.” ʸ
+
+“I will.” ᴹ
+
+“Even when you're far away.”
+
+“Even then.”
+
+“Good.”
+
+She sits up for a moment and reaches across him toward the bedside table, where the contract notebook has been abandoned. He thinks she means to write the promise down. Instead she closes it and places it face down.
+
+“What?” he asks. ᴹ
+
+“I don't need to write that one.”
+
+“Really?”
+
+“I heard you.” ʸ
+
+She lies down again and takes his hand under the blanket. Their foreheads meet. He kisses her slowly, with nothing to test, no new mechanism to learn, no emergency to simulate. She smiles when he pauses, and he recognises in that smile the same delight she had each time he arrived beside her in the yard.
+
+“Found you,” she whispers. ʸ
+
+“You never lost me.”
+
+“I know. I like finding you anyway.” ʸ
+
+He lets himself be found. They stay in the shared quiet until her breathing slows, their hands still joined where she put them.

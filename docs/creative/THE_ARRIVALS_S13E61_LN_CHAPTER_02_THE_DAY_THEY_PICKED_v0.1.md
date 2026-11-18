@@ -581,7 +581,7 @@ She kisses him slowly, without the hat this time. He keeps his hand against her 
 
 “Good.”
 
-He moves the hat off the blanket and sets it beside the bed, within reach for morning. Yuka catches his wrist as he turns back.
+He moves the hat from between them and sets it near the edge of the coverlet, within reach for morning. Yuka catches his wrist as he turns back.
 
 “What?” he asks. ᴹ
 

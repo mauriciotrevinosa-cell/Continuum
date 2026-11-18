@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 11
 **Source episode:** S13E62
-**Continuity state:** B+367. Expanding Yuka's contract. What already exists: Yuka can use any of Mau's techniques on his reserves with the weight falling on her; the second Limitless he built inside himself for her; and in an emergency he can trigger a technique in her. New today: the Exchange, which Yuka can now start herself. She tests it at once, pulls him across the yard to her, and Mau's face when he understands what he's agreed to makes the whole porch laugh. And a link in her head like his with Rimuru, so Ciel, Noise, DIO and Makima can reach her. Before anything, Makima asks what the rule is. Yuka: if it's important, talk to me; if not, I'll come to you; you can ask if you can speak, and I'll decide. A playful day; Ciel closes the door at night. The contract-night intimacy follows their mutual privacy decision, with a deliberate invitation and a non-graphic transition; Yuka's new link remains closed by consent.
+**Continuity state:** B+367. Expanding Yuka's contract. What already exists: Yuka can use any of Mau's techniques on his reserves, with Mau carrying the weight; the second Limitless he built inside himself for her; and in an emergency he can trigger a technique in her. New today: the Exchange, which Yuka can now start herself. She tests it at once, pulls him across the yard to her, and Mau's face when he understands what he's agreed to makes the whole porch laugh. And a link in her head like his with Rimuru, so Ciel, Noise, DIO and Makima can reach her. Before anything, Makima asks what the rule is. Yuka: if it's important, talk to me; if not, I'll come to you; you can ask if you can speak, and I'll decide. A playful day; Ciel closes the door at night. The contract-night intimacy follows their mutual privacy decision, with a deliberate invitation and a non-graphic transition; Yuka's new link remains closed by consent.
 
 *When: B+367. Two days after the birthday. Yuka has written CONTRACT at the top of a new page and underlined it twice.*
 
@@ -13,7 +13,7 @@
 
 They're on the porch. She's in his lap, facing out, with the notebook on her knees. Noise and Ciel are listening; he can feel them leaning in. Half the house is listening too, from the yard, from the window, pretending not to.
 
-“One,” Yuka reads. “I can use any of your techniques. Your reserves. The weight's on me.” ʸ
+“One,” Yuka reads. “I can use any of your techniques. Your reserves. You carry the weight.” ʸ
 
 “Yes.” ᴹ
 

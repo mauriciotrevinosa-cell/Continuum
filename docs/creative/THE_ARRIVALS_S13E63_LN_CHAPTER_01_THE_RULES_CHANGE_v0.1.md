@@ -81,7 +81,7 @@ He has to stop himself. Every part of him wants to step in front. Instead he sta
 
 Blue.
 
-His Blue. Small, tight, in her palm. She's never used it before; he can feel her fumbling with it, the weight of it landing on her and not on him. It goes out of her hand a little crooked. But it goes. The thing in the air folds in on itself and drops.
+His Blue. Small, tight, in her palm. She's never used it before; he can feel her fumbling with it, and the weight of it landing on him, the way the contract says, and her not knowing what to do with how little she has to hold. It goes out of her hand a little crooked. But it goes. The thing in the air folds in on itself and drops.
 
 She looks at her hand.
 

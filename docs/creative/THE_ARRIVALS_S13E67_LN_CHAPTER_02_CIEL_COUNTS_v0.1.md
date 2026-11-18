@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 22
 **Source episode:** S13E67
-**Continuity state:** Inside the Rulers' trial, night of day eight, in the tent on the first landing of the next level. Yuka wakes still burnt out; her technique won't answer and his are too heavy. She's frightened of being useless for the next day. Mau makes the soup from the dried bag she bought on day three and feeds her when her hands shake too much. Then Ciel speaks to Yuka directly, through the link, for the first time about something other than numbers: she tells Yuka what counting is for. In the Trial she counted because counting was the only thing that proved time was passing and he was still in it; tonight she's counting Yuka's breaths for the same reason. Mau hears it all. Yuka asks Ciel to keep counting. DIO comes out and sits by the tent door so Beru can rest one wing. No intimate scene inside the gate.
+**Continuity state:** Inside the Rulers' trial, night of day eight, in the tent on the first landing of the next level. Yuka wakes still burnt out; her technique won't answer, and she won't borrow his because the weight would land on him. She's frightened of being useless for the next day. Mau makes the soup from the dried bag she bought on day three and feeds her when her hands shake too much. Then Ciel speaks to Yuka directly, through the link, for the first time about something other than numbers: she tells Yuka what counting is for. In the Trial she counted because counting was the only thing that proved time was passing and he was still in it; tonight she's counting Yuka's breaths for the same reason. Mau hears it all. Yuka asks Ciel to keep counting. DIO comes out and sits by the tent door so Beru can rest one wing. No intimate scene inside the gate.
 
 *When: Inside the trial, night of day eight. Outside, still B+370, mid-afternoon; Shoko has sat down on the grass in front of the oval, which she never does.*
 
@@ -15,7 +15,7 @@ He sees her come back. Her eyes open, and for a moment she doesn't know where sh
 
 Nothing.
 
-He watches it land on her. Watches her try again, harder, the way you'd try a door you know is locked because you can't believe it's locked. Watches her try his Blue, the small one, and feel the weight come down on her, and drop it.
+He watches it land on her. Watches her try again, harder, the way you'd try a door you know is locked because you can't believe it's locked. Watches her reach for his Blue, the small one, feel him take the weight of it the way he always does, and let go of it before it's finished forming, because she won't put more on him.
 
 She lies very still.
 

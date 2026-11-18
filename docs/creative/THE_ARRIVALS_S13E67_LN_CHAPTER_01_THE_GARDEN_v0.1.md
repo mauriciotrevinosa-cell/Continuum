@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 21
 **Source episode:** S13E67
-**Continuity state:** Inside the Rulers' trial, day eight. Below the drowned level, a vast cavern where the floor is a nest: hundreds of small fast things that wake all at once. Too many directions for Mau to cover her from every side with one hand free. Yuka opens her Domain, Chimera Shadow Garden, around both of them: a closed barrier, a dark ground that takes their feet, her Ten Shadows and their duplicates placed through it. From outside nothing can see in. Inside, for the first time in the gate, Mau is the one being protected: he fights in her ground, on her terms, and nothing reaches either of them. When it's done and she closes it, the burnout is real: her technique won't answer, she's shaking and grey-faced, and the borrowed techniques through the contract are too heavy for her to lift. Mau carries her out of the cavern. No intimate scene inside the gate.
+**Continuity state:** Inside the Rulers' trial, day eight. Below the drowned level, a vast cavern where the floor is a nest: hundreds of small fast things that wake all at once. Too many directions for Mau to cover her from every side with one hand free. Yuka opens her Domain, Chimera Shadow Garden, around both of them: a closed barrier, a dark ground that takes their feet, her Ten Shadows and their duplicates placed through it. From outside nothing can see in. Inside, for the first time in the gate, Mau is the one being protected: he fights in her ground, on her terms, and nothing reaches either of them. When it's done and she closes it, the burnout is real: her technique won't answer and she's shaking and grey-faced. His techniques would still come through the contract, with the weight on him as always, but she won't add to what he's carrying. Mau carries her out of the cavern. No intimate scene inside the gate.
 
 *When: Inside the trial, day eight. Outside, still B+370, early afternoon; Yuta has come down to the orchard and is sitting on the wall beside Maki.*
 
@@ -229,15 +229,19 @@ Yuka closes her eyes.
 
 “Your things,” she says. “Through the contract. I can still use yours.” ʸ
 
-She tries. He feels her try. She reaches for his Blue, the smallest one, the one she threw on the first floor, and it's there, and she takes hold of it—
+She reaches for his Blue, the smallest one, the one she threw on the first floor. It's there. It comes the way it always comes, and the weight of it lands where it always lands: on him.
 
-And it's too heavy.
+She feels him take it.
 
-He feels her drop it. Feels it slip out of her hands like a stone too big to carry. The weight lands on her, the way it always does, and she's got nothing left to hold it with.
+The hip. The four lines of the tower stair, healed but still pulling. Eight days of one hand kept free. Everything he's already carrying, and now this on top, because she asked for it.
 
-She makes a small sound.
+She lets go before it's finished forming.
 
-“I can't,” she says. “Mau, I can't lift it.” ʸ
+“No,” she says. ʸ
+
+“You can,” he says. “It's what it's for.” ᴹ
+
+“Not today.” Her voice is very small. “You're carrying enough. I'm not putting more on you because I can't stand doing nothing.” ʸ
 
 * * *
 

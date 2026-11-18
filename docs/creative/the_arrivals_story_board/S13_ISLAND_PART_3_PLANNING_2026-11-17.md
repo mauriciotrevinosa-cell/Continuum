@@ -125,7 +125,11 @@ The island is lived **as one house.** The others' moments happen around Mau and 
 Since V80 #6, Mau and Yuka are on pause (no intimate scenes) after the bathroom floor in V79. Mauri **seconded** two of Claude's ideas so the pause doesn't get lost:
 
 1. **Make it visible now and then,** without drama: Yuka stealing food off his plate on purpose and him pretending to be offended; they both know what it means.
-2. **She's the one who ends the pause, in her own words,** not "because it's time". Something like "I'm not counting anymore", maybe while stealing something off his plate to close the circle.
+2. **She's the one who ends the pause, in her own words,** not "because it's time". Possibly while stealing something off his plate, to close the circle. (Her exact words are still to be written; not "I'm not counting anymore".)
 
 **Distinction:** Yuka being close to Mau (clingy, in his lap, kisses, closeness) is one thing; the *frutifantástico* is another. The closeness never pauses. When and how the pause ends on the island is still to be planned calmly.
+
+> no me gusta q sea por contar sino quiere un respiro pq se frustro y es normal que tal ves no quiera regresar a sentirse asi y primero quiere quitarse lo que le quedo
+
+**Why the pause (Mauri):** it isn't about counting days. Yuka wants a breather because she got frustrated, and it's normal that she may not want to feel that way again. First she wants to shed what she's still carrying. When she ends the pause, it's because she has shed it, not because she stopped counting.
 

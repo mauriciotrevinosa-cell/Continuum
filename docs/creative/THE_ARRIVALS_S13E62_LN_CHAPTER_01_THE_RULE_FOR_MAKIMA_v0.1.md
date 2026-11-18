@@ -237,170 +237,288 @@ He feels Ciel close the door. The small, polite *click*. And somewhere at the fa
 
 She reaches up and pulls him down by the front of his shirt.
 
-He leans toward her. She pulls him the rest of the way by his shirt, quick enough to surprise him, and kisses him with a satisfied little sound.
+He leans toward her. She catches the front of his shirt in her fist and pulls him the last few inches.
 
-When she lets go, she studies his face.
+The first kiss makes him laugh, not because it's funny but because he's spent the entire day appearing wherever she asks him to, and apparently that isn't quite close enough.
+
+Yuka draws back until she can see his face.
 
 “That's five,” she says. ʸ
 
-“Five what?”
+“Five what?” ᴹ
 
-“Times I've called you to me today.”
+“Times I brought you to me today.”
 
-“You didn't call me just now. You pulled my shirt.”
+“This one doesn't count.”
 
-“It's a demonstration.” ʸ
+“Why not?”
 
-“Of the contract?”
+“You didn't use Exchange.”
 
-“Of how many ways I can get you to come here.”
+“I used this.” ʸ
 
-He shakes his head, smiling. She puts both arms around his neck and draws him into another kiss, softer than the first, then lets him straighten enough to see her face.
+She gives his shirt another small tug. He lets her bring him down until his forehead touches hers.
 
-“You look very pleased with yourself,” he says. ᴹ
+“That's a different technique,” he says. ᴹ
 
-“I am. I've wanted this for so long.” ʸ
+“It's an excellent one.”
 
-“The contract?”
+“It's been in use for a long time.”
 
-“Being able to go where you go. Or bring you back. Not wondering whether the door's going to close while I'm on the wrong side of it.” ʸ
+“And it still works.” ʸ
 
-He thinks about the first time she waited outside a dungeon. The year that passed and the sound of her voice when he told her she shouldn't come. He remembers how carefully he'd wrapped that refusal in words that sounded like reassurance.
-
-“I thought I was protecting you,” he says. ᴹ
-
-“I know.”
-
-“I should have told you what I was afraid of.”
-
-“You tell me now.” ʸ
-
-He nods. It is a small motion, but she feels it through the arm she's holding behind his neck.
-
-“I still get afraid,” he says. “When I think about something happening to you. I don't think the contract changes that.” ᴹ
-
-“It doesn't,” she says. “It changes what we can do together.” ʸ
-
-She releases him long enough to shift toward the centre of the bed. When he turns to join her, she catches his wrist and guides his hand to the blanket beside hers. She is making room for him, not ordering him around, and he recognises the difference because she gives him a moment to settle before curling against his shoulder.
-
-“Can you hear Ciel?” she asks. ʸ
-
-“Not through the door.”
-
-“Can *I* hear Ciel?”
-
-He considers that. The new link is hers as well as his. It doesn't make privacy on both ends automatic.
-
-“Ciel?” he says aloud. ᴹ
-
-The response comes inside them both, neatly and without irritation.
-
-*Yes.* ᶜ
-
-“Could you close Yuka's side too?” he asks. ᴹ
-
-There is a pause.
-
-*With her permission.* ᶜ
-
-Yuka looks deeply delighted by the formality.
-
-“You're asking me?” she says. ʸ
-
-*Yes.* ᶜ
-
-“Then yes. Please. And if I need you, I'll call.” ʸ
-
-*Understood.* ᶜ
-
-The answer fades. For the first time Yuka feels the small, polite sensation of a door being shut on her side of the link. She goes very still, watching Mau.
-
-“What does it feel like?” he asks. ᴹ
-
-“Like the house has a room that's ours,” she says. “But inside my head.” ʸ
-
-“Is that strange?”
-
-“Yes.” ʸ
-
-“Bad strange?”
-
-She shakes her head.
-
-“Good strange. I just never thought I'd have to ask Ciel to knock.”
-
-“She'll take it seriously.”
-
-“She takes everything seriously.” ʸ
-
-“Not everything. She laughed at Gojo.”
-
-“Everyone laughs at Gojo.”
-
-She turns on her side to face him. He lifts an arm so she can tuck herself closer. The arm that used to be broken doesn't protest now unless he stretches it past its comfortable range, and he can hold her without the careful mathematics he needed a week ago.
-
-Yuka's fingers find the scar anyway.
-
-“I could have asked you to come to me while you were healing,” she says. ʸ
-
-“You would have.”
-
-“Every hour.”
-
-“Every five minutes.”
-
-“Every time I wanted a sweet.” ʸ
-
-“That's what I'm afraid of.”
-
-She laughs and kisses him. He smiles into it, then catches her hand when she starts to draw away. This time he is the one who asks her to stay.
+She looks pleased enough to try it again. He catches himself with one hand on the mattress beside her shoulder and the other against the headboard. The edge of the bed gives under his weight. Yuka shifts toward its middle, keeping a grip on his shirt so he can follow without having to reach over her.
 
 “Wait,” he says. ᴹ
 
-She stops at once.
+She stops immediately.
 
-“Everything today happened so quickly,” he says. “I don't want to act like it's just a toy because we had fun with it.” ᴹ
+“Your foot's caught in the blanket.”
 
-Her expression softens. She moves back enough to see his eyes.
+She looks down. One bare foot is tangled in the edge of the coverlet.
 
-“It's not a toy,” she says. “I know.” ʸ
+“That wasn't part of the plan,” she admits. ʸ
 
-“And if it gets dangerous, or something I built starts hurting you, I need you to tell me.”
+“You had a plan?”
 
-“Even if I think you'll blame yourself?”
+“I had five successful tests.”
 
-“Especially then.” ᴹ
+He lifts the corner of the blanket. She frees her foot and pulls the covers across her knees. When she looks back at him she's smiling again.
 
-“Okay.”
+“You can come here now,” she says. ʸ
 
-She brushes his hair away from his forehead.
+“Thank you.”
 
-“And when you're scared, you tell me too,” she says. “Not just Ciel. Not just Noise. Me.” ʸ
+He moves toward the pillows, puts his right knee on the mattress and sits beside her. She turns to face him, one leg folded beneath her, her hand now resting lightly on his sleeve. There is no pull on his side when he settles, which he counts as progress. Yuka seems to be counting something else.
 
-“I will.” ᴹ
+“Are you thinking about how it works?” he asks. ᴹ
 
-“Even when you're far away.”
+“A little.”
 
-“Even then.”
+“Noise has a very long explanation if you want it.”
 
-“Good.”
+“I heard enough explanations today.” ʸ
 
-She sits up for a moment and reaches across him toward the bedside table, where the contract notebook has been abandoned. He thinks she means to write the promise down. Instead she closes it and places it face down.
+“Then what?”
 
-“What?” he asks. ᴹ
+She is quiet for a moment, looking at his hand on the blanket.
 
-“I don't need to write that one.”
+“If you're somewhere bad,” she says, “I can go to you now. Not wait for you to send something out. Not ask Rimuru to find a way in. I can go myself.” ʸ
 
-“Really?”
+He remembers her outside the gates before she could come with him. He remembers how often he treated that distance as something he was making safe for her, instead of something he was asking her to endure.
 
-“I heard you.” ʸ
+“I know,” he says. ᴹ
 
-She lies down again and takes his hand under the blanket. Their foreheads meet. He kisses her slowly, with nothing to test, no new mechanism to learn, no emergency to simulate. She smiles when he pauses, and he recognises in that smile the same delight she had each time he arrived beside her in the yard.
+“And I can call you to me.”
+
+“Within the rules.”
+
+“I know about the nine breaths. Noise explained it three times.” ʸ
+
+“He does that.”
+
+“I'm going to ask him a fourth time tomorrow.”
+
+Mau smiles. She reaches out and turns his left hand palm up, tracing a short line across it with her thumb.
+
+“I'm glad,” she says. “Not because I want to summon you from every room in the house. I mean, I do. But that's not why.” ʸ
+
+“You're going to do it anyway.”
+
+“Obviously.”
+
+He rests his other hand over hers.
+
+“Yuka, I'm glad too.”
+
+“Even though you spent the whole afternoon looking surprised?”
+
+“Especially because of that.” ᴹ
+
+She moves closer. He kisses her, and this time he doesn't have to catch his weight. He's sitting with his back against the pillows, and she has one hand against his shoulder, the other around his left hand. When she draws back, she remains close, studying his face.
+
+“I don't want to use it just because I'm scared,” she says. ʸ
+
+“Then don't.”
+
+“I want to use it because I choose to be there. The way you choose to be with me.” ʸ
+
+He thinks of the orchard. The fifth test was the one where she called him from nowhere and wrapped both arms around him for no reason except to see him arrive. He'd landed in the shadow of the apple tree and found her laughing at his expression.
+
+“That's the one I liked best,” he says. ᴹ
+
+“Which one?”
+
+“The orchard.”
+
+Her smile is immediate.
+
+“I didn't need anything,” she says. ʸ
+
+“I know.”
+
+“I just wanted you there.”
+
+“I know that too.” ᴹ
+
+She leans against him. He puts his right arm around her shoulders and lets her settle with her cheek against his chest. He can feel her breathing slow. After the long day of testing the new contract she seems almost sleepy, until she lifts her face and asks another question.
+
+“Can Ciel still hear me?” she says. ʸ
+
+He checks the quiet behind his own thoughts. The small door has closed on his side. He has felt it close before, every time Ciel decides that the two of them deserve to be left alone. But Yuka has her own link now, and he doesn't know whether privacy on one side means privacy on both.
+
+“I don't know,” he says. ᴹ
+
+Yuka sits up.
+
+“Ciel?”
+
+The answer comes through her link, and Mau hears it too.
+
+*Yes?* ᶜ
+
+“Did you close the door on my side?” ʸ
+
+*Not yet.*
+
+Yuka makes a face.
+
+“That's embarrassing.”
+
+*I have not been watching.*
+
+“That's not the same as a door.” ʸ
+
+Mau bites back a laugh. Yuka catches him at it and points a finger at his chest.
+
+“This is your fault.”
+
+“It's your contract.”
+
+“You built it.”
+
+“Together.” ᴹ
+
+She lowers her finger.
+
+“Together,” she agrees. ʸ
+
+Then she looks toward the place where she feels the link.
+
+“Could you close my side too, when we ask? Not just his?” ʸ
+
+*With your permission, yes.* ᶜ
+
+“Then please. And if I call you, I need you to answer.”
+
+*Of course.*
+
+“And if something really matters, you still tell us.”
+
+*We have already agreed on that rule.* ᶜ
+
+“I'm repeating it.”
+
+*I've noticed.* ᶜ
+
+The small sensation of the link closing is different from a voice fading away. For a second Yuka notices the absence of all the familiar presences that have been available to her since morning. She looks at Mau, uncertain, and he takes her hand.
+
+“Is it all right?” he asks. ᴹ
+
+She nods slowly.
+
+“It feels like closing a door in a house that still has everybody in it.”
+
+“That sounds about right.”
+
+“Except one of the people in the house is Noise.”
+
+“Noise is probably listening to Ciel explain how to check the walls again.” ᴹ
+
+Yuka laughs. The uncertainty disappears.
+
+“I like it,” she says. “I like choosing when the door is open.” ʸ
+
+“Me too.”
+
+She sits beside him again, close enough that her knee touches his. He slides his arm around her, and she tucks her shoulder under it.
+
+For a while neither of them speaks. The little noises of the house are still there. Someone goes past their door and says good night to Beru. A pipe ticks as the kitchen water cools. Nothing in those sounds demands an answer.
+
+Yuka turns her head toward him.
+
+“Can I tell you something without putting it in the notebook?” she asks. ʸ
+
+“You can tell me anything.”
+
+“I was scared today.” ʸ
+
+He waits.
+
+“Not of the contract. Of how happy it made me. It felt like if I laughed too much, you'd think I didn't understand what it was for.”
+
+He looks at her. He'd been watching her appear in doorways and gardens and laugh when he stepped out of her shadow. He hadn't realised there was another feeling underneath it.
+
+“I knew you understood,” he says. ᴹ
+
+“How?”
+
+“You asked what would happen if you were hurt. And if I was. And if we were on opposite sides of a gate. You didn't stop asking until we knew what we could say for sure.”
+
+She looks pleased, but not quite satisfied.
+
+“And?”
+
+“And you asked me to come to the orchard because you wanted a hug. That's important too.” ᴹ
+
+She brings both arms around him.
+
+“Like this?”
+
+“Exactly like this.”
+
+She squeezes. He holds her, the familiar weight of her against his right side, and lets the silence stay quiet.
+
+“I'm still afraid sometimes,” he says. ᴹ
+
+“I know.”
+
+“That you'll get hurt because I made something wrong.”
+
+“Then tell me if you find something wrong.”
+
+“I will.”
+
+“And I'll tell you if it hurts.” ʸ
+
+He looks down at her.
+
+“Even if you think I'll blame myself?”
+
+“Especially then.” ʸ
+
+It's his own answer, returned to him. He laughs softly, and she looks delighted that he noticed.
+
+She draws back to touch his face with both hands, brushes the hair out of his eyes, and kisses him. This time she doesn't pull him anywhere. He comes toward her on his own.
+
+When they part, she reaches across to the bedside table for the notebook. He watches her take it, expects another line of rules or dates, and is surprised when she closes it without writing anything.
+
+“No notes?” he asks. ᴹ
+
+“Not for this.”
+
+“That's unlike you.”
+
+“I heard what you said. I'll remember.” ʸ
+
+She puts the book back, turns toward him again and takes his hand beneath the blanket. He moves down from the pillows carefully; she follows, adjusting the covers around their legs and shifting until his left arm is resting comfortably on the mattress. Her cheek finds his shoulder.
 
 “Found you,” she whispers. ʸ
 
-“You never lost me.”
+“You didn't lose me.”
 
-“I know. I like finding you anyway.” ʸ
+“I know. I like finding you.” ʸ
 
-He lets himself be found. They stay in the shared quiet until her breathing slows, their hands still joined where she put them.
+He kisses her forehead. She rests there, then lifts her face for another kiss, then settles down again without having to ask him to move. The door inside them stays closed. The house stays a house. He feels her fingers curl around his and doesn't reach for anything else.
+
+When she falls asleep, her hand is still in his.

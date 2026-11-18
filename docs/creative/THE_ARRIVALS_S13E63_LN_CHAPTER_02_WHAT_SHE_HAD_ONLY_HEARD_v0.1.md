@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 14
 **Source episode:** S13E63
-**Continuity state:** Inside the Rulers' trial, days one to three (outside, still B+370). Mau buys a tent, blankets, food, water, clothes and Yuka's sweets with the currency the monsters drop. They sleep in turns: Beru keeps watch, Kamish lies across the tent door, Yuka refuses to sleep while Mau is awake and then falls asleep on him. In the middle floors they fight as one. On day two a stone-thing's tail comes for Yuka from her blind side; Mau takes it with his body and it opens his side and back. Beru, Ciel and Noise do what they've always done, quickly, without fuss: Yuka sees it for the first time instead of hearing about it. Most of it closes with RCT. One cut doesn't: the gate's own rule on things that hit him while protecting her. Mau tells her the truth: it's ugly and it isn't closing. That night she holds the lamp while he cleans it. No intimate scene inside the gate.
+**Continuity state:** Inside the Rulers' trial, days one to three (outside, still B+370). Mau buys a tent, blankets, food, water, clothes and Yuka's sweets with the currency the monsters drop. They sleep in turns: Beru keeps watch, Kamish lies across the tent door, Yuka refuses to sleep while Mau is awake and then falls asleep on him. In the middle floors they fight as one, using Yuka's already-familiar borrowed techniques and her own Ten Shadows, with the newly opened mana route supplying a limited Zoltraak cast at Mau's cost. On day two a stone-thing's tail comes for Yuka from her blind side; Mau takes it with his body and it opens his side and back. Beru, Ciel and Noise do what they've always done, quickly, without fuss: Yuka sees it for the first time instead of hearing about it. Most of it closes with RCT. One cut doesn't: the gate's own rule on things that hit him while protecting her. Mau tells her the truth: it's ugly and it isn't closing. That night she holds the lamp while he cleans it. No intimate scene inside the gate.
 
 *When: Inside the trial, days one to three. Outside, the same B+370 morning; the household has begun gathering in the orchard.*
 
@@ -83,7 +83,27 @@ It changes how he moves. He feels it change. In the quarry, in the hills, in eve
 
 And it's good.
 
-That's the strange part. It's *good*. They fight like one. She calls his Blue and he calls her dogs and they don't get in each other's way. When something big comes off a roof, she says *Mau* and he puts Infinity over both of them and she sends the black dog through the gap he leaves. When four things come up the street at once, she pulls him to her with the Exchange, nine breaths' worth of distance in an instant, and he lands at her side already turning, already cutting, and the four things don't get anywhere near her.
+That's the strange part. It's *good*. The borrowed cursed techniques aren't new to Yuka. She has had time to make Blue answer where she aims it, to use Red without losing her footing, and to direct her own dogs without asking Mau to do it for her. This is the first place where all of that has to work at once, with his reserves paying for her borrowed techniques and his attention kept on the cost.
+
+When something big comes off a roof, she calls *Mau*, and he wraps his second Infinity around her long enough for the black dog to pass through the opening he leaves. Yuka moves the dog herself. He turns Sky across the creature's path, and she catches the changed angle with a short Blue, placing it directly under her dog's jaws.
+
+On the next street three things come out of a broken shopfront with stone plates over their faces. She could move them with Blue. Instead she uses the other channel—the mana route they added three days before this gate.
+
+“Clear the lane,” she says. ʸ
+
+Mau steps to the left; she has a narrow line between his shoulder and the stone wall. He feels her take a carefully measured amount of mana. This isn't his cursed energy and isn't a second unlimited reserve magically appearing in her. She builds the spell herself, using a shape she's practised since the day she grew the little flowers between the training posts.
+
+Zoltraak.
+
+The shot goes through the gap beneath the front creature's jaw plate. Its head snaps back. The second one trips over the first, and Yuka's white dog takes it before it can regain its footing. She closes the mana draw, checks Mau's face and waits for his answer.
+
+“Fine,” he says. “Small cast. My mana, my cost. We're still good.” ᴹ
+
+“Then save the next one,” she says. “My dogs are free to use.” ʸ
+
+Not unlimited. Nothing is. But they're hers, not another draft against his reserves.
+
+When four things come up the next street at once, she calls Mau to her with Exchange. Nine breaths of distance vanish in an instant. He arrives at her side already turning, already cutting. The four things don't get close enough to touch her.
 
 “That was on purpose,” he says, afterward. ᴹ
 
@@ -105,7 +125,7 @@ On the second day, something gets past.
 
 Not past *him*. That's the point. Nothing gets past him. He's very careful about that.
 
-It's a big thing. Stone-skinned, long, low, with a tail like a column of rubble. It comes up out of a broken street in front of them and he's already moving, already reading, and the eyes find the tail half a second too late, because the tail isn't attached to the front of it. It's somewhere else. It's behind the wall to her left, coming round. Her blind side.
+It's a big thing. Stone-skinned, long, low, with a tail like a column of rubble. It comes up out of a broken street in front of them and he's already moving, already reading. Yuka's dogs are on the front; she has the mana channel closed, deliberately saving his reserves. Exchange is still inside its nine-breath interval from the last pull. The eyes find the tail half a second too late, because the tail isn't attached to the front of it. It's somewhere else. It's behind the wall to her left, coming round. Her blind side.
 
 *[Lethal to the Contracted.]*
 

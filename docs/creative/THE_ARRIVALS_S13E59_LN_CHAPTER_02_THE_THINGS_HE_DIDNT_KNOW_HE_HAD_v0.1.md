@@ -363,7 +363,7 @@ And she makes him buy her a sweet from every page of the Shop's snack section, o
 
 That night he's getting ready for bed.
 
-He's at the wardrobe, with his back to the room. Pulling his shirt off over his head, carefully, because the new skin on his side pulls when he lifts his arms. He gets it off. He drops it on the chair. He turns round.
+He's at the wardrobe, with his back to the room, changing into the shirt he sleeps in. Carefully, because the new skin on his side pulls when he lifts his arms. He gets the clean one on. He turns round.
 
 She's sitting up in bed.
 
@@ -386,8 +386,6 @@ She knows it too. He watches her know it. Watches her go pink, slowly, from her 
 She says it without looking away.
 
 *You.*
-
-He takes the clean sleep shirt off the wardrobe shelf and pulls it on, carefully, the same way, because of the new skin on his side. She watches that too.
 
 Mau has been caught by that word before, standing in precisely this place. Last time he was the one looking and Yuka was the one asking. He remembers the corner of the wardrobe door against his palm, the way she had laughed when he finally answered, and how he'd kept looking at her after the laugh had ended.
 
@@ -533,7 +531,7 @@ He looks at the notebook again. She follows his gaze and makes a small, dissatis
 
 “Those are the same thing, coming from you.” ʸ
 
-She reaches across his lap, takes the notebook by its corner and places it on the chair beside his discarded shirt. Then she returns to him without asking for help. One knee settles on the mattress beside his right thigh; she turns and sits close against him, both feet still under the blanket.
+She reaches across his lap, takes the notebook by its corner and places it on the chair by the bed. Then she returns to him without asking for help. One knee settles on the mattress beside his right thigh; she turns and sits close against him, both feet still under the blanket.
 
 “There,” she says. “Nothing left to count.” ʸ
 

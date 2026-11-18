@@ -169,4 +169,42 @@ She settles her head on his shoulder. Her fingers go back to the line on his arm
 
 She laughs into his shoulder, and holds on.
 
-> **[PARA WORK: cercanía, no escena íntima** (todavía le jala la quemadura; la escena íntima de este tramo va al día del inventario). Si quieres, un beso cuando ella dice que la cicatriz es un camino. **Sin límite de palabras; no comprimas.]**
+She runs her finger once more along the new line, from his wrist toward the elbow. He watches her hand move, so gentle it barely changes the pressure on his skin.
+
+“A road,” he repeats. ᴹ
+
+“Mm.”
+
+“Does it go anywhere?”
+
+“Here,” she says, and guides his hand to rest over her heart. ʸ
+
+He looks at her. She has been waiting for him to look at her.
+
+The kiss is soft and unhurried. When she leans back, she studies his face for any sign that she pulled too hard on the healing skin.
+
+“Did that hurt?” she asks. ʸ
+
+“No.”
+
+“Tell me if it does.”
+
+“I will.” ᴹ
+
+She looks satisfied, though he can tell she intends to verify the promise for herself. She tucks her shoulder into the curve of his good arm and draws the blanket around them both.
+
+He wants to test whether he can hold her the way he used to, lift her without thinking, catch her when she decides the bed is too far away. But the arm is new and Shoko has told him what new means. He keeps it where it is.
+
+Yuka notices anyway.
+
+“We don't have to do everything tonight,” she says. ʸ
+
+“I know.”
+
+“You're allowed to get better slowly.”
+
+“That's not what I wanted to hear.” ᴹ
+
+“Good. Now you know how Shoko feels.”
+
+He laughs. She does too, and then they settle together again. Her hand remains on the scar, no longer tracing it as though she's checking whether it will disappear. Just resting there, because it belongs to him and she is glad he's here.

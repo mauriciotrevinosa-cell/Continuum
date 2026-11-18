@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 4
 **Source episode:** S13E58
-**Continuity state:** B+356. A lazy afternoon in bed with Yuka. Ciel does what she always does when Mau and Yuka are being private: closes her view and Noise's. DIO, visiting through her line to Noise, takes the chance. When Mau turns inward later to ask Noise something, he finds Ciel and DIO crowded close around Noise in the dark and says he can come back later. They act as if nothing happened. Noise asks him for help. Makima, who lives in there too now, comes to see what the fuss is; Noise flees "to check the walls". Ciel and DIO bristle. Mau tells Yuka all of it, and she laughs until she cries. Closeness; no intimate scene.
+**Continuity state:** B+356. A lazy afternoon in bed with Yuka. Ciel does what she always does when Mau and Yuka are being private: closes her view and Noise's. DIO takes the chance. When Mau goes to the shared inner room later to ask Noise something, he finds Ciel and DIO crowded close on either side of Noise at the table and says he can come back later. They act as if nothing happened. Noise asks him for help. Makima, who lives in there too now, comes to see what the fuss is; Noise flees "to check the walls". Ciel and DIO bristle. Mau tells Yuka all of it, and she laughs until she cries. Closeness; no intimate scene.
 
 *When: B+356. A grey afternoon. Shoko has decided that lying down counts as recovery and has told Yuka to make sure he does it.*
 
@@ -53,9 +53,9 @@ Yuka has dozed off on his chest. He's lying there in the grey light with his goo
 
 He turns inward to ask it.
 
-He doesn't see anything in there. He never does. There's nothing to see; it isn't a place. But he can *feel*. Presences. Their weight, their closeness, where they are in the dark relative to each other. Noise, huge and everywhere, the floor of him. Ciel, sharp and bright, usually a little way off, watching. Makima, very deep, holding the sea.
+He goes to the room.
 
-And today, DIO. Which is normal. DIO comes through Noise's line most evenings; she likes to talk to it about building things.
+The shared one, inside him. The one with the table and the chairs and the cup nobody ever quite finishes. He doesn't knock; he's never had to. He knows how it usually looks. Noise, the shadow outline of it, beside the table. Ciel in the chair Noise once adjusted for her so she could sit at the table without moving the cup. DIO wherever she likes, which is usually somewhere she can talk to Noise about building things. And Makima, since she came, in the chair by the far wall, very upright, her hands folded in her lap, the way he thinks of as holding the sea, though it's only a way of thinking about it.
 
 What isn't normal is where everyone is.
 
@@ -63,7 +63,7 @@ What isn't normal is where everyone is.
 
 Ciel and DIO are *right up against* Noise.
 
-Both of them. From both sides. Pressed in close, the way Yuka presses in close on the couch during a movie. He can feel DIO's warmth, bright and delighted, practically wrapped around one side of Noise, and Ciel, who has never in all the time he's known her been anything but precise and composed and a little way off, tucked in very primly but very definitely against the other.
+Both of them. From both sides. Pressed in close, the way Yuka presses in close on the couch during a movie. DIO has pulled her chair right up against the shadow of Noise, practically leaning on it, bright and delighted. And Ciel, who has never in all the time he's known her been anything but precise and composed and a little way off, is sitting on the other side, very primly, with her shoulder very definitely against it.
 
 Noise is in the middle.
 
@@ -75,15 +75,15 @@ He stops.
 
 They all stop.
 
-There's a long moment in the dark where nobody moves and everybody knows that everybody knows.
+There's a long moment in the room where nobody moves and everybody knows that everybody knows.
 
 “I can come back later,” Mau says. ᴹ
 
 * * *
 
-They come apart so fast he can feel the wind of it.
+They come apart so fast the chairs scrape.
 
-DIO goes bright and scattered, like a bird startled off a branch, and resettles a respectable distance away, humming something tuneless. Ciel is suddenly exactly where she always is, a little way off, composed, watching, as if she has been there all afternoon and is mildly surprised to see him.
+DIO is up and across the room in one movement, at the far end of the table, humming something tuneless and examining the cup with great interest. Ciel is suddenly in her own chair, exactly where it always is, hands folded, composed, watching, as if she has been sitting there all afternoon and is mildly surprised to see him.
 
 “Did you need something?” Ciel asks. ᶜ
 
@@ -127,17 +127,17 @@ He almost laughs out loud. He catches it just in time; Yuka's asleep on his ches
 
 * * *
 
-Something stirs, very deep.
+The far door opens.
 
-He feels it before anyone says anything. A presence rising from the place where the sea is held. Not all the way. Just enough to look. Makima, who lives in here too now, coming up to see what the commotion is about.
+Makima, who lives in here too now, in her own body, the way the others do, comes in from her side to see what the commotion is about.
 
-She arrives very calmly. She looks at the arrangement: DIO a little too far away to be natural, Ciel a little too composed to be innocent, and Noise in the middle, rigid with embarrassment.
+She stops just inside the door, very calm. She looks at the arrangement: DIO a little too far down the table to be natural, Ciel a little too composed to be innocent, and Noise in the middle, rigid with embarrassment.
 
 “Is something wrong?” Makima asks. ᴹᵏ
 
 Noise goes completely silent.
 
-And then, very suddenly, Noise is *elsewhere*. Not gone. Noise can't be gone; Noise is everything. But its attention is suddenly, intensely, very far away, at the outermost edge of him, like someone who's just remembered an urgent errand on the other side of the house.
+And then, very suddenly, the shadow of Noise isn't by the table. It's thinned out and slid away through the wall like someone who's just remembered an urgent errand on the other side of the house. Not gone. Noise can't be gone. Just very, very far away, at the outermost edge of him.
 
 “I'm checking the walls,” Noise announces, from very far away. ᴺ
 
@@ -153,7 +153,7 @@ DIO and Ciel are both very still. Not where they were before. Somewhere else. Bo
 
 He can feel it coming off them. Not hostility, exactly. Something more specific than that. Something with an edge.
 
-Makima looks at the two of them. Then, very slightly, at the far edge where Noise is busily checking walls.
+Makima looks at the two of them. Then, very slightly, at the wall Noise went through.
 
 “Ah,” she says. ᴹᵏ
 
@@ -161,9 +161,9 @@ That's all. Just *ah*. But there's something in it he's never heard from her bef
 
 “I'll go back down,” she says. ᴹᵏ
 
-She does. Back to the sea. Very calmly.
+She does. Back out through her door, and it closes behind her, very calmly.
 
-DIO and Ciel stay turned toward where she went for a long time.
+DIO and Ciel stay turned toward the door for a long time.
 
 * * *
 
@@ -193,9 +193,9 @@ Much later, when they can breathe, Yuka lies with her chin on his chest and look
 
 He checks.
 
-Noise is still at the far edge, checking walls. Very thoroughly. Ciel has gone over to keep it company, a little way off, the way she always is. DIO is humming.
+Noise is still at the far edge, checking walls. Very thoroughly. Ciel has gone out to keep it company, a little way off, the way she always is. DIO is back at the table, humming, turning the cup round and round.
 
-And very deep, Makima is holding the sea. And, he thinks, if he's not imagining it, still faintly amused.
+And Makima is in her chair by the far wall again, hands folded, the way he thinks of as holding the sea. And, he thinks, if he's not imagining it, still faintly amused.
 
 “Noise is fine,” he says. ᴹ
 

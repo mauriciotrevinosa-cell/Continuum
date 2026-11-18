@@ -118,3 +118,14 @@ The island is lived **as one house.** The others' moments happen around Mau and 
    - The staggered returns as interruptions to the shared days.
    - Mau and Yuka's days alone, spaced out.
 
+## Mau and Yuka's pause (17 November 2026)
+
+> madres tu y yo nos sincronizamos tus propnidas estan increibles y aun vemos bien lo de la isla pq hay una diferencia entre yuka estar cerca de mau y el frutifantastico
+
+Since V80 #6, Mau and Yuka are on pause (no intimate scenes) after the bathroom floor in V79. Mauri **seconded** two of Claude's ideas so the pause doesn't get lost:
+
+1. **Make it visible now and then,** without drama: Yuka stealing food off his plate on purpose and him pretending to be offended; they both know what it means.
+2. **She's the one who ends the pause, in her own words,** not "because it's time". Something like "I'm not counting anymore", maybe while stealing something off his plate to close the circle.
+
+**Distinction:** Yuka being close to Mau (clingy, in his lap, kisses, closeness) is one thing; the *frutifantástico* is another. The closeness never pauses. When and how the pause ends on the island is still to be planned calmly.
+

@@ -165,7 +165,7 @@ Behind them, at the top of the stair, there's a sound like a door being shut in 
 
 * * *
 
-He's up the stair before he's thought.
+He's up the stair before he's thought, and he hasn't let go of her arm. She comes up with him, two steps at a time, her dogs scrambling after.
 
 The stair goes up to the second floor. The second floor is there: the forest, the branches, the spider lying where Red put it. But the way out, the long climb back to the first floor and the forest and the oval of light and the orchard: it isn't there anymore. Where the stair to the first floor was, there's stone. Flat. Seamless. The eyes go into it and find nothing. Not a wall. Not a seal. Just *the end of the gate*, as if there had never been anything above.
 
@@ -185,13 +185,11 @@ A pause.
 
 * * *
 
-He goes back down.
+They go back down together.
 
-She's standing at the bottom of the stair where he left her, with her dogs pressed against her legs. She's very pale. It's the one face in the world he sees in colour, and all of it has drained out. She's reading the box again; he can see her lips moving.
+At the bottom she stands with her dogs pressed against her legs. She's very pale. It's the one face in the world he sees in colour, and all of it has drained out. She's reading the box again; he can see her lips moving.
 
 *Any direct hit on the Contracted is lethal.*
-
-She looks up when he comes down.
 
 “Is it true?” she says. ʸ
 

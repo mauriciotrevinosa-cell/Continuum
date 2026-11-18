@@ -255,7 +255,7 @@ He looks at her.
 
 She starts to laugh.
 
-He doesn't know why. Neither does she. They're standing on a fake beach at the bottom of a gate that wants to kill her, wet through and frozen and exhausted, with the hip cut stinging and her arms aching from Shrine, and she's laughing so hard she has to sit down on the stone, and then he's laughing too, kneeling beside her, both of them shaking and laughing and unable to stop.
+He doesn't know why. Neither does she. They're standing on a fake beach at the bottom of a gate that wants to kill her, wet through and frozen and exhausted, with the hip cut stinging and her arms aching from gripping Mau's shoulders for the whole crossing, and she's laughing so hard she has to sit down on the stone, and then he's laughing too, kneeling beside her, both of them shaking and laughing and unable to stop.
 
 Beru comes up out of the water behind them. He looks at them both.
 

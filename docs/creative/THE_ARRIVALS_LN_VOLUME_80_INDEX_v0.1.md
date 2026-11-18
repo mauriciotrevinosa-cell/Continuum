@@ -35,6 +35,8 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 | 18 | S13E65 | What Makima Sees | `THE_ARRIVALS_S13E65_LN_CHAPTER_02_WHAT_MAKIMA_SEES_v0.1.md` |
 | 19 | S13E66 | The Flooded Floors | `THE_ARRIVALS_S13E66_LN_CHAPTER_01_THE_FLOODED_FLOORS_v0.1.md` |
 | 20 | S13E66 | Three Sweets | `THE_ARRIVALS_S13E66_LN_CHAPTER_02_THREE_SWEETS_v0.1.md` |
+| 21 | S13E67 | The Garden | `THE_ARRIVALS_S13E67_LN_CHAPTER_01_THE_GARDEN_v0.1.md` |
+| 22 | S13E67 | Ciel Counts | `THE_ARRIVALS_S13E67_LN_CHAPTER_02_CIEL_COUNTS_v0.1.md` |
 
 ## Continuity locks and open decisions
 
@@ -67,3 +69,5 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 - #18 (Claude, day 6): leaving the warm house; the great stair down (about two days to the Warden). Yuka uses her rule the other way and goes to Makima through the link: Mau fights with one hand, the other always kept free for her; he keeps the part of him that wants to open everything shut himself; Makima, bound to his body but not quite part of him, could hold the tearing weight if he ever opened all of it, for a little while, and would tell Yuka first if there were time. Noise checks and agrees. Mau hears it all and doesn't interrupt. "Good night, Makima."
 - #19 (Claude, day 7): the drowned level; Mau carries Yuka on his back the whole way; Kamish floats as a raft for the bags. Yuka uses his Shrine for the first time: too long once (cuts a pillar, wakes the level), then Ciel gives lengths in steps and she gets cleaner. "It feels like it wants to be longer." "Every time." Dry clothes: "middle".
 - #20 (Claude, night of day 7): the three sweets Yuka was saving "in case"; they eat them. Island talk: matching enormous hats, Mau guesses Elmesia's gift is a boat; DIO asks for a third matching hat. Yuka reads him the notebook page of every mark and "turned"; she writes "He's still here. So am I." He adds "Both."
+- #21 (Claude, day 8): a cavern floor made of nests; all wake at once, too many directions for one free hand. Yuka opens Chimera Shadow Garden around both of them (closed barrier, dark ground that takes their feet, Ten Shadows and duplicates placed; nothing outside sees in) and covers Mau, the first time she protects him in the gate. Mau's Blue through holes she opens in the lid. Burnout on closing: her technique closed about a day, and even his techniques through the contract are too heavy for her. Mau carries her in his arms.
+- #22 (Claude, night of day 8): Yuka still burnt out and frightened of being useless; Mau makes the soup and holds the cup. Ciel tells Yuka why she counted in the Trial: not useful, only proof that time was passing and he was still in it; she's counting Yuka's breaths since the garden for the same reason. "Keep going." DIO makes Beru fold one wing and watches that side. Mau thanks Ciel for the Trial, the first time.

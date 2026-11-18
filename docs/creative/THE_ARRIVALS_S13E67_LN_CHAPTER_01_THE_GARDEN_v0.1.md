@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 21
 **Source episode:** S13E67
-**Continuity state:** Inside the Rulers' trial, day eight. Below the drowned level, a vast cavern where the floor is a nest: hundreds of small fast things that wake all at once. Too many directions for Mau to cover her from every side with one hand free. Yuka opens her Domain, Chimera Shadow Garden, around both of them: a closed barrier, a dark ground that takes their feet, her Ten Shadows and their duplicates placed through it. From outside nothing can see in. Inside, for the first time in the gate, Mau is the one being protected: he fights in her ground, on her terms, and nothing reaches either of them. When it's done and she closes it, the burnout is real: her technique won't answer and she's shaking and grey-faced. His techniques would still come through the contract, with the weight on him as always, but she won't add to what he's carrying. Mau carries her out of the cavern. No intimate scene inside the gate.
+**Continuity state:** Inside the Rulers' trial, day eight. Below the drowned level, a vast cavern where the floor is a nest: hundreds of small fast things that wake all at once. Too many directions for Mau to cover her from every side with one hand free. Yuka opens her Domain, Chimera Shadow Garden, around both of them: a closed barrier, a dark ground that takes their feet, her Ten Shadows and their duplicates placed through it. From outside nothing can see in. Inside, for the first time in the gate, Mau is the one being protected: he fights in her ground, on her terms, and nothing reaches either of them. When it's done and she closes it, the burnout is real: her technique won't answer and she's shaking and grey-faced. His cursed techniques and the new mana route remain available despite Ten Shadows burnout. Yuka declines a heavy Blue that would strain his injured body, but with his agreement casts one tightly measured Zoltraak using his mana before they retreat; the burnout is still real. Mau carries her out of the cavern. No intimate scene inside the gate.
 
 *When: Inside the trial, day eight. Outside, still B+370, early afternoon; Yuta has come down to the orchard and is sitting on the wall beside Maki.*
 
@@ -223,25 +223,41 @@ He knew it would be. He's read about it, in the notes Ciel keeps; he's seen her 
 
 “Ciel?” ᴹ
 
-“A day,” says Ciel. “Maybe more. Her technique is closed until it settles. She can't open it. Not even a little.” ᶜ
+“A day,” says Ciel. “Maybe more. Your Ten Shadows and Domain are in technique burnout, Yuka. That is what won't answer. The borrowed routes through Mau's contract are separate. His cursed techniques are still available, and so is the mana channel you opened together.” ᶜ
 
-Yuka closes her eyes.
+Yuka closes her eyes. She knows the difference. It doesn't stop her from wanting her own dogs back immediately.
 
-“Your things,” she says. “Through the contract. I can still use yours.” ʸ
+“Your Blue,” she says. “I could still call it.” ʸ
 
-She reaches for his Blue, the smallest one, the one she threw on the first floor. It's there. It comes the way it always comes, and the weight of it lands where it always lands: on him.
+She reaches just far enough to check. It is there, as familiar as ever, and the cursed-energy weight begins to settle on Mau. She feels his hip tighten beneath the strain. She stops before the Blue forms.
 
-She feels him take it.
+“Not right now,” she says. “Not another heavy technique on you.” ʸ
 
-The hip. The four lines of the tower stair, healed but still pulling. Eight days of one hand kept free. Everything he's already carrying, and now this on top, because she asked for it.
+“You can ask,” he says. “I want you to have it when you need it.” ᴹ
 
-She lets go before it's finished forming.
+“I know. That's why I'm asking what you can spare.” ʸ
 
-“No,” she says. ʸ
+*Mana is also accessible,* Ciel says. *It will cost him, but the smaller spells draw from a different reserve. Not nothing. Not free.* ᶜ
 
-“You can,” he says. “It's what it's for.” ᴹ
+A clicking sound comes from the cavern wall. One straggler, small enough to have escaped the garden's last sweep, is crawling down toward the stair. Beru moves to meet it.
 
-“Not today.” Her voice is very small. “You're carrying enough. I'm not putting more on you because I can't stand doing nothing.” ʸ
+“Can I take that one?” Yuka asks. ʸ
+
+Mau looks at the thing, then at her trembling hand. He can feel his own reserves and tell how much room he has left.
+
+“One narrow Zoltraak,” he says. “No more. I'll hold you steady.” ᴹ
+
+She shifts one arm against his shoulder so she doesn't have to stand. He turns a little, keeping her in the shelter of his Infinity, and she finds the familiar spell shape through the mana route. It's harder to keep her focus after the Domain, but the channel hasn't vanished. Mau supplies the mana. She chooses the target. Her hand steadies for a breath.
+
+The shot is small and clean. The crawler drops before Beru reaches it. She closes the channel at once.
+
+“That's enough,” she says. ʸ
+
+Mau nods. The cost is there, distinct from cursed energy, and she felt him pay it. Her dogs are still out of reach. The Domain burnout hasn't ended. But neither has the rest of her ability to act.
+
+“I'm not asking you to pay for another one,” she says. “Not while that cut is open.” ʸ
+
+“I know.” ᴹ
 
 * * *
 
@@ -249,13 +265,13 @@ He picks her up.
 
 Not on his back. In his arms. The way you carry someone who's asleep. She doesn't argue. She puts her face against his neck and her hand fisted in his shirt and shakes.
 
-“I'm useless,” she says. ʸ
+“I hate this,” she says. “My dogs won't answer. I can still borrow yours, I can still use mana, and all of it asks you to carry more.” ʸ
 
-“You just killed a cavern.” ᴹ
+“You just held a whole cavern around us,” he says. “That was yours.” ᴹ
 
-“And now I'm *useless*. For a day. In a gate where one thing—” ʸ
+“And now I can't do it again. Not today. In a Red Gate where one thing touching me—” ʸ
 
-“Nothing's touching you.” ᴹ
+“Then we don't ask you to do it again today,” he says. “We use what we have, and nothing gets through.” ᴹ
 
 “You've only got one hand.” ʸ
 

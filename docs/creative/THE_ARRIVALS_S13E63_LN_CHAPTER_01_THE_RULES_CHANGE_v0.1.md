@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 13
 **Source episode:** S13E63
-**Continuity state:** B+370, morning. Yuka keeps the promise she made at the quarry ("From now on, I'm coming with you"): she asks to go into the household gate with Mau to try the new contract fighting as one. Mau sets it to a middle setting. Inside, on the third floor, the game changes its rules without breaking: administrator override, the Rulers' trial of the Stabilizer. Condition: protect the Contracted. Modifier: any direct hit on Yuka is lethal; Mau is not multiplied. The Shop is open. Exit only when the Warden dies. The entrance closes. Outside, the orchard sees the oval change. The Exchange still works between the two of them, but not out of the gate. Mau doesn't lie to her about what it means.
+**Continuity state:** B+370, morning. Yuka keeps the promise she made at the quarry ("From now on, I'm coming with you"): she asks to go into the household gate with Mau to try the new contract fighting as one. Mau sets it to a middle setting. Inside, on the third floor, the game changes its rules without breaking: administrator override, the Rulers' trial of the Stabilizer. Condition: protect the Contracted. Modifier: any direct hit on Yuka is lethal; Mau is not multiplied. The Shop is open. Exit only when the Warden dies. The Rulers' override converts the ordinary weekly gate into a locked **Red Gate** mid-run; the exit closes and the flow of outside time diverges. Outside, the orchard sees the oval turn red. The Exchange still works between the two of them, but not out of the gate. Mau doesn't lie to her about what it means.
 
 *When: B+370. Morning. Three days after the contract, one day after the ring. Outside, Shoko is doing the inventory of the clinic; inside the house, nobody is worried yet.*
 
@@ -29,7 +29,7 @@ She comes in. She sits on the bed beside him and starts lacing the other boot fo
 
 He remembers. Her standing in front of the gate. *Even if I do nothing.*
 
-“And now I've got the contract,” she says. “I can use your things. You can use them in me. We're supposed to fight like one. I want to see if we do. Somewhere boring. Before it matters.” ʸ
+“We've had the technique contract for ages,” she says. “Now I can use your mana and spells too, and I can call you through Exchange instead of waiting. I want to test how all of it works together. Somewhere boring. Before it matters.” ʸ
 
 She ties the knot. She pulls it tight. She looks at him.
 
@@ -75,49 +75,83 @@ She's already drawn her shadow up around her feet. Her dog is there, the white o
 
 The first thing comes out of the trees at her.
 
-And he doesn't move.
+Mau starts to step across her line. He checks himself before his foot leaves the ground.
 
-He has to stop himself. Every part of him wants to step in front. Instead he stands where he is and lets her take it, because she asked, because that's what today is for, and he watches her reach into him, through the contract, without even looking at him.
+She's fought beside him before. She's called his Blue before. Today she isn't trying to discover what one of his techniques does; she's trying to use all the parts of the contract together without having to wait for him to choose the next move.
 
-Blue.
+Yuka keeps her white dog low at her left heel. A many-legged thing drops from the branches directly ahead. She brings Blue up in her right hand, small and controlled, and sets the pull a little to one side rather than straight into her own position. The thing changes direction in midair and lands where her dog is already waiting.
 
-His Blue. Small, tight, in her palm. She's never used it before; he can feel her fumbling with it, and the weight of it landing on him, the way the contract says, and her not knowing what to do with how little she has to hold. It goes out of her hand a little crooked. But it goes. The thing in the air folds in on itself and drops.
+Mau feels the cursed-energy cost settle on him. The weight is familiar; her aim is her own. She closes Blue as soon as the dog finishes.
 
-She looks at her hand.
+“Your left?” he asks. ᴹ
 
-She looks at him.
+“Already covered.” ʸ
 
-“*Oh*,” she says. ʸ
+The black dog comes out of her shadow at that side and takes the second thing before Mau finishes turning.
+
+He grins.
+
+“That's better than telling me to stand in front.”
+
+“I can still tell you that when I want to.” ʸ
 
 * * *
 
-It's good.
+On the first two floors they make a game of the timing.
 
-That's the thing. The first two floors are good. Better than good. She uses his Blue and he uses her dogs, the white one and the black one, through the contract, the other way; they've never done that either, and the dogs don't seem to mind which of them is asking. When a whole tree of the patient things comes down at once, she says *Mau* and he puts Infinity over her without thinking and she laughs out loud inside it. When three of them come at him from behind, she says nothing, just sends the black dog, and it's there before he's turned.
+Yuka directs her own Ten Shadows. Mau puts Sky in the path of a rushing creature, turning its leap just enough to give her dog a clean approach; she follows it with Blue, pulling the target away from the trunk it is clinging to. They know the two techniques separately. The trick is learning how fast she needs the borrowed pull to arrive after he shifts the space.
 
-They don't talk much. They don't need to.
+When a whole tree of the patient things starts moving at once, she calls *Mau*, and he brings his second Infinity around her for a moment while she sends both dogs through the space he leaves clear. She laughs inside the protection, not because the ability is new, but because this time she can feel exactly when he opens it.
 
-On the second floor, a thing like a great grey spider drops on them from a ceiling of branches. He's still turning when he feels her reach for Red. His Red. In her. He feels her hesitate, because Red is harder, because she's never even tried—
+The spell route is the new part.
 
-He opens it in her. The emergency way, the third thing on her list. Just a nudge. *Here*.
+They have tested it in the yard since the contract was expanded. The flowers were easy. The mana pattern for Zoltraak has taken more attention. Yuka knows the shape Mau learned from Frieren, but she still has to form the cast herself; Ciel will not do it for her.
 
-She throws it.
+A cluster of the things drops off the far wall. Mau shifts aside to give her a clear line.
 
-The spider goes back up into the branches a great deal faster than it came down.
+“Magic?” he asks. ᴹ
 
-She stands there breathing hard with her hand still out.
+“Just one.” ʸ
 
-“Did you do that?” she says. ʸ
+She reaches through the new mana channel instead of the cursed-energy route. He feels a small, distinct draw against his mana reserve. Her hand stays steady. She chooses the narrowest of the advancing targets and casts Zoltraak. The shot catches it in the centre; the thing behind it stumbles over the body and her dog finishes that one.
 
-“I helped.” ᴹ
+She closes the route immediately.
 
-“I *felt* you help.” ʸ
+Mau checks the separate cost. The borrowed Blue earlier took cursed energy from him; the spell has taken mana. Neither is free, and the reserves don't become one pool just because she can reach both.
 
-“Was it bad?” ᴹ
+“Not bad,” he says. ᴹ
 
-She turns round. Her face is flushed and fierce and alight.
+“I wanted two.”
 
-“It was *amazing*,” she says. ʸ
+“You had the line for one.”
+
+“I know. I'm practising choosing one.” ʸ
+
+He likes that answer.
+
+On the second floor a huge grey spider drops from the ceiling of branches toward them. Yuka doesn't need him to introduce Red or open it for her. She has used his reversal before, and she knows what it feels like when her aim has to hold against the force going outward instead of pulling inward.
+
+“Above us,” she says. ʸ
+
+“Right side of the branch,” he answers. ᴹ
+
+She sets Red at an angle that sends the spider away from the broken stair rather than straight down through it. The force throws it across the canopy and into the stone on the far side.
+
+Mau feels the heavier cursed-energy draw. He doesn't hide it from her.
+
+“That one cost more,” he says. ᴹ
+
+“I felt it reach you. Are you all right?” ʸ
+
+“Yes. We don't use it for every spider.”
+
+She looks up at the wreckage in the branches.
+
+“Fine. Next one gets the dogs.” ʸ
+
+The exchange of control is the part that is working. She chooses; he can tell what it costs. He moves the terrain; she sees the opening. Neither mistakes borrowing a reserve for being given a finished skill.
+
+* * *
 
 * * *
 
@@ -140,6 +174,8 @@ It isn't the usual box. He can't see the colour, he never can. But Ciel, inside,
 > **[ADMINISTRATOR OVERRIDE.]**
 >
 > **[The current instance has been reassigned.]**
+>
+> **[Classification: RED GATE. Entrance sealed.]**
 >
 > **[Trial: THE STABILIZER.]**
 
@@ -175,7 +211,7 @@ The stair goes up to the second floor. The second floor is there: the forest, th
 
 “*Noise*.” ᴹ
 
-“It's the Rulers,” Noise says. “Not the system: them. The same hand as the quarry. They've taken the household gate and put something else inside it. It's not broken. It's not a fault. It's working exactly the way they mean it to.” ᴺ
+“It's the Rulers,” Noise says. “Not the system: them. The same hand as the quarry. They've taken the household gate and converted the active instance into a Red Gate. It wasn't red when you came in. It is now. The ordinary entrance is sealed, and the time outside won't keep pace with the time in here. This is deliberate, not a malfunction.” ᴺ
 
 “Can I break it?” ᴹ
 
@@ -319,7 +355,9 @@ He looks at her. Pale and fierce and very close, with her dogs at her feet, and 
 
 Outside, in the orchard, Ori is the first to notice.
 
-She's come down with a basket to pick the last of the small hard pears, the ones Shuna wants for the jam. She stops on the path. The oval between the two old trees has changed. It isn't humming anymore. It's gone very still, and very bright, and the light it gives off is a colour Ori has never seen it be.
+She's come down with a basket to pick the last of the small hard pears, the ones Shuna wants for the jam. She stops on the path. The oval between the two old trees has changed. It isn't humming anymore. It's gone very still, and very bright. The light is red.
+
+Not the weekly gate she watched Mau and Yuka enter. A Red Gate has taken its place, its sealed surface giving no way to reach them.
 
 She drops the basket.
 

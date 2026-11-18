@@ -103,7 +103,7 @@ He's standing over the dead thing at the foot of the pillar. He doesn't move.
 
 *Is that bad?* says Yuka. ʸ
 
-*It's what he chose*, says Makima. *I don't think it's bad. I think it's expensive. He hasn't opened anything large since you came in here. Nothing. Blue, small. Red, once, in you. Shrine in lines. He's very strong, Yuka. Stronger than he lets anyone see, including you. And he's been fighting this whole gate with what he can spare.* ᴹᵏ
+*It's what he chose*, says Makima. *I don't think it's bad. I think it's expensive. He hasn't opened anything large since you came in here. Blue, small. Red, with you. Shrine in lines. The few mana spells you cast through the new channel came out of his supply too, and he watched every cost without asking you to stop. He's very strong, Yuka. Stronger than he lets anyone see, including you. And he's been fighting this Red Gate with what he can spare.* ᴹᵏ
 
 * * *
 

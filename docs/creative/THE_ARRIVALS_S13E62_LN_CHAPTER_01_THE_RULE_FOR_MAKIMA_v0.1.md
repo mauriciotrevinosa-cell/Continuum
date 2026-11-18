@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 11
 **Source episode:** S13E62
-**Continuity state:** B+367. Expanding Yuka's contract. What already exists: Yuka can use any of Mau's techniques on his reserves, with Mau carrying the weight; the second Limitless he built inside himself for her; and in an emergency he can trigger a technique in her. New today: the Exchange, which Yuka can now start herself. She tests it at once, pulls him across the yard to her, and Mau's face when he understands what he's agreed to makes the whole porch laugh. And a link in her head like his with Rimuru, so Ciel, Noise, DIO and Makima can reach her. Before anything, Makima asks what the rule is. Yuka: if it's important, talk to me; if not, I'll come to you; you can ask if you can speak, and I'll decide. A playful day; Ciel closes the door at night. The contract-night intimacy follows their mutual privacy decision, with a deliberate invitation and a non-graphic transition; Yuka's new link remains closed by consent.
+**Continuity state:** B+367. Expanding Yuka's contract. What already exists: Yuka can use any of Mau's techniques on his reserves, with Mau carrying the weight; the second Limitless he built inside himself for her; and in an emergency he can trigger a technique in her. New today: the Exchange, which Yuka can now start herself, a direct mana-and-spell channel through the existing contract, and a mental link she controls. She tests it at once, pulls him across the yard to her, and Mau's face when he understands what he's agreed to makes the whole porch laugh. And a link in her head like his with Rimuru, so Ciel, Noise, DIO and Makima can reach her. Before anything, Makima asks what the rule is. Yuka: if it's important, talk to me; if not, I'll come to you; you can ask if you can speak, and I'll decide. A playful day; Ciel closes the door at night. The contract-night intimacy follows their mutual privacy decision, with a deliberate invitation and a non-graphic transition; Yuka's new link remains closed by consent.
 
 *When: B+367. Two days after the birthday. Yuka has written CONTRACT at the top of a new page and underlined it twice.*
 
@@ -27,7 +27,7 @@ They're on the porch. She's in his lap, facing out, with the notebook on her kne
 
 She taps the page with her pencil.
 
-“And today,” she says, “two more.” ʸ
+“And today,” she says, “three more.” ʸ
 
 * * *
 
@@ -100,6 +100,54 @@ She's still laughing. She comes over and takes the cup out of his hand and drink
 He stands at the training posts, wet, and watches her go.
 
 Nine breaths later, he's on the porch again.
+
+* * *
+
+“Mana,” Yuka says, tapping the third new line in her notebook. “We almost forgot the part I asked for.” ʸ
+
+“We didn't forget,” Mau says. “Ciel wouldn't let us.” ᴹ
+
+*Correct,* says Ciel, through him. *It is a separate supply path. The existing contract already lets Yuka choose and execute the cursed techniques Mau has made available, with their cost borne by him. That part has not changed.* ᶜ
+
+Yuka knows. She's been working with his techniques long enough to know the difference between a borrowed tool and someone moving her hand for her.
+
+“But the mana side was missing,” she says. ʸ
+
+“Until now,” Mau agrees. ᴹ
+
+Noise and Ciel have added another route to the same agreement: access to Mau's finite mana supply and to spell patterns he actually knows how to perform. Mana is not cursed energy under a different name. A spell still needs its own shape, attention and aim. The contract doesn't teach her every spell in the world, doesn't fill a second reservoir inside her and doesn't erase the cost in Mau.
+
+“Your mana,” she reads. “Your cost. My decision and my casting. And I can stop.” ʸ
+
+“Any time,” he says. ᴹ
+
+She turns the page around so he can see the line she's added beneath it.
+
+*No borrowing something so large he can't stand afterward.*
+
+“That's a good rule,” he says. ᴹ
+
+“It's a very good rule. Now show me if it works.” ʸ
+
+They go to the training posts, where no one has to worry about a miscast spell hitting the house. She knows the flower spell. It was the first magic Mau learned from Frieren; she's watched him use it often enough to remember what the result should look like. Knowing the result isn't the same as forming it, and Ciel doesn't offer to cast on her behalf.
+
+Yuka crouches beside a bare patch of dirt. She reaches along the new route, finding not the sharp familiar response of cursed energy but a smaller, steadier current she can shape without pulling on his Blue or her shadows. Mau feels the corresponding draw in himself. It is real, modest, and distinct from what he feels when she uses his Limitless.
+
+“Too much?” she asks. ʸ
+
+“No. Keep the shape small.” ᴹ
+
+She does. One flower opens between the posts, then another beside it. Both are plain and a little crooked. Yuka looks at them, looks at Mau, and smiles.
+
+“That,” she says, “was mine to aim.” ʸ
+
+“And mine to pay for,” he says. “You made the choice.” ᴹ
+
+“Good. We'll practise the useful ones before we need them.”
+
+“And we won't pretend mana is endless,” he says. ᴹ
+
+She underlines that part.
 
 * * *
 

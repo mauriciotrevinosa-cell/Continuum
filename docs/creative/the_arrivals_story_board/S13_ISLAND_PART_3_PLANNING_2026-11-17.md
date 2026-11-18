@@ -100,7 +100,11 @@ Mauri has the final word on the list.
 - He likes the proposals, but **they separate the cast too much.** Don't break the island into isolated groups with their own scenes. The house is together, with Mau and Yuka at the centre and everyone around them, the way it was on the previous trips.
 - Plan it calmly, starting from his ideas.
 
-### Skeleton v2 (Claude, after the adjustment; to discuss)
+### Loose ideas (Claude), NOT a skeleton
+
+> y esas 5 dejalas mejor como ideas no como algo quiero sentarme bien a pulirlo no hay prisa
+
+The five points below are only ideas. Mauri wants to sit down and polish the island calmly; there's no rush and no order has been decided.
 
 The island is lived **as one house.** The others' moments happen around Mau and Yuka, at the same table, on the same beach, not in separate chapters. The "do not bother us" days are spaced between the shared ones, and Mau and Yuka still come to meals.
 

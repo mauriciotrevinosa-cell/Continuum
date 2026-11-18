@@ -149,6 +149,16 @@ Yuka fights.
 
 She does everything. She sends the dogs, both of them, and the Warden doesn't even look at them; they go through it like smoke through smoke. She calls his Blue and throws it and the Warden steps round it without looking. She calls the toad, the great one, to pull her out of the way, and the Warden's next stroke comes for the toad.
 
+She tries magic too. She can still reach Mau's mana through the contract, and she knows what her own aim can do with Zoltraak. There is a clear line to the Warden's ribs for one instant when the toad pulls her out of its path.
+
+She casts. Mau feels the mana leave his reserve. The spell strikes the shape where a body ought to be. The stone behind the Warden shatters, but the figure keeps moving as if the shot passed through an outline on glass.
+
+“Don't spend more,” Mau says. “That isn't what it is.” ᴹ
+
+“I know.” ʸ
+
+Yuka closes the mana path. She has used it correctly. The target simply isn't a body she can break that way. She keeps moving, makes the toad pull her clear again and turns to the part of her own technique she trusts when ordinary attacks fail.
+
 She calls Mahoraga.
 
 He feels the wheel turn. He feels her reach for it, the great slow thing that adapts to everything, and he feels it come, and stand up behind her, huge, the wheel on its head turning once.

@@ -409,7 +409,7 @@ He starts toward her. He has only taken two steps when Yuka stretches out her ar
 
 He puts his right hand in hers. She catches his left one too, but does not tug. The bones are whole now; Shoko made him flex every finger before she let him leave the clinic. The muscles, however, are still learning to bear weight. He feels the difference whenever he closes his hand too quickly.
 
-Yuka feels it as well. She turns his wrist so that the long line of new skin faces up between them.
+Yuka feels it as well. She turns his wrist so that the long line of new skin faces up between them. The turn is small, but he feels it from the base of his thumb to the tight skin near his elbow. Her fingers are warm around his wrist; where her thumb rests, he can distinguish its pressure from the cooler air on the back of his arm. The old injury is no longer a single, roaring pain. It's a hundred smaller sensations, each with its own opinion about being touched.
 
 “May I?” she asks. ʸ
 
@@ -469,7 +469,9 @@ He straightens. The pull eases. She lifts herself on the edge of the mattress in
 
 “It's written in the notebook.”
 
-She rises a little more, one hand braced behind her on the coverlet, and kisses him. Her other hand is still holding his wrist. He feels her smile against his mouth when he moves his right hand to steady her at the shoulder.
+She rises a little more, one hand braced behind her on the coverlet, and kisses him. Her other hand is still holding his wrist. The mattress shifts beneath her supporting palm; he feels the slight answering pull through the hand she has around his. He moves his right hand to her shoulder, steadying her where the fabric of her nightclothes has gathered into a soft fold beneath his fingertips.
+
+She is warmer than the room. He feels her smile against his mouth before she gives a small, surprised laugh, and the laugh leaves a faint breath against his cheek when she draws back.
 
 He stays close when she sits back down. For a few seconds neither speaks. A faint creak comes from the bed frame where Yuka has shifted her weight. He can hear the party's last few voices downstairs, far enough away now that he cannot make out the words.
 
@@ -643,7 +645,11 @@ She sits back against the pillows, then pats the space beside her. He stretches 
 
 Her forehead touches his. She leans in slowly enough that he can meet her halfway.
 
-The kiss is quiet. He feels her hand flatten against his shoulder, then slide to the back of his neck where her fingers rest in his hair. When they part, he is still close enough to hear her breathing. He kisses her forehead, and she laughs a little at how solemn he has become.
+The kiss begins when she leans over the last inch between them. He feels the first soft pressure at his mouth, then her hand flatten against his shoulder, her fingertips spreading as she makes sure he doesn't have to brace himself with the healing arm. Her other hand travels to the back of his neck. Her fingers find the short hairs there and rest, warm and a little ticklish, until the muscles under them slowly release.
+
+He has been holding his breath without meaning to. When he lets it go, she is near enough to feel the movement and answers with a small breath of her own. The pillow is firm under his left elbow; the sheet has cooled at his back. Against all of that, the warmth of her cheek when it brushes his is startlingly clear.
+
+When they part, he is still close enough to hear her breathing. He kisses her forehead, feeling the faint pressure of her hair against his lips, and she laughs a little at how solemn he has become.
 
 “What's funny?” he asks. ᴹ
 
@@ -655,7 +661,17 @@ The kiss is quiet. He feels her hand flatten against his shoulder, then slide to
 
 “She'd find several.” ᴹ
 
-Yuka laughs into his shoulder. He can feel it through the arm around her, the small movement of her body as the laugh passes. It makes him laugh too, until she looks up at him with her face pink again.
+Yuka laughs into his shoulder, and he feels the sound before he hears it properly: a quick movement against his chest, her breath escaping through the fabric, then the weight of her forehead resting there when she tries to stop. He laughs too. The first movement tugs at his side and he instinctively shifts; she notices at once, easing the pressure of her arm without moving away.
+
+“I'm okay,” he murmurs. ᴹ
+
+“I didn't ask yet,” she replies, smiling against his shoulder. ʸ
+
+“You were going to.”
+
+“Obviously.” ʸ
+
+She stays close while the last of their laughter passes. When she lifts her head, the colour has returned to her cheeks, and he can feel the warmth her face left on his shirt.
 
 “May I ask my question again?” he says. ᴹ
 

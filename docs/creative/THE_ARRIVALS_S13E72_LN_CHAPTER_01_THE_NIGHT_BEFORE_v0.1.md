@@ -225,7 +225,9 @@ She sees it on his face. He doesn't know what his face is doing. She sees it any
 
 She doesn't take her hand away from his.
 
-His left palm is still against her heart. Yuka has both hands around it, holding him there while she looks at him. The room is dark except for the lamp beside the bed, and in that small light her face is the only colour he can see.
+His left palm is still against her heart. He can feel its beat through the thin fabric beneath his hand—not a number Ciel is counting, not a warning, simply a steady rhythm that changes a little when she takes a breath. Yuka has both hands around his, the heel of one palm resting against his knuckles, holding him there while she looks at him.
+
+The room is dark except for the lamp beside the bed. Its low warmth reaches one side of his face while the other stays cool. In that small light Yuka's face is the only colour he can see. A strand of her hair has stuck to her cheek; he notices it without needing to move it or do anything at all.
 
 “There,” she says again, more quietly. ʸ
 
@@ -315,7 +317,9 @@ He reaches across to lift the blanket from her ankle. She frees her foot, then l
 
 The answer comes so easily that he remembers another morning with a book sliding down his chest, her foot hooked round his ankle to keep him from leaving. He could have been told she was joking then. It had never been only a joke.
 
-He turns onto his right side so he can face her. The movement brings the scar across his chest into a shallow stretch. Not pain, exactly; a reminder. He pauses and lets it pass before shifting the pillow under his shoulder.
+He turns onto his right side so he can face her. The mattress gives under his shoulder and the sheet drags gently against the scar across his chest. The new skin tightens from the shoulder toward his ribs—a shallow, familiar stretch, not quite pain. He pauses, lets the sensation pass, then moves his right elbow closer to his body and settles it on the pillow.
+
+The pillowcase is cool under his cheek. He can feel the seam against his jaw. Across from him Yuka waits, her hand resting loosely on the blanket instead of reaching in to help before he asks. He recognises the small choice and is grateful for it.
 
 Yuka watches without asking him to hurry.
 
@@ -363,9 +367,9 @@ She smiles.
 
 “Good.”
 
-He kisses her. It's an ordinary kiss, the kind that starts because they're close enough and neither of them wants to move away. When she draws back, her forehead rests against his. Her breath brushes his cheek. He keeps his hand there, not trying to measure anything, just holding her face gently.
+He kisses her. It's an ordinary kiss, the kind that starts because they're close enough and neither of them wants to move away. Her cheek is warm beneath his palm; the fine hairs beside her ear brush his fingertips when she tips her face toward him. He can feel her smile begin before she moves back.
 
-She kisses him again before he says another word.
+When she draws back, her forehead rests against his. Her breath brushes his cheek, a little quicker than before. He keeps his hand there, aware of her skin against his thumb and the simple weight of her head leaning into his palm. He doesn't measure her breathing or check the room. He stays with the sensation until she lifts her face and kisses him again before he says another word.
 
 Afterward she rests her nose against his and begins to laugh.
 
@@ -407,7 +411,7 @@ He has been held like this before. After the Trial, when he couldn't remember hi
 
 This time she doesn't have to arrange his body around an injury. He can choose where to put his arms.
 
-He slides his left one around her waist. She feels it and draws him closer without saying a word.
+He slides his left one around her waist. He feels the fabric gather beneath his fingers, the gentle resistance of her body as she shifts closer, and then her hand covering his to hold it where she's comfortable. Her breath warms the collar of his shirt. When she draws him nearer, his chest touches hers, and he lets the movement finish without reaching past her or preparing to move away again.
 
 For the first few breaths he still thinks about the hand. The room beyond the door. The shadow at the window. The ways he could move if somebody shouted downstairs.
 
@@ -599,11 +603,13 @@ He doesn't feel a door move. Nothing has to.
 
 She takes a deeper breath and lets it out against his collar. He follows it without counting. Somewhere at the end of the next minute she shifts her cheek under his chin and gives a small, contented sigh.
 
-He keeps both arms around her.
+He keeps both arms around her. The room grows cooler as the lamp burns lower, but the place under the blanket where they meet stays warm. The wind reaches the window and moves on. Her breathing makes a small, regular sound at his collar, and the bed gives a quiet creak when he settles the last inch more comfortably against the pillow.
+
+He notices those sounds without arranging them into a warning. His hand rests open at her back, no longer held tense. He lets his eyes close.
 
 And goes to sleep.
 
-She stays awake long enough to feel the weight of his hand relax against her back. She knows how rarely that happens before he's already exhausted. She doesn't wake him to say so.
+She stays awake long enough to feel the weight of his hand change against her back, the fingers uncurling one by one as sleep takes him. She knows how rarely that happens before he's already exhausted. She doesn't wake him to say so.
 
 She closes her eyes too.
 

@@ -279,4 +279,4 @@ She picks up one of the blue things and puts it in his hands.
 
 “That one,” she says. “For when you get there. So I have something to wear when you see the city for the first time.” ʸ
 
-He puts it in the inventory. He doesn't ask which blue it is. He'll know when he sees it on her.
+He puts it in the inventory. He doesn't ask which blue it is. He won't see it on her either. He'll see her.

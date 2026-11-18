@@ -5,7 +5,7 @@
 **Volume:** 79
 **Reading order:** 32
 **Source episode:** S13E55
-**Continuity state:** B+351, morning, Thalion. Yuka wears the blue dress she brought for this; Mau sees its colour on her. Elmesia comes to the room. Her terrace is broken, her fountain frozen, her city whole: nobody below the citadel died, because he took it up where nobody was underneath. She tells him that the city owes him something, though not gold or a title. The invitation to the island still stands for everyone, but what she wants to give Mau personally will remain a surprise until they arrive there. The city is also open to them as friends. Rimuru arrives through his own space with Shoko, because Mau asked him over the link at dawn. Shoko takes one look at the arm.
+**Continuity state:** B+351, morning, Thalion. Yuka wears the blue dress she brought for this; to Mau the dress is grey like all cloth, and only she is in colour (the Yuka exception does not colour what she wears). He tells her the truth; she describes the blue to him instead. Elmesia comes to the room. Her terrace is broken, her fountain frozen, her city whole: nobody below the citadel died, because he took it up where nobody was underneath. She tells him that the city owes him something, though not gold or a title. The invitation to the island still stands for everyone, but what she wants to give Mau personally will remain a surprise until they arrive there. The city is also open to them as friends. Rimuru arrives through his own space with Shoko, because Mau asked him over the link at dawn. Shoko takes one look at the arm.
 
 *When: B+351. The morning after. The fountain in the third ring is still frozen; Elmesia has asked the city not to thaw it yet.*
 
@@ -17,35 +17,47 @@ She's wearing the blue thing.
 
 He knows it's the blue thing. He'd know anyway; it's the one he carried in the inventory for three days, the one she put in his hands on the bed and said *that one, for when you get there*. It's a dress. Simple. Long. It moves when she breathes.
 
-And it's a colour.
+And it's grey.
 
-He can see it. On her. Where it touches her, where the light lands on it and on her at the same time, it has a colour, the way the sunset on the cape had colours where it fell on her skin. He's never seen this colour before. He doesn't have a word for it. It's deep and cool and clear, like looking down into very still water, and where it's close to her throat it's lighter, and where the light catches the fold at her hip it's almost silver.
+The dress is grey, the way the balcony doors are grey and the sheets and the light coming through them. He knows it's blue. Everyone has told him it's blue. It doesn't matter. Cloth is cloth, and cloth has never been anything but grey to him.
 
-He stares at it.
+She isn't.
 
-“Is that blue?” he asks. ᴹ
+She's standing in the grey light in a grey dress, and she's in colour, the way she always is: her face, her throat, her hands, her hair falling over one shoulder. The only thing in the room. The dress just goes where she goes.
 
-“That's blue,” she says. ʸ
+She's watching his face.
 
-“That's what blue looks like.” ᴹ
+“Can you see it?” she asks. ʸ
 
-“On me,” she says. ʸ
+He could say yes. A year ago he would have.
 
-He doesn't say anything for a long time. He just looks.
+“No,” he says. ᴹ
+
+Something moves across her face, very quickly, and goes.
+
+“I thought maybe,” she says. “Like the cape. The sunset. You said it was on my face.” ʸ
+
+“It was on your face,” he says. “The light was on *you*. This is on you, but it isn't you.” ᴹ
+
+She looks down at the dress. She smooths it over her knee with one hand.
+
+“So it's just grey,” she says. ʸ
+
+“The dress is grey,” he says. “You're not.” ᴹ
+
+She sits carefully on the edge of the bed, on his good side, and takes the hand he can still move.
 
 “I brought it,” she says, “so that when you saw the city for the first time, there'd be one thing in it you could see properly.” ʸ
 
-She sits carefully on the edge of the bed, on his good side, and takes the hand he can still move. He reaches out with his thumb and feels the fold of the dress against her knee, watching the colour change as the fabric shifts under the morning light.
+“There is,” he says. ᴹ
 
-“It's different when you move,” he says. ᴹ
+She looks at him.
 
-“Most dresses are.” ʸ
+“You don't mean the dress,” she says. ʸ
 
-“I mean the blue.” ᴹ
+“I've never meant the dress,” he says. ᴹ
 
-“I know what you mean.” ʸ
-
-She bends to kiss him, gently enough not to jostle his splint. Afterward he keeps her hand in his and studies the blue a little longer. For once she doesn't tease him for staring.
+She laughs, a little wetly, and bends to kiss him, gently enough not to jostle his splint. Afterward he keeps her hand in his and looks at her a little longer. For once she doesn't tease him for staring.
 
 “You're doing that thing,” she says eventually. ʸ
 
@@ -53,21 +65,21 @@ She bends to kiss him, gently enough not to jostle his splint. Afterward he keep
 
 “Looking like you're trying to memorise something before someone takes it away.”
 
-He stops moving his thumb over the fabric.
+“I can't see anything else in colour,” he says. “So I look at you.” ᴹ
 
-“I can't see it when you're not here,” he says. “Not the way I can now.” ᴹ
+“Then look,” she says. “I'm not going anywhere.”
 
-“Then look while I am.”
+He does. She folds herself close to his uninjured side and sits quietly. After a while she rests her temple against his.
 
-He does. She folds herself close to his uninjured side and sits quietly, letting him trace the fall of the cloth with his eyes. After a while she rests her temple against his.
+“I'll tell you what it looks like,” she says. “The blue. Since you can't see it. So you have it anyway.” ʸ
 
-“I wanted the first blue you saw to be something good,” she says. ʸ
+“Tell me.” ᴹ
 
-“It is.” ᴹ
+She tells him. Deep and cool and clear, like looking down into very still water. Lighter near the throat. Almost silver where the light catches the fold at the hip. He listens with his eyes closed, and doesn't see it, and has it anyway.
 
-“You're not just saying that because I'm wearing it?”
+“You're not just letting me talk because I'm wearing it?” she says.
 
-“That's exactly why I'm saying it.”
+“That's exactly why,” he says.
 
 She laughs against his shoulder. It doesn't take the ache out of his arm, or make yesterday easier to think about. But it gives him somewhere to put his attention that isn't the pain, and for a few minutes she lets him stay there.
 

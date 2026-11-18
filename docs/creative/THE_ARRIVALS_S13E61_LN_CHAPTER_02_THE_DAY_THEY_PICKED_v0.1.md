@@ -355,7 +355,7 @@ She stops when the brim stays clear of his eyes.
 
 “There,” she says. “Better.” ʸ
 
-He looks at her. Her blue dress is the only thing in the room that isn't grey to him; the colour moves when she moves, a little fold at her shoulder, another at her waist. He has seen that same blue in a palace room while he could hardly stand. Here it belongs to a different night.
+He looks at her. She's the only thing in the room that isn't grey to him. The blue dress is grey like everything else; she isn't. A little fold at her shoulder moves when she moves, another at her waist. He has seen that dress in a palace room while he could hardly stand, and had the blue described to him there instead. Here it belongs to a different night.
 
 “Much better,” he says. ᴹ
 

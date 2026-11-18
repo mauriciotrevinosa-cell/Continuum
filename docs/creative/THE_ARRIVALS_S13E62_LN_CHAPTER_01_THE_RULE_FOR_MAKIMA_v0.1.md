@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 11
 **Source episode:** S13E62
-**Continuity state:** B+367. Expanding Yuka's contract. What already exists: Yuka can use any of Mau's techniques on his reserves with the weight falling on her; the second Limitless he built inside himself for her; and in an emergency he can trigger a technique in her. New today: the Exchange, which Yuka can now start herself. She tests it at once, pulls him across the yard to her, and Mau's face when he understands what he's agreed to makes the whole porch laugh. And a link in her head like his with Rimuru, so Ciel, Noise, DIO and Makima can reach her. Before anything, Makima asks what the rule is. Yuka: if it's important, talk to me; if not, I'll come to you; you can ask if you can speak, and I'll decide. A playful day; Ciel closes the door at night. The contract-night romance and the mutual link-privacy consent have been written in full, without a sex scene.
+**Continuity state:** B+367. Expanding Yuka's contract. What already exists: Yuka can use any of Mau's techniques on his reserves with the weight falling on her; the second Limitless he built inside himself for her; and in an emergency he can trigger a technique in her. New today: the Exchange, which Yuka can now start herself. She tests it at once, pulls him across the yard to her, and Mau's face when he understands what he's agreed to makes the whole porch laugh. And a link in her head like his with Rimuru, so Ciel, Noise, DIO and Makima can reach her. Before anything, Makima asks what the rule is. Yuka: if it's important, talk to me; if not, I'll come to you; you can ask if you can speak, and I'll decide. A playful day; Ciel closes the door at night. The contract-night intimacy follows their mutual privacy decision, with a deliberate invitation and a non-graphic transition; Yuka's new link remains closed by consent.
 
 *When: B+367. Two days after the birthday. Yuka has written CONTRACT at the top of a new page and underlined it twice.*
 
@@ -509,7 +509,7 @@ She draws back to touch his face with both hands. His hair has fallen over one e
 
 When they part, the place her hands have been holding his face is warm. She keeps one thumb there for a moment longer, watching him smile.
 
-When they part, she reaches across to the bedside table for the notebook. He watches her take it, expects another line of rules or dates, and is surprised when she closes it without writing anything.
+She reaches across to the bedside table for the notebook. He watches her take it, expects another line of rules or dates, and is surprised when she closes it without writing anything.
 
 “No notes?” he asks. ᴹ
 
@@ -521,14 +521,86 @@ When they part, she reaches across to the bedside table for the notebook. He wat
 
 She puts the book back, turns toward him again and takes his hand beneath the blanket. The sheets are cool where they haven't been lying. He moves down from the pillows carefully; she follows, gathering the edge of the coverlet so it doesn't twist around his ankle. When she settles, the mattress gives slightly beneath both of them, drawing her knee against his. She shifts the pillow under his left elbow until the arm is supported and neither of them has to hold it up.
 
-Her cheek finds his shoulder. Through the thin fabric of his shirt she feels the slow expansion of his ribs with each breath, and her own breathing falls into an easier rhythm beside it.
+Her cheek finds his shoulder. Through the thin fabric of his shirt she feels the slow expansion of his ribs with each breath. She lets her own breathing follow it until the last of the restless excitement from the day's tests has settled.
 
 “Found you,” she whispers. ʸ
 
-“You didn't lose me.”
+“You didn't lose me.” ᴹ
 
 “I know. I like finding you.” ʸ
 
-He kisses her forehead. She rests there, then lifts her face for another kiss, then settles down again without having to ask him to move. The door inside them stays closed. The house stays a house. He feels her fingers curl around his and doesn't reach for anything else.
+He kisses her forehead. She lifts her face before he can settle back, brushes his hair away from his eyes again and kisses him. The new quiet inside her head makes the ordinary details of the room feel unusually close: the soft crease of the pillowcase beneath her palm, his thumb resting over her fingers, the faint movement of the covers as he turns toward her.
 
-When she falls asleep, her hand is still in his.
+When she draws back, she doesn't lie down.
+
+“Yuka?” he asks. ᴹ
+
+“I was thinking about the door.”
+
+“Ciel's?”
+
+“Both of ours.” ʸ
+
+He waits.
+
+“I spent all day finding out I could bring you to me from almost anywhere,” she says. “And then I realised I wanted one place where I didn't have to use anything at all.” ʸ
+
+He looks toward her hand, still folded around his.
+
+“Here?”
+
+“Here.” ʸ
+
+He lets out a quiet breath.
+
+“I'm glad you asked her to close it.”
+
+“So am I.” ʸ
+
+She moves closer until her forehead touches his. The tip of her nose brushes his cheek when she tilts her face toward him. He smiles, and she feels it in the brief kiss that follows.
+
+“Can I tell you what I want?” she asks. ʸ
+
+“Always.” ᴹ
+
+“I want tonight to be ours. I want to be with you.” ʸ
+
+He looks at her for a moment, no longer considering the mechanics of the contract or the next question Noise might ask him. She can see the moment he understands, because his hand moves from resting beneath hers to holding it.
+
+“I want that too,” he says. ᴹ
+
+She smiles, bright and a little shy, and puts a palm against his cheek.
+
+“You don't have to let me pull you over here every time,” she says. ʸ
+
+“Then what do you want me to do?”
+
+“Come because you want to.” ʸ
+
+He comes toward her at once. She laughs against his mouth, caught off guard by how quickly he answers, and has to steady herself with one hand on his shoulder. His other hand rests against her back, open and warm. Neither has to brace against the bedframe or reach past the other's body to stay close.
+
+“Like that?” he asks. ᴹ
+
+“Yes.”
+
+“Good. I was hoping.”
+
+“So was I.” ʸ
+
+She guides him down beside her, moving the pillow enough to make a comfortable place for his shoulder. The mattress creaks under the shift in weight. Her hair slips across his cheek; he brushes it away, and she catches his fingers before he can withdraw them.
+
+They pause there to look at each other. She has spent the day discovering how many voices can fit inside her thoughts, how far a shadow can reach, how easily she can bring him to her. None of that tells her what he will say in this moment. She asks because she wants to hear him choose it.
+
+“Are you comfortable?” she says. ʸ
+
+“Yes. Are you?” ᴹ
+
+“I am now.”
+
+She brings his hand to her cheek, just as she did earlier in the orchard, and he smiles at the familiar gesture. They continue kissing slowly, stopping when a pillow shifts out of place, laughing when both reach to fix it at once, then finding each other again without using a single technique.
+
+There is nothing else to test tonight. The door inside them stays closed, with their permission. What follows belongs to the two of them.
+
+* * *
+
+Later, when Yuka falls asleep, her hand is still in his. The bed has grown quiet around them. He can feel the warmth of her fingers against his palm and hear her breathing settle in the dark, and he doesn't ask Ciel to tell him anything about it.

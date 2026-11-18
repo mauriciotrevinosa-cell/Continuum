@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 19
 **Source episode:** S13E66
-**Continuity state:** Inside the Rulers' trial, day seven. The great stair ends in water: a drowned level, waist-deep on Mau, chest-deep on Yuka, cold, with things moving under the surface that the eyes read as lethal to her. Mau carries her on his back the whole level; she keeps her arms round his neck and fights from there. Her dogs can't swim it and stay in her shadow. Yuka uses Mau's already-familiar Shrine through the contract, but the submerged angles make a line extend too far and cut a pillar; they recalibrate it together instead of pretending she is learning Shrine for the first time. Kamish lies flat on the surface as a raft for the bags; Beru wades ahead. Nothing gets past to her. The hip cut gets wet and stings; he says so. At the far side they climb onto dry stone soaked and shaking and laughing, and Mau buys dry clothes for both of them, in the right size this time. No intimate scene inside the gate.
+**Continuity state:** Inside the Rulers' trial, day seven. The great stair ends in water: a drowned level, waist-deep on Mau, chest-deep on Yuka, cold, with things moving under the surface that the eyes read as lethal to her. Mau carries her on his back the whole level; she keeps her arms round his neck and fights from there. Her dogs can't swim it and stay in her shadow. Yuka uses Mau's Shrine **for the first time** through their long-established technique contract. The borrowed cursed-energy cost falls on Mau; she must learn to shape and stop its cutting edge while aiming from his back through opaque water. Her first line goes too far and cuts a pillar, waking the level. Ciel guides their range calibration without taking over Yuka's execution. Kamish lies flat on the surface as a raft for the bags; Beru wades ahead. Nothing gets past to her. The hip cut gets wet and stings; he says so. At the far side they climb onto dry stone soaked and shaking and laughing, and Mau buys dry clothes for both of them, in the right size this time. No intimate scene inside the gate.
 
 *When: Inside the trial, day seven. Outside, still B+370, late morning; Rimuru and Shizue have reached the orchard, and Rimuru has asked Ciel, through the link, whether Mau can hear him. He can't.*
 
@@ -65,11 +65,21 @@ She looks at him for a long moment.
 
 He hesitates. Just for a second. She sees it.
 
-“We've practised Shrine,” she says. “You always make me stop the line before it gets away from me.” ʸ
+“I haven't used that one,” she says. “Not once.” ʸ
 
-“Because it doesn't stop itself.” ᴹ
+“I know,” he says. “The contract lets you. It doesn't make the first cut easy.” ᴹ
 
-“Then I'll stop it. The water's different, but I know the technique.” ʸ
+“I've watched you do it. I know what it looks like.” ʸ
+
+“Knowing what it looks like isn't the same as feeling where it ends.” ᴹ
+
+“Then help me find the end.” ʸ
+
+He meets her eyes. She's asking to try a tool she has been allowed to borrow for a long time, not asking him to move her hand or give her permission she didn't have.
+
+“I'll carry the cost,” he says. “You choose the cut. Start shorter than you think you need, and tell me if it feels wrong.” ᴹ
+
+“I will.” ʸ
 
 He turns round and crouches on the step with his back to her.
 
@@ -135,7 +145,9 @@ And he feels her reach for Shrine.
 
 It goes wrong.
 
-He feels the line go wrong as she releases it. Yuka knows Shrine. On dry ground she can see a target, choose a length and cut where she intends. Here the thing is under opaque water, the floor is below them somewhere she cannot judge, and the pillar beyond the target rises out of the same grey surface. From Mau's back she's aiming downward past his shoulder, with no ordinary horizon. She estimates the end of the line too far away. The cursed-energy cost reaches him as it always has; the mistake is one of geometry, not a technique she's never learned.
+He feels the line go wrong as she releases it. For all the times Yuka has watched his Shrine, this is the first time the cutting edge has answered *her*. Blue pulls; Red pushes. Shrine is neither. The edge has length and width and a stopping point that she has to decide before she lets it go. The technique comes through their existing contract, and the cursed-energy cost falls on Mau, exactly as it should. The control is hers.
+
+Below them the creature is moving under opaque water. The floor is too deep to judge by eye, and the pillar beyond her target rises out of the same grey surface. From Mau's back she is aiming down past his shoulder, with no horizon to measure against. She thinks she has ended the line behind the creature. She hasn't. The unfamiliar response of the technique and the distorted distance make the same mistake worse.
 
 The line goes out from her hand across the water. It takes the long flat thing in half. And then it keeps going, wide and hungry, and it takes the pillar behind it too, clean through, a little above the surface.
 
@@ -187,7 +199,7 @@ She hesitates. Six steps, past Beru. If she gets it wrong—
 
 She doesn't get it wrong.
 
-He feels her recalibrate. Line by line, number by number, she learns to use the submerged steps rather than what the surface seems to show. This isn't learning to cast Shrine; it's adjusting a familiar edge to an unfamiliar depth and a very bad angle. Mau pays for the cuts and calls out when she reaches farther than they need. By the twentieth, Ciel has stopped giving her numbers because she's giving them to herself, under her breath, in his ear.
+He feels her learn. Line by line, number by number, Yuka begins to recognise where Shrine wants to continue past the end she intended—and to stop it there. She's an experienced fighter, and Blue and Red already answer her, but this particular edge is new in her hands. The submerged steps give her reference points; Ciel's distances let her check each release. Mau pays the cursed-energy cost of every cut and calls out when the range is greater than they need. By the twentieth, Ciel has stopped giving her numbers because Yuka is giving them to herself, under her breath, in his ear.
 
 “Three. Five. *Two*—” ʸ
 
@@ -221,9 +233,9 @@ He knows what she's going to say. The duel. The quarry. The cuts he took and the
 
 “The one from Sukuna,” he says. ᴹ
 
-“I know what it is. I've used it before. I don't forget where it came from.” ʸ
+“I've watched you use it so many times,” she says. “This is the first time I've felt it from my side of the contract. I didn't expect it to feel like that.” ʸ
 
-“Neither do I.” ᴹ
+“Neither did I, the first time.” ᴹ
 
 She's quiet for a while.
 

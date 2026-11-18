@@ -257,7 +257,7 @@ Yuka draws back until she can see his face.
 
 “I used this.” ʸ
 
-She gives his shirt another small tug. He lets her bring him down until his forehead touches hers.
+She gives his shirt another small tug. The cotton bunches inside her fist, pulling gently across his shoulder. He lets her bring him down until his forehead touches hers. She can feel his breath against the bridge of her nose, warm and slightly uneven from laughing. His hand stays open on the mattress beside her, not gripping or preparing for anything.
 
 “That's a different technique,” he says. ᴹ
 
@@ -335,7 +335,11 @@ He rests his other hand over hers.
 
 “Especially because of that.” ᴹ
 
-She moves closer. He kisses her, and this time he doesn't have to catch his weight. He's sitting with his back against the pillows, and she has one hand against his shoulder, the other around his left hand. When she draws back, she remains close, studying his face.
+She moves closer. He kisses her, and this time he doesn't have to catch his weight. He's sitting with his back against the pillows, and she has one hand against his shoulder, the other around his left hand. The new scar is smooth where her thumb rests, but the skin beside it is warmer and less even. She notices how his fingers loosen when he realises she isn't going to let go.
+
+The pillows make a soft sound against the headboard when he settles back. Yuka follows the movement with her own shoulder, close enough that she feels him release a breath he has been holding through the day. She stays for another moment, feeling the steady warmth of his hand between hers.
+
+When she draws back, she remains close, studying his face.
 
 “I don't want to use it just because I'm scared,” she says. ʸ
 
@@ -421,7 +425,9 @@ Then she looks toward the place where she feels the link.
 
 *I've noticed.* ᶜ
 
-The small sensation of the link closing is different from a voice fading away. For a second Yuka notices the absence of all the familiar presences that have been available to her since morning. She looks at Mau, uncertain, and he takes her hand.
+The small sensation of the link closing is different from a voice fading away. Yuka had expected silence, but what she notices first is the sudden absence of expectation. All afternoon a part of her attention has been angled toward the other voices, ready for a question, an answer, a joke from DIO. Now that part of her can rest. The room's ordinary sounds come forward: the soft drag of Mau's sleeve against the blanket, the faint creak of the bed, a distant knock from the kitchen pipes.
+
+For a second the quiet is almost too complete. She looks at Mau, uncertain, and he takes her hand. His palm is warm. His thumb moves once across her knuckles, and the familiar pressure gives her something simple to attend to that belongs only to them.
 
 “Is it all right?” he asks. ᴹ
 
@@ -499,7 +505,9 @@ He looks down at her.
 
 It's his own answer, returned to him. He laughs softly, and she looks delighted that he noticed.
 
-She draws back to touch his face with both hands, brushes the hair out of his eyes, and kisses him. This time she doesn't pull him anywhere. He comes toward her on his own.
+She draws back to touch his face with both hands. His hair has fallen over one eye; she brushes it away with her thumb, feeling the fine strands slip between her fingers. Then she kisses him. This time she doesn't pull his shirt or his wrist. He comes toward her on his own, shifting close enough that her arms fold naturally around his shoulders. She feels the change before she can think of a joke: the way his weight settles beside hers without any need for her to draw him nearer.
+
+When they part, the place her hands have been holding his face is warm. She keeps one thumb there for a moment longer, watching him smile.
 
 When they part, she reaches across to the bedside table for the notebook. He watches her take it, expects another line of rules or dates, and is surprised when she closes it without writing anything.
 
@@ -511,7 +519,9 @@ When they part, she reaches across to the bedside table for the notebook. He wat
 
 “I heard what you said. I'll remember.” ʸ
 
-She puts the book back, turns toward him again and takes his hand beneath the blanket. He moves down from the pillows carefully; she follows, adjusting the covers around their legs and shifting until his left arm is resting comfortably on the mattress. Her cheek finds his shoulder.
+She puts the book back, turns toward him again and takes his hand beneath the blanket. The sheets are cool where they haven't been lying. He moves down from the pillows carefully; she follows, gathering the edge of the coverlet so it doesn't twist around his ankle. When she settles, the mattress gives slightly beneath both of them, drawing her knee against his. She shifts the pillow under his left elbow until the arm is supported and neither of them has to hold it up.
+
+Her cheek finds his shoulder. Through the thin fabric of his shirt she feels the slow expansion of his ribs with each breath, and her own breathing falls into an easier rhythm beside it.
 
 “Found you,” she whispers. ʸ
 

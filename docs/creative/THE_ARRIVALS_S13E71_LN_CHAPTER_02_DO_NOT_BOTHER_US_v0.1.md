@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 30
 **Source episode:** S13E71
-**Continuity state:** B+376–377. The final island list, finished on the porch by Mau and Yuka (the names are not shown here: the creator will confirm who goes). Mau asks Elmesia first, by letter, whether he can bring it to her himself; she answers "come". He uses the Exchange to the soldier in her shadow, and Yuka comes through after him with her own. Elmesia reads the list, says it's good, and tells Yuka she has kept them a room like the last one, and better, because Mau saved her city. She gives them a sealed itinerary for the house and tells them not to open it. That evening Yuka reads the house her list of things it must not do on the island; every item is a version of "do not bother us", ending with: if you bother us I'll tell Elmesia not to let you come back. Elmesia's note, read aloud after it: "It's true." The house protests and agrees. The itinerary stays a mystery to Mau and Yuka. Closeness note for Work at night.
+**Continuity state:** B+376–377. The final island list, finished on the porch by Mau and Yuka (the names are not shown here: the creator will confirm who goes). Mau asks Elmesia first, by letter, whether he can bring it to her himself; she answers "come". He uses the Exchange to the soldier in her shadow, and Yuka comes through after him with her own. Elmesia reads the list, approves it, and confirms that she has arranged hospitality for the household. The separate gift she promised Mau remains a secret until the island. She gives them a sealed itinerary for the house and tells them not to open it. That evening Yuka reads the house her list of things it must not do on the island; every item is a version of "do not bother us", ending with: if you bother us I'll tell Elmesia not to let you come back. Elmesia's note, read aloud after it: "It's true." The house protests and agrees. The itinerary stays a mystery to Mau and Yuka. Closeness note for Work at night.
 
 *When: B+376, morning to B+377, evening. Six days after the orchard. Mai's workshop has been loud since sunrise every day.*
 
@@ -137,35 +137,45 @@ Yuka lets out a breath.
 
 * * *
 
-Then she looks at Yuka.
+Then Elmesia looks at them both, and her expression changes.
 
-“I kept you a room,” she says. ᴱˡ
+“The arrangements for everyone are made,” she says. “They'll have somewhere to sleep, things to eat, somewhere to argue over who gets the best view. Don't worry about that part.” ᴱˡ
 
-Yuka goes still.
+Mau starts to answer. Elmesia raises a finger.
 
-“Like the last one,” says Elmesia. “The one you had. The little pool. The balcony over the water.” ᴱˡ
+“And before you tell me you're imposing: you aren't. You came when my city needed you. I invited you long before that, and the invitation is still mine to give.” ᴱˡ
 
-She pauses.
+Yuka squeezes his knee under the table. He gives her the smallest nod.
 
-“Not like it,” she says. “Better. I had it made better. Last time I gave you a room because I owed you. This time—” ᴱˡ
+“Now,” Elmesia says, turning to Mau. “Do you remember what I promised you when you left?” ᴱˡ
 
-She looks at Mau.
+He does. He has thought of it at odd moments, between Shoko's appointments and the gate and the quiet mornings after. Something she wanted to give him on the island, with no explanation.
 
-“This time the north went bad,” she says, “and my city is still standing, and I know whose fault that is. And then you went home and nearly died in a gate built to kill your wife.” ᴱˡ
+“I remember.” ᴹ
 
-Mau doesn't say anything.
+“Good. I'm keeping that promise.” ᴱˡ
 
-“So it's better,” says Elmesia. “And it's *yours*. Not a guest room. Yours. For whenever you come. I'll keep it for you.” ᴱˡ
+“What is it?” Yuka asks immediately. ʸ
 
-Yuka's hand has tightened on his knee.
+“I see your patience hasn't improved.”
 
-“Thank you,” she says. Her voice isn't quite steady. ʸ
+“Not at all.” ʸ
 
-“Don't thank me,” says Elmesia. “You haven't seen it yet. You might hate it.” ᴱˡ
+“Then you will have to suffer until you arrive,” Elmesia says, far too pleased with herself. “I'm not telling either of you what it is. Not here. Not in a letter. Not if you use your new little shadow trick to appear in my sitting room a dozen more times.” ᴱˡ
 
-“We won't hate it,” says Yuka. ʸ
+Mau looks at Yuka. Her expression tells him she's already considered precisely that.
 
-“No,” says Elmesia, and smiles. “You won't.” ᴱˡ
+“We won't,” he says. ᴹ
+
+“You're speaking for both of us?” Yuka asks. ʸ
+
+“I'm hoping.”
+
+Elmesia laughs. She doesn't reach for a box, an envelope or a key. Whatever she's decided, she leaves no clue on the table.
+
+“On the island,” she says. “You'll know then.” ᴱˡ
+
+For now, they let that be enough.
 
 * * *
 

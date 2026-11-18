@@ -133,7 +133,7 @@ In here, it's hers.
 
 * * *
 
-He's never been inside it when it mattered.
+He's watched her develop Chimera Shadow Garden and stood beside her while she practised it. He knows the dark ground, the closed barrier, the shadows she can place and multiply. What he hasn't felt before is her using all of it in a lethal Red Gate to cover *him* while he stands inside.
 
 He stands in the dark ground with the katana in his hand and watches her work.
 

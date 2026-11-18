@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 31 (end of volume)
 **Source episode:** S13E72
-**Continuity state:** B+378, the day and night before the island; the volume ends the next morning as they leave. Packing: Yuka packs for both of them and makes him carry it all in the inventory; the two enormous matching hats and the third one Mai made for DIO; DIO takes her plant to Ori with written instructions. Makima, who can't be far from his body, asks quietly whether she's going too; Yuka answers before Mau can: yes, and on one day of it, if Yuka is in a good mood, maybe more than the bottom of the steps. That night, the let go: in the gate Mau closed the door again himself, and learned what it is to keep a hand on it; tonight, with her, he takes his hand off something for the first time without anything to fight. The intimate scene is a note for Work. Morning: the house in the yard; the sealed itinerary in Shoko's pocket; the hats; they step out. Who goes is not named.
+**Continuity state:** B+378, the day and night before the island; the volume ends the next morning as they leave. Packing: Yuka packs for both of them and makes him carry it all in the inventory; the two enormous matching hats and the third one Mai made for DIO; DIO takes her plant to Ori with written instructions. Makima, who can't be far from his body, asks quietly whether she's going too; Yuka answers before Mau can: yes, and on one day of it, if Yuka is in a good mood, maybe more than the bottom of the steps. That night, the let go (not sexual): Yuka repeats the gesture of holding him so he can rest, the one from after the Red Gate and V79 #17; this time he takes his hand off the small door for the first time without anything to fight. Note for Work. Morning: the house in the yard; the sealed itinerary in Shoko's pocket; the hats; they step out. Who goes is not named.
 
 *When: B+378. The day before the island, and the night, and the first light of the morning after.*
 
@@ -223,7 +223,7 @@ She sees it on his face. He doesn't know what his face is doing. She sees it any
 
 “*There* you are,” she says, very softly. ʸ
 
-> **[PARA WORK: escena íntima grande, el *let go*, aquí.** Es la escena que Mauri dejó guardada para esta noche: Mau suelta por fin la última barrera, la puertita con él detrás, la mano que todavía dejaba libre aunque no hubiera nada que pelear. Viene de toda la gate (once días con una mano libre, «it's ugly», «both», la puerta que tuvo que cerrar él mismo abajo) y de que Yuka le puso esa mano en su corazón y le dijo «Let go». Ciel ya cerró la puerta, Noise mira a otro lado, DIO está callada y Makima se dio la vuelta. Yuka es la empalagosa y Mau su lugar seguro; esta vez él no se guarda nada. Tierno y enorme, sin fan service. **Sin límite de palabras; no comprimas.]**
+> **[PARA WORK: el *let go*, aquí. NO es una escena sexual (aclaración de Mauri).** Es Yuka repitiendo el gesto de sostener a Mau para que descanse, el que aprendió después de la Red Gate y que volvió a aparecer en V79 #17 (*The Fourth Breath*): ella lo acomoda contra ella y él por fin suelta. Esta noche es más grande porque viene de toda la gate (once días con una mano libre, «it's ugly», «both», la puerta que tuvo que cerrar él mismo) y de que ella le puso esa mano en su corazón y le dijo «Let go». Ciel cerró la puerta y Noise, DIO y Makima se apartan. No es la primera vez que ella lo sostiene así, ni un encuentro íntimo. Tierno, enorme, sin fan service. **Sin límite de palabras; no comprimas.]**
 
 * * *
 

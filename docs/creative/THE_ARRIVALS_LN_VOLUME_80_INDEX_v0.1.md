@@ -41,6 +41,7 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 | 24 | S13E68 | The Last Night Above | `THE_ARRIVALS_S13E68_LN_CHAPTER_02_THE_LAST_NIGHT_ABOVE_v0.1.md` |
 | 25 | S13E69 | The Warden | `THE_ARRIVALS_S13E69_LN_CHAPTER_01_THE_WARDEN_v0.1.md` |
 | 26 | S13E69 | Eleven | `THE_ARRIVALS_S13E69_LN_CHAPTER_02_ELEVEN_v0.1.md` |
+| 27 | S13E70 | The Orchard | `THE_ARRIVALS_S13E70_LN_CHAPTER_01_THE_ORCHARD_v0.1.md` |
 
 ## Continuity locks and open decisions
 
@@ -79,3 +80,4 @@ After the Monarchs, the house can be a house again. Mau is still recovering, Yuk
 - #24 (Claude, night of day 9): the real promises. Mau will open everything if one hand isn't enough, and Makima holds it; he promises to try with everything to come back, not that it works. Yuka: two steps behind "until I can't". DIO wants to go home to see her plant. Beru: in the tower his king always came back, "and he did not have you then".
 - #25 The Warden (Claude, days 10-11): written earlier, moved here.
 - #26 Eleven (Claude, day 11): Mau takes his hand off the door; Makima stands where the tearing is and holds the weight. Ciel's scale stops at ten (the duel); he goes to eleven. The eyes' filter burns away and they stop drawing CE at all ("paying for themselves"); he can read the Warden: a rule standing up. Its highest stroke comes for Yuka; he gets past her and is cut in two from left shoulder to right hip; RCT follows the blade in and he's whole before the halves separate (scar line remains). Purple at full through the Warden and up into the watching: the rule dies, all four marks close, the gate comes apart. Box: Trial THE STABILIZER complete. Mau closes the door himself. Makima nearly gone, then "I held it"; asks him to tell Yuka she's sorry she didn't get to tell her first. They fall into the orchard.
+- #27 (Claude, B+370 dusk): out on the orchard grass; Mau checks Yuka first (nothing touched her); Yuka can't speak. Ori: "Dad." Mau walks up to the house and the RCT finishes as he walks; the shoulder-to-hip line stays as a scar. Shoko sits down on the grass. In the clinic she keeps her hand on his chest; he tells her he needed her today to see he was okay ("You absolute idiot"). Three days' rest for both. Gojo sits on the bed, notices the eyes cost nothing ("took me years"), promises a talk; Mau doesn't tell him to go. Makima's apology passed on; Yuka's first words: "Thank you." That night Yuka cries for the whole eleven days; he holds her. No intimate scene.

@@ -387,6 +387,8 @@ She says it without looking away.
 
 *You.*
 
+He takes the clean sleep shirt off the wardrobe shelf and pulls it on, carefully, the same way, because of the new skin on his side. She watches that too.
+
 Mau has been caught by that word before, standing in precisely this place. Last time he was the one looking and Yuka was the one asking. He remembers the corner of the wardrobe door against his palm, the way she had laughed when he finally answered, and how he'd kept looking at her after the laugh had ended.
 
 Tonight she is sitting with her knees drawn under the blanket. Her hands are empty. The notebook that has followed them all day is closed on her side of the bed.
@@ -441,7 +443,7 @@ He laughs. She uses the moment to draw him nearer, guiding his hand to her cheek
 
 “I know.” ʸ
 
-She shifts toward the edge of the mattress. The blanket falls from her knees, leaving her feet on the floor. Her right knee touches his leg; she slides it back to give him room to stand between hers, but she does not let go of his hand. When he bends toward her, the skin across his left side tightens, a short, sharp pull beneath the ribs.
+She shifts toward the edge of the mattress. The blanket falls from her knees, leaving her feet on the floor. Her right knee touches his leg; she slides it back to give him room, but she does not let go of his hand. When he bends toward her, the skin across his left side tightens, a short, sharp pull beneath the ribs.
 
 He stops halfway.
 
@@ -716,38 +718,6 @@ Mau assumes she's finally tired. She's been yawning since they came upstairs, an
 “That's usually a clue.”
 
 She lifts her head. The light catches the pink in her cheeks, and he realises she's been watching the way he adjusts everything around his injury, even with his attention on her.
-
-“Mau,” she says, “I didn't ask you to come over here just so we could talk about your elbow.” ʸ
-
-“I thought the notebook was the main attraction.”
-
-“The notebook is downstairs on the chair.” ʸ
-
-“It's right there.”
-
-“Then stop looking at it.” ʸ
-
-He looks at her instead. She is so close that the strands of hair across her cheek move with each breath. When he reaches to tuck them behind her ear, she catches his fingers lightly and kisses his knuckles.
-
-“I want to be close to you tonight,” she says. “Not because Shoko says you need looking after. Because I want you.” ʸ
-
-He doesn't answer immediately. The silence isn't uncertainty about her. It's the sudden realisation that he has been arranging their whole evening around what his arm can bear, never once asking what they both want now that the worst of the healing is over.
-
-“I want you too,” he says. ᴹ
-
-She smiles, but she doesn't use it to end the conversation.
-
-“Then tell me what still hurts.”
-
-“The side if I turn too fast. The elbow if I put my weight on it. That's all.” ᴹ
-
-“And what doesn't?”
-
-He moves his right arm more securely around her shoulders. She settles against him and lets him find the position without helping before he needs it.
-
-“This,” he says. ᴹ
-
-“Good. We can start with that.” ʸ
 
 She turns toward him, planting one hand beside his right shoulder so the mattress takes her weight instead of his left arm. The blanket twists around her knee. She frees it, draws the loose edge over his legs and shifts again until they're facing each other.
 

@@ -525,7 +525,7 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 
 ## Lazo y voz de Noise (Mauri, 17 de noviembre de 2026)
 
-- **El lazo es sólo entre Mau y Rimuru** (por Ciel). La casa no está en él. Si Mau quiere avisar a la casa, se lo pide a Rimuru. El contrato de Yuka del arco del taller le dará a ella un lazo propio, pero eso todavía no existe.
+- **El lazo es sólo entre Mau y Rimuru** (por Ciel). La casa no está en él. Si Mau quiere avisar a la casa, se lo pide a Rimuru. Desde V80 #11 Yuka tiene su propio lazo (Noise, Ciel, DIO, Makima); el de Rimuru sigue siendo sólo con Mau.
 - **Noise no habla en voz alta fuera de Mau.** Sólo Mau lo oye. Si alguien más tiene que saber lo que dice Noise, Mau lo repite. Ciel habla por Mau o por Rimuru. Makima, ligada por dentro, puede tratar con Noise dentro de Mau, no en voz alta en el cuarto.
 - **Yuka es nieta de Maki y Yuta, literal** (Mauri, 17 de noviembre de 2026). No escribir «su nieta aunque no lo sea» ni «de una forma que no dice en voz alta».
 - **El primer hechizo que aprendió Mau fue el de las flores de Frieren** (Mauri, 17 de noviembre de 2026). No se le puede «enseñar» como regalo.

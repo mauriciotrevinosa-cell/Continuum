@@ -535,3 +535,5 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 - **El Exchange de Mau lo lleva a él a la sombra de un ancla; no jala gente hacia él.** El contrato de Yuka (V80 #11) le dio a ella un mango propio: puede llamar a Mau a su sombra o irse ella a la de él. Mau no «la jala» desde su lado.
 - **En la gate de los Rulers (V80) Mau y Yuka nunca se separan** (Mauri: el cap 16 que los separaba «rompe todo»). Ni plazas a solas ni subir solo a revisar: van juntos aunque sea un paso.
 - **Puntos del nivel 5 (V80):** no son «10». Mau junta todo lo del nivel 2 al 5, que equivale a **300 niveles de la escala anterior** (de 200 a 500), porque estaban bloqueados hasta el 5 (Mauri, 17 de noviembre de 2026). Siguen sin gastar.
+
+- **V80 #31 *Let Go* no es una escena sexual** (aclaración de Mauri). Yuka repite el gesto de sostener a Mau para que descanse, aprendido después de la Red Gate y mostrado otra vez en V79 #17 (*The Fourth Breath*). No tratarlo como primera vez ni convertir ese cierre en un encuentro íntimo. Los encuentros íntimos de V80 se reservan a #6, #10 y #11, con Yuka y Mau como participantes voluntarios.

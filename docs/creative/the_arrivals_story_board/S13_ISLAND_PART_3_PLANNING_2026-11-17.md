@@ -19,7 +19,7 @@
 
 From the earlier plan (still standing):
 - Unanimous agreement not to bother the lovebirds, enforced by Yuka's threat to tell Elmesia (V80 #30).
-- A room that's similar to the last one but better, because Mau saved her city (V80 #30).
+- A room that's similar to the last one but better, because Mau saved her city. **Not revealed in V80:** Chat removed it from #30 (commit 018f7e36) to keep the mystery; it can be revealed when they arrive.
 - Explore.
 - Each group returns at a different time:
   - Hinata, because Luminous gets word that something is happening. Mau offers to go; Yuka says no; Hinata and Luminous say "you heard her". Luminous asks for a shadow; Hinata reminds her of the one she already has.

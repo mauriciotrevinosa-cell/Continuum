@@ -565,7 +565,7 @@ She moves closer until her forehead touches his. The tip of her nose brushes his
 
 “I want tonight to be ours. Just us.” ʸ
 
-He looks at her for a moment, no longer considering the mechanics of the contract or the next question Noise might ask him. She can see the moment he understands, because his hand moves from resting beneath hers to holding it.
+He looks at her for a moment, no longer considering the mechanics of the contract or the next question Noise might ask him. She sees him take it in: no gate, no test, no one else in the room. His hand moves from resting beneath hers to holding it.
 
 “I want that too,” he says. ᴹ
 

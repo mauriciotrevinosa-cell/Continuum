@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 6
 **Source episode:** S13E59
-**Continuity state:** B+360. The rest of the inventory, with Mau healed. Noise and Ciel have finished comparing records: the index gaps are storage that was sealed during the Final Trial and never reopened in his view. Opened, they hold things he'd stopped seeing: the castle pieces from S10, raw scales and chitin from what Beru, Kaisel and Kamish killed, old gate materials. Mau proposes that since nobody ever came for the castle, the house can hold the dragon war, part two. Mai and Senku sort what could go into the katana. Noise has finished analysing the three rings and says it needs Mai's permission before building one, remembering the smack. Mai smacks him anyway, then says yes. Opening system menus, Mau stumbles on a page he has never opened: levels. Level 2 now is what level 200 used to be; he's at 4, almost 5, and the points stay locked until 5. Yuka spends the whole day demanding sweets and teasing him, and at night, for once, Mau catches her watching him. The first extended private romance of the stretch is now fully written as non-graphic closeness and dialogue, mirroring V78 #1.
+**Continuity state:** B+360. The rest of the inventory, with Mau healed. Noise and Ciel have finished comparing records: the index gaps are storage that was sealed during the Final Trial and never reopened in his view. Opened, they hold things he'd stopped seeing: the castle pieces from S10, raw scales and chitin from what Beru, Kaisel and Kamish killed, old gate materials. Mau proposes that since nobody ever came for the castle, the house can hold the dragon war, part two. Mai and Senku sort what could go into the katana. Noise has finished analysing the three rings and says it needs Mai's permission before building one, remembering the smack. Mai smacks him anyway, then says yes. Opening system menus, Mau stumbles on a page he has never opened: levels. Level 2 now is what level 200 used to be; he's at 4, almost 5, and the points stay locked until 5. Yuka spends the whole day demanding sweets and teasing him, and at night, for once, Mau catches her watching him. The inventory-night intimacy is mutual and deliberate: Yuka initiates, Mau explains the limits of the healing arm, and their private encounter is suggested without explicit description, mirroring their playfulness in V78.
 
 *When: B+360. The morning after the splint. Yuka has a new notebook, and she's already written the date on the first page.*
 
@@ -701,11 +701,105 @@ He thinks of the page she showed him at supper, the careful handwriting, the und
 
 “Especially then.”
 
-She makes a pleased sound, then folds her hand into his and lays it against the blanket between them. For a while they talk about nothing that can be filed in the inventory: the way Ori tried to carry three sweets at once, Beru's hats, the look Mai gave Noise when the rings came up again. Yuka still has questions. So does he. Neither needs an answer tonight.
+She makes a pleased sound and folds her hand into his, laying both against the blanket between them. For a little while they talk about nothing that can be filed in the inventory: the way Ori tried to carry three sweets at once, Beru's hats, the look Mai gave Noise when the rings came up again. Yuka has another dozen questions in her notebook. So does he. Neither of them reaches for it.
 
-Eventually she shifts closer, her cheek resting against his chest, and he adjusts the blanket over her shoulder with his right hand. His left remains on the pillow, within reach of hers.
+Then she grows quiet.
 
-She closes her eyes, still holding that hand. The house settles around them, one room at a time. He listens to her breathing slow and thinks, just once, of the level page waiting until morning. Then he lets the thought go.
+Mau assumes she's finally tired. She's been yawning since they came upstairs, and her eyes have closed against his shoulder. He draws the blanket higher, taking care not to move the pillow supporting his left arm.
+
+“Are you putting me to bed?” she asks. ʸ
+
+“You look sleepy.” ᴹ
+
+“I've looked sleepy for an hour.”
+
+“That's usually a clue.”
+
+She lifts her head. The light catches the pink in her cheeks, and he realises she's been watching the way he adjusts everything around his injury, even with his attention on her.
+
+“Mau,” she says, “I didn't ask you to come over here just so we could talk about your elbow.” ʸ
+
+“I thought the notebook was the main attraction.”
+
+“The notebook is downstairs on the chair.” ʸ
+
+“It's right there.”
+
+“Then stop looking at it.” ʸ
+
+He looks at her instead. She is so close that the strands of hair across her cheek move with each breath. When he reaches to tuck them behind her ear, she catches his fingers lightly and kisses his knuckles.
+
+“I want to be close to you tonight,” she says. “Not because Shoko says you need looking after. Because I want you.” ʸ
+
+He doesn't answer immediately. The silence isn't uncertainty about her. It's the sudden realisation that he has been arranging their whole evening around what his arm can bear, never once asking what they both want now that the worst of the healing is over.
+
+“I want you too,” he says. ᴹ
+
+She smiles, but she doesn't use it to end the conversation.
+
+“Then tell me what still hurts.”
+
+“The side if I turn too fast. The elbow if I put my weight on it. That's all.” ᴹ
+
+“And what doesn't?”
+
+He moves his right arm more securely around her shoulders. She settles against him and lets him find the position without helping before he needs it.
+
+“This,” he says. ᴹ
+
+“Good. We can start with that.” ʸ
+
+She turns toward him, planting one hand beside his right shoulder so the mattress takes her weight instead of his left arm. The blanket twists around her knee. She frees it, draws the loose edge over his legs and shifts again until they're facing each other.
+
+The change in balance makes the pillow under his elbow slide. He catches the edge with his fingertips, but Yuka is already reaching for it.
+
+“Wait,” he says, laughing. “I'll tell you if I need help.” ᴹ
+
+She stops with one hand on the pillow.
+
+“You promise?”
+
+“I promise.”
+
+“Then I get to stop being the nurse for a minute.” ʸ
+
+“Please.”
+
+She lets go of the pillow. He moves it the few inches he needs, tests his arm, then brings his right hand to the back of her neck. Under his fingers her hair is soft and still warm from the bath. Yuka draws nearer, and the next kiss lasts long enough that he notices the quiet sound her breath makes when she smiles against him.
+
+When she moves back, she is still close. He can see the colour climbing along her cheekbones.
+
+“You're staring,” she whispers. ʸ
+
+“You started it.”
+
+“Then you finally learned something today.” ʸ
+
+He kisses her again. She laughs softly, then reaches across him for the edge of the blanket and gathers it around them. There is a little rustling as they find a place where neither has to brace against the wrong arm. Her knee rests beside his rather than over the tender side. His hand stays open against her back, and she leans into it until he no longer has to reach.
+
+She watches his face after each small adjustment. He does the same for her. It feels different from the careful watching they've done during his recovery: not a search for pain, but the pleasure of learning that they can still surprise each other.
+
+“Is that okay?” she asks, touching the scar near his wrist. ʸ
+
+“Yes.”
+
+“Still?”
+
+“Yes.” ᴹ
+
+“You're allowed to change your mind.”
+
+“So are you.”
+
+She gives him a long, thoughtful look. Then she smiles.
+
+“Good,” she says. “I don't want us to be careful about telling the truth.” ʸ
+
+He takes her hand in his, brings it against his cheek and kisses the inside of her wrist.
+
+“We won't be,” he says. ᴹ
+
+For once he isn't thinking of the level page, or the rings, or how many more things Noise might have hidden in the old index. He's listening to Yuka laugh when their noses bump, feeling her fingers at the back of his neck and the warm weight of her next to him. The rest of the evening belongs to them, without a notebook or a count of the minutes.
 
 * * *
 

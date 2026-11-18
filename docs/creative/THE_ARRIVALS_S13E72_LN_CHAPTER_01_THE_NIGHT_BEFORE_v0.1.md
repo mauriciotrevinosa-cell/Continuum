@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 31 (end of volume)
 **Source episode:** S13E72
-**Continuity state:** B+378, the day and night before the island; the volume ends the next morning as they leave. Packing: Yuka packs for both of them and makes him carry it all in the inventory; the two enormous matching hats and the third one Mai made for DIO; DIO takes her plant to Ori with written instructions. Makima, who can't be far from his body, asks quietly whether she's going too; Yuka answers before Mau can: yes, and on one day of it, if Yuka is in a good mood, maybe more than the bottom of the steps. That night, the let go (not sexual): Yuka repeats the gesture of holding him so he can rest, the one from after the Red Gate and V79 #17; this time he takes his hand off the small door for the first time without anything to fight. Note for Work. Morning: the house in the yard; the sealed itinerary in Shoko's pocket; the hats; they step out. Who goes is not named.
+**Continuity state:** B+378, the day and night before the island; the volume ends the next morning as they leave. Packing: Yuka packs for both of them and makes him carry it all in the inventory; the two enormous matching hats and the third one Mai made for DIO; DIO takes her plant to Ori with written instructions. Makima, who can't be far from his body, asks quietly whether she's going too; Yuka answers before Mau can: yes, and on one day of it, if Yuka is in a good mood, maybe more than the bottom of the steps. That night, Yuka repeats her familiar comfort after the Red Gate, as she did in V79 #17 (*The Fourth Breath*): she gives Mau somewhere to rest and he accepts it. This is a **nonsexual** scene, not a new intimate act or a first discovery of how to let go. They sleep together, and the volume closes on their departure. Morning: the house in the yard; the sealed itinerary in Shoko's pocket; the hats; they step out. Who goes is not named.
 
 *When: B+378. The day before the island, and the night, and the first light of the morning after.*
 
@@ -223,7 +223,395 @@ She sees it on his face. He doesn't know what his face is doing. She sees it any
 
 “*There* you are,” she says, very softly. ʸ
 
-> **[PARA WORK: el *let go*, aquí. NO es una escena sexual (aclaración de Mauri).** Es Yuka repitiendo el gesto de sostener a Mau para que descanse, el que aprendió después de la Red Gate y que volvió a aparecer en V79 #17 (*The Fourth Breath*): ella lo acomoda contra ella y él por fin suelta. Esta noche es más grande porque viene de toda la gate (once días con una mano libre, «it's ugly», «both», la puerta que tuvo que cerrar él mismo) y de que ella le puso esa mano en su corazón y le dijo «Let go». Ciel cerró la puerta y Noise, DIO y Makima se apartan. No es la primera vez que ella lo sostiene así, ni un encuentro íntimo. Tierno, enorme, sin fan service. **Sin límite de palabras; no comprimas.]**
+She doesn't take her hand away from his.
+
+His left palm is still against her heart. He can feel its beat through the thin fabric beneath his hand—not a number Ciel is counting, not a warning, simply a steady rhythm that changes a little when she takes a breath. Yuka has both hands around his, the heel of one palm resting against his knuckles, holding him there while she looks at him.
+
+The room is dark except for the lamp beside the bed. Its low warmth reaches one side of his face while the other stays cool. In that small light Yuka's face is the only colour he can see. A strand of her hair has stuck to her cheek; he notices it without needing to move it or do anything at all.
+
+“There,” she says again, more quietly. ʸ
+
+He nods.
+
+“What does it feel like?” she asks. ʸ
+
+He has to think.
+
+At the bottom of the gate there was a door and everything behind it was tearing at the hinges. Makima held the weight while he opened it. When the Warden died he reached back, found the handle and closed it himself. He remembers that part exactly.
+
+This isn't that door. He has no reason to open or close anything here. That is what feels so strange.
+
+“Like I was listening for a sound that stopped,” he says. “I didn't know I was still listening.” ᴹ
+
+Yuka waits.
+
+“Whenever you went quiet, I checked. Whenever I woke up and couldn't feel you, I checked. I was doing it even when you were right next to me.”
+
+“I know,” she says. ʸ
+
+“You never told me.”
+
+“I didn't know if you knew.”
+
+“I didn't.” ᴹ
+
+Her fingers loosen around his hand, but she keeps it where it is.
+
+“I'm telling you now,” she says. ʸ
+
+He looks down at his hand. The long scar on the left arm is old enough that it no longer pulls when he flexes his fingers. Across his chest the newer line runs from shoulder toward his hip, still different from the rest of his skin. Yuka has been tracing that one with a fingertip every night since they came home, the way she used to find the old scar until she learned he wasn't afraid of her touching it.
+
+He takes a slow breath. Her palm warms the back of his hand.
+
+“I was scared when you couldn't talk,” he says. “When we came out of the gate. I kept looking at you, waiting for you to say something.” ᴹ
+
+“I know.”
+
+“I thought if you didn't, something had happened that I couldn't see.”
+
+She leans forward a little. He feels the change beneath his hand before he sees her move.
+
+“I was right there,” she says. ʸ
+
+“I know. I could see you. That was the problem. I still didn't believe it.”
+
+“Then you can ask.”
+
+He looks up.
+
+“You don't have to check without telling me,” she says. “If you wake up and you're scared, wake me up. I'll tell you I'm here.” ʸ
+
+“Every time?”
+
+“Every time.”
+
+He lets out a breath, and she smiles.
+
+“Though if you wake me up to ask where your second hat is, I'm going to throw it out the window.”
+
+“I only have one.”
+
+“Wait until we get to the island.” ʸ
+
+He laughs. It surprises him, coming so soon after saying something he'd been trying not to think about. Yuka looks pleased but doesn't turn it into another joke. She lets him laugh until the sound dies away.
+
+“Can I move?” she asks. ʸ
+
+“Of course.”
+
+She releases his hand carefully and slides back toward the pillows. The mattress pulls the blanket with her. Her knee catches in the fold, and she has to stop, lift it and untangle the sheet with both hands.
+
+“Very badly arranged,” she mutters. ʸ
+
+“You said that when we bought the bed.”
+
+“I was right then too.”
+
+He reaches across to lift the blanket from her ankle. She frees her foot, then looks at him over her shoulder.
+
+“Come here,” she says. ʸ
+
+“I'm already here.”
+
+“Closer.”
+
+The answer comes so easily that he remembers another morning with a book sliding down his chest, her foot hooked round his ankle to keep him from leaving. He could have been told she was joking then. It had never been only a joke.
+
+He turns onto his right side so he can face her. The mattress gives under his shoulder and the sheet drags gently against the scar across his chest. The new skin tightens from the shoulder toward his ribs—a shallow, familiar stretch, not quite pain. He pauses, lets the sensation pass, then moves his right elbow closer to his body and settles it on the pillow.
+
+The pillowcase is cool under his cheek. He can feel the seam against his jaw. Across from him Yuka waits, her hand resting loosely on the blanket instead of reaching in to help before he asks. He recognises the small choice and is grateful for it.
+
+Yuka watches without asking him to hurry.
+
+“Does it pull?” she asks. ʸ
+
+“A little. The shoulder end.”
+
+“Do you want to stay on your back?”
+
+“No. I want to look at you.” ᴹ
+
+She goes pink. He can see it plainly.
+
+“That's cheating,” she says. ʸ
+
+“You started it.”
+
+“When?”
+
+“A long time ago.”
+
+She thinks about that, then smiles and moves onto her side to face him. She tucks the pillow beneath her cheek and slips one hand between them, palm up, waiting for his.
+
+He lays his left hand in it.
+
+For a while they stay like that. Her thumb moves once across his knuckles, then stops. Beyond the window the branches in the orchard brush against each other. Somewhere downstairs a door closes. Beru says a quiet good night to someone in the hall and then the house settles again.
+
+Mau looks at Yuka.
+
+She looks back without saying anything.
+
+“Are you going to ask?” she says eventually. ʸ
+
+“Ask what?”
+
+“Whether I'm still here.”
+
+He almost does.
+
+Instead he moves his hand from hers to the side of her face. Her cheek is warm beneath his palm. She leans into it, closes her eyes for a moment and then opens them again.
+
+“No,” he says. “I know.” ᴹ
+
+She smiles.
+
+“Good.”
+
+He kisses her. It's an ordinary kiss, the kind that starts because they're close enough and neither of them wants to move away. Her cheek is warm beneath his palm; the fine hairs beside her ear brush his fingertips when she tips her face toward him. He can feel her smile begin before she moves back.
+
+When she draws back, her forehead rests against his. Her breath brushes his cheek, a little quicker than before. He keeps his hand there, aware of her skin against his thumb and the simple weight of her head leaning into his palm. He doesn't measure her breathing or check the room. He stays with the sensation until she lifts her face and kisses him again before he says another word.
+
+Afterward she rests her nose against his and begins to laugh.
+
+“What?” he asks. ᴹ
+
+“You're very quiet.”
+
+“I thought you liked quiet.”
+
+“I like *you*. The quiet is optional.” ʸ
+
+He smiles against her forehead.
+
+“That's generous.”
+
+“I'm a very generous wife.”
+
+“You said that when you took the last sweet.”
+
+“And I was right.” ʸ
+
+He pulls the blanket up over her shoulder. She catches his wrist.
+
+“Wait.”
+
+He stops.
+
+She takes the edge from him and pulls it higher over both of them, then works her arm free so she can put it around his back. He slides closer until her hand settles between his shoulder blades. The sheet catches under his left elbow; he lifts the arm, and she smooths the wrinkle with her other hand before he rests it again.
+
+“There,” she says. ʸ
+
+“Better?”
+
+“Much.”
+
+She draws his head down until his cheek rests against her upper chest, in the place she put him after the Red Gate and again on the night he wore himself out watching the north. The sound of her heartbeat reaches him through the cotton before he feels her next breath. Her hand moves slowly over his hair, not keeping time with anything but her own thoughts.
+
+He has been held like this before. After the Trial, when he couldn't remember his own name. After the island, when he'd been afraid that the happiness would disappear if he looked away from it. After the north, when Shoko had told Yuka exactly how to keep pressure off the damaged arm and she had followed every instruction.
+
+This time she doesn't have to arrange his body around an injury. He can choose where to put his arms. It's a familiar way for her to hold him now, and that's the whole point.
+
+He slides his left one around her waist. He feels the fabric gather beneath his fingers, the gentle resistance of her body as she shifts closer, and then her hand covering his to hold it where she's comfortable. Her breath warms the collar of his shirt. When she draws him nearer, his chest touches hers, and he lets the movement finish without reaching past her or preparing to move away again.
+
+For the first few breaths he still thinks about the hand. The room beyond the door. The shadow at the window. The ways he could move if somebody shouted downstairs.
+
+Then he becomes aware of how tired he is.
+
+It isn't the exhaustion from the gate, when he went to sleep because he couldn't stay upright and woke with his hand already reaching for a weapon. This is the tiredness of a day spent doing small things: packing the clothes, following DIO to the Inn, watching Ori promise to water the plant, sitting on the porch while Makima asked whether she could come.
+
+He hasn't had to save anybody today.
+
+And yet the day mattered.
+
+“Yuka,” he says. ᴹ
+
+“Mm?”
+
+“I don't want you to think this means I'll stop protecting you.”
+
+Her hand goes still in his hair.
+
+“I don't.”
+
+“Or that I won't be scared next time.”
+
+“I know you will be.” ʸ
+
+He lifts his head to see her.
+
+“And so will I,” she says. “I'll probably be very scared. And then we'll tell each other, the way we said we would. That's all.” ʸ
+
+He nods.
+
+She touches the line on his chest with the tips of two fingers.
+
+“I'm not going to pretend I liked what happened in there.”
+
+“I know.”
+
+“But there were things I liked about being there with you.” ʸ
+
+He waits.
+
+“The stupid mattress. Three sweets. Watching you try to buy me a jacket. The little house with the fire. Beru trying not to fall asleep while DIO stared at him.” ʸ
+
+He laughs softly.
+
+“You liked the jacket?”
+
+“I liked that you got the size right the second time.”
+
+“The third.”
+
+“Don't ruin it.” ʸ
+
+She shifts her hand from the scar to the centre of his chest.
+
+“And I liked that when it was ugly, you told me,” she says. “You didn't say it was fine. You let me see it.” ʸ
+
+He thinks of the lamp she held over the wound that wouldn't close, and of how hard it was to say the truth without adding a promise he couldn't keep.
+
+“I don't want to go back to hiding it,” he says. ᴹ
+
+“Then don't.”
+
+“Sometimes I might forget.”
+
+“Then I'll ask again.” ʸ
+
+She doesn't sound frightened by the idea of asking. That makes the answer easier to believe.
+
+He reaches up, brushes the hair away from her forehead and kisses her there. She tilts her face so that when he moves back she can kiss his mouth instead. Her hand stays at his shoulder, steady, giving him room to adjust his weight.
+
+When they separate, she looks at him for a long moment.
+
+“Both,” she says. ʸ
+
+He knows what she means before she explains it. The word they wrote in the notebook after sharing the last sweet, when they'd been so tired of seeing one of them hurt and the other pretending to be fine.
+
+“Both,” he agrees. ᴹ
+
+“Not me safe while you do everything.”
+
+“No.”
+
+“Not you trying to hold the whole gate together by yourself.”
+
+“No.”
+
+“Us.”
+
+“Us.” ᴹ
+
+She smiles, satisfied. He can see the colour returning to her cheeks and knows she can see him watching.
+
+“There,” she says. “Now you can stop thinking for a while.” ʸ
+
+“Is that an order?”
+
+“I'm asking nicely.”
+
+“You're not.”
+
+“I can ask less nicely.” ʸ
+
+He laughs and hides his face against her shoulder. She wraps both arms around him and holds on.
+
+After a little while she asks whether Ciel has closed the new side of the link.
+
+He checks. It's quiet there, the way it has been since they agreed to let each other close that door.
+
+“Yes.”
+
+“And Noise?”
+
+“Also quiet.”
+
+“DIO?”
+
+“Probably dreaming about the plant.”
+
+“Makima?” ʸ
+
+He pauses. He can feel the distant presence of her, where she has been recovering, but she isn't listening.
+
+“She's resting,” he says. ᴹ
+
+Yuka nods.
+
+“Good. I hope she rests on the island too.”
+
+“I'll tell her.”
+
+“Not tonight.” ʸ
+
+“No. Not tonight.”
+
+She moves back enough to look at him, then reaches around his neck and draws him toward her. He follows. The kiss is unhurried. She lets him decide when to lift his head, and when he does she keeps one hand against his cheek.
+
+“I'm here,” she says. ʸ
+
+“I know.”
+
+“And tomorrow?”
+
+“The island.”
+
+“The hats.”
+
+“The mystery.”
+
+“And the person who won't tell us what she's giving me.” ᴹ
+
+Yuka groans.
+
+“Elmesia is going to enjoy that far too much.”
+
+“She already is.”
+
+“I've considered guessing.”
+
+“You've been guessing for days.”
+
+“Yes, but I could make a list.” ʸ
+
+“Please don't.”
+
+She laughs at the plea in his voice, then settles back into the pillow.
+
+The three hats are stacked on the chair by the window. He looks at them, enormous shapes that will be impossible to overlook in the morning. He doesn't know which part of the island they'll see first, or who Elmesia will bring to meet them, or what the sealed itinerary says.
+
+For once those are things he can find out when they happen.
+
+Yuka touches the back of his left hand, where it rests between them.
+
+“Still there?” she asks. ʸ
+
+He looks at her.
+
+“Yes.” ᴹ
+
+“Good.”
+
+She moves his hand to her waist, then slides closer so his right arm can settle across her back without pulling the scar on his chest. When she's satisfied, she puts her forehead against his and closes her eyes.
+
+“Let go,” she murmurs. ʸ
+
+He doesn't feel a door move. Nothing has to.
+
+“I am,” he says. ᴹ
+
+She takes a deeper breath and lets it out against his collar. He follows it without counting. Somewhere at the end of the next minute she shifts her cheek under his chin and gives a small, contented sigh.
+
+He keeps both arms around her. The room grows cooler as the lamp burns lower, but the place under the blanket where they meet stays warm. The wind reaches the window and moves on. Her breathing makes a small, regular sound at his collar, and the bed gives a quiet creak when he settles the last inch more comfortably against the pillow.
+
+He notices those sounds without arranging them into a warning. His hand rests open at her back, no longer held tense. He lets his eyes close.
+
+And goes to sleep.
+
+She stays awake long enough to feel the weight of his hand change against her back, the fingers uncurling one by one as sleep takes him. She knows how rarely that happens before he's already exhausted. She doesn't wake him to say so.
+
+She closes her eyes too.
 
 * * *
 

@@ -563,7 +563,7 @@ She nods as though confirming a fact in her notebook, then settles against him a
 
 The lamp stays on while they talk. They find things to laugh about that neither of them would put in the notebook. And when she asks him to stop thinking about the level page for one night, he agrees without bargaining for a later hour.
 
-He is still awake when she drifts off against his chest. There is no door to watch. There is only the weight of her hand over the line on his arm, and the knowledge that she chose to put it there.
+She closes her eyes against his chest, but keeps his hand folded in hers. The room falls quiet around them, and for once he doesn't mind that neither of them has looked at the clock.
 
 * * *
 

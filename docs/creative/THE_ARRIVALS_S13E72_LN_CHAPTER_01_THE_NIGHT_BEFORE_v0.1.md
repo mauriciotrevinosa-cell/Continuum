@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 31 (end of volume)
 **Source episode:** S13E72
-**Continuity state:** B+378, the day and night before the island; the volume ends the next morning as they leave. Packing: Yuka packs for both of them and makes him carry it all in the inventory; the two enormous matching hats and the third one Mai made for DIO; DIO takes her plant to Ori with written instructions. Makima, who can't be far from his body, asks quietly whether she's going too; Yuka answers before Mau can: yes, and on one day of it, if Yuka is in a good mood, maybe more than the bottom of the steps. That night, the let go: in the gate Mau closed the door again himself, and learned what it is to keep a hand on it; tonight, with her, he takes his hand off something for the first time without anything to fight. The intimate emotional let-go scene is written in full as non-graphic close romance; no unresolved placeholder remains. Morning: the house in the yard; the sealed itinerary in Shoko's pocket; the hats; they step out. Who goes is not named.
+**Continuity state:** B+378, the day and night before the island; the volume ends the next morning as they leave. Packing: Yuka packs for both of them and makes him carry it all in the inventory; the two enormous matching hats and the third one Mai made for DIO; DIO takes her plant to Ori with written instructions. Makima, who can't be far from his body, asks quietly whether she's going too; Yuka answers before Mau can: yes, and on one day of it, if Yuka is in a good mood, maybe more than the bottom of the steps. That night, Yuka repeats her familiar comfort after the Red Gate, as she did in V79 #17 (*The Fourth Breath*): she gives Mau somewhere to rest and he accepts it. This is a **nonsexual** scene, not a new intimate act or a first discovery of how to let go. They sleep together, and the volume closes on their departure. Morning: the house in the yard; the sealed itinerary in Shoko's pocket; the hats; they step out. Who goes is not named.
 
 *When: B+378. The day before the island, and the night, and the first light of the morning after.*
 
@@ -405,11 +405,11 @@ She takes the edge from him and pulls it higher over both of them, then works he
 
 “Much.”
 
-She draws his head down until his cheek rests against her shoulder. He's close enough to feel her breathing. Her hand moves slowly over his hair, not keeping time with anything but her own thoughts.
+She draws his head down until his cheek rests against her upper chest, in the place she put him after the Red Gate and again on the night he wore himself out watching the north. The sound of her heartbeat reaches him through the cotton before he feels her next breath. Her hand moves slowly over his hair, not keeping time with anything but her own thoughts.
 
 He has been held like this before. After the Trial, when he couldn't remember his own name. After the island, when he'd been afraid that the happiness would disappear if he looked away from it. After the north, when Shoko had told Yuka exactly how to keep pressure off the damaged arm and she had followed every instruction.
 
-This time she doesn't have to arrange his body around an injury. He can choose where to put his arms.
+This time she doesn't have to arrange his body around an injury. He can choose where to put his arms. It's a familiar way for her to hold him now, and that's the whole point.
 
 He slides his left one around her waist. He feels the fabric gather beneath his fingers, the gentle resistance of her body as she shifts closer, and then her hand covering his to hold it where she's comfortable. Her breath warms the collar of his shirt. When she draws him nearer, his chest touches hers, and he lets the movement finish without reaching past her or preparing to move away again.
 

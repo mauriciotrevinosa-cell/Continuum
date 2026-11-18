@@ -347,4 +347,48 @@ She puts her chin back on his chest. She looks at him for a long time.
 
 “I don't mind not knowing,” she says. “For once. I don't mind at all.” ʸ
 
-> **[PARA WORK: nota de cercanía, aquí.** Están juguetones después de la cena: las 23 reglas, la cara de Gojo, «It's true», «I had more. I cut some.» Ella está de panza sobre su pecho, con la cara todavía rosada. Un beso que empieza en risa y se queda. Puede alargarse un poco, pero no es la escena grande: ésa se guarda para la noche antes de la isla (el *let go*). **Sin límite de palabras; no comprimas.]**
+“I don't mind not knowing,” she repeats, as though she's testing how it feels to say it. ʸ
+
+“Even though you asked Elmesia about the gift four times?”
+
+“Three.”
+
+“Four.”
+
+“One of those was a perfectly normal question about luggage.” ʸ
+
+“Of course.”
+
+She narrows her eyes at him. He raises his eyebrows, which makes her laugh again. Her face is still warm and pink from reading the list aloud; he can see every bit of it, the colour against the ordinary grey of the room.
+
+“You're making fun of me,” she says. ʸ
+
+“A little.”
+
+“I have twenty-three rules about that too.”
+
+“I thought they were all for Gojo.”
+
+“Gojo is an example. A very extensive example.” ʸ
+
+He reaches up and brushes her hair behind her ear. She stops smiling quite so broadly, but she doesn't move away. Her hands come to rest on either side of his face.
+
+She kisses him first, laughing against his mouth when he tries to say something and can't. The second kiss is quieter. After that she stays where she is, forehead against his, letting the laughter and the day's excitement settle.
+
+“You're really not worried about the itinerary?” he asks. ᴹ
+
+“No.” ʸ
+
+“Not even a little?”
+
+“I spent eleven days knowing exactly what could happen tomorrow. I would like one trip where someone else worries about breakfast.” ʸ
+
+He holds her closer. Nothing about the sealed envelope can hurt them tonight. Shoko has it. Elmesia has a plan. The house is arguing somewhere downstairs about an itinerary they aren't allowed to read.
+
+“Then we'll go,” he says. “And find out.” ᴹ
+
+“Together.”
+
+“Together.”
+
+She gives him one more brief kiss, then lays her cheek over his heart as though she has decided this is where the rest of the evening belongs. He strokes her hair. Neither reaches for the list again.

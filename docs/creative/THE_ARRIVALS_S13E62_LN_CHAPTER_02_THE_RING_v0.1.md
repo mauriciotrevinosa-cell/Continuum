@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 12
 **Source episode:** S13E62
-**Continuity state:** B+369, Mai's workshop, the "next week" Mai set. Noise builds the ring from the pattern with Mai's correction, using Mau's version of Construction, with Mai's permission and Mai watching every curve. Mau implants it in the katana. He feeds it cursed energy and, for the first time, mana as well, so it holds both. The upgrades from the inventory go in with Mai and Senku: the long dark scale from Kaisel's mountain kill along the spine of the blade, the thin chitin in the guard, Kamish's tooth ground down into the edge. Rika's forms, finished at last, settle inside. Yuta is there when she comes out whole for the first time; he doesn't speak for a long time. Yuka beside Mau the whole build, feet in his lap. Evening: the ten points with Yuka, Umaru and Jin-Woo. Umaru wants to spend; Jin-Woo says keep some back until he knows what he's facing. Mau doesn't spend any yet.
+**Continuity state:** B+369, Mai's workshop, the "next week" Mai set. Noise builds the ring from the pattern with Mai's correction, using Mau's version of Construction, with Mai's permission and Mai watching every curve. Mau implants it in the katana. He feeds it cursed energy and, for the first time, mana as well, so it holds both. The upgrades from the inventory go in with Mai and Senku: the long dark scale from Kaisel's mountain kill along the spine of the blade, the thin chitin in the guard, Kamish's tooth ground down into the edge. Rika's forms, finished at last, settle inside. Yuta is there when she comes out whole for the first time; he doesn't speak for a long time. Yuka beside Mau the whole build, feet in his lap. Evening: the points (300 old levels' worth, everything from level 2 to 5) with Yuka, Umaru and Jin-Woo. Umaru wants to spend; Jin-Woo says keep some back until he knows what he's facing. Mau doesn't spend any yet.
 
 *When: B+369. A week after the chalk dust. Mai takes the box down from the top shelf at sunrise and won't let anyone talk until she's opened it.*
 
@@ -249,9 +249,11 @@ Mau opens the page.
 
 > **[Level 5.]**
 >
-> **[Unallocated points: 10.]**
+> **[Unallocated points: accumulated from Level 2 to Level 5.]**
+>
+> **[Equivalent on the former scale: 300 levels.]**
 
-Umaru reads the stat sheet out loud, every line of it, twice. Then she starts talking very fast about curves and caps and breakpoints and where ten points on this scale would put him on the old one if he put them all in one place, which she *very strongly* recommends against, and then in another place, which she very strongly recommends *for*, and then she stops and says, “No, wait,” and starts again. ᵁ
+Umaru reads the stat sheet out loud, every line of it, twice. Then she starts talking very fast about curves and caps and breakpoints and where three hundred levels of points would put him if he put them all in one place, which she *very strongly* recommends against, and then in another place, which she very strongly recommends *for*, and then she stops and says, “No, wait,” and starts again. ᵁ
 
 Yuka writes all of it down.
 
@@ -267,7 +269,7 @@ He drinks his tea.
 
 “You'll know when,” he says. ᴶʷ
 
-Mau looks at the box. *10*. Then at Yuka, who has stopped writing and is looking up at him.
+Mau looks at the box. *300 levels*. Then at Yuka, who has stopped writing and is looking up at him.
 
 “Not yet,” he says. ᴹ
 

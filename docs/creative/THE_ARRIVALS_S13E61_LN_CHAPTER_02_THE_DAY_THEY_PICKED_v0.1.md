@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 10
 **Source episode:** S13E61
-**Continuity state:** B+365, evening and night. Mau walks into the dark common room and the whole house shouts. It's his birthday, the day the house picked for him back in S3; he had forgotten. Ori's painted banner. Shuna's shy bread was the cake. The Sungs, Makima at the edge, DIO bouncing, Gojo's speech cut short by Shoko. Elmesia's bird arrives with a letter: happy birthday, and her gift is waiting on the island. Frieren gives him one of her grimoires, and it visibly breaks her heart; Mau accepts it and asks her to keep it in her room so he can come read it there, and her ears go up. Umaru and Jin-Woo offer to help with the points (level 5 = old 500). He tells the house about level five; Yuka writes it down. At night, alone, Yuka gives him what she and Mai made in the locked workshop: his own enormous hat, to match hers, for the island. They're comfortable; she puts it on him; a kiss turns into a longer one. Intimate scene in a note for Work.
+**Continuity state:** B+365, evening and night. Mau walks into the dark common room and the whole house shouts. It's his birthday, the day the house picked for him back in S3; he had forgotten. Ori's painted banner. Shuna's shy bread was the cake. The Sungs, Makima at the edge, DIO bouncing, Gojo's speech cut short by Shoko. Elmesia's bird arrives with a letter: happy birthday, and her gift is waiting on the island. Frieren gives him one of her grimoires, and it visibly breaks her heart; Mau accepts it and asks her to keep it in her room so he can come read it there, and her ears go up. Umaru and Jin-Woo offer to help with the points (level 5 = old 500; the unspent points equal 300 old levels, from 2 to 5). He tells the house about level five; Yuka writes it down. At night, alone, Yuka gives him what she and Mai made in the locked workshop: his own enormous hat, to match hers, for the island. They're comfortable; she puts it on him; a kiss turns into a longer one. Intimate scene in a note for Work.
 
 *When: B+365. Sunset. The house has been dark for exactly as long as it took Beru to walk Mau back from the orchard very, very slowly.*
 
@@ -221,7 +221,7 @@ He doesn't say anything. He watches Frieren by the fire, with the book in her la
 
 He tells them about the level near the end of the night.
 
-He doesn't mean to make an announcement. He just says it to Yuka, quietly, at the table, while the room is loud: *I hit five today. In the gate. With Beru. I've got ten points.* And Yuka stops with a piece of cake halfway to her mouth, and stares at him, and then stands up on the bench and shouts it to the whole room.
+He doesn't mean to make an announcement. He just says it to Yuka, quietly, at the table, while the room is loud: *I hit five today. In the gate. With Beru. I've got points. Three hundred levels of them.* And Yuka stops with a piece of cake halfway to her mouth, and stares at him, and then stands up on the bench and shouts it to the whole room.
 
 “*HE'S LEVEL FIVE*.” ʸ
 
@@ -237,11 +237,11 @@ Umaru is on her feet before the noise has died down.
 
 “How many points?” she demands. ᵁ
 
-“Ten.” ᴹ
+“Three hundred levels' worth.” ᴹ
 
-“On the *new* scale?” ᵁ
+Umaru's mouth opens. Nothing comes out.
 
-“Five is five hundred on the old one,” Mau says. “Two and a half times what I had.” ᴹ
+“Everything from two to five,” Mau says. “On the old scale, that's two hundred to five hundred. They were locked until five. So they all piled up.” ᴹ
 
 Umaru stares at him with an expression of pure professional hunger.
 
@@ -261,11 +261,11 @@ Jin-Woo shrugs.
 
 Mau looks at him. At Umaru, vibrating with the need to see a stat sheet. At Yuka, in his lap, holding her notebook against her chest like a shield.
 
-He can feel it in his hands. The itch. Not the old one, from the porch. A new one. Ten points. Five hundred. He doesn't know what any of it means yet, and he wants to know so badly his fingers are twitching.
+He can feel it in his hands. The itch. Not the old one, from the porch. A new one. Three hundred levels of points. Five hundred. He doesn't know what any of it means yet, and he wants to know so badly his fingers are twitching.
 
 “Later,” he says. “All of you. With Yuka first.” ᴹ
 
-Yuka sits back down. She takes out her notebook. She writes, very carefully, on a fresh page: *Level 5. B+365. With Beru. 10 points. NOT SPENT. (waiting for me)*
+Yuka sits back down. She takes out her notebook. She writes, very carefully, on a fresh page: *Level 5. B+365. With Beru. 300 LEVELS of points. NOT SPENT. (waiting for me)*
 
 She underlines *waiting for me* three times.
 

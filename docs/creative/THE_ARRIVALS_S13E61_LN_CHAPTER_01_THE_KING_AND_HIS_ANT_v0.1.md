@@ -173,7 +173,9 @@ And then, a moment later, a different box. One he's only seen once before, five 
 >
 > **[Point allocation unlocked.]**
 >
-> **[Unallocated points: 10.]**
+> **[Unallocated points: accumulated from Level 2 to Level 5.]**
+>
+> **[Equivalent on the former scale: 300 levels.]**
 
 He stops laughing.
 
@@ -185,11 +187,11 @@ He reads it. Three times. Beru, beside him, can't see the boxes, but he can see 
 
 “Five what?” ᴮᵉ
 
-“Level five. I've got points. Ten of them. I can—” ᴹ
+“Level five. I've got points. All of them. Everything since level two, saved up, because I couldn't spend any until five. Three hundred levels' worth. I can—” ᴹ
 
 He stops.
 
-He doesn't know what he can. He's never spent points on this scale. He spent them on the old one, a long time ago, in a place nobody else saw, the numbers going up one by one. He doesn't know what ten points means when two is what two hundred used to be.
+He doesn't know what he can. He's never spent points on this scale. He spent them on the old one, a long time ago, in a place nobody else saw, the numbers going up one by one. He doesn't know what three hundred levels of points means, all at once, on a scale where two is what two hundred used to be.
 
 “Noise?” he says. ᴹ
 
@@ -197,7 +199,7 @@ He doesn't know what he can. He's never spent points on this scale. He spent the
 
 “I wasn't going to.” ᴹ
 
-He wasn't. He looks at the box, at *10*, and thinks about the notebook. *Things you didn't know you had.* About sitting on the bench in the common room with her in his lap going through every page of the Shop, one sweet at a time.
+He wasn't. He looks at the box, at *300 levels*, and thinks about the notebook. *Things you didn't know you had.* About sitting on the bench in the common room with her in his lap going through every page of the Shop, one sweet at a time.
 
 He closes the box.
 

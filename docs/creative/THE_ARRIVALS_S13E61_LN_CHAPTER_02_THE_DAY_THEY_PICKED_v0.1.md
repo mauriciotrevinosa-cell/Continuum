@@ -349,7 +349,9 @@ He tries to push the front up with his left hand. The fingers catch on the band,
 
 “Give it here.”
 
-She takes the brim, settles it farther back on his head, and adjusts the crooked band with both hands. He can feel where she has drawn the weave tight and where Mai has added a neater stitch to hold it. She stops when the brim stays clear of his eyes.
+She takes the brim, settles it farther back on his head, and adjusts the crooked band with both hands. The weave makes a faint dry sound as it moves against his hair. He can feel where she has drawn the fibres tight and where Mai has added a neater stitch to hold them. Yuka's fingertips graze his temples, warm against the cooler skin the brim was shading; she leans in to check one side, then the other, her concentration so complete that the corner of her mouth disappears between her teeth.
+
+She stops when the brim stays clear of his eyes.
 
 “There,” she says. “Better.” ʸ
 
@@ -439,7 +441,9 @@ Downstairs the music is still going. Somebody is trying to sing over Bocchi and 
 
 “Almost certainly.”
 
-Yuka leans against his right shoulder. He puts his arm around her, and she turns until her cheek rests against his chest. She hasn't stopped smiling since she opened the wardrobe. He can feel it when she presses her face into his shirt.
+Yuka leans against his right shoulder. He puts his arm around her, and she turns until her cheek rests against his chest. The fabric of her blue dress is smooth under his hand, cool at first from the night air in the room, then warm where his palm stays against her back. Beneath the faint vibration of music coming through the floor, he feels her breathing settle against him.
+
+She hasn't stopped smiling since she opened the wardrobe. He can tell without looking: each time she tries to hide her face in his shirt, her cheek moves against his chest and her shoulders give a tiny, betraying shake.
 
 “Thank you,” he says. ᴹ
 
@@ -471,7 +475,11 @@ He looks at the hat beside them. It doesn't do anything. It doesn't have an upgr
 
 She doesn't sound sorry for him. She sounds as though she's noticed a habit she intends to keep teasing him about.
 
-He lowers his head to kiss her. She moves her hand from his chest to the back of his neck and lifts herself slightly, saving him the bend that pulled at his side before. When they part, she stays close enough to look at him.
+He lowers his head to kiss her. She moves her hand from his chest to the back of his neck and lifts herself slightly, saving him the bend that pulled at his side before. The contact is gentle, but she remains there rather than withdrawing immediately; her fingers slide under the hair at his nape, and he feels the little change in pressure when she rises onto her knees to meet him.
+
+The house is loud beneath them. A bass note comes through the bedframe, followed by somebody clapping out of time. They both hear it. Yuka's mouth curves into a smile against his, and he feels her start to laugh before she lets the laugh out. He draws back only enough to see her face.
+
+When they part, she stays close enough to look at him.
 
 “You could have told me that,” he says. ᴹ
 
@@ -565,7 +573,11 @@ He tests the position: no weight on his left arm, nothing pulling hard along his
 
 “Good.”
 
-She kisses him slowly, without the hat this time. He keeps his hand against her back and feels her relax against him as the day's excitement finally begins to pass. When they separate, he touches his forehead to hers. She closes her eyes.
+She kisses him slowly, without the hat this time. He keeps his hand against her back. At first her shoulders are still lifted, as if she has brought the excitement of the party all the way upstairs with her. He feels them lower beneath his palm, a little at a time. Her fingers loosen in the fabric at his shoulder. The cool edge of the pillow touches his right elbow when he shifts, and she adjusts with him without breaking their closeness.
+
+Downstairs the music changes to something softer. The room seems suddenly larger around them, with only the rustle of the blanket where her knee moves and the quiet sound of their breathing between kisses.
+
+When they separate, he touches his forehead to hers. Her skin is warm, her hair brushes the back of his hand, and she closes her eyes.
 
 “I want us to wear them together,” she says. ʸ
 

@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 22
 **Source episode:** S13E67
-**Continuity state:** Inside the Rulers' trial, night of day eight, in the tent on the first landing of the next level. Yuka wakes with Ten Shadows still in burnout; she can borrow Mau's cursed techniques and use the new mana channel, but both cost him, so she refuses to exhaust his reserves while his wound remains open. She's frightened of having lost her own reliable way to protect them for the next day. Mau makes the soup from the dried bag she bought on day three and feeds her when her hands shake too much. Then Ciel speaks to Yuka directly through their established link and, instead of offering a technical reading, tells Yuka what counting meant to her during the Trial. In the Trial she counted because counting was the only thing that proved time was passing and he was still in it; tonight she's counting Yuka's breaths for the same reason. Mau hears it all. Yuka asks Ciel to keep counting. DIO comes out and sits by the tent door so Beru can rest one wing. No intimate scene inside the gate.
+**Continuity state:** Inside the Rulers' trial, night of day eight, in the tent on the first landing of the next level. Yuka wakes with Ten Shadows still in burnout; she can borrow Mau's cursed techniques and use the new mana channel, but both cost him, so she refuses to exhaust his reserves while his wound remains open. She's frightened of having lost her own reliable way to protect them for the next day. Mau makes the soup from the dried bag she bought on day three and feeds her when her hands shake too much. Then Ciel speaks to Yuka directly through their established link and, instead of offering a technical reading, tells Yuka what counting meant to her during the Trial. Outside the Architect's final isolation she counted what the family could actually observe (elapsed time and rescue attempts), with no access to Mau's breathing or wounds; Noise was with Mau inside. Tonight, with Yuka in the same link, she can count Yuka's breaths directly and chooses to do so. Mau hears it all. Yuka asks Ciel to keep counting. DIO comes out and sits by the tent door so Beru can rest one wing. No intimate scene inside the gate.
 
 *When: Inside the trial, night of day eight. Outside, still B+370, mid-afternoon; Shoko has sat down on the grass in front of the oval, which she never does.*
 
@@ -137,29 +137,29 @@ Yuka looks at him. He doesn't say anything. It isn't his.
 
 * * *
 
-“In the Trial,” Ciel says, “I counted.” ᶜ
+“When the Architect sealed Mau inside his last field,” Ciel says, “I counted outside.” ᶜ
 
 Her voice is the same as always. Crisp. Even. But slower.
 
-“Days. Hours, when I could. His breaths, when there wasn't anything else. You know that. Everyone knows that. *Ciel counted*. It's in the notes.” ᶜ
+“Hours. Attempts to open a path. Every change the people at the gate could actually see. I wasn't in there with him. I couldn't hear his breathing or know what the field was doing to his body. Noise was inside with him. I wasn't.” ᶜ
 
-“Yes,” says Yuka. ʸ
+Yuka nods. She remembers the waiting outside the closed instance. She doesn't need Ciel to explain how long the hours felt.
 
-“Nobody ever asked why,” says Ciel. ᶜ
+“I knew how much time had passed out here,” Ciel says. “That wasn't the same as knowing how he was. Sometimes there was no new information. I counted anyway.”
 
-Yuka waits.
+“Why?” Yuka asks. ʸ
 
-“There wasn't a reason,” Ciel says. “Not a practical one. Knowing it was day forty didn't help him. Knowing it was the nine-thousandth breath that afternoon didn't feed him or close anything or open a door. I didn't count because it was useful.” ᶜ
+“Because doing nothing with the next minute felt worse. It wasn't a diagnosis. It didn't tell me he'd eaten or stopped bleeding. It kept the next attempt from disappearing into the hours before it.” ᶜ
 
-A pause.
+She pauses.
 
-“I counted because it was the only thing that proved time was still passing,” Ciel says. “That we were still in it. That he was. Every number was one more than the one before. And as long as there was a next number, he was still there to have it.” ᶜ
+“Noise remembers the inside. Mau remembers it too. I don't get to tell either of them what they lived. I can only tell you what the waiting did to me.” ᶜ
 
 * * *
 
 Mau is looking at the tent wall.
 
-He didn't know. He's never asked either. He's heard *Ciel counted* a hundred times, from Shoko, from Jin-Woo, from the notes, and he's never once thought to ask her why.
+He remembers that field. The rooms, the injuries, the stretches when Noise kept speaking and Mau could barely find an answer. He had never asked Ciel what she was doing outside during those same hours.
 
 He feels Yuka's hand find his on the mattress.
 
@@ -171,6 +171,8 @@ He shuts his mouth.
 
 * * *
 
+* * *
+
 “I'm counting now,” Ciel says to Yuka. ᶜ
 
 Yuka's hand tightens on his.
@@ -179,7 +181,7 @@ Yuka's hand tightens on his.
 
 “Why?” says Yuka. Her voice is very small. ʸ
 
-“The same reason,” says Ciel. “It's not useful. It doesn't open your technique. It doesn't make the burnout go faster. It just proves you're still here. One more than the one before.” ᶜ
+“Not quite the same reason,” says Ciel. “This time I can actually hear you. I can count a living person's breaths instead of minutes outside a wall. It doesn't open your technique or make the burnout go faster. But I know you're here, and I don't want to treat knowing that as something small.” ᶜ
 
 A pause.
 

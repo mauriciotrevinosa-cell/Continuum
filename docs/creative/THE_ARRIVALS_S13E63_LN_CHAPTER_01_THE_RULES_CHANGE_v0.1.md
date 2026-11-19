@@ -263,9 +263,23 @@ She steps out of him onto the stone beside them in her own body, the way she doe
 
 “I'm here too,” she says. “For what it's worth. I came in with him. I'm staying in with him.” ᴰ
 
-Yuka looks at her. Something in her shoulders comes down half an inch.
+*We're all here,* Ciel says through the link. *Noise is following the gate's root. I can keep you both informed. DIO can take a body outside. Neither Makima nor I is going to vanish because the exit closed.* ᶜ
 
-“It's worth something,” she says. ʸ
+*This is important,* Makima says before anyone invites her. *The Rulers can change the terms of a trial. They have done it before. That does not mean you must accept their story about what either of you is worth.* ᴹᵏ
+
+DIO tilts her head as if she's listening to someone at the table.
+
+“And there she is,” she says. “I was beginning to think you'd leave the announcement to me.” ᴰ
+
+*You looked ready to make a speech,* Makima replies. ᴹᵏ
+
+“I'm capable of a very good speech.”
+
+“Later,” Yuka says, but the smile that escapes her is real. ʸ
+
+Something in her shoulders comes down half an inch.
+
+“It's worth something,” she tells DIO. “All of you.” ʸ
 
 * * *
 
@@ -301,7 +315,7 @@ Yuka nods. She takes it in. He can see her taking it in: putting it on a shelf i
 
 He opens it.
 
-His hands aren't steady. He notices that, distantly. He opens the Shop the way he's opened it a thousand times on the porch with her in his lap, going through every page for sweets, and he waits for the box that says *[Unavailable.]* The way it said at the quarry. The way it said, over and over, for a year, in the place he doesn't remember and his body does.
+His hands aren't steady. He notices that, distantly. He opens the Shop the way he's opened it a thousand times on the porch with her in his lap, going through every page for sweets, and he waits for the box that says *[Unavailable.]* The way it said at the quarry. The way he feared it would in the Architect's isolation, where he remembers counting what he could still afford and deciding how little he could spend. His body remembers too; that isn't the same as forgetting.
 
 The Shop opens.
 
@@ -331,7 +345,7 @@ He doesn't answer.
 
 She puts her hand on his back.
 
-“You thought it'd be like the Trial,” she says. “Nothing. No food. No Shop. Just you and whatever you could find.” ʸ
+“You thought it'd be like the Architect's field,” she says. “The Shop was there, but your money ran down and most of your other ways out were shut. You had to keep choosing what you could afford to survive.” ʸ
 
 “Yes,” he says, into his hand. ᴹ
 
@@ -339,7 +353,7 @@ She puts her hand on his back.
 
 “No.” ᴹ
 
-“So we eat,” Yuka says. “We sleep. We buy a tent and blankets and the stupid sweets. And we kill the Warden. And it's not like that. Not even a little.” ʸ
+“So we check the prices,” Yuka says. “We count what the monsters give us. We buy a tent, blankets and the stupid sweets, and we keep enough for tomorrow. We kill the Warden. We don't pretend it'll be easy, but we don't have to repeat the choices the Architect forced on you.” ʸ
 
 She leans her head against his shoulder.
 

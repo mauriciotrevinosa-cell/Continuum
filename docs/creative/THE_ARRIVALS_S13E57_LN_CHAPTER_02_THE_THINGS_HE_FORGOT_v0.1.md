@@ -219,7 +219,7 @@ Mau stops.
 
 “What sort of gaps?” ᴹ
 
-“Entries whose sequence numbers exist in older records but are not displayed by the current list. That doesn't prove the objects are still available. It could be an indexing fault. It could be an obsolete reference. It could be something the old system withheld.” ᴺ
+“Old entries, missing from this index,” Noise says. “Maybe sealed. Maybe obsolete. No proof yet.” ᴺ
 
 Yuka feels him go still.
 

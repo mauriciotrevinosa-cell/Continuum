@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 28
 **Source episode:** S13E70
-**Continuity state:** B+371–373, the three days of rest Shoko prescribed. Mau and Yuka in bed most of it; the house brings things up the stairs. Day one: they mostly sleep; Ori sits on the end of the bed and reads to them. Day two: Gojo's talk, on the porch because Shoko said "bed or porch". With the eyes no longer costing anything, Gojo explains how to leave things on: Infinity always up at its lowest, the way he does; RCT running quietly all the time instead of switched on when hurt; and Noise and Ciel map which of Mau's techniques can now simply stay usable all day without a price. Mau tries it and keeps it up through dinner. Day three: Shoko comes to check on him and there's nothing to check; she stands in the doorway a beat too long, and Mau asks her to stay for tea anyway, and she does. Mai hears the eyes cost nothing and realises what that means for the cursed energy Mau gives her Construction under their agreement: she can build the big things now. She goes away with a notebook of her own. No intimate scene yet; the rest days are for rest.
+**Continuity state:** B+371–373, the three days of rest Shoko prescribed. Mau and Yuka in bed most of it; the house brings things up the stairs. Day one: they mostly sleep; Ori sits on the end of the bed and reads to them. Day two: Gojo's talk, on the porch because Shoko said "bed or porch". With the Six Eyes making cursed-energy use for his techniques and RCT virtually free but Mini Ciel's information filter destroyed, Gojo teaches the real conditions for sustained operation: continual RCT renewal of the brain and an Infinity that distinguishes harmful contact from ordinary touch. Ciel and Noise help him test passive techniques without pretending that sensory load, control or physical consequences are gone. Mau tries it and keeps it up through dinner. Day three: Shoko comes to check on him and there's nothing to check; she stands in the doorway a beat too long, and Mau asks her to stay for tea anyway, and she does. Mai hears the eyes cost nothing and realises what that means for the cursed energy Mau gives her Construction under their agreement: she can build the big things now. She goes away with a notebook of her own. No sexual intimacy in V80; the rest days are for rest.
 
 *When: B+371–373. Three days, the way Shoko said. Nobody lets them come downstairs for meals.*
 
@@ -63,27 +63,33 @@ Shoko said *bed or porch*. So it's the porch. Mau sits in the old chair with a b
 
 He holds up his hand and flicks his fingers open and shut. Open. Shut.
 
-“That's what you do. Something comes, you turn Infinity on. It goes, you turn it off. You get hurt, you turn the RCT on. You heal, you turn it off. Every time. On, off, on, off. Like a kid with a lamp.” ᴳ
+“Infinity when something comes at you. RCT after something hurts you. You've been treating both like switches.” ᴳ
 
-“That's how it works.” ᴹ
+“That's how I learned.” ᴹ
 
-“That's how it worked,” says Gojo, “when it cost you something to leave it on. When the eyes were taking a little bit all the time, and you had to budget. You were right to switch. You'd have run dry.” ᴳ
+“And you had reasons. But don't confuse the problem you had with the one you have now.” ᴳ
 
-He pulls his blindfold down, just enough to show one eye. It's very bright.
+He touches his blindfold.
 
-“But they don't cost anything now,” he says. “The eyes. Do they.” ᴳ
+“These aren't decoration. When I don't wear the blindfold, I wear dark glasses. The Six Eyes see more than anybody ought to have to look at. Covering them takes the edge off the information. I still have to run my brain.” ᴳ
 
-“No.” ᴹ
+“Ciel made Mini Ciel for me,” Mau says. “So I wouldn't need either.” ᴹ
 
-“So you're not budgeting anymore,” says Gojo. “Not the same way. So stop switching. Leave it on.” ᴳ
+“And it worked,” Gojo says. “Until it broke.” ᴳ
+
+Mau can hear the creak of the railing, the shifting boards under the house, the cursed energy moving through the people in the rooms behind him. He can distinguish every little change. He wishes, briefly, that he couldn't.
+
+“The energy efficiency you reached in that gate is ridiculous,” Gojo says. “Your techniques, your RCT, even the eyes at full output: practically no cursed energy spent. That's not the same as no work being done. Your brain still has to take in what you're seeing and decide what to do with it.” ᴳ
+
+“And Mini Ciel used to take the worst of that,” Yuka says. ʸ
+
+“Exactly. You don't have the filter anymore. Keeping your eyes open all day isn't the hard part. Keeping your head working all day is.” ᴳ
 
 * * *
 
 “Leave what on?” says Yuka. ʸ
 
-Gojo grins at her.
-
-“Infinity,” he says. “To start. Not the big one. The smallest one. Just there. All the time. On your skin, the way your clothes are on your skin. You don't think about your clothes. You just wear them.” ᴳ
+“Infinity,” Gojo says. “To start. The neutral one. But I don't mean a wall that keeps your wife half an inch away.” ᴳ
 
 He reaches out and flicks Mau's forehead.
 
@@ -91,115 +97,121 @@ His finger stops half an inch away. Mau didn't do anything.
 
 Gojo looks at his finger. Then at Mau.
 
-“You did that already,” he says. ᴳ
+“You already have it running.” ᴳ
 
-“No I didn't.” ᴹ
+“No I don't.” ᴹ
 
-“You did. Just now. You didn't even know.” ᴳ
+“Ciel?” Yuka asks. ʸ
 
-Mau looks at the finger, hanging in the air in front of his face, stopped against nothing.
+“The neutral Infinity has been active since the orchard,” Ciel says. “The lowest output. Mau didn't consciously turn it back on.” ᶜ
 
-“Ciel?” he says. ᴹ
+Mau looks down.
 
-“It's been up since the orchard,” says Ciel. “The lowest setting. I thought you'd turned it on.” ᶜ
+Yuka's feet have been resting in his lap the whole time. His hand is still around her ankle. The space around him has been stopping whatever might hurt him, but it hasn't been keeping her away.
 
-“I didn't.” ᴹ
+“Then how is she touching me?” he asks. ᴹ
 
-“Then it turned itself on,” says Ciel, “and nobody turned it off.” ᶜ
+“Because you're already distinguishing some things without thinking,” Gojo says. “You just don't know how reliably. That's the lesson.” ᴳ
 
-Gojo starts to laugh.
+He makes Mau take Infinity down. Put it back up. Gojo tosses one small pebble at his shoulder; it hangs half an inch away and drops onto the blanket.
+
+“Too easy,” Gojo says. “Now don't let it decide that everything moving toward you is an attack.” ᴳ
+
+Yuka reaches out slowly and brushes Mau's hair away from his eyes. Her fingers meet his forehead, warm and ordinary. Infinity stays up. He can feel its edge around the approaching pebble in Gojo's other hand, and he can feel her touch at the same time.
+
+He lets out a breath.
+
+“Not just who it is,” Gojo says. “What is actually coming at you. Speed, shape, cursed energy, force, intent where you can read it. A familiar hand can hold a knife by accident; a stranger can pass you a cup. If you only make a list of people allowed through, you'll get it wrong.” ᴳ
+
+“Or stop me from hugging you,” Yuka says. ʸ
+
+“Then that would be a bad system,” Gojo says. ᴳ
+
+She leans down and hugs Mau, properly, both arms around him. He feels her weight settle against his chest. Gojo flicks another pebble at the back of his chair; Infinity catches it while Yuka is still holding him.
+
+The distinction is possible. Making it dependable is the work.
 
 * * *
 
-“Okay,” Gojo says, when he's done. “So that's one. You're already doing it. Good. Now do it on purpose.” ᴳ
+“Two,” Gojo says. “RCT. Not just for the next wound.” ᴳ
 
-He makes Mau take it down. Then put it back up. Then forget about it. Then he throws pebbles at him from the railing, one every few seconds, while they talk about other things: the fox book, whether Shoko will ever let them have dinner downstairs, what Mai is doing in the workshop that's making that noise. Every pebble stops half an inch from Mau's skin and drops into his lap.
+He goes a little more serious.
 
-After twenty minutes there's a small pile of pebbles on the blanket.
+“In the gate, your RCT was already moving when the blade went through you. It healed your body before the cut could finish. Keep that response available. But there's another reason I keep RCT going: my brain.” ᴳ
 
-“See?” says Gojo. ᴳ
+Mau looks up.
 
-“I wasn't thinking about it,” says Mau. ᴹ
+“All that seeing, all that calculation, an active technique running constantly—it wears on the machinery doing it. So I keep refreshing the brain with RCT. A fresh brain, over and over. Not a different mind, not a free second consciousness. The same one, kept able to do the work.” ᴳ
 
-“Exactly,” says Gojo. ᴳ
+“And the filter?” Mau asks. ᴹ
 
-* * *
+“You don't get Mini Ciel back by healing your brain. That was Ciel's work. RCT can keep the tissue functioning; it doesn't put the old filter back or automatically teach you which touches to let through.” ᴳ
 
-“Two,” says Gojo. “The RCT.” ᴳ
+Ciel answers before Mau can ask. “The cursed-energy expenditure is now effectively negligible for your own techniques and RCT, even with the eyes at full output. The limiting problem here is neurological load and control, not a reserve you will drain by leaving the neutral technique running. I can monitor the strain, but I am not replacing Mini Ciel without building and testing another filter.” ᶜ
 
-He goes serious. Not very; Gojo is never very serious. But a little.
+“So I do the sorting,” Mau says. ᴹ
 
-“You turn it on when you're hurt,” he says. “That's what you've always done. Something opens, you close it. But in there, at the bottom, it was already running when the blade went in. Right?” ᴳ
+“You learn to do it without burning your head out,” Gojo replies. “And if it hurts, you don't lie to Shoko.” ᴳ
 
-“Yes.” ᴹ
+Yuka's hand settles on his shoulder.
 
-“That's why you're alive,” says Gojo. “Not because it's strong. It's always been strong. Because it was already *on*. It didn't have to start. It just had to keep going.” ᴳ
+“Or me,” she says. ʸ
 
-He's quiet for a moment.
+“Or her,” Gojo agrees. ᴳ
 
-“Leave it on,” he says. “Low. Quiet. Not healing anything. Just there. Ticking over. So the next time something goes through you, it's already behind the blade.” ᴳ
+Mau finds the RCT route he knows so well. Instead of sending it toward a cut on his side, he brings a careful, continuous flow to the working tissue of his brain. It doesn't make the flood of impressions disappear. The railing still creaks too loudly; he still notices far too many things at once. But the pressure stops accumulating so fast.
 
-Yuka's feet go very still in Mau's lap.
+“Is it working?” Yuka asks. ʸ
 
-Mau looks at her.
+“It's helping,” he says. “The seeing's still a lot.” ᴹ
 
-“Can I?” he asks Ciel. ᴹ
+“Good answer,” Gojo says. “Keep it on. Keep paying attention to what it does to you.” ᴳ
 
-“At the lowest setting, the RCT's upkeep is small,” Ciel says. “The constant draw from your eyes used to force you to budget the rest. Without that drain, a low flow is sustainable. Not unlimited: the larger repairs will still cost you.” ᶜ
+“Always?” Yuka asks. ʸ
 
-“So yes,” says Mau. ᴹ
+“The RCT and Infinity, if he can maintain the control,” Gojo says. “Yes. The eyes don't need to be shut off to make it possible.” ᴳ
 
-“Yes,” Ciel confirms. “At the level Gojo described.” ᶜ
+“Then always,” she says, to Mau. “Please.” ʸ
 
-He finds it. The quiet place where the RCT lives. He opens it, just a little, the way you'd leave a door ajar so you can hear the house. And then he leaves it.
+“I'll keep trying,” he says. “And I'll tell you if it starts hurting.” ᴹ
 
-Yuka's hand comes to rest on his ankle.
-
-“Is it on?” she says. ʸ
-
-“It's on.” ᴹ
-
-“Leave it on,” she says. “Always. Please.” ʸ
-
-“Always,” he says. ᴹ
+“That's the promise I wanted.” ʸ
 
 * * *
 
 The third thing takes Noise and Ciel the rest of the afternoon.
 
-Gojo asks it. *What else can you leave on now?* And Mau doesn't know. He's never thought about it. Every technique he has, he's always thought of as a thing you open and close. A tool you pick up.
+Gojo asks it. *What else can you leave on, and what should you leave on?* Mau has been treating those as the same question.
 
-So they go through them. On the porch. All of them.
+They aren't.
 
-Noise checks the structures. Ciel calculates and explains what can remain active. Gojo throws pebbles. Yuka writes it all down in the notebook, on a new page, under a heading she underlines twice: *ALWAYS ON*.
+Noise checks the structures. Ciel tracks the strain and explains which techniques are passive enough to stay prepared without demanding constant decisions. Gojo throws pebbles, then passes Mau a cup. Yuka writes in the notebook, under a heading she underlines twice: *ALWAYS ON*.
 
-Some of them can't. The big ones. Purple. Shrine at its longest. The things that go *out*, that change the world when they touch it. Those are still tools. They still cost; they still have to be opened and closed.
+*Infinity: neutral, selective.* Yuka writes it. *Harmful contact blocked; normal contact allowed. Check the distinction, don't assume.*
 
-But some of them can.
+*RCT: continuous, including the brain.* She writes it. *Keep the processing tissue fresh. Still report discomfort.*
 
-*Infinity, lowest.* Yuka writes it.
+*Six Eyes: full capacity; Mini Ciel filter gone.* She writes *CE cost: virtually zero* in one margin and *information overload still possible* in the other.
 
-*RCT, low.* She writes it.
+*Authority: light grip.* Noise checks it and gives a small assent. It can remain ready as a simple response, but readiness isn't permission to grab everything.
 
-*Eyes.* She writes it, and then underlines it, and writes beside it, smaller: *(free)*.
+*Sky.* Ciel says he can keep the familiar light support available without having to hold the entire technique in active focus.
 
-*Authority, light grip.* Noise thinks about that one for a long time, and then says yes, a light grip, the kind you'd use to catch a cup before it falls, can stay ready all day without costing anything worth counting.
+Purple and a long Shrine are different: things Mau chooses to release, not effects he would leave firing across the house. Their cursed-energy use has become extraordinarily efficient too; that doesn't make the effect, his aim, his attention or his body consequence-free. Mana-based spells still use mana.
 
-*Sky.* Ciel says yes. He's been standing on it without thinking for months anyway.
+The list is shorter than it could be, and more useful for that.
 
-The list gets longer. Yuka's handwriting gets smaller to fit it on the page.
-
-At the end, she turns the notebook round and shows him.
+At the end, Yuka turns the notebook round and shows him.
 
 He reads it. Twice.
 
 “That's a lot,” he says. ᴹ
 
-“That's a lot,” says Gojo, and for once doesn't make a joke. “That's more than I had at your age.” ᴳ
+“That's a lot,” says Gojo, and for once doesn't make a joke. “And you'll need to practise the sorting. A thousand harmless things come at you every day. You're not supposed to catch them all.” ᴳ
 
 He hops down off the railing.
 
-“Leave it all on till dinner,” he says. “Don't think about it. If you notice you're thinking about it, think about something else. Tomorrow, leave it on till bed. Next week, forget it's there.” ᴳ
+“Try the passive ones through dinner,” he says. “Next, through the evening. Don't do it by ignoring the headache. Do it until the distinction holds without you having to name every fork, every pebble and every hand.” ᴳ
 
 At the porch steps, he turns round.
 
@@ -211,7 +223,7 @@ It's the first time he's said it in three days. Gojo looks delighted.
 
 * * *
 
-He keeps it all on through dinner.
+He keeps the neutral Infinity, the renewing RCT and the small passive responses on through dinner.
 
 Dinner is in bed, because Shoko came up and stood in the doorway and said *no* before he'd finished asking. Yuka brings up two plates. They eat with the plates on their knees and the window open.
 
@@ -279,17 +291,17 @@ Mai finds out on the third afternoon.
 
 She comes up the stairs two at a time, which she never does, and stops in the bedroom doorway out of breath with a pencil behind her ear.
 
-“Gojo says your eyes don't cost anything,” she says. ᴹᵃ
+“Gojo says using your techniques barely costs any cursed energy now,” she says. ᴹᵃ
 
-“They don't.” ᴹ
+“Practically none,” Mau says. “Not literally nothing.” ᴹ
 
-“*Nothing*?” ᴹᵃ
+“And the eyes at full capacity? RCT?” ᴹᵃ
 
-“Nothing.” ᴹ
+“Same efficiency. It doesn't spare my brain from the information, though.” ᴹ
 
 Mai stands very still.
 
-He can see her doing arithmetic. He's seen Senku do it. Mai does it differently: not in numbers, in *things*. Things she could build. Things she's wanted to build and hasn't, because every piece of steel her Construction makes comes out of cursed energy, and most of the cursed energy she builds with comes from him, under their agreement, and he always had to keep some back for the eyes.
+He can see her doing arithmetic. He's seen Senku do it. Mai does it differently: not in numbers, in *things*. Things she could build. Her Construction still needs cursed energy when she executes it, and his eyes do not magically erase the cost of somebody else's technique. But he is spending almost nothing on maintaining his own, which leaves far more of his finite supply available to lend her under their agreement. Volume, control and what she knows how to construct still matter.
 
 “How much can you give me?” she says. ᴹᵃ
 

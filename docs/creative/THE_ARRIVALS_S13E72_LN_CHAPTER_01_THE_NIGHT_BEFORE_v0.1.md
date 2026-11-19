@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 31 (end of volume)
 **Source episode:** S13E72
-**Continuity state:** B+378, the day and night before the island; the volume ends the next morning as they leave. Packing: Yuka packs for both of them and makes him carry it all in the inventory; the two enormous matching hats and the third one Mai made for DIO; DIO takes her plant to Ori with written instructions. Makima, who can't be far from his body, asks quietly whether she's going too; Yuka answers before Mau can: yes, and on one day of it, if Yuka is in a good mood, maybe more than the bottom of the steps. That night, Yuka repeats her familiar comfort after the Red Gate, as she did in V79 #17 (*The Fourth Breath*): she gives Mau somewhere to rest and he accepts it. This is a **nonsexual** scene, not a new intimate act or a first discovery of how to let go. They sleep together, and the volume closes on their departure. Morning: the house in the yard; the sealed itinerary in Shoko's pocket; the hats; they step out. Who goes is not named.
+**Continuity state:** B+378, the day and night before the island; the volume ends the next morning as they leave. Packing: Yuka packs for both of them and makes him carry it all in the inventory; Yuka's enormous hat from the previous island trip, Mau's matching birthday hat made by Yuka and Mai, and the third hat Mai now brings for DIO (Mau knew the size and materials of Mai's work and was sworn to secrecy); DIO takes her plant to Ori with written instructions. Makima, who can't be far from his body, asks quietly whether she's going too; Yuka answers before Mau can: yes, and on one day of it, if Yuka is in a good mood, maybe more than the bottom of the steps. That night, Yuka repeats her familiar comfort after the Red Gate, as she did in V79 #17 (*The Fourth Breath*): she gives Mau somewhere to rest and he accepts it. This is a **nonsexual** scene, not a new intimate act or a first discovery of how to let go. They sleep together, and the volume closes on their departure. Morning: the house in the yard; the sealed itinerary in Shoko's pocket; the hats; they step out. Who goes is not named.
 
 *When: B+378. The day before the island, and the night, and the first light of the morning after.*
 
@@ -25,39 +25,55 @@ He puts them in the inventory. One row at a time. She watches every piece go, an
 
 The hats come last.
 
-Mai brings them up. She's barely slept in a week; she's been building things in the workshop that nobody's allowed to see, with the cursed energy that doesn't have to be saved for anything now. But she made the hats first. She said they were a warm-up.
+Not because anyone has been making them today. Yuka's has been hers since the last island trip, the enormous one Mau bought with Elmesia's pass and caught whenever the wind took it. His is the one Yuka and Mai made for his birthday, the one she gave him upstairs after the party. Yuka takes both from the top of the wardrobe and sets them on the bed beside the last things she hasn't packed.
 
-Three of them.
+Mai arrives with the third.
 
-Enormous. Wide as a cartwheel. Woven out of something light and stiff that holds its shape in a wind. Two of them exactly alike. The third the same, but with a small sea-glass pin stuck in the band, the one from DIO's old lopsided hat.
+She's been working in the workshop all week. Mau knows more about it than anyone else thinks. Every time she settled on a size or a material, she'd come and tell him: how wide the brim would be, how light the weave had to stay, what she would stiffen so it wouldn't fold in the wind. She hadn't shown him everything she was making, but she hadn't kept the work itself from him.
 
-Yuka puts one on.
+She had also made him promise not to tell.
 
-It comes down over her eyes. She pushes it up. It comes down again. She leaves it.
+"Not a word," she'd said, pointing at him.
 
-“Perfect,” she says, from under it. ʸ
+"Not even—"
 
-He puts the other one on. He can't see anything at all.
+"Especially not. You promised."
 
-“Perfect,” he agrees. ᴹ
+So he'd kept his mouth shut. Mai had checked on that promise more than once.
 
-Mai looks at the two of them standing in the middle of the bedroom with their faces gone under the brims, and makes a sound she tries to turn into a cough.
+Now she holds out DIO's hat. It's enormous, made to stand beside the other two without disappearing between their brims, and the band carries the little sea-glass pin from DIO's old, lopsided hat.
 
-“They're *structurally* perfect,” she says. “I can't help how you look in them.” ᴹᵃ
+Yuka puts her own hat on. It's still too big and still falls over her eyes if she doesn't tip it back. She leaves it that way.
+
+"Perfect," she says from beneath the brim. ʸ
+
+Mau puts on his birthday hat. He knows the slightly uneven part of the weave by touch. The brim drops into his sight just as it did the night Yuka gave it to him.
+
+"Perfect," he agrees. ᴹ
+
+Mai looks at them, makes a sound that might be a cough, and holds DIO's hat a little higher.
+
+"They're *structurally* perfect," she says. "I can't help how you look in them." ᴹᵃ
+
+Mau starts to smile. Mai raises one finger.
+
+"I didn't tell," he says. ᴹ
+
+"I know," says Mai. "For once." ᴹᵃ
 
 * * *
 
 DIO comes out for hers.
 
-She steps out of him in her own body and takes the third hat from Mai with both hands, very carefully, and puts it on. It comes down over her eyes too. She pushes it up, the way Yuka did, and holds it there with one hand, and looks at herself in the mirror on the wardrobe door for a long time.
+She steps out of him in her own body and takes the new hat from Mai with both hands, very carefully, and puts it on. It comes down over her eyes too. She pushes it up and holds it there with one hand, looking at herself in the mirror on the wardrobe door for a long time.
 
-“Three,” she says. ᴰ
+"Three," she says. ᴰ
 
-“Three,” says Yuka. ʸ
+"Three," says Yuka. ʸ
 
 DIO turns round. Under the enormous brim, her face is doing something very happy and trying not to.
 
-“I have to take my plant to Ori,” she says. ᴰ
+"I have to take my plant to Ori," she says. ᴰ
 
 * * *
 

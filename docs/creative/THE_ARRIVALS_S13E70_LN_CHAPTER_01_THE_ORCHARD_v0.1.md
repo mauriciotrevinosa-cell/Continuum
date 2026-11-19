@@ -77,7 +77,7 @@ That's the thing he'll remember about it. He doesn't get carried. Nobody makes h
 
 And as he walks, he feels it finish.
 
-The RCT. Still running. It hasn't stopped since the bottom of the gate. And now, out here, with the door closed and the eyes still costing nothing and nothing left open to hold, it goes over everything one last time. The long line across his front, going from raw to pale under the eyes of everyone on the path. The four places that wouldn't close, closed now, going the same way. The old ache in the left shoulder where the bell threw him. The tiredness in his legs from the water.
+The RCT. Still running. It hasn't stopped since the bottom of the gate. And now, out here, with the door closed and the eyes making every technique astonishingly efficient, it goes over everything one last time. His mind, without Mini Ciel's filter, still has to sort the relentless detail pouring in. The long line across his front, going from raw to pale under the eyes of everyone on the path. The four places that wouldn't close, closed now, going the same way. The old ache in the left shoulder where the bell threw him. The tiredness in his legs from the water.
 
 By the time he reaches the porch steps, there's nothing left to heal.
 
@@ -155,7 +155,7 @@ She nods slowly. Her hand doesn't move.
 
 She stops.
 
-He sees it. He sees it the way he sees things now, with the eyes that don't cost anything, everything in, nothing filtered. Under the relief. Something else. Something small and sad and quiet that she'd never say.
+He sees it with the eyes that barely draw on his cursed energy now, everything in, nothing filtered. It is an extraordinary amount to take in at once. Under the relief. Something else. Something small and sad and quiet that she'd never say.
 
 *You didn't need me.*
 
@@ -207,17 +207,21 @@ That's all. *Huh.*
 
 He pulls the blindfold down, just a little, so one of his own shows over the top. It's very bright. It's looking at Mau's.
 
-“They're not costing you anything,” Gojo says. “Are they.” ᴳ
+“They're barely costing you any cursed energy now,” Gojo says. “Are they.” ᴳ
 
-“No.” ᴹ
+“Almost none.” ᴹ
 
 “Since when?” ᴳ
 
-“Today. The bottom of the gate. Noise says they're paying for themselves.” ᴹ
+“Today. The bottom of the gate. Mini Ciel broke. Ciel says the techniques and RCT are nearly free to run.” ᴹ
+
+“And what does it feel like without the filter?” Gojo asks. ᴳ
+
+“Too much,” Mau admits. “Everything at once.” ᴹ
 
 Gojo is quiet for a moment.
 
-“Took me a while to get there,” he says. “Years.” ᴳ
+“The energy efficiency is the easy part of what comes next,” he says. “The seeing isn't.” ᴳ
 
 He pulls the blindfold back up.
 

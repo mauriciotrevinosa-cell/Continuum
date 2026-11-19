@@ -197,11 +197,11 @@ Beru is quiet for a moment.
 
 “And?” ʸ
 
-“And my king came back,” says Beru. “From the floors we fought, he came back. Sometimes I carried him. More often, when the climb was over, the people waiting outside repaired the damage he should not have survived. Shoko, his family, the others who refused to let him turn the tower into a one-man war. He went in again. He remembers what that cost.” ᴮᵉ
+“And we fought,” Beru says. “He knew when I would open a path, and I knew where his blade would arrive. I remember the tunnel of mouths and the floor where he had to lean on my shoulder to reach the exit. He remembers them too. Sometimes I carried him out; sometimes I healed what I could on the way. Outside, Shoko, his family and the others repaired what neither of us could. He was allowed to leave between ascents. He went back too soon more than once, and he remembers what that cost.” ᴮᵉ
 
 He turns his great head to look down at her.
 
-“You were not there for that climb,” Beru says. “You are here now. I am very strong, my queen, but I am not you. And I have never been the only person who wanted him home.” ᴮᵉ
+“You were not there for that climb,” Beru says. “You are here now. He no longer asks me to fight beside him every day. He tells me to enjoy my life at the house, and I do. Tonight I am here because I chose to come, as are the others. I am very strong, my queen, but I am not you. And I have never been the only person who wanted him home.” ᴮᵉ
 
 From beyond the tent, Kamish's voice rolls through the dark.
 

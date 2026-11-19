@@ -65,15 +65,13 @@ He can *read* it. For the first time. Not just its outside. Underneath, where th
 
 “Noise,” he says. ᴹ
 
-“I see it,” says Noise. “I see it, I see *all* of it, Mau, your eyes, they're not—” ᴺ
+“Eyes,” Noise says. “No drain.” ᴺ
 
-“Not what?” ᴹ
+“What?” ᴹ
 
-“They're not drawing anything,” says Noise. ᴺ
+Ciel answers, her voice tight with the effort of keeping up. “Your eyes always drew a little cursed energy. My filter managed both the flood of information and the cost. The filter has burned away. You are seeing more than ever, but the energy draw is zero. They are sustaining themselves.” ᶜ
 
-A pause. Noise, who never pauses.
-
-“Your cursed energy,” it says. “The eyes have always cost. A little. All the time. Ciel's filter was half to stop the drowning and half to stop the drain. And the filter's gone, and they're wide open, more open than they've ever been, and they're not drawing *anything*. They're paying for themselves.” ᴺ
+Noise doesn't add an explanation. Mau feels it checking the reading a second time.
 
 He doesn't have time to understand that.
 

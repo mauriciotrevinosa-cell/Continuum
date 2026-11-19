@@ -117,7 +117,7 @@ Then he goes to the table and sits with his back to her.
 
 “I know that too.” ᴹ
 
-She is quiet for a moment. After the false alarm, on the bathroom floor, even an ordinary bath has not felt quite ordinary to her. He isn't going to make this into a test of whether she has recovered. She asked for time. He heard her.
+She is quiet for a moment. During the difficult days after the false alarm, when she hadn't wanted to bathe at all, he had washed her because she needed the help; he had bathed on his own. This is different. She asked for time to recover, and he heard her. He isn't treating a basin of warm water as permission to assume anything else.
 
 “I'm just going to wash,” she says. “I'm tired of the dust.” ʸ
 

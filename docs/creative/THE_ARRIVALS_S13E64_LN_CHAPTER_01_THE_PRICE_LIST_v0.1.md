@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 15
 **Source episode:** S13E64
-**Continuity state:** Inside the Rulers' trial, day three. The first full day of living in the gate. Yuka takes over the money: she counts the currency the monsters drop, writes prices in the notebook, and discovers Mau's old habit of buying the cheapest of everything and hoarding the rest "in case". She makes him buy a real mattress. Her jacket was eaten through by something's venom on day two; Mau buys her clothes and gets every size wrong but one. Kamish is fed for the first time from the Shop and is very dignified about it. The cut above Mau's hip is checked morning and night; he says "turned" when it pulls. In the evening, Beru tells Yuka the first story from the tower. No intimate scene inside the gate.
+**Continuity state:** Inside the Rulers' trial, day three. The first full day of living in the gate. Yuka takes over the money: she counts the currency the monsters drop, writes prices in the notebook, and discovers Mau's old habit of buying the cheapest of everything and hoarding the rest "in case". She makes him buy a real mattress. Her jacket was eaten through by something's venom on day two; Mau buys her clothes and gets every size wrong but one. Kamish requests a Shop meal aloud, with dry, imperious humor; as a speaking shadow he has personality and agency, not just eyes and silent gestures. The cut above Mau's hip is checked morning and night; he says "turned" when it pulls. In the evening, Beru tells Yuka the first story from the tower. No intimate scene inside the gate.
 
 *When: Inside the trial, day three. Outside, the same B+370 morning; Ori has reached the house and Shoko is already running.*
 
@@ -175,31 +175,45 @@ She folds the small jacket neatly and puts it at the bottom of the bag, the way 
 
 * * *
 
-Kamish eats for the first time at noon.
+Kamish asks about lunch at noon.
 
-Mau didn't know he could. The shadows don't need to eat. They don't need anything. But Kamish has been lying across the tent door every night with one eye open, and this morning, when Mau put the pan on the stove and the smell of something frying went out across the alcove, the eye opened all the way.
+He's been lying across the tent door every night with one eye open. The shadows don't need ordinary meals to stay alive, but Kamish has never considered the absence of need an argument against a good meal. When Mau puts the pan on the stove and the smell of something frying goes out across the alcove, the dragon raises his head.
 
-Yuka sees it.
+“Monarch,” Kamish says, his voice deep enough to make the tent pole tremble, “if that is for the two of you, I request an equal courtesy.” ᴷ
 
-“Is he hungry?” ʸ
+Yuka sits up.
 
-“He doesn't get hungry.” ᴹ
+“You could have asked yesterday.” ʸ
 
-“He's *looking* at it.” ʸ
+“I was being dignified.” ᴷ
 
-Mau looks at the dragon. The dragon looks at the pan.
+DIO, seated on the mattress with the jackets beside her, makes a sound that might be a laugh.
 
-He opens the Shop. There's a page he's never had a reason to visit: *[Provisions — Large.]* He buys the biggest thing on it. A whole side of something, salted, wrapped in cloth.
+“That's what we're calling it?”
 
-He puts it down in front of Kamish.
+Kamish looks at her.
 
-Kamish looks at it for a long time. Then at Mau. Then, with enormous dignity, he lowers his great head and takes it in one bite, and swallows, and lays his head back down across the tent door, and closes the eye.
+“You wear a hat fashioned by a child.” ᴷ
+
+“And you want a lunch big enough to feed a village,” DIO replies. “We're all making choices.” ᴰ
+
+Mau opens the Shop. There's a page he's never had a reason to visit: *[Provisions — Large.]* He buys the biggest thing on it: a whole side of something, salted and wrapped in cloth.
+
+Kamish examines it.
+
+“Acceptable,” he says. ᴷ
+
+Then he lowers his great head, takes it in one bite and settles across the threshold again, visibly pleased.
 
 Beru, at the mouth of the alcove, makes a small sound.
 
 “My king,” he says, very carefully. “I would not say no.” ᴮᵉ
 
 Mau buys another one.
+
+“Dignity,” Yuka says, pointing at the dragon. ʸ
+
+“Precisely,” Kamish answers, without opening his eye. ᴷ
 
 * * *
 
@@ -251,7 +265,7 @@ It isn't planned. Yuka can't sleep. She's lying on the new mattress under the ne
 
 “Yes, my queen.” ᴮᵉ
 
-“Tell me about the tower,” she says. “Where he was before. Where you met.” ʸ
+“Tell me about the tower,” she says. “The climb where you met him. Not the Architect's field later—the tower.” ʸ
 
 Beru turns his head.
 
@@ -261,15 +275,41 @@ He looks at Mau. Asking. Mau doesn't know what his own face is doing.
 
 Beru folds his wings.
 
-“It was dark,” he says. “Like this. Floor after floor. My king did not know my name at first. He did not know any of our names. He only knew that something had to go up, and it had to be him, because there was no one else.” ᴮᵉ
+“It was a tower with a hundred floors,” Beru says. “And my king could leave between ascents. He did leave. Sometimes the others were waiting when he came back with wounds that should have killed him. Shoko repaired him. Sometimes she told him not to climb again so soon.” ᴮᵉ
 
 Yuka's hand finds Mau's under the blanket.
 
-“He was very thin,” Beru says. “He did not eat enough. He never had enough to eat, in the tower. There was no Shop there. There was only what we killed, and what we killed was not always food.” ᴮᵉ
+“Did he listen?” she asks. ʸ
 
-He's quiet for a moment.
+Beru looks at Mau. Mau looks back.
 
-“He bought the cheapest of everything,” Beru says, “for a long time after. Even when he did not need to. I watched him do it. I did not know how to tell him to stop.” ᴮᵉ
+“Not enough,” Beru says. “He climbed again. He fought me with every tool he had. It was not a clean duel and it was not easy. When he raised me afterward, I could see how badly it had cost him. He went on to face things worse than me.” ᴮᵉ
+
+“Beru,” Mau says. ᴹ
+
+“My king, you asked me not to lie to her.” ᴮᵉ
+
+Mau cannot argue with that.
+
+“He nearly died on more than one floor,” Beru continues. “It was not the year the Architect took him away. I was not with him inside that field. I knew he was still alive from our bond, but Noise was the one who heard him speak there. I will not pretend those are the same memory.” ᴮᵉ
+
+Kamish lifts his great head from the doorway.
+
+“Nor was it only Beru in the tower,” he says. “I remember the floor where you came for me. I remember the cost of that battle.” ᴷ
+
+“I remember it too,” Mau says. ᴹ
+
+“I should hope so,” Kamish replies. “You were there.” ᴷ
+
+Yuka lets out a short laugh, then looks down at their joined hands.
+
+“What about the cheapest things?” she asks. ʸ
+
+“That came from several places,” Mau says. “The Architect's field made it worse. Beru saw what I kept doing afterward; it doesn't mean I forgot why.” ᴹ
+
+Beru inclines his head.
+
+“I watched him do it,” he says. “I did not know how to ask him to stop. That part is true.” ᴮᵉ
 
 Yuka is very still.
 

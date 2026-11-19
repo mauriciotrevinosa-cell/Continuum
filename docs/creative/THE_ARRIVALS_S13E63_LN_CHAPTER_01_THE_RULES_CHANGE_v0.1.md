@@ -211,13 +211,17 @@ The stair goes up to the second floor. The second floor is there: the forest, th
 
 “*Noise*.” ᴹ
 
-“It's the Rulers,” Noise says. “Not the system: them. The same hand as the quarry. They've taken the household gate and converted the active instance into a Red Gate. It wasn't red when you came in. It is now. The ordinary entrance is sealed, and the time outside won't keep pace with the time in here. This is deliberate, not a malfunction.” ᴺ
+“Rulers,” Noise says. “Same hand as the quarry.” ᴺ
+
+Ciel picks up the reading before Mau can ask again. “They have overridden the active household gate and converted it into a sealed Red Gate. It was not red when you entered. The original exit is gone, and the time outside will not keep pace with the time here. This is deliberate, not a malfunction.” ᶜ
 
 “Can I break it?” ᴹ
 
 A pause.
 
-“Not from here,” Noise says. “Not without the Warden. The exit's tied to it. I can feel the knot. If I cut it, the gate doesn't open. It just stops. With you inside.” ᴺ
+“Not from here,” Noise says. “Exit's tied to the Warden. I can feel the knot. Cut it wrong and the gate stops. With you inside.” ᴺ
+
+“Then the Warden is our exit condition,” Ciel says. “And we must preserve the instance until it dies.” ᶜ
 
 * * *
 

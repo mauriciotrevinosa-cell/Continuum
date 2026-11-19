@@ -343,7 +343,7 @@ He moves toward the pillows, puts his right knee on the mattress and sits beside
 
 “A little.”
 
-“Noise has a very long explanation if you want it.”
+“Ciel can walk you through the numbers again if you want.”
 
 “I heard enough explanations today.” ʸ
 
@@ -361,11 +361,11 @@ He remembers her outside the gates before she could come with him. He remembers 
 
 “Within the rules.”
 
-“I know about the nine breaths. Noise explained it three times.” ʸ
+“I know about the nine breaths. Ciel explained it three times.” ʸ
 
-“He does that.”
+“She does that.”
 
-“I'm going to ask him a fourth time tomorrow.”
+“I'm going to ask her a fourth time tomorrow.”
 
 Mau smiles. She reaches out and turns his left hand palm up, tracing a short line across it with her thumb.
 

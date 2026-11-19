@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 9
 **Source episode:** S13E61
-**Continuity state:** B+365, late morning to afternoon, inside the household gate at its hardest setting. Mau and Beru alone, the way it was before the house. Mau, healed but with the new arm still weaker, fights with daggers, Authority, Blue and Red, Shrine in small cuts, and Bang, which Shoko's clearance for the gate allows. Beru fights the way he hasn't been able to in months. They clear floor after floor without stopping. The guardian is a many-legged thing of stone and old hunger; Beru holds it and Mau finishes it. The system: level 5. Point allocation unlocked. Mau doesn't spend any; he wants to look at it with Yuka. Beru, on the way out, says it was the best morning he's had since the beginning. They come out in the late afternoon, as Shoko said.
+**Continuity state:** B+365, late morning to afternoon, inside the household gate at its hardest setting. Mau and Beru take this gate as a pair by choice, echoing their old tower fights without erasing the companions and healers waiting outside those ascents. Mau, healed but with the new arm still weaker, fights with daggers, Authority, Blue and Red, Shrine in small cuts, and Bang, which Shoko's clearance for the gate allows. Beru fights the way he hasn't been able to in months. They clear floor after floor without stopping. The guardian is a many-legged thing of stone and old hunger; Beru holds it and Mau finishes it. The system: level 5. Point allocation unlocked. Mau doesn't spend any; he wants to look at it with Yuka. Beru, on the way out, says it was the best morning he's had since the beginning. They come out in the late afternoon, as Shoko said.
 
 *When: B+365. Late morning. Inside the gate, the light is the flat grey of a cave lit from nowhere. Outside, the house is very busy.*
 
@@ -29,7 +29,7 @@ Beru goes.
 
 It's like the beginning.
 
-He doesn't remember the beginning, not really. Not the way Beru does. He knows it happened: a tower, floors and floors of it, Beru newly raised at his side and the two of them going up through the dark together because there wasn't anyone else. He knows it the way you know something you were told. But his body remembers. His body knows how to stand with Beru on his left. How far ahead Beru will go. Which side Beru will leave open for him to take.
+He remembers the beginning. The tower's tight turns, the floors that nearly killed him, the first time Beru took his left and left the right clear for a blade. He remembers stumbling out between ascents and being patched up by Shoko and the others before deciding, sometimes too soon, to climb again. Those days were never one unbroken imprisonment, and they were never without people waiting for him outside. But within a fight, there were stretches when he and Beru understood each other without a word. His body remembers those too: how far ahead Beru will go, which side he will leave open for Mau to take.
 
 The walls come at them and Beru goes through them like a scythe through grass.
 
@@ -63,7 +63,7 @@ The gate at its hardest isn't a tower. It's a well. A spiral of rooms going down
 
 They don't stop.
 
-That's the thing he notices, after a while. He doesn't want to stop. The itch that's been in his hands since the hills, since the splint, since a week of sitting on the porch with Yuka's head in his lap: it's going. Every room it goes a little more. He uses Blue to pull a whole wall of the many-legged things off their feet and Beru goes through the gap before they hit the ground. He uses Red to blow the burning water back up the hall, and they run along the dry stone it leaves before it can fall again. He cuts with Shrine, small, careful, a single line here and there where a single line is enough. He doesn't open anything bigger. He doesn't need to.
+That's the thing he notices, after a while. He doesn't want to stop. The itch that's been in his hands since the hills, since the splint, since a week of sitting on the porch with Yuka's head in his lap: it's going. Every room it goes a little more. He uses Blue to pull a whole wall of the many-legged things off their feet and Beru goes through the gap before they hit the ground. He uses Red to blow the burning water back up the hall, and they run along the dry stone it leaves before it can fall again. He cuts with Shrine, small, careful, a single line here and there where a single line is enough. Where something worth keeping falls, he gives it a quiet *Arise* as they pass. He doesn't stop to announce each new shadow. He doesn't open anything bigger. He doesn't need to.
 
 And when a stone thing the size of a cart comes at him out of a side tunnel faster than he can turn, he lifts two fingers without thinking.
 
@@ -91,23 +91,21 @@ Ciel does. Ciel always does. Somewhere past the twentieth, she tells him, quietl
 
 “Enough. If you don't stop to talk to the ant about his feelings.” ᶜ
 
-Beside him, Beru, who can't hear Ciel, is telling him about a tunnel in the tower where they once fought something with a hundred mouths, which Mau doesn't remember at all and Beru remembers perfectly.
+Beside him, Beru, who can't hear Ciel, brings up the tunnel in the tower where they fought something with a hundred mouths. Mau remembers the mouths and the half-collapsed passage; Beru, naturally, remembers something else.
 
 “It tried to eat your boot,” Beru says. “You were very upset. It was a new boot.” ᴮᵉ
 
-“I don't remember that.” ᴹ
+“I remember. I was more upset when you laughed instead of pulling it off.” ᴹ
 
-“You do not remember most things, my king,” says Beru. “That is why you have me.” ᴮᵉ
+“I pulled you out of its second mouth,” Beru says, with enormous dignity. “The first was occupied.” ᴮᵉ
 
-Mau stops. Just for a moment. In the middle of a dark stone room with something dead at his feet, he stops and looks at Beru.
+“With my boot.” ᴹ
 
-Beru looks back at him with all his eyes.
+“With your very expensive boot, my king.” ᴮᵉ
 
-“That is what I am for,” Beru says. “Partly. To remember for you. All of it. Every floor. Every boot.” ᴮᵉ
+Mau reaches over and rests his hand briefly on Beru's armoured shoulder. He remembers that fight. He remembers the help waiting when they staggered out afterward. What he misses, sometimes, isn't the danger; it's the ease of standing beside Beru in it.
 
-Mau doesn't say anything. He doesn't have anything to say.
-
-He puts his hand on Beru's armoured shoulder, briefly. Then they go on down.
+Then they go on down.
 
 * * *
 
@@ -153,7 +151,11 @@ All its legs at once. They stop, and stand there, and then fold, one by one, slo
 
 Mau slides down the side of it. His legs are shaking. The new arm is shaking. His side is pulling hard enough now that he presses his hand over it.
 
-Beru is standing at the bottom, wings half folded, armour scratched and dented in a dozen places, breathing hard.
+Beru is standing at the bottom, wings half folded, armour scratched and dented in a dozen places, breathing hard. He catches the way Mau presses a hand to his aching side, and lays one clawed palm there. Healing warmth answers, taking the sharpest edge off the strain without pretending that the new arm has finished rebuilding its strength.
+
+“You don't have to do all of this anymore,” Mau tells him, not for the first time. “You know that.” ᴹ
+
+“I know,” Beru says. “I wanted to come.” ᴮᵉ
 
 They look at each other.
 

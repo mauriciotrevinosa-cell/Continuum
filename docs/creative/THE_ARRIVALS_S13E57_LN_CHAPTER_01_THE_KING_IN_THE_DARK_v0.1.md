@@ -131,7 +131,7 @@ She looks at him for a long time.
 
 Noise has been listening, of course.
 
-“The extraction held,” Noise says, in the place where only Mau hears it. “That is the entire result we can honestly report. Neither form is stable enough to treat like one of the ordinary soldiers. I have no proof that either can retain a command, let alone carry it out safely.” ᴺ
+“Extraction held,” Noise says, where only Mau hears it. “Both unstable. No proof they can follow orders safely.” ᴺ
 
 “I know,” Mau says aloud. ᴹ
 

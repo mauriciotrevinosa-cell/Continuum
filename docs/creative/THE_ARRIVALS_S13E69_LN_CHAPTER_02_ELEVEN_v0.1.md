@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 26
 **Source episode:** S13E69
-**Continuity state:** Inside the Rulers' trial, day eleven, the bottom floor. Continues directly from Yuka stepping in front of Mau and Makima saying "I'm holding the weight. Go." Mau takes his hand off the door. Ciel's scale has always stopped at ten, the most he ever opened (the duel); he goes past it. Under the load the eyes' filter burns away and Noise realises the eyes have stopped drawing cursed energy at all: they're paying for themselves now. For the first time he can read the Warden all the way down. The Warden's highest stroke comes for Yuka; Mau gets past her and takes it, and it cuts him in two at the waist; the RCT puts him back together before the halves have finished separating. Then Purple, at full, through the Warden and through the trial itself. The Warden dies, the rule dies, the marks start closing, and the gate comes apart around them into the orchard light. Mau closes the door again himself; he comes back. Makima, who held the weight, is barely there for a moment and then is. The box: trial complete.
+**Continuity state:** Inside the Rulers' trial, day eleven, the bottom floor. Continues directly from Yuka stepping in front of Mau and Makima saying "I'm holding the weight. Go." Mau takes his hand off the door. Ciel's scale has always stopped at ten, the most he ever opened (the duel); he goes past it. Under the load Mini Ciel, the information filter Ciel built, finally breaks. The eyes run at full output and bring the cursed-energy cost of Mau's techniques and RCT to virtually zero, but the unfiltered information still burdens his brain. For the first time he can read the Warden all the way down. The Warden's highest stroke comes for Yuka; Mau gets past her and takes it, and it cuts him in two at the waist; the RCT puts him back together before the halves have finished separating. Then Purple, at full, through the Warden and through the trial itself. The Warden dies, the rule dies, the marks start closing, and the gate comes apart around them into the orchard light. Mau closes the door again himself; he comes back. Makima, who held the weight, is barely there for a moment and then is. The box: trial complete.
 
 *When: Inside the trial, day eleven. Outside, B+370, just before dusk; the oval in the orchard has started to shake.*
 
@@ -55,7 +55,7 @@ Her voice has changed. He's never heard Ciel sound like that. Not frightened. So
 
 The eyes go.
 
-Not *out*. *Open*. The filter Ciel put on them a long time ago, so he could see without the seeing drowning him: it burns away. He feels it go, like paper in a fire, and everything comes in at once. The hall. The floor. The rings of empty seats going up forever. The dark where the ceiling isn't. The blood on the stone. Yuka's breath. The Warden's blade, still lifting.
+Not *out*. *Open*. Mini Ciel, the information filter Ciel built so the seeing would not drown him, burns away. He feels that protection go like paper in a fire. The power is not the problem now. The unfiltered information is. It presses against his thoughts as everything comes in at once. The hall. The floor. The rings of empty seats going up forever. The dark where the ceiling isn't. The blood on the stone. Yuka's breath. The Warden's blade, still lifting.
 
 And the Warden.
 
@@ -65,11 +65,11 @@ He can *read* it. For the first time. Not just its outside. Underneath, where th
 
 “Noise,” he says. ᴹ
 
-“Eyes,” Noise says. “No drain.” ᴺ
+“Eyes,” Noise says. “Almost no cost.” ᴺ
 
 “What?” ᴹ
 
-Ciel answers, her voice tight with the effort of keeping up. “Your eyes always drew a little cursed energy. My filter managed both the flood of information and the cost. The filter has burned away. You are seeing more than ever, but the energy draw is zero. They are sustaining themselves.” ᶜ
+“Mini Ciel is gone,” Ciel says, her voice tight with the effort of keeping up. “The eyes are at full output. Your techniques and RCT are barely consuming cursed energy now. But the information is reaching you raw. Your brain can still be overwhelmed.” ᶜ
 
 Noise doesn't add an explanation. Mau feels it checking the reading a second time.
 
@@ -107,7 +107,7 @@ He feels himself start to come apart.
 
 And the RCT is already there.
 
-He doesn't call it. He doesn't have to. It's been running in him for eleven days, holding four cuts from getting worse, and the eyes have stopped costing, and the door is open, and Makima is holding the weight, and for once there is *more than enough*. It doesn't wait for the blade to finish. It follows the blade *in*. Right behind the edge, a hair's width behind it, the whole length of the cut, putting him back together as fast as he's being taken apart.
+He doesn't call it. He doesn't have to. It's been running in him for eleven days, holding four cuts from getting worse, and the eyes' new efficiency has made the RCT's energy cost almost negligible, and the door is open, and Makima is holding the weight, and for once there is *more than enough*. It doesn't wait for the blade to finish. It follows the blade *in*. Right behind the edge, a hair's width behind it, the whole length of the cut, putting him back together as fast as he's being taken apart.
 
 The top half of him starts to slide.
 

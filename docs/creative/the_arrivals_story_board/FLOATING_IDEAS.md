@@ -1,5 +1,22 @@
 # The Arrivals — Floating / Unplaced Ideas
 
+## IDEA DEL CREADOR PENDIENTE — tres rutas, terreno impregnado, Mai, Gojo y eventual Dabura (19 nov 2026)
+
+**ESTADO: SÓLO IDEAS. NO ES UNA ESCENA PRODUCIDA, NI UN HECHO DE V80, NI AUTORIZACIÓN PARA COMENZAR V81.** La distinción mecánica de las tres habilidades sí se registra como canon del kit en [MAU_CURRENT_KIT.md](MAU_CURRENT_KIT.md). Las aplicaciones siguientes son **propuestas para más adelante** y deben discutirse con el creador antes de asignarles capítulo.
+
+**Mecánicas a recordar:**
+- **Tool Manipulation de Momo Nishimiya (JJK):** controla remotamente herramientas que el usuario ha impregnado con CE, como su escoba; requiere preparar el objeto. No puede agarrar rocas neutras sin imbuir ni empujar aire vacío. **Idea para Mau:** depositar poco a poco su propia CE en **ambas dagas y la katana**, creando el vínculo en cada arma; estudiar si puede hacer eso con piedras hasta convertir el campo de batalla en múltiples objetos previamente preparados. Cargar/imbuir CE, seleccionar blancos, mover muchos objetos y la concentración son operaciones distintas. La eficiencia de los Six Eyes no significa que todos los objetos del campo ya estén imbuidos. El creador usó la expresión «desmodther» al describir el trabajo sobre las dagas; podría aludir a **Dismantle**, pero **no** se establece aquí como técnica combinada ni como demostración hasta concretar la intención narrativa.
+- **Ruler's Authority (Solo Leveling):** fuerza espacial vinculada al maná, sin necesidad de depósito previo de CE; puede actuar sobre objetos/enemigos y espacio o aire vacío. No adjudicarle por error el mecanismo de Nishimiya.
+- **Psychokinesis de Momo Ayase (Dandadan):** manos proyectadas de aura espiritual/chi, actúan sobre objetos físicos, espíritus o auras, **no** sobre espacio vacío; tiene exigencia de enfoque y resistencia. No equiparar chi a CE o maná.
+
+**Escena futura propuesta, sin ubicación ni diálogo fijados:** Mai ve entrenar a Mau con las dagas/la katana y después con objetos o piedras que él haya impregnado deliberadamente de CE; a partir de lo que observa, **Mai podría reaccionar con «Everything»** al advertir el potencial para convertir muchos elementos del campo en piezas manipulables. Eso NO significa que Mau ya controle cada piedra ni que Mai haya presenciado esa prueba en los capítulos publicados. La capacidad real, las limitaciones, cómo se prepara el terreno y el ritmo de la revelación se desarrollarían en escena más adelante.
+
+**Gojo y la memoria:** opción para que Mau **le pida a Gojo permiso** de acceder a una memoria específica de su enfrentamiento con Sukuna, en particular el patrón de CE distribuida por el campo y sobre restos o rocas, como inspiración para un método propio. Los ojos de Mau ya leen patrones de CT inscritos en el cerebro; **leer una CT no equivale a leer recuerdos privados sin consentimiento**. No hay todavía intercambio de memoria, transferencia gratuita de técnica ni confirmación de que esa batalla permita controlar literalmente todas las rocas.
+
+**Dabura / batalla grande:** este trabajo puede sembrar un futuro enfrentamiento espectacular contra Dabura u otro reto de esa escala. El creador todavía considera **si será 1v1 o participarán más combatientes**; no fijar composición, coreografía, victoria, víctimas ni calendario basándose sólo en esta nota. Los planes antiguos que mencionaban 1v1 deben leerse como opciones previas sujetas a esta nueva apertura. No ejecutar la idea por adelantado: **primero guardar, después decidir cuándo y cómo producirla**.
+
+---
+
 > **Mapa de desarrollo más reciente, 2026-10-28:** [esqueleto S7–S9 solicitado](S7_S9_CONVERGENCE_HOUSEHOLD_AND_MAKIMA_PROPOSED_SCENE_SKELETON_2026-10-28.md). Cierres, escenas cotidianas y reparto con continuidad; Makima entra temprano como falsa colega/BFF, sin triángulo. [Mensajes y respuestas completos](S7_S9_SKELETON_MAKIMA_NONROMANTIC_COVER_CREATOR_DIRECTION_2026-10-28.md). No números de temporadas finales ni capítulos aprobados por registrar el plan.
 
 > **Continuación en discusión, 2026-10-28:** [dirección exacta del accidente y mapa posterior aAshborn](S7_POST_ASHBORN_RECOVERY_AND_NEXT_SEASONS_EDITORIAL_MAP_2026-10-28.md). El creador precisa recuperación en días y falta de control fino al combinar dominios, sin secuela permanente nueva. Orden editorial de hilos próximos y de dos/tres tramos, no calendario fijado ni capítulos nuevos.

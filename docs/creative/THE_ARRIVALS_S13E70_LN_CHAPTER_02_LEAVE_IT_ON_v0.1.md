@@ -49,7 +49,7 @@ On the scrap, in Ori's careful handwriting: *you fell asleep at the part with th
 
 Gojo comes on the second day.
 
-Shoko said *bed or porch*. So it's the porch. Mau sits in the old chair with a blanket over his knees that he didn't ask for, and Yuka sits on the arm of the chair with her feet in his lap, and Gojo sits on the railing in front of them both with his legs swinging.
+Shoko said *bed or porch*. So it's the porch. Mau sits in the old chair with a blanket over his knees that he didn't ask for. Yuka settles sideways into his lap, the way she always does, careful of his healing side. He makes room for her and draws the blanket over both their knees. She slips an arm around his shoulders; his good arm rests around her waist. Gojo sits on the railing in front of them with his legs swinging.
 
 “Okay,” says Gojo. “Lesson.” ᴳ
 
@@ -107,7 +107,7 @@ Gojo looks at his finger. Then at Mau.
 
 Mau looks down.
 
-Yuka's feet have been resting in his lap the whole time. His hand is still around her ankle. The space around him has been stopping whatever might hurt him, but it hasn't been keeping her away.
+Yuka has been sitting in his lap the whole time, warm against his chest, one arm around his shoulders and his hand at her waist. Infinity has been stopping what might hurt him without putting even an inch between them.
 
 “Then how is she touching me?” he asks. ᴹ
 
@@ -117,7 +117,7 @@ He makes Mau take Infinity down. Put it back up. Gojo tosses one small pebble at
 
 “Too easy,” Gojo says. “Now don't let it decide that everything moving toward you is an attack.” ᴳ
 
-Yuka reaches out slowly and brushes Mau's hair away from his eyes. Her fingers meet his forehead, warm and ordinary. Infinity stays up. He can feel its edge around the approaching pebble in Gojo's other hand, and he can feel her touch at the same time.
+Yuka lifts her free hand and slowly brushes Mau's hair away from his eyes. Her fingers meet his forehead, warm and ordinary. Infinity stays up. He can feel its edge around the approaching pebble in Gojo's other hand, and he can feel her touch at the same time.
 
 He lets out a breath.
 
@@ -127,7 +127,7 @@ He lets out a breath.
 
 “Then that would be a bad system,” Gojo says. ᴳ
 
-She leans down and hugs Mau, properly, both arms around him. He feels her weight settle against his chest. Gojo flicks another pebble at the back of his chair; Infinity catches it while Yuka is still holding him.
+Still sitting in his lap, she slips her other arm around him and hugs him properly, resting her cheek against his shoulder. His arm tightens a little around her waist. Infinity doesn't push her away. Gojo flicks another pebble toward Mau's free forearm; Infinity catches it while Yuka is still holding him.
 
 The distinction is possible. Making it dependable is the work.
 

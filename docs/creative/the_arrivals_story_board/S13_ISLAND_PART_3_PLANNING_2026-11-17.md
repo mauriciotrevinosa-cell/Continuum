@@ -90,11 +90,53 @@ Use a flexible rhythm, **not a rigid day-by-day itinerary or fixed sequence**: o
 - **No aprobar un censo numérico de pasajeros** todavía; la lista secreta existe en historia pero los nombres no quedaron revelados en V80#30. Hinata, Luminous, Testarossa y Antonio quedan **propuestos expresamente por el creador para esta apertura**, otros visitantes a decidir.
 - El shikigami terminado de Noise **no es un nuevo dragón Arise**: actualmente hay **al menos seis dragones capturados identificables en la legión** tras la corrección del creador (Lantern, Kaisel, Kamish, los dos de V43 y el constructo de V71); varios más podrían estar no individualizados. El transporte no aumenta ese censo. No inventar nombre/carga/velocidad/poderes hasta decidir las pruebas.
 - **Privacidad de Mau/Yuka y acceso afectivo de Ori coexisten**; Frieren es madre de Ori, Mau su padre. No volver a convertir a Ori en «figura de familia» a quien se excluye.
-- **El regalo personal de Elmesia permanece INDEFINIDO**. La propuesta antigua de Claude sobre un barco para la ciudad bajo el mar es **sólo propuesta no aprobada**, no revelarlo ni asociarlo al transporte de Noise. La habitación privada de la pareja y el itinerario sellado también requieren decisión posterior. No reducir por defecto el viaje a subarcos de franquicias aisladas.
+- **El regalo personal de Elmesia permanece INDEFINIDO**. **Corrección del creador, 19 nov:** el barco fue una suposición/broma de Mau; la idea de regalo que propuso Claude era **una casa en la isla**, todavía no aprobada. No revelar ningún regalo ni asociarlo por defecto al transporte de Noise. La habitación privada de la pareja y el itinerario sellado también requieren decisión posterior. No reducir por defecto el viaje a subarcos de franquicias aisladas.
 - Mantener trabajo real de **Mai, Senku, Byakuya, Fern, Jinshi, Anko, Rimuru, Hinata, Testarossa, Luminous, Makima, Yuka y Ori** en la mañana; no darles foco equivalente, pero que convivan.
 - La mañana B+379 podría necesitar un tramo largo y varios capítulos; **no imponer duración o número de capítulos**. El resto del viaje sigue abierto para las ideas adicionales del creador y discusión con Claude.
 
 **Fuentes de continuidad:** [plan Isla III](S13_ISLAND_PART_3_PLANNING_2026-11-17.md); [cierre V80](../THE_ARRIVALS_S13E72_LN_CHAPTER_01_THE_NIGHT_BEFORE_v0.1.md); [reglas/itinerario V80#30](../THE_ARRIVALS_S13E71_LN_CHAPTER_02_DO_NOT_BOTHER_US_v0.1.md); [montura de Elmesia, V77#8](../THE_ARRIVALS_S13E16_LN_CHAPTER_02_THE_WAY_THE_DRAGON_CARRIES_v0.1.md); [kit de Mau](MAU_CURRENT_KIT.md); [padrón de hogares](CURRENT_HOUSEHOLD_ROSTER_PRE_ISLAND_2026-11-19.md).
+
+## Llegada a la isla, tarde/noche, y convivencia posterior — refinamientos del creador (19 noviembre 2026)
+
+**ESTADO: IDEAS PARA PULIR, NINGUNA APROBADA PARA PRODUCCIÓN.** El creador no rechaza en bloque ninguna de las ideas del asistente o Claude, pero **todavía no las aprueba para escribir**. No fijar cantidad de días/capítulos ni cerrar los regresos, el regalo ni la distribución de protagonistas. Este bloque tiene prioridad sobre los esquemas genéricos y detalles equivocados de las propuestas anteriores, que se conservan más abajo solo como **historial de ideas no cerradas**.
+
+### Contexto que NO debemos volver a plantear como sorpresa
+
+- **Elmesia YA SABE desde V77#8 que Mau/Noise estaban estudiando y preparando un derivado de su dragón**, les permitió observarlo y quería ver qué construían. Al llegar puede admirar la criatura y el trabajo de Mai, pero **no sorprenderse de que Mau la haya copiado ni tratar el vehículo como invasión enemiga sin reconocerlo**. El shikigami dracónico propio de Mau, terminado antes de salir, y la estructura de transporte construida/ajustada con Mai, Senku, Byakuya, Ciel y Noise son distintos de la montura original de Elmesia.
+- **Antonio es una hormiga-sombra ordinaria del estilo Solo Leveling**, con vínculo a Mau y que acompaña voluntariamente a Testarossa. **NO HABLA**, no es una mascota que se comunica como humano, ni tiene relación previa con guardias de Elmesia: **es la primera visita de Antonio** a la isla. Testarossa tiene su propio sombrero anterior y de tamaño normal, semejante al antiguo de DIO, NO uno de los tres sombreros gigantes de Mai.
+- **Regalo de Elmesia:** el **barco era una conjetura o chiste de Mau** en V80, **NO la propuesta original de Claude**. La propuesta de Claude que el creador está considerando era **que Elmesia les regalara una casa en la isla** (distinta de la habitación disponible que ya ofreció para hospedarlos). **Tampoco está aprobada.** Nada de presentar ya la casa, barco, llave, propiedad ni regalo confirmado.
+
+### Primera llegada y reparto de habitaciones — idea del creador, aún por pulir
+
+- **Llegan al ATARDECER**, con el enorme shikigami y su prototipo de transporte. El énfasis inmediato no es una pelea ni una gran ceremonia, sino **recibirlos, acomodar a la familia y distribuir cuartos**. La casa tiene mucho equipaje y cansancio; Shoko porta el plan sellado de Elmesia para el grupo. Elmesia los recibe con familiaridad y hace de anfitriona, sin sorpresa imposible por el dragón.
+- Al ver los **sombreros enormes de Mau, Yuka y DIO**, a Elmesia le encanta el de DIO y **le pide uno parecido**. **Mai se lo fabrica allí mismo**, pero antes **regresa a explicar claramente qué va a hacer y a pedir/avisar lo que corresponda**, como contrapunto a su reciente reclamo a Mau «You didn't ask». El sombrero de Elmesia es un regalo de Mai hecho con intención, **no reemplaza ni revela** el regalo personal todavía secreto que Elmesia prometió a Mau.
+- **Ori** pasa un rato jugando con el Fort y otros pequeños mientras distribuyen cuartos. Cuando le entra el cansancio, **se duerme en brazos de Mau**. **Frieren**, su **mamá**, observa, se acerca y le dice a Mau que **«la próxima nap es mía»**. Preservar esa frase y su ambigüedad juguetona como dirección del creador; no inventar aún si implica que Frieren quiere cargar a Ori en la próxima siesta o acomodarse ella misma a dormir.
+
+### Primera tea party corta: encuentro, disculpa, semillas — idea del creador
+
+- Mientras se instalan, **Mau, Elmesia, DIO, Makima, Luminous y las siete brujas** pueden reunirse para su **primer té breve en esta estancia**. Luminous **YA HA PARTICIPADO** en una reunión de té de las siete brujas antes: **no escribirlo como si fuera la primera vez que las conoce o entra en confianza**. **Yuka puede acompañar a Mau** a la cita. Respetar la naturaleza de la reunión: las siete brujas son personas con vínculos propios, no séquito de Mau, y los invitados toman parte por elección.
+- **Elmesia le pide a Mau que saque todas las maletas de su inventario antes de irse a la cita** para que el resto pueda acomodarse y repartir habitaciones; **Yuka va con ellos**. La charla tiene algo de *catching up*, no solo información o estrategia. Después **prueban las cosas que Luminous trajo**; dejar cuáles son exactamente por definir, sin regalarle ya una capacidad nueva a Mau.
+- **Luminous se disculpa por no haber podido ir antes**. Las brujas responden de forma afectuosa que **está aquí ahora y eso importa**, sin recriminarle su ausencia.
+- **Daphne se siente algo bajoneada** por estar lejos de su jardín. Cuando escucha hablar de la comida del lugar, la anima una idea y mira a Mau: **guardar semillas para reconstruir o recrear el jardín más adelante con ayuda de Rimuru**. Mau acepta; Daphne se pone feliz de inmediato. **Mau empieza a darse cuenta, divertido/ligeramente preocupado, de que tal vez acabarán trayendo un bosque entero a casa**. No convertir la idea en magia realizada inmediatamente ni en propiedad sin permiso.
+- Este momento de Daphne/semillas es **el remate de la tarde, inmediatamente ANTES de la primera cena familiar**. La primera reunión queda deliberadamente breve, con espacio para otra más larga durante la estancia.
+
+### Cena de la primera noche: opciones, amistades y libertad — idea del creador
+
+- **Elmesia y Shoko explican que ya hay varias actividades preparadas**, algunas para quienes quieran apuntarse y otras abiertas para todos, **sin obligar al grupo a ir junto ni fijar agenda a Mau y Yuka**. Hay opciones reales pero no itinerario rígido.
+- A partir de eso, **todos hablan, se invitan, contradicen y modifican planes alrededor de la misma mesa**. La primera reunión de té fue corta, por lo que **proponen otra tea party más larga** y se ponen de acuerdo. No ejecutar todos esos planes en la cena ni obligar a que sucedan todos **al día siguiente**. Dejar que las conversaciones sigan cambiando durante las vacaciones.
+- **Elmesia y DIO hacen planes juntas e incluyen a Testarossa**; **Antonio acompaña** como hormiga no verbal (primera visita, no antiguo conocido de la isla). **Luminous repara en Hinata** y decide proponerle ir a cierta actividad. **Las brujas prefieren quedarse cerca de unas mesas/disfrutar el día con calma** cuando otras personas eligen excursiones. Su preferencia no cancela la tea party larga posterior.
+- **No hay obligación de cena familiar cada noche**. Las cenas en que todos vuelven y cuentan lo que hicieron son bonitas cuando suceden, **no una regla diaria**. Gojo mira a Mau y suelta algo como **«Eso va para ti, hijo mío»**, insinuando que Mau se impondría la obligación. Mau mira a Elmesia y pregunta **«¿Ya lo podemos sacar?»** (a Gojo); **ambos se ríen**. Mantener el intercambio como broma de confianza, no una expulsión real ni una orden de Mau sobre Elmesia.
+- **La primera cena no necesita convertirse de inmediato en una confesión completa de Mau** sobre la Red Gate. Lo que Claude propuso sobre revelar toda su experiencia sigue siendo una idea no aprobada, no la finalidad fija de esa cena.
+
+### Ideas para otras jornadas — comentarios del creador, SIN APROBACIÓN
+
+- **Ciudad submarina:** interesa, pero la idea anterior era **demasiado genérica**. Pulir los encuentros, las personas, los motivos y situaciones concretas antes de usarla. No tratar excursión obligatoria ni enlazarla al regalo personal de Elmesia por defecto.
+- **Té largo con Luminous y las brujas:** interesa, pero debe partir de que **Luminous ya asistió a una reunión anterior**. La primera de esta estancia es breve y sirve para reconectarse; una siguiente puede permitir conversación más profunda, más invitados según elección y humor.
+- **Noche de carajillos:** sí como idea; **sin vomitar ni ponerse enfermos**. Con **una copa Anko se vuelve muy parlanchina**, y Gojo también empieza a hablar y hablar; ambos tienen tolerancia baja. Hinata puede estar con Anko, Shoko con Gojo, Yuka con Mau. No escribir todavía la escena ni fijar dos vasos como único efecto, especialmente después del nuevo matiz de la primera copa.
+- **Día sin hacer nada:** al creador **le gusta** como idea. Convivencia de playa/alberca, conversaciones, juegos, pequeñas siestas, Mau y Yuka disfrutando que nadie necesita nada urgente. Mantenerlo sin convertirlo en un día programado a fuerza.
+- **Mai y Momo Nishimiya:** le gusta continuar las señales de que Momo quiere pedir ayuda a Mau; **todavía no aprobado para producción** y no decidir el motivo ni canonizar una relación nueva con Mai sin su visto bueno.
+- **Duración totalmente ABIERTA:** Mau y Yuka **podrían quedarse incluso un mes**, mientras otras personas se quedan una semana, más o menos. **No se sabe todavía qué duración quiere el creador para cada quien**. No forzar bloques de «día 1, día 2, día 3», ni despedidas predeterminadas, ni cerrar la estancia en unas pocas jornadas. Se decide la amplitud a medida que se pulan las relaciones y actividades.
+- **Las otras propuestas de Claude y del asistente siguen siendo ideas sin aprobar.** No rechazarlas por falta de detalle ni convertirlas en canon hasta revisarlas.
 
 ## Mauri's words (17 November 2026)
 
@@ -151,9 +193,8 @@ Mauri has the final word on the list.
 - Fern and Stark argue over who swims better, and Ori is the judge.
 - Ori introduces herself to someone as "Ori Ieiri" for the first time and looks at Mau.
 
-**E. Elmesia's gift.**
-- In V80 Mau guessed "a boat" as a joke and DIO wants to ride it. Proposal: it really is a boat, built by Elmesia's people, that can go down to the city under the sea they just allied with. The joke pays off, and so does the alliance.
-- Only if Mauri likes it. Otherwise, it stays a mystery.
+**E. Elmesia's gift (historical speculative idea, NOT selected).**
+- Mau's guess that the present might be a boat was an in-story joke, NOT Claude's intended gift. A boat is only a possible alternative that someone might propose for the city under the sea. **Claude's actual proposal was to gift Mau and Yuka a house on the island**, not to reveal or grant it yet. The creator has NOT selected the present; the room they already have for lodging is separate.
 
 **F. Elmesia's "different plan" for Mau and Yuka (V80 #30).**
 - Proposal: Shoko hands them their page and it's almost blank. A single line in Elmesia's handwriting: something like "do whatever you want", which echoes the note Yuka left him on his birthday.
@@ -180,7 +221,7 @@ Mauri has the final word on the list.
 ## Open questions for Mauri
 
 - The final island list: who goes, and who returns when.
-- Elmesia's gift: the boat, or something else?
+- Elmesia's gift is UNDECIDED: evaluate Claude's proposed house on the island, other ideas, or possibly none yet. Mau's boat line was a guess/joke, not Claude's proposal.
 - Is Jin-Woo or his family on the trip?
 - How long they stay.
 
@@ -203,7 +244,7 @@ The island is lived **as one house.** The others' moments happen around Mau and 
 1. **Arrival.** Everyone together. Elmesia. The room, polished.
 2. **First night: the family dinner.** Everyone tells their adventures and plans (Mauri). Later, the bracket for Work in the room.
 3. **Beach day, everyone.** Ori in the sea with Frieren, Mau, Yuka, Fern, Stark and Himmel (Mauri). Around them, the rest of the house: Anko and the turtle, Gojo, Hinata, Shoko under the umbrella.
-4. **Carajillo night.** Shoko gets Mau, Gojo and Anko drunk (Mauri; Gojo and Anko go down at two, canon).
+4. **Carajillo night, speculative.** Shoko gets Mau, Gojo and Anko loosened up; **Anko and Gojo become especially talkative from the first glass** and have low tolerance. No sickness or vomiting. Not yet approved or fixed to a particular night.
 5. **The rest:**
    - Exploring together.
    - The undersea city.

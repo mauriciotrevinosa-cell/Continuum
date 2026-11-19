@@ -237,7 +237,9 @@ She lays her hand near it, not on it.
 
 “Noise?” ᴹ
 
-“It's normal,” Noise says, and she can hear it now, through the link. “For this. He's keeping it from getting worse. That's what the heat is.” ᴺ
+“Stable,” Noise says, through the link. ᴺ
+
+“The heat is his healing working against the gate's mark,” Ciel explains. “It is not getting worse. He and Beru can maintain the tissue, but the cut will reopen until the Warden dies.” ᶜ
 
 She winds a new bandage round. Tight, the way he showed her.
 
@@ -283,7 +285,15 @@ Yuka's hand finds Mau's under the blanket.
 
 Beru looks at Mau. Mau looks back.
 
-“Not enough,” Beru says. “He climbed again. He fought me with every tool he had. It was not a clean duel and it was not easy. When he raised me afterward, I could see how badly it had cost him. He went on to face things worse than me.” ᴮᵉ
+“Not enough,” Beru says. “He climbed again. Before I became his soldier, he fought me with every tool he had. It was not a clean duel. And after he raised me, we fought together so often I learned the distance between his steps better than my own wingspan.” ᴮᵉ
+
+“The tunnel with the hundred mouths,” Mau says. ᴹ
+
+“Precisely. My king remembers. I took the passage on the left, he struck through the gap I made, and a beast tried to eat his new boot. He was more furious about the boot than the teeth.” ᴮᵉ
+
+“I was furious that you laughed,” Mau says. ᴹ
+
+“I removed the beast before the boot was lost,” Beru replies, visibly pleased with himself. “But there were many such fights. He nearly died on some floors. When we came out, Shoko and the others repaired what they could. I could heal him too, though never enough to make those climbs harmless.” ᴮᵉ
 
 “Beru,” Mau says. ᴹ
 
@@ -309,7 +319,7 @@ Yuka lets out a short laugh, then looks down at their joined hands.
 
 Beru inclines his head.
 
-“I watched him do it,” he says. “I did not know how to ask him to stop. That part is true.” ᴮᵉ
+“I watched him do it,” Beru says. “I did not know how to ask him to stop. He asks much less of me now. He lets me live at the house instead of dragging me into every fight, and I enjoy it. Tonight I stand here because I choose to. That part is true too.” ᴮᵉ
 
 Yuka is very still.
 

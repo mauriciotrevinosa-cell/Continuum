@@ -185,7 +185,7 @@ Then Noise says it.
 
 He goes still.
 
-“All three,” Noise says. “The analysis. Yuta's. Yuka's from her own time. Tsurugi's. I've got the pattern. I know how they hold what they hold. I can build one. For the katana. To hold Rika properly. All of her. Every form.” ᴺ
+“Yuta's, Yuka's, Tsurugi's,” Noise says. “All three patterns. I can build a ring for the katana. Rika, whole. Every form.” ᴺ
 
 Mau doesn't say anything for a moment.
 
@@ -195,7 +195,7 @@ Mau doesn't say anything for a moment.
 
 “Why Mai?” ᴹ
 
-“Because building it uses Construction. Her technique. The version you have of it. And the last time you used her technique without asking her first—” ᴺ
+“Construction,” Noise says. “Mai's technique. Remember last time?” ᴺ
 
 Noise doesn't finish. It doesn't have to.
 

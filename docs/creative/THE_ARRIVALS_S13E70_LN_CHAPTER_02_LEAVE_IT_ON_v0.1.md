@@ -143,13 +143,13 @@ Yuka's feet go very still in Mau's lap.
 
 Mau looks at her.
 
-“Can I?” he says, to Noise. ᴹ
+“Can I?” he asks Ciel. ᴹ
 
-“You can,” says Noise. “It's cheap now. It was always cheap at that level. It was the eyes that made you budget. Without them taking anything—” ᴺ
+“At the lowest setting, the RCT's upkeep is small,” Ciel says. “The constant draw from your eyes used to force you to budget the rest. Without that drain, a low flow is sustainable. Not unlimited: the larger repairs will still cost you.” ᶜ
 
 “So yes,” says Mau. ᴹ
 
-“So yes,” says Noise. ᴺ
+“Yes,” Ciel confirms. “At the level Gojo described.” ᶜ
 
 He finds it. The quiet place where the RCT lives. He opens it, just a little, the way you'd leave a door ajar so you can hear the house. And then he leaves it.
 
@@ -171,7 +171,7 @@ Gojo asks it. *What else can you leave on now?* And Mau doesn't know. He's never
 
 So they go through them. On the porch. All of them.
 
-Noise lists. Ciel counts. Gojo throws pebbles. Yuka writes it all down in the notebook, on a new page, under a heading she underlines twice: *ALWAYS ON*.
+Noise checks the structures. Ciel calculates and explains what can remain active. Gojo throws pebbles. Yuka writes it all down in the notebook, on a new page, under a heading she underlines twice: *ALWAYS ON*.
 
 Some of them can't. The big ones. Purple. Shrine at its longest. The things that go *out*, that change the world when they touch it. Those are still tools. They still cost; they still have to be opened and closed.
 

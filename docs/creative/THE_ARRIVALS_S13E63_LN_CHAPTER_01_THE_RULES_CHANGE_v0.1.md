@@ -103,6 +103,14 @@ Yuka directs her own Ten Shadows. Mau puts Sky in the path of a rushing creature
 
 When a whole tree of the patient things starts moving at once, she calls *Mau*, and he brings his second Infinity around her for a moment while she sends both dogs through the space he leaves clear. She laughs inside the protection, not because the ability is new, but because this time she can feel exactly when he opens it.
 
+On the way to the next stair, Mau stops beside one of the fallen creatures. Its shadow still holds a viable shape. He gives it a quiet *Arise*, and the new soldier settles among the ranks he already carries. Igris, Bellion and the rest have not vanished just because Beru is the one standing nearest him today. He doesn't summon a parade of them; he and Yuka have come here to practise together.
+
+“Another one?” Yuka asks. ʸ
+
+“Seemed worth keeping,” he says. ᴹ
+
+They continue down.
+
 The spell route is the new part.
 
 They have tested it in the yard since the contract was expanded. The flowers were easy. The mana pattern for Zoltraak has taken more attention. Yuka knows the shape Mau learned from Frieren, but she still has to form the cast herself; Ciel will not do it for her.

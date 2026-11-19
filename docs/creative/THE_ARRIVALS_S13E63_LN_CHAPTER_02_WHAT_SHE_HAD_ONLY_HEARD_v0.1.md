@@ -179,7 +179,17 @@ Beru goes past them both like a wall falling and takes the stone thing's head of
 
 “I know,” Mau says. “I know.” ᴹ
 
-DIO, inside, doesn't say anything at all. That's how he knows how bad it looks.
+DIO doesn't disappear into silence. She is still inside Mau, and Yuka can hear her through the link.
+
+*I'm here,* she says. *Mau, answer her. She needs to hear your voice.* ᴰ
+
+“I'm here,” he says, though the breath costs him. ᴹ
+
+*That strike was aimed at Yuka,* Makima says. She doesn't ask permission: this matters. *Keep track of the difference. Something in this Red Gate may care more about why he was hit than where.* ᴹᵏ
+
+*Tracking it,* Noise answers. *His lung first. Explanations second.* ᴺ
+
+*Agreed,* Makima says. ᴹᵏ
 
 He breathes. It hurts. He does it anyway. He finds the place inside himself where the RCT lives, the way he's found it a hundred times, and opens it on the lung first, because Noise said so and Noise is right.
 
@@ -193,7 +203,7 @@ She doesn't make a sound.
 
 It takes a long time.
 
-Not long the way the Trial was long. Long the way a bad hour is long. Beru holds. Ciel counts. Noise tells him where, and he goes there, and the RCT does what it does. The lung first. Then the ribs, one at a time, the bone pulling itself back together under the muscle with a feeling like teeth grinding. Then the shoulder blade. Then the muscle, layer by layer, from the inside out, the way Shoko taught him, so it doesn't close over something it shouldn't.
+Not long like the long confinement the Architect imposed, or like any of the other trials that wore away his sense of time. This is a bad hour with a specific wound and people beside him who know what to do. Beru holds. Ciel counts. Noise tells him where, and he goes there, and the RCT does what it does. The lung first. Then the ribs, one at a time, the bone pulling itself back together under the muscle with a feeling like teeth grinding. Then the shoulder blade. Then the muscle, layer by layer, from the inside out, the way Shoko taught him, so it doesn't close over something it shouldn't.
 
 At some point Yuka gets out from under him.
 

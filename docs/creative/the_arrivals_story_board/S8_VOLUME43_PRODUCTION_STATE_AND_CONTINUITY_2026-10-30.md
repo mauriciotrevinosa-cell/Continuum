@@ -1,5 +1,8 @@
 # S8 — Volume43: production, relationships and continuity
 
+> **CORRECCIÓN POSTERIOR DEL CREADOR — 19 nov 2026, PREVALENTE:** En el gran dungeon de V43, Mau **usó Arise para levantar todo lo que mataba** (incluidos los **DOS dragones de la pelea simultánea de V43#26–28**). La versión publicada de V43#28 y el censo/corrección de octubre que afirman que decidió no levantarlos han quedado **superados por esta instrucción expresa**. Ambos dragones están en su ejército; las 12 escamas pueden seguir siendo botín por separado. La cifra histórica 6,615 del cierre de V43 **no incluye a los dos dragones**; como mínimo documentable tras esta corrección hay que reconocer dos vínculos adicionales sin duplicar el lote de 5,600 soldados. No reinterpretar «todo» como «solo soldados de relleno» ni inventar un nuevo total real final, dado el crecimiento fuera de cámara de posteriores gates. El texto antiguo de V43#28 sigue pendiente de reconciliación editorial: no usarlo para negar el canon actual.
+
+
 **Authority:** [Creator greenlight and coauthor protocol](S8_CREATOR_GREENLIGHT_AND_COAUTHOR_RELATIONSHIP_PROTOCOL_2026-10-30.md). [Reader index](../THE_ARRIVALS_LN_VOLUME_43_INDEX_v0.1.md). Estimates open, prose for creator review. The authorized endpoint is the proposal of the tournament, not its first fight.
 
 ## Produced scenes
@@ -33,7 +36,7 @@
 | 25 | S8E10 CH01 | Subjective day121 | Eightloggedsorties+14levels to153/82; spend75→7/Int485; actual camp/records and repeatedphasechangeobservation. |
 | 26 | S8E10 CH02 | Subjectiveday122 | Pairedcalamities/team/nativewheelparticularfire; seriousfreshchest/sideinjury, Beruhealinghelps, no rewardyet. |
 | 27 | S8E11 CH01 | Continuouscriticalrepair | Beruholdsonepart, ownRCT/Noise/localfilter preciseexistingrepair,7Vitality→0held, Yuka memorymotive notfuel; teamfieldholds. |
-| 28 | S8E11 CH02 | Pairedcalamityclear | Kamish/Mau/teamfinishboth, realcost/care;160/35reward,30spent→5/Int485, no newdragonextraction;400ordinary recruits→1614,12scale sections packed. |
+| 28 | S8E11 CH02 | Pairedcalamityclear | Kamish/Mau/teamfinishboth, realcost/care;160/35reward,30spent→5/Int485, **creator override: both enemy dragons ARISE** (historical old row/counter excludes them);400ordinary recruits→1614 old counter,12scale sections packed. |
 | 29 | S8E12 CH01 | Subjectiveday276 | Tenclears/livedcamp/rain,183/120then115spent→5/Int495; Architectmisreadcountered, records/worldoutsideunknown;2200ordinary recruits across10fields→3814,18chitin/24core material cargo. |
 | 30 | S8E12 CH02 | Subjectiveday367 | Elevenfurtherclears→197/75,60spent→15/Int510; designceiling200, physicalgapplan, familyrecords/material cargo stored,2800ordinary recruits across11fields→6614, Frostconstructahead. |
 | 31 | S8E13 CH01 | Subjectiveday368 | ConstructedFrostMonarch/teamfight, freshinjuries/Igrispaidrebuild, crowncoredefeated; rewardunopened, transitionimminent. |

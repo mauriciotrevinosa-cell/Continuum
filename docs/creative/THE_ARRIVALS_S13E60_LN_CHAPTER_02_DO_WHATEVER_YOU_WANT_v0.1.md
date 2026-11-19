@@ -185,7 +185,7 @@ Mau looks at him.
 
 “Today?” he says. ᴹ
 
-“Today,” says Beru. “Just the two of us. As it was in the beginning. Before the house. Before the queen. When it was only my king and his ant, and the dark, and whatever was in it.” ᴮᵉ
+“Today,” says Beru. “Just the two of us. Like the stretches of the tower when you sent me ahead and followed with your blades. Before there were afternoons when you could afford to stay home. The others were waiting whenever we came back out, and I have never forgotten how often they had to put you together again. But down there, for a little while, we fought side by side.” ᴮᵉ
 
 He pauses.
 

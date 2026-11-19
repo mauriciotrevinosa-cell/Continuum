@@ -159,7 +159,7 @@ She pauses.
 
 Mau is looking at the tent wall.
 
-He remembers that field. The rooms, the injuries, the stretches when Noise kept speaking and Mau could barely find an answer. He had never asked Ciel what she was doing outside during those same hours.
+He remembers that field. The rooms, the injuries, the long silences when Noise stayed with him, and the few words it offered when Mau could barely find an answer. He had never asked Ciel what she was doing outside during those same hours.
 
 He feels Yuka's hand find his on the mattress.
 

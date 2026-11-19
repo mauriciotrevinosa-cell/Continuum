@@ -171,13 +171,13 @@ Beru goes past them both like a wall falling and takes the stone thing's head of
 
 “I know.” ᴹ
 
-“Ciel?” Beru says. ᴮᵉ
+“Let me heal what I can,” Beru says. He cannot hear Ciel through their link, so he looks at Mau instead. “Where first, my king?” ᴮᵉ
 
-“Ribs, four of them,” says Ciel, crisp, and Yuka can hear her too now; that's new. “Left lung. It's nicked, not open. Muscle down to the hip. The shoulder blade's cracked. Noise, the bleeding—” ᶜ
+“Left lung first,” Ciel says through the link Mau and Yuka already share. “Four broken ribs. Muscle down to the hip. Cracked shoulder blade. Beru can reinforce the tissue while Mau directs RCT internally. Noise, track the bleeding.” ᶜ
 
-“Got it,” says Noise. “Pressure on the left. RCT on the lung first. Then the ribs. Don't touch the skin yet.” ᴺ
+“Left side. Holding,” Noise says. ᴺ
 
-“I know,” Mau says. “I know.” ᴹ
+“Lung first,” Mau tells Beru through clenched teeth. “Then ribs.” ᴹ
 
 DIO doesn't disappear into silence. She is still inside Mau, and Yuka can hear her through the link.
 
@@ -187,11 +187,11 @@ DIO doesn't disappear into silence. She is still inside Mau, and Yuka can hear h
 
 *That strike was aimed at Yuka,* Makima says. She doesn't ask permission: this matters. *Keep track of the difference. Something in this Red Gate may care more about why he was hit than where.* ᴹᵏ
 
-*Tracking it,* Noise answers. *His lung first. Explanations second.* ᴺ
+*Tracking,* Noise answers. *Lung first.* ᴺ
 
 *Agreed,* Makima says. ᴹᵏ
 
-He breathes. It hurts. He does it anyway. He finds the place inside himself where the RCT lives, the way he's found it a hundred times, and opens it on the lung first, because Noise said so and Noise is right.
+He breathes. It hurts. He does it anyway. He finds the place inside himself where the RCT lives, the way he's found it a hundred times, and opens it on the lung first, as Ciel directed. Warmth spreads from Beru's claws as his own healing supports the torn tissue, giving Mau room to work.
 
 Yuka is still on the ground under him.
 
@@ -203,7 +203,7 @@ She doesn't make a sound.
 
 It takes a long time.
 
-Not long like the long confinement the Architect imposed, or like any of the other trials that wore away his sense of time. This is a bad hour with a specific wound and people beside him who know what to do. Beru holds. Ciel counts. Noise tells him where, and he goes there, and the RCT does what it does. The lung first. Then the ribs, one at a time, the bone pulling itself back together under the muscle with a feeling like teeth grinding. Then the shoulder blade. Then the muscle, layer by layer, from the inside out, the way Shoko taught him, so it doesn't close over something it shouldn't.
+Not long like the long confinement the Architect imposed, or like any of the other trials that wore away his sense of time. This is a bad hour with a specific wound and people beside him who know what to do. Beru holds and heals what his hands can reach. Ciel directs the order of repair. Noise tracks the bleeding. Mau follows the routes, and his RCT does the rest. The lung first. Then the ribs, one at a time, the bone pulling itself back together under the muscle with a feeling like teeth grinding. Then the shoulder blade. Then the muscle, layer by layer, from the inside out, the way Shoko taught him, so it doesn't close over something it shouldn't.
 
 At some point Yuka gets out from under him.
 
@@ -227,15 +227,17 @@ It doesn't close.
 
 He pushes the RCT into it. Again. Harder. The edges come together and then, as soon as he stops pushing, come apart again, slowly, like something being gently pulled.
 
-“Noise,” he says. ᴹ
+Beru tries his healing over the same place. Warmth gathers beneath his claws; the cut closes for a breath and opens again. He draws his hand back, shaken. His healing has not disappeared. Something here is undoing it.
 
-A long pause.
+“Noise?” Mau asks. ᴹ
 
-“It's the rule,” Noise says. “The trial's. Something that hits you while you're protecting her: it marks it. It doesn't stop the RCT. It just undoes it. Slowly. As long as the gate's alive.” ᴺ
+“Same knot,” Noise says. “Ciel?” ᴺ
+
+“It's the trial's rule,” Ciel explains. “A wound you take while intercepting a strike meant for Yuka is marked. Your RCT works, and so does Beru's healing, but the rule reverses the closure while the gate persists.” ᶜ
 
 “So it won't close.” ᴹ
 
-“Not until the Warden's dead. You can keep it from getting worse. You can't make it better.” ᴺ
+“Not until the Warden dies,” Ciel says. “Between your RCT and Beru's healing you can keep it stable. You cannot remove the mark yet.” ᶜ
 
 He breathes out.
 
@@ -257,7 +259,7 @@ He turns his head. He looks at her.
 
 She doesn't look away.
 
-“It's on my back, above the hip,” he says. “About this long.” He holds up his hand. “It's deep. It's not going to close. Not while we're in here. It's going to bleed a little all the time, and it's going to hurt every time I turn, and if I do something stupid it's going to open further. Noise says I can keep it from getting worse. I can't make it better.” ᴹ
+“It's on my back, above the hip,” he says. “About this long.” He holds up his hand. “It's deep. It's not going to close. Not while we're in here. It's going to bleed a little all the time, and it's going to hurt every time I turn, and if I do something stupid it's going to open further. Ciel says we can keep it from getting worse. We can't close it until the Warden is dead.” ᴹ
 
 He swallows.
 
@@ -289,7 +291,7 @@ She's never seen it *happen*.
 
 “Like what?” ᴹ
 
-“Today. With Beru. And Ciel counting. And Noise telling you where. You didn't even—” ʸ
+“Today. Beru was healing you. Ciel was directing it, Noise watching the bleeding, and you didn't even—” ʸ
 
 She stops.
 

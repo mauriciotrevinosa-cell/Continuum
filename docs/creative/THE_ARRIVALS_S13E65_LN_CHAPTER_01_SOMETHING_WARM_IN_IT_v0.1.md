@@ -109,15 +109,21 @@ Then he goes to the table and sits with his back to her.
 
 “I know.” ᴹ
 
-“We're married.” ʸ
+“You don't have to face the wall the whole time,” she says. ʸ
 
 “I know.” ᴹ
 
-“You've seen me in the bath a hundred times.” ʸ
+“You can turn around if I ask you to.” ʸ
 
-“Not in a *gate*.” ᴹ
+“I know that too.” ᴹ
 
-She laughs. He hears her undress, and the water move, and her let out a long breath that seems to come from the bottom of her feet. He sits at the table with his back to her and listens to her hum. He's never heard her hum in a gate either.
+She is quiet for a moment. After the false alarm, on the bathroom floor, even an ordinary bath has not felt quite ordinary to her. He isn't going to make this into a test of whether she has recovered. She asked for time. He heard her.
+
+“I'm just going to wash,” she says. “I'm tired of the dust.” ʸ
+
+“Take as long as you want.” ᴹ
+
+He stays at the table with his back to her. He hears the water move and, a little later, the long breath she lets out when she finally gets warm. He doesn't turn unless she asks.
 
 “DIO,” Yuka says, after a while. ʸ
 
@@ -133,29 +139,29 @@ She laughs. He hears her undress, and the water move, and her let out a long bre
 
 * * *
 
-Then she washes his hair.
+Then he washes her hair.
 
-She makes him. He sits on the floor in front of the hearth with his back to the basin, which she's refilled, and she kneels behind him with her sleeves rolled up and pours warm water over his head from the pot.
+He asks first. Yuka has changed into clean clothes; the bath is hers, and finished. Now she sits on the floor in front of the hearth, a blanket around her shoulders, with her back to the basin. Mau kneels behind her, keeping the wound above his hip from pulling as he lifts the pot.
 
-“The hip,” he says. ᴹ
+“The hip,” she says. ʸ
 
-“I know. I'm not touching it.” ʸ
+“I know. I'll tell you if it hurts.” ᴹ
 
-She isn't. She's very careful. She washes the grey dust of five days out of his hair, and the blood from the tower stair out from behind his ear where he didn't know it was, and she works the soap through slowly with her fingers, the way she does at home on a Sunday when he's too tired to do it himself.
+He pours warm water slowly through her hair. The grey dust of five days goes into the basin. He works in the soap without tugging, then rinses it away, careful not to let it run into her eyes. It is ordinary help, offered and accepted. Neither of them needs it to mean anything more.
 
-He closes his eyes.
+Yuka closes her eyes.
 
-The fire is warm on his face. Her fingers are warm in his hair. The cut above his hip is still bleeding a little, steady and slow, the way Noise said, and he's still keeping it from getting worse, and he's somewhere else as well. Somewhere he hasn't been in five days.
+The fire is warm on her face. His fingers move gently through her hair. The cut above his hip is still bleeding a little, steady and slow, the way Noise said, but he can keep his hands steady and let her rest for a moment.
 
-“You're falling asleep,” she says. ʸ
+“You're getting tired,” he says. ᴹ
 
-“No.” ᴹ
+“No.” ʸ
 
-“You are. Your head's going.” ʸ
+“Your head's going.” ᴹ
 
-“It's very warm.” ᴹ
+“It's very warm.” ʸ
 
-“It's supposed to be,” she says, very softly. “I put it there.” ʸ
+“It's supposed to be,” he says softly. “You put it there.” ᴹ
 
 * * *
 
@@ -191,7 +197,7 @@ DIO is quiet for a moment.
 
 In the evening, Yuka asks him.
 
-The hearth has settled into a steady light. DIO is sitting in the chair nearest it, her small hat in her lap. Mau's head is in Yuka's lap; she has been running her fingers through his clean hair while they listen to the fire.
+The hearth has settled into a steady light. DIO is sitting in the chair nearest it, her small hat in her lap. Mau's head is in Yuka's lap; she has been running her fingers through his hair while they listen to the fire.
 
 “Can I ask about what happened before?” she says. ʸ
 
@@ -325,7 +331,7 @@ She makes him. *Nothing's coming past the line*, she says, and Noise agrees, and
 
 So he sleeps.
 
-In a gate, in a warm room, on a mattress that cost eighty, with his boots off and his hair clean and her asleep against his chest, he sleeps all night. The whole night. Without waking once.
+In a gate, in a warm room, on a mattress that cost eighty, with his boots off and her hair clean and her asleep against his chest, he sleeps all night. The whole night. Without waking once.
 
 It's the first uninterrupted night he's slept in this Red Gate. Ciel confirms it in the morning. She does not claim he hasn't rested once since some earlier Trial; there have been beds, houses and people who helped him rest between those events. This night matters because he chose to sleep here.
 

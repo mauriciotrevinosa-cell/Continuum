@@ -67,7 +67,7 @@ He holds up his hand and flicks his fingers open and shut. Open. Shut.
 
 “That's how I learned.” ᴹ
 
-“And you had reasons. But don't confuse the problem you had with the one you have now.” ᴳ
+“And you had reasons. Your eyes weren't running at full efficiency before. When a fight drained your reserves, it really drained them. Those old limits don't disappear from history because you reached something new yesterday. But don't confuse the problem you had with the one you have now.” ᴳ
 
 He touches his blindfold.
 
@@ -79,7 +79,7 @@ He touches his blindfold.
 
 Mau can hear the creak of the railing, the shifting boards under the house, the cursed energy moving through the people in the rooms behind him. He can distinguish every little change. He wishes, briefly, that he couldn't.
 
-“The energy efficiency you reached in that gate is ridiculous,” Gojo says. “Your techniques, your RCT, even the eyes at full output: practically no cursed energy spent. That's not the same as no work being done. Your brain still has to take in what you're seeing and decide what to do with it.” ᴳ
+“The efficiency you reached in that gate is ridiculous,” Gojo says. “For the first time, those eyes are giving you what they couldn't before. Your techniques and RCT can now run at full output for virtually no cursed energy. Bigger techniques, longer fights, much more room to cause chaos if you choose. But that's not the same as no work being done. Your brain still has to take in what you're seeing and decide what to do with it.” ᴳ
 
 “And Mini Ciel used to take the worst of that,” Yuka says. ʸ
 
@@ -217,9 +217,15 @@ At the porch steps, he turns round.
 
 “And then you'll be like me,” he says, and grins, “only less handsome.” ᴳ
 
-“Go away,” says Mau. ᴹ
+He pauses and looks at Mau again. The grin changes. Gojo tips his head once, a small invitation Mau knows from the last time they faced each other.
 
-It's the first time he's said it in three days. Gojo looks delighted.
+“When Shoko clears you,” Gojo says. “Another round?” ᴳ
+
+Mau looks at him. Before the gate, a rematch would have been a calculation about how long his reserves would last. That isn't the question anymore.
+
+“Don't get ahead of yourself,” Mau says. ᴹ
+
+Gojo laughs. The invitation is made; neither of them mistakes it for permission to fight today.
 
 * * *
 

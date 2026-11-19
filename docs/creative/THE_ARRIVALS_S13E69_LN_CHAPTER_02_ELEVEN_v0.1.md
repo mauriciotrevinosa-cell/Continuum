@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 26
 **Source episode:** S13E69
-**Continuity state:** Inside the Rulers' trial, day eleven, the bottom floor. Continues directly from Yuka stepping in front of Mau and Makima saying "I'm holding the weight. Go." Mau takes his hand off the door. Ciel's scale has always stopped at ten, the most he ever opened (the duel); he goes past it. Under the load Mini Ciel, the information filter Ciel built, finally breaks. The eyes run at full output and bring the cursed-energy cost of Mau's techniques and RCT to virtually zero, but the unfiltered information still burdens his brain. For the first time he can read the Warden all the way down. The Warden's highest stroke comes for Yuka; Mau gets past her and takes it, and it cuts him in two at the waist; the RCT puts him back together before the halves have finished separating. Then Purple, at full, through the Warden and through the trial itself. The Warden dies, the rule dies, the marks start closing, and the gate comes apart around them into the orchard light. Mau closes the door again himself; he comes back. Makima, who held the weight, is barely there for a moment and then is. The box: trial complete.
+**Continuity state:** Inside the Rulers' trial, day eleven, the bottom floor. Continues directly from Yuka stepping in front of Mau and Makima saying "I'm holding the weight. Go." Mau takes his hand off the door. Ciel's scale has always stopped at ten, the most he ever opened (the duel); he goes past it. Under the load Mini Ciel, the information filter Ciel built, finally breaks. The eyes finally reach full efficiency for the first time: the cursed-energy cost of Mau's own techniques and RCT becomes virtually zero. Before this, the eyes were not operating at full efficiency and his techniques genuinely consumed CE; the exhaustion of previous battles was real. Now the unfiltered information still burdens his brain. For the first time he can read the Warden all the way down. The Warden's highest stroke comes for Yuka; Mau gets past her and takes it, and it cuts him in two at the waist; the RCT puts him back together before the halves have finished separating. Then Purple, at full, through the Warden and through the trial itself. The Warden dies, the rule dies, the marks start closing, and the gate comes apart around them into the orchard light. Mau closes the door again himself; he comes back. Makima, who held the weight, is barely there for a moment and then is. The box: trial complete.
 
 *When: Inside the trial, day eleven. Outside, B+370, just before dusk; the oval in the orchard has started to shake.*
 
@@ -69,7 +69,7 @@ He can *read* it. For the first time. Not just its outside. Underneath, where th
 
 “What?” ᴹ
 
-“Mini Ciel is gone,” Ciel says, her voice tight with the effort of keeping up. “The eyes are at full output. Your techniques and RCT are barely consuming cursed energy now. But the information is reaching you raw. Your brain can still be overwhelmed.” ᶜ
+“Mini Ciel is gone,” Ciel says, her voice tight with the effort of keeping up. “Your eyes have never reached this level of efficiency before. Earlier, every technique and every repair could still exhaust your cursed energy. Now they're operating at full capacity, and your own techniques and RCT consume virtually none. The information is reaching you raw, though. Your brain can still be overwhelmed.” ᶜ
 
 Noise doesn't add an explanation. Mau feels it checking the reading a second time.
 
@@ -131,9 +131,9 @@ Blue in the left. Not small. Not quiet. Not the size of a careful fist on a care
 
 Red in the right.
 
-He's made Purple before. Carefully, with a hand on the door, with Ciel counting and Noise steering and the whole of him braced for what it costs.
+He's made Purple before. Carefully, with a hand on the door, with Ciel counting and Noise steering and the whole of him braced for the cursed energy it consumed. Those limits were real then. Here the calculation changes: the eyes finally make the CE cost almost vanish, and a scale of power he'd once had to ration is suddenly within reach. Aim and consequence have not vanished with the cost.
 
-He doesn't brace.
+He doesn't brace for an empty reserve. He fixes his aim.
 
 He brings his hands together.
 

@@ -197,11 +197,21 @@ Beru is quiet for a moment.
 
 “And?” ʸ
 
-“And my king came back,” says Beru. “Every time. Sometimes in pieces. Sometimes I carried him. Sometimes he did not know my name for a day after. But he came back.” ᴮᵉ
+“And my king came back,” says Beru. “From the floors we fought, he came back. Sometimes I carried him. More often, when the climb was over, the people waiting outside repaired the damage he should not have survived. Shoko, his family, the others who refused to let him turn the tower into a one-man war. He went in again. He remembers what that cost.” ᴮᵉ
 
 He turns his great head to look down at her.
 
-“And he did not have you then,” Beru says. “He had only me. I am very strong. But I am not you.” ᴮᵉ
+“You were not there for that climb,” Beru says. “You are here now. I am very strong, my queen, but I am not you. And I have never been the only person who wanted him home.” ᴮᵉ
+
+From beyond the tent, Kamish's voice rolls through the dark.
+
+“Nor were you the only one in that tower,” the dragon says. “I remember my floor, and the moment he dragged himself upright afterward. If you intend to tell stories of our king, General, tell them with the rest of us in them.” ᴷ
+
+Beru makes a thoughtful sound.
+
+“A fair correction,” he says. ᴮᵉ
+
+Inside the link Ciel is still counting the hours until they move. Noise watches the knot. DIO keeps her post. Makima listens, and when Yuka reaches toward her to check whether she's still there, answers with a quiet *Yes.* None of them is the only voice Mau has to return to.
 
 Yuka looks up at him.
 

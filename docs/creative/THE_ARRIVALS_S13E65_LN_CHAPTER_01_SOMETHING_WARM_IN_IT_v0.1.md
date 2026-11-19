@@ -5,7 +5,7 @@
 **Volume:** 80
 **Reading order:** 17
 **Source episode:** S13E65
-**Continuity state:** Inside the Rulers' trial, day five. Past the square, at the edge of the city floors, they find a small house with a lit hearth that nothing will go near. The eyes and Noise agree: it's the last line of the setting Yuka gave the household gate at the table (V78, S13E27): "something warm in it, somewhere, a place to rest, so nobody has to sleep on the cold floor", and the Rulers' override built over the gate without erasing it. They take a rest day there. Mau heats water and she bathes in the basin; then she washes his hair, careful of the hip. DIO comes out and sits by the fire with them. In the evening Yuka asks what his body remembers of the Trial, and Mau tells her the truth as far as he has it: very little in his head, a great deal in his hands. She doesn't cry; she listens. No intimate scene inside the gate.
+**Continuity state:** Inside the Rulers' trial, day five. Past the square, at the edge of the city floors, they find a small house with a lit hearth that nothing will go near. The eyes and Noise agree: it's the last line of the setting Yuka gave the household gate at the table (V78, S13E27): "something warm in it, somewhere, a place to rest, so nobody has to sleep on the cold floor", and the Rulers' override built over the gate without erasing it. They take a rest day there. Mau heats water and she bathes in the basin; then she washes his hair, careful of the hip. DIO comes out and sits by the fire with them. In the evening Yuka asks why the old precautions return even though Mau remembers the Architect's confinement. He distinguishes the original Trial, self-sealed lives and stolen memories from the tower, the Rulers' assessment, the Architect's field, other Red Gates and injuries or losses in ordinary life. DIO, Noise, Ciel and Makima remain present; no one diagnoses him with amnesia or treats every trauma as a single event. She doesn't cry; she listens. No intimate scene inside the gate.
 
 *When: Inside the trial, day five. Outside, still B+370 morning; Gojo has arrived in the orchard and has taken his blindfold off.*
 
@@ -191,77 +191,131 @@ DIO is quiet for a moment.
 
 In the evening, Yuka asks him.
 
-The fire is low; the light from it is the only light, and the room has gone soft and close around them. He's lying with his head in her lap still. She's been running her fingers through his clean hair for an hour.
+The hearth has settled into a steady light. DIO is sitting in the chair nearest it, her small hat in her lap. Mau's head is in Yuka's lap; she has been running her fingers through his clean hair while they listen to the fire.
 
-“Can I ask about the Trial?” she says. ʸ
+“Can I ask about what happened before?” she says. ʸ
 
 He opens his eyes.
 
-“You can always ask,” he says. ᴹ
+“Which part?” ᴹ
 
-“I know. But this one.” ʸ
+It's a real question. They both know it.
 
-Her fingers stop.
+“The way you went straight to the cheapest tent. And the way you sat down when the Shop opened.” ʸ
 
-“The year,” she says. “The one you don't remember. Beru said you bought the cheapest of everything for a long time after. And on the stair, when you said it closed, you sounded—” ʸ
+DIO looks over from the fire. She doesn't interrupt.
 
-She doesn't finish.
+“Beru told me about the tower. I know some of what the Rulers put you through. I know what the Architect did, at least the parts you've chosen to tell me.” Yuka's hand slows against his hair. “But you keep moving as though the last one is the only one you survived.” ʸ
 
-“What do you remember?” she says. ʸ
+Mau lies still for a moment.
+
+“It's not,” he says. ᴹ
+
+“I know. I want to hear how *you* put them together.”
+
+He rolls a little onto his back to see her face. The shift pulls at the mark over his hip, so he stops and gets comfortable before answering.
+
+“I remember the Architect's field,” he says. “I remember the places he kept moving me through. I remember what happened to my back and what I did to keep breathing. I remember the room where Noise asked me to stay. I remember thinking I'd have to live there longer than anyone outside could bear.” ᴹ
+
+*I was there,* Noise says. *You don't have to prove it to me.* ᴺ
+
+“I know.” Mau's eyes remain on Yuka. “Ciel wasn't in that field with us. Beru and Kamish couldn't come out. For most of it, inside, it was Noise and me. That was different from the tower.” ᴹ
+
+DIO nods once. She was elsewhere; she doesn't claim to have shared that particular confinement.
+
+“The tower wasn't a year of being locked in without a way home,” Mau continues. “We climbed, fought, came back out. Shoko repaired what she could. I went back. Sometimes I went back too soon. Beru knows that part, and so do the others. I nearly died more than once, but it wasn't the same kind of lonely.” ᴹ
+
+Yuka's fingers stop completely.
+
+“And before that?” she asks. ʸ
+
+He breathes out.
+
+“The first Trial is its own thing. So are the lives I put away afterward. I hid parts of those from myself because I couldn't keep living if I carried every version of every loss in front of me all day. That's a choice I made to survive, not proof I never knew what happened.” ᴹ
+
+The room stays quiet.
+
+“Then there was what was *taken* from my memory,” he says. “Someone else did that. It took time and help to get the truth back. You know the difference. You were there.” ᴹ
+
+“I was.” ʸ
+
+“And the Rulers' assessment. And the Red Gates. And Frieren nearly dying for real, where there was no rule promising she'd be restored when a scene ended. And the fights that happened in our actual world, with actual people left to look after afterward.” ᴹ
+
+He lowers his eyes to their joined hands.
+
+“They don't add up into one thing called *the Trial*. Sometimes a sound brings back one of them. Sometimes I know exactly which memory it is and still don't like what my body does with it.” ᴹ
+
+DIO sets her hat on the chair.
+
+“I was involved in what the Rulers did,” she says quietly. “I've had to learn what that cost. I don't want to call all of these the same thing either.” ᴰ
+
+Mau looks at her.
+
+“I know.” ᴹ
+
+*May I speak?* Makima asks through the shared link. ᴹᵏ
+
+Yuka looks at Mau, then answers for herself.
+
+“Yes.” ʸ
+
+*Remembering something doesn't mean you have agreed to feel safe when a similar thing happens again,* Makima says. *And you shouldn't have to pretend I don't have a history in this. If my presence makes a part of this room harder, tell me. I won't decide for you that it ought to be easy.* ᴹᵏ
+
+DIO keeps her eyes on the fire. Yuka holds Mau's hand a little more firmly.
+
+“Thank you,” Mau says. It's not an absolution. Makima doesn't treat it as one. ᴹ
+
+Ciel speaks after a short pause.
+
+*There isn't a missing year in your record,* she says. *There are memories you chose to keep private, experiences you chose not to revisit, and the effects they still have on you. Those are different questions.* ᶜ
+
+“Exactly,” Mau says. ᴹ
+
+Yuka looks down at him.
+
+“Then why the cheapest tent?”
+
+“Because I remember what it felt like when I couldn't afford the next thing I needed.” ᴹ
+
+“And the money?”
+
+“Because this gate gives us another chance to earn it. I saw that and realised I wasn't going to have to count down a balance alone.” ᴹ
+
+“You aren't alone now,” she says. ʸ
+
+“I know. And I *remember* you telling me that. Knowing and settling down aren't the same action.” ᴹ
+
+For a while she says nothing. Then she resumes moving her fingers through his hair.
+
+“I think I understand better,” she says. “I was afraid you'd been walking around with whole pieces missing and hadn't told me.” ʸ
+
+“I've kept some things behind a door,” he says. “I won't pretend I haven't. But if I close one, I'll tell you that it's closed. I won't say I can't remember when the truth is I don't want to go back inside it right then.” ᴹ
+
+“That's what I want,” Yuka says. “You don't owe me every terrible moment on demand. Just don't leave me guessing whether you're hiding it to protect me.” ʸ
+
+“I'll try.” ᴹ
+
+She gives him a look.
+
+“That's a real promise.”
+
+“It's the one I can make.” ᴹ
+
+“Then I'll take it.” ʸ
+
+She bends toward him until their foreheads meet. His hip is supported by the folded blanket and doesn't pull. He can hear the fire behind DIO, Noise making some tiny adjustment to the sleeping watch, and Kamish shifting his weight on the far side of the threshold. Ordinary sounds, each belonging to the place they are actually in.
+
+“Put your boot down,” Yuka whispers. ʸ
+
+He glances at the boots by the hearth. Both are already on the floor.
+
+“I did.” ᴹ
+
+“I know. I'm practising.”
+
+He laughs. She smiles against his forehead.
 
 * * *
-
-He thinks about it for a long time.
-
-Not because he doesn't want to tell her. Because he wants to tell her *right*. The way he promised. Not *it's fine*. Not *it was a long time ago*. What it is.
-
-“Almost nothing,” he says. ᴹ
-
-She waits.
-
-“In my head, almost nothing,” he says. “Pieces. A wall. A sound. Rain that wasn't rain. I know it was a year because Ciel counted and my hair grew. I know I was hungry because I came out thin. I know I was hurt because Shoko had to break my arm again to set it.” ᴹ
-
-He swallows.
-
-“But my hands remember,” he says. ᴹ
-
-Her fingers are still in his hair. She doesn't move them.
-
-“When I bought the tent,” he says, “my hand went to the cheapest one before I'd read the prices. When I saw the money on the floor upstairs, I sat down because my legs did it. Not me. When you said *put your boot down*, I didn't know I was holding it like that. Like I might have to run.” ᴹ
-
-He looks up at her. At her face, upside down, in the firelight. The only face in the world he sees in colour.
-
-“I don't remember the year,” he says. “But I've got it. All of it. In here.” He touches his chest. “Somewhere. And it comes out in my hands when I'm not looking. And I don't know what's in there. I don't know what else it's going to do.” ᴹ
-
-He's quiet for a moment.
-
-“That's the truth,” he says. “That's all of it. It's not very much. It's ugly anyway.” ᴹ
-
-* * *
-
-She doesn't cry.
-
-He waits for her to. He's seen her cry about less. He's seen her cry about a letter, about a hat, about a birthday banner that said *(AGAIN)*.
-
-She doesn't.
-
-She looks down at him with her fingers still in his hair, and her face is very still, and very fierce, and very gentle all at once.
-
-“Then we'll find out,” she says. ʸ
-
-“Find out what?” ᴹ
-
-“What it does. What else is in there. Together. When it comes out of your hands, I'll be watching, and I'll tell you, and you'll know.” ʸ
-
-She bends down and presses her forehead to his.
-
-“Like the boot,” she says. “I'll say *put your boot down*. Every time. And you'll put it down. And one day you won't be holding it.” ʸ
-
-He closes his eyes.
-
-The fire is warm. Her forehead is warm. Outside the window, past the blanket, past the line she drew without knowing she was drawing it, the grey city waits, and none of it comes in.
-
-“Okay,” he says. ᴹ
 
 * * *
 
@@ -273,7 +327,7 @@ So he sleeps.
 
 In a gate, in a warm room, on a mattress that cost eighty, with his boots off and his hair clean and her asleep against his chest, he sleeps all night. The whole night. Without waking once.
 
-It's the first time since the Trial. Ciel tells him so in the morning, very quietly, so only he can hear.
+It's the first uninterrupted night he's slept in this Red Gate. Ciel confirms it in the morning. She does not claim he hasn't rested once since some earlier Trial; there have been beds, houses and people who helped him rest between those events. This night matters because he chose to sleep here.
 
 He doesn't tell Yuka.
 

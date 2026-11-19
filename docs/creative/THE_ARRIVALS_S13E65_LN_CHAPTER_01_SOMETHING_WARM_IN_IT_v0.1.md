@@ -47,13 +47,15 @@ The table, after the quarry gate gave him the right to set the household one. Ev
 
 *And something warm in it. Somewhere. A place to rest. So nobody has to sleep on the cold floor.*
 
-“The Rulers took the gate,” Noise says. “They built the trial over it. Floors, rules, the Warden, all of it. But they built *over*. They didn't take out what was underneath. They didn't think they needed to. It's just a line in the settings.” ᴺ
+“The old setting is still there,” Ciel says. “The Rulers overlaid their trial on the household gate: the floors, the rules, the Warden. They never removed the condition Yuka chose. This safe room is what remains of that instruction.” ᶜ
+
+“Under the root,” Noise confirms. “They missed it.” ᴺ
 
 He looks at the little house. The smoke.
 
 “And the line says warm,” he says. ᴹ
 
-“The line says warm,” Noise agrees. ᴺ
+“Exactly,” Ciel says. “And it is still being honoured.” ᶜ
 
 He turns round.
 

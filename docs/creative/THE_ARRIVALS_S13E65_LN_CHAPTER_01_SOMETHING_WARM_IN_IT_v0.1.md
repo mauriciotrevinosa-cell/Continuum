@@ -227,7 +227,7 @@ He rolls a little onto his back to see her face. The shift pulls at the mark ove
 
 *I was there,* Noise says. *You don't have to prove it to me.* ᴺ
 
-“I know.” Mau's eyes remain on Yuka. “Ciel wasn't in that field with us. Beru and Kamish couldn't come out. For most of it, inside, it was Noise and me. That was different from the tower.” ᴹ
+“I know.” Mau's eyes remain on Yuka. “Ciel wasn't in that field with us. I couldn't summon a single shadow—not Beru, not Kamish, not any of the others. Inside, it was Noise and me. That was different from the tower.” ᴹ
 
 DIO nods once. She was elsewhere; she doesn't claim to have shared that particular confinement.
 

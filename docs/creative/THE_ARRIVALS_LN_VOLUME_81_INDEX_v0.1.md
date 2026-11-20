@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 81 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — in production; only indexed chapters are written.
+**Status:** LN PRODUCTION DRAFT — complete volume draft; creator review pending; the arc continues in Volume 82.
 **Volume:** 81
 **Season:** 13
-**Coverage:** S13E73–S13E84; Island III, ongoing
-**Chapter files:** 24
+**Coverage:** S13E73–S13E88; Island III, ongoing
+**Chapter files:** 32
 
 The arc remains open; counts are not quotas.
 
@@ -36,3 +36,11 @@ The arc remains open; counts are not quotas.
 | 22 | S13E83 | The Second Invitation | `THE_ARRIVALS_S13E83_LN_CHAPTER_02_THE_SECOND_INVITATION_v0.1.md` |
 | 23 | S13E84 | Conditions | `THE_ARRIVALS_S13E84_LN_CHAPTER_01_CONDITIONS_v0.1.md` |
 | 24 | S13E84 | Her Own Kitchen | `THE_ARRIVALS_S13E84_LN_CHAPTER_02_HER_OWN_KITCHEN_v0.1.md` |
+| 25 | S13E85 | Second Version | `THE_ARRIVALS_S13E85_LN_CHAPTER_01_SECOND_VERSION_v0.1.md` |
+| 26 | S13E85 | We Had Time | `THE_ARRIVALS_S13E85_LN_CHAPTER_02_WE_HAD_TIME_v0.1.md` |
+| 27 | S13E86 | The Good Bowl | `THE_ARRIVALS_S13E86_LN_CHAPTER_01_THE_GOOD_BOWL_v0.1.md` |
+| 28 | S13E86 | We Made It | `THE_ARRIVALS_S13E86_LN_CHAPTER_02_WE_MADE_IT_v0.1.md` |
+| 29 | S13E87 | More Letters | `THE_ARRIVALS_S13E87_LN_CHAPTER_01_MORE_LETTERS_v0.1.md` |
+| 30 | S13E87 | One Thing at a Time | `THE_ARRIVALS_S13E87_LN_CHAPTER_02_ONE_THING_AT_A_TIME_v0.1.md` |
+| 31 | S13E88 | Last Things | `THE_ARRIVALS_S13E88_LN_CHAPTER_01_LAST_THINGS_v0.1.md` |
+| 32 | S13E88 | The Way Back | `THE_ARRIVALS_S13E88_LN_CHAPTER_02_THE_WAY_BACK_v0.1.md` |

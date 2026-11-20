@@ -221,9 +221,19 @@ Mau turns toward the shadow beneath the trees. Kamish raises his head when calle
 
 Momo looks down at their joined hands as if this is information she has not yet processed.
 
-Mau asks Kamish. The dragon considers them with an old, measuring eye, then lowers his head enough to let Mai stand by his cheek.
+“Can you take them once we have checked the harness?” Mau asks. ᴹ
 
-“That's a yes,” Mau says. “We still check the harness. No showing off over the sea.” ᴹ
+Kamish considers the two women with an old, measuring eye.
+
+“If they remain where they are secured, Monarch.” ᴷ
+
+Momo straightens on her broom. Mai moves closer when the dragon lowers his head, listening instead of speaking about him as though he cannot answer.
+
+“We can manage that,” Mai says. ᴹᵃ
+
+“Then I can manage the flight.” ᴷ
+
+“We still check the harness,” Mau says. “And no showing off over the sea.” ᴹ
 
 “Tell him,” Mai says, pointing to Kamish. ᴹᵃ
 

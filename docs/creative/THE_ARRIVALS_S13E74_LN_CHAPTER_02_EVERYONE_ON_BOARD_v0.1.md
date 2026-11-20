@@ -83,7 +83,13 @@ Mai looks at Momo. Momo looks up at the seats, then at the hand Mai is still hol
 
 “We can try him another day,” she says. ᴹⁿ
 
-Kamish watches them choose the stairs. When Mau glances toward him, he lowers his head with the enormous patience of someone who has been asked to wait for a child's more important plans.
+Kamish watches them choose the stairs.
+
+“The princess has decided,” he says. ᴷ
+
+“She asked,” Mau answers. ᴹ
+
+“And they have decided,” Kamish concedes, lowering his head toward Mai and Momo. “I shall await another occasion.” ᴷ
 
 “Thank you,” Mau says. ᴹ
 

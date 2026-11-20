@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 82 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — reviewed island and homecoming draft; castle event in production.
+**Status:** LN PRODUCTION DRAFT — complete Island III arc draft, including homecoming and Fort castle event; S13 continues.
 **Volume:** 82
 **Season:** 13
-**Coverage:** S13E89–S13E100; Island III
-**Chapter files:** 23
+**Coverage:** S13E89–S13E103; Island III
+**Chapter files:** 29
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -35,3 +35,9 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 21 | S13E99 | The Second Lesson | `THE_ARRIVALS_S13E99_LN_CHAPTER_01_THE_SECOND_LESSON_v0.1.md` |
 | 22 | S13E99 | The Things Waiting at Home | `THE_ARRIVALS_S13E99_LN_CHAPTER_02_THE_THINGS_WAITING_AT_HOME_v0.1.md` |
 | 23 | S13E100 | You Can Ask | `THE_ARRIVALS_S13E100_LN_CHAPTER_01_YOU_CAN_ASK_v0.1.md` |
+| 24 | S13E100 | The Castle in His Pocket | `THE_ARRIVALS_S13E100_LN_CHAPTER_02_THE_CASTLE_IN_HIS_POCKET_v0.1.md` |
+| 25 | S13E101 | Matching | `THE_ARRIVALS_S13E101_LN_CHAPTER_01_MATCHING_v0.1.md` |
+| 26 | S13E101 | One Wing | `THE_ARRIVALS_S13E101_LN_CHAPTER_02_ONE_WING_v0.1.md` |
+| 27 | S13E102 | Underground | `THE_ARRIVALS_S13E102_LN_CHAPTER_01_UNDERGROUND_v0.1.md` |
+| 28 | S13E102 | Terms Are Acceptable | `THE_ARRIVALS_S13E102_LN_CHAPTER_02_TERMS_ARE_ACCEPTABLE_v0.1.md` |
+| 29 | S13E103 | Excellent Water | `THE_ARRIVALS_S13E103_LN_CHAPTER_01_EXCELLENT_WATER_v0.1.md` |

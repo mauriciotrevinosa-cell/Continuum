@@ -4,7 +4,7 @@
 **Volume:** 81
 **Season:** 13
 **Coverage:** S13E73–S13E88; Island III
-**Chapter files:** 33
+**Chapter files:** 34
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -43,5 +43,6 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 29 | S13E86 | We Made It | `THE_ARRIVALS_S13E86_LN_CHAPTER_02_WE_MADE_IT_v0.1.md` |
 | 30 | S13E87 | More Letters | `THE_ARRIVALS_S13E87_LN_CHAPTER_01_MORE_LETTERS_v0.1.md` |
 | 31 | S13E87 | One Thing at a Time | `THE_ARRIVALS_S13E87_LN_CHAPTER_02_ONE_THING_AT_A_TIME_v0.1.md` |
-| 32 | S13E88 | Last Things | `THE_ARRIVALS_S13E88_LN_CHAPTER_01_LAST_THINGS_v0.1.md` |
-| 33 | S13E88 | The Way Back | `THE_ARRIVALS_S13E88_LN_CHAPTER_02_THE_WAY_BACK_v0.1.md` |
+| 32 | S13E87 | The Harbour Beyond the Point | `THE_ARRIVALS_S13E87_LN_CHAPTER_03_THE_HARBOUR_BEYOND_THE_POINT_v0.1.md` |
+| 33 | S13E88 | Last Things | `THE_ARRIVALS_S13E88_LN_CHAPTER_01_LAST_THINGS_v0.1.md` |
+| 34 | S13E88 | The Way Back | `THE_ARRIVALS_S13E88_LN_CHAPTER_02_THE_WAY_BACK_v0.1.md` |

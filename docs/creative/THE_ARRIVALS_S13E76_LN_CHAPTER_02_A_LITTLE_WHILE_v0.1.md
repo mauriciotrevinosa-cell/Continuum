@@ -291,13 +291,49 @@ She kisses the corner of his mouth.
 
 ---
 
-After lunch, Shion challenges someone to a game she has misunderstood.
+After lunch, Shion challenges Maki to the game with the little target ball.
 
-Then Maki decides the rules can be improved. Senku asks what the original rules were. Anko says she would like to see that written down before they improve anything.
+They are supposed to roll their larger balls as close to it as possible. Shion listens to the explanation, watches Maki's first attempt land a hand's width away and then picks up the target to move it nearer her own side.
 
-Mau and Yuka look at each other across the end of the table.
+“That isn't part of it,” Maki says. ᴹᵃᵏ
+
+“We take turns.” ˢʰⁱ
+
+“With these.” Maki points at the larger balls. ᴹᵃᵏ
+
+Shion looks toward the attendant who explained the game. He is dealing with another table. Milim, who has followed them with immediate interest, offers a solution.
+
+“Everyone gets to move it once.” ᴹⁱ
+
+“That would change the entire game,” Senku says. ˢᵉⁿᵏᵘ
+
+“Exactly.” ᴹⁱ
+
+Maki considers the target. Then she picks it up, puts it beyond a shallow ridge of sand and tells Shion to try reaching it from there.
+
+Anko asks for the rules in writing before anyone improves them further. Hinata gives her the pencil. Mau and Yuka look at each other across the end of the table.
 
 Neither gets up to leave.
+
+Yuka's first roll stops short. Mau's passes the target, bends along the slope and ends up farther away than hers. She looks at him with undisguised pleasure.
+
+“I could show you,” she offers. ʸ
+
+“I just saw the demonstration.” ᴹ
+
+“You should have paid attention.” ʸ
+
+She comes behind him for the next attempt, puts her hands on his wrists and shows him how slowly she thinks the ball ought to leave them. He lets her guide the movement. The ball rolls halfway to the target and stops against a patch of damp sand.
+
+They look at it together.
+
+“An excellent lesson,” he says. ᴹ
+
+She presses her forehead between his shoulders, laughing, before he can turn around to see her face.
+
+By the next round Ori has become responsible for measuring the distances with a piece of string. Chloe holds the far end. Milim keeps trying to make the measurements longer in the direction she finds useful and is overruled by both of them. Shion wins a round honestly, demands that everyone acknowledge it and then has to acknowledge Maki winning the next.
+
+The little game lasts until the shadow of the table has moved across most of the court.
 
 When the lamps along the path begin coming on, Yuka has a little sand dried against her heel and Mau has lost track of which towel belongs to him. Ori is asleep against Frieren's side on the bench. The ball is resting beneath Milim's hand, ready for an argument tomorrow.
 

@@ -7,9 +7,33 @@
 **Source episode:** S13E98
 **Continuity state:** Creator delegated gift choice: Elmesia gives couple an ordinary refurbished small sailboat, Tomorrow. Personal property, no political obligation or magical upgrade; may moor here or store. Both require supervised practice, no instant sailing mastery. DIO provided bird bowl.
 
-*When: B+401, afternoon; after the promised shared reading at breakfast.*
+*When: B+401, shared breakfast reading and the afternoon gift.*
 
-Elmesia asks them to come to the other landing after lunch.
+At breakfast, Nera finally answers the captain.
+
+Makima has brought the book, and Yuka has asked to hear the reply before anybody tells her what to think of it. Mau moves the coffee closer to his wife while Makima reads.
+
+The mapmaker accepts the extra cabin. She puts all her instruments in it, leaves her own bed on the covered deck and sends Lord Iven a bill for the hours lost moving her equipment twice.
+
+Yuka laughs first.
+
+“Good.” ʸ
+
+Makima turns the page.
+
+“She hasn't spoken to him.” ᴹᵏ
+
+“He hasn't spoken to her either,” Yuka points out. ʸ
+
+“He has written a great deal,” Mau says. ᴹ
+
+Makima reads the last line again. The bill has gone directly to the captain, who will collect before leaving port.
+
+“She chose a better correspondent,” she says at last. ᴹᵏ
+
+Mau begins laughing. Yuka reaches across to see the page herself, and they remain there long enough to finish the chapter instead of merely agreeing they ought to.
+
+After lunch, Elmesia asks them to come to the other landing.
 
 Yuka wants to know whether it involves steps. Elmesia considers the question seriously enough that Mau begins to suspect she has heard about yesterday.
 
@@ -23,7 +47,7 @@ Yuka looks at him.
 
 “I can object to the architecture on your behalf. Is that helpful?” ᴹ
 
-Makima closes the book they have been reading. They have finally reached the woman's answer to the third letter, and Yuka has declared it satisfactory enough to leave the next chapter until tomorrow.
+Makima leaves The Third Berth beside her cup. They have agreed that the next chapter can wait until tomorrow.
 
 “Should I bring this?” Makima asks. ᴹᵏ
 

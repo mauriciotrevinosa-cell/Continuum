@@ -183,9 +183,9 @@ Testarossa stays with her. Makima asks Mau whether she should go in. He looks at
 
 “I won't.” ᴹᵏ
 
-He sends a short account home through the channel Ciel can carry to Rimuru: who came, the conditions, the time limit, what he has chosen to give. No softened version to be corrected after somebody else notices he is unwell.
+He sends a short account home through the channel Ciel can carry to Rimuru: who came, the conditions, the time limit, what he has chosen to give. He includes the part about not knowing how he will feel afterward.
 
-The answer is not immediate. He does not treat the lack of one as permission or a reason to conceal the rest.
+The answer is not immediate. He asks Ciel to keep the channel open for it.
 
 Yuka turns his chair a little so that she can sit beside him without the edge of the table between their knees. He watches her do it.
 

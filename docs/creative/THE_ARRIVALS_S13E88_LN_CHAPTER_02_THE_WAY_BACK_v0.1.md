@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 33 — The Way Back
+## Chapter 34 — The Way Back
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 33
+**Reading order:** 34
 **Source episode:** S13E88
 **Continuity state:** Main household returns together on checked new shikigami, following earlier smaller departures. Mau pilots, delivers labelled luggage and receives Bellion report/orders; no shadow veto. Frieren/Ori/Chloe home, silent unasked-stay feeling unresolved for later couple return. Mau uses confirmed island anchor after notice to return for dinner with Yuka/Elmesia/Testarossa; DIO/Makima travel within him. Volume ends here, entire island-to-castle arc NOT finished.
 

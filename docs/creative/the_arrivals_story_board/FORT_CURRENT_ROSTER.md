@@ -32,3 +32,10 @@ El núcleo y los cargos históricos se cotejan en [el canon de relaciones](S3_RE
 [Mudanza de los cinco alumnos](../THE_ARRIVALS_S8E97_LN_CHAPTER_01_WHAT_THEY_PUT_BY_THE_WINDOWS_v0.1.md) · [Boda y Fort](../THE_ARRIVALS_S9E13_LN_CHAPTER_02_TERMS_OF_SURRENDER_v0.1.md) · [Expedición y acta de S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md)
 
 Al añadir a alguien, anotar su nombre, la escena o instrucción que establece el vínculo y su papel. Mantener los títulos honorarios, las visitas y el apoyo puntual identificados en su propia categoría.
+
+
+## S13: revolución hamsteriana en el castillo — B+404–405
+
+V82#24–29 (S13E100 CH02–S13E103 CH01): Ori elige el día del Fort completo tras el regreso de Mau/Yuka. Las piezas del castillo guardado se arman y revisan para jugar; luego vuelven al inventario. Kamish es el rival parlante y Mau su attaché limitado por reglas de juego, con ayuda real inmediata si alguien la necesita. Beru juega para Ori con aprobación de Mau, traje de explorador a juego y su gorro anterior; no es una nueva ciudadanía ni una desobediencia real.
+
+Las salas tienen guardias sombra ordinarios no verbales y premios; el turno real de vigilancia no se sustituye. El túnel es de mentira: Umaru/Ori explican que están bajo tierra, Kamish ve todo y finge no ver. El resto de la casa observa, participa o ayuda según su vínculo; Momo Nishimiya sigue distinta de Momo Ayase. Ninguna visita o participación en una partida otorga ciudadanía automáticamente. Pillow permanece no combatiente junto a la chimenea.

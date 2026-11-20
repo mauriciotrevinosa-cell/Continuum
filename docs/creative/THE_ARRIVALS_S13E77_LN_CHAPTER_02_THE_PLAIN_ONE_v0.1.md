@@ -165,7 +165,7 @@ Yuka's hair has dried in an untidy curve against one cheek. Mau has a hand resti
 
 “Please,” Yuka says, moving the menus. ʸ
 
-DIO takes the chair beside Elmesia. Testarossa sits where Antonio can stand clear of the path. Makima waits until Mau gestures toward the remaining place, then sits down with the memory of the last time she spent too long choosing a chair.
+DIO takes the chair beside Elmesia. Testarossa sits where Antonio can stand clear of the path. Makima chooses the remaining place beside Testarossa, close enough to hear Mau without making him turn away from his wife.
 
 “What did you do?” Yuka asks. ʸ
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 32 — Last Things
+## Chapter 33 — Last Things
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 32
+**Reading order:** 33
 **Source episode:** S13E88
 **Continuity state:** Remaining main household chooses shared return B+394; Shoko/Gojo, musicians, pairs and Sung family have ordinary reasons, no exact roster count. Frieren/Ori/Chloe return too. Mau will pilot group then return via verified island anchor to Yuka/Elmesia/Testarossa; DIO/Makima accompany Mau as bound presences, not independently stranded. Ori silently withholds request to stay seeing couple joy, truthful enjoyed holiday; adults unaware, Frieren not negligent. No split initial trip retcon.
 

@@ -229,4 +229,30 @@ He begins to laugh.
 
 “Especially your opinion of them.” ᴹ
 
-She draws him toward the bed, still disputing the fairness of that answer. He follows, puts the water within reach before they lie down, and lets her take as much of his pillow as she wants.
+She draws him toward the bed, still disputing the fairness of that answer. He follows and puts the water within reach while she gathers the things they will need in the morning. She is folding the last shirt when both his arms come around her from behind.
+
+“That one's finished,” he murmurs against her hair. ᴹ
+
+“I'm putting it away.” ʸ
+
+“You can do that tomorrow.” ᴹ
+
+Yuka looks over her shoulder at him. Then she puts the folded shirt on the chair and turns in his arms.
+
+“You've stolen my argument.” ʸ
+
+“You left it unattended.” ᴹ
+
+She kisses him, once for the answer and again because he is already bending to meet her. When she takes him to bed, he goes willingly, leaving the unfinished packing where she left it.
+
+Yuka sits against the pillows and holds out her arms. Mau settles against her, his head beneath her chin, and feels her hands come to rest at the back of his neck and between his shoulders. She asks whether his knee is comfortable where it is. He moves it, finds the place he wants and draws her closer around him.
+
+“Better?” she asks. ʸ
+
+“Much.” ᴹ
+
+She kisses his hair and begins planning their breakfast. He objects to one dish, approves of another and reminds her that they will be at home for dinner. She knows. There is still breakfast to consider.
+
+They decide on far too much. After a while he stops helping, and she lowers her voice, keeping her fingers moving gently at his nape until she is certain he has gone to sleep.
+
+Then she kisses him once more and reaches for the light.

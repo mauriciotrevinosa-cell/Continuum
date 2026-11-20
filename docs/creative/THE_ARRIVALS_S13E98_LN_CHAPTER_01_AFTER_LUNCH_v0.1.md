@@ -137,7 +137,7 @@ He takes the things which need to be stored and leaves her with the sample she h
 
 On the return, Makima sits where she can see both of them and the shore.
 
-Yuka has her feet tucked beside her on the shaded bench. Mau sits close enough for her to lean against him, one arm along the seat behind her. When the boat turns, he steadies the cup in her hand instead of asking her to move.
+Yuka has her feet tucked beside her on the shaded bench and one arm around Mau's waist. He has shifted sideways to lean into her, his cheek against her hair while she points out the roof they passed that morning. She keeps talking when he closes his eyes for a while. When the boat turns, his hand comes up to steady her cup before resting across her knee again.
 
 Makima watches the practical little exchange.
 

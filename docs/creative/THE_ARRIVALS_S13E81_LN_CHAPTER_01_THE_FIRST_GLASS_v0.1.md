@@ -203,9 +203,7 @@ He turns toward her. For a few seconds the conversation keeps going without them
 
 ---
 
-They walk home rather than letting Yuka put her argument for carrying to the table.
-
-She has her arm around his waist. He rests his arm over her shoulders. Neither appears interested in reaching the room quickly, and twice they stop so she can point out a patch of light on the water that he looks at through the small gap in the cloth.
+Yuka wants to look at the lights on the water before going in. They take the longer path home, her arm around his waist and his over her shoulders. Neither appears interested in reaching the room quickly, and twice they stop so she can point out a patch of light on the water that he looks at through the small gap in the cloth.
 
 “You liked your drink,” she says. ʸ
 
@@ -215,7 +213,21 @@ She has her arm around his waist. He rests his arm over her shoulders. Neither a
 
 “I'd like to.” ᴹ
 
-She looks up at him, smiling, then squeezes his waist and keeps walking.
+She looks up at him, smiling, then squeezes his waist. He stops beside the low wall and turns her into his arms.
+
+“Another thing I liked,” he says. ᴹ
+
+“You're supposed to tell me what it is.” ʸ
+
+“You talking in my ear all evening.” ᴹ
+
+“You could hear everybody else.” ʸ
+
+“Unfortunately. Satoru was very loud.” ᴹ
+
+She begins laughing, and he kisses her before she can recover enough to defend him. Yuka leans back against the wall, bringing Mau with her by the front of his shirt. The lights continue moving on the water while they take their time.
+
+Eventually she loosens her grip just enough for them to walk again. He takes her hand and lets her choose how long they stay beside each opening in the wall. Once she stops him somewhere without a view, and he has to bend down to discover what she wants to show him.
 
 At their door she gives him the key. He opens it, waits while she gets the wrapped glass vessel safely onto the table and reaches for her as she comes back.
 

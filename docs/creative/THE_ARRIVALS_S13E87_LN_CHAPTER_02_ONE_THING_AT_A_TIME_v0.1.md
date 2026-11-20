@@ -195,12 +195,28 @@ She smiles, understanding what he means only after he has already begun looking 
 
 He keeps his attention on her face, the clear colour that has never belonged to the rest of the view. He knows where the old blur interrupts it. He knows when the next layer of detail begins pressing at the edge. This time he notices early enough to lower the cloth before it becomes something he has to endure.
 
-Yuka comes closer and lifts his hat onto his head.
+Yuka comes closer and lifts his hat onto his head. He catches her around the waist before she can step away.
 
 “Good?” she asks. ʸ
 
-He nods.
+“Very.” ᴹ
 
-“Good.” ᴹ
+She runs a finger beneath the brim to straighten the cloth, then leaves her hand against his cheek. He turns into her palm and kisses it.
 
-She takes his hand, turns toward the water and begins telling him where she wants to walk. He lets her choose the direction while he gets used to how easy it is to follow one voice without losing the rest of the day.
+“You're making that face,” she tells him. ʸ
+
+“Which one?” ᴹ
+
+“The one where I'm going to have to ask three times what you're pleased about.” ʸ
+
+He draws her closer.
+
+“You. And it didn't hurt to keep looking.” ᴹ
+
+Her smile changes. She kisses him slowly, keeping her hand clear of the knot when he leans down to meet her.
+
+“You can tell me the first time,” she says. ʸ
+
+“I'm discovering that.” ᴹ
+
+She keeps one arm around him as they turn toward the water, beginning to describe where she wants to walk. He holds her at the waist and follows the direction she has chosen, getting used to hearing that one voice without losing the rest of the day.

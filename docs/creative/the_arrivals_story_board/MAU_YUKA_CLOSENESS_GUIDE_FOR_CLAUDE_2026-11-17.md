@@ -1,5 +1,10 @@
 # Mau y Yuka: qué escribe Claude y dónde va el corchete
 
+## Creator override — Island III, 20 November 2026
+
+The pause stops sex associated with trying to have a child. It does not reduce kisses, embracing, lap sitting, carrying, shared sleep, attraction, playful demands or ordinary physical affection. Yuka remains openly clingy; Mau reciprocates, initiates and sometimes lets himself be held. Apply this throughout the trip and around the household, not only in private scenes. Do not resume sex or attempts for a child through this clarification. Earlier suggested sexual-scene counts below are not a quota and do not override this pause. See MAU_YUKA_ISLAND_PAUSE_AND_AFFECTION_CREATOR_LOCK_2026-11-20.md for the controlling clarification and applied-source list.
+
+
 17 de noviembre de 2026. Guía para que Claude escriba a Mau y Yuka juntos sin cruzar su límite, y sin resolver el límite separándolos.
 
 ## Por qué existe

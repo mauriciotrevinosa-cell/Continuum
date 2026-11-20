@@ -251,11 +251,35 @@ Mau looks at Elmesia.
 
 “Can we throw him out yet?” ᴹ
 
-She laughs before she can pretend to consider it. Yuka bends her head against Mau's shoulder. Gojo puts a hand to his chest and turns toward Shoko, who is already passing his empty plate to an attendant.
+She laughs before she can pretend to consider it. Yuka gets up to let an attendant pass behind her chair, waits until the hot dish is safely on the table and sits down again on Mau instead.
+
+He shifts back to make room. She fits herself sideways across his lap, brings her plate within reach and leans against him while Elmesia finishes explaining the walk.
+
+Gojo reaches into his pocket.
+
+Yuka points at him before he has the little notebook open.
+
+“If that's about us, I'm asking her to throw you out.” ʸ
+
+Elmesia sets down her glass.
+
+“I can arrange it.” ᴱˡ
+
+“I'm writing down the activities.” ᴳ
+
+“Then start with the walk away from this table,” Mau says. ᴹ
+
+Shoko takes the notebook, looks at the empty page and gives it back closed.
+
+“Eat.” ˢʰ
+
+Yuka is laughing against Mau's shoulder when he turns to kiss her. She catches his cheek to keep him there for a second kiss, then returns her attention to Elmesia with one arm still around his neck.
+
+Gojo puts a hand to his chest.
 
 “I was helping.” ᴳ
 
-“Then keep doing that.” ˢʰ
+“Then keep doing that,” Shoko says, passing his empty plate to an attendant. ˢʰ
 
 The plans begin changing before anyone has finished proposing them.
 
@@ -309,7 +333,7 @@ Frieren looks down. Ori sits up immediately.
 
 “I'm doing both.” ᴼ
 
-Mau takes the little room key out of the path of her elbow. Yuka notices, brings her own chair closer and holds a piece of fruit where Ori can reach it without having to lean across the plate.
+Mau takes the little room key out of the path of her elbow. Yuka slides back into her own chair and brings it closer to Ori, holding a piece of fruit where the girl can reach it without leaning across the plate.
 
 Ori takes it, eats slowly and puts her head back down.
 
@@ -331,7 +355,15 @@ Ori nods through a yawn.
 
 Yuka leans close to say good night. Ori catches her around the shoulders and stays there for a second before letting Frieren lead her down the path.
 
-Mau sits again. Yuka turns her chair toward his and puts both legs across his lap beneath the tablecloth. He rests a hand over her ankle.
+Mau sits again. Yuka follows him onto his lap before he can pull her chair back. He folds both arms around her, and she lets her head fall into the curve of his neck.
+
+“I've been abandoned,” he says. ᴹ
+
+“For nearly a minute.” ʸ
+
+“I was very brave.” ᴹ
+
+She kisses him beneath his jaw, then lifts her face to collect the one he owes her. He gives it willingly, his hand warm at her back while the conversation continues at the next table.
 
 “Did you have a good day?” she asks. ʸ
 

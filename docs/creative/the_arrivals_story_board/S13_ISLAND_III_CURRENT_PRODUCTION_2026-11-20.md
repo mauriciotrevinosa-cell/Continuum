@@ -102,3 +102,13 @@ Published and pushed: full review d54007b0; completed arc/date/polish dba27daf. 
 ## Tea attendance correction — creator clarification, 20 November
 
 The habitual witches tea always includes Mau from its start, even with invited guests. The first-hour-for-the-women line and later late-arrival staging were continuity errors, not author intent. Corrected V81#3,6,16,17,30 (stable S13E74CH01, S13E75CH01, S13E80CH01/02, S13E87CH01), including departure promise, first-evening pot, boat return time, whole long-tea opening/participation and farewell-transfer coda. No new chapters, numbering or dates. Preserve Mau with the group; DIO/Makima existing privacy/body arrangements unchanged. Link: MAU_WITCH_TEA_ATTENDANCE_CREATOR_LOCK_2026-11-20.md. Latest scope for NEXT material is planning only, no drafted Simurian chapters.
+
+## Married affection correction — creator clarification, 20 November
+
+At V81#6 the creator clarified that the pause stops sex tied to attempting a child, not kissing, embracing, lap sitting, carrying, sharing sleep, flirting or ordinary affection. Yuka remains the more openly clingy spouse; Mau enjoys reciprocating, initiates too and sometimes rests fully in her. This applies across the remaining trip and in shared company, not merely in the opening six chapters. No renewed attempts for a baby or new sexual scene is introduced.
+
+Applied a focused pass to sixteen existing chapters: V81#4,6,9,10,11,12,15,18,19,23,31,34 and V82#3,16,19,21. Added 2116 words in total, with no chapter/word/gesture quota. Existing strong family and couple scenes remain. The flight seat is reclaimed only after leveling; Ori still has room when she joins. The family dinner includes Yuka on Mau's lap and the Gojo notebook/Elmesia exchange. The quiet afternoon includes Mau choosing Yuka's lap and sleeping while she reads. Later communal dinners, reunions, spoken kisses and the final night maintain their marriage without withdrawing them from the ensemble. Makima's friendship invitation and specific handholding permission remain distinct from the spouses' romance. Yoru's memory and gradual recovery are unchanged.
+
+Validated all63 manifest entries and stable reading numbers, compared the16 changed sources against their pre-edit copies, checked new dialogue marks and duplicate paragraphs, and reread changed passages with adjacent action for physical continuity. V81 remains34 chapters and V82 remains29. Source IDs, dates, the current household return, tea attendance and next-arc planning-only scope are unchanged.
+
+See MAU_YUKA_ISLAND_PAUSE_AND_AFFECTION_CREATOR_LOCK_2026-11-20.md. Reader has finished V81#6 and can continue with#7;#6 now also includes the public-affection notebook exchange if an optional reread is desired.

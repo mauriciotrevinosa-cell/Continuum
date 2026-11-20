@@ -243,7 +243,13 @@ She comes up behind Mau, puts both arms around his shoulders and rests her chin 
 
 “Excellent instructions.” ᴹ
 
-She kisses his cheek and puts the bag on the table. Shoko looks inside when invited and asks a question that proves she understands the purchase better than Mau would have.
+She turns his face toward her and kisses him, leaning over his shoulder until he lifts a hand to steady her. When she draws back, he follows far enough to steal another.
+
+“I was only gone a little while,” she says, delighted. ʸ
+
+“I noticed.” ᴹ
+
+She puts the bag on the table and comes around his chair. Mau shifts his knees before she asks. Yuka sits sideways in his lap, makes herself comfortable against his chest and opens the bag for Shoko, who asks a question that proves she understands the purchase better than Mau would have.
 
 “See?” Yuka tells him. ʸ
 
@@ -251,7 +257,7 @@ She kisses his cheek and puts the bag on the table. Shoko looks inside when invi
 
 “You were going to.” ʸ
 
-He pulls her hand down from his shoulder and kisses her fingers. She stays behind him while Shoko asks what they intend to do after lunch. Yuka tells her about Anko's map. Mau turns it so she can read it upside down.
+Yuka moves the bag to her unused chair once Shoko has finished looking inside. Mau catches her hand on its way back and kisses her fingers. Shoko asks what they intend to do after lunch. Yuka tells her about Anko's map, resting the napkin on Mau's forearm so they can both see the route.
 
 “That's steep,” she says. ʸ
 
@@ -265,11 +271,11 @@ Shoko starts laughing before Yuka can lift her arms to demonstrate the solution.
 
 Gojo reaches the table after the food arrives.
 
-He looks at the three places, at the dish Shoko has chosen and at Mau still laughing with Yuka behind him.
+He looks at the three places, at the dish Shoko has chosen and at Yuka occupying the same chair as Mau.
 
 “You started without me.” ᴳ
 
-Shoko moves her chair over a little.
+Shoko moves the unused chair beside hers. Yuka reaches for the bag on its seat and gives it to Mau to store before Gojo can sit on it.
 
 “You took six minutes.” ˢʰ
 

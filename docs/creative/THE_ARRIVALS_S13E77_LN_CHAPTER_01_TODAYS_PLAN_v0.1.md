@@ -359,20 +359,52 @@ She lies with her cheek against his upper arm while he finds the place. The shop
 
 They are still laughing when Yuka declares that the woman ought to have thrown a note.
 
-When she lies back down, he follows her this time. She makes room without being asked, shifts the pillow beneath his head and puts one hand on his shoulder.
+Yuka sits up to rescue the book from beneath the towel. Mau follows her, but only as far as putting his head in her lap.
 
-“Comfortable?” ʸ
+She looks down at him. He takes her free hand and places it in his hair.
 
-“Yes.” ᴹ
+“Oh,” she says. ʸ
 
-“Good. Stay.” ʸ
+“Is this place taken?” ᴹ
 
-He does. After a while he draws her hand from his shoulder and keeps it against his chest, her palm resting over the long mark. She feels both of them settle into the place they have chosen.
+“Very.” ʸ
 
-At some point the attendant asks if they want the dinner menu brought over.
+He begins to lift his head. She pushes gently against his shoulder until he lies back down.
 
-Yuka looks at Mau. Mau looks at the clear stretch of evening beyond the curtains.
+“By you. Don't be annoying.” ʸ
 
-“We can,” he says. ᴹ
+He closes his eyes, smiling. She finds a comfortable place for her feet, bends to kiss him and returns to the paragraph they abandoned. Her fingers stay in his hair. When a longer piece catches at the knot of his blindfold, she frees it without disturbing the cloth.
 
-She reaches for the menu before either of them finds a reason to get up.
+“She's going to throw something else,” he murmurs. ᴹ
+
+“If you keep interrupting, so will I.” ʸ
+
+He laughs once, then grows quiet. Yuka reads another page aloud before realizing that he has missed the shoe being returned to its actual owner. His hand rests against her knee, loose enough that she can turn it over and fit her fingers through his without waking him.
+
+She tries to reach her drink. It is too far away. After considering the distance and the man asleep across her legs, she asks the attendant passing the curtain to move it closer.
+
+“Anything else?” he asks softly. ᵃᵗᵗ
+
+She looks at the empty little plate.
+
+“The same thing again, please.” ʸ
+
+Mau sleeps through its arrival. Yuka eats, reads two more chapters and occasionally gives his hair the attention he claimed before going to sleep. She has an objection ready for him when his eyes finally open beneath the cloth.
+
+“You missed the best part.” ʸ
+
+He turns his face toward her stomach and holds her waist for a moment before looking up.
+
+“I disagree.” ᴹ
+
+She puts the book down, caught smiling at him.
+
+“You'll have to read it yourself now.” ʸ
+
+“Will you stay here while I do?” ᴹ
+
+“You could try getting rid of me.” ʸ
+
+He sits up just enough to kiss her. She keeps a hand behind his head until he has stopped looking so pleased with his own answer.
+
+By the time the attendant comes to ask about dinner, Mau has settled beside her again and opened the book. Yuka takes the offered menu, lays it across the page and begins explaining what she wants him to order.

@@ -177,18 +177,44 @@ Yuka moves back just enough to see his face.
 
 “Excellent report.” ʸ
 
-He shows her the wrapped portion. She takes it with considerable interest, then takes his hand with the other.
+He shows her the wrapped portion. She takes it with considerable interest, considers him over the top of it and holds it safely out to one side.
+
+“You forgot something.” ʸ
+
+He looks down at himself, then at the packet.
+
+“Did I?” ᴹ
+
+She catches his shirt and pulls him down. He meets her kiss with both arms around her, smiling when she tries to say something before she has let him go.
+
+“I was getting to that,” he tells her. ᴹ
+
+“You were reporting on luggage.” ʸ
+
+“Very important luggage.” ᴹ
+
+She kisses him again. When she finally takes his hand, she keeps his arm tucked against her all the way to the sheltered path.
 
 DIO comes out when they reach the sheltered part of the path. Elmesia is there, having left time in her own work to join them. Testarossa has Antonio beside the table they chose. Makima steps out near Mau and waits until Yuka points to the place they kept.
 
 The table is smaller than the first night's. There is still enough room for the stories they have brought back with them.
 
-Yuka sits close to Mau and puts her hand in his lap beneath the cloth.
+Yuka sits close to Mau and puts her hand in his lap beneath the cloth. He covers it with his, rubbing his thumb over her knuckles while Testarossa describes the table Elmesia nearly chose for them.
 
-“Now,” she says quietly, “we can decide what tomorrow is.” ʸ
+“Now,” Yuka says quietly, “we can decide what tomorrow is.” ʸ
 
 He looks toward the water, then back at her.
 
 “Tomorrow.” ᴹ
 
-She leans against him, satisfied to leave the decision there until they have finished dinner.
+She leans against him, satisfied to leave the decision there until they have finished dinner. When the first dishes arrive, Mau tells her which one Shuna wanted her to try. She insists on feeding him a bite too, despite his claim to have completed the tasting at home.
+
+“Different company,” she tells him. ʸ
+
+“An improvement.” ᴹ
+
+“I'm telling Shuna you said that.” ʸ
+
+“She'll understand.” ᴹ
+
+Yuka laughs and steals the next bite before he can take it. Elmesia asks about the flight, and Mau answers with his arm around his wife, who contributes the part of the departure he has tried to leave out.

@@ -91,7 +91,7 @@ He takes the second bird and puts it beside the first in his hand.
 
 They sit together before going back.
 
-Elmesia has messages waiting and leaves them after making Yuka promise to show her what Ori thinks of the carving. Mau remains between the two women, his hand resting against Yuka's back while she unwraps the little parcel of food they bought on the way.
+Elmesia has messages waiting and leaves them after making Yuka promise to show her what Ori thinks of the carving. Mau remains between the two women. Yuka has drawn her feet up onto the bench and turned toward him to unwrap the little parcel of food they bought on the way. He reaches for her as she begins to lean over the bag, and she settles against his chest instead, leaving it open across both their knees.
 
 He is more present than he was yesterday. Makima can feel the difference without reaching for the part of him which made last night so hard to observe. The remembered hurt remains. It is no longer the only thing arriving when he turns toward a sound.
 
@@ -158,6 +158,8 @@ Yuka looks down. Most of the food is gone.
 Makima laughs before deciding whether the sound belongs in the conversation.
 
 Mau turns toward her at once, pleased, and she finds that this is considerably more difficult to manage than being watched for a mistake.
+
+Yuka gives him the piece she has been saving. He takes it, kisses the corner of her mouth and keeps her tucked against him while Makima asks which landing they should use tomorrow.
 
 ---
 

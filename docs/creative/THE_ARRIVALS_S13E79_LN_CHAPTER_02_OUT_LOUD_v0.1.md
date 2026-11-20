@@ -249,4 +249,18 @@ Her expression softens.
 
 “Even when I'm right about the book?” ʸ
 
-He laughs, and she pulls him down by the front of his shirt before he can give the wrong answer.
+He laughs, and she pulls him down by the front of his shirt before he can give the wrong answer. He catches her at the waist as she kisses him. She has been talking to him all day; the quiet sound he makes against her mouth still gives her something worth stopping for.
+
+When she eases back, he keeps her close.
+
+“I love you,” he says, quite audibly. ᴹ
+
+She smiles, her fingers still twisted in his collar.
+
+“I heard that one.” ʸ
+
+“Good. I've been trying to get your attention.” ᴹ
+
+She laughs and kisses him again, both hands rising from his shirt to his neck. He has no difficulty keeping track of that answer.
+
+They finish the walk slowly. Yuka has her arm around his waist, and whenever the path narrows, Mau draws her in rather than letting either of them fall behind.

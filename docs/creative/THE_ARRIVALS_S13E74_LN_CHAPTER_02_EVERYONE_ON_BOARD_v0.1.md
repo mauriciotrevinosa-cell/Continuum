@@ -189,7 +189,19 @@ Shuna brings out something wrapped from the kitchen. Shion hands the first porti
 
 Milim considers the question while chewing.
 
-Mau hears Shuna tell them to stop fighting before they drop anything over the side. Yuka leans against his shoulder, laughing, and accepts a piece when the parcel reaches them.
+Mau hears Shuna tell them to stop fighting before they drop anything over the side. Beside him, Yuka checks the level platform, then looks back at Mai.
+
+Mai lifts one hand in acknowledgment. Yuka unfastens her climb strap and returns to the place she wanted, sitting sideways across Mau's thighs. He moves the blanket with her and puts his arm around her waist.
+
+“I saved this,” she tells him. ʸ
+
+“I remember.” ᴹ
+
+“Then stop putting things on it.” ʸ
+
+He takes the folded route sheet from beneath her knee. She rewards his cooperation with a kiss, smiling against his mouth when the brim of her hat catches his forehead. He tips it back for her, kisses her again and accepts the parcel from Shuna before it travels past them.
+
+Yuka chooses a piece, takes a bite and holds the rest for him while he checks their course. Mai goes back to her drawing board without another objection.
 
 The blindfold cuts the incoming detail to something he can live with. Through the rest he follows the flight and the people near him: Frieren turning a page, Ori asking where the sea starts, DIO making a pleased sound inside when he gives her the view she requests.
 
@@ -239,6 +251,6 @@ She tells him. It takes long enough that he has to ask if they are discussing on
 
 He turns his head toward her and leaves a kiss at her temple, just beneath the enormous brim.
 
-Yuka finds Ori looking back from Frieren's seat. She waves her over once the flight is level. Ori arrives with a question about the water, stays for the answer and ends up tucked between them while Chloe points out another very slow boat.
+Yuka finds Ori looking back from Frieren's seat. She waves her over, moving to the seat beside Mau so there is room between them. Ori arrives with a question about the water, stays for the answer and ends up tucked against both of them while Chloe points out another very slow boat.
 
 This one has two trees.

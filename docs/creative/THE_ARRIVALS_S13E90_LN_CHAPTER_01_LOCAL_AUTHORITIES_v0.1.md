@@ -197,9 +197,21 @@ He puts his arms around her shoulders. She tilts her head against him, waiting f
 
 “That's yours.” ᴹ
 
-She begins laughing before he can finish pulling the empty chair beside her. They eat close enough that her knee presses against his, discussing the things they might do tomorrow. She wants another swim. He wants to find the place Elmesia mentioned when she was teaching them the game. They settle on swimming first and deciding the rest afterward.
+She begins laughing, but keeps the chair until he bends to kiss her. Then she stands, lets him sit down and immediately settles across his lap.
 
-Halfway through the meal, Yuka puts her fork down and leans across to kiss him.
+“A satisfactory arrangement,” she says. ʸ
+
+He brings the table within reach and puts his arm around her.
+
+“I was trying to have dinner with my wife.” ᴹ
+
+“You found her.” ʸ
+
+She offers him the first bite from her plate. He accepts, gives his opinion of it and has to try hers again when she disagrees. By the time they have settled that, the extra chair holds the things neither wants on the table.
+
+They discuss what to do tomorrow while she eats from both plates. She wants another swim. He wants to find the place Elmesia mentioned when she was teaching them the game. They settle on swimming first and deciding the rest afterward.
+
+Halfway through the meal, Yuka puts her fork down, turns in his lap and kisses him.
 
 He catches the back of her head gently before she can draw away.
 

@@ -329,7 +329,23 @@ They look at it together.
 
 “An excellent lesson,” he says. ᴹ
 
-She presses her forehead between his shoulders, laughing, before he can turn around to see her face.
+She presses her forehead between his shoulders, laughing, before he can turn around to see her face. He sets the unused ball down, catches her hands at his waist and turns within her arms.
+
+“Do I get a refund?” he asks. ᴹ
+
+“Private lessons are very expensive.” ʸ
+
+“That one ended in the wet sand.” ᴹ
+
+She stands on her toes and kisses him. He draws her closer instead of returning promptly to the game, which gives Milim time to demand whether they intend to play the next round.
+
+Yuka looks past his shoulder.
+
+“I'm teaching.” ʸ
+
+“Teach him to aim!” ᴹⁱ
+
+Mau starts laughing. Yuka has to wait for him to stop before she can kiss him again.
 
 By the next round Ori has become responsible for measuring the distances with a piece of string. Chloe holds the far end. Milim keeps trying to make the measurements longer in the direction she finds useful and is overruled by both of them. Shion wins a round honestly, demands that everyone acknowledge it and then has to acknowledge Maki winning the next.
 

@@ -35,7 +35,19 @@ Neither of them asks another question for a while.
 
 ---
 
-Outside, Yuka is choosing between mushroom noodles and a hot crab roll on the menu with the concentration she usually gives a much more urgent problem.
+Outside, Yuka is choosing between mushroom noodles and a hot crab roll on the menu with the concentration she usually gives a much more urgent problem. She stands behind Mau's chair with her arms around his shoulders, holding the page in front of both of them. When he points to the noodles, she lowers her face beside his and explains why the roll might be better.
+
+He turns his head and kisses her in the middle of the explanation.
+
+Yuka stops. Elmesia reaches for her glass, looking thoroughly entertained.
+
+“I was helping you choose,” Mau says. ᴹ
+
+“I haven't chosen.” ʸ
+
+“Take your time.” ᴹ
+
+She bends to kiss him again before turning the page back toward the table.
 
 Mau has been told that he cannot solve it by ordering both because that is how they got into this situation at lunch. Elmesia listens to the debate while the shade moves across the far edge of the table.
 
@@ -54,6 +66,8 @@ Mau raises a finger. She catches his wrist before he can use it to make a point.
 “Good.” ʸ
 
 She puts his hand back on the table, keeps hers over it and chooses the first dish. Elmesia orders something smaller and tells the attendant where they will be if the wind begins coming through the awning.
+
+When the food arrives, Yuka takes her chair beside Mau and draws it close enough that his arm can stay around her. She makes him try the first forkful, then asks Elmesia about the place she mentioned for tomorrow.
 
 Mau feels Noise settle into the private conversation inside and leaves it there.
 

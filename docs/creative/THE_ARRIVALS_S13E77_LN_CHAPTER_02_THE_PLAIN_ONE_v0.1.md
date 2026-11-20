@@ -161,9 +161,17 @@ Elmesia nods, as if that is sufficient.
 
 They find Mau and Yuka at dinner later, still in the quiet corner they chose in the morning.
 
-Yuka's hair has dried in an untidy curve against one cheek. Mau has a hand resting over hers on the table and is trying to finish a point she appears determined to contest. Both turn when Elmesia asks whether they would mind company.
+Yuka's hair has dried in an untidy curve against one cheek. She is sitting across Mau's lap, holding the book open while he attempts to finish a point she appears determined to contest. His arm rests around her middle. When she turns a page to prove him wrong, he kisses the shoulder nearest his mouth and continues arguing.
 
-“Please,” Yuka says, moving the menus. ʸ
+Both turn when Elmesia asks whether they would mind company.
+
+“Please,” Yuka says, closing the book over his finger. ʸ
+
+“I need that.” ᴹ
+
+“Then remember the page.” ʸ
+
+He withdraws his hand, takes the menus she gives him and makes room on the table for the others. Yuka stays where she is, moving the bread basket so DIO can reach it without asking them to get up.
 
 DIO takes the chair beside Elmesia. Testarossa sits where Antonio can stand clear of the path. Makima chooses the remaining place beside Testarossa, close enough to hear Mau without making him turn away from his wife.
 
@@ -179,7 +187,9 @@ Mau listens, amused, while Yuka asks about the little vessel. When DIO tells her
 
 He puts his free hand up in surrender.
 
-Makima watches their hands settle together again.
+Yuka puts his surrendered hand back around her waist. He keeps it there while Elmesia asks about the book.
+
+Makima watches them disagree over which page contains the best explanation.
 
 He looks toward her.
 

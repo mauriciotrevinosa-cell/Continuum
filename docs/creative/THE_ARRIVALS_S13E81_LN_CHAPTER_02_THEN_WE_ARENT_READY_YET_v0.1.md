@@ -239,7 +239,11 @@ They go to bed with the balcony door still open a little.
 
 Mau sets the things she wants within reach, puts the rest away and lies down beside her. She turns toward him immediately, slipping one leg between his and drawing his hand to the place on her back where she wants it.
 
-He lets her settle before moving any closer.
+He draws her the rest of the way against him and kisses her forehead. She tilts her face up, catches his chin and kisses him properly before putting her head back beneath it.
+
+“There,” she says. ʸ
+
+His hand settles where she placed it, and her fingers close over his at her back.
 
 “Tomorrow,” she says, “I'd like to do something easy.” ʸ
 

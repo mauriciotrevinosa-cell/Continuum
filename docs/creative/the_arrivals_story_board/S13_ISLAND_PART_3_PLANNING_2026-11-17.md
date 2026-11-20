@@ -140,6 +140,41 @@ Use a flexible rhythm, **not a rigid day-by-day itinerary or fixed sequence**: o
 - **Duración totalmente ABIERTA:** Mau y Yuka **podrían quedarse incluso un mes**, mientras otras personas se quedan una semana, más o menos. **No se sabe todavía qué duración quiere el creador para cada quien**. No forzar bloques de «día 1, día 2, día 3», ni despedidas predeterminadas, ni cerrar la estancia en unas pocas jornadas. Se decide la amplitud a medida que se pulan las relaciones y actividades.
 - **Las otras propuestas de Claude y del asistente siguen siendo ideas sin aprobar.** No rechazarlas por falta de detalle ni convertirlas en canon hasta revisarlas.
 
+## Precisiones del creador — foco de Mau/Yuka, atardecer y días sin calendario cerrado (19 nov 2026, noche)
+
+**ESTADO: IDEAS EN EVOLUCIÓN, NO AUTORIZACIÓN PARA PRODUCCIÓN.** Esta conversación **no equivale a cuatro días transcurridos en la historia**; cuando se dijo «como cuatro días de cosas», se trataba de una aproximación sobre cuánto se había planeado, no de un reloj diegético. No traducir estas propuestas en cuatro días fijos ni imponer ritmo y retornos.
+
+### Prioridad narrativa y convivencia
+
+- **SEGUIR PRINCIPALMENTE A MAU Y YUKA.** Es el centro del disfrute de esta isla; mostrar lo que ellos hacen, incluidas excursiones y actividades privadas, **no sustituir sus escenas por una elipsis de «regresan de estar solos»**. Se puede observar lo que hacen otros integrantes cuando es natural o en escenas puntuales, sin bifurcar toda la historia en vacaciones independientes por franquicia.
+- Si en algún momento se quiere comunicar adónde fue gran parte del elenco, **no hace falta dramatizar cada salida**: una escena colectiva en la que el grupo se divide según gustos y, **cuando haya una cena familiar**, algunos cuentan anécdotas o planes. **No es necesario escuchar a todos** ni realizar esa cena diariamente. Algunos días Mau y Yuka cenarán solos; otras cenas serán Mau/Yuka/Ori/Frieren; otras, con amistades, grupos cambiantes o toda la familia. **Ninguna combinación es obligación fija**.
+- **La casa ya quedó cubierta por las sombras de Mau**, incluidas tareas domésticas y vigilancia además de Muster y sus cuarenta. Este asunto fue resuelto en la planificación de partida: no volver a abrirlo como si hubiera que decidir quién riega y protege desde cero, salvo que se detecte una contradicción técnica concreta. La planta de DIO puede tener relevo dentro de esta organización respetando que Ori recibió el encargo.
+- Mantener abiertos los desarrollos de **Mai/Momo Nishimiya**, **Hinata/Anko**, **Luminous/brujas**, **Elmesia/DIO/Testarossa** y la **familia Ori/Frieren/Mau/Yuka**. Que existan vínculos no exige foco independiente a cada uno.
+
+### Descanso y primera vista del mar
+
+- La llegada es **al atardecer**. Mientras muchos se emocionan mirando el mar, el horizonte y la luz de la isla, **el Fort disfruta unido**; Ori juega o se queda cerca de **Chloe**, **Umaru** y los demás, sin convertirlos en grupos aislados que desaparecen del relato. Respetar la distribución de habitaciones y el cansancio de la travesía.
+- **Momento elegido por el creador para Mau y Yuka, sin precisar capítulo o minuto:** Mau logra **soltarse y descansar de verdad** con Yuka encima/abrazándolo; ella lo acomoda, coloca **la cabeza de Mau sobre su pecho** y lo sostiene mientras él **la abraza y no la suelta**. Ella le habla despacio de **lo que quiere hacer con él** durante la estancia: lugares y experiencias que desean **repetir de la visita anterior**, otras cosas que quieren probar y el **plan de ambos**, no una agenda que otros les imponen. Mau escucha, responde mientras puede, **lo disfruta** y acaba dormido en sus brazos; Yuka puede seguir contándole cosas bajito hasta quedarse dormida también. No resolverlo con trauma verbalizado de nuevo, confesión solemne ni insinuar que la pausa sexual se terminó: es **cariño, seguridad y sueño**.
+- Esto coexiste con la alegría del grupo ante la puesta de sol. La escena no implica que Mau/Yuka estén ausentes del resto de la isla ni que el Fort se separe permanentemente; pueden cruzarse antes y después.
+
+### Desayuno libre junto a la alberca
+
+- **Cada quien desayuna cuando quiera, y no necesariamente en el mismo sitio.** Mau y Yuka van a **desayunar cerca de la alberca**, donde **el pájaro conocido de la visita anterior ya los está esperando** (el que robaba comida/fruta). Reencuentro cómico, sin tratarlo como nuevo animal domesticado, sin convertirlo en portavoz de nadie.
+- Puede cruzarse **Ori con Frieren** caminando cerca; **Chloe** se apura a saludarlos y se une un momento, sin imponer que todos desayunen juntos ni que Ori sea separada de su mamá. Seguimos la mirada de Mau/Yuka; otros huéspedes pasan, conversan y siguen sus propios planes.
+- La **venda de Mau** al estilo Gojo viene de los arreglos temporales tras la avería de Mini Ciel: **Mau llega/está en la isla con la venda en los ojos**. Six Eyes plenamente eficientes en CE no significan carga neurológica resuelta. Ciel repara a Mini Ciel con tiempo; la tela/filtro temporal no lo cura por sí sola. No convertir el cambio visual en ceguera total permanente ni olvidar sus problemas sensoriales anteriores.
+
+### Daphne y el mercado — idea más concreta, todavía no pulida del todo
+
+- En lugar de mandar a Daphne a una «excursión de semillas» abstracta, **va al mercado real** de la isla/ciudad para **buscar semillas y plantas** que le interesan para su jardín. **Varias personas la acompañan por elección**, cada una encuentra puestos/cosas diferentes; se dan interacciones naturales con tenderos, olores, comida y productos de la zona. **Allí se topan con otros integrantes de la familia que también habían decidido ir al mercado**, sin una convocatoria universal ni separar el relato en subhistorias completas.
+- Puede verse desde Mau/Yuka si están presentes o conocerse después en conversación de una cena; la idea de Daphne de recrear su jardín **con Rimuru** sigue siendo una promesa de investigar y llevar semillas correctamente, no que de pronto hayan trasladado un bosque sin revisar restricciones.
+
+### Otros hilos sin resolver ni dar por hechos
+
+- **La ciudad submarina ya existe en el mundo de Tensura**, no inventarla, moverla de lugar ni reconfigurar su historia para servir a la isla. Su visita es una **posibilidad a pulir con personajes y situaciones concretas**, no un nuevo sitio creado para el arco.
+- **La pausa íntima de Yuka permanece abierta y depende de su proceso, no de contar días**; ella y Mau siguen cercanos, cariñosos y cómodos todo el tiempo. Lo que decide reanudar y cuándo lo decide ella por su propia razón, sin presiones.
+- **El regalo de Elmesia no está fijado.** Claude propuso una **casa en la isla** y Mau había bromeado sobre un barco; no confundir esas dos cosas ni asumir que el hospedaje existente equivale ya a un regalo patrimonial.
+- **Duración y regreso de cada persona sin decidir**: Mau/Yuka podrían quedarse hasta un mes y otros mucho menos; la historia puede respirar. **Pulir escenas solo después de tener la visión más completa del arco**. Nada de autorizar escritura de V81, fijar orden diario, aprobar escenas o reducir la isla a un esquema corto por adelantar trabajo.
+
 ## Mauri's words (17 November 2026)
 
 > no son 10 puntos consigue lo equivalente a trescientos niveles de puntos. y si el resto esta bien nos podemos sentar a hacerla quienes van a recibir algo de tiempo chico osea sabemos que estan pero no vana ser el foco quienes vana  tener escenas suyas como hicimos en la segunda ida a la isla en la cena familiar todos comienzan a contar sus aventuras y planes que vamos hacer que shoko emborrache a mau con carajillos y a gojo pq gojo es dos copitas al igual que anko y eso no lo digo yo es canon y asi que ori en el mar conf rieren mau yuka fern stark himmel y asi varias ideas pero estas son unas que se me vienen de que hacer tu tmb podras dar tus ideas y yo agrego mas y si te gustan o te dan mas ideas nos comunicamos

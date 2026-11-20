@@ -21,7 +21,7 @@ She looks up at Mau.
 
 “This one.” ʸ
 
-He asks about the water, the return route and whether the bench on the far side stays in shade. The man answers all three without appearing to think them unusual questions. When Mau takes out the pass, he recognizes the seal and writes their names on the page for the day.
+He asks about the water, the return route and whether the bench on the far side stays in shade. He confirms the afternoon landing time before booking; they have tea with Luminous and the witches afterward. The man answers all three without appearing to think them unusual questions. When Mau takes out the pass, he recognizes the seal and writes their names on the page for the day.
 
 Yuka watches the pen stop after Mau's first name.
 
@@ -255,4 +255,4 @@ He kisses her forehead.
 
 “No hat.” ᴹ
 
-She settles back down, satisfied with the agreement. He keeps his arm around her until the man at the pier comes into view with the rope, and only then does he tell her they are almost home for the evening.
+She settles back down, satisfied with the agreement. He keeps his arm around her until the man at the pier comes into view with the rope, and only then does he tell her they are back in time for tea.

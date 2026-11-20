@@ -97,3 +97,8 @@ Reader was restarted hidden and new arrival URL returned HTTP200. Final source s
 
 
 Published and pushed: full review d54007b0; completed arc/date/polish dba27daf. Reader verified HTTP200 with revised Ori scene at start, flight links new arrival, and full final chapter text. Earliest reread V81#2, source s13e73-ln-chapter-02. V81=34 chapters, V82=29, total63. All62 other chapter files and new additions indexed; no claim of full S13 completion.
+
+
+## Tea attendance correction — creator clarification, 20 November
+
+The habitual witches tea always includes Mau from its start, even with invited guests. The first-hour-for-the-women line and later late-arrival staging were continuity errors, not author intent. Corrected V81#3,6,16,17,30 (stable S13E74CH01, S13E75CH01, S13E80CH01/02, S13E87CH01), including departure promise, first-evening pot, boat return time, whole long-tea opening/participation and farewell-transfer coda. No new chapters, numbering or dates. Preserve Mau with the group; DIO/Makima existing privacy/body arrangements unchanged. Link: MAU_WITCH_TEA_ATTENDANCE_CREATOR_LOCK_2026-11-20.md. Latest scope for NEXT material is planning only, no drafted Simurian chapters.

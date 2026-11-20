@@ -5,9 +5,25 @@
 **Volume:** 81
 **Reading order:** 17
 **Source episode:** S13E80
-**Continuity state:** Luminous reconnects at long tea with all seven resident witches; prior friendship respected. DIO/Elmesia/Testarossa and Makima participate naturally; no automatic forgiveness or emotional cure. Couple join after boat, familiar bonds and practical gardening discussion. DIO attraction emerges in choices not declaration. Gift from Elmesia remains unspecified. No new magic or plant relocation executed.
+**Continuity state:** Luminous reconnects at long tea with all seven resident witches; prior friendship respected. DIO/Elmesia/Testarossa and Makima participate naturally; no automatic forgiveness or emotional cure. Tea begins after couple return from boat; Mau participates from its start, familiar bonds and practical gardening discussion. DIO attraction emerges in choices not declaration. Gift from Elmesia remains unspecified. No new magic or plant relocation executed.
 
-*When: B+384, parallel afternoon tea, joined by couple before evening.*
+*When: B+384, afternoon tea after the couple return from the boat, before dinner.*
+
+Mau puts both hats on the empty bench while Luminous lays three unopened tins beside the pot.
+
+Yuka still has wind in her hair. She pushes it behind one ear, takes the place between Mau and Satella and lets Mau move her chair nearer the shade before sitting down himself.
+
+“Which one first?” he asks, examining the labels. ᴹ
+
+“You wrote the list,” Luminous says. ᴸᵘ
+
+“This one wasn't on the list.” ᴹ
+
+“It is now.” ᴸᵘ
+
+Echidna reaches for the nearest tin. Mau opens it for her and holds it between them while they consider the unfamiliar scent. Yuka leans across his arm, decides it smells more interesting than the one she recognizes and points to the empty pot.
+
+They begin there.
 
 Luminous knows she has chosen the right table when Sekhmet sits down without asking how long the meeting will last.
 
@@ -17,9 +33,9 @@ There is shade, a broad seat at one end and enough distance from the main path t
 
 “I'm checking.” ᴾʳ
 
-Luminous puts her own packages on the table.
+Luminous moves her remaining packages toward the centre of the table.
 
-“You can begin with these. I was told somebody would take responsibility if they were unpopular.” ᴸᵘ
+“You can try these next. I was told somebody would take responsibility if they were unpopular.” ᴸᵘ
 
 Echidna looks up.
 
@@ -29,7 +45,7 @@ Echidna looks up.
 
 Carmilla takes the packet nearest her, reads the label and smiles into the edge of her sleeve. Satella moves the empty dish toward Pride before the girl has to reach across anyone's cup.
 
-They begin with what Luminous brought last time and work outward from there.
+The familiar blends come out beside the new one. Mau passes each tin on after reading the label, and Luminous tells them which she would pair with the biscuits.
 
 An hour passes before somebody mentions the hour.
 
@@ -39,7 +55,15 @@ Echidna has a question about the way the island keeps its kitchens supplied. Lum
 
 “You can. I can also finish answering.” ᴸᵘ
 
-Sekhmet makes a small sound of approval without opening her eyes.
+Sekhmet makes a small sound of approval without opening her eyes. Mau passes Yuka the biscuits before putting in his own question.
+
+“Were those three separate questions when you started?” ᴹ
+
+“They became relevant,” Echidna says. ᴱᶜ
+
+“I noticed.” ᴹ
+
+Luminous looks grateful for his assistance until he asks whether the first answer changes what they ought to order for dinner. She puts her cup down and tells him he can wait with the others.
 
 Daphne has already shown Luminous the packets she bought at the market. The exchange grows practical: light, soil, how much of the garden remains unclaimed and whether Rimuru understands how many seedlings she considers a modest beginning.
 
@@ -67,7 +91,7 @@ Daphne looks at it. Then at her packets.
 
 Elmesia laughs and takes the chair Luminous offers.
 
-Elmesia unwraps one corner to show Daphne the shape. She leaves the rest for DIO to open when Mau and Yuka return.
+Elmesia unwraps one corner to show Daphne the shape. She leaves the rest for DIO to open when she joins them.
 
 “Has she decided what to put in it?” Daphne asks. ᴰᵃ
 
@@ -99,7 +123,7 @@ They begin telling Luminous about the afternoon Anko stepped into the wet bed wh
 
 “Come when you can stay long enough for something unplanned,” Echidna tells her. ᴱᶜ
 
-Luminous looks at the week she has already spent here.
+Luminous looks toward the water, considering the days she has already spent here.
 
 “I'm attempting it.” ᴸᵘ
 
@@ -115,25 +139,21 @@ Testarossa laughs into her tea. Antonio inclines his head when she touches his f
 
 ---
 
-Mau and Yuka arrive after the boat comes back.
+Pride catches Mau considering the plate nearest her.
 
-Yuka has a little wind left in her hair. Mau has the bag over one shoulder and both hats in his other hand. He stops beside the empty end of the table and waits for the conversation to reach a space he can use.
+“Those little ones are the best,” she tells him. ᴾʳ
 
-Pride spots him first.
-
-“You missed the good ones.” ᴾʳ
-
-She points at the tray.
-
-“All of them?” he asks. ᴹ
+“All of them?” ᴹ
 
 “I checked.” ᴾʳ
 
 Satella moves a small plate toward him. There are two pieces on it.
 
-“We kept some,” she says. ˢᵃ
+“These aren't as sweet,” she says. ˢᵃ
 
-Yuka thanks her before Mau can. They sit, Yuka near Satella and Mau beside her. DIO comes out at his side, accepts the parcel Elmesia has kept for her and begins unwrapping it when Carmilla asks what she made. Elmesia gets her a pencil to show the leaves of the plant she has in mind.
+Yuka thanks her before Mau can and moves the plate between them. Beside him DIO comes out after he relays Elmesia's invitation. She accepts the parcel Elmesia has kept for her and begins unwrapping it when Carmilla asks what she made. Elmesia gets her a pencil to show the leaves of the plant she has in mind.
+
+Luminous has finished her account of the visitors who kept her busy. Now Echidna wants to know which part of the coast Mau and Yuka chose that morning.
 
 Mau and Yuka give the account of the boat under questioning that becomes less orderly as it goes.
 
@@ -155,13 +175,11 @@ Luminous looks at him.
 
 “A productive expedition.” ᴸᵘ
 
-He accepts the verdict. Yuka puts one of the saved pieces in his hand and takes the other for herself.
+He accepts the verdict. Yuka puts one of the pieces in his hand and takes the other for herself.
 
 ---
 
-He goes with Daphne to look at the planting border while Yuka stays at the table.
-
-Daphne points out the place where the afternoon shade reaches first and explains why that changes what she wants to try at home. Mau crouches beside her without touching the plants. His questions are ordinary ones: whether she has somewhere to put the packets, whether she wants them stored, whether she has told Rimuru about the ones she went back for.
+Daphne turns her chair toward the planting border beside the awning. Mau follows the line of her hand from his place at the table while she points out where the afternoon shade reaches first and explains why that changes what she wants to try at home. His questions are ordinary ones: whether she has somewhere to put the packets, whether she wants them stored, whether she has told Rimuru about the ones she went back for.
 
 She looks at him.
 
@@ -187,9 +205,9 @@ Elmesia folds the paper when DIO has finished and asks whether she can keep it u
 
 She watches Elmesia put it safely inside the cover of her notebook.
 
-By the time Mau returns, somebody has put another cup at his place.
+When Mau turns back from Daphne's plan, Yuka has refilled his cup.
 
-Yuka tells him which one is his. He takes a careful sip and looks toward Luminous.
+She moves it clear of the seed packet beside his hand. He takes a careful sip and looks toward Luminous.
 
 “Did the list work?” ᴹ
 

@@ -125,11 +125,15 @@ She leaves it there. Yuka comes up beside Mau with two pieces of bread and gives
 
 He laughs. Yuka leans across him to look at the package.
 
-“Are we allowed to come?” ʸ
+“Which one is for us?” Yuka asks, looking at the tins. ʸ
 
-“To a part of it,” Luminous says. “I'd like to hear what the others have been doing first.” ᴸᵘ
+“You'll have to taste them,” Luminous says. “And all of you can tell me what you've been doing while I was away.” ᴸᵘ
 
-“They'll like that,” Mau says. “There's a place near the water. We thought you could have the first hour to yourselves.” ᴹ
+“There's a place near the water,” Mau says. “We'll get everyone together there. I want to hear what kept you so busy, too.” ᴹ
+
+Luminous lifts the parcel out of his reach before he can examine the next label.
+
+“Over tea. Otherwise you'll make me tell the story twice.” ᴸᵘ
 
 From the porch, Daphne is already asking whether the place has plants she can look at. Echidna has heard enough of the conversation to begin approaching. Sekhmet remains where she is and watches the distance she will eventually be required to walk.
 

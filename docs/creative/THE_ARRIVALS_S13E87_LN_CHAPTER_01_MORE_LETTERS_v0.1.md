@@ -147,7 +147,7 @@ The thanks are personal and untidy. Daphne remembers a question about the plant 
 
 Satella says goodbye quietly. Pride does it at enough volume for several people.
 
-DIO returns inside with Makima before he leaves. Mau brings the first group to the clear home anchor, returns after the interval and finds that the waiting conversation has acquired another pot of tea. Sekhmet regards the arrangement as a success. She finishes her cup before joining the second group.
+DIO returns inside with Makima before he leaves. Mau brings the first group to the clear home anchor and returns after the interval to find Sekhmet comfortably finishing a biscuit. She has kept her seat until the last possible moment and regards the arrangement as a success. She brushes the crumbs from her fingers before joining the second group.
 
 When Mau is back from the last journey, DIO comes out again beside Elmesia. He has delivered Daphne's warning about the seed packets and left the smaller dish where Satella asked. His next journey will be for the people still finishing the holiday here.
 

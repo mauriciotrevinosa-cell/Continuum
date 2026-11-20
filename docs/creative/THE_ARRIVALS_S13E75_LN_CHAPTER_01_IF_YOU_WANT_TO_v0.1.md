@@ -5,7 +5,7 @@
 **Volume:** 81
 **Reading order:** 6
 **Source episode:** S13E75
-**Continuity state:** Entire house already arrived together. Couple wake from ordinary affectionate nap. Brief reconnecting tea, Daphne seed market with Elmesia/Rimuru before communal dinner. Optional activities, no compulsory nightly report; Makima included from first night and considers independent preferences. Elmesia/DIO/Testarossa plan time together. Four-person early beach morning planned B+380.
+**Continuity state:** Entire house already arrived together. Couple wake from ordinary affectionate nap. Mau present before tea begins; brief reconnecting tea, Daphne seed market with Elmesia/Rimuru before communal dinner. Optional activities, no compulsory nightly report; Makima included from first night and considers independent preferences. Elmesia/DIO/Testarossa plan time together. Four-person early beach morning planned B+380.
 
 *When: B+379, early evening into the first shared dinner.*
 
@@ -57,7 +57,7 @@ She flexes her recovering foot and considers the question with the gravity it de
 
 They find Luminous and the witches beneath an awning beside the water.
 
-The tea has already arrived. Pride is explaining to Elmesia why the chairs on one side of the table are better, while Sekhmet has managed to occupy the chair everyone else is discussing without contributing anything to the argument. Minerva sees Mau carrying Yuka and starts to rise.
+The unopened tins wait beside the pot and the empty cups. Pride is explaining to Elmesia why the chairs on one side of the table are better, while Sekhmet has managed to occupy the chair everyone else is discussing without contributing anything to the argument. Minerva sees Mau carrying Yuka and starts to rise.
 
 “What happened?” ᴹⁱⁿ
 
@@ -95,13 +95,13 @@ Mau rests his hand on Yuka's chair. Her foot is still tingling. She settles it a
 
 “Tea.” ᴸᵘ
 
-“We haven't had this one.” ᴹ
+“We haven't tasted this one.” ᴹ
 
-Echidna lifts her cup.
+Echidna nudges the tin toward him.
 
-“You haven't.” ᴱᶜ
+“Then choose where we start.” ᴱᶜ
 
-Elmesia passes him a clean cup. Yuka breaks a sesame biscuit over Mau's hand, catches most of the crumbs and begins explaining that she intends to get to the pool early tomorrow.
+Elmesia passes him a clean cup. Mau opens the tin they have passed him, lets Luminous show him how much to use and makes the first pot while Yuka breaks a sesame biscuit over Mau's hand, catches most of the crumbs and begins explaining that she intends to get to the pool early tomorrow.
 
 Daphne is looking past the awning. Her market bag is folded beneath her palms, the handles smoothed into the same position twice.
 
@@ -135,9 +135,7 @@ Daphne sits forward for the first time since they arrived.
 
 Elmesia begins with watering. Mau watches Daphne set the folded bag upright, already reaching for the pencil Elmesia has beside her cup.
 
-“We saw it from the room.” ʸ
-
-“I'd like to look before they close.” ᴰᵃ
+“We should look before they close,” Daphne says. ᴰᵃ
 
 Mau takes a sip, sets the cup down and looks toward the lamps beginning to appear along the promenade.
 

@@ -57,3 +57,7 @@
 5. Este padrón es una **auditoría de nombres de trabajo**, no garantía de censo exhaustivo: cotejar el capítulo más reciente si hay movimientos, familias externas, invitaciones o nuevas llegadas. No introducir habitantes de otras líneas sólo porque existieron en la saga.
 
 Referencias: [padrón real V52](S8_NEW_TOWN_ACTUAL_HOUSEHOLDS_AND_OPEN_FAMILY_SEARCHES_2026-11-02.md); [Fort actual](FORT_CURRENT_ROSTER.md); [S10](S10_ACTUAL_PRODUCTION_STATE_2026-11-04.md); [S11](S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md); [S13](S13_ACTUAL_PRODUCTION_STATE_2026-11-12.md); [plan de isla](S13_ISLAND_PART_3_PLANNING_2026-11-17.md).
+
+## Produced parental naming — V81#7, B+380
+
+Frieren offered Yuka a parental place conditionally and affirmed she remains Ori's mother. Ori independently chose the familial relationship and the spoken name **Yuka**, after trying 'adoptive mother' and deciding the title sounded horrible. No forced Mama label, no displacement of Frieren, no substitute-pregnancy premise. Mau remains Dad. The beach outing was the first morning AFTER the whole household traveled and arrived together.

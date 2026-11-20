@@ -3,8 +3,8 @@
 **Status:** LN PRODUCTION DRAFT — in production; only indexed chapters are written.
 **Volume:** 81
 **Season:** 13
-**Coverage:** S13E73–S13E80; Island III, ongoing
-**Chapter files:** 16
+**Coverage:** S13E73–S13E84; Island III, ongoing
+**Chapter files:** 24
 
 The arc remains open; counts are not quotas.
 
@@ -28,3 +28,11 @@ The arc remains open; counts are not quotas.
 | 14 | S13E79 | Out Loud | `THE_ARRIVALS_S13E79_LN_CHAPTER_02_OUT_LOUD_v0.1.md` |
 | 15 | S13E80 | The Boat with Lunch | `THE_ARRIVALS_S13E80_LN_CHAPTER_01_THE_BOAT_WITH_LUNCH_v0.1.md` |
 | 16 | S13E80 | Enough Chairs | `THE_ARRIVALS_S13E80_LN_CHAPTER_02_ENOUGH_CHAIRS_v0.1.md` |
+| 17 | S13E81 | The First Glass | `THE_ARRIVALS_S13E81_LN_CHAPTER_01_THE_FIRST_GLASS_v0.1.md` |
+| 18 | S13E81 | Then We Aren't Ready Yet | `THE_ARRIVALS_S13E81_LN_CHAPTER_02_THEN_WE_ARENT_READY_YET_v0.1.md` |
+| 19 | S13E82 | There Are Levels | `THE_ARRIVALS_S13E82_LN_CHAPTER_01_THERE_ARE_LEVELS_v0.1.md` |
+| 20 | S13E82 | See You Soon | `THE_ARRIVALS_S13E82_LN_CHAPTER_02_SEE_YOU_SOON_v0.1.md` |
+| 21 | S13E83 | When Everybody Else Is Finishing | `THE_ARRIVALS_S13E83_LN_CHAPTER_01_WHEN_EVERYBODY_ELSE_IS_FINISHING_v0.1.md` |
+| 22 | S13E83 | The Second Invitation | `THE_ARRIVALS_S13E83_LN_CHAPTER_02_THE_SECOND_INVITATION_v0.1.md` |
+| 23 | S13E84 | Conditions | `THE_ARRIVALS_S13E84_LN_CHAPTER_01_CONDITIONS_v0.1.md` |
+| 24 | S13E84 | Her Own Kitchen | `THE_ARRIVALS_S13E84_LN_CHAPTER_02_HER_OWN_KITCHEN_v0.1.md` |

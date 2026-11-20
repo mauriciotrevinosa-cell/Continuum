@@ -303,3 +303,39 @@ Since V80 #6, Mau and Yuka are on pause (no intimate scenes) after the bathroom 
 
 **Why the pause (Mauri):** it isn't about counting days. Yuka wants a breather because she got frustrated, and it's normal that she may not want to feel that way again. First she wants to shed what she's still carrying. When she ends the pause, it's because she has shed it, not because she stopped counting.
 
+## Aprobación del creador — días compartidos y acercamiento de Yuka a Makima (20 noviembre 2026)
+
+**Ideas de escena aprobadas por Mauri.** Siguen dentro de la planificación de Isla III, con orden, duración y distribución de capítulos abiertos. La aprobación corresponde a estas situaciones y a su dirección emocional.
+
+### Situaciones propuestas por Work y aprobadas
+
+1. **Milim busca la invitación que le permite respetar las reglas.** Mau y Yuka desayunan cerca de la alberca. Milim explica que las reglas permiten que ellos la inviten a jugar y se queda esperando. Mau la invita. El juego en el agua va reuniendo a la familia. Yuka se divierte, cambia de equipo si le conviene y después se lleva a Mau para recuperar su rato juntos. La indignación es juguetona.
+2. **Mau duerme y Yuka sigue teniendo una tarde propia junto a él.** Ella lo acomoda y le cuenta qué quiere repetir o probar durante la estancia. Mau responde mientras puede y se duerme. Yuka puede mirar el mar, pedir comida y guardar su plato para que al despertar él encuentre algo que ella eligió para los dos. Otro día pueden pasar un rato parecido despiertos, leyendo, interrumpiéndose y platicando.
+3. **Ori, Lantern y el Fort organizan algo cerca del camastro.** Tienen una expedición o construcción en la arena. Piden a Mau que mire hacia otro lado porque adivina sus planes. Yuka se presta al juego y lo ayuda a no espiar. Al terminar, Ori y sus amigos invitan a la pareja a ver lo que hicieron. Lantern acompaña a Ori. Que Pillow permanezca junto a la chimenea de casa sigue siendo una posibilidad, sin fijar todavía la lista de viajeros.
+4. **Cena que se alarga al contarse lo que hicieron.** Anko comienza una anécdota, Hinata corrige un detalle y Mai o Momo Nishimiya añaden lo que faltaba. Mau y Yuka también cuentan su día. Cambian los asientos para escuchar y la comida llega durante la conversación. Esta escena puede surgir en una cena compartida, sin convertir todas las noches en un pase de lista.
+5. **Día completo de Mau, Yuka y Makima.** Yuka elige una actividad que quiere hacer y la incluye. Makima puede prepararlo demasiado y tener que adaptarse cuando Yuka cambia de opinión por algo que le llamó la atención. Después comen y pasan un rato sin hacer nada. En algún momento Yuka pregunta qué le gustaría hacer a Makima y le da tiempo para responder desde lo que ella quiere. Yuka puede expresar que ahora comprende mejor qué vio Mau en ella, y también que recuerda el daño que le hizo. Un gesto elegido por Yuka, como decidir esperar mientras Makima mira algo, puede cerrar el día.
+
+### Nuevas escenas que propone Mauri
+
+**Un día entero de conversación por el enlace.**
+- Mau y Yuka se pasan el día platicando mentalmente y casi no se hablan en voz alta. Siguen sentándose juntos, buscándose y respondiéndose con gestos.
+- La casa sólo ve fragmentos y cree que están peleados. Cuando alguien se anima a preguntar, los dos responden, sorprendidos, que han hablado todo el día.
+- Construir el malentendido con lo que los demás alcanzan a ver; dejar que el lector viva parte de la conversación y entienda por qué ellos no notaron el silencio.
+- Usar el enlace y la privacidad ya establecidos. Ciel, Noise, DIO y Makima mantienen sus funciones y su acceso acordado. No introducir lectura automática de pensamientos privados por conveniencia del chiste.
+- Día y posición dentro del viaje todavía abiertos.
+
+**La mano de Mau durante el día con Makima.**
+- Después de la actividad y la comida, los tres descansan juntos. Makima pregunta si también puede tomar de la mano a Mau.
+- Yuka le dice que sí, por un rato. Mau conserva su capacidad de elegir y responder. Su vínculo con Makima se entiende como amistad.
+- El gesto nace de que Yuka va aceptando que Makima forma parte de la vida de Mau y comprendiendo por qué él quiso ayudarla. Es un acercamiento gradual con criterio propio.
+
+**Yuka inicia el contacto con Makima.**
+- Makima dice algo que Yuka recibe como un chiste y Yuka se ríe. Puede dejarle una mano apoyada en el brazo o el hombro con naturalidad.
+- Makima se aparta y se disculpa creyendo haber roto el contrato o lo acordado sobre el contacto.
+- Yuka aclara que fue ella quien decidió tocarla y que ese contacto está bien.
+- Conservar la diferencia ya fijada entre el contrato de Makima con Mau y los límites de convivencia establecidos por Yuka. La reacción de Makima puede ser un temor o una interpretación suya. No convertir la escena en una sanción mágica ni en permiso general para cualquier contacto posterior.
+- Importa que Makima descubra una cercanía que Yuka eligió en ese instante, sin haberla organizado ella.
+
+### Observación de ritmo del creador
+
+Mauri siente que se repiten la puerta, la mano libre y la explicación de que Mau puede descansar después de que la escena ya lo dejó claro. Durante la isla, desarrollar nuevas acciones, conversación, humor y tiempo compartido cuando la escena los pida. La longitud sale de la experiencia que están viviendo; evitar volver a declarar el mismo avance para alcanzar una cifra de palabras.

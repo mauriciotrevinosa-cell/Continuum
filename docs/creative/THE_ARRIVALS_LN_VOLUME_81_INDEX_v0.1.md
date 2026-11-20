@@ -3,8 +3,8 @@
 **Status:** LN PRODUCTION DRAFT — in production; only indexed chapters are written.
 **Volume:** 81
 **Season:** 13
-**Coverage:** S13E73–S13E76; Island III, ongoing
-**Chapter files:** 8
+**Coverage:** S13E73–S13E78; B+379–B+382, Island III, ongoing
+**Chapter files:** 11
 
 The arc remains open; counts are not quotas.
 
@@ -20,3 +20,6 @@ The arc remains open; counts are not quotas.
 | 6 | S13E75 | Yours and Mine | `THE_ARRIVALS_S13E75_LN_CHAPTER_02_YOURS_AND_MINE_v0.1.md` |
 | 7 | S13E76 | Better Yuka | `THE_ARRIVALS_S13E76_LN_CHAPTER_01_BETTER_YUKA_v0.1.md` |
 | 8 | S13E76 | A Little While | `THE_ARRIVALS_S13E76_LN_CHAPTER_02_A_LITTLE_WHILE_v0.1.md` |
+| 9 | S13E77 | Today's Plan | `THE_ARRIVALS_S13E77_LN_CHAPTER_01_TODAYS_PLAN_v0.1.md` |
+| 10 | S13E77 | The Plain One | `THE_ARRIVALS_S13E77_LN_CHAPTER_02_THE_PLAIN_ONE_v0.1.md` |
+| 11 | S13E78 | Six Minutes | `THE_ARRIVALS_S13E78_LN_CHAPTER_01_SIX_MINUTES_v0.1.md` |

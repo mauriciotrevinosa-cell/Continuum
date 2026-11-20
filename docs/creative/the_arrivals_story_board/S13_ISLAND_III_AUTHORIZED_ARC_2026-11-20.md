@@ -27,3 +27,7 @@ The creator explicitly authorized drafting the whole arc, departure through the 
 ## Open implementation choices
 
 Exact roster, chronology of optional activities, transport logistics after advance four, unspecified Elmesia gift, degree of DIO/Elmesia attraction, Asa's choice and negotiated duration require coherent authoring, not further blanket approval. No new powers/deaths/arrivals or cameo relationship resets for convenience. End planned arc at resolved playful castle siege; Simurian arc and Antares later remain available, endgame not rushed.
+
+## Speaker-mark lock — creator reminder during production
+
+Every dialogue paragraph retains the established superscript speaker markers (Mau ᴹ, Yuka ʸ, etc.), including internal voices with their own marks and readable attribution for new/occasional speakers. Do not silently drop this reading convention. V81#1–11 manually attributed after the reminder. Names and scene attribution still make each voice legible. First 11 written, full island-to-castle arc still in progress.

@@ -13,13 +13,13 @@ The last test takes them beyond the fields.
 
 Mau sits alone on the platform with the weighted sacks secured around him. Senku has given him a route with two broad turns and a place to land if a support starts moving. Mai stands beside the boarding step until he repeats it back to her.
 
-“And if I get an idea?” he asks.
+“And if I get an idea?” he asks. ᴹ
 
-“You land.”
+“You land.” ᴹᵃ
 
-“I tell you.”
+“I tell you.” ᴹ
 
-“After you land.”
+“After you land.” ᴹᵃ
 
 He promises. She steps away, and the shikigami rises with its first passenger.
 
@@ -29,11 +29,11 @@ On the way back he chooses the second planned course, low enough that the others
 
 She finally raises her head.
 
-“All right.”
+“All right.” ᴹᵃ
 
 At the fence, Milim throws up both arms. Ori and Chloe start running before Mai can add the rest.
 
-“In order,” she calls. “Using the steps!”
+“In order,” she calls. “Using the steps!” ᴹᵃ
 
 They slow down just enough to demonstrate that they heard.
 
@@ -45,17 +45,17 @@ Anko's advice is to wait until she finishes counting. Gojo's advice is that he c
 
 Mau stands at the bottom with Yuka and the notebook. Ori has already checked the labels. He puts the larger cases into his inventory as people hand them over, repeating the names when two look alike. Bocchi stops him before he stores her guitar.
 
-“That one with me. Please.”
+“That one with me. Please.” ᴮ
 
-“Of course.”
+“Of course.” ᴹ
 
 Kita takes the smaller case from her so she can keep both hands on it. Ryo gives Mau a bag, remembers something and takes it back before he can store it. Nijika looks inside, removes the snacks and returns the bag herself.
 
-“She meant to share those,” she tells him.
+“She meant to share those,” she tells him. ᴺⁱ
 
-“I hadn't decided,” Ryo says.
+“I hadn't decided,” Ryo says. ᴿʸ
 
-“Now you have.”
+“Now you have.” ᴺⁱ
 
 On the platform, Jin-Woo is helping his mother find a seat with something she can hold during the climb. Hae-In takes the one beside her while Suho tries every opening through which he might see the wings. His grandfather quietly chooses the best view before Suho has finished comparing them.
 
@@ -63,29 +63,29 @@ Rem sits with Umaru's cardigan in her lap. Umaru looks at it, sighs and takes it
 
 Antonio folds his arms carefully within the space Testarossa selects. He lowers his head beneath the upper brace, settles his weight and watches her adjust the band on his forearm. Across from him, the perching rail has temporarily acquired a very suspicious cat.
 
-“I'm not luggage,” Turbo Granny says.
+“I'm not luggage,” Turbo Granny says. ᵀᴳ
 
-“Then stop sitting on the bags,” Seiko answers.
+“Then stop sitting on the bags,” Seiko answers. ˢᵉⁱᵏᵒ
 
 Mai and Momo Nishimiya reach the bottom of the steps together.
 
 Momo looks toward Kamish.
 
-“We could still—” Mai begins.
+“We could still—” Mai begins. ᴹᵃ
 
-“Sit with us,” Ori says.
+“Sit with us,” Ori says. ᴼ
 
 She appears at the rail between Chloe and Suika, all three leaning over to see them. Her enormous hat tips forward and Chloe catches the brim.
 
-“It's the first trip,” Ori adds.
+“It's the first trip,” Ori adds. ᴼ
 
 Mai looks at Momo. Momo looks up at the seats, then at the hand Mai is still holding.
 
-“We can try him another day,” she says.
+“We can try him another day,” she says. ᴹⁿ
 
 Kamish watches them choose the stairs. When Mau glances toward him, he lowers his head with the enormous patience of someone who has been asked to wait for a child's more important plans.
 
-“Thank you,” Mau says.
+“Thank you,” Mau says. ᴹ
 
 The dragon returns to shadow. Kaisel stays out a moment longer, letting Ori touch his nose before she goes back to her seat. Then Mau calls him in too.
 
@@ -103,41 +103,41 @@ The private rooms remain private. Ashborn's peace remains his own. If anything r
 
 When Mau climbs the boarding step, Yuka is waiting halfway up.
 
-“I saved you a seat.”
+“I saved you a seat.” ʸ
 
-“Is it a good one?”
+“Is it a good one?” ᴹ
 
-“I plan to sit on it.”
+“I plan to sit on it.” ʸ
 
 He looks past her at the bench. She waits until he understands, then turns and takes his hand to bring him the rest of the way.
 
 Frieren has a book open in her lap. Ori sits beside her, holding the edge of Chloe's sleeve so she will lean close enough to hear something. Milim is across from them, already arguing with Richeh about whether a person can see a cloud from inside it.
 
-“We'll find out,” says Richeh.
+“We'll find out,” says Richeh. ᴿⁱ
 
-“That's what I said.”
+“That's what I said.” ᴹⁱ
 
-“Then wait.”
+“Then wait.” ᴿⁱ
 
 Mau sits at the forward position where he can direct the shikigami. Yuka settles against his side first, then takes one look at how far he has left the blanket from her and moves onto his lap to reach it herself.
 
-“Everything secured?” Byakuya calls.
+“Everything secured?” Byakuya calls. ᵇʸᵃᵏᵘʸᵃ
 
 Yuka raises the blanket in reply.
 
-“The important things,” Mau says.
+“The important things,” Mau says. ᴹ
 
 Mai walks down the centre one last time. She checks a loose strap at Okarun's knee, hands Momo Ayase the end and makes them both demonstrate that they know which buckle releases it. She gets to Mau, sees where Yuka is sitting and points at the safer position for the climb.
 
 Yuka moves without arguing.
 
-“After we level out,” Mai says.
+“After we level out,” Mai says. ᴹᵃ
 
-“I know.”
+“I know.” ʸ
 
-“I was talking to him.”
+“I was talking to him.” ᴹᵃ
 
-“He knows too.”
+“He knows too.” ʸ
 
 Mau nods solemnly. Mai does not believe him until he has checked Yuka's strap himself.
 
@@ -167,9 +167,9 @@ Once the shikigami is flying level, people begin talking again. Byakuya watches 
 
 Shuna brings out something wrapped from the kitchen. Shion hands the first portion toward Rimuru and discovers that Milim has intercepted it.
 
-“I was passing it,” Milim says.
+“I was passing it,” Milim says. ᴹⁱ
 
-“Through your mouth?”
+“Through your mouth?” ˢʰⁱ
 
 Milim considers the question while chewing.
 
@@ -179,17 +179,17 @@ The blindfold cuts the incoming detail to something he can live with. Through th
 
 Makima remains within while they travel. She asks whether there is room beside him when she comes out later.
 
-“We'll find somewhere at dinner,” he tells her through their agreed channel.
+“We'll find somewhere at dinner,” he tells her through their agreed channel. ᴹ
 
 There is a pause before she answers.
 
-“All right.”
+“All right.” ᴹᵏ
 
 Yuka has her cheek against his upper arm. He tells her what Makima asked. She thinks about it, then nods.
 
-“Elmesia should sit with us too.”
+“Elmesia should sit with us too.” ʸ
 
-“I'll ask.”
+“I'll ask.” ᴹ
 
 Yuka reaches for the blanket. He brings it closer before she has to get up, and she tucks it over both their knees.
 
@@ -199,29 +199,29 @@ The sea arrives first as a change in the distance.
 
 Mau lets the cloth rise far enough to see the horizon, then lowers it again before the moving water resolves into more detail than he wants. Ori stands at the viewing rail with Frieren holding the back of her dress. Around them the family begins choosing which distant shapes must be boats.
 
-“That one's a rock,” Fern says.
+“That one's a rock,” Fern says. ᶠᵉ
 
-“It could be a very slow boat,” Stark answers.
+“It could be a very slow boat,” Stark answers. ˢᵗ
 
-“With a tree?”
+“With a tree?” ᶠᵉ
 
-“Someone could bring one.”
+“Someone could bring one.” ˢᵗ
 
 Behind them Daphne asks whether they can stop there on the way back. Rimuru says they should find out who owns it first.
 
 Yuka puts her chin on Mau's shoulder.
 
-“I know where I want breakfast.”
+“I know where I want breakfast.” ʸ
 
-“You haven't seen the island yet.”
+“You haven't seen the island yet.” ᴹ
 
-“I remember.”
+“I remember.” ʸ
 
-“What are you ordering?”
+“What are you ordering?” ᴹ
 
 She tells him. It takes long enough that he has to ask if they are discussing one breakfast or several. She presses her smile into his sleeve.
 
-“We'll have time.”
+“We'll have time.” ʸ
 
 He turns his head toward her and leaves a kiss at her temple, just beneath the enormous brim.
 
@@ -231,21 +231,21 @@ Elmesia meets them on the broad landing as the last light reaches the water.
 
 She looks up at the shikigami, then at the structure along its back. Mau can see the moment she begins examining the supports rather than the height. She waits until the creature has settled and the boarding step is secured before approaching.
 
-“Noise finished it,” she says.
+“Noise finished it,” she says. ᴱˡ
 
-“He wanted you to see.”
+“He wanted you to see.” ᴹ
 
-“I would like to look properly tomorrow. And speak to whoever built this part.”
+“I would like to look properly tomorrow. And speak to whoever built this part.” ᴱˡ
 
 Mai, coming down the step behind him, raises her hand.
 
 Senku points at Byakuya, who points straight back. Elmesia looks pleased.
 
-“After you've eaten,” she says. “I know what happens if I let you start now.”
+“After you've eaten,” she says. “I know what happens if I let you start now.” ᴱˡ
 
 The landing fills with people finding their feet. Ori stays by Chloe until Frieren has her hand again. Anko has her list out; Hinata takes the pencil while she counts. Testarossa steps down with Antonio and introduces herself to the attendant who has been looking at him with increasingly professional restraint.
 
-“He's with me,” she says.
+“He's with me,” she says. ᵀᵉ
 
 Antonio raises the band on his forearm.
 
@@ -259,27 +259,27 @@ Elmesia has staff waiting to show each group where to go. Frieren and Ori are al
 
 The pool is where she remembers it. Beyond it is the path to the water, and farther down the shore she can see the tables she was talking about on the flight.
 
-“There,” she says.
+“There,” she says. ʸ
 
 He comes to stand behind her. She takes his hand and points with it until he has found the place.
 
-“Breakfast?”
+“Breakfast?” ᴹ
 
-“Breakfast.”
+“Breakfast.” ʸ
 
 They unpack enough to stop looking for things. He brings their clothes out of the inventory while she names the drawers. The hats go on a wide shelf that was probably intended for something more modest. He watches her press a palm against the brim of his to keep it from springing back.
 
-“It fits,” she announces.
+“It fits,” she announces. ʸ
 
-“You're holding it.”
+“You're holding it.” ᴹ
 
-“Then I'll hold it.”
+“Then I'll hold it.” ʸ
 
 He puts an arm around her waist and lifts her away from the shelf. She turns toward him, already laughing, and lets him carry her the short distance to the seat by the balcony.
 
 She settles across his lap facing him. He starts to say something about dinner, but she places a hand at the back of his head and draws him toward her chest.
 
-“A minute,” she says.
+“A minute,” she says. ʸ
 
 He lets her arrange him. His arms come around her back. She leans into the support of the chair and begins telling him what she wants to do tomorrow: breakfast first, then the shallow pools with Ori and Frieren, and after that they can see what everyone else has decided.
 
@@ -287,11 +287,11 @@ He answers the first few things. She feels the last answer move against her shir
 
 Her hand travels slowly through the shorter hair above his collar.
 
-“And I want to go back to that stall,” she says. “The one you said we'd come back to when I wasn't hungry.”
+“And I want to go back to that stall,” she says. “The one you said we'd come back to when I wasn't hungry.” ʸ
 
-“You were always hungry.”
+“You were always hungry.” ᴹ
 
-“That's why we have to go back.”
+“That's why we have to go back.” ʸ
 
 She waits for his answer. His arms stay around her, his cheek settled against her. The next breath goes deeper.
 

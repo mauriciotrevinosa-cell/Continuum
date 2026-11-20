@@ -13,27 +13,27 @@ What Ori has found is almost invisible until it moves.
 
 She holds the cup against the surface and points through the clear bottom. Mau crouches beside her, careful to keep his shadow off the place she wants him to see. A tiny creature has folded itself into a seam in the rock. It opens, notices the change in light and disappears again.
 
-“It was there,” she says.
+“It was there,” she says. ᴼ
 
-“I saw.”
+“I saw.” ᴹ
 
 Yuka gets down beside them. The first small wave reaches her ankle before she has found a comfortable way to crouch. She makes a startled sound and grabs Mau's forearm.
 
 Ori looks up, delighted.
 
-“It's cold.”
+“It's cold.” ᴼ
 
-“You could have told me.”
+“You could have told me.” ʸ
 
-“I just did.”
+“I just did.” ᴼ
 
 Mau turns his face away. Yuka catches the beginning of his smile and splashes the smallest amount of water at his knee.
 
 He looks back.
 
-“Was that necessary?”
+“Was that necessary?” ᴹ
 
-“Very.”
+“Very.” ʸ
 
 Frieren reaches them with the bag and sets it well above the wet line. By the time she comes to look, the tiny creature has opened again. Ori tells them all to stop moving. They obey with varying degrees of success.
 
@@ -51,27 +51,27 @@ Yuka finds a shell with a small natural hole. She passes it to Ori, who threads 
 
 Mau carries the rejected candidates in an open palm until the girl has made her decision. He is required to show each one twice. By the third comparison Yuka has begun inventing reasons to choose the one Ori has just put down, and Ori has to explain the whole system to her.
 
-“That one's too pointy.”
+“That one's too pointy.” ᴼ
 
-“It could be useful.”
+“It could be useful.” ʸ
 
-“It's for Chloe.”
+“It's for Chloe.” ᴼ
 
-“Chloe might need a pointy shell.”
+“Chloe might need a pointy shell.” ʸ
 
 Ori gives her a long look, very like Frieren's when someone has hidden the important part of an explanation.
 
-“It's a present.”
+“It's a present.” ᴼ
 
 Yuka nods gravely.
 
-“Then this one.”
+“Then this one.” ʸ
 
 It is the one Ori has been holding all along.
 
 Mau puts the others back where they found them. Ori keeps the smallest smooth one and asks if she can have a separate cloth for it so the two won't knock together. He buys a cheap square from the shop, takes it from his inventory and gives it to her.
 
-“A very important package,” he says.
+“A very important package,” he says. ᴹ
 
 She places the shell in the middle and folds all four corners over it.
 
@@ -85,31 +85,31 @@ He listens with one eye half closed. She shows him the shell. He takes care not 
 
 Yuka stands beside Mau, watching.
 
-“She tells him everything.”
+“She tells him everything.” ʸ
 
-“He keeps it to himself.”
+“He keeps it to himself.” ᴹ
 
-“You could learn.”
+“You could learn.” ʸ
 
 He turns toward her.
 
-“What have I told?”
+“What have I told?” ᴹ
 
-“You told Mai I wanted the other dress.”
+“You told Mai I wanted the other dress.” ʸ
 
-“You wanted the other dress.”
+“You wanted the other dress.” ᴹ
 
-“I was deciding.”
+“I was deciding.” ʸ
 
-“You were looking back at it every time we passed the stall.”
+“You were looking back at it every time we passed the stall.” ᴹ
 
 She leans her forehead against his shoulder, offended by how accurately he remembers. He puts an arm around her and lets her stay there until Ori calls them over.
 
 Lantern has allowed the girl to put her hat against the broadest part of his head. It looks much smaller there.
 
-“Mai made it very strong,” she reports.
+“Mai made it very strong,” she reports. ᴼ
 
-“Mai will be delighted to hear what you're testing it on,” Mau says.
+“Mai will be delighted to hear what you're testing it on,” Mau says. ᴹ
 
 Ori takes the hat back carefully.
 
@@ -121,7 +121,7 @@ Ori wants it far enough from the water to last. Frieren draws a line showing whe
 
 The house acquires a garden. The garden needs a path. Then the path must be wide enough for Lantern, at which point Mau asks if they are building a town.
 
-“Maybe,” Ori says.
+“Maybe,” Ori says. ᴼ
 
 She has sand on her nose. Yuka notices first and brushes it off with her thumb. Ori waits for her to finish, then immediately bends over the wall again.
 
@@ -131,11 +131,11 @@ Something he once described comes back with surprising clarity: a beach, a child
 
 Ori holds out a shell.
 
-“Door.”
+“Door.” ᴼ
 
 He takes it.
 
-“Which way?”
+“Which way?” ᴹ
 
 She shows him. He puts it where she wants, presses a little sand against the sides and waits until she approves.
 
@@ -151,39 +151,39 @@ For a while they watch Ori explain the town to Lantern. The dragon's eye follows
 
 Frieren moves the little bag into the shade.
 
-“She's happy with you,” she says to Yuka.
+“She's happy with you,” she says to Yuka. ᶠ
 
 Yuka looks at Ori, then back.
 
-“I'm happy with her.”
+“I'm happy with her.” ʸ
 
 Frieren nods. She spends a moment smoothing the fold of the bag, though it is already straight.
 
-“You could be her adoptive mother,” she says. “If that's what you both want.”
+“You could be her adoptive mother,” she says. “If that's what you both want.” ᶠ
 
 Yuka goes still.
 
 Frieren looks up a little more quickly.
 
-“I'd still be her mother.”
+“I'd still be her mother.” ᶠ
 
-“Obviously.”
+“Obviously.” ʸ
 
 The answer comes so fast that Frieren blinks.
 
 Yuka turns fully toward her.
 
-“And if you stop being her mother, I'll straighten you out myself. I don't care how many centuries older you are.”
+“And if you stop being her mother, I'll straighten you out myself. I don't care how many centuries older you are.” ʸ
 
 Frieren studies her face. Then the corners of her mouth lift.
 
-“All right.”
+“All right.” ᶠ
 
 Yuka is trying to decide whether she has just threatened an elf on a beach or accepted something far larger than she was prepared to hear. Both seem possible.
 
 Frieren looks toward Ori again.
 
-“We should ask her.”
+“We should ask her.” ᶠ
 
 Yuka follows her gaze. Mau has heard enough from his place beside the cloth to know he should wait. He does. He sets the spare cup down and keeps his hands in his lap while Ori finishes the most important part of the road.
 
@@ -193,65 +193,65 @@ Ori comes over because Yuka says her name.
 
 She has one damp hand and one dry one. Frieren gives her a cloth before she can wipe either on her dress. Ori sits between them, looking from one face to the other.
 
-“Did I do something?”
+“Did I do something?” ᴼ
 
-“No,” Yuka says. “Your mother and I were talking.”
+“No,” Yuka says. “Your mother and I were talking.” ʸ
 
 Ori turns to Frieren.
 
 Frieren lets her finish cleaning her fingers. She knows the girl listens better when she can stop thinking about whether she is allowed to touch things.
 
-“About you and Yuka,” she says. “About how you want to be family.”
+“About you and Yuka,” she says. “About how you want to be family.” ᶠ
 
 Ori looks at Yuka, then at Mau. He stays where she can see him, leaving the answer with her.
 
-“We are,” Ori says.
+“We are,” Ori says. ᴼ
 
-“Yes,” Yuka answers. “And you can tell me what that means to you. You don't have to pick anything because your mother and I were talking about it.”
+“Yes,” Yuka answers. “And you can tell me what that means to you. You don't have to pick anything because your mother and I were talking about it.” ʸ
 
 Ori thinks. She brings her knees up beneath her chin and rests her clean hands around them.
 
-“Dad's your husband.”
+“Dad's your husband.” ᴼ
 
-“He is.”
+“He is.” ʸ
 
-“And Mama is Mama.”
+“And Mama is Mama.” ᴼ
 
 Frieren nods.
 
-“Always.”
+“Always.” ᶠ
 
 Ori watches her for a moment. Then her eyes go back to Yuka.
 
-“Adoptive mother,” she says, trying it out very carefully.
+“Adoptive mother,” she says, trying it out very carefully. ᴼ
 
 Yuka's expression changes. Mau feels his own breath catch and waits to see what Ori will do with the words.
 
 She considers them again.
 
-“Yes. But…”
+“Yes. But…” ᴼ
 
 Frieren waits.
 
-“That's a horrible name.”
+“That's a horrible name.” ᴼ
 
 Mau puts a hand over his mouth.
 
 Ori looks at Yuka with new certainty.
 
-“Better Yuka.”
+“Better Yuka.” ᴼ
 
 Yuka lets out a breath that becomes a laugh halfway through.
 
-“Thank God. At least I'm not stepmother.”
+“Thank God. At least I'm not stepmother.” ʸ
 
 Ori frowns.
 
-“You don't live on steps.”
+“You don't live on steps.” ᴼ
 
 That undoes Mau entirely. He bends forward, laughing, while Yuka reaches for Ori and draws her into her arms.
 
-“Yuka is perfect,” she says against the girl's hair.
+“Yuka is perfect,” she says against the girl's hair. ʸ
 
 Ori hugs her back. She stays long enough to get sand on the front of Yuka's dress, then leans toward Frieren too. Frieren puts an arm around both of them, her hand resting at Ori's back.
 
@@ -265,26 +265,26 @@ Ori spots it, runs over and calls the others to look. Mau comes with the cloth i
 
 The first wave takes the end of the road.
 
-“Oh,” Ori says.
+“Oh,” Ori says. ᴼ
 
-“We can move that part,” Mau offers.
+“We can move that part,” Mau offers. ᴹ
 
 She looks at the water, then the little house.
 
-“No. It's all right. We can build another.”
+“No. It's all right. We can build another.” ᴼ
 
 She takes the shell door before the next wave reaches it and puts it in her mother's hand for safekeeping.
 
 Yuka holds out the hat. Ori puts it on and catches her hand before she can lower it.
 
-“Yuka.”
+“Yuka.” ᴼ
 
-“Yes?”
+“Yes?” ʸ
 
-“Can we get something to eat?”
+“Can we get something to eat?” ᴼ
 
 Yuka looks over at Mau. He is still smiling.
 
-“I've been waiting for someone to ask.”
+“I've been waiting for someone to ask.” ʸ
 
 They go back up the beach together, Lantern following far enough behind that his steps leave their little footprints untouched.

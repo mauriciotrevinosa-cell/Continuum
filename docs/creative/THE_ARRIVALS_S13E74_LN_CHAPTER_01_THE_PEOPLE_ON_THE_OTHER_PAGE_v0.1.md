@@ -5,7 +5,7 @@
 **Volume:** 81
 **Reading order:** 3
 **Source episode:** S13E74
-**Continuity state:** Consent-noticed invitations bring Hinata, Luminous and Testarossa with full-size nonverbal Antonio via existing anchors. Longer unloaded flight verification postpones house departure to B+380. Mau/Yuka/Frieren/Ori advance B+379 on Kaisel; Mau returns via established home anchor for test and shared main-house flight B+380. DIO/Makima inner guests accompany Mau. Mai/Momo request Kamish; passenger harness not yet used. Anko chooses platform after seeing stored Architect construct dragon; its flight/load remains untested.
+**Continuity state:** Consent-noticed invitations bring Hinata, Luminous and Testarossa with full-size nonverbal Antonio via existing anchors. Everyone waits for the longer weighted flight check and will depart together B+379. Four-person beach outing is the first morning after the shared arrival, not an advance trip. Mai/Momo request Kamish; passenger harness not yet used. Anko chooses platform after seeing stored Architect construct dragon; its flight/load remains untested.
 
 *When: B+379, early afternoon.*
 
@@ -141,9 +141,9 @@ She closes her eyes, satisfied.
 
 * * *
 
-The revised departure is decided over the cleared lunch table.
+The departure waits for the longer test.
 
-The platform passed its short test. It still has to pass the longer one before anyone brings their family aboard. Senku has made his opinion on skipping that stage sufficiently clear that even Gojo is no longer pretending to disagree.
+The platform passed its short flight. Senku still wants the full circuit over empty land before anyone brings their family aboard. Nobody argues once Mai lays the marked fastening from the failed version on the lunch table.
 
 “Take the time,” Shoko says.
 
@@ -171,23 +171,23 @@ He smiles under the blindfold.
 
 Shoko puts her own sheet away.
 
-“The rooms will be there tomorrow too. You four can go ahead, if Frieren still wants her early morning by the water. The rest of us will follow after the checks.”
+“We leave when it's ready. Together.”
 
-Frieren looks up from the book she has been reading while the others talk.
+Frieren looks up from her book.
 
-“Ori wanted to see what comes in with the tide.”
+“Then we can have the early tide tomorrow.”
 
-Ori nods very hard. Then she looks at the platform.
+Ori turns toward her.
 
-“But I wanted to ride with everyone.”
+“All of us?”
 
-“We'll meet them when they come,” Mau says. “I have to bring this one across anyway. I'll go back for the last test and come with them.”
+“You, me, Mau and Yuka. Before the others decide what they want to do.”
 
-“You'll come back?”
+Ori looks at Yuka, who nods.
 
-“Tomorrow afternoon. We can have the morning together before that.”
+“I want to see what you find.”
 
-Ori thinks about it. Chloe leans close enough to say something into her ear. Ori's expression changes at once.
+Chloe leans close enough to say something into Ori's ear. Ori's expression changes at once.
 
 “I'll find you a shell.”
 
@@ -195,7 +195,7 @@ Ori thinks about it. Chloe leans close enough to say something into her ear. Ori
 
 “A good one.”
 
-Mau sends the change to Elmesia through the arrangements already made for the visit. Her answer comes while he is putting the afternoon test materials away: the room is ready, the smaller neighbouring one can take Frieren and Ori tonight, and she would like them to leave her some dinner if they beat her to it.
+Mau sends their expected arrival window to Elmesia through the arrangements already made. Her answer reaches him while he is putting the test materials away: the rooms are ready for everyone, and she would like them to leave her some dinner if they beat her to it.
 
 He reads the last part aloud. DIO asks what she was planning to order.
 
@@ -203,7 +203,7 @@ He reads the last part aloud. DIO asks what she was planning to order.
 
 Mai and Momo find him beside the shikigami.
 
-“Tomorrow,” Mai says, “could we go on Kamish?”
+“For the flight,” Mai says, “could we go on Kamish?”
 
 Momo's hand is in hers. Mau glances down, then back at their faces. Momo draws herself a little straighter on her broom.
 

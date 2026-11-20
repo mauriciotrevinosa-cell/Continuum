@@ -343,3 +343,6 @@ Mauri siente que se repiten la puerta, la mano libre y la explicación de que Ma
 ## Production authorized — 20 November 2026
 
 The creator has now authorized the full departure-to-Hamster-Revolution arc. Earlier withholding-production labels above are historical and superseded for the approved arc. See S13_ISLAND_III_AUTHORIZED_ARC_2026-11-20.md for consolidated latest directions, including Yoru/Asa, full Trial memory with recovery, subsequent invitation of Makima to a day with the couple, staggered returns, Ori's chosen parental naming and the full Fort castle siege. V81 is in production; only indexed chapters are written.
+
+
+**Same-day creator correction, 20 November:** EVERYONE departs and arrives TOGETHER. The advance-four version briefly drafted in V81#3–4 has been replaced throughout the affected prose, index and kit. Mau/Yuka/Frieren/Ori have their beach morning after this shared arrival; no split travel, no next-day return to collect the house.

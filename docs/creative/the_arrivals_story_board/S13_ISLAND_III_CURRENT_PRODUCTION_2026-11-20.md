@@ -94,3 +94,6 @@ Full review revision checkpoint d54007b0 was pushed. Subsequently completed V82#
 Added V81#32 The Harbour Beyond the Point (S13E87 CH03), B392 parallel afternoon date after filter scene in reading order: fulfills Mai/Momo invitation and earlier postponed Kamish flight. Mau checks Mai harness, Momo chooses asking Mai herself, Kamish transports and waits beyond harbour. No sudden relationship label or shared-room retcon. V81 now34 chapters; V82 now29, total63. Source IDs stable; earlier partial-filter reference is now V81#31. Review added eight chapters in total (arrival, private date, six castle chapters). Earliest substantive reread point remains V81#2 You Did Not Ask, URL s13e73-ln-chapter-02. All original55 read before revision; bounded regression checked revision dependencies and eight additions. Do not claim S13 itself ended.
 
 Reader was restarted hidden and new arrival URL returned HTTP200. Final source synchronization and scoped Git push pending below.
+
+
+Published and pushed: full review d54007b0; completed arc/date/polish dba27daf. Reader verified HTTP200 with revised Ori scene at start, flight links new arrival, and full final chapter text. Earliest reread V81#2, source s13e73-ln-chapter-02. V81=34 chapters, V82=29, total63. All62 other chapter files and new additions indexed; no claim of full S13 completion.

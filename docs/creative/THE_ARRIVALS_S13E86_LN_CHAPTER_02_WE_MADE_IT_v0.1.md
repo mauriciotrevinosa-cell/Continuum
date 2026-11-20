@@ -223,4 +223,20 @@ She laughs softly.
 
 “So did I.” ᴹ
 
-She bumps her shoulder into his arm and stays close as they turn toward their room. Behind them the outdoor kitchen is still bright, full of people putting things away and finishing stories that began over the bowls.
+She bumps her shoulder into his arm. He stops at the turn, drawing her around to face him, and brushes his thumb across the little crease between her eyebrows.
+
+“What?” she asks. ʸ
+
+“I liked dinner.” ᴹ
+
+“You said.” ʸ
+
+“I'm saying it again.” ᴹ
+
+He kisses her before she can tell him she heard the first time. Her hand settles against his chest, then slides up to his shoulder as she returns it. When they part, she stays close enough to touch his nose with hers.
+
+“We can make it again,” she says. ʸ
+
+“I'd like that.” ᴹ
+
+She kisses him once more, briefly, and pulls him toward their room. Behind them the outdoor kitchen is still bright, full of people putting things away and finishing stories that began over the bowls.

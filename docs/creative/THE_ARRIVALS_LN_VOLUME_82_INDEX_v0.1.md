@@ -3,8 +3,8 @@
 **Status:** LN PRODUCTION DRAFT — in production; only indexed chapters are written.
 **Volume:** 82
 **Season:** 13
-**Coverage:** S13E89–S13E96; Island III, ongoing
-**Chapter files:** 15
+**Coverage:** S13E89–S13E98; Island III, ongoing
+**Chapter files:** 20
 
 The arc remains open; counts are not quotas.
 
@@ -27,3 +27,8 @@ The arc remains open; counts are not quotas.
 | 13 | S13E95 | The Room They Left | `THE_ARRIVALS_S13E95_LN_CHAPTER_01_THE_ROOM_THEY_LEFT_v0.1.md` |
 | 14 | S13E95 | The Day He Has | `THE_ARRIVALS_S13E95_LN_CHAPTER_02_THE_DAY_HE_HAS_v0.1.md` |
 | 15 | S13E96 | Not Without Me | `THE_ARRIVALS_S13E96_LN_CHAPTER_01_NOT_WITHOUT_ME_v0.1.md` |
+| 16 | S13E96 | Tomorrow With Us | `THE_ARRIVALS_S13E96_LN_CHAPTER_02_TOMORROW_WITH_US_v0.1.md` |
+| 17 | S13E97 | The Man in the Book | `THE_ARRIVALS_S13E97_LN_CHAPTER_01_THE_MAN_IN_THE_BOOK_v0.1.md` |
+| 18 | S13E97 | For a Little While | `THE_ARRIVALS_S13E97_LN_CHAPTER_02_FOR_A_LITTLE_WHILE_v0.1.md` |
+| 19 | S13E98 | After Lunch | `THE_ARRIVALS_S13E98_LN_CHAPTER_01_AFTER_LUNCH_v0.1.md` |
+| 20 | S13E98 | Tomorrow | `THE_ARRIVALS_S13E98_LN_CHAPTER_02_TOMORROW_v0.1.md` |

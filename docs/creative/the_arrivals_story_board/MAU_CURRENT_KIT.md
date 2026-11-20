@@ -292,3 +292,7 @@ These present-day clarifications supersede older current-state summaries, not th
 ## Island III partial filtering repair — V81#30 / B+392
 
 Ciel and Noise restore a limited, supervised part of Mini Ciel's damaged filtering function. Brief selected-channel tests permit a little more unblindfolded use, followed by rest and Shoko's check. This improves moderation of incoming information; it does not restore full capacity, cure the old visual blur/grey sight or major eye/finger/body scars, change reserves, or eliminate physical processing limits. The cloth remains available and appropriate. Infinite Blackheart mana and virtually zero CE spending remain unchanged.
+
+## Objeto personal, no mejora de combate — V82#20 / B+401
+
+Tras delegación explícita del creador para la sorpresa, Elmesia regala a Mau y Yuka un velero pequeño ordinario restaurado, Tomorrow, nombre escogido por Yuka y aceptado por Mau. Puede quedar mantenido en el embarcadero de la isla o transportarse en inventario cuando esté vacío y asegurado. No es técnica, invocación, añadido a la legión ni artefacto mágico. Primeros ejercicios bajo supervisión: ambos aún necesitan práctica y no dominan navegación independiente. DIO y Makima regresan al interior antes de zarpar durante la lección y solo salen al volver a atracar.

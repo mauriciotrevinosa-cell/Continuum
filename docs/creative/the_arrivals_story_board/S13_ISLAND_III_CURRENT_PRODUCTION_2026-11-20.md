@@ -56,3 +56,13 @@ NEXT: after rest, Yuka invites Makima to spend a day WITH couple in thanks. Mult
 ## Creator steering during V82 production
 
 Elmesia personal gift: creator answered "surprise me"; concrete choice now delegated. Do not keep asking. Gift should be personal, not duplicate existing free-stay pass. Kamish SPEAKS (existing markᴷ, source S13E64CH01). Ordinary sentries/nonverbal soldiers restrictions never apply to him. V81#3–4 corrected direct replies where previously only nodded. Castle siege needs full verbal Kamish participation, rules arguments and pretending not to see tunnel.
+
+Creator also requested more actual Mau/Yuka kisses, not only hand/temple/cheek contact. V81#9,#23,#25,#28 expanded with reciprocal mouth kisses in their existing scenes. This does not end the agreed sexual pause. Preserve spontaneous kisses and Mau as initiator too, no requirement that every affectionate moment becomes sex.
+
+## V82#16–20 and paid gift
+
+B399 #16 invitation by Yuka in market; Makima first-friend anticipation. B400 #17–19 whole three-person day: breakfast, ordinary boat/cove picnic, reading, beach walk, laughter; Makima asks hold Mau hand, temporary Yuka and Mau consent; voluntary Yuka arm touch scares Makima about restriction, she clarifies this one contact allowed, no blanket waiver. Yuka admits gratitude plus hurt, Makima says access came only from intertwining not knowing more than wife. Mau heard Yuka even when unable to answer. Return couple kiss/talk, Yuka liked her today without forgiveness mandate.
+
+Gift choice delegated by creator "surprise me". #20 B401 Elmesia gives couple an ordinary refurbished small sailboat, named Tomorrow by Yuka with Mau agreement. It was chosen before arrival and needed work, explains delayed delivery. Safe small cabin/bench, mundane fittings and fruit bowl DIO contribution. No magic, no army addition, political obligation or ability. May remain maintained at island landing or go with inventory. Both learn basics under boatman supervision close to shore; NOT competent independent sailors yet. DIO/Makima go inside before casting off, outside again only when boat secured. Existing bounded guest body rules remain.
+
+Next B402 final private day/lesson/packing, B403 return with boat inventory and DIO/Makima. Elmesia/Testarossa ordinary destinations acknowledged, no new automatic Fort members. Couple discover Ori withheld request, full conversation with Frieren, apology without impossible availability vow. Whole Fort castle siege still required, Kamish talks (ᴷ), matching explorer Beru outfit bribe still pending.

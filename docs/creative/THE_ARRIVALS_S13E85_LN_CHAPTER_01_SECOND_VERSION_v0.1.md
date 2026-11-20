@@ -265,4 +265,12 @@ Yuka brushes sand from his new shirt and finds that she has put more on it than 
 
 They both start laughing.
 
+Mau catches her hands before she can try to improve the shirt again. She looks up, still laughing, and he kisses her with the kite line looped loosely around his wrist. Her fingers close over his. When he draws back, she follows him for another kiss, rising onto her toes until he bends farther to meet her.
+
+“Your shirt is still dirty,” she tells him. ʸ
+
+“It has suffered enough.” ᴹ
+
+She leaves it alone and stays beneath his arm while they finish putting the things away.
+
 Behind them, Milim is already asking whether the larger sticks are still available for tomorrow.

@@ -245,6 +245,14 @@ She moves her head so she can see his face.
 
 Her smile comes slowly, then stays.
 
+He watches it for a moment before drawing her closer. Yuka shifts over him, one hand settling beside his head, and meets him halfway. The kiss lasts long enough that she has to move her elbow to keep from losing her balance. He laughs against her mouth and holds her more securely.
+
+“You distracted me,” she says when she can look at him again. ʸ
+
+“From what?” ᴹ
+
+She considers, then bends to kiss him once more instead of answering.
+
 “I like that answer.” ʸ
 
 “I thought you might.” ᴹ

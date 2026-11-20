@@ -203,7 +203,15 @@ Yuka puts her arms around him from behind while he gets the packets stored.
 
 “You did.” ʸ
 
-She lets him turn within the embrace, then keeps hold of his hand as they go to join the others.
+She lets him turn within the embrace, but catches his collar before he can take her hand and start walking. He looks down at her fingers, then at her face.
+
+“Another reward?” he asks. ᴹ
+
+“For helping clean up.” ʸ
+
+She pulls him down to kiss him. He has time to put his arm around her before she lets him go, and when she begins to turn toward the path he brings her back for one of his own. She is smiling too much to make it easy.
+
+They have only just separated when Umaru looks back. Yuka keeps hold of his hand and starts walking with perfect composure; Mau needs another moment to stop laughing.
 
 At the end of the path, Umaru looks back at them.
 

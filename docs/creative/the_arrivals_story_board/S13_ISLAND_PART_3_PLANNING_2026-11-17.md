@@ -339,3 +339,7 @@ Since V80 #6, Mau and Yuka are on pause (no intimate scenes) after the bathroom 
 ### Observación de ritmo del creador
 
 Mauri siente que se repiten la puerta, la mano libre y la explicación de que Mau puede descansar después de que la escena ya lo dejó claro. Durante la isla, desarrollar nuevas acciones, conversación, humor y tiempo compartido cuando la escena los pida. La longitud sale de la experiencia que están viviendo; evitar volver a declarar el mismo avance para alcanzar una cifra de palabras.
+
+## Production authorized — 20 November 2026
+
+The creator has now authorized the full departure-to-Hamster-Revolution arc. Earlier withholding-production labels above are historical and superseded for the approved arc. See S13_ISLAND_III_AUTHORIZED_ARC_2026-11-20.md for consolidated latest directions, including Yoru/Asa, full Trial memory with recovery, subsequent invitation of Makima to a day with the couple, staggered returns, Ori's chosen parental naming and the full Fort castle siege. V81 is in production; only indexed chapters are written.

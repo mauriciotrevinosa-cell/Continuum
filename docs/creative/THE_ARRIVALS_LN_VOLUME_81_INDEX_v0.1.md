@@ -3,8 +3,8 @@
 **Status:** LN PRODUCTION DRAFT — in production; only indexed chapters are written.
 **Volume:** 81
 **Season:** 13
-**Coverage:** S13E73–S13E78; B+379–B+382, Island III, ongoing
-**Chapter files:** 11
+**Coverage:** S13E73–S13E80; Island III, ongoing
+**Chapter files:** 16
 
 The arc remains open; counts are not quotas.
 
@@ -23,3 +23,8 @@ The arc remains open; counts are not quotas.
 | 9 | S13E77 | Today's Plan | `THE_ARRIVALS_S13E77_LN_CHAPTER_01_TODAYS_PLAN_v0.1.md` |
 | 10 | S13E77 | The Plain One | `THE_ARRIVALS_S13E77_LN_CHAPTER_02_THE_PLAIN_ONE_v0.1.md` |
 | 11 | S13E78 | Six Minutes | `THE_ARRIVALS_S13E78_LN_CHAPTER_01_SIX_MINUTES_v0.1.md` |
+| 12 | S13E78 | The Unhappy Face | `THE_ARRIVALS_S13E78_LN_CHAPTER_02_THE_UNHAPPY_FACE_v0.1.md` |
+| 13 | S13E79 | Things You Did Not Hear | `THE_ARRIVALS_S13E79_LN_CHAPTER_01_THINGS_YOU_DID_NOT_HEAR_v0.1.md` |
+| 14 | S13E79 | Out Loud | `THE_ARRIVALS_S13E79_LN_CHAPTER_02_OUT_LOUD_v0.1.md` |
+| 15 | S13E80 | The Boat with Lunch | `THE_ARRIVALS_S13E80_LN_CHAPTER_01_THE_BOAT_WITH_LUNCH_v0.1.md` |
+| 16 | S13E80 | Enough Chairs | `THE_ARRIVALS_S13E80_LN_CHAPTER_02_ENOUGH_CHAIRS_v0.1.md` |

@@ -99,7 +99,7 @@ Gojo puts his coffee behind Shoko's shoulder. She moves it away from his hand be
 
 “On the table,” she says. ˢʰ
 
-* * *
+---
 
 Mau goes to the field with Yuka, Mai and Yuta. Maki follows after telling Ori to stay by the path. Ori goes to the path and stands at its very edge, where Chloe joins her. They both move their toes back when Maki looks over.
 
@@ -175,7 +175,7 @@ She puts her hand down, follows the slope with her eyes and looks back toward th
 
 “Get Senku.” ᴹᵃ
 
-* * *
+---
 
 Byakuya brings chalk. Senku brings a string, a short length of wood and the expression he wears when someone has presented him with an exceptionally expensive mistake.
 

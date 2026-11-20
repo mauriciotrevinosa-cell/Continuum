@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 32 — The Way Back
+## Chapter 33 — The Way Back
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 32
+**Reading order:** 33
 **Source episode:** S13E88
 **Continuity state:** Main household returns together on checked new shikigami, following earlier smaller departures. Mau pilots, delivers labelled luggage and receives Bellion report/orders; no shadow veto. Frieren/Ori/Chloe home, silent unasked-stay feeling unresolved for later couple return. Mau uses confirmed island anchor after notice to return for dinner with Yuka/Elmesia/Testarossa; DIO/Makima travel within him. Volume ends here, entire island-to-castle arc NOT finished.
 
@@ -39,7 +39,7 @@ He kisses her cheek. She catches his shirt and keeps him close long enough to ki
 
 “I remember.” ᴹ
 
-* * *
+---
 
 Mai has finished her inspection.
 
@@ -59,7 +59,7 @@ She greets each group without making the whole landing wait for one conversation
 
 “There is if you keep asking,” she tells him. ˢʰ
 
-* * *
+---
 
 Yuka stays by the lower step until Mau has checked the last strap.
 
@@ -81,7 +81,7 @@ She lets go, takes Frieren's hand and climbs back aboard.
 
 Mau has watched the hug from the top of the steps, smiling. When Yuka looks up, he lifts a hand. She returns the little gesture and goes to stand with Elmesia and Testarossa while the platform rises.
 
-* * *
+---
 
 The flight home is full of the things people did not finish telling each other on the island.
 
@@ -97,7 +97,7 @@ Frieren sits a little behind him with Ori asleep against her side.
 
 Chloe watches the sea until it becomes land, then leans close to tell Ori. The girl wakes, looks and stays awake for the last part.
 
-* * *
+---
 
 Home is warm with the afternoon by the time they arrive.
 
@@ -107,7 +107,7 @@ Shuna is already on the path. Shion follows with something covered that smells a
 
 Mau hears several people remember how hungry they are.
 
-He gets the cases out by their labels, one household at a time. The soldiers carry what they are directed to carry and leave the private doors for the people who live behind them. Nobody has to ask permission from their own guard to come home.
+He gets the cases out by their labels, one household at a time. The soldiers carry what they are directed to carry and leave the private doors for the people who live behind them. Bellion directs the next pair of soldiers toward the cases Yuta has already set aside.
 
 Yuta takes the larger case for Maki. She lets him, choosing the one with the fragile things herself. Hae-In takes Suho's parcel before he can set it beneath another bag. Jin-Woo has already thanked Bellion and started listening to the answer about the courtyard.
 
@@ -125,7 +125,7 @@ She checks the corners, then smiles up at him.
 
 She carries it to Chloe, who opens it with both of them watching.
 
-* * *
+---
 
 Mau has something to eat before leaving again.
 
@@ -165,7 +165,7 @@ Testarossa's acknowledgment comes back promptly.
 
 He goes when the route is ready.
 
-* * *
+---
 
 Yuka is waiting in the shade beside the agreed anchor.
 

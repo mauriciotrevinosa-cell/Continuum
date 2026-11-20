@@ -7,7 +7,7 @@
 **Source episode:** S13E89
 **Continuity state:** Remaining island company spends the evening together; DIO and Elmesia explore their interest without relabeling other bonds.
 
-*When: B+395, evening; continuous after the lookout walk.*
+*When: B+395, evening; continuous after the promenade fish trail.*
 
 By the time they find the others, Elmesia has won two games and DIO is arguing about the rules of the third.
 
@@ -45,7 +45,7 @@ Makima sits a little farther along the terrace, where the light falls across the
 
 Yuka puts her hand over his mouth.
 
-“We went to the lookout.” ʸ
+“We went looking for the carved fish.” ʸ
 
 He waits until she removes it.
 

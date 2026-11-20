@@ -59,7 +59,7 @@ Maki's letter asks how they are, tells Yuka which things have been put away and 
 
 “He hasn't asked when,” Yuka says. ʸ
 
-“He asked me yesterday.” ᴹ
+“He asked me when I brought everyone home.” ᴹ
 
 “What did you tell him?” ʸ
 
@@ -155,7 +155,7 @@ She studies the little sketch he has made.
 
 “Then leave it.” ʸ
 
-He does, and puts the completed instructions away. No soldier is asked to judge whether he deserves to go back to his holiday.
+He does, and puts the completed instructions away. Bellion acknowledges the completed instructions. Mau puts the pen down and turns back to Yuka.
 
 Yuka takes the pen to finish the address on the last envelope.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 10 — The Plain One
+## Chapter 11 — The Plain One
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 10
+**Reading order:** 11
 **Source episode:** S13E77
 **Continuity state:** DIO/Elmesia/Testarossa/Makima outing within agreed near-Mau range; no unlimited roaming or mind surveillance. Makima experiences choosing and accompanying first friend without goal, competent and obsessive. DIO natural affinity with Elmesia grows, not declared replacement for Noise. Dinner joins couple; Makima privately re-evaluates Pochita relative to Mau surviving erasure. This perception creates no new universal immunity. Pause intact.
 
@@ -39,7 +39,7 @@ Elmesia's smile appears before she can help it.
 
 “Then we'll ask carefully.” ᴱˡ
 
-* * *
+---
 
 Makima follows the conversation without taking part.
 
@@ -63,7 +63,7 @@ Testarossa laughs softly.
 
 Makima takes the seat she is offered.
 
-* * *
+---
 
 They are allowed to choose the finish.
 
@@ -97,7 +97,7 @@ Makima touches both.
 
 The woman takes away the other. Nothing further is required.
 
-* * *
+---
 
 Outside, they stop where DIO can sit within the distance she has arranged with Mau.
 
@@ -125,7 +125,7 @@ Elmesia listens with the glass resting between her palms. When she smiles, DIO s
 
 There are a surprising number of them.
 
-* * *
+---
 
 Testarossa goes back inside to ask about having a shallow tray wrapped for travel. Antonio follows her, paying careful attention to the shelf he nearly touched on the way in.
 
@@ -157,7 +157,7 @@ Makima considers the question. The answer takes longer than she expects.
 
 Elmesia nods, as if that is sufficient.
 
-* * *
+---
 
 They find Mau and Yuka at dinner later, still in the quiet corner they chose in the morning.
 
@@ -199,7 +199,7 @@ She feels herself smile and keeps her voice level when she answers.
 
 “When it's finished.” ᴹᵏ
 
-* * *
+---
 
 The conversation turns to the things they didn't do.
 

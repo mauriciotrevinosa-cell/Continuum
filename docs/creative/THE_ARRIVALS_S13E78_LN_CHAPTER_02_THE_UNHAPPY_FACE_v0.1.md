@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 12 — The Unhappy Face
+## Chapter 13 — The Unhappy Face
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 12
+**Reading order:** 13
 **Source episode:** S13E78
 **Continuity state:** Couple follow Anko map on optional walk, playful mistake at closed gate and own choice lunch/shop. World outsider recognizes Mau without new attack; Yuka keeps ordinary conversation. Island pass covers participating vendors. Inventory for bulk, shop not free. Shirt chosen for comfort across established scar. Physical strain distinct from unlimited reserves. All quoted dialogue has superscript marks.
 
@@ -35,7 +35,7 @@ He offers his hand.
 
 She takes it and begins walking before he can offer the other service.
 
-* * *
+---
 
 They reach the first landing under their own power.
 
@@ -57,7 +57,7 @@ She presses his hand against the small of her back and resumes climbing.
 
 “Record this.” ʸ
 
-* * *
+---
 
 At the third landing a woman is opening a stall.
 
@@ -101,7 +101,7 @@ At the next turn Yuka puts her hand back in his.
 
 He nods. They keep walking.
 
-* * *
+---
 
 The wrong turn is Mau's fault.
 
@@ -133,7 +133,7 @@ Yuka rests her head against his shoulder.
 
 They sit in the little patch of shade long enough to drink the rest of the water in the first bottle. Mau brings the spare out of his inventory when she holds up the empty one. She takes it, unscrews the cap and passes him the first drink.
 
-* * *
+---
 
 They find the correct turn without further interpretation.
 
@@ -167,7 +167,7 @@ She turns toward him, catches the front of his shirt and draws him down until sh
 
 She stays with both hands on his shirt for a moment after she says it. He puts his hands at her waist and lets her keep him there.
 
-* * *
+---
 
 They go down by a different route.
 
@@ -185,7 +185,7 @@ She pushes her plate into the middle before taking anything from his. He tries w
 
 The owner, passing with a jug, looks politely away.
 
-* * *
+---
 
 They are full enough after lunch that the shop with the clothes becomes a place to look rather than an urgent destination.
 
@@ -213,7 +213,7 @@ He stays in the shirt while they choose the rest. She finds something for hersel
 
 Outside, he stores the wrapped parcel in the inventory. She keeps the little packet of leaves in her hand because she likes its smell.
 
-* * *
+---
 
 On the way back, Yuka starts looking at the stairs with less enthusiasm.
 

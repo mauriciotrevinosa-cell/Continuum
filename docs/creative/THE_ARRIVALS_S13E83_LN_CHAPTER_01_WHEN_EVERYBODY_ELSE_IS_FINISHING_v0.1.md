@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 21 — When Everybody Else Is Finishing
+## Chapter 22 — When Everybody Else Is Finishing
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 21
+**Reading order:** 22
 **Source episode:** S13E83
 **Continuity state:** Nazuna chooses return because daylight confinement limits own holiday, still genuinely enjoyed nights. Ko chooses accompany; Anko absence acknowledged without erasing their bond. Existing consented home route and known acknowledgment, no new vampire cure or power claim. Mau/Yuka share night walk and friendship, no separation. All characters who stay continue holiday.
 
@@ -37,7 +37,7 @@ Nazuna looks at the pier.
 
 She appears to consider this the first sensible plan anyone has offered all day.
 
-* * *
+---
 
 The pier is mostly quiet.
 
@@ -71,7 +71,7 @@ She says it lightly, but Mau hears the irritation underneath. He rests his forea
 
 Yuka stays at his side. Her hand slips into the back of his shirt, settling there while she looks down at the water.
 
-* * *
+---
 
 Nazuna tells them what she has liked.
 
@@ -115,7 +115,7 @@ Nazuna looks at her.
 
 Mau starts laughing. After a moment Ko does too.
 
-* * *
+---
 
 They walk beyond the pier to the little stretch of sand open at night.
 
@@ -139,7 +139,7 @@ Mau asks Ko whether he intends to return with her. Ko looks at Nazuna, who has s
 
 Nazuna's foot bumps lightly against Ko's ankle. He leaves his where it is.
 
-* * *
+---
 
 Yuka begins yawning after they have found their way back from the end of the beach.
 
@@ -171,7 +171,7 @@ Nazuna looks away toward the pier for a moment.
 
 She lets the sentence remain as it is. Ko gets up beside her, and they walk the first part of the path together before dividing at the rooms.
 
-* * *
+---
 
 They leave the following evening, after Nazuna has slept through one last sunny day.
 
@@ -191,7 +191,7 @@ Nazuna looks at the path, the hotel and the little opening between the buildings
 
 “We'll try.” ᴹ
 
-She goes through with Ko after the route is confirmed.
+Mau takes Nazuna and Ko home together after confirming the destination. The soldier exchanged to the island waits with Yuka until he returns after the interval, carrying Nazuna's last message to Anko and a complaint about how bright home still is.
 
 When the acknowledgment comes back, Mau turns toward Yuka. She holds out a hand and points toward the water with the other.
 

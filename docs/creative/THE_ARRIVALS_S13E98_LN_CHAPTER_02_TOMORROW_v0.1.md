@@ -21,7 +21,7 @@ Yuka looks at him.
 
 “You're very defensive.” ʸ
 
-“I've had a difficult week with stairs.” ᴹ
+“I can object to the architecture on your behalf. Is that helpful?” ᴹ
 
 Makima closes the book they have been reading. They have finally reached the woman's answer to the third letter, and Yuka has declared it satisfactory enough to leave the next chapter until tomorrow.
 

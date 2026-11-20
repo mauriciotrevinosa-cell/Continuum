@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 22 — The Second Invitation
+## Chapter 23 — The Second Invitation
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 22
+**Reading order:** 23
 **Source episode:** S13E83
 **Continuity state:** Second consensual DIO/Ciel/Noise date repeats only established temporary manifestation inside bounded Mau shelter with chosen terrace view, not new independent exterior body. Noise can stop and returns fully, asks chairs closer himself; existing love respected. Outside couple and Elmesia eat, DIO independently anticipates more time with Elmesia without final romance label. No automatic access to private date or couple thoughts.
 
-*When: B+387, afternoon; overlaps the hours before Nazuna returns home.*
+*When: B+387, afternoon; earlier that day, before Nazuna leaves for home.*
 
 Noise asks whether the chairs have to be where they were last time.
 
@@ -33,9 +33,9 @@ Noise reaches for her hand. Then Ciel's.
 
 Neither of them asks another question for a while.
 
-* * *
+---
 
-Outside, Yuka is choosing between two things on the menu with the concentration she usually gives a much more urgent problem.
+Outside, Yuka is choosing between mushroom noodles and a hot crab roll on the menu with the concentration she usually gives a much more urgent problem.
 
 Mau has been told that he cannot solve it by ordering both because that is how they got into this situation at lunch. Elmesia listens to the debate while the shade moves across the far edge of the table.
 
@@ -57,7 +57,7 @@ She puts his hand back on the table, keeps hers over it and chooses the first di
 
 Mau feels Noise settle into the private conversation inside and leaves it there.
 
-* * *
+---
 
 Elmesia has brought the finished drawing back from the workshop.
 
@@ -77,7 +77,7 @@ Yuka reaches across to see the leaf.
 
 She smiles while saying it. Mau notices, and keeps the observation to himself.
 
-* * *
+---
 
 DIO tells Noise about the drawing when Ciel asks what she has enjoyed most since arriving.
 
@@ -103,9 +103,71 @@ When she finishes, it asks to see the drawing later.
 
 DIO agrees before remembering that Elmesia has it. She will need to ask for it back, and then she will need a reason to show Elmesia that Noise saw it too. The thought of the second conversation arrives with its own small pleasure.
 
-She sits with that for a moment while Ciel begins telling them what she wants to do with the rest of the afternoon.
+She sits with that for a moment while Ciel lets go of Noise's hand to move the little table.
 
-* * *
+“I want to try something without it between us,” Ciel says. ᶜ
+
+DIO watches her clear a space within the boundary they have chosen. Noise stays seated until Ciel holds out her hand.
+
+“Dancing?” DIO asks. ᴰ
+
+“A little. If he wants to.” ᶜ
+
+Noise looks at the offered hand, then at DIO.
+
+“Both?” ᴺ
+
+“We'll take turns,” DIO says. “I don't know how three would work.” ᴰ
+
+“We can find out afterward,” Ciel replies. ᶜ
+
+That answer makes DIO look at her more closely. Ciel smiles before she can ask what has happened to the person who usually provides the correct arrangement before anybody trips over it.
+
+“I'd like an afternoon where I don't know the result already.” ᶜ
+
+Noise stands. The temporary body's balance is still a thing it attends to deliberately; Ciel waits until it has found where to put its feet before moving her own.
+
+“Here,” she says, placing its hand at her side. “Tell me if you want to stop.” ᶜ
+
+“Music?” ᴺ
+
+DIO supplies the four notes she remembers from their first date. Ciel answers with the next part of the tune. They disagree on one of the notes, stop to compare it and discover Noise continuing the rhythm by tapping one finger against Ciel's hand.
+
+“Keep,” it says. ᴺ
+
+They do. Ciel takes the first step. Noise follows too carefully and ends up standing where her foot had intended to go.
+
+“I see the difficulty,” she says. ᶜ
+
+Noise looks down.
+
+“No map.” ᴺ
+
+“We could make one,” DIO offers. ᴰ
+
+“Not yet,” Ciel says, laughing. “I want to do this part.” ᶜ
+
+She shifts their hands, asks Noise to watch her shoulders instead and tries the step again. This time it follows the movement rather than calculating where each foot belongs. They turn in the little space together.
+
+DIO forgets to supply the tune. Ciel looks back at her.
+
+“You've abandoned us.” ᶜ
+
+“I was watching.” ᴰ
+
+“So was I,” Noise says. ᴺ
+
+Ciel glances at the way its attention has remained on her face instead of its feet. Her next step is less exact. Noise catches the movement and steadies her with the same hand she placed there.
+
+“Got you.” ᴺ
+
+For a moment she has no answer. DIO sees it and starts the tune again before anybody has to explain.
+
+When it is her turn, Noise offers its hand without waiting for Ciel to put it in the proper place. DIO takes it. They manage one careful turn, lose the rhythm and find it again while Ciel sings the note DIO still insists she has wrong.
+
+They do try all three together. It lasts less than half a circuit before the disagreement over whose foot goes where becomes impossible to distinguish from the laughter.
+
+---
 
 Elmesia wants to hear about the home kitchen.
 
@@ -139,7 +201,7 @@ She sees anyway.
 
 Elmesia looks between them with evident enjoyment.
 
-* * *
+---
 
 Noise brings back the feel of two different hands.
 
@@ -157,7 +219,7 @@ He tells her only the joke they have chosen to share. She laughs, puts her hand 
 
 The answer comes from three directions with very little disagreement.
 
-* * *
+---
 
 DIO comes out to join them after the private space has closed.
 

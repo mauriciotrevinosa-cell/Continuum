@@ -35,9 +35,23 @@ Makima sits with her hands together, saying nothing.
 
 “You could ask her.” ᴹ
 
-“I have.” ʷᵈ
+Yoru turns to her.
 
-“Then you didn't like the answer.” ᴹ
+“What happened to you?” ʷᵈ
+
+Makima keeps her hands together.
+
+“You've seen him protect me. Which part requires explaining?” ᴹᵏ
+
+“The part where you let him decide when you sit down.” ʷᵈ
+
+“I decided to come.” ᴹᵏ
+
+Yoru looks from her to Mau.
+
+“That isn't an answer.” ʷᵈ
+
+“It's the one she gave you,” he says. ᴹ
 
 Yoru smiles.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 31 — Last Things
+## Chapter 32 — Last Things
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 31
+**Reading order:** 32
 **Source episode:** S13E88
 **Continuity state:** Remaining main household chooses shared return B+394; Shoko/Gojo, musicians, pairs and Sung family have ordinary reasons, no exact roster count. Frieren/Ori/Chloe return too. Mau will pilot group then return via verified island anchor to Yuka/Elmesia/Testarossa; DIO/Makima accompany Mau as bound presences, not independently stranded. Ori silently withholds request to stay seeing couple joy, truthful enjoyed holiday; adults unaware, Frieren not negligent. No split initial trip retcon.
 
@@ -31,7 +31,7 @@ Gojo turns toward her.
 
 Yuka laughs and takes the chair beside Mau's. He moves the little dish away from her elbow before she can reach for something farther across the table.
 
-* * *
+---
 
 The reasons emerge over breakfast in the ordinary way of people making plans.
 
@@ -47,7 +47,7 @@ Suho immediately moves it.
 
 Mau smiles and puts the little note beside the returning luggage page.
 
-* * *
+---
 
 Elmesia comes down after finishing the messages she has been answering since dawn.
 
@@ -57,13 +57,13 @@ There is room beside DIO. DIO clears the unused cup from the place before Elmesi
 
 DIO nods and tells her what she has missed at breakfast. The story becomes longer when Elmesia asks which part Gojo is pretending was his idea.
 
-Makima sits near Mau and Yuka, choosing the chair with the view she has begun preferring. She no longer asks whether the bread is meant for her before taking a piece. She does ask Yuka which of the little dishes on the table is the one she liked yesterday.
+Makima sits near Mau and Yuka, choosing the chair with the view she has begun preferring. She has kept the bread beside her own plate rather than moving it to whichever place she thinks Mau might choose. She does ask Yuka which of the little dishes on the table is the one she liked yesterday.
 
 Yuka points it out, then passes it closer.
 
 Mau watches the movement and returns his attention to the conversation before it can become something either woman feels required to explain.
 
-* * *
+---
 
 They agree on the flight after the tables have cleared.
 
@@ -91,7 +91,7 @@ He leans down to kiss her.
 
 She keeps one hand at his collar until he has finished smiling.
 
-* * *
+---
 
 The rest of the day is a collection of last things.
 
@@ -111,7 +111,7 @@ Frieren takes out the shell. Ori studies it, pleased, then returns it to her.
 
 Yuka sits on the low wall while Mau helps Chloe untangle the cord of her bag. Ori goes down to the water and back again without looking for a new town to build. She appears content to know that the part she wanted to keep has survived.
 
-* * *
+---
 
 They eat something small near the beach before returning.
 
@@ -123,7 +123,7 @@ Mau has his hand around Yuka's wrist while she holds a cup. She has begun descri
 
 He draws her hand toward him and kisses the inside of her wrist before letting her have the cup back.
 
-* * *
+---
 
 Ori watches them from Frieren's side.
 
@@ -137,7 +137,7 @@ Frieren touches her shoulder.
 
 Ori nods. She takes her mother's hand and lets the walk begin before the question can become something anybody has to answer.
 
-* * *
+---
 
 That evening the common terrace is full of wrapping.
 

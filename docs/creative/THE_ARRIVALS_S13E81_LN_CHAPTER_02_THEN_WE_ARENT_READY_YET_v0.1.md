@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 18 — Then We Aren't Ready Yet
+## Chapter 19 — Then We Aren't Ready Yet
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 18
+**Reading order:** 19
 **Source episode:** S13E81
 **Continuity state:** Yuka talks to Mai on own terms then independently raises trying for child with Mau. Remembers false alarm hurt, chooses more time. Mau embraces: Then we arent ready yet, sharing decision without dictating her feelings. No repeated are-you-disappointed prompt, no diagnosis, no resumed sex, no pressure/deadline. Affection and chosen family Ori remain their own relationships.
 
@@ -33,7 +33,7 @@ He holds out one hand. She comes to him and takes it, but does not sit down yet.
 
 “I know.” ʸ
 
-* * *
+---
 
 She had spent part of the afternoon with Mai.
 
@@ -75,7 +75,7 @@ Mai nodded slowly.
 
 She said it simply, without giving Yuka a better version of what she should feel. They finished eating. Momo returned from the counter with the drink she forgot to order, and the conversation went somewhere else until Yuka was ready to pick up the purchases again.
 
-* * *
+---
 
 Now Mau's hand is warm around hers.
 
@@ -137,7 +137,7 @@ She nods, then presses her forehead to his.
 
 “And I want a little more time.” ʸ
 
-* * *
+---
 
 He draws her down into his lap when she starts bending her knees.
 
@@ -199,7 +199,7 @@ She studies his face, then moves her hand from his cheek to the back of his neck
 
 She puts her face against him again. This time she does not try to explain the pause before her next breath.
 
-* * *
+---
 
 The tears come slowly enough that she almost thinks they won't.
 
@@ -233,7 +233,7 @@ She looks at his face, then laughs once through the last of the tears.
 
 That gets a real laugh out of her. She hits his shoulder lightly, careful of the place that pulls, and puts her arms back around him.
 
-* * *
+---
 
 They go to bed with the balcony door still open a little.
 

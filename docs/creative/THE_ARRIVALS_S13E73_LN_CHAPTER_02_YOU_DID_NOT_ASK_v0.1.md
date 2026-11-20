@@ -43,7 +43,7 @@ He looks genuinely interested for half a second. She taps his forehead with one 
 
 “Your face. I'm talking about your face.” ʸ
 
-* * *
+---
 
 They test the replacement on the ground first. Byakuya pushes down while Maki pulls the far end sideways. The joint moves within its new housing. Mai makes them do it again, watches it from below and finally calls Mau over.
 
@@ -97,7 +97,7 @@ He takes the board, looks at the finished structure and then at her.
 
 She takes the board back before he can get chalk on his shirt.
 
-* * *
+---
 
 Lunch moves outside because nobody wants to stop looking at the dragon.
 
@@ -123,6 +123,96 @@ Ryo looks at the case at her feet.
 
 Ori gives her a label. Ryo writes on it immediately. Kita crouches beside her to make sure it is a name rather than a price.
 
+Ori stays beside the bags after Kita goes. She peels another label from the sheet, turns it over and sticks it to her thumb instead.
+
+Yuka notices when the child does it a second time.
+
+“Have we missed someone?” ʸ
+
+Ori looks toward Mau. He is on the other side of the platform with Yuta, testing the boarding rail. Her mouth settles into a small, determined line.
+
+“Can I still come to you?” ᴼ
+
+Yuka puts the list down.
+
+“On the trip?” ʸ
+
+Ori nods. She has made it sound like a question about where to put another bag. It takes Yuka a moment to understand why the girl is holding the labels so tightly.
+
+“Because of the rules,” Ori adds. “For your holiday.” ᴼ
+
+Yuka crouches. The enormous brim is not on Ori yet; there is nothing between her and the tears she is trying very hard to keep still.
+
+“Come here.” ʸ
+
+Ori goes into her arms carefully, as though she might still have misunderstood.
+
+“Yes, you can come to us. To me, to Mau. You don't have to wait until we get home.” ʸ
+
+“Even if you're together?” ᴼ
+
+“Even then. If we need a minute, we'll tell you. You don't have to work it out from across the room.” ʸ
+
+Ori presses her face against Yuka's shoulder. Yuka rubs her back, feeling the little breath she has been keeping in.
+
+“Most of those rules are for Gojo,” she adds. ʸ
+
+The child draws back enough to look at her.
+
+“He has his own?” ᴼ
+
+“He keeps earning more.” ʸ
+
+Ori laughs through her nose. Yuka wipes beneath one eye with her thumb before the girl can do it with the label-covered hand.
+
+“Mau and I do want some time together. That doesn't mean we don't want you. We can want both.” ʸ
+
+“Mama too?” ᴼ
+
+“Mama too. I was hoping you three would take me to the water tomorrow. I don't know how to find all the things you find.” ʸ
+
+Ori's hands loosen.
+
+“You have to look in the little pools.” ᴼ
+
+“Then you'll have to show me.” ʸ
+
+“Early. Before people step in them.” ᴼ
+
+“Early,” Yuka agrees. ʸ
+
+Ori hugs her again, much less carefully this time. Then she remembers something urgent about telling Mama and runs across the yard with the labels still on her fingers.
+
+Mau watches her arrive beside Frieren, talking so quickly that her mother has to close the book to listen. He saw the expression she brought to Yuka before he saw the hug. For a moment it had been the same fiercely contained disappointment Frieren wore over the grimoire: determined not to ask for the thing she wanted too much.
+
+He finds Yuka as she gets up.
+
+“What did she ask you?” ᴹ
+
+Yuka puts her palm against his chest, stopping him before he can decide something needs fixing.
+
+“Whether she could still come to us on holiday. I told her yes.” ʸ
+
+His face changes.
+
+“I didn't mean—” ᴹ
+
+“I know. Neither of us did.” ʸ
+
+They look toward Ori together. She has Frieren's hand now and is pulling her toward the fence to demonstrate something which apparently cannot be explained sitting down.
+
+“I told her I want to see the sea with her. And go looking in the pools. Will you come?” ʸ
+
+He looks back at his wife.
+
+“You want to go diving with Ori?” ᴹ
+
+“I want to find out what she thinks diving is first.” ʸ
+
+He laughs. She takes the last label from his sleeve, writes his name on it and presses it back where it was.
+
+“There. Now we won't leave you behind either.” ʸ
+
 Across the yard, Bellion receives the folded arrangement for the house. Fern goes through it with him, pointing to the rooms that remain private. The guard posts already have their instructions; the new sheet records which parts of the domestic work are allowed while people are away. Muster stands at the gate, looking down the road. A pair of ordinary soldiers wait beside the tools for the gardens, empty-handed until Jinshi identifies what needs moving.
 
 DIO arrives with her plant's two pages and finds Ori checking a bag.
@@ -143,7 +233,7 @@ They take the instructions to the sill where the pot will stay. One of the soldi
 
 She stays until the cup is put away in the right place.
 
-* * *
+---
 
 Mau is helping Yuta with the boarding step when Ciel speaks.
 
@@ -229,7 +319,7 @@ He puts it on. The relief is immediate and incomplete: less detail arriving thro
 
 “Good.” ʸ
 
-* * *
+---
 
 Mai disappears into the workshop and returns with two hats.
 

@@ -111,11 +111,11 @@ Their conversation wanders through the things they brought back yesterday. Ori's
 
 “Did you tell her we cooked?” ʸ
 
-“I told her you saved mine.” ᴹ
+“I told her how much dip we made.” ᴹ
 
-“I did not save it.” ʸ
+“We made plenty.” ʸ
 
-“You prevented a very large mistake.” ᴹ
+“The amount was impressive.” ᴹ
 
 “By making a different one.” ʸ
 
@@ -125,77 +125,75 @@ Yuka laughs with her mouth full and has to take the napkin he holds out. He wait
 
 “You still haven't told me what it is.” ʸ
 
-“A path. There was a sign for a lookout.” ᴹ
+“A little trail along the promenade. Five carved fish, and one of them has no tail. There's a sign near the desk.” ᴹ
 
-“You found a sign.” ʸ
+Yuka considers him.
 
-“An important discovery.” ᴹ
+“You're inviting me to find fish made for children.” ʸ
 
-“Did Anko draw it for you?” ʸ
+“I thought we'd practice before Ori examines us.” ᴹ
 
-“Her map doesn't go that far.” ᴹ
+“We take something to drink. And you don't use the eyes to find all five from breakfast.” ʸ
 
-Yuka glances down at her shoes, then moves the hat to the empty chair so that she can finish eating without it catching the edge of the table.
+“I was planning to walk with my wife.” ᴹ
 
-“We take something to drink.” ʸ
-
-“Yes.” ᴹ
-
-“And if it's terrible, you admit it.” ʸ
-
-“I will blame the sign.” ᴹ
+She smiles and takes the last bite of his toast.
 
 ---
 
-The path goes inland before it climbs. That is the first thing the sign failed to mention.
+The first fish is beneath a bench.
 
-The second is that the last stretch has steps.
+Yuka finds it while Mau is studying a very convincing fish-shaped mark on the wall. It has a tail, a disproportionately large eye and a little notch where someone has worn the stone smooth by touching it.
 
-Yuka stops at the bottom of them. Mau looks from her to the worn stone and begins to smile.
+“One,” she says. ʸ
 
-“Don't,” she says. ʸ
+He looks down at it, then at the mark on the wall.
 
-“I haven't said anything.” ᴹ
+“A strong start for the team.” ᴹ
 
-“You're thinking it.” ʸ
+“For me.” ʸ
 
-“You can't prove that.” ᴹ
+“I was providing a comparison.” ᴹ
 
-She starts up before he can offer to carry her again. He follows, holding the hat she has finally conceded is poorly suited to a narrow path with low branches. Halfway up, she holds out her hand without looking back. He takes it, and the remainder of the climb becomes a conversation conducted between breaths: whether the steps were meant for people with longer legs, whether he has been here before, whether being able to fly means he is forbidden from having an opinion.
+She takes his hand and pulls him along before he can improve the explanation.
 
-At the top, the trees open onto a low wall.
+The route stays beside the water, through the shade of the low buildings behind the promenade. They pass a woman repairing a net who tells them she has seen people miss the second fish while leaning on it to tie a shoe. Mau finds that one in the paving. Yuka gives him generous praise, crouches to check its tail and tells him not to become overconfident.
 
-Yuka reaches it first. The wind moves her hair across her face. She pushes it away and looks down at the hotel roofs, the bay, the small boats arranged beyond the swimming area. From here the place where they ate breakfast is hidden by a line of trees.
+At the third marker, the instructions tell them to look where a fisherman leaves his dinner.
 
-Mau rests beside her, hat pinned carefully beneath one arm.
+There is a restaurant immediately opposite.
 
-“Well?” he asks. ᴹ
+“Too obvious,” Yuka says. ʸ
 
-“The sign did fine.” ʸ
+Mau looks at the menu hanging by the door.
 
-“And me?” ᴹ
+“I think we should investigate.” ᴹ
 
-She leans over and kisses his cheek.
+“We just ate.” ʸ
 
-“You can have some water.” ʸ
+“He may have left dessert.” ᴹ
 
-They share the bottle on a bench farther along the wall. Mau studies the routes below, following the little breaks between roofs. Yuka studies him until he turns toward her.
+She is still telling him that they have to solve the clue honestly when the restaurant's cat climbs onto the empty crate beside them. It settles with one paw hanging over the edge and begins cleaning its face.
 
-“What?” ᴹ
+Yuka looks at the crate. There is a fish carved into the wood beneath the cat's paw.
 
-“Nothing.” ʸ
+“Dinner,” she says. ʸ
 
-“That's a suspicious nothing.” ᴹ
+Mau leans closer. The cat opens one eye.
 
-“You look pleased with yourself.” ʸ
+“I can see why he leaves it here. Very secure.” ᴹ
 
-“I found a good sign.” ᴹ
+They wait until the animal moves enough to show the tail. It makes them earn this by remaining in exactly the wrong position while they discuss whether a treat would be bribery.
 
-She laughs, then slides closer. His arm goes around her before she has finished moving.
+Yuka ends up sitting on the low wall beside it. Mau sits next to her. Neither has produced a treat when the cat decides to relocate onto her lap.
 
-For a while they identify places badly. Yuka is certain one building is the shop where she bought the cord for her bag. Mau thinks it is a storage building. Neither of them can see the entrance. They agree to inspect it on the way down, which will require going in the wrong direction, and decide that this is a reasonable use of their afternoon.
+“Effective strategy,” he tells her. ᴹ
 
-After a silence, Yuka says, “I'm glad we stayed.” ʸ
+“Learn from it.” ʸ
+
+She strokes the narrow head. Her free hand finds his wrist and turns it until she can rest their joined hands on her knee without disturbing the animal.
+
+“I'm glad we stayed,” she says after a while. ʸ
 
 “Me too.” ᴹ
 
@@ -203,32 +201,54 @@ After a silence, Yuka says, “I'm glad we stayed.” ʸ
 
 “Me too.” ᴹ
 
-She turns her head on his shoulder.
+She turns toward him.
 
 “You can give a different answer.” ʸ
 
-“I liked taking them home. Ori wanted to show me where the shell goes. Shuna had already changed something in the kitchen. It was good.” ᴹ
+He looks at the sleeping cat, then at her.
 
-“And now?” ʸ
+“I liked taking them home. Ori wanted to show me where the shell goes. Shuna had already changed something in the kitchen. And then I got to come back because I wanted to be here with you.” ᴹ
 
-He looks at the view, then at her.
+Yuka's expression softens. She leans over to kiss him, carefully enough not to dislodge the cat.
 
-“Now I want to find out which of us is right about that building.” ᴹ
+“You can have another team point for that.” ʸ
 
-“Me.” ʸ
+“I'm going to become impossible.” ᴹ
 
-“You haven't seen it.” ᴹ
+“I'm preparing.” ʸ
 
-“I don't need to.” ʸ
+---
 
-He is still laughing when she takes the hat from him and puts it back on. They stay on the bench until the bottle is empty, making increasingly unreasonable claims about the distant roofs.
+They find four fish.
 
-On the way down, the building turns out to be a laundry.
+The fourth has no tail because it has been carved to disappear beneath a painted wave. Yuka regards this as cheating by the person who wrote the sign. Mau tells her he would like the objection recorded alongside all the complaints made against his own perfectly reasonable comparisons.
 
-Yuka looks at its open door for a long moment.
+The woman with the net points toward the far end of the lane when they return to ask about the fifth.
+
+“Look up,” she says. ᵃᵗᵗ
+
+There is a row of fabric fish hanging above an open door. One has been repaired with a patch at the nose. Yuka points at it, delighted.
+
+“That's a shop. I knew there'd be one.” ʸ
+
+Mau looks at the steam escaping past the curtain inside.
+
+“I'm not sure they're selling anything.” ᴹ
+
+“They might make the fish.” ʸ
+
+He studies the clothespins, then the small sign above them.
+
+“The sign did fine,” he says. “We've added a commercial interpretation.” ᴹ
+
+She goes as far as the doorway before seeing the sheets folded on the long table, the tubs and the basket of towels waiting to be washed.
+
+A laundry.
+
+Yuka looks at it for a long moment.
 
 “There could be a shop in the back.” ʸ
 
 Mau stops walking. She gets several steps ahead before realizing he is no longer beside her.
 
-When she turns around, he is bent slightly over, laughing so hard he cannot answer her.
+When she turns, he is bent slightly over, laughing so hard he cannot answer her.

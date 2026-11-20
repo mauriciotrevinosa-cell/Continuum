@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 13 — Things You Did Not Hear
+## Chapter 14 — Things You Did Not Hear
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 13
+**Reading order:** 14
 **Source episode:** S13E79
 **Continuity state:** Couple deliberately transmit chosen messages through existing private mind link all morning, not passive access. Other household conversations remain spoken; friends present and mixed groups. Yuta notices unusual silence but physical affection contradicts assumed quarrel; payoff pending next scene. Maki/Mai existing distinct relationships. No new telepathy ability, no memory intrusion.
 
@@ -43,7 +43,7 @@ By breakfast they have discussed the stall from yesterday, a plan to meet the ot
 
 Neither has said very much aloud.
 
-* * *
+---
 
 They meet Mai at the path with Momo Nishimiya and Marin.
 
@@ -69,7 +69,7 @@ He smiles. Mai looks up at his face.
 
 Yuka leans her shoulder into his arm, takes the paper bag Marin offers and looks at what she has brought. Marin begins explaining the order in which she wants to visit the shops. It changes when they see the first window.
 
-* * *
+---
 
 The market is busy enough that they keep finding people from the house between the visitors.
 
@@ -107,7 +107,7 @@ She passes him two of them. He stores them after checking that she has taken out
 
 The instrument stays at the stall. Bocchi leaves with the owner's permission to come listen again, which appears to satisfy her more than carrying it home would have.
 
-* * *
+---
 
 They stop for something cold beneath a wide awning.
 
@@ -141,7 +141,7 @@ Yuka touches his wrist to keep him from spilling it.
 
 Across the table, Mai puts her chin on one hand and watches them both.
 
-* * *
+---
 
 The group divides at the square.
 
@@ -171,7 +171,7 @@ He laughs.
 
 Yuta glances at him, then down the street where the others went. He appears to consider something and puts it aside.
 
-* * *
+---
 
 They meet again near the lower path.
 
@@ -207,7 +207,7 @@ Mai looks at the couple ahead. Yuka has just caught Mau's sleeve and made him st
 
 Yuta thinks about that. Mai leaves him with it and goes to join Momo before Marin can volunteer her for another fitting.
 
-* * *
+---
 
 By the time they reach the lunch table, Mau knows what Yuka has seen in every shop, which part she wants to revisit and why she has decided not to buy the thing she originally went to find.
 

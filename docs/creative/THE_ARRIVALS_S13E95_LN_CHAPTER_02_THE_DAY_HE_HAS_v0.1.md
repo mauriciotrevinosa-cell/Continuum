@@ -99,7 +99,7 @@ For a little while, they manage to talk about the food.
 
 He goes quiet again when they move to the balcony.
 
-Yuka has brought the book she meant to finish before they went home. She reads a page twice without taking any of it in. Beside her, Mau looks toward the water. His hand rests open on the arm of the chair, where hers can find it without asking.
+Yuka has brought The House with the Locked Garden, which she meant to finish before they went home. She reads a page twice without taking any of it in. Beside her, Mau looks toward the water. His hand rests open on the arm of the chair, where hers can find it without asking.
 
 “Do you want me to read?” she asks. ʸ
 

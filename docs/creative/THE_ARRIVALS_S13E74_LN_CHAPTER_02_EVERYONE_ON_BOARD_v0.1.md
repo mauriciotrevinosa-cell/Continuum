@@ -5,7 +5,7 @@
 **Volume:** 81
 **Reading order:** 4
 **Source episode:** S13E74
-**Continuity state:** All travelers depart together after longer weighted test passes. New Ten Shadows transport carries house, Mau and Yuka, Ori and Frieren; Mai/Momo choose shared platform instead of Kamish after Ori asks. Home coverage/Bellion/Muster/verified return anchor remain. Arrive B+379 sunset together. Couple unpack then fall asleep cuddling; pause remains nonsexual. Four-person beach outing planned first shared-holiday morning.
+**Continuity state:** All travelers depart together after longer weighted test passes. New Ten Shadows transport carries house, Mau and Yuka, Ori and Frieren; Mai/Momo postpone their separate ride; Ori asks Mau and Yuka to join the platform and Yuka agrees first. Home coverage/Bellion/Muster/verified return anchor remain. Arrival follows in the next chapter; pause remains nonsexual. Four-person beach outing planned first shared-holiday morning.
 
 *When: B+379, afternoon flight and sunset arrival, whole household together.*
 
@@ -37,7 +37,7 @@ At the fence, Milim throws up both arms. Ori and Chloe start running before Mai 
 
 They slow down just enough to demonstrate that they heard.
 
-* * *
+---
 
 Everybody has advice about boarding.
 
@@ -61,49 +61,61 @@ On the platform, Jin-Woo is helping his mother find a seat with something she ca
 
 Rem sits with Umaru's cardigan in her lap. Umaru looks at it, sighs and takes it from her. On the next bench Ram has already persuaded Seika to move far enough over that she can sit close without anyone needing to discuss why.
 
+Ramiris has reserved a stretch of rail by declaring that Beretta needs the view. Beretta waits until she finishes explaining how good it is before sitting where she has chosen. She settles on the seat back beside him, pleased that someone has understood the arrangements.
+
 Antonio folds his arms carefully within the space Testarossa selects. He lowers his head beneath the upper brace, settles his weight and watches her adjust the band on his forearm. Across from him, the perching rail has temporarily acquired a very suspicious cat.
 
 “I'm not luggage,” Turbo Granny says. ᵀᴳ
 
 “Then stop sitting on the bags,” Seiko answers. ˢᵉⁱᵏᵒ
 
-Mai and Momo Nishimiya reach the bottom of the steps together.
+Mai and Momo take a seat together halfway along the platform. Mai puts the drawing board between their knees, leaving it there only until Momo has stopped looking for somewhere to put her hand.
 
-Momo looks toward Kamish.
+Mau calls Kaisel beside the boarding step.
 
-“We could still—” Mai begins. ᴹᵃ
+Yuka has the little bag she wanted to keep out of the inventory. They were going to fly alongside the bus, close enough to hear the others and far enough out that she could show him the coast as it came into view.
 
-“Sit with us,” Ori says. ᴼ
+“Are you going over there?” Ori asks from the rail. ᴼ
 
-She appears at the rail between Chloe and Suika, all three leaning over to see them. Her enormous hat tips forward and Chloe catches the brim.
+Mau looks up. She is between Chloe and Suika, holding her brim back with one hand.
 
-“It's the first trip,” Ori adds. ᴼ
+“We thought we'd take Kaisel. You can see us from—” ᴹ
 
-Mai looks at Momo. Momo looks up at the seats, then at the hand Mai is still holding.
+“But it's the first trip. Can't you come with us?” ᴼ
 
-“We can try him another day,” she says. ᴹⁿ
+“Yes,” Yuka says. ʸ
 
-Kamish watches them choose the stairs.
+Mau turns toward her. She is already handing him the bag to store.
 
-“The princess has decided,” he says. ᴷ
+“We can take Kaisel another time.” ʸ
 
-“She asked,” Mau answers. ᴹ
+Ori's face opens. She disappears from the rail to arrange something about their seats before Mau has found a useful objection to a decision he is not particularly interested in opposing.
 
-“And they have decided,” Kamish concedes, lowering his head toward Mai and Momo. “I shall await another occasion.” ᴷ
+Kaisel lowers his head. Mau strokes the place above his nose.
 
-“Thank you,” Mau says. ᴹ
+“Apparently we've been reassigned.” ᴹ
 
-The dragon returns to shadow. Kaisel stays out a moment longer, letting Ori touch his nose before she goes back to her seat. Then Mau calls him in too.
+“The princess is persuasive,” Kamish observes from the field. ᴷ
+
+“You could have helped.” ᴹ
+
+“Against her and the queen?” ᴷ
+
+Yuka pats the nearest dark scale as she passes.
+
+“Good judgment.” ʸ
+
+Kaisel lets Ori hurry back down for one last touch before returning to shadow. Kamish follows once Mau has checked that no one is standing within his outline.
 
 The new shikigami will carry them together.
 
-* * *
+---
 
 Mau checks the home arrangement before he boards.
 
 Bellion has the permissions and the guard routes. Muster is at the entrance; his ordinary soldiers already occupy their posts. The ones assigned to the common rooms wait for the last departure before beginning the work Fern and Jinshi marked. DIO's plant stays on its familiar sill, with the measured cup and Ori's copy of the instructions beside it.
 
-Mau gives the final orders himself. Bellion bows.
+Mau gives the final orders himself. Bellion bows. Diablo is still on the veranda, having chosen the quiet house over the crowded flight. Fern has left him the domestic arrangements as well as Bellion's copy; anything requiring a conversation with a resident has a resident to answer it. He lifts a hand when Mau looks back, then returns to the book he has been waiting to read without interruption.
 
 The private rooms remain private. Ashborn's peace remains his own. If anything requires a decision, Bellion knows how to reach him through the established connection; the verified home anchor stays ready for a return.
 
@@ -147,7 +159,7 @@ Yuka moves without arguing.
 
 Mau nods solemnly. Mai does not believe him until he has checked Yuka's strap himself.
 
-* * *
+---
 
 The takeoff makes the whole platform quiet.
 
@@ -164,8 +176,6 @@ Mau looks back once.
 Bellion stands at the gate. Beside him, a soldier raises one hand.
 
 Yuka touches Mau's wrist and waves with the other.
-
-* * *
 
 They settle into the journey by degrees.
 
@@ -199,8 +209,6 @@ Yuka has her cheek against his upper arm. He tells her what Makima asked. She th
 
 Yuka reaches for the blanket. He brings it closer before she has to get up, and she tucks it over both their knees.
 
-* * *
-
 The sea arrives first as a change in the distance.
 
 Mau lets the cloth rise far enough to see the horizon, then lowers it again before the moving water resolves into more detail than he wants. Ori stands at the viewing rail with Frieren holding the back of her dress. Around them the family begins choosing which distant shapes must be boats.
@@ -231,74 +239,6 @@ She tells him. It takes long enough that he has to ask if they are discussing on
 
 He turns his head toward her and leaves a kiss at her temple, just beneath the enormous brim.
 
-* * *
+Yuka finds Ori looking back from Frieren's seat. She waves her over once the flight is level. Ori arrives with a question about the water, stays for the answer and ends up tucked between them while Chloe points out another very slow boat.
 
-Elmesia meets them on the broad landing as the last light reaches the water.
-
-She looks up at the shikigami, then at the structure along its back. Mau can see the moment she begins examining the supports rather than the height. She waits until the creature has settled and the boarding step is secured before approaching.
-
-“Noise finished it,” she says. ᴱˡ
-
-“He wanted you to see.” ᴹ
-
-“I would like to look properly tomorrow. And speak to whoever built this part.” ᴱˡ
-
-Mai, coming down the step behind him, raises her hand.
-
-Senku points at Byakuya, who points straight back. Elmesia looks pleased.
-
-“After you've eaten,” she says. “I know what happens if I let you start now.” ᴱˡ
-
-The landing fills with people finding their feet. Ori stays by Chloe until Frieren has her hand again. Anko has her list out; Hinata takes the pencil while she counts. Testarossa steps down with Antonio and introduces herself to the attendant who has been looking at him with increasingly professional restraint.
-
-“He's with me,” she says. ᵀᵉ
-
-Antonio raises the band on his forearm.
-
-The attendant inclines his head to both of them.
-
-* * *
-
-They find their room while the others find theirs.
-
-Elmesia has staff waiting to show each group where to go. Frieren and Ori are along the same path in their own room. Yuka waves to them before following Mau through the door, already turning toward the balcony.
-
-The pool is where she remembers it. Beyond it is the path to the water, and farther down the shore she can see the tables she was talking about on the flight.
-
-“There,” she says. ʸ
-
-He comes to stand behind her. She takes his hand and points with it until he has found the place.
-
-“Breakfast?” ᴹ
-
-“Breakfast.” ʸ
-
-They unpack enough to stop looking for things. He brings their clothes out of the inventory while she names the drawers. The hats go on a wide shelf that was probably intended for something more modest. He watches her press a palm against the brim of his to keep it from springing back.
-
-“It fits,” she announces. ʸ
-
-“You're holding it.” ᴹ
-
-“Then I'll hold it.” ʸ
-
-He puts an arm around her waist and lifts her away from the shelf. She turns toward him, already laughing, and lets him carry her the short distance to the seat by the balcony.
-
-She settles across his lap facing him. He starts to say something about dinner, but she places a hand at the back of his head and draws him toward her chest.
-
-“A minute,” she says. ʸ
-
-He lets her arrange him. His arms come around her back. She leans into the support of the chair and begins telling him what she wants to do tomorrow: breakfast first, then the shallow pools with Ori and Frieren, and after that they can see what everyone else has decided.
-
-He answers the first few things. She feels the last answer move against her shirt more than she hears it.
-
-Her hand travels slowly through the shorter hair above his collar.
-
-“And I want to go back to that stall,” she says. “The one you said we'd come back to when I wasn't hungry.” ʸ
-
-“You were always hungry.” ᴹ
-
-“That's why we have to go back.” ʸ
-
-She waits for his answer. His arms stay around her, his cheek settled against her. The next breath goes deeper.
-
-Yuka keeps talking for a little while, quieter now, until she forgets which things she has already told him. Outside, someone laughs on the path. She closes her eyes and rests her cheek against the top of his head.
+This one has two trees.

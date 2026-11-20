@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 28 — We Made It
+## Chapter 29 — We Made It
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 28
+**Reading order:** 29
 **Source episode:** S13E86
 **Continuity state:** Completes family cooking event in full dialogue and reciprocal tasting. Makima makes ordinary contribution, Yuka asks technique of food edge without blanket forgiveness; friendship progresses before later special invitation, no handholding waiver. Ori/Chloe own successful project, Frieren mother. Mai/Momo mutually choose private outing, progress not declared official couple without scene. Existing family relationships active.
 
@@ -35,7 +35,7 @@ Mau leaves them the place they have chosen. When he turns, Yuka is putting their
 
 Umaru looks offended by the implication that this might be a problem.
 
-* * *
+---
 
 They begin eating before anyone has organized an official comparison.
 
@@ -43,7 +43,7 @@ This lasts until Marin asks whether somebody tried the version she and Wakana ma
 
 Maki gives Yuta the first piece of theirs. He tastes it, thinks and makes a suggestion so careful that she asks him to stop preparing the sentence and say the actual thing.
 
-“A little more of this next time,” he says, pointing. ʸᵗ
+“A little more spring onion next time,” he says, pointing. ʸᵗ
 
 She tastes it too.
 
@@ -51,7 +51,13 @@ She tastes it too.
 
 He looks relieved, which makes her smile into her plate.
 
-At the next table Gojo is explaining which part of the work he contributed. Shoko tells the full story without improving it. It is sufficiently funny as it happened that even he begins laughing before she finishes.
+At the next table Gojo says he was responsible for ensuring an even distribution of filling. Shoko points out that he achieved this by eating a sample from every bowl.
+
+“Quality control,” he says. ᴳ
+
+“Then explain why ours is the only tray with one empty space.” ˢʰ
+
+He looks at the tray as though the missing pie is news to him. Yuta starts laughing before Gojo has finished examining the evidence.
 
 Yuka rests a hand on Mau's forearm while they listen. He gives her a little piece from the dish they made and waits while she tastes it.
 
@@ -67,7 +73,7 @@ She nods with immediate relief.
 
 He takes his own bite. The repaired seasoning works. She watches his face closely enough to see that he means it when he says so.
 
-* * *
+---
 
 Ori and Chloe bring their parcel to the table together.
 
@@ -79,7 +85,7 @@ Milim leans forward.
 
 “It has to be,” Ori says. ᴼ
 
-Chloe explains the filling. The account includes the first failed closing, the extra outside and the reason they chose not to make it smaller. Mau listens as carefully as he listened to Mai explain the platform, keeping the smile off his face until Ori has reached the important conclusion.
+Chloe explains how much potato they needed to make the fish filling stay in their enormous pie. The account includes the first failed closing, the extra outside and the reason they chose not to make it smaller. Mau listens as carefully as he listened to Mai explain the platform, keeping the smile off his face until Ori has reached the important conclusion.
 
 “There's enough for people to try.” ᴼ
 
@@ -94,8 +100,6 @@ Yuka accepts a piece, then holds the plate where Mau can reach it too. He eats w
 “Worth waiting for,” he says. ᴹ
 
 The girl takes a breath and begins finding the next person who should be allowed to try it.
-
-* * *
 
 Elmesia's and DIO's version looks a little different from the demonstration.
 
@@ -135,8 +139,6 @@ It is a practical request, made while Yuka is still chewing. Makima takes a mome
 
 Mau passes her the spare chair so she can sit while she explains.
 
-* * *
-
 The evening becomes a series of exchanges.
 
 People bring portions, take advice, defend accidents and discover that the thing they thought they ruined is somebody else's favourite. Jinshi tastes what Maomao has made and asks a question that gets him a longer explanation than he expected. He listens to all of it. She gives him another portion at the end, as if his attention has made him eligible to continue.
@@ -161,7 +163,7 @@ He turns toward her.
 
 She takes his hand beneath the table and squeezes it once, smiling before he can answer.
 
-* * *
+---
 
 Mai and Momo Nishimiya stay behind to help put the unused things away.
 
@@ -197,7 +199,7 @@ Momo nods.
 
 Mau catches Yuka's wrist before she can stand there smiling at them. He brings her toward the path with the empty bag, giving them the rest of the conversation.
 
-* * *
+---
 
 They walk back by the longer way.
 

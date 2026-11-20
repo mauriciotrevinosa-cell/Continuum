@@ -21,7 +21,7 @@ Mau establishes this when Yuka takes the third wrapped dish out of the bag. She 
 
 Makima accepts the plate Yuka passes her. The three of them sit facing the water, with the dishes between them and a folded corner of the cloth beneath the thing most likely to tip over.
 
-Mau has put the boat's return time where he will remember it. Until then, the only immediate decision concerns which of the parcels should be opened first. Yuka chooses one. Makima asks about another. He gives them both what they ask for and keeps the little dish he particularly wanted within reach of his own knee.
+Mau has put the boat's return time where he will remember it. Until then, the only immediate decision concerns which of the parcels should be opened first. Yuka chooses the flatbreads wrapped around grilled chicken. Makima asks about the little pickled plums. He gives them both what they ask for and keeps the roasted potatoes with lime within reach of his own knee.
 
 Yuka notices.
 
@@ -47,13 +47,17 @@ He takes the plate into his lap. Makima laughs, and Yuka points at her as though
 
 “I thought so.” ᴹᵏ
 
----
-
 They talk about the book while they eat.
 
 Makima has read farther than the passage she showed them on the boat. Yuka wants to know whether that improves her opinion of the man. It does not.
 
-Mau offers to defend him on the basis of the little he knows. Both women tell him this is how the man in the book would begin.
+Mau offers to defend Iven on the basis that at least Nera will not have to sleep in the rain.
+
+“It's a covered deck,” Yuka says. ʸ
+
+“Then he's solved a smaller problem than I thought.” ᴹ
+
+“She already solved it,” Makima points out. “He has complicated her solution.” ᴹᵏ
 
 “You're making it difficult to help.” ᴹ
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 11 — Six Minutes
+## Chapter 12 — Six Minutes
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 11
+**Reading order:** 12
 **Source episode:** S13E78
 **Continuity state:** Mau spends time with Shoko as chosen mother, prior surname not rediscovered or reduced to healing. Anko/Mau plant friendship present, Hinata partnership integrated. Yuka shops with Mai/Momo and rejoins affectionately, no forced daylong couple separation. Gojo maternal/paternal banter, small social morning with no new trauma. Continuous RCT and old scars not reset.
 
@@ -51,7 +51,7 @@ For now she drinks her coffee while he watches two people on the pier argue abou
 
 Mau smiles into his cup.
 
-* * *
+---
 
 Anko finds them by accident and makes it look like she intended to.
 
@@ -81,7 +81,7 @@ Both women look at him.
 
 “About plants,” he adds. ᴹ
 
-Anko slides the packet toward him. He lifts the corner of the cloth, checks that the little leaf is protected and puts it into the storage space he keeps for things that should not be crushed by daggers or the contents of a castle.
+Anko slides the packet toward him. He lifts the corner of the damp cloth, reads the label and stores the cutting as it is. It will come out exactly as she has wrapped it; he can keep the instructions with it instead of relying on remembering which leaf belongs beside which window.
 
 “Thank you.” ᴹ
 
@@ -95,7 +95,7 @@ Mau glances toward the path Yuka took.
 
 “We might need another window.” ᴹ
 
-* * *
+---
 
 They talk about the walk while the terrace changes around them.
 
@@ -129,7 +129,7 @@ They discuss him for a few minutes as if he has gone somewhere else. He stays in
 
 Shoko nods.
 
-* * *
+---
 
 Hinata comes to find Anko with a different packet and an apologetic explanation about an errand that took longer than expected. Anko gets up before she finishes. She leaves the map beside Mau's cup and tells him which part he should not attempt to improve.
 
@@ -159,7 +159,7 @@ Shoko looks at the empty chair Anko left.
 
 “She'll tell you if you don't.” ˢʰ
 
-* * *
+---
 
 Gojo appears at the far end of the terrace.
 
@@ -195,7 +195,7 @@ She says it without irritation. It is a statement of what she has chosen for the
 
 She gives him the menu first.
 
-* * *
+---
 
 He asks about the name while she is choosing something sweet.
 
@@ -231,7 +231,7 @@ She reaches across, smooths a piece of hair that has caught beneath the knot of 
 
 He laughs. She keeps her hand there just long enough for him to lean into it before letting go.
 
-* * *
+---
 
 Yuka returns with a bag and the expression of someone who has made a good decision.
 
@@ -261,7 +261,7 @@ He closes his eyes beneath the cloth.
 
 Shoko starts laughing before Yuka can lift her arms to demonstrate the solution.
 
-* * *
+---
 
 Gojo reaches the table after the food arrives.
 

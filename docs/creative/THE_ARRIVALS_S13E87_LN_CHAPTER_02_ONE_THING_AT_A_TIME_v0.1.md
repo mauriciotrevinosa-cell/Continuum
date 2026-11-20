@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 30 — One Thing at a Time
+## Chapter 31 — One Thing at a Time
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 30
+**Reading order:** 31
 **Source episode:** S13E87
 **Continuity state:** Ciel repairs usable partial Mini Ciel filter after weeks, tested gradually with Mau consent/Yuka chosen channel/Shoko check/Gojo practical advice. Not a complete neurological cure, no increase of mana/CE, no scar/eye/finger/color reset; old blur and grey except Yuka remain. Cloth retained for rest/overload. Control can narrow and release ordinary input, no perfect omniscience. No new overload injury or hidden forbidden build.
 
@@ -37,7 +37,7 @@ Noise laughs once, delighted by something it has had weeks to anticipate.
 
 *You can both be worried quietly while I explain the test,* Ciel tells them. ᶜ
 
-* * *
+---
 
 They use the room with the curtains partly drawn.
 
@@ -67,7 +67,7 @@ He does. Yuka turns her palm up on the blanket. He follows the movement, then th
 
 She stays still while he chooses the next thing he wants to see.
 
-* * *
+---
 
 The first trial lasts less than a minute.
 
@@ -85,7 +85,7 @@ He listens to the practical account Ciel is giving him, compares it with what he
 
 Yuka does not make the answer an event. She gets his water, puts it in his hand and sits back down beside him. He drinks while Ciel and Noise compare the part they are allowed to compare, leaving him the quiet they promised.
 
-* * *
+---
 
 Shoko arrives because he asks her to look at the result before they try again.
 
@@ -121,7 +121,7 @@ He smiles.
 
 “I remember.” ᴹ
 
-* * *
+---
 
 The second trial is simpler because he knows what to expect.
 
@@ -143,7 +143,7 @@ She does, briefly, through the same practical channel. He looks at the repaired 
 
 Ciel lets the diagram stay a little longer before putting it away.
 
-* * *
+---
 
 They go outside after a proper break.
 
@@ -157,9 +157,21 @@ They find Shoko on the shaded path with Gojo. She sees the arrangement, asks one
 
 “Again. Differently.” ᴹ
 
-Gojo nods. For once he has no joke ready. He tells Mau what helped him learn to leave some information alone and keeps it practical enough that Yuka can follow without being given an account of every technique involved.
+Gojo nods and points toward the people crossing the far end of the path.
 
-Mau listens until the lesson reaches a place where he can use it.
+“Don't make every moving thing a new problem just because you can follow it,” he says. “You know they're there. You don't need to count the stitches in their clothes to keep knowing.” ᴳ
+
+“The filter is separating that part again.” ᴹ
+
+“Then let it. The temptation is checking whether it's done it correctly every half-second. That's another task you've given yourself.” ᴳ
+
+Mau hears Ciel's small sound of agreement through the channel he has open. He looks toward a palm, feels his attention begin to climb every edge of its leaves and stops trying to verify the whole tree.
+
+The pressure stays where it was.
+
+“You can trust her work without auditing it while you're using it,” Gojo adds. ᴳ
+
+Mau turns toward him, caught by the part of the advice which has nothing to do with whether he understands the eyes.
 
 “I'll try that part,” he says. ᴹ
 
@@ -167,7 +179,7 @@ Mau listens until the lesson reaches a place where he can use it.
 
 Gojo and Mau answer together, which makes Yuka laugh before either can claim innocence.
 
-* * *
+---
 
 Later, at the edge of the beach, Mau raises the cloth for a little while.
 

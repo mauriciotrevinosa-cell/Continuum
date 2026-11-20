@@ -57,7 +57,7 @@ Elmesia wants to know where they found it. Yuka points to the stall, then begins
 
 “What did you choose?” he asks. ᴹ
 
-She shows him the book.
+She shows him the book. The Third Berth has a woman standing on a ship's rail on the cover, one foot planted on a trunk which appears much too large for the boat.
 
 “Do you like it?” ᴹ
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 26 — We Had Time
+## Chapter 27 — We Had Time
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 26
+**Reading order:** 27
 **Source episode:** S13E85
 **Continuity state:** Rimuru diplomatic obligations prompt chosen return with Shizue; private walk and mutual handholding progress existing relationship, no first-meeting/roommate retcon. Kenya/Ryota/Gale/Alice return with Shizue. Chloe explicitly stays with Ori under Frieren responsibility. Couple jointly extend holiday instead of compressing duration. Existing return anchor, acknowledgment and interval respected. Ciel retains established distributed connection after Rimuru departure.
 
@@ -35,7 +35,7 @@ Shizue reaches for her own cup.
 
 “Then we'll go tomorrow.” ˢᶻ
 
-* * *
+---
 
 Mau finds him later near the path that leads to the gardens.
 
@@ -63,7 +63,7 @@ He looks toward the part of the path where Shizue went with the students. The la
 
 “I did,” he admits. ᴿ
 
-* * *
+---
 
 Yuka comes up with two folded towels and a question about lunch.
 
@@ -99,7 +99,7 @@ Mau reaches over Yuka and takes one of the loose pages before the wind does.
 
 “Preferably before another delegation arrives,” he adds. ᴹ
 
-* * *
+---
 
 Shizue wants to walk to the little place with the sweets she found on the first evening.
 
@@ -121,7 +121,41 @@ She puts the list down and stands. He waits for her to collect her bag, then off
 
 She takes it.
 
-* * *
+At the sweet shop they choose the soft citrus cakes they shared on the first evening. Rimuru buys a second parcel for the others, then has to follow Shizue outside before he can begin calculating who would like which one.
+
+“That can wait until we get back,” she tells him. ˢᶻ
+
+He looks at the parcel in his hand.
+
+“It was a very small calculation.” ᴿ
+
+“You're on holiday for another afternoon. Use it.” ˢᶻ
+
+He starts to say something about tomorrow. She squeezes his hand.
+
+“I know. I'll go back with you tomorrow. Right now I'd like to walk with you until this starts tasting like anything other than a thing we have to carry home.” ˢᶻ
+
+She opens their smaller parcel, breaks a cake in two and offers him half. He eats it while looking down the path. A breeze moves through the trees above them; from here he cannot see the landing or the rooms or the people who might be looking for him.
+
+“You're very good at this,” he says. ᴿ
+
+“Eating cake?” ˢᶻ
+
+“Making me stop.” ᴿ
+
+Shizue studies him, then leans close enough to brush a crumb from his sleeve.
+
+“Sometimes. You have to want to.” ˢᶻ
+
+He turns his hand within hers.
+
+“I do.” ᴿ
+
+They take the path beyond the shop. At the fork he asks whether she wants to go a little farther. She asks how much time they have, already looking in the direction he chose.
+
+“Enough,” he says, and this time leaves the answer there. ᴿ
+
+---
 
 Mau and Yuka spend the afternoon on the quiet side of the pool.
 
@@ -159,7 +193,7 @@ Yuka pulls back enough to see his face.
 
 She kisses him, then settles against him again while the water moves gently around them.
 
-* * *
+---
 
 They find Rimuru and Shizue after dinner with a little paper parcel between them.
 
@@ -181,7 +215,7 @@ Mau looks at Yuka. She has seen it too.
 
 They take the pieces they are offered and leave the rest of the story with the people who went on the walk.
 
-* * *
+---
 
 The return the following morning takes longer than the actual journey.
 
@@ -195,9 +229,9 @@ Rimuru thanks Elmesia. She tells him the outstanding conversation will wait unti
 
 Shizue nods beside him.
 
-Mau confirms the home route and gives Bellion the return notice. The students go with Shizue, with their things held together rather than scattered through separate exchanges. Rimuru stays long enough to speak quietly with Mau about the next report from home.
+Mau confirms the home route and gives Bellion the return notice. He brings Shizue and the four returning students home as one group, their luggage already stored. When he comes back after the interval, Rimuru is waiting to speak quietly about the next report from home.
 
-“Tell me if you need anything,” he says. ᴿ
+“Tell me if you need anything,” Rimuru says. ᴿ
 
 “You too.” ᴹ
 
@@ -205,9 +239,9 @@ Mau confirms the home route and gives Bellion the return notice. The students go
 
 “Then ask me before you start feeling left out.” ᴹ
 
-Rimuru laughs. He puts a hand on Mau's shoulder, squeezes once and goes when the route is ready again.
+Rimuru laughs. He puts a hand on Mau's shoulder and squeezes once. Mau takes him to the same home anchor when the route is ready again, then returns to Yuka after the interval.
 
-* * *
+---
 
 Yuka stays beside Mau until everyone has confirmed they arrived.
 

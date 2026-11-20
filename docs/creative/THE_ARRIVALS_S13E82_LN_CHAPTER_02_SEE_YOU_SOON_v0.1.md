@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 20 — See You Soon
+## Chapter 21 — See You Soon
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 20
+**Reading order:** 21
 **Source episode:** S13E82
 **Continuity state:** Luminous/Hinata leave for bounded urgent border dispute, not new island attack; Anko independently chooses to accompany partner with practical help. Existing consented anchors and recovery interval, confirmed safe arrival. Witches future tea and Anko/Mau plant friendship maintained. First natural staggered return, everyone had initially traveled together. Household adapts seating and continues holiday.
 
@@ -41,7 +41,7 @@ Anko catches her hand before she turns.
 
 “I'm coming with you.” ᴬⁿ
 
-* * *
+---
 
 They discuss it in Hinata's room while Mau confirms the existing return route.
 
@@ -61,7 +61,7 @@ The next part is quieter. Mau looks away toward the path, leaving them the rest 
 
 Yuka adjusts the strap of Anko's bag and rests it over her own arm until someone needs it.
 
-* * *
+---
 
 Luminous explains enough of the emergency for them to understand the urgency.
 
@@ -89,7 +89,7 @@ Elmesia arrives while they are checking the final notice. She has heard enough f
 
 They arrange where the next reply should go. Nobody calls the visit wasted.
 
-* * *
+---
 
 The witches come down to say goodbye.
 
@@ -109,7 +109,7 @@ Satella thanks her for coming. Pride asks whether she will be at the next tea. L
 
 Yuka puts a hand at his back, amused.
 
-* * *
+---
 
 Anko comes out carrying considerably less than she arrived with.
 
@@ -141,15 +141,15 @@ Hinata waits beside the cleared place in the path.
 
 Anko goes to her, takes the bag she was carrying and redistributes it between them before Hinata can object.
 
-* * *
+---
 
 Mau checks the destination response once more.
 
-He sends Luminous through the consented route first, then waits through the recovery interval while she confirms that she has arrived where expected. Hinata listens to the reply, checks the hand she has around Anko's and steps into the next exchange with her.
+DIO and Makima return inside before the journeys home, as they did while he collected the guests. He brings Luminous to the confirmed anchor first. Yuka waits beside Hinata and Anko while the exchanged soldier holds the island end of the route. After the interval Mau comes back, confirms the landing was clear and takes the other two with him.
 
-One moment they are there. The next the path is clear.
+Anko is still holding Hinata's hand when they disappear. The soldier returns in their place, inclines its head toward Yuka and waits for Mau's next exchange.
 
-Mau keeps his attention on the connection until the brief acknowledgment comes back. Then he lets his shoulders settle.
+He returns alone once the route is ready again. The time between journeys has been spent with people thanking him and telling him which message to give the others. He gets the names straight before giving Yuka the first one.
 
 Yuka stands beside him with the empty label sheet.
 
@@ -159,7 +159,7 @@ Yuka stands beside him with the empty label sheet.
 
 She folds the sheet and puts it away.
 
-* * *
+---
 
 The table feels different at dinner.
 

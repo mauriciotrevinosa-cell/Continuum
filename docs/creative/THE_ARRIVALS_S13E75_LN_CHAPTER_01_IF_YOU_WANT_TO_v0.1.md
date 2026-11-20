@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 5 — If You Want To
+## Chapter 6 — If You Want To
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 5
+**Reading order:** 6
 **Source episode:** S13E75
 **Continuity state:** Entire house already arrived together. Couple wake from ordinary affectionate nap. Brief reconnecting tea, Daphne seed market with Elmesia/Rimuru before communal dinner. Optional activities, no compulsory nightly report; Makima included from first night and considers independent preferences. Elmesia/DIO/Testarossa plan time together. Four-person early beach morning planned B+380.
 
-*When: B+379, sunset into the first shared evening.*
+*When: B+379, early evening into the first shared dinner.*
 
 Yuka wakes because her leg has gone to sleep.
 
@@ -53,7 +53,7 @@ She flexes her recovering foot and considers the question with the gravity it de
 
 “Eventually.” ʸ
 
-* * *
+---
 
 They find Luminous and the witches beneath an awning beside the water.
 
@@ -67,7 +67,27 @@ Yuka looks down at herself.
 
 Minerva sits back. Mau lowers Yuka into the chair she indicates and takes the one beside her. Her recovering foot finds his ankle under the table.
 
-“We came to see if you wanted dinner,” he says. ᴹ
+Luminous has her cup between both hands. She looks along the table before Mau can ask whether anyone has eaten.
+
+“I owe you a visit that took rather longer than I said it would,” she tells the witches. ᴸᵘ
+
+Echidna puts her spoon down.
+
+“You brought yourself. We were beginning to think the tea would have to stand in for you.” ᴱᶜ
+
+“The tea is better behaved.” ᴸᵘ
+
+Minerva reaches across to pull the new tin nearer.
+
+“You're here now. Open that one before she starts asking why you were late.” ᴹⁱⁿ
+
+“I wasn't going to ask why,” Echidna says. “I was going to ask what was interesting enough to keep you.” ᴱᶜ
+
+Luminous looks at her for a moment, then laughs and loosens the lid. She tells them about a dispute over which of two ceremonial entrances a guest ought to use. Pride immediately wants to know who built a house with an incorrect entrance.
+
+Mau rests his hand on Yuka's chair. Her foot is still tingling. She settles it against his ankle and listens while Luminous explains that both doors work perfectly; the people using them are the difficulty.
+
+“We came to see if you wanted dinner,” he says when she has finished. ᴹ
 
 “We're discussing the next one,” Luminous replies. ᴸᵘ
 
@@ -81,11 +101,39 @@ Echidna lifts her cup.
 
 “You haven't.” ᴱᶜ
 
-Elmesia passes him a clean cup. Yuka takes one of the small things from the dish between them, puts half in Mau's hand and begins explaining that she intends to get to the pool early tomorrow. Daphne asks if she saw the path beyond it.
+Elmesia passes him a clean cup. Yuka breaks a sesame biscuit over Mau's hand, catches most of the crumbs and begins explaining that she intends to get to the pool early tomorrow.
 
-“The one with the stalls?” ʸ
+Daphne is looking past the awning. Her market bag is folded beneath her palms, the handles smoothed into the same position twice.
 
-“They sell plants there.” ᴰᵃ
+“You don't like it?” Yuka asks, following her gaze toward the pool. ʸ
+
+“I do.” Daphne looks back. “I'm used to seeing what needs water by this time.” ᴰᵃ
+
+“At home?” ʸ
+
+“The new shoots first. Before breakfast. They stand differently after a warm night.” ᴰᵃ
+
+She moves one finger along the folded handle. Yuka had thought she was waiting for the market. Now she sees the little empty space where the afternoon's familiar work ought to be.
+
+“Who has them?” Mau asks. ᴹ
+
+“They have the instructions. I checked.” ᴰᵃ
+
+“Then you can tell us about the ones here,” Yuka says. “I saw a path beyond the pool.” ʸ
+
+Daphne turns toward her.
+
+“The one with the stalls,” Yuka adds. ʸ
+
+“They sell plants there.” Daphne lifts the bag a little. “I asked when we came past.” ᴰᵃ
+
+“So that's where we should go,” Elmesia says. “You can tell me which ones survive the mistakes I make in my own garden.” ᴱˡ
+
+Daphne sits forward for the first time since they arrived.
+
+“Which mistakes?” ᴰᵃ
+
+Elmesia begins with watering. Mau watches Daphne set the folded bag upright, already reaching for the pencil Elmesia has beside her cup.
 
 “We saw it from the room.” ʸ
 
@@ -99,7 +147,7 @@ Daphne has the market bag in her lap already.
 
 Luminous notices. So does Elmesia. Neither of them asks how long it has been ready.
 
-* * *
+---
 
 The plant stall is closing when they reach it.
 
@@ -121,7 +169,11 @@ He looks at the remaining trays.
 
 “Let's read what they are first.” ᴿ
 
-Yuka keeps the piece Shizue gave her between two fingers while she leans over the writing. Mau waits beside her with their empty cups in one hand. He has no idea why they brought them as far as the market.
+Yuka keeps Shizue's strip of candied citrus between two fingers while she leans over the writing. Daphne asks whether the vine on the packet fruits in its first year. The stallholder says no, then tries to make the delay sound less disappointing.
+
+“That's fine,” Daphne tells him. “I want to see it grow.” ᴰᵃ
+
+Rimuru stops comparing the packets long enough to look at her. He asks how much sun it needs. When she explains, he points out the side of the garden that stays warm longest, and the two of them begin planning there instead of somewhere vague beyond the holiday. Mau waits beside her with their empty cups in one hand. He has no idea why they brought them as far as the market.
 
 “How much garden do we have left?” he asks. ᴹ
 
@@ -139,7 +191,7 @@ Yuka feeds him the last of Shizue's purchase.
 
 She glances toward Rimuru, smiles and leaves the question with him.
 
-* * *
+---
 
 Dinner spreads across two adjoining tables.
 
@@ -151,7 +203,7 @@ Mau gets Yuka's chair back before someone else sits in it. She puts a hand on hi
 
 DIO appears beside him with her hat held carefully against her chest. Elmesia turns the chair next to hers so it faces the water as well as the table.
 
-“You'll want to see that before it's gone,” she says, pointing toward the last clear stretch of sky. ᴱˡ
+“There,” she says, pointing out the fishing lights appearing beyond the dark water. “You can see the line of them now.” ᴱˡ
 
 DIO sits. She puts the hat on her knees and watches the light with Elmesia, occasionally asking a question too quiet for Mau to hear over the other table.
 
@@ -165,13 +217,11 @@ Yuka follows the direction of her gaze. There is another empty chair at the end 
 
 “Either's fine.” ʸ
 
-Makima looks from one to the other. Mau can almost see her trying to find the consequence of choosing incorrectly.
+Makima rests her hand on the chair they kept for her. Yuka's answer has not changed, but the other chair would spare her the possibility of reaching across his wife for anything.
 
-“This one has the bread,” he says. ᴹ
+“This one has the bread,” Mau says, moving the basket within reach of both places. ᴹ
 
-She sits down beside the basket.
-
-* * *
+Makima sits in the place he saved. She leaves Yuka the nearer end of the serving dish and asks Elmesia about the boats visible from the table.
 
 Elmesia waits until most people have food before she speaks.
 
@@ -209,8 +259,6 @@ She laughs before she can pretend to consider it. Yuka bends her head against Ma
 
 “Then keep doing that.” ˢʰ
 
-* * *
-
 The plans begin changing before anyone has finished proposing them.
 
 Luminous wants a longer afternoon with the witches, but first she asks Hinata whether she would like to look at a particular walk along the old wall. Hinata looks at Anko. Anko asks whether the wall has stairs. Luminous gives her an unamused look that makes Hinata smile into her glass.
@@ -225,15 +273,19 @@ DIO mentions a workshop Elmesia described on the flight notices. Elmesia offers 
 
 Mau watches the ant very carefully move a bread basket so an attendant can set down another dish. Testarossa says thank you to him. The ant inclines his head.
 
-At Mau's side, Makima asks what the activity sheets are for. He tells her she can put her name down for something she wants to try.
+At Mau's side, Makima has already read the activity sheet and marked the two places where an advance booking is needed.
 
-“With you?” ᴹᵏ
+“Are you joining any of these?” she asks him. ᴹᵏ
 
-“Sometimes. Or you could ask somebody else.” ᴹ
+“Probably. We haven't decided which.” ᴹ
 
-She looks along the table at Elmesia and DIO.
+“Would you like me to keep a place?” ᴹᵏ
 
-“I haven't chosen yet,” he adds. “You can look first.” ᴹ
+“Let us work out what we want first. You can choose something you like.” ᴹ
+
+She looks at the workshop listed near the bottom, then along the table at DIO, who has been asking Elmesia about it. She knows how easily she could make herself useful in whatever Mau chooses. That would put her near him. It would also leave her waiting for his choice before making one of her own.
+
+She takes the pencil.
 
 Makima takes one of the sheets. She reads it while the others continue making plans around her. When Elmesia asks whether she would like to see the workshop too, she looks up more quickly than Mau expects.
 
@@ -245,7 +297,7 @@ Then, after a pause:
 
 “We'll walk,” Elmesia answers. “There will be.” ᴱˡ
 
-* * *
+---
 
 Ori reaches the sleepy part of the evening halfway through a story.
 

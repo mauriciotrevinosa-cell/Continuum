@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 7 — Better Yuka
+## Chapter 8 — Better Yuka
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 7
+**Reading order:** 8
 **Source episode:** S13E76
 **Continuity state:** Mau/Yuka/Frieren/Ori beach day during shared holiday, no staggered arrival. Lantern accompanies. Mau recognizes his earlier imagined family beach details naturally. Frieren offers adoptive-parent place conditionally, affirms she remains mother; Yuka insists. Ori independently chooses relationship and name: adoptive mother sounds horrible, better Yuka; stepmother joke. No forced label or substitute pregnancy. Child names relationship, adults follow.
 
@@ -41,7 +41,7 @@ The creature stays visible for three breaths.
 
 Ori counts that as a success and begins looking for another one.
 
-* * *
+---
 
 They work their way along the pools at the speed of each discovery.
 
@@ -75,7 +75,7 @@ Mau puts the others back where they found them. Ori keeps the smallest smooth on
 
 She places the shell in the middle and folds all four corners over it.
 
-* * *
+---
 
 Lantern comes out on the dry sand after they have moved away from the pools.
 
@@ -113,7 +113,7 @@ Lantern has allowed the girl to put her hat against the broadest part of his hea
 
 Ori takes the hat back carefully.
 
-* * *
+---
 
 They build something on the sand that begins as a little house.
 
@@ -141,7 +141,7 @@ She shows him. He puts it where she wants, presses a little sand against the sid
 
 Yuka catches his eye over the wall. He smiles at her, and she smiles back without asking what he was thinking.
 
-* * *
+---
 
 When the town reaches the edge of the cloth, Frieren declares that its builders need water.
 
@@ -187,7 +187,7 @@ Frieren looks toward Ori again.
 
 Yuka follows her gaze. Mau has heard enough from his place beside the cloth to know he should wait. He does. He sets the spare cup down and keeps his hands in his lap while Ori finishes the most important part of the road.
 
-* * *
+---
 
 Ori comes over because Yuka says her name.
 
@@ -257,7 +257,7 @@ Ori hugs her back. She stays long enough to get sand on the front of Yuka's dres
 
 Mau watches them and puts the thought he had been trying to find words for away. There is nothing he needs to add to what Ori has chosen.
 
-* * *
+---
 
 The sea reaches their first boundary while they are packing the shells.
 

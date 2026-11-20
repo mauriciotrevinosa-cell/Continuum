@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 19 — There Are Levels
+## Chapter 20 — There Are Levels
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 19
+**Reading order:** 20
 **Source episode:** S13E82
 **Continuity state:** Elmesia knowingly inspects previously consented new Ten Shadows transport and speaks with builders/Noise via relay. No surprised copying accusation, free deific upgrade or new mass capacity. Yuka dragon request, Ori levels joke, Mau escapes behind Mai and both chase briefly; Kaisel existing familiar bond, no transfer of shadow ownership. Lantern remains Ori chosen guardian. DIO/Elmesia common interest grows.
 
@@ -41,7 +41,7 @@ Mau stands at the bottom of the steps with Yuka. She has put one hand beneath hi
 
 Mau laughs. Yuka has heard the reply through the channel they opened for showing the design. She puts her forehead against his arm for a moment before looking back up at the platform.
 
-* * *
+---
 
 Ori comes with Lantern after Frieren finishes breakfast.
 
@@ -71,7 +71,7 @@ Elmesia comes down from the platform and greets them. Ori shows her the shell ti
 
 She accepts this as a future item of business and turns to Lantern to tell him what they have decided.
 
-* * *
+---
 
 Yuka watches the exchange with one eyebrow raised.
 
@@ -113,7 +113,7 @@ Ori goes around one side. Yuka goes around the other. Mai raises both hands and 
 
 Elmesia starts laughing first.
 
-* * *
+---
 
 The chase is very short.
 
@@ -163,7 +163,7 @@ Yuka smiles.
 
 She takes his hand, and Ori takes the other. They escort him back to the steps while Elmesia tells Mai that the passenger platform appears to have much less demanding politics.
 
-* * *
+---
 
 They go to see Kaisel after the transport has been returned to the technique.
 
@@ -193,7 +193,7 @@ He looks down at her.
 
 She leans into him, and Kaisel settles his head to a height where all three can remain comfortable.
 
-* * *
+---
 
 Later, when the others have begun discussing where to eat, Elmesia asks Mau to stay for a moment.
 

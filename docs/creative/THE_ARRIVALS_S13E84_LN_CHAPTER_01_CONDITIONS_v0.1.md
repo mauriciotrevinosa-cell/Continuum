@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 23 — Conditions
+## Chapter 24 — Conditions
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 23
+**Reading order:** 24
 **Source episode:** S13E84
 **Continuity state:** Fort household cards with couple, Rem/Umaru, Ram/Seika and Kessoku; relationships active, no characters newly invented as residents. Mau genuinely plays/wins/loses, no technique-based cheating or forced self-denial. Plant friendship practical continuation. Shuna chooses involvement, not reduced to duty. No compulsory daily all-house gathering.
 
@@ -35,7 +35,7 @@ She puts one hand over his wrist and raises the other for Umaru to deal her in.
 
 “I am.” ʸ
 
-* * *
+---
 
 The table acquires players in stages.
 
@@ -59,15 +59,33 @@ Yuka looks at Mau.
 
 Rem touches Umaru's wrist, and Umaru forgets her next condition long enough for Seika to start dealing.
 
-* * *
+They are playing Bluff. Cards go down face first; on a turn, a player claims to be putting down one or more of the next rank. Anyone can challenge. If the claim was false, the liar takes the pile. If it was true, the challenger takes it. The first person with no cards left wins the round.
+
+“And the blindfold stays on,” Umaru adds. ᵁ
+
+Mau tilts his head toward her.
+
+“I was going to play normally.” ᴹ
+
+“I'm eliminating uncertainties.” ᵁ
+
+“You invited Ryo,” Seika points out. ˢᵉⁱ
+
+Ryo arranges her hand with an expression of injured dignity.
+
+---
 
 Mau loses the first round because he trusts Ryo's expression.
 
 The expression has clearly taken years to develop. It contains just enough uncertainty to encourage him and just enough reluctance to make him feel the encouragement was his own idea.
 
-Ryo lays down the cards.
+Ryo claims three queens. She hesitates over the third long enough for Mau to decide that the reluctance is part of a bluff.
 
-Seika laughs before he has finished looking at them.
+“Show me,” he says. ᴹ
+
+She turns them over. Three queens.
+
+Seika laughs before he has finished looking at them. Mau collects the pile, watches Ryo get rid of her last card two turns later and lays his substantially enlarged hand down in defeat.
 
 “You believed her?” ˢᵉⁱ
 
@@ -89,11 +107,13 @@ Umaru points at the table.
 
 He accepts this with considerable dignity and asks Seika to deal again.
 
-* * *
+---
 
 Rem wins the next round so quietly that Umaru has to ask her to show the cards again.
 
-She does. Umaru looks at her, then at the table, then back at her.
+She turns over the solitary eight she used to empty her hand. Umaru, who spent the entire turn explaining why nobody would ever make that claim honestly, takes the pile she challenged.
+
+She looks at Rem, then at the table, then back at her.
 
 “You let me say all of that.” ᵁ
 
@@ -109,7 +129,7 @@ Rem laughs.
 
 It is enough to make the others start, and for a little while the round cannot begin because nobody has put all their cards back down.
 
-* * *
+---
 
 They change seats after someone suggests that the game has become unfairly arranged.
 
@@ -129,11 +149,11 @@ He waits.
 
 Kita leans closer to see whether Bocchi wants help understanding the rule. Bocchi shakes her head and keeps the cards near her chest, concentrating.
 
-She wins the round.
+On her last turn Bocchi places two cards down and says, almost inaudibly, that they are jacks. Ryo challenges. Both are jacks. Bocchi has no cards left.
 
 For a second she looks so alarmed by the attention that Mau applauds badly on purpose. Yuka tells him to stop being embarrassing. Bocchi laughs, and the moment becomes small enough for her to stay in it.
 
-* * *
+---
 
 During the break, Ram asks Mau about the plant Anko sent home.
 
@@ -151,11 +171,17 @@ Seika gives Ram a look. Ram ignores the implication, sets her cup down and tells
 
 Yuka listens from the chair she has pulled beside his. Her hand comes to rest on the back of his neck while she looks at the packet. He leans into her fingers for a moment, then turns his attention back to Ram's explanation.
 
-* * *
+---
 
 Mau wins a round after lunch has already become overdue.
 
-He does it without announcement, putting his cards down while Umaru is explaining why she has chosen a particularly clever move. She stops. Rem examines his hand, then her own.
+He has seen three fours go past, all honestly played after Umaru challenged each one. The fourth is in his hand. When she puts two cards down and calls them fours, he asks her to turn them over.
+
+An ace and a seven.
+
+Umaru collects the pile. Mau gets rid of his actual four on the next turn and turns it over himself when she points at it.
+
+Rem examines the card, then Umaru's new hand.
 
 “Oh,” she says. ᴿᵉ
 
@@ -181,7 +207,7 @@ Umaru looks at Rem. Rem's expression softens before she can pretend she hasn't u
 
 Mau looks down at his cards and gives them the moment.
 
-* * *
+---
 
 The call for lunch comes from Shuna, who has found the group and discovered they have been treating snacks as a meal plan.
 
@@ -211,9 +237,7 @@ She lets him turn within the embrace, but catches his collar before he can take 
 
 She pulls him down to kiss him. He has time to put his arm around her before she lets him go, and when she begins to turn toward the path he brings her back for one of his own. She is smiling too much to make it easy.
 
-They have only just separated when Umaru looks back. Yuka keeps hold of his hand and starts walking with perfect composure; Mau needs another moment to stop laughing.
-
-At the end of the path, Umaru looks back at them.
+They have only just separated when Umaru turns at the end of the path. Yuka keeps hold of his hand and starts walking with perfect composure; Mau needs another moment to stop laughing.
 
 “Tomorrow,” she warns. ᵁ
 

@@ -31,7 +31,7 @@ Yuka takes the place beside him. She is still sleepy enough to lean her head aga
 
 Makima looks down at her own menu.
 
-“They have,” she says. ᴹᵏ
+“They have,” she says. “The little pancakes can come with the orange cream now.” ᴹᵏ
 
 Yuka lifts her head.
 
@@ -41,7 +41,7 @@ Mau closes his eyes for a moment.
 
 “You were wrong,” Yuka tells him, already looking for the addition. ʸ
 
-Makima points it out. It is something small at the bottom of the page, available with the breakfast Yuka intended to order anyway. She considers it with a seriousness Mau finds entirely predictable, then asks whether he wants to share.
+Makima points it out at the bottom of the page. Yuka had intended to have the pancakes with honey. She considers it with a seriousness Mau finds entirely predictable, then asks whether he wants to share.
 
 “Do I?” he asks. ᴹ
 
@@ -109,11 +109,35 @@ Yuka looks at the cover.
 
 Mau laughs. Makima looks at him, pleased enough by the response that she nearly misses Yuka asking which man she means.
 
-She finds the page. Yuka reads the paragraph and hands the book to Mau, who reads it twice before offering an interpretation neither woman accepts.
+She finds the page. Lord Iven has reserved the only private cabin on a trading boat for Nera, a mapmaker he has been trying to persuade to accept his help. Nera has already booked passage on the deck. She does not know about the cabin, or the letter he has sent to the captain telling him to move her things.
 
-By the time the boat leaves the pier, they are already arguing about a person who has no idea how much trouble he has caused.
+“He thinks she'll like the surprise,” Mau says after reading it. ᴹ
 
----
+“Then he could tell her when she arrives,” Yuka answers. “Why does her trunk have to get there before she does?” ʸ
+
+“He wants the decision made before she sees the choice,” Makima says. ᴹᵏ
+
+Mau looks at her over the page.
+
+“You sound certain.” ᴹ
+
+“He wrote three paragraphs explaining why nobody should tell her. He should have kept the letter shorter.” ᴹᵏ
+
+Yuka looks at her, then begins laughing.
+
+“That's what bothered you?” ʸ
+
+“It bothered me first.” ᴹᵏ
+
+Mau turns the page. The captain has charged Iven for two cabins, having already sold the first to someone else.
+
+“I like him,” he says. ᴹ
+
+“He's charging them for a room that doesn't exist,” Yuka points out. ʸ
+
+“Then this is a very complicated surprise.” ᴹ
+
+Makima takes the book back to check the earlier letter. By the time the boat leaves the pier, Yuka is insisting the captain has to tell Nera, Mau is attempting to establish who actually owns the second ticket and Makima has found a fourth paragraph which makes her dislike Iven even more.
 
 The cove has more steps than it appeared to have from the water.
 

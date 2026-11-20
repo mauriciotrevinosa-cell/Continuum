@@ -37,6 +37,12 @@ The attendant offers to tell the visitor that he is unavailable.
 
 “At reception. She agreed to wait.” ᵃᵗᵗ
 
+“Can you describe her?” ᴹ
+
+“Young woman. Dark hair. She had marks across her face when she asked for you. I thought they were scars, but when I came back with the paper I couldn't see them.” ᵃᵗᵗ
+
+Mau looks at Yuka. Neither recognizes the visitor from the name, and the changing face is reason enough to ask someone who might.
+
 “Tell her I'll answer shortly. Please don't bring her down here.” ᴹ
 
 The attendant nods and goes back the way she came. Mau watches until she is well along the path, then looks at Yuka.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 9 — Today's Plan
+## Chapter 10 — Today's Plan
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 9
+**Reading order:** 10
 **Source episode:** S13E77
 **Continuity state:** Whole quiet couple day; established Authority pool use; physical scars retained, no reserve exhaustion. Affection nonsexual and pause intact.
 
@@ -43,7 +43,7 @@ She puts her hand back flat and rests her cheek beside it.
 
 His laugh is quiet under her ear. She closes her eyes again.
 
-* * *
+---
 
 They last another half hour before hunger becomes an opinion neither can ignore.
 
@@ -61,7 +61,21 @@ She lifts her head.
 
 “If you want.” ᴹ
 
-Her expression changes at once. She begins naming the things she wants before he has finished moving the blanket. He listens, nods at the first two, then looks at her when she reaches the third adjustment.
+Her expression changes at once.
+
+“The eggs on toast. The potatoes with the little peppers, but the peppers beside them. And the fruit with the thick yogurt.” ʸ
+
+Mau has not finished moving the blanket.
+
+“Honey?” ᴹ
+
+“Separate. I want to try it first. And the coffee you had last time, with milk, but not in the coffee. Beside it.” ʸ
+
+“We're going to need a second table for all the things beside your breakfast.” ᴹ
+
+“You can hold them.” ʸ
+
+He looks at her.
 
 “You're very awake suddenly.” ᴹ
 
@@ -95,7 +109,7 @@ She raises her arms.
 
 “Breakfast,” she repeats. ʸ
 
-* * *
+---
 
 They pass Shoko on the way down.
 
@@ -133,19 +147,35 @@ Yuka laughs against his shoulder. Shoko steps aside to let them pass, then calls
 
 “Then she made an informed decision.” ʸ
 
-* * *
+---
 
 The table in the shallow part of the pool is available.
 
 Yuka puts her sandals on the dry edge and slips into the water with a little intake of breath. Mau follows after setting their hats well back from the splash. She holds out her hands to him. He comes close enough that she can guide him onto the seat beside her and put one knee against his.
 
-The attendant remembers the breakfast.
+The attendant remembers her breakfast.
 
-Yuka looks pleased until he asks whether she wants it exactly the same. Then she has to explain two changes she thought of on the walk, which she did not actually do.
+Yuka looks pleased until he asks whether she wants it exactly the same.
 
-“And for you?” the attendant asks Mau. ᵃᵗᵗ
+“Could the toast come dry? The eggs can stay on a little plate. I want to put them together myself.” ʸ
 
-He gives his order, waits until the man has gone and turns to her.
+“Another beside,” Mau murmurs. ᴹ
+
+She puts a hand on his knee beneath the water.
+
+“And the potatoes can have the peppers. I've reconsidered.” ʸ
+
+The attendant makes the correction without betraying them by laughing.
+
+“And for you?” ᵃᵗᵗ
+
+“The hot sandwiches. Two. Whatever pickles come with them, please leave them on my plate until she's looked at her own.” ᴹ
+
+Yuka waits until the man has gone before turning to him.
+
+“I wasn't going to take your pickles.” ʸ
+
+“I admire your certainty.” ᴹ
 
 “Half your breakfast is already mine.” ᴹ
 
@@ -166,8 +196,6 @@ Mau follows the line of her hand.
 “Then you can pick the next one.” ʸ
 
 He puts an arm along the back of her seat. She leans into it without looking, exactly where she expects him to be.
-
-* * *
 
 They spend a while discussing a boat they haven't chosen.
 
@@ -215,7 +243,7 @@ Yuka watches them go.
 
 She says it while settling farther against him. He kisses the top of her head and finishes the breakfast she has graciously left on his plate.
 
-* * *
+---
 
 The daybed is better than Yuka expected.
 
@@ -259,7 +287,7 @@ She considers, then bends to kiss him once more instead of answering.
 
 She reaches across him for the drink on the small table and discovers that it is just beyond her fingers. He brings it closer. She takes a sip, gives him one and puts it where she can reach next time.
 
-* * *
+---
 
 At midday they go into the water again.
 
@@ -287,11 +315,49 @@ She opens one eye, looks up at him and smiles.
 
 He brings them nearer the steps before either of them gets tempted to negotiate the entire meal while floating.
 
-* * *
+---
 
 In the late afternoon they are still at the daybed.
 
-Yuka has read a few pages of a book, discussed the people in it with Mau and then put it aside because his opinion has annoyed her enough that she wants him to explain it. He does. She disagrees. They go back to the passage together and end up laughing over the part they both missed.
+Yuka has borrowed a slim novel from the shelf near the desk. Its title, The House with the Locked Garden, made her expect considerably more gardening than the first chapter contains.
+
+She gets to the bottom of a page and lowers it onto Mau's chest.
+
+“Why doesn't she ask for the key?” ʸ
+
+He reads the place she indicates. The woman in the story has climbed the garden wall three times to visit the music shop. This time she has lost a shoe on the other side.
+
+“Her father said she couldn't go.” ᴹ
+
+“He said she couldn't go through the front gate.” ʸ
+
+“I suspect the wall was included in the spirit of the arrangement.” ᴹ
+
+Yuka turns the book around to check.
+
+“She's twenty-six.” ʸ
+
+“Then perhaps he shouldn't have the key.” ᴹ
+
+“That's much better.” ʸ
+
+He takes the book from her and reads the next paragraph aloud. The woman retrieves her shoe by throwing the other one after it, hoping the shopkeeper will notice the pair.
+
+Mau stops.
+
+“I withdraw my support. She's going to kill someone with footwear.” ᴹ
+
+Yuka starts laughing. She reaches for the book, misses because he has kept it above her shoulder and moves across him to get it properly. He lifts his free arm around her back, steadies her and lets her win.
+
+“Keep reading,” she tells him, putting it back in his hand. ʸ
+
+“From the scene of the crime?” ᴹ
+
+“From where you stopped.” ʸ
+
+She lies with her cheek against his upper arm while he finds the place. The shopkeeper has indeed noticed the shoes. Unfortunately, he thinks they have fallen from the laundry above him and spends the next page trying to return them to a stranger.
+
+They are still laughing when Yuka declares that the woman ought to have thrown a note.
 
 When she lies back down, he follows her this time. She makes room without being asked, shifts the pillow beneath his head and puts one hand on his shoulder.
 

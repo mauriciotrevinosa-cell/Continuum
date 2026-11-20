@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 27 — The Good Bowl
+## Chapter 28 — The Good Bowl
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 27
+**Reading order:** 28
 **Source episode:** S13E86
 **Continuity state:** Mixed voluntary pairs activity; children choose Ori/Chloe, Frieren/Himmel work together. Mau already learned cooking with Rem/Momo for anniversary, not suddenly novice knife user. Yuka measurement mistake recovered by practical splitting, no new CT. Named old scars/fingers affect grip. Makima helps DIO by choice alongside Testarossa, first-friend integration without saintly makeover. No resumed sexual intimacy.
 
@@ -43,11 +43,11 @@ He looks toward the preparation tables beneath the awning.
 
 He decides to trust her judgment.
 
-* * *
+---
 
 Elmesia has let them use a working space beside the outdoor kitchen, with the cook present to demonstrate and no obligation for anybody to take over the actual evening service.
 
-There are ingredients laid out, bowls with measured portions and a board on which the stages have been written. Mau reads it while Yuka ties her hair back. He recognizes most of what they will be doing. Rem looks over from the next table and gives him a small, knowing smile.
+There are bowls of minced fish, cooked potatoes, spring onions and thin dough rounds. The cook calls what they are making folded pies: a savoury filling sealed in dough and baked until the underside holds its shape. Each pair will make the same pie and a yogurt-and-herb dip, then discover how different the same instructions can taste. Mau reads it while Yuka ties her hair back. He recognizes most of what they will be doing. Rem looks over from the next table and gives him a small, knowing smile.
 
 “Your anniversary was more complicated,” she says. ᴿᵉ
 
@@ -71,11 +71,9 @@ Yuka points. Rem nods and tells her to taste before adding the last of the seaso
 
 Umaru has taken the place beside Rem, already examining how much their pair is supposed to produce. She asks whether doing very well means receiving more of the finished food. Rem tells her that they can make enough to share. Umaru appears willing to negotiate from there.
 
-* * *
-
 The cook demonstrates the first stage.
 
-Mau watches the angle of the cut, the way the pieces are meant to fit together in the dish and the order in which the pan receives them. Yuka listens while reading the board again. She puts a finger beside the part she wants him to remember, then realizes that he is already watching it.
+Mau watches him cut the spring onions finely enough to soften in the pan, mash the potatoes with the fish and spread the filling below the centre of the dough. The cook moistens the edge with a fingertip, folds it over and presses out the air before closing the seam. He holds the finished half-moon up so everyone can see where the filling must stop. Yuka listens while reading the board again. She puts a finger beside the part she wants him to remember, then realizes that he is already watching it.
 
 “You heard.” ʸ
 
@@ -98,8 +96,6 @@ She takes the utensil from him and starts the stage he has been explaining.
 “Excellent.” ˢʰ
 
 Maki looks over from her own table with evident appreciation. Yuta has finished arranging the pieces she handed him and is waiting for the next instruction without pretending he has a better one.
-
-* * *
 
 Ori and Chloe are working with the part the cook has selected for them.
 
@@ -125,13 +121,13 @@ He smiles. She returns the cup and begins the next stage before he can make it a
 
 Mau sees Ori look over at them, satisfied that the adults have found their own arrangement. Then she gets back to making the next parcel large enough to deserve its filling.
 
-* * *
+---
 
 Yuka makes the seasoning with great seriousness.
 
 Mau cuts beside her, using the grip that leaves his damaged fingers comfortable instead of forcing them flat against the handle. He finishes a neat row, moves it into the bowl she indicates and looks up when she stops stirring.
 
-She has put the spoon against her lips and gone still.
+She has put the spoon against her lips and gone still. The white dip looks harmless. It tastes overwhelmingly of salt.
 
 “What?” he asks. ᴹ
 
@@ -165,13 +161,33 @@ Rem looks over at the sound of her own history being invoked. He raises the bowl
 
 “That's where I was going.” ᴹ
 
+He divides the dip between the two bowls. Rem points out the plain yogurt still waiting at the back of their table, and Yuka adds it a spoonful at a time, tasting after each addition.
+
+The first is still too sharp. After the third, Mau asks for a piece of the warm potato to try with it. The salt meets the unseasoned filling and stops being the only thing he can taste.
+
+“There,” he says. “Try it with this.” ᴹ
+
+She accepts the spoon, takes a careful bite and opens her eyes with relief.
+
+“That's food again.” ʸ
+
+“An impressive recovery.” ᴹ
+
+“We don't mention the middle stage.” ʸ
+
+“To anyone?” ᴹ
+
+She looks toward Umaru, already observing the second bowl with interest.
+
+“We say we're generous.” ʸ
+
 Yuka sets down the guilty measure and takes the second bowl from him.
 
 “We're going to have more than everyone else.” ʸ
 
 “Umaru will admire us.” ᴹ
 
-* * *
+---
 
 DIO and Elmesia choose the same table after the lesson has already begun.
 
@@ -191,7 +207,7 @@ Makima looks up.
 
 “We just did that part,” Testarossa adds. ᵀᵉ
 
-Makima puts down her utensil and goes to the other table. She shows DIO the motion she used, waits while DIO tries it and answers the question about pressure.
+Makima puts down her utensil and goes to the other table. She moistens the dough edge, presses with the side of a finger rather than the tip and folds a tiny section over itself. The raised seam holds without tearing. She gives DIO another round, waits while she tries it and tells her where to use less pressure.
 
 DIO succeeds on the next attempt.
 
@@ -199,7 +215,7 @@ DIO succeeds on the next attempt.
 
 Makima looks at the finished piece, then at her own table. She goes back to the task Testarossa has left ready for her.
 
-* * *
+---
 
 By the time the food reaches the heat, nobody's pair has produced quite the same thing.
 

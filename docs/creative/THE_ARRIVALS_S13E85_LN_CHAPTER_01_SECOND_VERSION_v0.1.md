@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 25 — Second Version
+## Chapter 26 — Second Version
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 25
+**Reading order:** 26
 **Source episode:** S13E85
 **Continuity state:** Long ensemble craft/beach activity, no techniques used to cheat flight. Couple actively create a bird kite together; initiative and affection, grey vision maintained. Makima first-friend request met with clear couple activity and offered help, learns own ordinary choice without sudden moral redemption. DIO/Elmesia shared awkward success and emerging attention. Ori/Frieren/Milim/Lantern family play; no actual new powers, implied all-name cameos or universal magic cure.
 
@@ -29,7 +29,7 @@ Milim takes them. She looks at Ori.
 
 Ori nods with renewed purpose.
 
-* * *
+---
 
 The kites divide into styles as soon as people begin drawing.
 
@@ -61,7 +61,7 @@ Mau closes his eyes beneath the cloth for a moment.
 
 “It's a very recognizable bird.” ʸ
 
-* * *
+---
 
 He is permitted to make one alteration.
 
@@ -93,7 +93,7 @@ Shoko has selected a very simple pattern.
 
 He ties it.
 
-* * *
+---
 
 DIO comes with Elmesia after they have finished at the glass workshop.
 
@@ -127,7 +127,7 @@ Makima takes in the distinction. It would be easy to ask again in a different fo
 
 Yuka moves the spare pencil closer to her without making a speech about it.
 
-* * *
+---
 
 The first launch belongs to Ori and Milim.
 
@@ -163,7 +163,7 @@ Mau gets a hand beneath hers when the line tightens. She turns toward him, delig
 
 He looks at her first, then at the shape she is pointing to.
 
-* * *
+---
 
 More kites join it.
 
@@ -183,7 +183,7 @@ Yuka nudges him.
 
 He puts his attention back where it belongs.
 
-* * *
+---
 
 Makima's first attempt goes sideways.
 
@@ -203,7 +203,7 @@ She holds the line, feeling the little changes arrive from something too far awa
 
 Makima watches him go for a second. Then she looks up at what she made and keeps it in the air.
 
-* * *
+---
 
 DIO and Elmesia have made a crooked little shape that requires both of them to discuss which side is wrong.
 
@@ -225,7 +225,7 @@ Mau sees Yuka notice it from the corner of her eye.
 
 He knows exactly what her smile means and stays beside her while she enjoys not saying it.
 
-* * *
+---
 
 Ori and Milim succeed on the fourth attempt.
 
@@ -247,7 +247,7 @@ Ori turns toward Mau and Yuka next, demanding witnesses from every important dir
 
 Lantern lies farther along the beach, head lifted to watch. The tails move above him without anyone needing him to do anything.
 
-* * *
+---
 
 They take the kites down before the evening wind grows stronger.
 
@@ -259,7 +259,7 @@ Mau winds the line while Yuka brings the bird back to him. It has survived with 
 
 “I'll decide at home.” ʸ
 
-He lets her fold it the way the woman showed them, keeping the frame supported, then stores it with the other things that should not be crushed by the contents of a castle.
+He lets her fold it the way the woman showed them, keeping the frame supported while the kite is still in their hands. Then he stores it. She has tied a little ribbon around the folded frame so she can recognize hers when all the kites come out together.
 
 Yuka brushes sand from his new shirt and finds that she has put more on it than she removed. He looks down. She looks at her hands.
 

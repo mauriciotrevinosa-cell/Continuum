@@ -105,7 +105,7 @@ Makima looks toward the bed, then back at her.
 
 “You can ask again.” ᴹᵏ
 
-Yuka looks at the other woman's hand, the one which was on his wrist. The hurt is still there. It does not become less petty because she knows exactly where it comes from.
+Yuka looks at the other woman's hand, the one which was on his wrist. The hurt is still there. Understanding where it comes from has not made it disappear.
 
 She raises her eyes.
 
@@ -117,7 +117,23 @@ Makima nods and leaves.
 
 For a while they do very little.
 
-Mau asks for water and finishes it without needing to watch Yuka drink first. She reads a short part of the book, stopping at a place where he asks what the character meant. They disagree about the answer. It is a small, uncertain disagreement, interrupted when he loses track of the paragraph, but it belongs to the page in front of them.
+Mau asks for water and finishes it without needing to watch Yuka drink first. She opens The House with the Locked Garden where they stopped on the balcony. The shopkeeper has returned both shoes to the wrong woman, who has decided the heroine ought to come and retrieve them herself.
+
+“She's making it worse,” Mau says. ᴹ
+
+Yuka looks up from the page.
+
+“The woman with the shoes?” ʸ
+
+“The one still throwing things over the wall.” ᴹ
+
+She laughs quietly.
+
+“She's thrown a letter this time.” ʸ
+
+“An improvement.” ᴹ
+
+He loses the next paragraph and asks her to read it again. She does, finding the sentence with her finger. When he points out that the letter has landed in the wet gutter, she turns back to check instead of asking how he feels.
 
 Yuka leaves the book open on the table.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 17 — The First Glass
+## Chapter 18 — The First Glass
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 17
+**Reading order:** 18
 **Source episode:** S13E81
 **Continuity state:** Mau already knows and loves carajillos, not first discovery. Consensual optional alcohol; Anko/Gojo talkative after first glass without sickness or drunken sexual escalation. Couples and adult household convivence; Shizue students resident nearby, never outsiders at school. Inner DIO/Noise/Ciel privacy retained and Noise concise. Makima participates from beginning, still capable of directing but chooses ordinary moment. No handholding permission for Makima yet.
 
@@ -43,11 +43,11 @@ He puts his hand over hers for a moment around the glass.
 
 “I had a theory.” ᴹ
 
-* * *
+---
 
 They have chosen a table near the end of the terrace, after dinner, while the younger ones are occupied with dessert and an argument about a game further along.
 
-Nobody has been required to drink. Frieren has something warm without alcohol. Yuta has chosen the same, though he spends a while defending the choice when Gojo suggests that the evening might be an opportunity to expand his education.
+Frieren has ordered mint tea. Yuta has chosen the same, though he spends a while defending the choice when Gojo suggests that the evening might be an opportunity to expand his education.
 
 “I've learned enough from you,” Yuta says. ʸᵗ
 
@@ -71,7 +71,7 @@ Anko sits down beside Hinata with a drink she selected because she liked the des
 
 Milim takes the plate, delighted that the argument has produced such a useful outcome.
 
-* * *
+---
 
 The first glass makes Anko talkative.
 
@@ -95,7 +95,7 @@ Hinata laughs before she can help it. Anko looks at her, loses the rest of her a
 
 Mau takes another sip of his carajillo. Yuka reaches for his hand under the table and settles it on her knee.
 
-* * *
+---
 
 Gojo's first glass has a similar effect, with a different subject.
 
@@ -123,11 +123,11 @@ Mau has to put his glass down before laughing. Yuka presses her fingers into his
 
 She lifts his hand and kisses the damaged knuckles, quick and affectionate, then leaves it between both of hers while the others continue talking.
 
-* * *
+---
 
 DIO is describing the glass workshop to Noise.
 
-She has chosen to go inside again for a while rather than trying to make the range of her manifested body fit every chair arrangement. Elmesia knows where she has gone. They finished their discussion before DIO stepped back, leaving the wrapped vessel with Yuka for safekeeping.
+She has gone inside to tell him about the workshop while the table outside begins another conversation. Elmesia knows where she has gone. They finished their discussion before DIO stepped back, leaving the wrapped vessel with Yuka for safekeeping.
 
 Mau hears only what they choose to include him in. The rest remains theirs.
 
@@ -149,7 +149,7 @@ Mau looks across the table at Elmesia. She catches the glance and raises one eye
 
 He relays it. DIO's pleased answer comes back so quickly that his smile reaches Elmesia before the words do.
 
-* * *
+---
 
 Makima has a chair at the corner of the table.
 
@@ -177,7 +177,7 @@ Yuka looks over.
 
 Makima takes another small sip. This time she attends to what it tastes like rather than what somebody might infer from her choice.
 
-* * *
+---
 
 The evening lengthens without an announcement.
 
@@ -201,11 +201,11 @@ She stays close enough that the next thing she says is for him alone.
 
 He turns toward her. For a few seconds the conversation keeps going without them, and they let it.
 
-* * *
+---
 
 They walk home rather than letting Yuka put her argument for carrying to the table.
 
-She has her arm around his waist. He has hers around his shoulders. Neither appears interested in reaching the room quickly, and twice they stop so she can point out a patch of light on the water that he looks at through the small gap in the cloth.
+She has her arm around his waist. He rests his arm over her shoulders. Neither appears interested in reaching the room quickly, and twice they stop so she can point out a patch of light on the water that he looks at through the small gap in the cloth.
 
 “You liked your drink,” she says. ʸ
 

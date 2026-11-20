@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 6 — Yours and Mine
+## Chapter 7 — Yours and Mine
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 6
+**Reading order:** 7
 **Source episode:** S13E75
 **Continuity state:** Ori morning POV transitions at breakfast. All travelers arrived together prior night; four-person outing while others choose own plans. Known bird caught harmlessly with learned Frieren spell, released by separate fruit bowl, still steals. No new familiar or injury. Existing island pass covers meal. Cloth remains voluntary visual moderation. First west-beach outing begins.
 
@@ -43,7 +43,7 @@ Ori waits beside the door while she gets ready. She thinks about the shallows El
 
 When Frieren takes her hand, Ori is ready enough for both of them.
 
-* * *
+---
 
 Mau and Yuka are already outside.
 
@@ -75,7 +75,7 @@ Yuka takes the little bag from her shoulder while they look. She checks the wate
 
 Ori thinks about that, then lets go of the strap.
 
-* * *
+---
 
 The poolside tables are mostly empty.
 
@@ -133,7 +133,7 @@ Mau looks at the bird.
 
 “So have I.” ᴹ
 
-* * *
+---
 
 He releases it beside the fruit bowl.
 
@@ -195,7 +195,7 @@ She nods against him.
 
 The bird finishes its piece and begins looking at his plate again.
 
-* * *
+---
 
 After a while Mau gives up dividing the fruit.
 
@@ -223,7 +223,7 @@ He reaches across and taps one finger gently against the brim of her hat.
 
 “I'll take a little.” ᴹ
 
-* * *
+---
 
 The path to the west steps is still quiet when they leave breakfast.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 8 — A Little While
+## Chapter 9 — A Little While
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 8
+**Reading order:** 9
 **Source episode:** S13E76
 **Continuity state:** Milim uses invitation loophole of privacy rules to invite couple without forcing them; planned brief game becomes whole family day. Team play limited no techniques/boosting, Milim ordinary strength adjusted. Ori/Chloe shell gift; full household friendships and Sung family visible. DIO/Elmesia/Testarossa/Makima join naturally. Makima observes first friend without new handholding permission. Lantern nonverbal, no new guard speech. Couple choose to remain all day.
 
@@ -109,7 +109,7 @@ Yuka puts her hand in his.
 
 “That's what I said.” ʸ
 
-* * *
+---
 
 The game has changed twice by the time they reach it.
 
@@ -139,7 +139,7 @@ Umaru looks at Mau. He looks at the lines in the sand, at the rope pretending to
 
 Everybody gives him a slightly different answer.
 
-* * *
+---
 
 They settle on getting the ball across the rope without letting it touch the sand.
 
@@ -173,7 +173,7 @@ Maki, standing at the edge with an unopened drink, lowers her head into one hand
 
 Milim looks offended. Then she goes to get the ball.
 
-* * *
+---
 
 The next serve stays on the beach.
 
@@ -207,7 +207,7 @@ Mau retrieves the ball and hands it through the rope to his wife. She takes it w
 
 He spends the next point trying not to smile.
 
-* * *
+---
 
 People drift into the shade between rounds.
 
@@ -243,7 +243,7 @@ On the bench behind them Frieren turns a page.
 
 “I know,” he says. ᴹ
 
-* * *
+---
 
 Lunch finds them before they go looking for it.
 
@@ -289,7 +289,7 @@ She kisses the corner of his mouth.
 
 “You can complain after lunch.” ʸ
 
-* * *
+---
 
 After lunch, Shion challenges someone to a game she has misunderstood.
 

@@ -203,7 +203,7 @@ Then he remembers all the times he did.
 
 He leaves while the inn is still busy.
 
-Fern has added something to his supplies and objects when he calls it unnecessary. He takes it without further argument. Bocchi moves out of the doorway with a hurried little apology, although he is the one who has stopped in front of her. Eren stands farther along the path, watching the line of trees.
+Fern has added wool socks and another cloth-wrapped loaf to his supplies and objects when he calls them unnecessary. He takes it without further argument. Bocchi moves out of the doorway with a hurried little apology, although he is the one who has stopped in front of her. Eren stands farther along the path, watching the line of trees.
 
 “Alone?” Eren asks. ᴱʳ
 

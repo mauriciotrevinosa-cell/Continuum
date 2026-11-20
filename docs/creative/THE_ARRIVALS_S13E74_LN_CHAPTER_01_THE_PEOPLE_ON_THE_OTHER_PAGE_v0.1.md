@@ -63,9 +63,9 @@ Anko takes the pencil out of her hair and writes something without looking. Hina
 
 Mau retrieves the fallen diagram, makes certain they don't need him and goes to find Yuka before Anko remembers who arranged it.
 
-* * *
+---
 
-Testarossa steps out of the agreed shadow in the orchard with her own hat and Antonio at her shoulder.
+DIO and Makima have returned inside for the collection trips. Mau is back from the agreed collection point by the time Anko has finished showing Hinata the revised list. Testarossa arrives with him in the orchard, her own hat already on and Antonio at her shoulder. The soldier exchanged to the other end will stay there until Mau's return interval has passed.
 
 The ant straightens to his full height before turning toward Mau. His carapace catches the light along the shoulders. A claw rests lightly against the luggage Testarossa has brought; he waits until she takes her hand off the handle, then lifts it.
 
@@ -91,7 +91,7 @@ Antonio raises the banded arm obligingly. Ori raises a hand back.
 
 Testarossa puts her luggage beside the other labelled things, gives Anko a polite greeting and tactfully does not ask why Hinata is holding the pencil while Anko holds her hand.
 
-Luminous arrives during the discussion of the revised departure. Mau has sent the agreed notice before opening the route. She comes through already looking at the field, stops at the sight of the shikigami and then notices the passenger structure being checked by Senku.
+Mau makes the remaining collection after the interval and the agreed notice. He returns with Luminous during the discussion of the revised departure, bringing her to the familiar soldier in the orchard. She is already looking at the field when they arrive. She stops at the sight of the shikigami, then notices the passenger structure being checked by Senku.
 
 “You built one.” ᴸᵘ
 
@@ -139,7 +139,7 @@ From the porch, Daphne is already asking whether the place has plants she can lo
 
 She closes her eyes, satisfied.
 
-* * *
+---
 
 The departure waits for the longer test.
 
@@ -199,45 +199,51 @@ Mau sends their expected arrival window to Elmesia through the arrangements alre
 
 He reads the last part aloud. DIO asks what she was planning to order.
 
-* * *
+---
 
-Mai and Momo find him beside the shikigami.
+Mai catches Mau while he is putting away the last of the test weights.
 
-“For the flight,” Mai says, “could we go on Kamish?” ᴹᵃ
+“If we wanted a different ride, could we take Kamish?” ᴹᵃ
 
-Momo's hand is in hers. Mau glances down, then back at their faces. Momo draws herself a little straighter on her broom.
+“You can ask him.” ᴹ
 
-“Flying on this would be fine,” she says. ᴹⁿ
+She looks toward Momo Nishimiya, who has stopped beside her broom with the exaggerated attention of somebody who has not been listening.
 
-“You asked about the view,” Mai tells her. ᴹᵃ
+“Us?” Momo asks. ᴹⁿ
 
-“I was making conversation.” ᴹⁿ
+“Unless you were planning to leave me on the ground.” ᴹᵃ
 
-“Then we can make conversation on Kamish.” ᴹᵃ
+Mai takes her hand.
 
-Mau turns toward the shadow beneath the trees. Kamish raises his head when called, the shape of his jaws passing out of the dark into daylight. Momo's fingers tighten. Mai looks at her.
+She does it before asking whether the broom needs carrying. Momo looks down at the contact, then up at Mai, and forgets the entirely sensible answer she had prepared about not needing a dragon to fly.
 
-“We can sit where I can hold on to you,” she says quietly. ᴹᵃ
+“It can stay,” she says at last. ᴹⁿ
 
-Momo looks down at their joined hands as if this is information she has not yet processed.
+“The broom?” ᴹᵃ
 
-“Can you take them once we have checked the harness?” Mau asks. ᴹ
+“Yes, the broom.” ᴹⁿ
 
-Kamish considers the two women with an old, measuring eye.
+Mai smiles and leads her toward the trees. Mau turns enough to give them room, calling Kamish into the clear space beyond the fence.
 
-“If they remain where they are secured, Monarch.” ᴷ
+The dragon's head rises through the shade. Momo stops. Mai stops with her instead of using their joined hands to pull her closer.
 
-Momo straightens on her broom. Mai moves closer when the dragon lowers his head, listening instead of speaking about him as though he cannot answer.
+“Would you take us on the flight?” Mai asks him. “Together. If we make somewhere secure to sit.” ᴹᵃ
 
-“We can manage that,” Mai says. ᴹᵃ
+Kamish lowers his head until he can examine both of them.
 
-“Then I can manage the flight.” ᴷ
+“How many seats?” ᴷ
 
-“We still check the harness,” Mau says. “And no showing off over the sea.” ᴹ
+“Two.” ᴹᵃ
 
-“Tell him,” Mai says, pointing to Kamish. ᴹᵃ
+“There is room.” ᴷ
 
-Kamish exhales through his nose. It lifts the edge of Momo's enormous brim.
+“And something to hold,” Momo adds, finding her voice. ᴹⁿ
+
+“There is no virtue in falling off.” ᴷ
+
+Mai laughs. The sound helps Momo look past the teeth to the dragon answering them. She asks where he bends when he turns. Kamish moves one shoulder to show her. Mai watches the changing angle, already thinking about a fastening.
+
+Mau leaves them with the drawing board when Mai waves him away. By the time he finishes checking Anko's second list, they are still discussing the view.
 
 Anko arrives with Hinata and the remaining notices. She sees where Mai is standing and immediately gets an idea.
 
@@ -275,4 +281,36 @@ Mau returns the untested dragon to shadow. Its outline closes over the grass. Yu
 
 She nods. He moves his hand so their fingers fit, then walks with her back to the table.
 
-Behind them Mai is still talking to Momo about where they would sit. Momo's hand has not left hers.
+They are checking the platform when Mai returns.
+
+Momo walks beside her rather than floating on the broom. Her hand is still in Mai's. She has pushed the huge brim back, exposing a face which becomes considerably pinker when Mau looks up.
+
+“We're going to wait on the Kamish flight,” Mai announces. “Momo got frightened.” ᴹᵃ
+
+“I did not.” ᴹⁿ
+
+“She had concerns.” ᴹᵃ
+
+“I asked about the straps. You asked about the straps.” ᴹⁿ
+
+Mai looks down at their joined hands, then back at Mau.
+
+“Serious concerns.” ᴹᵃ
+
+Momo begins answering, notices Mai smiling at her and loses the argument somewhere between the two expressions. She does not take her hand away.
+
+Mau makes himself look at the drawing.
+
+He knows that face. He has made enough versions of it around Yuka to recognize someone discovering that a perfectly ordinary hand can make the rest of the yard difficult to use. Momo will want to ask him something sooner or later. He is not going to make her do it in front of Mai.
+
+“Another day, then,” he says. ᴹ
+
+“If that's still all right,” Momo says. ᴹⁿ
+
+Kamish answers from beyond the fence.
+
+“I do not become smaller while you wait.” ᴷ
+
+“That's reassuring,” Mai says. ᴹᵃ
+
+Momo laughs before she can help it. Mai turns toward the sound, pleased, and Mau suddenly finds something extremely absorbing about the boarding rail.

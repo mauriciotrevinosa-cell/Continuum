@@ -143,7 +143,7 @@ Makima looks toward the closed door. She does not step closer to it.
 
 Yuka closes her eyes.
 
-For a moment she is angry at the precision. At Makima being able to name something she has been trying to understand by watching his face. The anger has nowhere fair to go, and she is too tired to dress it up as a different feeling.
+For a moment she is angry at the precision. At Makima being able to name something she has been trying to understand by watching his face. She wants the precision to help. It does help. That makes it harder to know what to do with the ache it leaves behind.
 
 She opens her eyes again.
 

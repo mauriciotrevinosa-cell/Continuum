@@ -41,7 +41,27 @@ She is still for a moment.
 
 “Then how do I know it's useful?” ʷᵈ
 
-“You don't.” ᴹ
+“You don't know how you'll use it. You know why you came here.” ᴹ
+
+Yoru's eyes narrow.
+
+“People were afraid of the house before the armies arrived,” he continues. “You watched those armies fail. Now you want to know what would make the next war different.” ᴹ
+
+“You don't know what I want.” ʷᵈ
+
+“Then ninety days is too much for something you've already seen.” ᴹ
+
+He leaves his hand beside the paper. She glances at it, then at his wife.
+
+“A fight ends,” Yoru says. “What it makes out of people can last much longer.” ʷᵈ
+
+“This one didn't end when they stopped hitting each other.” ᴹ
+
+For the first time she stops looking for the shape of a demonstration. He can see her considering what a man like him might make of the people around him after a war has taken away the thing he fought for.
+
+“And I see that part.” ʷᵈ
+
+“In the memory I choose. No more.” ᴹ
 
 Yoru studies his face, looking for the part of the offer which will tell her how to value the rest. He can feel himself wanting to explain. He lets the silence do its work instead.
 
@@ -193,19 +213,19 @@ Mau stands in the entrance with a cup in his hand.
 
 He knows he has been here before. That knowledge has followed him into too many mornings to help him decide what this one is going to do.
 
-Frieren sits beside the window. She has a book open, but one finger rests across the page where she stopped reading to listen to Fern. Fern is holding something which has been folded badly. The discussion appears to concern whether putting it down counts as putting it away.
+Frieren sits beside the window. She has a book open, but one finger rests across the page where she stopped reading to listen to Fern. Fern is holding a tablecloth which has been folded into a thick, unsteady square. The discussion appears to concern whether putting it down counts as putting it away.
 
 Milim calls him from the table.
 
 “You're in the way.” ᴹⁱ
 
-He moves. She gets past him carrying something she has clearly been told not to carry that way.
+He moves. She gets past him carrying a tureen by its lid, with the base balanced against her other wrist.
 
 “That's going to spill,” he says. ᴹ
 
 “Then help.” ᴹⁱ
 
-He takes the other end. They get it to the table without spilling very much, and Rimuru tells them he is impressed by the improvement.
+He gets both hands beneath the tureen. They get it to the table without spilling very much broth, and Rimuru tells them he is impressed by the improvement.
 
 It is an ordinary conversation.
 

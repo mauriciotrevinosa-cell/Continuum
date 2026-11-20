@@ -1,12 +1,12 @@
 # The Arrivals — Light Novel — Volume 82 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — in production; only indexed chapters are written.
+**Status:** LN PRODUCTION DRAFT — reviewed island and homecoming draft; castle event in production.
 **Volume:** 82
 **Season:** 13
-**Coverage:** S13E89–S13E98; Island III, ongoing
-**Chapter files:** 20
+**Coverage:** S13E89–S13E100; Island III
+**Chapter files:** 23
 
-The arc remains open; counts are not quotas.
+Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
 ## Reading order
 
@@ -32,3 +32,6 @@ The arc remains open; counts are not quotas.
 | 18 | S13E97 | For a Little While | `THE_ARRIVALS_S13E97_LN_CHAPTER_02_FOR_A_LITTLE_WHILE_v0.1.md` |
 | 19 | S13E98 | After Lunch | `THE_ARRIVALS_S13E98_LN_CHAPTER_01_AFTER_LUNCH_v0.1.md` |
 | 20 | S13E98 | Tomorrow | `THE_ARRIVALS_S13E98_LN_CHAPTER_02_TOMORROW_v0.1.md` |
+| 21 | S13E99 | The Second Lesson | `THE_ARRIVALS_S13E99_LN_CHAPTER_01_THE_SECOND_LESSON_v0.1.md` |
+| 22 | S13E99 | The Things Waiting at Home | `THE_ARRIVALS_S13E99_LN_CHAPTER_02_THE_THINGS_WAITING_AT_HOME_v0.1.md` |
+| 23 | S13E100 | You Can Ask | `THE_ARRIVALS_S13E100_LN_CHAPTER_01_YOU_CAN_ASK_v0.1.md` |

@@ -205,6 +205,28 @@ Yoru looks at her with renewed interest.
 
 “When somebody is offering not to kill people, yes.” ʸ
 
+“Suppose I give someone a weapon,” Yoru says. “I don't use it. They choose where to point it.” ʷᵈ
+
+“If you gave it to them so they could kill somebody during the agreement, you've arranged it.” ᴹ
+
+“And if they already have it?” ʷᵈ
+
+“Is there an order you can withdraw?” ᴹ
+
+She looks at him for a moment. He leaves the question there.
+
+“You don't get to claim every person who has ever held a weapon is following me.” ʷᵈ
+
+“I haven't claimed that.” ᴹ
+
+“No killing,” she says, trying another edge. “Then I can challenge someone from your house as long as I don't finish them.” ʷᵈ
+
+Yuka's hand tightens on Mau's knee.
+
+“That's why the other condition says no attacks on us,” he answers. “A fight we choose to arrange separately is a different conversation. You don't obtain it by keeping someone alive.” ᴹ
+
+Yoru touches the changed pin on the table. The argument has finally become interesting enough to draw her attention away from the reaction she wanted to provoke.
+
 The terms become shorter as they become more exact. She will not kill anyone, arrange their death, provide a means for a killing she intends to occur during the covered period, or use another person to do what she has agreed not to do. Existing plans under her direction which would cause such a death during that time must be stopped. She cannot be held responsible for an independent stranger merely because war pleases her.
 
 The house and its people will not be attacked by her or through her instructions while the agreement holds. Preparing a later plan is not the same as carrying one out now. She can watch a future fight if Mau separately agrees to the place and occasion; the contract gives her no address, summons or right to put somebody else in danger to produce one.

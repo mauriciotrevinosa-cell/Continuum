@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 15 — The Boat with Lunch
+## Chapter 16 — The Boat with Lunch
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 15
+**Reading order:** 16
 **Source episode:** S13E80
 **Continuity state:** Existing Elmesia seal covers boat and food; selected ordinary itinerary, no universal teleportation. Couple relaxed exploration and playful mutual affection. Mau vision remains grey except Yuka and moderated by cloth; no reserve depletion. Physical scars/fingers retained; Yuka pause remains. Genuine own wishes and gentle activities, no new attack.
 
@@ -37,11 +37,11 @@ He takes her hand to help her over the gap.
 
 “You can.” ᴹ
 
-* * *
+---
 
 They leave the pier slowly enough to watch the island rearrange itself.
 
-Buildings that looked close from the path separate into different levels. The wall they climbed yesterday becomes a line above the roofs. Yuka picks out their turn, then the wrong one, and points at the little patch of shade where they sat.
+Buildings that looked close from the path separate into different levels. The wall they climbed two days ago becomes a line above the roofs. Yuka picks out their turn, then the wrong one, and points at the little patch of shade where they sat.
 
 “We could have waved to the boat,” she says. ʸ
 
@@ -73,7 +73,7 @@ He laughs and keeps holding her hair until she finds the tie around her own wris
 
 Neither comments on this discovery. The restraint costs him something; she can see it at the corner of his mouth.
 
-* * *
+---
 
 The shaded seat is wide enough for Yuka to sit facing him with one knee tucked beside his leg.
 
@@ -107,11 +107,27 @@ She is very good at telling him exactly what she means. Occasionally she changes
 
 He puts his arm around her and does.
 
-* * *
+---
 
 Lunch arrives while she is telling him where she would put the bed if she owned a room facing this side of the water.
 
-The crew member sets the dishes on the little table and shows them the catch that was prepared for today. Yuka asks which part he recommends trying first. Mau waits until she has made her selection, then takes a different piece so she can compare them.
+The crew member sets a dish of grilled fish between them, the skin blistered where it has touched the grate. There are flatbreads wrapped in a warm cloth, sharp green sauce and a bowl of sliced cucumber which Yuka initially mistakes for something sweet.
+
+“Try it with the bread first,” he suggests when she asks. ᵃᵗᵗ
+
+Mau holds a piece open while she chooses the fish. She adds cucumber, tastes the sauce from the back of her fork and decides he should have that one.
+
+“Why?” ᴹ
+
+“You'll like it.” ʸ
+
+He tries a little. The heat arrives after the herbs. She watches his expression with completely unconvincing innocence.
+
+“You liked it,” she insists. ʸ
+
+“Eventually I may feel other things again.” ᴹ
+
+The crew member brings the yogurt without being asked. Mau thanks him with genuine feeling. Yuka tears another flatbread, laughing, and uses less sauce in the portion she makes for herself.
 
 He is halfway through his second bite when he notices her watching him.
 
@@ -141,7 +157,7 @@ She puts the portion on his plate, takes the one he offers and sits back against
 
 He agrees. They spend the rest of lunch comparing things rather than keeping track of whose plate each came from.
 
-* * *
+---
 
 At the stop they go ashore with a basket and their sandals in hand.
 
@@ -157,7 +173,7 @@ After a few minutes she grows quiet.
 
 Mau waits without filling the space. She has both hands around one of his, her thumb moving slowly across the damaged fingers. The boat creaks against its rope. Water comes close enough to wet the lower edge of their footprints and goes away again.
 
-“I liked yesterday,” she says. ʸ
+“I liked our walk to the wall,” she says. ʸ
 
 “Even the gate?” ᴹ
 
@@ -177,7 +193,7 @@ He puts his free hand over the two she has around his.
 
 “So do I.” ᴹ
 
-* * *
+---
 
 They walk before going back aboard.
 
@@ -209,7 +225,7 @@ She finds him a flatter stone and demonstrates the wrist movement twice. He foll
 
 He pulls her close enough to kiss her. She keeps laughing against his mouth until he has to stop laughing too.
 
-* * *
+---
 
 On the way back she sits with her head against his chest.
 

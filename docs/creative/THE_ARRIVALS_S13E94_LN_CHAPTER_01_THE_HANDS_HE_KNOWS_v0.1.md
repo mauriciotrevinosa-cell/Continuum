@@ -25,9 +25,9 @@ He sees the frightened part of her before she hides it. He has seen that express
 
 “I'm trying,” he says. ᴹ
 
-Something strikes the space beside her.
+A ridge thrusts through the floor beside her heel. The boards lift in a straight line, too close to where she has planted her weight. She steps across it instead of away from him.
 
-The wall behind it breaks. Milim throws herself forward, reaches him and catches his wrist before his hand can finish moving.
+The wall behind her breaks where the ridge reaches it. Milim throws herself forward, reaches him and catches his wrist before his hand can finish moving.
 
 “Then stop.” ᴹⁱ
 
@@ -35,9 +35,11 @@ He tries.
 
 The effort is real. He can feel himself making it: the thought of holding still, the wish to keep the room around them intact long enough for her to say something else. His fingers open. Her grip loosens because she feels them do it.
 
-The next change does not begin in his hand.
+The next change begins beneath his knee.
 
-Milim sees it before he does. She lets go and moves, so quickly that the space she occupied has not finished breaking when she reaches the yard.
+The floor drops. Milim catches his elbow with her free hand, trying to keep him from falling, and the stone below the broken boards rises toward both of them. He sees the strain in her arm before he understands that she is holding him above something his own body made.
+
+She lets go only when a second ridge begins to close the space beside her. It catches the torn edge of her sleeve. She rips it free and reaches the yard before the two edges meet.
 
 Mau stares at the place where she was.
 
@@ -77,13 +79,17 @@ Rimuru raises a hand.
 
 A boundary forms across the yard. Mau recognizes the intent before the shape: contain this, keep it from reaching the rest. He wants it to work so badly that for a moment he mistakes wanting for agreement.
 
-The construction inside him meets the boundary.
-
-He feels it learn.
+The first blow stops against it. Mau feels the resistance travel back through his arm. For one instant the boundary is an answer: Rimuru has him, and nothing outside it has to become part of the room.
 
 The wheel turns.
 
-Rimuru's expression changes.
+His other hand presses against the same place. The response beneath his skin changes before the palm touches. A thin opening appears where there was no join, and Rimuru shifts the boundary to close it.
+
+Mau's fingers move with the closing edge.
+
+He feels it learn.
+
+Rimuru looks directly at him through the narrowing space. Mau recognizes the calculation in his face: another stronger wall will be another thing that teaches him how to get out.
 
 ---
 
@@ -101,7 +107,11 @@ Come back.
 
 Eren is too far away to hear.
 
-Light breaks through the space between them. A shape rises beyond the yard, too large for the trees which stood there a moment ago. The ground shifts under Mau's feet. He should look away from the pressure gathering in front of him. Instead he looks up, recognizing the decision rather than the face.
+The trees bend away from a hand larger than the entrance. Eren's changed body rises beyond the yard, leaving the road behind Mau open while closing the direction toward the rooms. The broad palm lowers without striking. He is trying to pin Mau where Rimuru can contain him, not crush the building behind him.
+
+Mau sees the fingers spread to keep the pressure even.
+
+He should look away from the force gathering in front of him. Instead he looks up, recognizing the decision rather than the face.
 
 They are trying to stop him.
 
@@ -167,7 +177,15 @@ He knows the hands.
 
 He cannot make knowing fast enough.
 
-There is a moment when all three of them are moving. He can see enough to understand the shape of it: Rimuru giving the others a space to work, Milim taking the risk because she can reach him, Eren closing the direction he keeps trying to take.
+There is a moment when all three of them are moving. Rimuru gives ground toward the road, keeping Mau's attention on the open space. Milim crosses behind the raised earth and catches both his arms. Eren's palm closes the route back to the inn without touching her.
+
+For a breath she has him. Her forehead is almost against his, her grip painfully real above his wrists.
+
+“Stay still with me,” she says. ᴹⁱ
+
+Mau stops trying to pull away. He looks at the hurt on her mouth and tries to say her name.
+
+Behind her, Rimuru has begun closing the second boundary.
 
 They know one another. They have chosen this together.
 

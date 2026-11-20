@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 14 — Out Loud
+## Chapter 15 — Out Loud
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 14
+**Reading order:** 15
 **Source episode:** S13E79
 **Continuity state:** Continues full-day chosen private mind-link conversation. Rain stop and family market overlap, couple balcony affection, Bocchi/Kita music. Evening misunderstanding resolved: they have talked all day via existing link, no actual quarrel or separate married lives. Gojo teasing and Yuta overthinking; no household knowledge reset. Speaker markers on spoken and internal dialogue.
 
@@ -33,7 +33,7 @@ Across the table, Mau asks Mai what she is going to do with the material she bou
 
 Yuka's shoulder shakes once. Mau keeps his face perfectly straight while Mai explains why he will find out when she is ready.
 
-* * *
+---
 
 The afternoon brings a little rain.
 
@@ -65,7 +65,7 @@ The girl takes it back at once, evidently satisfied that his opinion agrees with
 
 She moves a piece of bread into his hand without interrupting her conversation.
 
-* * *
+---
 
 When the rain eases, they return by the covered path.
 
@@ -91,7 +91,7 @@ They move on. Yuka waits until they are a few steps away before sending Mau the 
 
 She laughs and puts her hand over her mouth when Byakuya looks back. Mau takes the bag from her other shoulder so she can keep laughing without dropping it.
 
-* * *
+---
 
 They change out of the damp things and sit on the balcony until the paths dry.
 
@@ -121,7 +121,7 @@ She studies him, then kisses him. He draws her closer with one hand at her back 
 
 She groans, puts her forehead against his and makes him explain the rest.
 
-* * *
+---
 
 They hear Bocchi playing before they reach the sheltered terrace.
 
@@ -179,7 +179,7 @@ For a second neither answers.
 
 Then Yuka begins to laugh.
 
-* * *
+---
 
 “We've been talking all day,” Mau says. ᴹ
 
@@ -227,7 +227,7 @@ Umaru points a finger at Mau.
 
 She considers this and begins laughing too.
 
-* * *
+---
 
 Later, walking back to their room, Yuka keeps her arm around his.
 

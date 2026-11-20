@@ -21,11 +21,11 @@ Mau makes sure of this before putting the dishes away. Yuka has already stretche
 
 She turns toward him.
 
-“I was wondering what makes this the right time to do nothing.” ᴹᵏ
+“I was deciding whether to suggest we take the path now, before it gets hotter,” she says. “Then I thought you might both rather stay.” ᴹᵏ
 
 Yuka opens one eye.
 
-“Lunch.” ʸ
+“Stay. Lunch has earned a recovery period.” ʸ
 
 Mau laughs. Makima looks at the place the food occupied, then back at Yuka.
 
@@ -66,8 +66,6 @@ Mau reads to the end.
 “An excellent development,” Makima says. ᴹᵏ
 
 Yuka settles against Mau again and asks her to read the next part aloud.
-
----
 
 They listen until the shade has shifted enough to make Yuka move the edge of the cloth.
 
@@ -111,7 +109,7 @@ The steps turn out to be worth the complaint. Yuka reaches the top and announces
 
 Makima goes inside first. When they join her, she is looking at a shelf of small wrapped sweets and trying to determine which are made nearby.
 
-The woman behind the counter explains. Yuka asks about the filling of one she has not seen before. Mau asks whether it will survive the trip home, because he already knows where the question will lead.
+The woman behind the counter cuts open a sesame sweet to show them the dark fig paste inside. The pale ones beside it contain ground almonds. Yuka asks whether the almond version is as sweet as the sesame one. Mau asks which they should take home for people who will definitely open the packet before reading its name.
 
 Makima chooses a packet before either of them has finished.
 
@@ -125,9 +123,9 @@ She pauses.
 
 The woman offers a little piece from the opened sample. Makima tries it. She considers the taste before answering rather than looking for the response most likely to keep the conversation agreeable.
 
-“It is.” ᴹᵏ
+“The almonds are better than the sesame,” she says. “The outside isn't as sweet.” ᴹᵏ
 
-Yuka buys another packet. Mau looks between them with a helpless resignation both women appear to find entertaining.
+Yuka tries the second sample, disagrees and takes the packet with the fig filling. Makima keeps the almond one. They look at Mau when he tells the woman he will need both. Mau looks between them with a helpless resignation both women appear to find entertaining.
 
 “I was saving room for dinner,” he says. ᴹ
 

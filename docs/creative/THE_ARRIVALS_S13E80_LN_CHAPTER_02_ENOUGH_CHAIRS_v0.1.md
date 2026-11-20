@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 16 — Enough Chairs
+## Chapter 17 — Enough Chairs
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 16
+**Reading order:** 17
 **Source episode:** S13E80
 **Continuity state:** Luminous reconnects at long tea with all seven resident witches; prior friendship respected. DIO/Elmesia/Testarossa and Makima participate naturally; no automatic forgiveness or emotional cure. Couple join after boat, familiar bonds and practical gardening discussion. DIO attraction emerges in choices not declaration. Gift from Elmesia remains unspecified. No new magic or plant relocation executed.
 
@@ -31,8 +31,6 @@ Carmilla takes the packet nearest her, reads the label and smiles into the edge 
 
 They begin with what Luminous brought last time and work outward from there.
 
-* * *
-
 An hour passes before somebody mentions the hour.
 
 Echidna has a question about the way the island keeps its kitchens supplied. Luminous answers the part she knows, points out what Elmesia would know better and refuses to have three unrelated questions treated as though they were one.
@@ -55,11 +53,11 @@ Daphne has already shown Luminous the packets she bought at the market. The exch
 
 Minerva objects to the delight with which Luminous says it. Luminous points out that she is offering gardening advice, not an injury. Pride laughs so hard that she has to put down the thing she has finally selected from the tray.
 
-* * *
+---
 
 The others approach when the conversation has made room for them.
 
-Elmesia comes first, carrying a pot she was told they would want to inspect. DIO walks beside her with the small finished vessel from the workshop wrapped in cloth. Testarossa follows with Antonio, who pauses at the outer edge until she indicates a clear place for him.
+Elmesia comes with Testarossa, carrying a pot she was told they would want to inspect. Antonio pauses at the outer edge until Testarossa indicates a clear place for him. A second parcel rests beneath Elmesia's arm: DIO's finished vessel from the workshop, which she has been keeping until they can compare it with the plants.
 
 “I thought this might save you an argument,” Elmesia says, putting the pot beside Daphne. ᴱˡ
 
@@ -69,19 +67,53 @@ Daphne looks at it. Then at her packets.
 
 Elmesia laughs and takes the chair Luminous offers.
 
-DIO unwraps the little vessel to show them. Carmilla asks what it will hold. DIO begins describing the cutting Anko brought back, stops and explains that the original plant is different, and then becomes sufficiently interested in the distinction that Elmesia has to find a spare piece of paper.
+Elmesia unwraps one corner to show Daphne the shape. She leaves the rest for DIO to open when Mau and Yuka return.
 
-“Draw the leaves,” she suggests. ᴱˡ
+“Has she decided what to put in it?” Daphne asks. ᴰᵃ
 
-DIO looks at the paper.
+“She's decided Anko should help her choose. Anko may not know this yet.” ᴱˡ
 
-“I'm not sure I can.” ᴰ
+“Then she should come to the next tea,” Luminous says. ᴸᵘ
 
-“Then we'll find out what they resemble.” ᴱˡ
+“Anko?” ᴱˡ
 
-She puts the pencil beside it. DIO picks it up.
+“Anko and her plant. Hinata will come if I tell her it's an invitation with practical consequences.” ᴸᵘ
 
-* * *
+Minerva gives her a look.
+
+“You could just invite both of them.” ᴹⁱⁿ
+
+“I have. The practical consequences are what will persuade Anko she isn't interrupting.” ᴸᵘ
+
+Satella sets down the spoon she has been turning between her fingers.
+
+“We can tell her ourselves. She already comes past the garden.” ˢᵃ
+
+“With the notebook,” Daphne says. ᴰᵃ
+
+“And the wrong shoes,” Minerva adds. ᴹⁱⁿ
+
+They begin telling Luminous about the afternoon Anko stepped into the wet bed while looking at a leaf and spent the next ten minutes trying to prove she had intended to examine the soil. Satella corrects the story when it reaches the part about whose shoes had to be left outside. The fact that she was there, and remembers Anko laughing rather than apologizing all afternoon, makes Luminous sit back with her cup.
+
+“I would have liked to see that,” she says. ᴸᵘ
+
+“Come when you can stay long enough for something unplanned,” Echidna tells her. ᴱᶜ
+
+Luminous looks at the week she has already spent here.
+
+“I'm attempting it.” ᴸᵘ
+
+“You're doing very well,” Sekhmet says without moving. ˢᵉᵏ
+
+Pride wants to know whether this means Hinata can join their next game. Luminous asks which game before making promises on anyone's behalf. The answer involves teams, several disputed rules and a ball Milim has been told she must not hit through anything.
+
+“And does she obey?” ᴸᵘ
+
+“She moves the things first,” Minerva says. ᴹⁱⁿ
+
+Testarossa laughs into her tea. Antonio inclines his head when she touches his forearm; he was one of the things asked to move.
+
+---
 
 Mau and Yuka arrive after the boat comes back.
 
@@ -101,7 +133,9 @@ Satella moves a small plate toward him. There are two pieces on it.
 
 “We kept some,” she says. ˢᵃ
 
-Yuka thanks her before Mau can. They sit, Yuka near Satella and Mau beside her, and give the account of the boat under questioning that becomes less orderly as it goes.
+Yuka thanks her before Mau can. They sit, Yuka near Satella and Mau beside her. DIO comes out at his side, accepts the parcel Elmesia has kept for her and begins unwrapping it when Carmilla asks what she made. Elmesia gets her a pencil to show the leaves of the plant she has in mind.
+
+Mau and Yuka give the account of the boat under questioning that becomes less orderly as it goes.
 
 Echidna wants to know the route. Daphne asks what grows on the beach where they stopped. Pride wants to know whether they saw anything big enough to fight. Yuka tells her that Mau lost to a stone.
 
@@ -123,7 +157,7 @@ Luminous looks at him.
 
 He accepts the verdict. Yuka puts one of the saved pieces in his hand and takes the other for herself.
 
-* * *
+---
 
 He goes with Daphne to look at the planting border while Yuka stays at the table.
 
@@ -141,7 +175,7 @@ She looks at him.
 
 She gives the problem serious consideration. He stays with her long enough to hear the first version of the plan, then the second, in which the path between two beds becomes narrower in a way he suspects she will have to explain to someone else.
 
-At the table Yuka has begun looking at DIO's drawing. It is recognizable as a plant. Elmesia identifies the part she thinks DIO has made too round. DIO objects that it was exactly that round when she looked this morning.
+At the table Yuka has begun looking at DIO's drawing. It is recognizable as a plant. Elmesia identifies the part she thinks DIO has made too round. DIO objects that the leaf she remembers from the pot at home is exactly that round.
 
 “We'll ask Ori,” Yuka says. ʸ
 
@@ -152,8 +186,6 @@ Elmesia folds the paper when DIO has finished and asks whether she can keep it u
 “Yes.” ᴰ
 
 She watches Elmesia put it safely inside the cover of her notebook.
-
-* * *
 
 By the time Mau returns, somebody has put another cup at his place.
 
@@ -171,21 +203,45 @@ Yuka tells him which one is his. He takes a careful sip and looks toward Luminou
 
 Sekhmet opens one eye.
 
-“This chair works.” ˢᵉᵏ
+“Does that boat require getting out again?” ˢᵉᵏ
 
-“I'll put it on the list,” Mau says. ᴹ
+“Only at the end,” Yuka says. ʸ
 
-Yuka leans toward him while the others start discussing which chairs would fit beneath the awning at home. He moves his arm behind hers so she can rest against it. She listens to the argument, adds one practical objection about carrying the chairs down the path and is taken seriously enough that the plan changes.
+“Promising.” ˢᵉᵏ
 
-Makima comes out near Mau when he has checked that there is a place for her. Carmilla shifts a cup so she can sit without reaching past anyone. Makima thanks her and waits while the chair discussion continues.
+Makima comes out near Mau after he checks with her. Carmilla moves a cup to clear a place. Makima thanks her, sits and finds Pride explaining the wrong way to throw the ball they have been discussing.
 
-After a few minutes she asks what part of the path is narrow.
+“There's a wrong way?” Mau asks. ᴹ
 
-Yuka shows her with her hands. Makima looks toward the actual path, compares it and suggests moving the table instead.
+“Milim's,” Pride says. ᴾʳ
 
-They try the arrangement in words. It works better than the first one. Nobody has to agree about anything larger than where the chairs would go.
+“She scored,” Yuka points out. ʸ
 
-* * *
+“On the other beach.” ᴾʳ
+
+Makima has seen the ball return under protest. She gives the distance with enough accuracy that Pride looks vindicated and Yuka has to admit this complicates the case for counting it.
+
+“You should have moved the boundary,” Makima says. ᴹᵏ
+
+Minerva turns toward her.
+
+“That's what she said.” ᴹⁱⁿ
+
+For a moment Makima considers the resemblance. Then she looks at Mau's expression and smiles before he can make the comparison aloud.
+
+Yuka takes the last biscuit from his plate while he is distracted. He watches it go, then moves the empty plate closer to her.
+
+“For your next acquisition.” ᴹ
+
+She places a little piece back on it.
+
+“We share here.” ʸ
+
+“I had heard that.” ᴹ
+
+The conversation finds its way to the next game without anybody agreeing whether Pride's team lost the previous one. Sekhmet has closed her eye again, but she is smiling when Luminous asks whether being referee can be done from this particular chair.
+
+---
 
 They remain until the tea has become a reason to stay rather than something anyone still needs.
 

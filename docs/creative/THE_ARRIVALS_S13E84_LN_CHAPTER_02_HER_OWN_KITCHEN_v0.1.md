@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 24 — Her Own Kitchen
+## Chapter 25 — Her Own Kitchen
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 24
+**Reading order:** 25
 **Source episode:** S13E84
 **Continuity state:** Shuna enjoys voluntary exchange with hotel cook, chooses return to own kitchen, Shion chooses accompany. Duties are not sole identity; Elmesia reciprocal craft friendship. Home coverage already established, Bellion receives Mau orders directly. Beru speaks as loyal shadow, existing Ori hat retained, no new matching outfit yet. Return confirmed at existing anchor. Holiday adapts without erasing departed members.
 
@@ -33,7 +33,7 @@ Mau looks into the kitchen, where Shuna has already found the surface she wants 
 
 “That's what we said about the card game.” ᴹ
 
-* * *
+---
 
 They spend the afternoon near enough that Shuna can come out and tell them what she has learned.
 
@@ -65,7 +65,7 @@ Shuna looks toward the room she has been visiting, then at the path leading back
 
 “I'd like to go home tomorrow.” ˢʰᵘ
 
-* * *
+---
 
 She tells Rimuru before dinner.
 
@@ -95,7 +95,7 @@ Shion looks at Rimuru, who has started reaching for the package before being tol
 
 Shion considers whether a denial is worth the effort. She decides it is not and opens the package so Rimuru can see.
 
-* * *
+---
 
 Mau checks the return arrangements with Bellion that evening.
 
@@ -129,7 +129,7 @@ Beru is silent for just long enough to become an answer.
 
 Yuka, coming to join them, begins laughing.
 
-* * *
+---
 
 The next morning Shuna spends more time wrapping the cook's parting gift than packing her clothes.
 
@@ -147,13 +147,13 @@ Shion tells Milim that somebody will have to report what happens in the next gam
 
 Rimuru comes down with Shizue. He thanks Shuna for the part of the trip she spent feeding people who were already being fed. She tells him that he should try the new thing before discussing it, and he agrees much too quickly to suggest that this will be a hardship.
 
-Mau opens the confirmed route when everyone has finished. Shuna and Shion return with their things. The reply comes back while he is still standing beside Yuka.
+Mau brings Shuna and Shion back with their things when everyone has finished. Yuka remains with the exchanged soldier until the interval has passed and he returns. There is already a new packet in his hand: Shuna found something in her kitchen that the island cook ought to try.
 
 “Home?” she asks. ʸ
 
 “Home.” ᴹ
 
-* * *
+---
 
 Lunch is quiet for about thirty seconds.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 81
-## Chapter 29 — More Letters
+## Chapter 30 — More Letters
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 81
-**Reading order:** 29
+**Reading order:** 30
 **Source episode:** S13E87
 **Continuity state:** All seven witches choose home after satisfied holiday; gardening packets and Rimuru reply practical, no instant forest. Invite Elmesia for future house tea; Luminous to receive notice. Satella gift modest shell dish, not Elmesia promised undefined gift. Established scars not healed by Minerva touching collar. Known return anchors/intervals and acknowledgments, no new powers. Couple remain with DIO/Elmesia/Testa/Makima and remaining family.
 
@@ -31,7 +31,7 @@ Mau looks at the packets still in the bag.
 
 “He will.” ᴹ
 
-* * *
+---
 
 The decision to go home has apparently spread over the previous evening.
 
@@ -47,7 +47,7 @@ Elmesia comes with DIO, carrying the folded reply from Rimuru because Daphne lef
 
 Mau gives her an innocent look. She ignores it and begins reading them to him.
 
-* * *
+---
 
 They have one last pot of tea in the shade.
 
@@ -73,7 +73,7 @@ Elmesia laughs.
 
 DIO looks at her, pleased before she has quite worked out why. Mau sees the look and returns his attention to the bag he is closing, leaving her the feeling without a question attached to it.
 
-* * *
+---
 
 Minerva asks Mau to stand still while she fixes the edge of his collar.
 
@@ -99,7 +99,7 @@ Mau looks at her.
 
 Minerva appears satisfied with the general arrangement. She tells Yuka to continue, which Yuka accepts as a formal endorsement.
 
-* * *
+---
 
 Satella waits until Mau has finished the last label before handing him a small wrapped thing.
 
@@ -117,7 +117,7 @@ She leaves the sentence there. Yuka understands well enough to put a hand over h
 
 Mau puts it in a separate place from the garden packets. He makes certain Satella sees where it goes.
 
-* * *
+---
 
 Echidna walks with him to the return point.
 
@@ -127,7 +127,7 @@ Yuka walks beside them with Carmilla. Their discussion concerns a piece of cloth
 
 The destination has acknowledged the notice. The place is clear. The labelled packets have been set apart so Daphne can take them out with Rimuru present rather than losing them among the rest of the luggage.
 
-Mau tells them the order of the exchanges. They listen. Sekhmet finds a place to sit until hers, entirely content to let the others fill the waiting time with conversation.
+Mau tells them how he will bring them home in two groups, with time to make the return journeys between. Sekhmet chooses the second so that she can remain seated while the first says goodbye. Mau lets her keep the chair until the moment he actually needs her on her feet.
 
 Pride makes him promise not to let the next tea begin without the things she liked today.
 
@@ -139,7 +139,7 @@ Yuka lifts the notebook.
 
 Pride looks pleased with both of them.
 
-* * *
+---
 
 Elmesia stays until the last departure.
 
@@ -147,7 +147,9 @@ The thanks are personal and untidy. Daphne remembers a question about the plant 
 
 Satella says goodbye quietly. Pride does it at enough volume for several people.
 
-Then the route clears, the acknowledgment comes back and Mau closes the last of the transfer.
+DIO returns inside with Makima before he leaves. Mau brings the first group to the clear home anchor, returns after the interval and finds that the waiting conversation has acquired another pot of tea. Sekhmet regards the arrangement as a success. She finishes her cup before joining the second group.
+
+When Mau is back from the last journey, DIO comes out again beside Elmesia. He has delivered Daphne's warning about the seed packets and left the smaller dish where Satella asked. His next journey will be for the people still finishing the holiday here.
 
 Yuka puts the empty bag over her shoulder.
 
@@ -157,7 +159,7 @@ Yuka puts the empty bag over her shoulder.
 
 She smiles and takes his hand while Elmesia begins telling DIO which day she could set aside for the promised tea.
 
-* * *
+---
 
 They go back by the table the witches have just left.
 

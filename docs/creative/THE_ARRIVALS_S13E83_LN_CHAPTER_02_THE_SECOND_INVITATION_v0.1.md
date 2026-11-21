@@ -5,36 +5,55 @@
 **Volume:** 81
 **Reading order:** 23
 **Source episode:** S13E83
-**Continuity state:** Second consensual DIO/Ciel/Noise date repeats only established temporary manifestation inside bounded Mau shelter with chosen terrace view, not new independent exterior body. Noise can stop and returns fully, asks chairs closer himself; existing love respected. Outside couple and Elmesia eat, DIO independently anticipates more time with Elmesia without final romance label. No automatic access to private date or couple thoughts.
+**Continuity state:** Ciel invites DIO to join the second outing; DIO already has plans with Elmesia and declines for this afternoon. Brief disappointment becomes a chosen Ciel/Noise date, using only the established temporary internal manifestation. DIO and Elmesia spend time in the adjacent garden within the agreed outside-body reach while Mau and Yuka remain by the terrace. Their existing love is not canceled. No automatic access to private dates or couple thoughts.
 
 *When: B+387, afternoon; earlier that day, before Nazuna leaves for home.*
 
-Noise asks whether the chairs have to be where they were last time.
+Ciel has put out three chairs before she asks DIO.
 
-DIO looks at the small space she has arranged within Mau's shelter, with the view of the covered terrace admitted at the boundary they agreed to use. She has put the chairs comfortably apart, remembering the first date well enough to feel she ought to do this part correctly.
+The little space inside Mau's shelter looks toward the covered terrace through the view they have agreed to admit. Noise has chosen the temporary form he used for their first date. Mau checks that he can let it go again, receives a patient little nod and leaves them to arrange the afternoon.
 
-Ciel looks at Noise.
+DIO comes over when Ciel opens the conversation to her.
 
-“Where would you like them?” she asks. ᶜ
+“We thought we'd sit together,” Ciel says. “Would you like to join us?” ᶜ
 
-Noise points to the space between them.
+DIO looks at the chairs. Her pleasure at being asked lasts long enough for Ciel to see it before something else changes her expression.
 
-“There.” ᴺ
+“This afternoon?” ᴰ
 
-DIO moves her chair first. Ciel moves hers after it. Noise studies the result, sits down in the temporary body it has chosen to use for the outing and puts both hands on the table.
+“If you're free.” ᶜ
 
-Mau has already checked that it remembers how to let the manifestation go. Noise intends to return fully when they are finished, just as it did before. The rest of its presence remains with him while the smaller share attends to the texture under its fingertips.
+“I already promised Elmesia we'd look at the little garden together. She's been telling me about it.” ᴰ
 
-“Better?” DIO asks. ᴰ
+Ciel's hand stays on the back of the third chair.
 
-Noise reaches for her hand. Then Ciel's.
+“Of course,” she says. ᶜ
 
-“Yes.” ᴺ
+Noise looks from DIO to the place beside him.
 
-Neither of them asks another question for a while.
+“Not staying?” ᴺ
+
+“Not this time. I'd like to come another day.” ᴰ
+
+“Yes,” Ciel answers, a little too promptly. “We can arrange that.” ᶜ
+
+DIO tells them which garden she means, pointing toward the strip of shade visible beyond the terrace. She has been looking forward to going there. It becomes obvious as soon as she starts explaining what Elmesia said was growing along the wall.
+
+Noise listens. When she asks if they would like to hear about it afterward, he nods.
+
+She goes back outside before he has decided what to do with the hand he lifted toward her.
+
+He puts it on the table instead.
+
+Ciel moves the unused chair to one side. It makes a small scrape which seems much louder than it needs to be. She moves it once more, although there is nothing wrong with where she put it.
+
+Noise looks at her.
+
+She looks at the view of the terrace, where DIO is already telling Elmesia she is ready.
+
+For a little while neither says anything.
 
 ---
-
 Outside, Yuka is choosing between mushroom noodles and a hot crab roll on the menu with the concentration she usually gives a much more urgent problem. She stands behind Mau's chair with her arms around his shoulders, holding the page in front of both of them. When he points to the noodles, she lowers her face beside his and explains why the roll might be better.
 
 He turns his head and kisses her in the middle of the explanation.
@@ -72,117 +91,78 @@ When the food arrives, Yuka takes her chair beside Mau and draws it close enough
 Mau feels Noise settle into the private conversation inside and leaves it there.
 
 ---
+Noise's fingers find the edge of the drawing Ciel brought with her.
 
+She has been waiting for him to ask about it. Now that he does, she turns it around, begins explaining the line she wanted him to see and stops when she notices he has not looked down.
+
+“What?” she asks. ᶜ
+
+He points at her chair.
+
+“Closer.” ᴺ
+
+Ciel glances at the space between them. She had set the chairs that way for three people. With the other one gone, she is sitting much farther from him than she intended.
+
+She moves hers.
+
+Noise studies the result, then offers his hand.
+
+Ciel takes it. Her thumb settles over his fingers while he turns his palm enough to hold hers properly.
+
+“Better?” she asks. ᶜ
+
+“Yes.” ᴺ
+
+She stays looking at him for another moment before remembering the drawing.
+
+“We could still use the afternoon,” she says. ᶜ
+
+Noise looks at the page, then at her.
+
+“Us.” ᴺ
+
+“Us,” she agrees. ᶜ
+
+She leaves the drawing where it is. When he begins tracing the edge of her hand instead of asking her to finish the explanation, she lets the silence last until she has stopped listening for the third chair.
+
+---
 Elmesia has brought the finished drawing back from the workshop.
 
-It is DIO's plant, with one leaf made slightly rounder than the others. The woman at the workshop asked whether she could use the shape as the basis for a small decorated tile. Elmesia said she would ask DIO before answering.
+It is DIO's plant, with one leaf made slightly rounder than the others. The woman at the workshop asked whether she could use the shape as the basis for a small decorated tile. Elmesia kept the page flat between two clean sheets until she could ask DIO herself.
 
-“You can ask her afterward,” Mau says. ᴹ
+DIO bends over it beside the table.
 
-“I intend to.” ᴱˡ
+“That one, or the plant?” she asks. ᴰ
 
-He looks at the way she has kept the page flat between two clean sheets.
+Yuka looks at Mau. He presses his lips together, trying not to laugh.
 
-Yuka reaches across to see the leaf.
+“The drawing,” Elmesia says. “She liked the leaf you changed.” ᴱˡ
 
-“She'll want to know if the woman means that one or the plant itself.” ʸ
+DIO touches the paper just beside it.
 
-“Then we'll have a very specific discussion.” ᴱˡ
+“She can use it.” ᴰ
 
-She smiles while saying it. Mau notices, and keeps the observation to himself.
+“Would you like to tell her yourself? We could go tomorrow.” ᴱˡ
 
----
+“Yes.” ᴰ
 
-DIO tells Noise about the drawing when Ciel asks what she has enjoyed most since arriving.
+The answer comes so readily that DIO looks up at her afterward, as though she has only just heard how much she wanted to give it.
 
-She starts with the workshop, then follows the memory to the bench outside it and the question Elmesia asked about Ori. By the time she reaches the part about the leaf she has forgotten that she originally meant to describe the vessel.
+Elmesia smiles and puts the drawing away.
 
-Noise listens, its thumb resting against the back of her hand.
+“Today I owe you the garden first.” ᴱˡ
 
-“You liked it,” it says. ᴺ
+DIO takes the place beside her while the attendant brings the smaller dish. Mau tells them he and Yuka intend to stay by the covered terrace and pool. The garden follows the adjoining wall, within the outside reach he and DIO have already agreed on; she checks that part with him before they make their plans.
 
-“I did.” ᴰ
+Yuka asks whether there are stairs. Elmesia assures her that the particular injustice has not been committed there.
 
-“Tell more.” ᴺ
+“Then bring me a report,” Yuka says. ʸ
 
-DIO looks at Ciel. Ciel has one elbow on the table, watching her with a small interested smile.
+“About the plants?” DIO asks. ᴰ
 
-“You want the whole story?” DIO asks. ᴰ
-
-“You were going to tell it,” Ciel says. ᶜ
-
-So DIO does. She describes Elmesia holding the samples up to the window and how patient the woman in the workshop was when they kept changing their minds. Noise looks at their joined hands while she speaks, occasionally moving a finger as though reminding itself it can do that here.
-
-When she finishes, it asks to see the drawing later.
-
-DIO agrees before remembering that Elmesia has it. She will need to ask for it back, and then she will need a reason to show Elmesia that Noise saw it too. The thought of the second conversation arrives with its own small pleasure.
-
-She sits with that for a moment while Ciel lets go of Noise's hand to move the little table.
-
-“I want to try something without it between us,” Ciel says. ᶜ
-
-DIO watches her clear a space within the boundary they have chosen. Noise stays seated until Ciel holds out her hand.
-
-“Dancing?” DIO asks. ᴰ
-
-“A little. If he wants to.” ᶜ
-
-Noise looks at the offered hand, then at DIO.
-
-“Both?” ᴺ
-
-“We'll take turns,” DIO says. “I don't know how three would work.” ᴰ
-
-“We can find out afterward,” Ciel replies. ᶜ
-
-That answer makes DIO look at her more closely. Ciel smiles before she can ask what has happened to the person who usually provides the correct arrangement before anybody trips over it.
-
-“I'd like an afternoon where I don't know the result already.” ᶜ
-
-Noise stands. The temporary body's balance is still a thing it attends to deliberately; Ciel waits until it has found where to put its feet before moving her own.
-
-“Here,” she says, placing its hand at her side. “Tell me if you want to stop.” ᶜ
-
-“Music?” ᴺ
-
-DIO supplies the four notes she remembers from their first date. Ciel answers with the next part of the tune. They disagree on one of the notes, stop to compare it and discover Noise continuing the rhythm by tapping one finger against Ciel's hand.
-
-“Keep,” it says. ᴺ
-
-They do. Ciel takes the first step. Noise follows too carefully and ends up standing where her foot had intended to go.
-
-“I see the difficulty,” she says. ᶜ
-
-Noise looks down.
-
-“No map.” ᴺ
-
-“We could make one,” DIO offers. ᴰ
-
-“Not yet,” Ciel says, laughing. “I want to do this part.” ᶜ
-
-She shifts their hands, asks Noise to watch her shoulders instead and tries the step again. This time it follows the movement rather than calculating where each foot belongs. They turn in the little space together.
-
-DIO forgets to supply the tune. Ciel looks back at her.
-
-“You've abandoned us.” ᶜ
-
-“I was watching.” ᴰ
-
-“So was I,” Noise says. ᴺ
-
-Ciel glances at the way its attention has remained on her face instead of its feet. Her next step is less exact. Noise catches the movement and steadies her with the same hand she placed there.
-
-“Got you.” ᴺ
-
-For a moment she has no answer. DIO sees it and starts the tune again before anybody has to explain.
-
-When it is her turn, Noise offers its hand without waiting for Ciel to put it in the proper place. DIO takes it. They manage one careful turn, lose the rhythm and find it again while Ciel sings the note DIO still insists she has wrong.
-
-They do try all three together. It lasts less than half a circuit before the disagreement over whose foot goes where becomes impossible to distinguish from the laughter.
+“And somewhere good to sit.” ʸ
 
 ---
-
 Elmesia wants to hear about the home kitchen.
 
 Yuka tells her how much room Shuna claims to need when she is explaining a problem to somebody who might actually enlarge it. Mau supplies the part about people finding excuses to pass through when something smells good. Elmesia asks whether Shuna objects.
@@ -215,46 +195,122 @@ She sees anyway.
 
 Elmesia looks between them with evident enjoyment.
 
+DIO and Elmesia leave together after the plates have been cleared. DIO keeps pace beside her until Elmesia stops to point out the first bed along the wall; then she bends so close to the leaves that Elmesia catches the brim of her hat before it reaches them.
+
+Mau watches DIO straighten, laughing at whatever Elmesia has said. Yuka draws his hand back around her waist and asks which dessert he meant when he said they should share one.
+
 ---
+Ciel moves the little table away herself.
 
-Noise brings back the feel of two different hands.
+Noise watches her clear the space. He is still sitting when she holds out her hand again.
 
-It has let the temporary body go itself, taking the time it needs to return its full attention. Mau waits until the familiar presence has settled before asking how the date went.
+“I'd like to try something,” she says. ᶜ
+
+He takes it and gets up. The temporary body's balance still occupies some of his attention; she waits until he has found where to put his feet before moving her own.
+
+“Here.” She places his other hand at her side. “Tell me if you want to stop.” ᶜ
+
+“Music?” ᴺ
+
+She begins with the tune they tried on the first date. Four notes come easily. The next one makes her pause.
+
+“I know more of it than that,” she says. ᶜ
+
+Noise taps the rhythm against her hand.
+
+“Keep.” ᴺ
+
+She hums the first part again and takes a step. He follows too carefully, putting his foot where hers has just tried to go. Ciel stops, looks down and starts laughing.
+
+“I see the difficulty.” ᶜ
+
+“No map.” ᴺ
+
+“We could make one.” ᶜ
+
+He looks at her face.
+
+“Want one?” ᴺ
+
+Ciel considers the space, their hands, the result she could describe before either of them moved again.
+
+“Not yet.” ᶜ
+
+She adjusts her grip and asks him to watch her shoulders. This time he follows the movement instead of trying to arrive before her. They turn far enough for the table to appear on his other side.
+
+“There,” she says, pleased. ᶜ
+
+Noise looks down to check where his feet have ended up. She catches his chin with two fingers and brings his attention back.
+
+“I was over here.” ᶜ
+
+He looks at her properly. She has meant to supply the next note, but it fails to arrive while he keeps watching.
+
+“Music?” he asks again. ᴺ
+
+“I was distracted.” ᶜ
+
+“Good.” ᴺ
+
+She laughs so abruptly that the next step goes wrong. Noise steadies her with the hand she put at her side, then keeps her close when she has found her balance.
+
+“Got you.” ᴺ
+
+Ciel stays there a little longer than the correction requires.
+
+“Yes,” she says. ᶜ
+
+She starts the tune again. When they reach the place where she stopped before, he supplies the rhythm against her hand and waits for her to find the rest.
+
+Neither looks toward the third chair when they pass it.
+
+---
+Noise brings back the feel of Ciel's hand and a rhythm Mau does not recognize.
+
+He has let the temporary body go himself, taking the time he needs to return his full attention. Mau waits until the familiar presence has settled before asking how the date went.
 
 *Good,* Noise says. ᴺ
 
-*Chairs closer?* Mau asks. ᴹ
+*Want to do it again?* ᴹ
 
-Noise laughs.
+*Yes.* ᴺ
 
-DIO objects before she remembers they have not told Mau anything about the chairs. Ciel informs him that Noise arranged them this time, and Noise's pleasure becomes so obvious that Yuka asks what is making him smile.
+Ciel makes a small pleased sound through the conversation they have chosen to share.
 
-He tells her only the joke they have chosen to share. She laughs, puts her hand over his and asks whether all three had a good time.
+*He asked me to move closer,* she tells Mau. ᶜ
 
-The answer comes from three directions with very little disagreement.
+*Did you?* ᴹ
+
+Noise laughs before she can answer.
+
+Yuka turns toward Mau. He gives her only the little joke they have shared with him, and she rests her head against his shoulder, smiling.
+
+*I'm glad you had a good time,* he tells them. ᴹ
+
+Ciel is asking Noise which part of the tune he remembers when their conversation closes again.
 
 ---
 
-DIO comes out to join them after the private space has closed.
+DIO and Elmesia return with a disagreement about the best place to sit.
 
-Elmesia has waited to show her the request from the workshop. DIO looks at the page, asks the precise question Yuka predicted and then studies the drawing for a long moment.
+DIO favours the bench nearest the wall because it stays in the shade. Elmesia points out that she selected it before discovering the other one, which has a view of the water. Yuka asks about the distance from either place to something edible.
 
-“She can use it,” she says. ᴰ
+“That wasn't one of the conditions,” Elmesia says. ᴱˡ
 
-“Would you like to go tell her yourself?” Elmesia asks. ᴱˡ
+“It is now.” ʸ
 
-DIO looks up.
+Mau begins laughing. DIO looks toward him, still smiling, then opens the conversation inside to ask whether Noise and Ciel would like to see what she found.
 
-“Yes.” ᴰ
+*Later?* Noise answers. ᴺ
 
-“Tomorrow?” ᴱˡ
+She accepts it and puts the little sketch she made beside Elmesia's drawing instead of asking them to come out of their conversation now.
 
-“I'd like that.” ᴰ
+Elmesia asks her which time she prefers for tomorrow's visit. DIO looks at the page, then at her, and begins planning the walk they might take afterward.
 
-They begin deciding when. Mau keeps his hand beneath Yuka's and lets the conversation continue around them. When the subject turns to the route they should take after the workshop, Yuka leans closer to him.
+Yuka leans toward Mau's ear.
 
-“They haven't ordered lunch for tomorrow yet,” she whispers. ʸ
+“They haven't ordered lunch for tomorrow yet.” ʸ
 
 “They will.” ᴹ
 
-She smiles and stays close while DIO asks Elmesia if there is somewhere on that side of the island she has not shown her yet.
+He keeps his arm around her while DIO asks Elmesia whether there is another place on that side of the island she has not shown her yet.

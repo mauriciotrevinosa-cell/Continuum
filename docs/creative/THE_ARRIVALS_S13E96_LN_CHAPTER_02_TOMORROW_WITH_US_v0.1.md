@@ -208,3 +208,111 @@ Tomorrow, his wife had offered her a day in which he had already agreed to be th
 Makima thinks about the breakfast time again.
 
 She has attended meetings with considerably more at stake and spent less effort deciding how early to arrive.
+
+---
+
+Later, Yuka has both little carved birds on the table and an opinion about which one should go nearest Ori's shell door.
+
+Mau is listening. He is also wondering why the inside has gone quiet again. Earlier, Noise answered a question about the boat; now even the little sound it sometimes makes while considering a shape has stopped.
+
+*You two all right?* he asks. ᴹ
+
+*Yes,* Ciel answers. ᶜ
+
+*Noise?* ᴹ
+
+*Ciel keeps me.* ᴺ
+
+Mau laughs before he can stop himself. Yuka looks up from the birds.
+
+*Does she?* ᴹ
+
+*He keeps saying yes,* Ciel says. ᶜ
+
+There is enough satisfaction in her voice to make him laugh again. Through the conversation they have opened, she lets him see the little table from their last date. She has brought the chairs close together. Noise is using the same temporary form he chose for those outings inside the shelter. He has a drawing in front of him and Ciel's hand resting over his, nowhere near the part of the page he appears to be explaining.
+
+*Are you having a good time?* Mau asks him. ᴹ
+
+*Yes.* ᴺ
+
+*Good.* ᴹ
+
+Noise looks down at the hand, then toward the space beyond their chairs.
+
+*DIO angry?* ᴺ
+
+Mau's amusement softens.
+
+*With you?* ᴹ
+
+*Not here much.* ᴺ
+
+Ciel's fingers go still. Mau thinks of DIO coming back from Elmesia's table with another thing she wants to describe, then finding somewhere to write it down before she forgets the words. He has enjoyed watching her. Noise has been waiting for her to sit down.
+
+*Ask her,* he says. *She can tell you.* ᴹ
+
+Noise calls her name.
+
+DIO comes over from the place where she has been looking through the workshop paper. She has two sheets in her hands and begins to show him one before noticing how carefully he is watching her.
+
+“What's wrong?” she asks. ᴰ
+
+“Angry?” ᴺ
+
+“No.” ᴰ
+
+He waits, still looking at her.
+
+DIO sets the papers down.
+
+“I've been spending time with Elmesia,” she says. “I like being with her. I don't get to see her very often.” ᴰ
+
+Noise looks at the other chair. Ciel moves her hand from the drawing, but leaves it over his.
+
+“I didn't stop wanting to be here with you,” DIO adds. ᴰ
+
+He considers that. Then he asks the part he has not managed to settle by listening.
+
+“So friends?” ᴺ
+
+DIO pulls the unused chair toward his.
+
+“Yes. Still friends.” ᴰ
+
+His hand turns beneath Ciel's, holding it rather than merely letting it rest there. He offers DIO the other one.
+
+She takes it.
+
+Ciel looks at their hands. For once, the next question takes her longer than the answer she has already understood.
+
+“And me?” she asks. ᶜ
+
+DIO looks at her with surprise, then moves close enough to catch the fingers Ciel has left beside the page.
+
+“You too.” ᴰ
+
+Ciel smiles down at the drawing. Noise looks from one to the other, apparently satisfied with a result he could not have built by himself.
+
+“Stay?” he asks DIO. ᴺ
+
+“I have time now.” ᴰ
+
+“Closer,” he decides, looking at her chair. ᴺ
+
+DIO draws it in until her knee touches his. Ciel moves the drawing out from under their hands.
+
+“He was showing me something,” she tells her. ᶜ
+
+“Show me too.” ᴰ
+
+Noise begins again. This time he has to ask one of them to let go long enough for him to turn the page.
+
+Mau lets their part of the conversation close. Outside, Yuka has come behind his chair and put both arms around him.
+
+“What's making you laugh?” she asks. ʸ
+
+“Noise has good company.” ᴹ
+
+“So do you.” ʸ
+
+He turns toward her, finding the kiss she has bent down to give him. She stays there afterward, her cheek against his, until he reaches for the little birds and asks her to explain the arrangement again.

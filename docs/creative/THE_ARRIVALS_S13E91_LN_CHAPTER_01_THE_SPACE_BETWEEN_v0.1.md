@@ -143,6 +143,8 @@ Yoru's mouth tightens.
 
 Her free hand has gone to the pin holding part of her hair back. She draws it loose. The little piece of metal begins to change between her fingers, lengthening past the shape it had a moment ago.
 
+*Weapon,* Noise says through the channel Mau has kept open. ᴺ
+
 Mau stops smiling.
 
 He does not raise his voice. He does not have to. His attention settles on the movement in her hand, and Yoru sees him decide exactly which distance matters now.

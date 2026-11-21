@@ -113,7 +113,19 @@ DIO looks at Mau. He understands the question before she puts it into words.
 
 DIO nods, although she plainly dislikes the instruction. She waits for Elmesia to look back at her, then says, “I'll still be here.” ᴰ
 
-Elmesia answers with a brief inclination of her head. DIO goes in. Makima remains outside beside Mau, waiting while he checks the route and sends two ordinary soldiers ahead to watch the approaches. They move without a sound, obeying the places he gives them. A third stays near the hotel, instructed to warn him of immediate danger rather than follow guests into rooms.
+Elmesia answers with a brief inclination of her head. DIO goes in.
+
+Mau opens the practical channel inside.
+
+*Ciel? Noise? Stay with me for this.* ᴹ
+
+*I'm following,* Ciel answers. ᶜ
+
+*Here,* Noise says. ᴺ
+
+Their answers arrive without a delay. Mau gives them the description and what Makima has recognized before returning his attention to the route.
+
+Makima remains outside beside him while he sends two ordinary soldiers ahead to watch the approaches. They move without a sound, obeying the places he gives them. A third stays near the hotel, instructed to warn him of immediate danger rather than follow guests into rooms.
 
 Yuka has gone to change. She returns before he has finished, hair still damp, expression set.
 

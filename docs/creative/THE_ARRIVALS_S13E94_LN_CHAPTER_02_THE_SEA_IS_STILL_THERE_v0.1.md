@@ -99,7 +99,9 @@ Yuka looks toward Makima. The other woman has stopped attending to Asa. Her eyes
 
 He hears the words. He can understand each of them separately.
 
-He looks at his hands, searching for something which has already been absent from them for a long time.
+*Still here,* Noise says through the same channel. ᴺ
+
+Mau tries to follow the voice. For a moment he can feel Yuka's thumb against his, distinct from the things he has just remembered. Then he looks at his hands again, searching for something which has already been absent from them for a long time.
 
 Yuka puts her other hand around his wrist.
 

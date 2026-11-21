@@ -99,6 +99,12 @@ Mau looks at Yuka. He tells her that part aloud.
 
 She nods, but does not loosen her grip.
 
+*Stay with what's happening here,* he asks Noise. *If I stop noticing it, keep telling me.* ᴹ
+
+*With you,* Noise answers. ᴺ
+
+Mau feels the familiar attention settle on the present sensations they share. Ciel keeps the selected record separate while he takes another breath with Yuka's hand in his.
+
 ---
 
 Asa is given the chair again before anything is signed.

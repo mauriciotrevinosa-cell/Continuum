@@ -149,6 +149,16 @@ Mau looks across the table at Elmesia. She catches the glance and raises one eye
 
 He relays it. DIO's pleased answer comes back so quickly that his smile reaches Elmesia before the words do.
 
+DIO returns to the terrace beside her a little later, still trying to describe the finish with her hands. Inside, Ciel asks Noise to keep the drawing out.
+
+*You wanted to see it?* Mau asks through the channel they have left open. ᴹ
+
+*I wanted him to show me,* Ciel answers. ᶜ
+
+Noise turns the drawing toward her. Mau has time to hear Ciel ask whether he will sit closer before their conversation closes to give them the quiet they want.
+
+He looks at DIO, who has already begun explaining the colour to Elmesia again, and goes back to his drink.
+
 ---
 
 Makima has a chair at the corner of the table.

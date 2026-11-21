@@ -143,6 +143,18 @@ She does, briefly, through the same practical channel. He looks at the repaired 
 
 Ciel lets the diagram stay a little longer before putting it away.
 
+*Break,* Noise says. ᴺ
+
+*For me?* Mau asks. ᴹ
+
+*Us.* ᴺ
+
+Ciel laughs softly. *We have finished this part. Use the cloth outside. Tell me if the pressure changes.* ᶜ
+
+*I'll tell you,* he promises. ᴹ
+
+Noise is already asking her to come see something when the private conversation closes.
+
 ---
 
 They go outside after a proper break.

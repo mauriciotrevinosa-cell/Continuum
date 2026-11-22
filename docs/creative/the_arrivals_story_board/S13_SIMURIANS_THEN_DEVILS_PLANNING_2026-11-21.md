@@ -153,3 +153,15 @@ His full words are in the conversation of 22 November 2026; key quotes are kept 
 - **Makima takes Mau's hand like a handshake between friends,** not with fingers interlaced, so they don't lose each other. Keep this.
 
 **Note:** this is a separation Mauri planned on purpose, as the low point of the arc. It's an explicit exception to the standing rule of never writing them apart. It isn't a breakup; the resolution brings them back together.
+
+## How the distance shows before the break (Mauri, 22 November 2026)
+
+> si pero algo que necesitamos cuidar es que yuka siga siendo empalagoza creyendo que todo esta bien pero ya no etsa mega emplagoza pq ahora divide su tiempo con corss y esto puede pesar mau esper aque yuka se siente en el o alado y se sienta conc ross y asi y puede ser que yuka le esta contando lo que ah hecho desde que lo vio por ultima ves pero mau ve una distancia que se esta creando
+
+- **Yuka is still clingy and believes everything is fine**, but not *mega* clingy anymore, because she's splitting her time with Cross.
+- **It weighs on Mau in small things:**
+  - He waits for her to sit on him or beside him, and she sits with Cross instead.
+  - She's catching Cross up on everything she's done since she last saw him, while Mau watches a distance opening.
+- **Claude's notes:**
+  - Show it through habits we've already set up, so the reader feels it: his lap empty at a meal, the plate untouched (no stolen food), the hand she doesn't reach for. Yuka does none of it on purpose.
+  - Mau notices and says nothing (the old "it's fine").

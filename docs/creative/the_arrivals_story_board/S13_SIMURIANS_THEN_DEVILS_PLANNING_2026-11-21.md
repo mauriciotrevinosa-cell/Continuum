@@ -71,3 +71,12 @@ His full words are in the conversation of 22 November 2026; key quotes are kept 
 **The pause about a child:** it waits. First resolve the other thing. Yuka believes everything is fine while Mau has fallen back into "it's fine" and is fighting about twenty things inside and outside himself.
 
 **Points:** do the maths properly. If all are spent, how far do speed and strength go without CE, reinforcement or mana, with just his hands? (pending)
+
+## Adjustments (Mauri, 22 November 2026)
+
+> si y tambien ella entendiendo un tmmrw no solo terror que se enoje y asi pero que no sea solo por trror sino pq esta sintiendo cosas que antes no se dejaba y asi
+
+> me gustaria lo de los puntos basicamente si mal no me equivoco despues del awakening de jin woo jin woo estaba a la par de antares entonces me gustaria que tal ves no llegue a ese nivel sino que este tal ves pre awakend que puede competir con just hands contra 3 rulers pero murio entonce aqui mau recordemos que tiene lo demas
+
+- **Yuka's anger in the Cross stretch is not only terror.** It's also because she's feeling things she didn't let herself feel before. She stays faithful; the drama is Cross's.
+- **Spending the points (target):** Mau's pure physicality, "just hands" with no CE, reinforcement or mana, reaches about **Jin-Woo before his awakening**: able to fight three Rulers with just his hands, though Jin-Woo died there. It does **not** reach post-awakening Jin-Woo, on a par with Antares. On top of that, Mau keeps everything else in his kit. Exact numbers per stat still to be worked out (with Umaru and Jin-Woo in scene).

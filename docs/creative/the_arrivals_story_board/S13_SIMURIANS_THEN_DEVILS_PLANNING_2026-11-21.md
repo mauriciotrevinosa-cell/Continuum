@@ -190,3 +190,7 @@ His full words are in the conversation of 22 November 2026; key quotes are kept 
 > haciendo makima y mau como algo similar de power y denji acorde afujimoto como besties o muy buenos amigos aunqeu fujimoto si los hizo parecer como mas que amigos pero si
 
 - **The model for Mau and Makima is Denji and Power,** the way Fujimoto describes them: best friends, very close friends. Fujimoto made Denji and Power look like more than friends at times, and that ambiguity is part of the charm. For Mau and Makima it stays clearly friendship (Mau is a monogamous husband), even though it can look like more from the outside, which is what Yuka misreads.
+
+> haciedno referencia a lo de power
+
+- **The nod to Power, in scene:** when Power appears in Yoru's war, she sees Makima hiding behind Mau the way Power used to hide behind Denji, and takes offence: Makima is copying her move. A Makima who learned it watching Power, without ever having been on the other side, is the joke and the tenderness at once. (Claude's proposal for how to make the reference.)

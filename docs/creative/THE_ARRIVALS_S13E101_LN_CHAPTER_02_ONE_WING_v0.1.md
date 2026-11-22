@@ -35,7 +35,11 @@ Ori looks up at him and grins.
 
 Breakfast has acquired two sides.
 
-This was not intended. Mau discovers the problem when he sits beside Yuka and Umaru points out that the attaché is hearing classified information.
+Shuna has a little paper hamster pinned to her apron. Ori drew it before sitting down, and Shuna bent so she could put it on herself. The tray of cakes is already waiting by the kitchen door, safely out of reach of the military discussion.
+
+Umaru has put the unopened packet from yesterday beside her map. Exhibit One now has its own ribbon.
+
+The seating dispute was not intended. Mau discovers the problem when he sits beside Yuka and Umaru points out that the attaché is hearing classified information.
 
 “She's describing toast.” ᴹ
 
@@ -91,7 +95,19 @@ One points to the board beside the door. Three empty places wait beneath a pictu
 
 Umaru puts her hands on her hips.
 
-“We've come to liberate your supplies.” ᵁ
+“We've come to liberate your supplies,” Umaru announces. “And remove the vending citizen from the service of the oppressor of sweets.” ᵁ
+
+Mau looks up from the water tray inside.
+
+“You assigned me to him.” ᴹ
+
+“The presidency has reviewed the appointment.” ᵁ
+
+Shuna bends toward Ori.
+
+“I was promised an invasion.” ˢʰᵘ
+
+“We have to get in first,” Ori whispers. ᴼ
 
 The knight points lower on the board.
 
@@ -133,11 +149,19 @@ Milim looks down at the edge of the mat beneath her foot.
 
 “I saw you thinking.” ᵁ
 
-Ryo takes a flower and asks whether the reward changes if she completes more than one journey. Seika, watching from the doorway with Ram, tells her the reward is enough for everyone. Ryo considers the absence of a commercial opportunity and enters the lane anyway.
+Ryo takes a flower and asks whether the reward changes if she completes more than one journey. Seika, watching from the doorway with Ram, points out the full tray and the boxes beneath it. Ryo surveys the supply, chooses which packet she intends to collect and enters the lane.
+
+Shuna takes her own flower and tucks the loose edge of her apron into the pocket before joining the line. Ori checks the arrangement with the seriousness of someone who has recruited a person taller than most of the obstacles.
+
+“You have to watch that cord,” she tells her. ᴼ
+
+“I will. I'm being very careful about my first campaign.” ˢʰᵘ
 
 The guard lowers its hand.
 
 They move in an untidy procession. Rem keeps one eye on Umaru's sleeve. Suika takes small steps, looking through the gap between two cords. Maki goes farther in one stride than anybody expected, then holds perfectly still when the hand rises.
+
+Shuna stops beneath the first cord with her free hand holding the apron pocket close. She looks back at Ori, gets a small approving nod and waits for the guard to let them move again.
 
 Milim stops with both feet just above the mat.
 
@@ -206,6 +230,8 @@ Chloe is waiting close enough to reach, smiling without waving her over. Ori kee
 Then she runs the last two little steps.
 
 The flower lands in the basket. Chloe catches both her hands. Behind them Milim completes a remarkably careful passage, puts her flower beside theirs and turns toward the rest of the wing with the air of someone who has defeated a much larger opponent.
+
+Shuna is waiting by the basket with her flower already inside. She watches Ori and Chloe compare their successful routes, looking delighted with her own part in getting this far.
 
 Beru is the last through. He has to bend beneath every cord. Ori stands beside the basket holding his hat this time, encouraging him in a whisper that grows steadily less quiet.
 

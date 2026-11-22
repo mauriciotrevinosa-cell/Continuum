@@ -165,13 +165,17 @@ Mau lets Yuka turn him toward the bench outside the kitchen wing.
 
 “You looked finished. I'm taking advantage.” ʸ
 
-She sits first and pulls him down beside her. He rests his head against her shoulder while she reads the supply list aloud. At the fourth kind of sweet he puts a hand over the page.
+She sits first and pulls him down beside her. He rests his head against her shoulder while she reads the supply list aloud. At the fourth kind of sweet he puts a finger beside the name.
 
-“The shop still wants money.” ᴹ
+“We have that one. And the next two.” ᴹ
 
-“I know. We have some things here already. Shuna offered to make the little cakes.” ʸ
+“Then we can put different things in each room.” ʸ
 
-He moves his hand so she can show him what she has crossed out. The castle does not require an entirely new fortune to be edible. It requires enough different places to find something that opening the next door still feels like a discovery.
+“How different?” ᴹ
+
+She turns the page.
+
+He begins laughing before she has finished reading. The list has become an argument for keeping several rooms open after lunch so that nobody has to choose between finding the next surprise and playing the game already in front of them.
 
 “This one,” she says, tapping the name of the biscuits they brought home from the island. “Save some for later.” ʸ
 
@@ -189,9 +193,181 @@ He turns to kiss her. She receives it with one hand behind his neck and keeps hi
 
 ---
 
+Shuna finds them when they bring the list back inside.
+
+She has an empty baking tray under one arm and has been thinking about the little cakes since Yuka described the courtyard. If they want fillings, she can prepare those too. There is room in the kitchen this afternoon, and she would like to try the version with ginger.
+
+“I can help with the sweets,” she tells Mau. ˢʰᵘ
+
+He puts Yuka's list on the table.
+
+“Oh. I think we already have some.” ᴹ
+
+A packet appears in his hand. Honey sweets, wrapped in little twists of paper. He sets it down beside the list, then takes out a second packet with a different mark on the front.
+
+“These too.” ᴹ
+
+Shuna puts the tray down to look.
+
+“How many do you have?” ˢʰᵘ
+
+Mau glances at the clear part of the table.
+
+“Of which one?” ᴹ
+
+Yuka looks up.
+
+The next packet is followed by a box. Mau opens it so Shuna can see the little round tins inside, then brings out another which contains individually wrapped biscuits. There are fruit chews beneath those, chocolate bars in flat stacks, little cakes sealed for travel and bags of the crisp things Umaru insists are essential supplies.
+
+He gives Shuna a ginger sweet to try while he finds the box he meant to show her.
+
+She accepts it without looking away from his hands.
+
+The boxes continue arriving.
+
+Yuka gets her list out from under a stack and sits on the end of the bench. Mau pauses long enough to move the empty tray, checks that Shuna has room to step back and fills the space with two more open crates.
+
+Hundreds of packets are visible now. Several of the tins have smaller sweets packed beneath the first layer. The table has disappeared under neat, improbable little towers, and the last two crates stand on the floor beside Mau's chair.
+
+Shuna looks at the ginger sweet in her hand.
+
+Then she looks at him.
+
+“These were in your inventory?” ˢʰᵘ
+
+“Yes.” ᴹ
+
+“All of them?” ˢʰᵘ
+
+“There's more. I was going to put the drinks out separately.” ᴹ
+
+Yuka bends forward over the list, laughing so hard that she has to set it down again.
+
+Mau looks between them.
+
+“You said the rooms needed sweets.” ᴹ
+
+“They do,” Shuna says. ˢʰᵘ
+
+Her voice is perfectly composed. She takes one unopened packet from the nearest crate and puts it on her tray.
+
+“I'll still make the cakes. I need to speak to Ori first.” ˢʰᵘ
+
+“About the fillings?” ᴹ
+
+“About my position.” ˢʰᵘ
+
+Yuka reaches for his arm before he can follow Shuna's gaze toward the common room.
+
+“Oh, you're in trouble.” ʸ
+
+---
+
+Ori is showing Chloe where the treasury should go when Shuna kneels beside the drawing.
+
+“Is there room in your army?” she asks. ˢʰᵘ
+
+Ori looks up at once.
+
+“For you?” ᴼ
+
+“If you'll have me. I'd like to help overthrow the vending citizen.” ˢʰᵘ
+
+Umaru's pencil stops above the map.
+
+Shuna sets the packet in the middle of the table.
+
+“He has hundreds of these. That's only what he took out.” ˢʰᵘ
+
+For one magnificent second, Umaru does not speak.
+
+Then she gets up.
+
+“An undeclared reserve.” ᵁ
+
+Rem looks at the packet.
+
+“For tomorrow's game.” ᴿᵉ
+
+“Behind the walls of a foreign power.” ᵁ
+
+“Our castle,” Ori says, consulting the drawing. ᴼ
+
+“Occupied by Kamish.” ᵁ
+
+Mau reaches the doorway with Yuka attached to his arm. He has heard enough to know that the packet is no longer being discussed as food.
+
+“I bought them for you.” ᴹ
+
+Umaru points at him.
+
+“He admits controlling the supply.” ᵁ
+
+“I'm putting them where you asked me to put them.” ᴹ
+
+“And arming the oppressor of sweets.” ᵁ
+
+“With biscuits?” ᴹ
+
+Shuna turns her face away. Her shoulders are moving.
+
+Ori studies Mau for a moment.
+
+“They really are for us?” ᴼ
+
+“Of course. That's what we've been getting ready.” ᴹ
+
+Her smile arrives immediately. She looks back at Shuna.
+
+“You can be with us.” ᴼ
+
+“Thank you.” ˢʰᵘ
+
+“But you have to do the rooms too.” ᴼ
+
+“I'd like to.” ˢʰᵘ
+
+Umaru has begun writing on a fresh sheet. Mau leans close enough to see his name beneath the words Betrayal of the Fort.
+
+“I also supplied the revolution.” ᴹ
+
+“Evidence that you knew about it.” ᵁ
+
+Rem puts a hand over her mouth. Yuka abandons any attempt at helping her husband and rests her face against his shoulder while she laughs.
+
+Shuna picks up the tray.
+
+“Shall I bring the cakes to your side, then?” ˢʰᵘ
+
+“Both sides,” Ori decides. “Kamish is playing too.” ᴼ
+
+Mau raises his free hand toward her.
+
+“Thank you.” ᴹ
+
+Umaru adds a line under his name and announces that the commander has approved humanitarian pastry deliveries. By the time Mau returns to the supplies, the packet has been marked Exhibit One and Shuna has promised to meet Ori after breakfast.
+
+Yuka stays beside him while he assigns two ordinary soldiers to carry the prepared crates to the checked rooms. He stores the extra stacks until they are needed, opens the shop for the few varieties on her list that he does not already have and buys enough for the afternoon as well.
+
+“What am I guilty of?” he asks her. ᴹ
+
+She takes a chocolate from the open box he holds out.
+
+“Being extremely well prepared.” ʸ
+
+“A serious offence.” ᴹ
+
+“You should have married someone with influence.” ʸ
+
+He kisses her before she can finish unwrapping it. She has to hold the chocolate away from his shoulder, which only makes her laugh harder.
+
+---
+
 By late afternoon the rooms have acquired their own character.
 
-The first knight guards a little bell and a tray. The next sits beside a shallow water channel with paper waiting at one end. Someone has put a crown on the helmet in the kitchen wing; the spoon remains impressive beneath it. Every open room has a small supply to discover, even the ones that do not hold a token.
+The first knight guards a little bell and a deep tray of wrapped sweets. The next sits beside a shallow water channel with paper waiting at one end and tins of biscuits beneath the window. Someone has put a crown on the helmet in the kitchen wing; the spoon remains impressive beneath it. Every open room has something different to discover, even the ones that do not hold a token. Prepared boxes stand behind the serving tables so the next group will find them as full as the first.
+
+The three tokens still open the treasury. Nobody has to finish every challenge before they can have something to eat. Mau makes that part clear while Ori decides which little guards are meant to look most suspicious.
 
 Mau goes through with Ori before the game. She checks the closed stair, the route to the courtyard and the place where Lantern can watch without blocking a passage. He shows her where the ordinary doors lead. She tells him which ones should feel secret even though everyone can see them.
 

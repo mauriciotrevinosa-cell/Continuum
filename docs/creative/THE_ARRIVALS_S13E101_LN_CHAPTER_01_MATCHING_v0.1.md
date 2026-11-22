@@ -31,7 +31,7 @@ Yuka looks at him, then at the enormous ant standing before their daughter with 
 
 Umaru leans over the sofa arm.
 
-“The enemy has a recruitment problem.” ᵁ
+“The enemy has a recruitment problem,” Umaru says. “We've already taken his pastry department.” ᵁ
 
 “Umaru,” Rem murmurs. ᴿᵉ
 
@@ -173,9 +173,17 @@ Ori beams. Beru puts a hand to his chest and bows just enough to keep the pencil
 
 Kamish receives the news while Mau is putting the last supplies into the treasury.
 
-“You have lost your general.” ᴷ
+“You have lost your general,” Kamish says. “And I am told the kitchen has declared against us.” ᴷ
 
-“There were uniforms involved.” ᴹ
+“There were uniforms involved in the first one. I still don't understand the second.” ᴹ
+
+“You displayed the treasury to the enemy.” ᴷ
+
+“They're the people I bought it for.” ᴹ
+
+Kamish considers him.
+
+“Your appointment was premature.” ᴷ
 
 “You offered him none?” ᴷ
 
@@ -183,7 +191,9 @@ Kamish receives the news while Mau is putting the last supplies into the treasur
 
 “We are defending a castle.” ᴷ
 
-Mau looks around the room. The shelves have biscuits, little jars of wrapped sweets and the cakes Shuna agreed to make in the morning. He has kept Yuka's packet apart, although he suspects it will be discovered and requisitioned long before he gets to give it to her.
+Mau looks around the room. The shelves hold rows of biscuit tins, bags of sweets from the shop and the packets they brought back from the island. Three broad trays wait for the cakes Shuna is bringing in the morning. He has put a labelled parcel aside for each person and kept Yuka's packet apart, although he suspects it will be discovered and requisitioned long before he gets to give it to her.
+
+The extra crates are already divided between the wings. The food for the shared lunch remains with Shuna, who has apparently managed to join the invasion without losing interest in feeding the defending dragon.
 
 “I may have underestimated the campaign.” ᴹ
 

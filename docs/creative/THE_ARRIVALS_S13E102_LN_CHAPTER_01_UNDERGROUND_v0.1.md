@@ -15,9 +15,15 @@ This proves distracting enough that Ori nearly misses the channel running across
 
 Coco studies the bridge. Richeh studies the paper.
 
-Umaru studies the table of sweets beside the exit.
+Umaru studies the table of sweets beside the exit. There are open tins, several deep bowls and another box waiting beneath the cloth.
 
-“A strong position,” she says. ᵁ
+“The scale of the occupation grows,” she says. ᵁ
+
+Shuna looks into the nearest bowl.
+
+“I told you there were hundreds.” ˢʰᵘ
+
+Rem gives her an amused look. Shuna takes a sweet and turns back to see what Ori has found in the channel.
 
 The guard takes the boat down and sets it beside a stack of square sheets. On the board, a drawing shows the start, the channel and the far tray. After the boat crosses the starting line, hands stay out of the water.
 
@@ -111,6 +117,14 @@ Agott shows her. Check before declaring a siege.
 
 Umaru objects to the political implication while trying the almond sweet. She takes the map back with the note still on it.
 
+Shuna holds the little drawer open while Shizuka shows Nano the second catch. There are more packets beneath the first layer. Karane takes one for Hakari, who immediately offers to trade for the one she already gave her.
+
+“We should secure the room,” Umaru says. ᵁ
+
+“You can come back after lunch,” Mau tells her from the doorway. ᴹ
+
+She looks at the drawers again, finding the promise much more dangerous than an objection.
+
 ---
 
 The courtyard gate is closed when they reach it.
@@ -183,9 +197,13 @@ Umaru moves again. Ori follows. At the narrow part of the chalk route, Beru has 
 
 Kamish studies a cloud with immense attention.
 
+Shuna follows Beru into the tunnel, gathering her apron clear of the imaginary ceiling. When Kamish's eye begins to turn toward her, she crouches lower with such immediate seriousness that Mau has to look down at his cup.
+
+The dragon returns to the cloud.
+
 Milim arrives at the tunnel mouth, looks at the rest of the invasion disappearing beneath a perfectly visible wall and drops onto her knees with immediate delight. The people behind her begin laughing. She puts a finger to her lips with such ferocity that they have to cover their mouths.
 
-Inside the courtyard, Mau bends over the supply ledger.
+Inside the courtyard, Mau bends over the campaign report.
 
 Yuka can see him through the side opening. She can also see that he has not written anything for some time.
 
@@ -199,7 +217,7 @@ Ori is the first to stand. She puts both feet outside the chalk, brushes entirel
 
 Umaru examines the courtyard as though they have penetrated a stronghold by means no enemy could have anticipated.
 
-Mau looks up from the blank ledger.
+Mau looks up from the blank report.
 
 “How did you get in?” he asks. ᴹ
 

@@ -13,7 +13,17 @@ The Kitchen Wing smells of warm apples.
 
 Umaru notices before anyone reaches the door. She has stopped pretending the invasion is motivated by anything more complicated than access to the shelves. Rem follows her in with the map, and the rest of the expedition gathers around a knight wearing a paper crown over its helmet.
 
-The wooden spoon is still upright in one hand.
+The wooden spoon is still upright in one hand. The shelves behind it are full: biscuit tins, wrapped chocolate, jars with little sugar-coated shapes inside and the cakes Shuna brought before breakfast.
+
+She comes through the door behind Ori and pauses to admire the paper crown.
+
+“I helped supply this officer,” she admits. ˢʰᵘ
+
+Umaru turns toward her.
+
+“Before enlistment,” Shuna adds, smiling. ˢʰᵘ
+
+Rem catches the map before the president can reach for a fresh page.
 
 “A dangerous officer,” Mai observes. ᴹᵃ
 
@@ -131,13 +141,35 @@ The treasury opens.
 
 For a moment the entire invading force goes quiet.
 
-There are shelves of things they know, packets from the island and a chest with a different little parcel for each person who came. Ori sees Chloe's name before her own. Suika's is beside Coco's. Marin discovers that somebody has tied a miniature version of the banner around hers.
+The shelves run along two walls, full of things they know and things they have not tried: bright little fruit sweets, chocolate in flat stacks, biscuit tins and the packets from the island. Several boxes stand open beneath them, with enough left for the people who want to come back through the rooms later. On the wide table beside the window, trays of Shuna's cakes have a place among the things Mau bought.
+
+A chest holds a different labelled parcel for each person who came. Ori sees Chloe's name before her own. Suika's is beside Coco's. Marin discovers that somebody has tied a miniature version of the banner around hers.
 
 Umaru approaches the shelf with an expression Rem has seen only a few times and generally in the presence of a newly restored game.
 
 “We have won,” she says, very softly. ᵁ
 
 “I noticed,” Rem answers. ᴿᵉ
+
+Shuna comes to stand beside them. Umaru raises the unopened packet from yesterday, compares it with a whole box of the same thing and solemnly sets the evidence among the liberated supplies.
+
+“The information was accurate,” she tells Shuna. ᵁ
+
+“I'm pleased it was useful.” ˢʰᵘ
+
+Umaru opens the packet at last. She offers it to Shuna, takes one herself and, when Mau comes nearer to help carry the parcels, holds it out to him too. He accepts before she remembers he is the accused.
+
+From beside the door, Mau looks at Yuka.
+
+“I could have opened it yesterday.” ᴹ
+
+She slips an arm around his waist.
+
+“Then we wouldn't have had an invasion.” ʸ
+
+He looks back at Ori, who has just found the parcel with Shuna's name and is carrying it toward her with both hands.
+
+“A poor use of a castle,” he agrees. ᴹ
 
 ---
 

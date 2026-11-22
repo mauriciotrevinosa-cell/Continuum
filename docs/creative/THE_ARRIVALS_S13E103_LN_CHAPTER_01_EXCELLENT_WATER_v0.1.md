@@ -13,15 +13,23 @@ The first thing the Fort does with its conquered castle is have lunch.
 
 This takes more organization than the invasion.
 
-The sweets have been distributed, compared and partially traded. The empty cups have migrated to three different rooms. Someone has put the paper boat beside the apple filling, which Ori considers an alarming location for a vessel that survived so much water.
+The sweets have been distributed, compared and partially traded. The shelves are still well stocked. A box from the treasury has become a serving table for the next round of discoveries, and the unopened reserves wait behind it for the afternoon. The empty cups have migrated to three different rooms. Someone has put the paper boat beside the apple filling, which Ori considers an alarming location for a vessel that survived so much water.
 
-She rescues it while Rem and Fern clear the courtyard table. Shuna arrives with the food she meant them to eat before the rest of the treasury, takes in the wrappers and gives Mau a look of profound familiarity.
+She rescues it while Rem and Fern clear the courtyard table. Shuna returns from the kitchen with the food she wanted to share after the game. Her paper hamster is still pinned to her apron. Shion has been helping carry the dishes out while she collected her own parcel with Ori.
+
+Shuna takes in the wrappers and gives Mau a look of profound familiarity.
 
 “I was outnumbered,” he says. ᴹ
 
-“You supplied them.” ˢʰᵘ
+“I joined for that reason.” ˢʰᵘ
 
-“An administrative oversight.” ᴹ
+“You ate my evidence,” Umaru says from beside Rem. ᵁ
+
+“You offered it to me.” ᴹ
+
+“An administrative oversight.” ᵁ
+
+Shuna has to set the dish down before she starts laughing.
 
 Shuna puts a plate in his hands and goes to find the place where Milim has decided to sit. Shion follows with the second dish, tells Kamish that his parcel is being brought to the other side of the courtyard and receives such a dignified acknowledgment that she laughs before turning away.
 
@@ -30,6 +38,30 @@ Umaru has kept the chair beside Rem. This becomes a political issue only when Ry
 Seika answers by putting another plate in front of her.
 
 The negotiations pause.
+
+When everyone has food, Umaru opens the paper headed Betrayal of the Fort and announces that the presidency is prepared to offer an amnesty.
+
+Mau puts his fork down.
+
+“For what?” ᴹ
+
+She turns the page so he can see his name.
+
+“Continued access to the liberated reserves.” ᵁ
+
+“They're already yours.” ᴹ
+
+“Then you accept.” ᵁ
+
+Rem rests her forehead against Umaru's shoulder. Shuna reaches across the table to move the amnesty out of the path of a cup, still smiling. Ori asks whether they can keep the extra sweets in the Fort after the film, and Mau tells her to choose a box they can carry there.
+
+“Two,” Umaru says at once. ᵁ
+
+Mau looks at the full shelves.
+
+“Choose two.” ᴹ
+
+She makes an emphatic mark beside his name. The vending citizen has apparently been restored to public life.
 
 ---
 
@@ -147,7 +179,9 @@ Yuka begins laughing. Ori joins her a moment later, discovering the joke in the 
 
 ---
 
-Before they go in, Maki walks the emptied rooms once more. Mai collects the loose decorations. The work detail comes back at Mau's order, helping move the tables and gather the things which belong to the house rather than the castle.
+Before they go in, Mau brings out the two boxes Umaru and Ori chose for the Fort. A separate one holds the cakes Shuna wants to share after dinner. The remaining sealed stock goes back into his inventory; the open tins travel with the trays for the house.
+
+Maki walks the emptied rooms once more. Mai collects the loose decorations. The work detail comes back at Mau's order, helping move the tables and gather the things which belong to the house rather than the castle.
 
 Ori takes down the sign with the polite request at the gate. She gives it to Yuka to keep while Mau puts the marked sections back into storage. The doorway is the last thing left standing, once again leading from one ordinary stretch of grass to another.
 

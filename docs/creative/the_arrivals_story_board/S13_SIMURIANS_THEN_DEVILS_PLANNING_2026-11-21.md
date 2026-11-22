@@ -120,3 +120,15 @@ His full words are in the conversation of 22 November 2026; key quotes are kept 
   - Ciel and Noise tell her Mau "needs some time". They're watching everything Mau felt and remembers hit him at once while he clears his head in a dungeon with Makima.
   - Yuka understands something else. **This time the misunderstanding isn't Yuka's doing; it's Ciel and Noise using the wrong words.**
 - **Then what Yuka says to Mau before the war**, which she later realises was a huge mistake.
+
+## More (Mauri, 22 November 2026)
+
+> y frieren con la cara mas orgullosa de yo le mostre eso hacia gojo y gojo ofendido y cuando funciona el infinity le dice a frieren que el le mostro eso y asi se van los dos de calle
+
+> oye ya algo que aun no se si cabe aqui en los dias antes de los simurianos me gustaria hacer un cap mostrando la semana de mau mostrando como convive con todos sino lo dejamos como una posibilidad peor me gustaria mostrar como mau mantiene sus amistades cuando no anda con yuka y asi cuando se ven los del roof y cuando se ven las crackers y asi osea como una lista podria ser interesante.
+
+> Fakkkkk me gusto lo que propones y ya habias dicho algo
+
+- **Frieren vs Gojo during the Dabura fight:** when the concealment works, Frieren, very proud, says "I taught him that" at Gojo. Gojo is offended, and when Infinity works he tells Frieren he taught *that* one. They keep at it the whole fight.
+- **Possibility (before the Simurians): "Mau's week".** A chapter showing how Mau keeps up his friendships when he isn't with Yuka: the roof people, the crackers table, and so on. Maybe as a list or a schedule. Verify the established groups and their days in the canon before writing.
+- **What Yuka says before the war:** Claude's proposal accepted. It's the unfair comparison with Makima, said at a bad moment, when Yuka has just found the door closed (in front of Cross, while showing off Mau's techniques) and has misread Ciel and Noise's "he needs some time". She realises too late, when Mau is already in Yoru's war. The exact words are still to be written.

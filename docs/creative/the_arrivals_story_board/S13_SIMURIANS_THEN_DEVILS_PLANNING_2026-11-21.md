@@ -184,3 +184,9 @@ His full words are in the conversation of 22 November 2026; key quotes are kept 
 - Mau tells her, very casually, that she's a great friend, and takes her hand **as a friend** while he says it. This is the origin of the friend's handshake.
 - **Makima opens up a little more** about what she felt in her other life.
 - **Claude's note:** Makima receives Mau's feelings through the bond (established). Let her feel what the plate meant without being told, and choose to say only the useful thing, which is her strategist nature turned toward care.
+
+## Mau and Makima like Denji and Power (Mauri, 22 November 2026)
+
+> haciendo makima y mau como algo similar de power y denji acorde afujimoto como besties o muy buenos amigos aunqeu fujimoto si los hizo parecer como mas que amigos pero si
+
+- **The model for Mau and Makima is Denji and Power,** the way Fujimoto describes them: best friends, very close friends. Fujimoto made Denji and Power look like more than friends at times, and that ambiguity is part of the charm. For Mau and Makima it stays clearly friendship (Mau is a monogamous husband), even though it can look like more from the outside, which is what Yuka misreads.

@@ -355,3 +355,14 @@ The creator has now authorized the full departure-to-Hamster-Revolution arc. Ear
 - **Yoru (V82 #4–12) was Mauri's call.** She's compulsive by nature: she knows what Mau can do and shows up anyway while they're calm, to test the water. That forces Mau to decide how much to give and how to protect the island. It's deliberate that every time Mau relaxes, something wants him, and it gives each open thread something.
 - **The island's length is a one-off.** It was the first time the whole house travelled together, so it was lived out in full. The next arcs should change form and pace.
 - The Yuka contract issue is already fixed (Mauri).
+
+## DIO and Elmesia: how DIO learns love (Mauri, 21 November 2026)
+
+> si aqui te va y tenemos que regresar a s2 cuando dio le hizo lo de doble binary dio en si nunca entendio el amor batalla en diferenciar entre un amor romantico a uno de amistad por eso cuando crea a ori su primera intencion es amor romantico pq cree que eso es amor pero el arco de ori es que ella decide como amar a la gente y asi en cambio dio aun es compulsiva mau tiene a yuka entonces cuando dio la trata como mau con respeto a pesar de todo ella puede creer que eso es amor romantico pero lo que me gusta es que ella este cultivandolo con elmesia sin darse cuenta entonces aun es amiga de noise y aun puede creer que quiere ser esposa de noise sin darse cuenta que esta aprendiendo que es amor romantico de verdad con elmesia bueno asi lo veo yo
+
+- **Root in S2 (the "double binary"):** DIO never understood love. She struggles to tell romantic love from friendship.
+- That's why, when she created Ori, her first intention was romantic love: she thought that was what love was. Ori's arc is that she decides for herself how to love people.
+- **DIO is still compulsive.** Mau has Yuka. When someone treats DIO with respect despite everything (the way Mau does), she can mistake it for romantic love.
+- **With Noise:** DIO is still Noise's friend and may still believe she wants to be Noise's wife.
+- **With Elmesia, without realising it,** she's learning what real romantic love is, and cultivating it.
+- **How to write it:** DIO doesn't name it. The reader and the house see it before she does. No drama with Ciel or Noise, and nobody tells her what she feels. (Claude's proposals from chat, unconfirmed: slow, letters/visits, the plant as an excuse, Yuka shipping it, Mau oblivious.)

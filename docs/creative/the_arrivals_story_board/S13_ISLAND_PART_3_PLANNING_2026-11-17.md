@@ -346,3 +346,12 @@ The creator has now authorized the full departure-to-Hamster-Revolution arc. Ear
 
 
 **Same-day creator correction, 20 November:** EVERYONE departs and arrives TOGETHER. The advance-four version briefly drafted in V81#3–4 has been replaced throughout the affected prose, index and kit. Mau/Yuka/Frieren/Ori have their beach morning after this shared arrival; no split travel, no next-day return to collect the house.
+
+## Mauri on the finished Island III (21 November 2026)
+
+> si ose me gusta la idea yoru por naturaleza es compulsiva sabe lo que mau es capaz y aun asi decide aparecer cuando anden tranquilos para probar el agua y se arma esto forzando a mau en ver que tanto dar y proteger la isla siento que le da un golpe que cada ves que mau esta relajandose algo siempre lo quiere dandole a cada hilo abierto algo.
+> sisi yo pedi que este arco se viviera pq es mau y yuka pero es la primera ves que toda la casa viaja en un rato juntos entonces claro que tuvimos que hacerlo mas largo pero mil porciento de acuerdo contigo que esto es un one off
+
+- **Yoru (V82 #4–12) was Mauri's call.** She's compulsive by nature: she knows what Mau can do and shows up anyway while they're calm, to test the water. That forces Mau to decide how much to give and how to protect the island. It's deliberate that every time Mau relaxes, something wants him, and it gives each open thread something.
+- **The island's length is a one-off.** It was the first time the whole house travelled together, so it was lived out in full. The next arcs should change form and pace.
+- The Yuka contract issue is already fixed (Mauri).

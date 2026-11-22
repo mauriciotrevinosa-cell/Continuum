@@ -194,3 +194,22 @@ His full words are in the conversation of 22 November 2026; key quotes are kept 
 > haciedno referencia a lo de power
 
 - **The nod to Power, in scene:** when Power appears in Yoru's war, she sees Makima hiding behind Mau the way Power used to hide behind Denji, and takes offence: Makima is copying her move. A Makima who learned it watching Power, without ever having been on the other side, is the joke and the tenderness at once. (Claude's proposal for how to make the reference.)
+
+## Power ranking, Heavenly Restriction and the end of Mini Ciel (Mauri, 22 November 2026)
+
+> puede ser a tu parrafo epro ahorita un focus antes de la guerra me gusta tomar el tiempo de todo para ahcer bien a los simurianos y todo lo que pase y lowkey quiero decir algo en mi head cannon sukuna es mucho mejor que dabura osea la amnera que yo ranqueo a estos es gojo sukuna top 1 yuta y dabura se pelean el tres y 4 todo depende si dabura hace un fatal blow al segundo (la diferencia que sukuna pued elanzar miles de cuchicllos alrededor de el actuando como una barrera entocnes aunque no lo vea venir sus cortes ya estan cortando. y modulo yuji es mi numero 5 entonces esto ahce lo interesant ey otra cosa es que me gustaria que noise porfin temrino de analizar la heavenly restricciond e makima y como incorporarla al cuerpo de mau sin activando la restriccion esto ahce que mau pueda ver como maki si quiere osea cmabios de temperatura y todo mas los ojos osea ahora si tiene todo el mundo para poder leer ahasta los movimientos de los atomos pero tiene que bajar y tenemos que cerrar lo de mini ciel y me encanta que ciel se lo venda a mau como que mini ciel no va a sobrevivir y se comeince a reir y mau pregunta de quien fue la idea y nosie actua todo inocente y mau le dice que se esta juntando con mala compania y ciel y dio puede oponerse a ese comentario
+
+- **Focus:** before the war, take the time to do the Simurians and everything that happens properly.
+- **Mauri's power ranking (headcanon, sets the scale):**
+  1. Gojo and Sukuna, tied at the top. Sukuna is much better than Dabura: he can throw thousands of cuts around himself as a barrier, so even if he doesn't see something coming, his cuts are already cutting.
+  2. Yuta and Dabura fight over third and fourth. It depends on whether Dabura lands a fatal blow on the second try.
+  3. Modulo Yuji is fifth.
+
+  Implication: Mau beat Sukuna, so against Dabura he's on the winning side of the scale, but Dabura's speed and adaptation make it close (see above).
+- **Heavenly Restriction** (Mauri wrote "makima", meaning **Maki**; confirm): Noise finally finishes analysing it and how to fold it into Mau's body **without triggering the restriction**.
+  - Mau can sense like Maki if he wants (temperature changes, and so on), plus the eyes, so he can read the whole world down to the movement of atoms.
+  - He has to turn it down.
+- **Mini Ciel thread closes:**
+  - Ciel tells Mau, as a prank, that Mini Ciel won't survive, then starts laughing.
+  - Mau asks whose idea it was. Noise acts all innocent.
+  - Mau tells Noise it's hanging out with bad company. Ciel and DIO object to that comment.

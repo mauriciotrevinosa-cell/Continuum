@@ -174,3 +174,13 @@ His full words are in the conversation of 22 November 2026; key quotes are kept 
 - At a dinner in the distance stretch, Yuka doesn't steal. **Mau leaves the plate with the portion he always leaves for her, and walks out of dinner without saying anything.**
 - He said it as a joke back then; now it resonates for him.
 - **Confirmed:** at night Yuka still curls up against him, kisses him and tells him she loves him, which is why she can't see what everyone else sees.
+
+## Makima after the plate (Mauri, 22 November 2026)
+
+> fak si y algo que me gusta es que mau comience a depender de makima osea ciel y noise estan ahi peor como makima esta en fisico se va de la mesa makima tal ves lo sigue y se sientan a platicar makima es tal ves la que evita que mau vaya a hacer algo estupido sin pensarlo y mau puede decirle muy casual que es una gran amiga y asi y podemos ver como mau le agarral amano como amigo al decirle y makima se puede abrir un poco mas de loq ue sentia en su otra vida y asi
+
+- **Mau starts to depend on Makima.** Ciel and Noise are there, but Makima is the one with a body.
+- When he leaves the table, Makima follows him, and they sit down to talk. She's the one who stops him from doing something stupid without thinking.
+- Mau tells her, very casually, that she's a great friend, and takes her hand **as a friend** while he says it. This is the origin of the friend's handshake.
+- **Makima opens up a little more** about what she felt in her other life.
+- **Claude's note:** Makima receives Mau's feelings through the bond (established). Let her feel what the plate meant without being told, and choose to say only the useful thing, which is her strategist nature turned toward care.

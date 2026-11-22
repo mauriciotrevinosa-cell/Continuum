@@ -213,3 +213,18 @@ His full words are in the conversation of 22 November 2026; key quotes are kept 
   - Ciel tells Mau, as a prank, that Mini Ciel won't survive, then starts laughing.
   - Mau asks whose idea it was. Noise acts all innocent.
   - Mau tells Noise it's hanging out with bad company. Ciel and DIO object to that comment.
+
+## Reconciliation seed and confirmations (Mauri, 22 November 2026)
+
+> y esto nos da algo muy bonito yuka ya metio la pata una ves y ahora tiene que recuperar otra ves a su esposos por sus errores y que mau le diga que no hizo nada malo que el tenia mucho sucediendo y luego vio esas cosas y trono por dentro y que perdon que le toco un poco del pedo y yuka sabe que anda minimzando peor en ves de decirle nada ella se pone a planeear
+
+> si pero le gano pq lit sus sombras lo sostuvieron y evitaron que se descuartizara en algo tan poetico ya estoy llorando recordandolo ajajaj
+
+> si maki maki me confundi con makima y si creo que ya tenemos todo para arrancar
+
+- **Reconciliation:** Yuka already messed up once, and now she has to win her husband back again because of her mistakes.
+  - Mau tells her she did nothing wrong: he had a lot going on, then saw those things and cracked inside, and he's sorry some of it landed on her.
+  - Yuka knows he's minimising. Instead of telling him so, she starts planning.
+- **Sukuna, for scale:** Mau won because his shadows literally held him together and kept him from being torn apart. Mau being "above Dabura on paper" must not erase that.
+- **Heavenly Restriction:** confirmed as **Maki's**.
+- **Status:** enough to start outlining the chapters. Writing workflow as always: Claude writes; kisses go in [PARA WORK] brackets; no intimate scenes (the pause continues).

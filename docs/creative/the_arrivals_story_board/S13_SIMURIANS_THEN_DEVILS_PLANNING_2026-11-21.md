@@ -80,3 +80,26 @@ His full words are in the conversation of 22 November 2026; key quotes are kept 
 
 - **Yuka's anger in the Cross stretch is not only terror.** It's also because she's feeling things she didn't let herself feel before. She stays faithful; the drama is Cross's.
 - **Spending the points (target):** Mau's pure physicality, "just hands" with no CE, reinforcement or mana, reaches about **Jin-Woo before his awakening**: able to fight three Rulers with just his hands, though Jin-Woo died there. It does **not** reach post-awakening Jin-Woo, on a par with Antares. On top of that, Mau keeps everything else in his kit. Exact numbers per stat still to be worked out (with Umaru and Jin-Woo in scene).
+
+## More from Mauri (22 November 2026)
+
+> y las dagas
+
+> si y me gusta que maki mai y yuta y los demas de la casa le digan que parece que esta cambiando a mau y asi osea que el punto de vista de todos estan de acuerdo como mau lo esta viendo y entienden a ambos a mau le pueden juzgar que no dijo anda y esta cayendo en viejos habitos pero neta en que momento s epueden sentar a platicar con el y los demas ven las acciones de yuka y por eso queda bien mientras gojo usa lo de la revancha como entrenamiento pero su motivo real es hacer que mau se abra y puede ser que gojo le cuenta a shoko y de ahi nace la platica de hacia yuka y su envergue de yuka y como aun tiene unos 20 21 queda bien que lleva desde hace rato queriendo ser mas madura y ahorita que ah estado de empalagoza con mau ese cambio brutal me encnata y me gustaria que el dungeon que makima y mau hagan o en la guerra que mau cierre las puertas no que rompa los contratos de que yuka usar sus cosas o de mai poder darle el costo de construccion a mau y que mai use las reservas de mau en ves d elas suyas se quedan pero mau las cierra y casi cierra nosie y ciel y ellos le piden que no lo haga y mau dice qu eesta bien y me gusta a qu regresa a un estilo de que escuhca lo tecnico peor cuando le piden que se abra emocionalmente mau ignora e ignora y asi . y dabura en si se mueve sub speed of light entocnes mau en lo que termina de construir copias de sus tecnicas tiene que sobrevivir e infinity puede protegerlo pero cuando dabura entiende que puede apagar o interrumpir la ce puede crear huecos antes de que mau le de mas poder al infinity que aguante el contrataque y asi
+
+- **Kit with everything else:** add **the daggers** (Mau's own, real) to the list next to the eyes, Infinity, RCT, Purple, Shrine, the legion, the Black Heart's infinite mana and the katana with Rika.
+- **The house sees it:** Maki, Mai, Yuta and the others tell Yuka it looks like she's swapping Mau for Cross. Everyone sees it the way Mau does, and they understand both sides:
+  - Mau can be judged for not saying anything and falling back into old habits. But when, honestly, could anyone sit down with him?
+  - Everyone sees Yuka's actions, so the criticism lands on her fairly.
+- **Gojo:** he uses the rematch as training, but his real motive is getting Mau to open up. He tells Shoko, and that leads to **Shoko's talk with Yuka**, and Yuka's being upset.
+- **Yuka is about 20–21.** She's wanted to be more mature for a while, and coming after her clingy stretch with Mau, that sharp change in her is what Mauri loves.
+- **Mau closes the doors** (in the dungeon with Makima or in the war):
+  - He doesn't break any contract: Yuka using his things; Mai passing her Construction cost to Mau and drawing on his reserves instead of hers. They all stay. He just closes them.
+  - He almost closes Noise and Ciel too. They ask him not to, and he says okay.
+  - He goes back to an old style: he listens to the technical, but when they ask him to open up emotionally, he ignores it and keeps ignoring it.
+- **Dabura's fight:** he moves at sub-light speed. While Mau finishes building copies of his techniques, he has to survive.
+  - Infinity can protect him. But once Dabura understands he can switch off or interrupt CE, he opens holes before Mau can feed Infinity more, and Mau has to take the counterattack.
+
+## Claude's notes
+- Closing the doors is the arc's strongest image. A good moment: Yuka reaches for his Blue out of habit and finds the door closed, not broken. Mau stays physically beside her; the separation is all inside, as per the standing rules. It reopens in the resolution, and he's the one who opens it.
+- Dabura interrupting CE is the right answer to Infinity always on: the gaps between interruptions are where the fight lives. Mau's daggers and the hands-only tier matter exactly there.

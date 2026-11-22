@@ -165,3 +165,12 @@ His full words are in the conversation of 22 November 2026; key quotes are kept 
 - **Claude's notes:**
   - Show it through habits we've already set up, so the reader feels it: his lap empty at a meal, the plate untouched (no stolen food), the hand she doesn't reach for. Yuka does none of it on purpose.
   - Mau notices and says nothing (the old "it's fine").
+
+## The plate (Mauri, 22 November 2026)
+
+> fak lo del plato me duele mucho pq mau dice que la uncia ves que estaria disapointed de yuka es si le deja de robar comida y que maud eje el plato con la porcion que siempre le deja y se va a de la cena sin decir nada fakkkkkk pq tal ves lo decia de broma pero le hace una resonancia a mau  y si a lo ultimo
+
+- **Callback to V80 #6:** Mau once said the only time he'd be disappointed in Yuka is if she stopped stealing food off his plate.
+- At a dinner in the distance stretch, Yuka doesn't steal. **Mau leaves the plate with the portion he always leaves for her, and walks out of dinner without saying anything.**
+- He said it as a joke back then; now it resonates for him.
+- **Confirmed:** at night Yuka still curls up against him, kisses him and tells him she loves him, which is why she can't see what everyone else sees.

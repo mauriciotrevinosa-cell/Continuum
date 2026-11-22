@@ -132,3 +132,24 @@ His full words are in the conversation of 22 November 2026; key quotes are kept 
 - **Frieren vs Gojo during the Dabura fight:** when the concealment works, Frieren, very proud, says "I taught him that" at Gojo. Gojo is offended, and when Infinity works he tells Frieren he taught *that* one. They keep at it the whole fight.
 - **Possibility (before the Simurians): "Mau's week".** A chapter showing how Mau keeps up his friendships when he isn't with Yuka: the roof people, the crackers table, and so on. Maybe as a list or a schedule. Verify the established groups and their days in the canon before writing.
 - **What Yuka says before the war:** Claude's proposal accepted. It's the unfair comparison with Makima, said at a bad moment, when Yuka has just found the door closed (in front of Cross, while showing off Mau's techniques) and has misread Ciel and Noise's "he needs some time". She realises too late, when Mau is already in Yoru's war. The exact words are still to be written.
+
+## Order and the breaking point (Mauri, 22 November 2026)
+
+> me gusta pero guardalo osea pq ya tuvimos un chorro de tranquilidad dos volumenes y aparte mau no puede estar al 100 tranquilo pq anda pensando en lo de yoru y le cae lo de los simurianos y depsues que respira yoru lelga anunciando su plan para forzar a mau en una guerra solo y me encantaria que yoru viera la pelea de dabura
+
+> si osea que cuando yuka se entere que mau fue a un dungeon y no le aviso y fue con makima se emputa pq ella le habia dicho que lo iba a acompanar a todos los futuros dungeons y antesd e que mau diga algo de que no l quiso molestar pq la vio con cross se enverga y le comienza a decir cosas y saca lo de makima y makima puede poenr cara de perro reganado y se pone como pwoer pero esta ves detras de mau y eso rompe a yuka y suelta sus comentarios y se va emputada con cross y mau con el corazon roto aun mas pq ahora siente que lo que el creia es verdad y se va a una guerra con makima y algo que me gustaria mantener es que makima le comienza a agarrar la amno a mau no con dedos entre lazados sino como un handshake como amigos para no perderse y asi
+
+**Order**
+- **"Mau's week" is shelved** (a possibility for later). Two volumes of calm is plenty.
+- There's no real breather: Mau is never 100% calm because he's thinking about Yoru. Then the Simurians hit.
+- **Yoru watches the Dabura fight.**
+- After Mau gets his breath back, Yoru arrives announcing her plan to force him into a war alone.
+
+**The breaking point** (replaces Claude's earlier version of "what Yuka says before the war")
+- Yuka finds out Mau went to a dungeon without telling her, and with Makima. She's furious: she'd told him she'd go with him to every future dungeon (the quarry promise, V78 #33).
+- Before Mau can say he didn't want to bother her because he saw her with Cross, she gets defensive and starts saying things, and brings up Makima.
+- Makima puts on a scolded-puppy face and hides like Power, but this time **behind Mau**. That breaks Yuka. She says her comments and **leaves, furious, with Cross**.
+- Mau's heart breaks even more, because now what he believed (the S1 instinct that stepping away is best for her) feels true. He goes to the war with Makima.
+- **Makima takes Mau's hand like a handshake between friends,** not with fingers interlaced, so they don't lose each other. Keep this.
+
+**Note:** this is a separation Mauri planned on purpose, as the low point of the arc. It's an explicit exception to the standing rule of never writing them apart. It isn't a breakup; the resolution brings them back together.

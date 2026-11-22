@@ -228,3 +228,75 @@ His full words are in the conversation of 22 November 2026; key quotes are kept 
 - **Sukuna, for scale:** Mau won because his shadows literally held him together and kept him from being torn apart. Mau being "above Dabura on paper" must not erase that.
 - **Heavenly Restriction:** confirmed as **Maki's**.
 - **Status:** enough to start outlining the chapters. Writing workflow as always: Claude writes; kisses go in [PARA WORK] brackets; no intimate scenes (the pause continues).
+
+## Mauri's answers (22 November 2026)
+
+> si pq sabe que si le pregunta a mau le dira le verdad y ella sabe bien que metio la pata y se peleo con parte de la casa creyendo que no ahcia nada malo entonces que en ves de pedirle a su esposo que le diga que si fue culpable busca de otra amnera de pedir perdon y se pone a planear y me gustaria que el detonante que haga que yuka no sea solo la pelea con mau bueno pelea de su lado y mau solo reicbiendo . y que cross intente aprovechar esto para meterse aun ams entre ellos pero esta ves yuka se da cuenta (y esto queda bien con cross que cuando algo no le gusta busca la manera de meterse)
+
+> mientra sno digan amor son reales y las tecnicas work dice las que saco en linea tmb
+
+> reze recuerda que fue capturada por makima justo al final de reze arc pero en ves de ser lavada el cerebro la sacamos de ahi. Denji es el denji despues del final de parte 1 o creo que antes de yoru le hicera cositas y solo se conocian y power es del segundo con el aste antes de que makima la mate pero recuerda como revivio por un minuto o dos para salvar a denji
+
+> pero no escatimes con lo empalagosa d eyuka necesitamos mucho de eso
+
+- **Why Yuka plans instead of asking:** she knows Mau would tell her the truth if she asked. She knows she messed up and fought with part of the house believing she'd done nothing wrong. So instead of asking her husband to say she was guilty, she looks for another way to apologise.
+- **What wakes Yuka up isn't only the fight** (which was her fighting while Mau only took it). **Cross tries to use the break to get further between them, and this time Yuka sees it.** That fits Cross: when he doesn't like something, he finds a way to wedge himself in.
+- **Modulo sources:** the fan summaries count as canon unless they claim romance. Work supplies Dabura's techniques from what it finds online.
+- **Chainsaw Man arrival points:**
+  - **Reze:** captured by Makima right at the end of the Reze arc; instead of being brainwashed, we pulled her out.
+  - **Denji:** after the end of Part 1, or before Yoru "did things" to him, when they only knew each other.
+  - **Power:** the second Power, with Aki (Gun Devil arc), before Makima kills her. But she remembers reviving for a minute or two to save Denji.
+- **Crackers table** (verified, CANON_TRAPS): Seiko, Maki, Frieren and later Mai, in the evening, the same night as the roof, every seven days.
+- **Clingy Yuka: plenty of it.** Don't hold back, including in the stretch where she believes everything is fine.
+
+## Chapter list v1 (Claude, proposal for Mauri to review; the story decides length)
+
+Timeline anchor: V82 ends after the Fort day (about B+405). Yoru's contract runs to B+487. [C] = a [PARA WORK] closeness or kiss note (no intimate scenes; the pause continues).
+
+**A. Home, never fully calm (about 4–6)**
+1. Back to routine. Yuka clingier than ever after the island (lap, plate, kisses [C]). Mau thinking about Yoru's ninety days. Mai's "Everything" in the workshop.
+2. Mini Ciel closes: Ciel's prank, "bad company", Ciel and DIO offended.
+3. Noise finishes Maki's Heavenly Restriction. The first time Mau reads temperature and atoms with the eyes, and has to turn it down. Maki present, proud and annoyed. [C] Yuka wants to test what he can "see" on her.
+4. Points, part one with Umaru and Jin-Woo, as promised on his birthday. Not all of them ("you'll know when").
+5. A seed: Dabura senses something. Possibly a letter or news of Tsurugi and Subaru.
+
+**B. The Simurians arrive (about 6–8)**
+6. The arrival: Subaru with Emilia and Puck, Tsurugi with the Simurians. Most of them stay behind; Cross and Maru push for dialogue.
+7. Tsurugi sells Mau as "the king". Dabura, interested, reads Mau's mana and mocks him: there's nothing there (Frieren's concealment).
+8. Talks and politics. Mau negotiating; Yuka at his side and clingy in front of everyone [C].
+9. Cross and Yuka recognise each other: "you were there". Their first talk. Mau watching.
+10. Noise and Mau fanboying over "papi Dabura" and analysing him. Comedy.
+11. Cross invites Yuka for a walk. Mau, rabid, says "it's fine".
+
+**C. The distance (about 6–8)**
+12. Yuka still clingy at night [C], less by day. She catches Cross up on her life.
+13. **The plate:** Mau leaves her portion untouched and walks out of dinner. Makima follows him; "you're a good friend"; the friend's handshake.
+14. The house sees it: Maki, Mai and Yuta speak to Yuka. She digs in (fear, and also feelings she didn't let herself have).
+15. Gojo's rematch as an excuse. Gojo reads him and doesn't let him dodge; Mau doesn't open up. Gojo tells Shoko.
+16. Shoko and Yuka, mother to daughter. Yuka half-listens.
+17. Mau closes the doors (contracts intact, closed). He almost closes Ciel and Noise; they ask him not to. He hears only technical things now.
+18. The dungeon with Makima ("to earn back the Hamster War").
+19. Yuka finds the door closed while showing off in front of Cross. Ciel and Noise say "he needs some time"; she understands something else.
+
+**D. The break (2–3)**
+20. Yuka finds out about the dungeon with Makima. She explodes; the unfair Makima comparison; Makima hides behind Mau like Power; Yuka leaves furious with Cross.
+21. Mau, heartbroken, with the S1 instinct confirmed ("stepping away is best for her"). Makima keeps him from doing something stupid.
+
+**E. Dabura (about 6–8)**
+22. The 1v1 at the quarry where he fought Sukuna. Yoru watches.
+23. Sub-light speed. Infinity holds until Dabura learns to interrupt CE and open holes. Daggers and hands in the gaps.
+24. Frieren ("I taught him that") and Gojo ("I taught him Infinity") going at it on the sidelines.
+25. Dabura stops: "you're thinking about something else". Mau shows him his body can evolve and spends the rest of the points mid-fight.
+26. Mau wins and doesn't kill him. The cost.
+27. Aftermath: Yuka sees Cross try to wedge himself in, and this time she notices.
+
+**F. The bridge (2–3)**
+28. Yuka, ashamed, starts planning how to win him back (she doesn't ask him for the truth).
+29. Just as she thinks she has a second, **Yoru arrives announcing** (the contract lets her cross; she can't harm anyone). Her plan forces Mau into a war alone, or something else happens at the same time.
+30. "It's fine, I can solve it, I'm not going alone, Makima is coming with me." They leave, hand in hand like friends.
+
+**G. Devils (its own arc after this)**
+- Denji, Reze and Power. Power sees Makima copying her move.
+- Yoru squeezing where the memory and the present don't match.
+- Yuka's plan to win her husband back, and the reconciliation (Mau minimises; she knows, and plans).
+- To plan in detail later.

@@ -103,3 +103,20 @@ His full words are in the conversation of 22 November 2026; key quotes are kept 
 ## Claude's notes
 - Closing the doors is the arc's strongest image. A good moment: Yuka reaches for his Blue out of habit and finds the door closed, not broken. Mau stays physically beside her; the separation is all inside, as per the standing rules. It reopens in the resolution, and he's the one who opens it.
 - Dabura interrupting CE is the right answer to Infinity always on: the gaps between interruptions are where the fight lives. Mau's daggers and the hands-only tier matter exactly there.
+
+## Points in the fight, the mana mask, and why Mau closes the doors (Mauri, 22 November 2026)
+
+> y me gusta que una parte de los puntos si los haga con ellos pero cuando dabura se da cuenta que mau anda pensando en otras cosas y se detienen ahi es dodne mau le muestar a dabura que puede evolcuionar mas su cuerpo y termian de usar los puntos en plena pelea. Y que no se nos olvide que dabura se burla de mau al inciio al leer lo que su cuerpo emite y cree que tiene nada pero eso es gracias a frieren.
+
+> no osea lo de cerrar es pq mau no quiere que nadie se le acerque anda tan alteradod e la cabeza intentando ordenar o porfin aceptar sentimientos y sensaciones que guardo o que movio algo y no quiere soportar a nadie por eso cierra todo no quiere pensar en algo externo o que alguien le llegue y que ahi makima sea medio su soprte y ciel y nosie adentro y ellso aun podiendo comunicarse con yuka nos da algo y me encanta que la amnera que yuka de sda cuenta es como dices tal ves le iba a mostrar a cross loq ue puede hacer y se da cuenta y cuando busca a mau sobre que esta pasando con el la comunicacion dentro de su cabeza y no puede llegar y ciel y nosie le explican que mau necesita un tiempo (pq noise y ciel estan viedno como todo lo que mau sintio recuerda y asi ele sta pegando de una mientras anda despejando su cabeza en un dungeon con makima) pero yuka entiende otra cosa y me encanta que esta ves no sea como loq ue hizo yuka a mau sino fue nosie y ciel usando palabras erroneas y luego agregale lo que yuka le dice antes de la guerra a mau que luego se da cuenta que la cago fakkkkkkkkk
+
+- **Points, part one before the fight:** some are spent beforehand, with Umaru and Jin-Woo.
+- **Points, part two mid-fight:** Dabura notices Mau is thinking about other things, and they stop. That's where Mau shows Dabura he can evolve his body further, and he spends the rest of the points mid-fight.
+- **Dabura mocks Mau at the start:** reading what Mau's body gives off, he thinks Mau has nothing. That's thanks to Frieren (Mau's mana concealment).
+- **Why Mau closes the doors:** he doesn't want anyone near him. His head is so shaken, trying to sort out or finally accept feelings and sensations he kept locked away (or that something stirred up), that he can't stand anyone. He closes everything so he doesn't have to think about anything outside or let anyone reach him.
+  - Makima is his half-support.
+  - Ciel and Noise are inside. They can still talk to Yuka.
+- **How Yuka finds out:** she's about to show Cross what she can do with Mau's things and finds the door closed. She reaches for Mau through the link in her head and can't get through.
+  - Ciel and Noise tell her Mau "needs some time". They're watching everything Mau felt and remembers hit him at once while he clears his head in a dungeon with Makima.
+  - Yuka understands something else. **This time the misunderstanding isn't Yuka's doing; it's Ciel and Noise using the wrong words.**
+- **Then what Yuka says to Mau before the war**, which she later realises was a huge mistake.

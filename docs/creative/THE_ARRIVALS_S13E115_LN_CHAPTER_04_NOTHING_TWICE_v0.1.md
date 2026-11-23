@@ -97,7 +97,7 @@ It goes on.
 
 He doesn't repeat. He doesn't let himself. Light from the right, then the katana from the left, then Authority on Dabura's own arm, then Blue, but alone this time, small, on the far side so it pulls Dabura *toward* the katana instead of away. Then the stolen light again, but from Rika's hands, as she rises behind him for one breath and sends it and goes.
 
-Every exchange new.
+Every exchange new. And never everything at once: he changes routes, lets one go quiet before the next comes up, the way Ciel keeps reminding him, because Infinity and Shrine together still press behind his eyes, and he only has one head to hold them in.
 
 And it works.
 

@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 25
 **Source episode:** S13E115
-**Continuity state:** B+433, the middle of the fight. Mau is all the way there, and Dabura is hard enough to kill that Mau can stop holding back: infinite mana from the Black Heart, cursed energy the eyes no longer drink, every point in his body, RCT always on. He opens with Zoltraak by the hundred. It works once. The second time, Dabura is already moving before the lines leave Mau's hand. The third time, he answers it. Blue and Red at once throws him across the quarry; the next time he goes *between* them. Evolved Shrine from every angle cuts him in a hundred places; the next time he's learned where the cuts won't be. Noise is the first to name it: Dabura adapts. Each answer works once, then Dabura has it. Like something taught him to. On the ridge, Frieren and Gojo stop bickering. The chapter ends with Mau understanding the shape of the fight: he has more than Dabura, but Dabura learns faster than Mau can repeat himself. So Mau will have to stop repeating himself.
+**Continuity state:** B+433, the middle of the fight. Mau is all the way there, and Dabura is hard enough to kill that Mau can stop holding back: infinite mana from the Black Heart, cursed energy his techniques barely move, every point in his body, RCT always on. He still has one body to direct it through and changes innate routes rather than firing them all at once (Blue and Red are two applications of Limitless; Infinity plus Shrine still strains the brain). He opens with Zoltraak by the hundred. It works once. The second time, Dabura is already moving before the lines leave Mau's hand. The third time, he answers it. Blue and Red at once throws him across the quarry; the next time he goes *between* them. Evolved Shrine from every angle cuts him in a hundred places; the next time he's learned where the cuts won't be. Noise is the first to name it: Dabura adapts. Each answer works once, then Dabura has it. Like something taught him to. On the ridge, Frieren and Gojo stop bickering. The chapter ends with Mau understanding the shape of the fight: he has more than Dabura, but Dabura learns faster than Mau can repeat himself. So Mau will have to stop repeating himself.
 
 *When: B+433. Late morning. The sun is high. The quarry walls are already carved from rim to floor.*
 
@@ -19,7 +19,7 @@ He's here. All of him. For the first time since the road, since the gate, since 
 
 He's never fought anyone like that since Sukuna. Everything else, he's had to hold back. A body that couldn't take it. A reserve that would run dry. Something to protect.
 
-Nothing runs dry now.
+The mana doesn't run dry. His techniques barely move the cursed energy. He has more strength than he's ever been able to spend, and one body to spend it through, and for once someone in front of him who gets up again.
 
 *Technical observation*, says Ciel, very quietly. *You're smiling.* ᶜ
 
@@ -49,7 +49,7 @@ On the ridge, Frieren has stopped breathing.
 
 The quarry floor round Dabura is full of holes. The sixty that missed.
 
-“I've never seen anyone cast it like that,” says Frieren. “I've never seen anyone with enough mana to try.” ᶠ
+“I've never seen anyone cast it like that,” says Frieren. “I've never seen anyone with enough mana to try. And he's keeping the next spread ready before the first one lands.” ᶠ
 
 * * *
 
@@ -85,9 +85,9 @@ He'd never seen the spell before this morning.
 
 * * *
 
-He tries Blue and Red.
+He lets the Zoltraak go quiet and gives Limitless the front of his attention.
 
-At once. One from each hand, the way he couldn't before the eyes stopped costing. Blue on the left, pulling; Red on the right, pushing. Two directions of the same thing, crossing where Dabura is.
+Blue and Red. Two applications of the same technique at once, one from each hand: Blue on the left, pulling; Red on the right, pushing. He knows that combination. Two directions of one thing, crossing where Dabura is.
 
 It works.
 
@@ -133,7 +133,7 @@ He watches Dabura turn in the air, already tracking Mau.
 
 Mau drops on him with Shrine.
 
-Not the single line. The evolutions. The ones he made in this quarry with Sukuna's archive open in his head: cuts that come from the air, from angles that don't exist, from everywhere at once, fine as hair. The way Sukuna could throw them like a barrier, so that even what you don't see coming is already cutting.
+He keeps Infinity for the landing and changes his second innate route to Shrine, and the pressure starts behind the old damaged eye at once. Not the single line. The evolutions. The ones he built from the parts of Sukuna's craft he has already read and practised: cuts that come from the air, from angles that don't exist, from everywhere at once, fine as hair. The way Sukuna could throw them like a barrier, so that even what you don't see coming is already cutting.
 
 The first time, they're everywhere.
 

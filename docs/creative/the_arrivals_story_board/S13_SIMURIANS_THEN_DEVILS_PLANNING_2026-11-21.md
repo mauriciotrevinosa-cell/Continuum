@@ -341,4 +341,11 @@ Timeline anchor: V82 ends after the Fort day (about B+405). Yoru's contract runs
 - **Satella, carefully:** she already lives in the house and is loved by it. She's had time to digest this and feels her usual envy, but she hasn't managed to say anything yet.
 - **Chapter list = a guide, not a law.**
 - **Devils:** use the ones that appear in the manga too. Through Yoru, the devil world already knows Mau can survive being erased, which makes him even more feared, and they want to get rid of him. And **Halloween vs Unlimited Void**. Verify Halloween in the manga before writing.
-- **"Alone" includes Makima.** Yoru bars her from fighting. Ciel and Noise stay, because they're part of Mau.
+- **Correction (Mauri):** "alone" means nobody from outside Mau: no Yuka, no Gojo, no Mai. **Makima CAN fight**, along with Ciel and Noise, because they all live in Mau.
+
+> no makima si puede participar yuka no gojo no mai no solo los que viven en mau y como makima esta fucionada con mau y el cuerpo externo es una habilidad de nosie apra que pueda seguir moviendose pero el limitante es que no se puede ir muy lejos y nosie tiene qu edarle atencion
+
+- **Makima's external body is one of Noise's abilities.** She's fused with Mau. Noise's ability lets her move about outside, with two limits:
+  - she can't go far from Mau;
+  - Noise has to keep its attention on it.
+- **In the fight that's a cost:** while Makima fights outside, part of Noise's attention is on holding her body.

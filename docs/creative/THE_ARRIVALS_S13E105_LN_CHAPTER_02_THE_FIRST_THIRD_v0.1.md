@@ -39,7 +39,7 @@ Mau opens the page.
 
 It looks the way it has always looked since level five. The name at the top. The level. And the fields under it, the ones that used to be smudged, filled in now: plain words, in the system's flat clear hand.
 
-*Strength. Speed. Endurance. Perception.* And a few smaller lines under those that the system hasn't explained and Umaru has spent six weeks theorising about.
+*Strength. Speed. Endurance. Perception. Mana.* And a few smaller lines under those that the system hasn't explained and Umaru has spent six weeks theorising about.
 
 And at the bottom, the box.
 
@@ -67,6 +67,74 @@ She explains it. At length. With estimated breakpoints, and curves, and somethin
 
 He wasn't. He was going to put everything into speed. He doesn't say so.
 
+“Nothing in mana,” says Umaru. ᵁ
+
+She's drawn a thick line through the *Mana* row on her chart. Twice.
+
+“Why not?” says Yuka. “It's on the page.” ʸ
+
+Umaru looks at her as if she's asked why you don't pour water into the sea.
+
+“Because it's *infinite*,” she says. “The Black Heart. He's got a cup with no bottom. What are you going to do, put points into it? Infinite plus ten? You'd be making it *more infinite*. That's not a stat, that's a waste. Every point in that row is a point that could've gone into his legs.” ᵁ
+
+* * *
+
+Senku is passing the doorway with a coil of wire over his shoulder.
+
+He stops.
+
+“Not necessarily,” he says. ˢᵉ
+
+Everyone looks at him.
+
+He comes in. He puts the wire down on the end of the table, next to Jin-Woo's tea, and picks up one of Umaru's pencils without asking, and turns over a sheet of her chart.
+
+“Gabriel's horn,” he says. ˢᵉ
+
+He draws. A curve, falling away to the right, getting closer and closer to the line without ever touching it. Then he turns it, round the line, into a long thin trumpet shape that goes on forever.
+
+“This shape,” says Senku, “goes on forever. Infinitely long. And the surface of it, the outside, if you painted it, is infinite. You'd never have enough paint.” ˢᵉ
+
+He taps the inside of the horn.
+
+“But the *volume*,” he says. “What it holds. That's finite. You could fill it with a bucket. Ten billion per cent true. Infinite on one measure, finite on another, *same object*.” ˢᵉ
+
+He looks at Mau.
+
+“So when somebody says *infinite*,” says Senku, “the first question a scientist asks is: infinite *what*? Maybe your mana cup has no bottom. Fine. That's the volume. Does that mean you can pour it out infinitely *fast*? Does the spout have no limit? Those aren't the same thing. One could be infinite and the other one isn't, and the row on that page could be measuring the one that isn't.” ˢᵉ
+
+Umaru opens her mouth. Closes it. Looks at her thick line through the *Mana* row with sudden doubt.
+
+* * *
+
+Mau thinks about it.
+
+He thinks about Zoltraak. About the quarry, and the porch, and every time he's reached into the Black Heart and found it full. He's never once found the bottom. He's never once found the spout either.
+
+“How many spells,” he says, “would I have to cast at the same time to run out?” ᴹ
+
+Senku looks at him.
+
+He opens his mouth.
+
+He doesn't say anything.
+
+He looks at the horn he's drawn. At the infinite surface and the finite inside. He looks at Mau, who has a cup with no bottom that he's never once managed to empty and has never needed to, and something goes across Senku's face that looks very much like a man who has just been handed a problem he can't solve and doesn't like it.
+
+He puts the pencil down.
+
+He picks up his wire.
+
+He leaves.
+
+“Senku?” says Umaru, to the empty doorway. ᵁ
+
+From the hall, very faintly, irritated: “*Ten billion per cent annoying.*” ˢᵉ
+
+Yuka puts her face in Mau's shoulder and shakes.
+
+Umaru looks at her chart. At the *Mana* row. She doesn't rub the line out. But she adds, very small, beside it: *(ask Senku later when he's calmed down)*.
+
 Jin-Woo waits until she's finished.
 
 Then he leans forward and puts one finger on the chart, on the circled plan, at the bottom, where Umaru has written *ALL OF IT* with an arrow.
@@ -87,7 +155,19 @@ He sits back.
 
 He turns his cup round on the table. Once. Twice.
 
-“Points aren't just numbers,” he says. “They go into your body. Your body has to learn them. If you put three hundred levels in at once, today, at this table, you'll spend the next month learning to walk again. Not badly. But you'll reach for a cup and break it. You'll step off the porch and land in the orchard.” ᴶʷ
+“You've jumped before,” he says. “Big. I heard about it.” ᴶʷ
+
+Mau goes still.
+
+He has. The red gate. The trap, the one with Makima at the end of it. He came out of it a hundred levels higher than he went in, all at once, and for days afterward he was afraid to touch anything. Afraid of the cup in his hand. Afraid of the door handle. Afraid, most of all, to hold Yuka, in case his arms didn't know their own strength yet and something in her broke.
+
+Beside him, Yuka has gone very still too. She remembers. She remembers him lying beside her in the dark that week with his hands held carefully away from her, as if they belonged to someone else.
+
+“A hundred, last time,” says Jin-Woo, watching his face. “And you didn't want to touch anyone for a week.” ᴶʷ
+
+“Yes,” says Mau. ᴹ
+
+“A third of what you've got now is a hundred again,” says Jin-Woo. “Points aren't just numbers. They go into your body. Your body has to learn them. A hundred, you can learn in a few days. You've done it. If you put three hundred levels in at once, today, at this table, you'll spend the next month learning to walk again. Not badly. But you'll reach for a cup and break it. You'll step off the porch and land in the orchard.” ᴶʷ
 
 Yuka makes a small sound.
 
@@ -125,15 +205,21 @@ Yuka has been very quiet.
 
 She's holding the notebook. She's written down every number. She's been looking, the whole time, not at the chart but at him.
 
-“Will it hurt?” she asks. ʸ
+“Will it be like last time?” she asks. “After the red gate. When you wouldn't—” ʸ
+
+She stops. She doesn't say *wouldn't hold me*. She doesn't have to.
 
 Everyone looks at Jin-Woo.
 
-“No,” he says. “It feels strange. Like growing. All at once.” ᴶʷ
+“Same size jump,” he says. “So, yes. A few days of not trusting his hands.” ᴶʷ
+
+He looks at Mau.
+
+“But he knows what it is this time,” he says. “That helps more than you'd think.” ᴶʷ
 
 Yuka nods slowly. She looks back at Mau.
 
-“Then do it,” she says. “But I'm holding your hand while you do.” ʸ
+“Then do it,” she says. “But I'm holding your hand while you do. And you're not letting go of it after, either. I don't care how strong your arms are.” ʸ
 
 He does it with her hand in his.
 

@@ -145,19 +145,19 @@ Dabura laughs.
 
 It's a big laugh. Loud, and genuinely amused, and a little disappointed, the way you'd laugh at a joke that wasn't as good as you'd been promised. It goes up the sides of the quarry and comes back.
 
-“*That*?” says Dabura. ᴰᵃ
+“*That*?” says Dabura. ᴰᵇ
 
 His voice is deep. Easy. He speaks the language the way his brother's people do, carefully, but there's nothing careful in the way he says it.
 
-“*That's* the king?” he says. “The boy Tsurugi told me about? The strongest in this world?” ᴰᵃ
+“*That's* the king?” he says. “The boy Tsurugi told me about? The strongest in this world?” ᴰᵇ
 
 He laughs again.
 
-“There's nothing there,” he says. “A little cursed energy. A little of the other thing. Less than the boy. I came all this way.” ᴰᵃ
+“There's nothing there,” he says. “A little cursed energy. A little of the other thing. Less than the boy. I came all this way.” ᴰᵇ
 
 He looks up at the ridge. At Tsurugi.
 
-“You *lied*,” he calls. Not angry. Delighted. Like he's caught a child in a fib. “There's nothing there at all!” ᴰᵃ
+“You *lied*,” he calls. Not angry. Delighted. Like he's caught a child in a fib. “There's nothing there at all!” ᴰᵇ
 
 * * *
 
@@ -211,7 +211,7 @@ And he smiles.
 
 Not the laugh. Not the amused, disappointed thing. A different smile. Slow, and wide, and very, very interested.
 
-“*Oh*,” says Dabura. ᴰᵃ
+“*Oh*,” says Dabura. ᴰᵇ
 
 * * *
 
@@ -253,15 +253,15 @@ On the quarry floor, Dabura rolls his shoulders.
 
 The light in him comes up. Mau watches it come up, through the eyes: all that packed bright pressure starting to move, the way water starts to move behind a dam before it breaks.
 
-“Tsurugi didn't lie,” says Dabura. ᴰᵃ
+“Tsurugi didn't lie,” says Dabura. ᴰᵇ
 
 “No,” says Mau. ᴹ
 
-“You were hiding.” ᴰᵃ
+“You were hiding.” ᴰᵇ
 
 “Yes.” ᴹ
 
-“Why?” ᴰᵃ
+“Why?” ᴰᵇ
 
 Mau thinks about it.
 
@@ -269,7 +269,7 @@ Mau thinks about it.
 
 Dabura laughs again. Short this time. Real.
 
-“I'm going to enjoy this,” he says. ᴰᵃ
+“I'm going to enjoy this,” he says. ᴰᵇ
 
 * * *
 

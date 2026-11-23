@@ -257,6 +257,10 @@ And under everything, at the back of everything, the noise.
 
 Not Noise. The other noise. The eyes, wide open, pouring in everything. Maki's sense, turned up now because he needs it, because he needs to feel the air move before Dabura does, pouring in everything else. Mini Ciel holding the flood. Noise, busy with the light, building, not holding anything else.
 
+His brain is fine. That's the strange part. The RCT has been running on it since the porch, the way Gojo taught him, low and constant, a fresh brain over and over; it costs him nothing now, so it never stops. The tissue isn't what's failing. Nothing is burning.
+
+It's just too much. Too much coming in, and nowhere to put it.
+
 And under all of that, the other thing.
 
 The room he emptied for Fern. The year in his hands. The plate. The chair. *You were with Cross. Don't you dare. I had started to trust you. I'll stop bothering you.*

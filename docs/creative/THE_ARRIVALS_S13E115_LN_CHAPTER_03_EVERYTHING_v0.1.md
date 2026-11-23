@@ -133,7 +133,7 @@ He watches Dabura turn in the air, already tracking Mau.
 
 Mau drops on him with Shrine.
 
-He keeps Infinity for the landing and changes his second innate route to Shrine, and the pressure starts behind the old damaged eye at once. Not the single line. The evolutions. The ones he built from the parts of Sukuna's craft he has already read and practised: cuts that come from the air, from angles that don't exist, from everywhere at once, fine as hair. The way Sukuna could throw them like a barrier, so that even what you don't see coming is already cutting.
+He keeps Infinity for the landing and changes his second innate route to Shrine, and the pressure starts behind the old damaged eye at once. The constant RCT is already there, keeping the tissue fresh, the way it has been every minute since the porch; it doesn't take the pressure away, but nothing in his head is breaking under it. Not the single line. The evolutions. The ones he built from the parts of Sukuna's craft he has already read and practised: cuts that come from the air, from angles that don't exist, from everywhere at once, fine as hair. The way Sukuna could throw them like a barrier, so that even what you don't see coming is already cutting.
 
 The first time, they're everywhere.
 

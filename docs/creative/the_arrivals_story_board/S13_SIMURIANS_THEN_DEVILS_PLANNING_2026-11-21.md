@@ -348,4 +348,4 @@ Timeline anchor: V82 ends after the Fort day (about B+405). Yoru's contract runs
 - **Makima's external body is one of Noise's abilities.** She's fused with Mau. Noise's ability lets her move about outside, with two limits:
   - she can't go far from Mau;
   - Noise has to keep its attention on it.
-- **In the fight that's a cost:** while Makima fights outside, part of Noise's attention is on holding her body.
+- **In the fight that's a cost, but not a shutdown:** while Makima fights outside, part of Noise's attention is on holding her body. Mau's analysis, observation and construction keep running on their own (they're Mau's). What thins is Noise's ability to reduce, steer and control that flow, so Mau gets it rawer and louder, not slower (Mauri: Noise is Mau's first construct, the representation of that process).

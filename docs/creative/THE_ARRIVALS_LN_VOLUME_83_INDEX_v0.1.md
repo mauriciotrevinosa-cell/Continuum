@@ -4,7 +4,7 @@
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 11
+**Chapter files:** 12
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -23,6 +23,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 9 | S13E108 | Basically a King | `THE_ARRIVALS_S13E108_LN_CHAPTER_01_BASICALLY_A_KING_v0.1.md` |
 | 10 | S13E108 | Six Months | `THE_ARRIVALS_S13E108_LN_CHAPTER_02_SIX_MONTHS_v0.1.md` |
 | 11 | S13E109 | Fan Club | `THE_ARRIVALS_S13E109_LN_CHAPTER_01_FAN_CLUB_v0.1.md` |
+| 12 | S13E109 | The Portion | `THE_ARRIVALS_S13E109_LN_CHAPTER_02_THE_PORTION_v0.1.md` |
 
 ## Notes
 
@@ -52,3 +53,4 @@ All six sources were read in full and revised. #6 and #9 marked kisses are compl
 #9 learns Dabura's memory gap from Maru rather than reading it across the country; B414 to B421 is a week. #10 keeps Yuka's own viewpoint until an explicit closing shift, and adds reciprocal household affection without curing the emerging conflict. #11 keeps the channel to Yuka deliberate, the quarry subject to scouting, Cross's northern ridge distinct from his search in the old world, and ordinary couple planning distinct from a new permission rule. The author-approved insecurity/old minimizing pattern begins here; it is not resolved ahead of its scenes. No extra chapter was needed for this pass.
 
 Day labels: #6 B414(73); #7 B419(68); #8 B420(67); #9 B421(66); #10 B422(65); #11 B424(63). Yoru deadline remains B487 at its agreed hour. No further points spent and no Dabura technique copied yet. This follow-up does not certify later sources added concurrently.
+- #12 (Claude, B+425, "62"): Cross's walk day; Mau keeps busy and doesn't think about it. Yuka back exactly at dinner, mid-story, sits beside Cross across the table, eats her own food, doesn't steal. Mau sets her pickles aside on the empty chair's side, leaves them untouched and walks out without a word. Shuna covers the plate and keeps it. Makima stops him walking into the dark ("You're very loud right now"); "It's not fine." He remembers moving his cup out of Frieren's room when Fern came (S1E12). "You're a good friend": the friend's handshake; Makima: "I had everyone and I didn't have anyone." Back inside, Yuka tells him about the lake and doesn't ask where he went.

@@ -349,3 +349,10 @@ Timeline anchor: V82 ends after the Fort day (about B+405). Yoru's contract runs
   - she can't go far from Mau;
   - Noise has to keep its attention on it.
 - **In the fight that's a cost, but not a shutdown:** while Makima fights outside, part of Noise's attention is on holding her body. Mau's analysis, observation and construction keep running on their own (they're Mau's). What thins is Noise's ability to reduce, steer and control that flow, so Mau gets it rawer and louder, not slower (Mauri: Noise is Mau's first construct, the representation of that process).
+
+## The load on Mau, and Ori (Mauri, 22 November 2026)
+
+> si osea mau reviviendo dano psicologico y fisico mas el mundo de info mas la info de las construcciones que nosie mantiene bajo control mientras ande peleando y luego ecnima lo de yuka fakkkkk y me encantaria que ori tmb ayude a su papa lo ve bajoneado y asi o estrezaod y ori lo apoya como ori pueda
+
+- **Everything Mau carries at once:** reliving psychological and physical damage, the world of information (eyes plus Heavenly Restriction), the information from the constructions that Noise normally keeps under control while he fights, and on top of that, Yuka.
+- **Ori helps her dad.** She sees him down or stressed and supports him the way Ori can. Claude's proposal: small and concrete, in Ori's way (a note, sitting with him without asking, bringing him something), never therapy talk. She notices before the adults say anything.

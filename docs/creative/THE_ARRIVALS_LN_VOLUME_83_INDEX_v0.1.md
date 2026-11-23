@@ -4,7 +4,7 @@
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 13
+**Chapter files:** 14
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -25,6 +25,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 11 | S13E109 | Fan Club | `THE_ARRIVALS_S13E109_LN_CHAPTER_01_FAN_CLUB_v0.1.md` |
 | 12 | S13E109 | The Portion | `THE_ARRIVALS_S13E109_LN_CHAPTER_02_THE_PORTION_v0.1.md` |
 | 13 | S13E110 | Someone Has To | `THE_ARRIVALS_S13E110_LN_CHAPTER_01_SOMEONE_HAS_TO_v0.1.md` |
+| 14 | S13E110 | What Everyone Sees | `THE_ARRIVALS_S13E110_LN_CHAPTER_02_WHAT_EVERYONE_SEES_v0.1.md` |
 
 ## Notes
 
@@ -56,3 +57,4 @@ All six sources were read in full and revised. #6 and #9 marked kisses are compl
 Day labels: #6 B414(73); #7 B419(68); #8 B420(67); #9 B421(66); #10 B422(65); #11 B424(63). Yoru deadline remains B487 at its agreed hour. No further points spent and no Dabura technique copied yet. This follow-up does not certify later sources added concurrently.
 - #12 (Claude, B+425, "62"): Cross's walk day; Mau keeps busy and doesn't think about it. Yuka back exactly at dinner, mid-story, sits beside Cross across the table, eats her own food, doesn't steal. Mau sets her pickles aside on the empty chair's side, leaves them untouched and walks out without a word. Shuna covers the plate and keeps it. Makima stops him walking into the dark ("You're very loud right now"); "It's not fine." He remembers moving his cup out of Frieren's room when Fern came (S1E12). "You're a good friend": the friend's handshake; Makima: "I had everyone and I didn't have anyone." Back inside, Yuka tells him about the lake and doesn't ask where he went.
 - #13 (Claude, B+426-428, "61"-"59"): by day Yuka shows Cross the house and trains with him (he throws the black dog and laughs for the first time); by night she's as clingy as ever ("I love you"), fully meaning it. Mau says "it's fine" to Rimuru, Shoko and Ciel without noticing. Maru's word: Dabura will come in his own time. Third dinner: Yuka at the far end; Ori takes the empty chair, moves it closer and steals the pickles she hates ("Someone has to"). "Is everything okay?" "I've got a lot in my head." "Is it the duel?" "Partly." Ori's note under his cup: she'll eat the pickles every day until someone else does. He keeps it in his pocket.
+- #14 (Claude, B+429, "58", Yuka POV): Mai brings her to the finished second floor: "You're swapping him... everyone can see it" (three dinners with Cross, no stealing; Shuna kept the plate). Maki: Ori has been eating the pickles she hates in Yuka's chair every night. "He said it was fine." Maki: "When has that ever meant fine?" Yuta: Mau isn't blameless (back to old habits), "but when could he have told you?" We see both of you. Yuka digs in ("You're wrong... He's my husband"), shaking: terror, and also the feeling of having someone who saw her at her worst. She goes to Mau, not Cross, and clings; he doesn't ask anything. "Do you think I spend too much time with Cross?" "It's fine." She hears it for a moment, then lets it go. She doesn't see Ori's note in his pocket or Cross watching.

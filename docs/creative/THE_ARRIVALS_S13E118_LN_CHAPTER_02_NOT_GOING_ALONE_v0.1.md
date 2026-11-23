@@ -153,7 +153,7 @@ She stands up when he comes out. She doesn't say anything. She looks at him, and
 
 *I know*, he says. ᴹ
 
-DIO waits inside, her borrowed body withdrawn. Her attention stays near Ashborn's protected space. She has not asked to go forward as a fighter.
+DIO is inside with him. She comes out of her room long enough to wave to him in the shared space, then goes to wait near the door to Ashborn's protected room.
 
 *Ciel's counting*, says Makima. ᴹᵏ
 

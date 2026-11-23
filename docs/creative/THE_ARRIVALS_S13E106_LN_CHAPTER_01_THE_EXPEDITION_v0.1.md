@@ -123,7 +123,7 @@ She looks away, and doesn't say *no*.
 
 Mau gives Bellion the route before they leave. The ordinary watch has its standing orders; the map Ori wants to use on the road remains in her hands.
 
-DIO goes inside after asking him to remember which flowers grow near the water. Makima follows, carrying the book she intends to finish while they walk. Neither outside body is left waiting at the house when Mau goes beyond its reach.
+DIO asks him to show her what's growing along the water, then steps inside to ride along. Makima follows with the book she means to finish on the walk, before he goes beyond the reach of her body.
 
 Kamish lowers his head beside the field while Ori is doing her count.
 

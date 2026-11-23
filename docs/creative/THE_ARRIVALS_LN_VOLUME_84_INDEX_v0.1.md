@@ -39,6 +39,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 - #5 ends with Yuka talking to the house. She takes responsibility for what she said in the yard and works with Mai and Shuna on the first concrete thing she can offer, breakfast.
 - #4–5: the sentence that Mau carried was Yuka's before the Final Trial (S11E56), not the B+309 red gate. Shoko and Yuka already knew most of it; Mau empties the whole bundle at once.
 - #6–14 follow Mauri's reconciliation word for word (planning doc). #12 is set in the afternoon between Mau's two trips, because Makima's body can't stay home if Mau goes far.
+- DIO enters and leaves Mau’s inner space in her own body. She has a private room there and a separate room at the physical Guest Inn, where her plant lives. In #11 she takes the pot from the Guest Inn to visit Elmesia, and in #13 she carries it back to its sill.
 - DIO's count: "two you owe me" (the door, the letter). The small lie about Elmesia's letter will make three when she works it out.
 - #13 completes the clinic apology and the kiss beside the cot. Yuka asks Mau to reopen their direct channel, then reaches out herself. The intimate-scene pause continues.
 - Mau's open threads: Yoru (48 days left at #14; Halloween planned for later, not yet known to Mau), Gojo's real rematch, Yuka's long list, Cross as a friend.

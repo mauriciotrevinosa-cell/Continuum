@@ -73,7 +73,7 @@ A pause.
 
 *Well*, says DIO. *I expect she's very busy. Being a queen. With a bird.* ᴰ
 
-And she withdraws, not far, just to her room in the little Inn at the back, and he feels her door close. Not slammed. Just closed, very precisely, the way you close a door when you want someone to notice that you closed it.
+And she withdraws, not far, just to her room off the shared space inside him, and he feels her door close. Not slammed. Just closed, very precisely, the way you close a door when you want someone to notice that you closed it.
 
 *She's going to sulk*, says Ciel. ᶜ
 
@@ -195,7 +195,7 @@ Her hands are very still on the cup.
 
 He thinks about it for a long time.
 
-He thinks about DIO in the corridor mouth last night, looking at her plant with tremendous concentration. *Plants need watching, if one wants them to understand that one is still there.*
+He thinks about DIO in the corridor mouth last night, going over the little leaf she had drawn in her watering notebook. *Plants need watching, if one wants them to understand that one is still there.*
 
 “She doesn't know the difference,” he says. “You're right about that. She never learned it.” ᴹ
 

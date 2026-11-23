@@ -5,13 +5,13 @@
 **Volume:** 84
 **Reading order:** 11
 **Source episode:** S13E124
-**Continuity state:** B+438 ("49"), afternoon into evening. Mau comes back from Elmesia's and knocks on DIO's door in the inner Inn. She is down. He tells her a small lie to spare Elmesia: he misread the letter, and Elmesia had simply assumed DIO would come along inside him, the way she always does. DIO's face turns into Ori's face when Ori has misunderstood something and has just heard exactly what she wanted. Mau says sorry; DIO says that's two he owes her; he tells her to bring her plant, because Elmesia wants to see it. After supper at home (Yuka beside him; he tells her again where he's going) he crosses back. This time he arrives in a small room off Elmesia's garden and leaves a soldier there permanently, so that future arrivals don't frighten anyone. The room has a very good view. DIO and Elmesia walk the lit garden with the plant. Nobody names anything. Mau waits on a bench far enough away not to hear, with Ciel, who is allowed to tease him out loud now.
+**Continuity state:** B+438 ("49"), afternoon into evening. Mau comes back from Elmesia's and knocks on the door of DIO's room inside him. She is down. He tells her a small lie to spare Elmesia: he misread the letter, and Elmesia had assumed DIO would come along inside him and step out when they arrived. DIO's face turns into Ori's face when Ori has misunderstood something and has just heard exactly what she wanted. Mau says sorry; DIO says that's two he owes her; he tells her Elmesia wants to see her plant. DIO picks up the pot from her other room at the Guest Inn before they leave. After supper at home (Yuka beside him; he tells her again where he's going) he crosses back. This time he arrives in a small room off Elmesia's garden and leaves a soldier there permanently, so that future arrivals don't frighten anyone. The room has a very good view. DIO and Elmesia walk the lit garden with the plant. Nobody names anything. Mau waits on a bench far enough away not to hear, with Ciel, who is allowed to tease him out loud now.
 
 *When: B+438, from early afternoon. "49." Ori has drawn a small bird beside it.*
 
 He knocks.
 
-That's the first thing. Afterward, when he thinks about the day, he'll think that was the whole of it: that he went into the little Inn at the back of the inner room, down the short corridor, past the door to Ashborn's space that stays closed, and stopped at DIO's door, and knocked.
+That's the first thing. Afterward, when he thinks about the day, he'll think that was the whole of it: that he sat down in the clinic and went inside, walked past the shared table to DIO’s own door, and knocked.
 
 He didn't knock for six days. He knocks now.
 
@@ -21,7 +21,7 @@ Then, from inside, very dignified: “Who is it?” ᴰ
 
 “You know who it is.” ᴹ
 
-“I don't know anything,” says DIO. “I've been in my room. Being very busy. With my plant.” ᴰ
+“I don’t know anything,” says DIO. “I’ve been in my room. Being very busy.” ᴰ
 
 “Can I come in?” ᴹ
 
@@ -31,9 +31,7 @@ A long pause.
 
 * * *
 
-She's sitting on the end of her bed with her knees drawn up, and the plant is on the windowsill in its pot, and she's looking at it.
-
-The window looks out onto nothing. It's an inner room; there's nothing out there but the soft grey light that fills this place. But DIO likes a window. She asked for one. She put the plant on its sill so it would think it was outside.
+She's sitting on the end of her bed with her knees drawn up. The chair she mentioned last night is beside her desk. She hasn't put anything on it. He notices that before he notices the watering notebook lying closed on the bed beside her.
 
 He sits on the floor with his back against the wall, so he isn't standing over her.
 
@@ -67,7 +65,7 @@ DIO looks round.
 
 DIO goes very still.
 
-“She thought you'd be with me,” he says. “Inside. The way you always are. She didn't put your name on because she didn't think she needed to. She thought it was obvious. She said *of course DIO's coming, why would I need to write that down*. And I'd left you behind sulking in your room, and she was very disappointed in me.” ᴹ
+“She thought you'd be with me,” he says. “She thought you’d come with me and step out when we got there. She didn’t put your name on because she didn’t think she needed to. She thought it was obvious. She said *of course DIO's coming, why would I need to write that down*. And I'd left you behind sulking in your room, and she was very disappointed in me.” ᴹ
 
 He watches it land.
 
@@ -89,7 +87,7 @@ DIO made Ori. He's always known that. He's never seen it so clearly as now.
 
 “Mostly in me.” ᴹ
 
-DIO uncurls. She puts her feet on the floor. She looks at the plant, and then at him, and then at the plant again.
+DIO uncurls. She puts her feet on the floor. She picks up the watering notebook and tries to look as if that was what she meant to do all along.
 
 “Well,” she says. “That's your fault, then.” ᴰ
 
@@ -115,9 +113,7 @@ DIO, halfway to the door, stops.
 
 That part's true. Elmesia did say it, between the bridge and the cakes. *Tell her to bring the plant. I want to see whether my gardeners are any good.*
 
-DIO turns round and looks at the plant on the windowsill.
-
-It's a very small plant. It has, since last night, one more new leaf. Small and uncurling.
+DIO turns round with the notebook in her hands. She opens it to the page with the new leaf, then runs a thumb along the little drawing.
 
 “It's not ready,” says DIO. “It's not big enough. It's not—she has a *palace*, Mau. She has gardens. She has gardeners who've been gardening for three hundred years. And this is—” ᴰ
 
@@ -129,13 +125,13 @@ He doesn't say anything for a moment.
 
 “I think,” he says carefully, “that's why she wants to see it.” ᴹ
 
-DIO looks at him. Then she goes to the windowsill and picks up the pot in both hands, very carefully, the way you'd pick up something sleeping.
+DIO looks at him. She closes the notebook with both hands, carefully keeping her pencil in the right place.
 
 “After supper?” she says. ᴰ
 
 “After supper.” ᴹ
 
-“I'll need to water it first.” ᴰ
+“I’ll need to go to the Guest Inn first. I want to check if it needs water.” ᴰ
 
 “There's time.” ᴹ
 
@@ -173,7 +169,9 @@ The light at the corner of her mouth gets a little bigger.
 
 * * *
 
-He doesn't arrive in the study this time.
+DIO is already at the Guest Inn when he goes to fetch her. She lifts the pot off the sill in her room and turns it so the new leaf faces him. It is smaller than the one in her drawing. He decides to keep that to himself.
+
+At Elmesia’s palace, he doesn’t arrive in the study this time.
 
 He thought about it all through supper. Every time he comes through, it's a soldier vanishing from someone's shadow and him standing where it stood. In Elmesia's study that's one thing; she expects him. But if he's going to bring DIO, and if this is going to happen again, and he has a feeling it's going to happen a great deal, then he can't keep appearing out of a queen's shadow in the middle of her study. Someone's going to walk in with a tray one day and drop it.
 
@@ -259,9 +257,9 @@ She takes the pot in both hands, carefully, the way DIO picked it up, the way yo
 
 “It has a new leaf,” she says. ᴱˡ
 
-“Since last night,” says DIO. ᴰ
+“I noticed it yesterday,” says DIO. ᴰ
 
-“Since last night,” Elmesia repeats. She looks at DIO over the top of the plant. “Nobody is going to laugh at it. Come and see the garden. I want to show you where I think it would like to be. If you ever wanted it to have a holiday.” ᴱˡ
+“Yesterday,” Elmesia repeats. She looks at DIO over the top of the plant. “Nobody is going to laugh at it. Come and see the garden. I want to show you where I think it would like to be. If you ever wanted it to have a holiday.” ᴱˡ
 
 DIO hesitates. Then she comes down the last step.
 

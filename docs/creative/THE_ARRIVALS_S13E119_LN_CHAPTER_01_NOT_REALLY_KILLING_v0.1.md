@@ -21,7 +21,7 @@ Ciel is at the table with the scout images laid out in front of her like cards, 
 
 Noise has taken the chair next to Ciel. She slides each scout image across when it comes in, and he puts a fingertip on the places where the shapes change direction. Outside, he keeps Makima's body steady while she walks. When Mau stumbles half a step on the wet grass, Noise looks up before Ciel does.
 
-DIO isn't at the table. She's in the corridor of the little Inn, near the door that leads to Ashborn's space, the one that stays closed. She waved once when they left. Not a fighter. She never asked to be.
+DIO isn't at the table. She's taken a chair near the door to Ashborn's protected room, where she can hear when Ciel has news. She waved once when they left. Not a fighter. She never asked to be.
 
 And under all of it, under the table and the cups and the scout images, folded down into the dark where the shadow goes when he isn't using it, the army.
 

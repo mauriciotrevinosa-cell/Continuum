@@ -5,17 +5,15 @@
 **Volume:** 84
 **Reading order:** 13
 **Source episode:** S13E125
-**Continuity state:** B+438 late night into B+439 ("49" → "48"). Mau brings DIO home from Elmesia's garden; DIO, holding her plant, goes to her room humming. He goes to the clinic for the cot. Yuka is in the chair on the other side of it, the one Ori's map pointed to: NEXT EXPEDITION. The real talk. Yuka says it plainly. His reaction didn't come from nothing; it came from what she did, and it's the second time she's said something like that: the morning before the Trial, and the yard. She went for the worst thing she could find because she was sure he'd still be there to hear it, and that isn't all right. She learned that growing up isn't acting, and it isn't not crying; it's being honest and saying when you got it wrong. Mau tries to take part of it ("I closed the doors"); she stops him: "Don't steal my apology." They laugh together in the middle of the apology. Then he gives his own: he let things from the past carry him back to the old habit of getting out of the way, and he'll try to be better for her. She accepts it. She asks him to open her line. He does. They go upstairs to their own room and, at last, both of them sleep. They share a brief kiss beside the cot.
+**Continuity state:** B+438 late night into B+439 ("49" → "48"). Mau brings DIO home from Elmesia's garden; DIO takes her plant back to her room at the Guest Inn, humming. He goes to the clinic for the cot. Yuka is in the chair on the other side of it, the one Ori's map pointed to: NEXT EXPEDITION. The real talk. Yuka says it plainly. His reaction didn't come from nothing; it came from what she did, and it's the second time she's said something like that: the morning before the Trial, and the yard. She went for the worst thing she could find because she was sure he'd still be there to hear it, and that isn't all right. She learned that growing up isn't acting, and it isn't not crying; it's being honest and saying when you got it wrong. Mau tries to take part of it ("I closed the doors"); she stops him: "Don't steal my apology." They laugh together in the middle of the apology. Then he gives his own: he let things from the past carry him back to the old habit of getting out of the way, and he'll try to be better for her. She accepts it. She asks him to open her line. He does. They go upstairs to their own room and, at last, both of them sleep. They share a brief kiss beside the cot.
 
 *When: B+438, close to midnight. Ori's map is on the clinic windowsill, unfolded, held flat with a stone.*
 
 DIO hums all the way home.
 
-Not out loud. In here, inside, where only he can hear it. They come through the Exchange into the kitchen at home, out of the little room with the very good view, using the house anchor. The soldier with the view stays at its window. DIO is beside Mau, borrowed body and all, with her plant held against her chest.
+Very quietly, with the pot held against her chest. They come through the Exchange into the kitchen at home, out of the little room with the very good view, using the house anchor. The soldier with the view stays at its window. DIO frees a leaf caught against her sleeve.
 
-She doesn't say anything about the garden. She doesn't say anything about Elmesia. She says *goodnight, Mau*, very graciously, like a queen dismissing a courtier, and withdraws to her room in the little Inn with the plant, and closes the door.
-
-Not precisely, this time. Just closed.
+She doesn't say anything about the garden. She doesn't say anything about Elmesia. She says *goodnight, Mau*, very graciously, like a queen dismissing a courtier, and walks to the Guest Inn with the pot. By now she knows how much moonlight reaches her windowsill.
 
 And then, very faintly, through it, the humming.
 
@@ -329,7 +327,7 @@ And she's asleep.
 
 Just like that. All at once, the way Ori goes. Her breathing slowing and evening out against his shoulder, her hand fisted in his shirt.
 
-He lies there in the dark for a while, feeling the line between them, open and bright and warm. Feeling all of them. Ciel and Noise still talking at the table, and DIO humming behind her door. Makima, in her room in the north wing, very still, and then, as if she's felt something, letting out a long breath and turning over. Beru at the foot of Ori's stairs. A soldier in a little room far away, sitting in a chair by a window, looking at a city.
+He lies there in the dark for a while, feeling the line between them, open and bright and warm. Feeling all of them. Ciel and Noise still talking at the table. He thinks about DIO setting her pot back on the sill at the Guest Inn, humming to herself. Makima, in her room in the north wing, very still, and then, as if she's felt something, letting out a long breath and turning over. Beru at the foot of Ori's stairs. A soldier in a little room far away, sitting in a chair by a window, looking at a city.
 
 All of them there.
 

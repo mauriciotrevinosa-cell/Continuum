@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 17
 **Source episode:** S13E112
-**Continuity state:** B+431 ("56"), before dawn. Mau closes his direct personal relays and the external contract access, including Yuka’s borrowed techniques/Exchange and Mai’s supply. Contracts remain intact. The shadow watch and its existing protection orders continue; Ciel’s independent communications and emergency reports remain available. Ciel/Noise ask him not to isolate them too, and he agrees. Makima accompanies him outside; DIO withdraws inside for range. Mau leaves without a note.
+**Continuity state:** B+431 ("56"), before dawn. Mau closes his direct personal relays and the external contract access, including Yuka’s borrowed techniques/Exchange and Mai’s supply. Contracts remain intact. The shadow watch and its existing protection orders continue; Ciel’s independent communications and emergency reports remain available. Ciel/Noise ask him not to isolate them too, and he agrees. Makima accompanies him outside; DIO returns to her room inside Mau after the argument. Mau leaves without a note.
 
 *When: B+431. The hour before dawn. Yuka hasn't written today's number yet. She's asleep, on his side of the bed, with her hand on his pillow.*
 
@@ -243,7 +243,7 @@ He doesn't wake her. He doesn't leave a note. He thinks about it. He stands at t
 
 He doesn't go up.
 
-He goes out the back door, into the cold, and across the yard. Makima is already there, at the bottom of the porch steps, in her own body, waiting. DIO has withdrawn to the inner room for the journey; there is no second borrowed body left outside its reach. Beru is at the end of the porch, very still, watching.
+He goes out the back door, into the cold, and across the yard. Makima is already there at the bottom of the porch steps, in the body Noise holds for her. DIO has gone back to her room inside him. He passes her door without knocking. Beru is at the end of the porch, very still, watching.
 
 “My king,” Beru says. ᴮᵉ
 

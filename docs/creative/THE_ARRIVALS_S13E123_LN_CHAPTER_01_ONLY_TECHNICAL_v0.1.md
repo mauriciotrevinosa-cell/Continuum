@@ -13,7 +13,7 @@ The inner room is quiet when he comes in.
 
 It's always been a strange place to arrive. There's no door, exactly. There's no coming in. One moment he's lying on the clinic cot in the dark with the blanket over him, and the next he's standing at the edge of the room with the table in front of him, and the chairs, and the cup, the way you're suddenly in a dream without remembering how you got there.
 
-The room hasn't changed. It never really changes. The table in the middle. The chairs round it, more than there used to be, because people keep arriving. The cup, which is always there and always warm and which nobody has ever been seen to fill. The corridor at the back that leads to the little Inn where DIO has her room, and her plant, and the door to Ashborn's space that stays closed.
+The room hasn't changed. It never really changes. The table in the middle. The chairs round it, more than there used to be, because people keep arriving. The cup, which is always there and always warm and which nobody has ever been seen to fill. DIO's own door opens off the corridor. The door to Ashborn's protected space stays closed.
 
 They're all there.
 
@@ -21,7 +21,7 @@ Ciel is at the table. She has her body, the one DIO gave her, and she's sitting 
 
 Noise is sitting beside her, turning the warm cup in his hands. When he sees Mau at the edge of the room, he slides out the chair opposite with one foot. It's the one he adjusted for Ciel so she could sit close without having to move the cup.
 
-DIO is in the corridor mouth, leaning against the frame with her arms crossed. She has her back half turned to the room. She's looking at her plant through the open door of her room, as if it's very interesting.
+DIO is in the corridor mouth, leaning against the frame with her arms crossed. She has her back half turned to the room. She's looking at a little notebook in her hand. Mau recognises the one she keeps the watering dates in.
 
 Makima is at the far wall. She came in a moment before him. She doesn't sit. She stands with her hands behind her back like a guest at a gathering she wasn't sure she'd been invited to.
 
@@ -141,33 +141,31 @@ He puts the cup down. He looks at the corridor mouth.
 
 DIO hasn't turned round.
 
-She's still leaning against the doorframe with her arms crossed, looking at her plant. She's been looking at it this whole time with tremendous concentration. It's a small plant. It isn't doing anything.
+She's still leaning against the doorframe with the notebook open on her palm. She's drawn a new leaf beside the date. She goes over the same curve once more with her pencil.
 
 “DIO,” he says. ᴹ
 
 “I'm busy,” says DIO. ᴰ
 
-“With the plant.” ᴹ
+“With the watering dates?” ᴹ
 
-“It needs watching.” ᴰ
+“I found a new leaf when I went to the Guest Inn,” she says. ᴰ
 
-“It's a plant.” ᴹ
+“You’re keeping count of the leaves now?” ᴹ
 
 “Plants need watching,” says DIO, with great dignity, “if one wants them to understand that one is still there.” ᴰ
 
-He gets up. He goes over to the corridor mouth, and stands beside her, and looks at the plant too.
+He gets up and goes to stand beside her. She tilts the notebook toward him, just enough to show him the little leaf. It's drawn smaller than the others and curls in at the tip.
 
-It's grown. He can see that. A new leaf since the last time he looked. Small, pale, uncurling.
-
-“I'm sorry,” he says. “You went inside because I closed things. You pulled back so I'd have the range I needed. You didn't ask to fight. You didn't ask for anything. And I didn't even say thank you.” ᴹ
+“I'm sorry,” he says. “You were right there when I closed things. You kept an ear out for me, even after I shut the conversation down. I didn't ask how you were doing. I didn't even say thank you.” ᴹ
 
 DIO's jaw is set.
 
 “I went to my room,” she says. “That's all. I have a room. I went to it.” ᴰ
 
-“For six days.” ᴹ
+“When you were inside, I could’ve come to see you.” ᴹ
 
-“It's a nice room.” ᴰ
+“It’s a nice room,” she says. “There’s a chair for visitors.” ᴰ
 
 He waits.
 
@@ -205,7 +203,7 @@ DIO considers this.
 
 “Acceptable,” she says. ᴰ
 
-And she looks back at her plant, with her arms still crossed. But she leans, very slightly, until her shoulder is against his.
+She closes the notebook and tucks it under her arm. Then she leans, very slightly, until her shoulder is against his.
 
 * * *
 

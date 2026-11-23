@@ -191,7 +191,7 @@ Then everyone.
 
 The whole common room, packed, people on the floor and the arms of the couch and the windowsill. Shuna bringing in food. Gojo cheating so openly it becomes a running joke. Frieren building an extremely slow, extremely beautiful castle in the corner that nobody dares knock down. Satella in the doorway, not quite coming in; Emilia gets up and goes and fetches her, and Satella sits down on the very edge of the circle with her hands in her lap, and builds one small tower, and doesn't let anyone see her face.
 
-DIO comes out of him in her borrowed body halfway through and announces she has been *watching from inside* and has *notes on strategy*, and builds a castle in the shape of a plant pot.
+DIO steps out of Mau halfway through and announces she has been *watching from inside* and has *notes on strategy*, and builds a castle in the shape of a plant pot.
 
 Makima sits on the windowsill and doesn't play, and watches, and when Milim knocks down Gojo's castle with a single flick she laughs out loud, a real one, and the whole room turns to look at her, and she puts her hand over her mouth, and doesn't take it back.
 

@@ -4,7 +4,7 @@
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 7
+**Chapter files:** 8
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -19,6 +19,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 5 | S13E106 | The Expedition | `THE_ARRIVALS_S13E106_LN_CHAPTER_01_THE_EXPEDITION_v0.1.md` |
 | 6 | S13E106 | Something Looked Back | `THE_ARRIVALS_S13E106_LN_CHAPTER_02_SOMETHING_LOOKED_BACK_v0.1.md` |
 | 7 | S13E107 | The Road Home | `THE_ARRIVALS_S13E107_LN_CHAPTER_01_THE_ROAD_HOME_v0.1.md` |
+| 8 | S13E107 | Permanent | `THE_ARRIVALS_S13E107_LN_CHAPTER_02_PERMANENT_v0.1.md` |
 
 ## Notes
 
@@ -36,3 +37,4 @@ Reviewed and expanded chapters1–5 without changing source IDs or reading order
 
 See `the_arrivals_story_board/S13_V83_WORK_CONTINUITY_2026-11-22.md` and the current kit addendum. Later chapters are not certified by this five-chapter pass.
 - #7 (Claude, B+419, "68"): arrivals at the gate. Beatrice first ("Where is the library?"); Subaru (thin, new eyebrow scar); Rem holds him; Ram stops three steps short ("Barusu"), their talk saved. Puck to Mau: "You're looking at me rather a lot"; Mau apologises. Emilia sees Satella and nearly collapses; Satella only says "Emilia" and "There's tea. When you're ready." Yuka shoves and hugs Tsurugi. The twins: Maru asks permission at the gate; Cross, who came to fight, sees Yuka and stops: "You're alive" (six months, the doctor). Mau sees a face of hers he doesn't know. Cross calls Mau "the king" flatly. Cross watches Yuka all the way to the house; she doesn't notice; Mau notices and says nothing. Speaker marks: Beatrice ᴮᵉᵃ, Puck ᴾᵘ, Emilia ᴱᵐ, Satella ˢᵃ, Ram ᴿᵃ, Tsurugi ᵀˢ, Maru ᴹᵃʳᵘ, Cross ᶜʳ.
+- #8 (Claude, B+420, "67"): Subaru asks Mau to sit with him so he won't run. Rem forgives him completely. Ram forgives him and tells him it isn't fixed: the damage is permanent and he'll live next to the crack; he accepts it ("I'd rather have the crack than the pretending"). Satella's tea with Emilia (Yuka arranges it, Mau carries the pot): "Why do we look the same?" "Not yet. Not no." Yuka wants to be better at "not yet". Beatrice judges the house's books and moves into Frieren's window seat beside Mau's grimoire ("This is acceptable"). The Fort inducts Emilia (Ori presides; Kamish: "There was never a tunnel"). Cross watches Yuka from the posts all day; Mau and Cross lock eyes over her head.

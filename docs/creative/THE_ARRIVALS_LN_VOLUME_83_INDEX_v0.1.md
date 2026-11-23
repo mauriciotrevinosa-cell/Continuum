@@ -4,7 +4,7 @@
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 20
+**Chapter files:** 21
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -32,6 +32,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 18 | S13E112 | Earning It Back | `THE_ARRIVALS_S13E112_LN_CHAPTER_02_EARNING_IT_BACK_v0.1.md` |
 | 19 | S13E113 | The Door Is Closed | `THE_ARRIVALS_S13E113_LN_CHAPTER_01_THE_DOOR_IS_CLOSED_v0.1.md` |
 | 20 | S13E113 | Every Dungeon | `THE_ARRIVALS_S13E113_LN_CHAPTER_02_EVERY_DUNGEON_v0.1.md` |
+| 21 | S13E114 | The Day Between | `THE_ARRIVALS_S13E114_LN_CHAPTER_01_THE_DAY_BETWEEN_v0.1.md` |
 
 ## Notes
 
@@ -70,3 +71,4 @@ Day labels: #6 B414(73); #7 B419(68); #8 B420(67); #9 B421(66); #10 B422(65); #1
 - #18 (Claude, B+431, dawn to late afternoon): wild medium dungeon in the hills past the ruins (10 floors). Mau clears it fast, clean and joyless; Ciel gives only numbers; Makima mostly watches (stops one creature with a look). Holds the falling ceiling on Infinity because holding something heavy feels good. Guardian (house-sized beetle) killed in four moves; a lot of currency, uncounted. The eyes find an older sealed sublevel, well above medium; Mau wants to open it alone. Makima stands in the way: "This is the stupid thing. I'm stopping you." On the floor: "I think I'm being replaced" (S1, Fern; getting out of the way before she has to ask). Makima: "You're wrong... the only person you'd believe it from is her. And you closed her door." "Not yet." The handshake; "standing in the way... I think that's what friends are for." Ten hours, no note.
 - #19 (Claude, B+431, Yuka POV): empty bed; she writes 56. In the yard she goes to show Cross what she can do with Mau's techniques; his Blue doesn't come: the contract is there but closed; the Exchange handle won't turn; the link to Mau is a closed door. She sits down on the grass shaking. Ciel and Noise (still open to her), drowning in Mau's feelings, choose the wrong words: "He's asked not to be reached"; "He needs some time. He doesn't want anyone near him... He's closed everything. Not just yours." She hears "me". Cross holds her shoulders and gets her breathing; she doesn't lean into him. Nobody will say where Mau is; Makima is gone too. She waits on the porch all afternoon; Ori brings her a plate with two pickles. At sunset two shapes on the hill road; she sees who the second one is and stops.
 - #20 (Claude, B+431 sunset): the break. Yuka sees Makima a step behind Mau. "Where were you." A dungeon, all day, with her, after "every dungeon" (quarry, bell tower, warm house, tent). Mau: "I didn't want to bother you. You were with Cross." She hears "with Cross": "Don't you dare make this about Cross. You closed your door. You closed me out." "Say something." He can't. "You'd rather have her... I let her in... I had started to trust you." Makima flinches and ends up half behind Mau holding his shirt, (the Power-behind-Denji pose; Power will name it later). Yuka breaks: "Fine. Go with her... I'll stop bothering you," and walks into the orchard; Cross follows. Mau: "I knew" (S1 confirmed). He takes Makima's hand (handshake); Ori leaves Frieren's sleeve and takes his other hand. The house sees all of it. Maru: Dabura will be at the quarry the day after tomorrow at dawn ("tired of waiting to see if the king is real"). "It's fine."
+- #21 (Claude, B+431 night to B+432 night): Yuka sleeps in Ori's room (cried, then slept; Frieren with her). Ori sleeps on Yuka's pillow beside Mau: "Because someone has to." Mau decides to go to the quarry alone, a day early; Makima is waiting on the porch steps and stops him the third time: "You want to go somewhere nobody can see you and have it be over." B+432: Mau in the workshop holding beams for Mai (she found his reserves closed and said nothing); Yuka on the orchard wall with Cross beside her, silent; Rimuru finds his thread closed. Frieren: "We were wrong. It took us a long time to find out. I don't want it to take you that long." Gojo waits on the wall; Jin-Woo: make him bored, he makes mistakes; two thirds left, "you'll know when." Ori eats the pickles. Mau looks at the remaining points and spends none. No number in the notebook today.

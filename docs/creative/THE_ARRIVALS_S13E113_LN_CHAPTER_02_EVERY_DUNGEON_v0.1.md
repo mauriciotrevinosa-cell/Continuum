@@ -179,7 +179,7 @@ Makima, half hidden behind her husband, holding the back of his shirt, with her 
 
 He knows what it looks like.
 
-He knows exactly what it looks like. He's seen it before, a long time ago, in someone else's memories: Power behind Denji, whenever anyone shouted. A friend hiding behind a friend.
+He knows exactly what it is. Ori does it behind Frieren when Gojo is too loud. A friend hiding behind a friend.
 
 That's all it is.
 

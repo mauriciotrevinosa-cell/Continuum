@@ -1,0 +1,258 @@
+# The Arrivals — Light Novel — Volume 84
+## Chapter 6 — Too Much Noise
+
+**Status:** LN PRODUCTION DRAFT — S13 v0.1
+**Volume:** 84
+**Reading order:** 6
+**Source episode:** S13E121
+**Continuity state:** B+436 night into the small hours of B+437 ("51"). Mau has slept for more than a full day. He wakes in the dark of the clinic with no idea what time it is, and finds Ori curled up asleep in the corner of the cot against his legs. He is starving. He gets up very carefully, finds the plate Shuna left covered on the clinic table, and eats. Shoko comes in because she heard noise. "Sorry. Did I make too much noise?" "No. I gave you something to sleep, and I was keeping an eye on you." She stays while he finishes. He goes back to sleep holding Ori, who says in her sleep that there'll be no more pickles and she'll eat less of the Fort reserves. Nothing else is resolved.
+
+*When: B+436, very late, or B+437, very early. He doesn't know which. The notebook on the clinic windowsill, which somebody brought in and left there, says "51".*
+
+He wakes up and doesn't know where he is.
+
+That happens, sometimes. It used to happen a lot. He's learned not to move when it does: to lie still and let the room come to him a piece at a time, and not to reach for anything until he knows what's in reach.
+
+Dark. Not the full dark of a closed room; there's a window somewhere to his right with a little light coming in round the edge of the curtain, pale, the kind of light that could be the moon or could be the very beginning of morning. A smell he knows: sharp and clean. Shoko's smell. The clinic.
+
+A blanket. A thin mattress. The cot by the window.
+
+And something warm and heavy across his shins.
+
+He lifts his head a little and looks down.
+
+Ori.
+
+She's asleep at the foot of the cot, curled up in the corner where the mattress meets the wall, in her nightdress with her explorer jacket over it and her boots still on. She's lying across his legs the way a cat lies across your legs, completely, as if they're furniture provided for the purpose. One hand is fisted in the blanket. Her mouth is open. There's a pencil behind her ear that's going to fall out the moment she moves.
+
+He looks at her for a long time.
+
+He doesn't know how long she's been there. He doesn't know how long *he's* been there. The last thing he remembers is Shoko's hand, and saying something to her, something important, and then nothing at all.
+
+*Ciel*, he says. ᴹ
+
+*Thirty-eight hours*, says Ciel, before he can ask. Her voice is very quiet in the little room, as if she's afraid of waking someone. *You slept for thirty-eight hours. It's the middle of the night. The day after the day after.* ᶜ
+
+He takes that in.
+
+*Thirty-eight*, he says. ᴹ
+
+*You needed every one of them.* A pause. *The repair has caught up. Your hands are closed. Your left side is better than it's been in a week.* ᶜ
+
+He flexes his fingers against the blanket. The bandages are still on, but under them there's no sting. Just skin.
+
+*Ori?* he says. ᴹ
+
+*Since yesterday afternoon*, says Ciel. *She went home for supper because Shoko made her, and came back. Shoko made her go to bed. She came back again. Shoko stopped making her.* ᶜ
+
+He looks at the small sleeping shape across his shins.
+
+*Beru?* ᴹ
+
+*In the corner by the door.* ᶜ
+
+He looks. There, in the deeper dark by the door, a folded shape, wings tucked, sitting very upright, the way Beru sits when he's on guard and intends to stay on guard until somebody he respects tells him otherwise. Mau can feel him the way he feels all of them: steady, pleased, a little smug about it.
+
+*Good*, he says, to Beru, without words. ᴹ
+
+The shape by the door doesn't move. But Mau feels something go through it like a dog's tail thumping once on a floor.
+
+* * *
+
+He's hungry.
+
+He notices it the way you notice weather: suddenly, and all at once, and with no argument possible. Not ordinary hungry. The kind of hungry that comes after a fever, after a long time of the body spending everything it has on keeping you alive and then turning round and presenting the bill.
+
+He lies there for a moment, negotiating with it.
+
+He loses.
+
+Getting out of the cot without waking Ori is a problem of engineering. He solves it slowly. He draws his legs up from under her one at a time, an inch at a time, while she sighs and frowns and resettles herself into the warm hollow where his legs were, and the pencil falls out from behind her ear onto the blanket, and she doesn't wake. He tucks the blanket round her. He puts the pencil on the windowsill, next to the notebook.
+
+The notebook.
+
+He knows it before he picks it up. It's hers. Yuka's. Somebody brought it in and left it on the windowsill, where he'd see it when he woke.
+
+He doesn't open it.
+
+He stands there in the dark with his hand on the cover, and feels something under his ribs move, the thing that's been sitting there since the yard, since *okay*, since the morning he walked past her. It moves like something turning over in its sleep.
+
+He takes his hand off the notebook.
+
+Not yet.
+
+* * *
+
+There's a plate on the clinic table.
+
+Of course there is. There's always a plate. Shuna wouldn't let a man sleep thirty-eight hours in her house without a plate somewhere near him. It's on the little table by the cupboard, under a cloth, with a cup upside down beside it and a jug of water.
+
+He sits down at the table. He lifts the cloth.
+
+Cold rice. Cold fish, the good kind, the kind Shuna makes when someone's been ill. A pile of pickled vegetables. Bread. Two of the small hard cakes Rem makes that keep for days. All of it cold. All of it, at this moment, the most beautiful thing he's ever seen.
+
+He eats.
+
+He tries to eat quietly. He really does. He uses his fingers for the fish, so the fork won't scrape. He tears the bread instead of cutting it. But he's very hungry, and his hands are clumsy in the bandages, and the cup knocks against the jug when he pours, and the chair creaks every time he leans forward, and somewhere in the middle of the second cake he knocks the lid of the pickle jar off the edge of the table and it goes rolling, round and round on its rim, across the whole floor of the clinic, very loudly, for a very long time, until it hits the leg of the cupboard and falls over with a clatter.
+
+He freezes.
+
+Ori doesn't wake. Beru, in the corner, turns his head to look at the lid with deep disapproval.
+
+And the door at the back of the clinic, the one that goes through to the room where Shoko sleeps, opens.
+
+* * *
+
+Shoko is in the doorway in a long coat thrown over whatever she sleeps in, with her hair down and a lamp in her hand. She holds the lamp up and looks at him.
+
+He's sitting at the table with a cake in one hand and the other hand halfway toward the floor, as if he could still catch the lid.
+
+“Sorry,” he says. “Did I make too much noise?” ᴹ
+
+She looks at him a moment longer.
+
+“No,” says Shoko. ˢʰ
+
+She comes in. She puts the lamp on the table, turned down low so it won't wake Ori, and picks up the lid from beside the cupboard, and puts it back on the jar.
+
+“I gave you something to sleep,” she says. “I was keeping an eye on you. That's all. I've been up every couple of hours.” ˢʰ
+
+“You didn't have to.” ᴹ
+
+“I know I didn't have to.” She pulls out the other chair and sits down across from him, and folds her arms on the table. “Eat.” ˢʰ
+
+He eats.
+
+She doesn't say anything else for a while. She just sits there in the low lamplight with her coat round her shoulders, watching him eat the way she watches everything: carefully, without hurry, missing nothing. When he finishes the rice she pushes the bread toward him. When he finishes the bread she pours him more water without being asked.
+
+He becomes aware, after a while, that she's counting. Not out loud. Just watching how much he eats, how fast, whether his hands shake, whether he winces when he leans. Doctor's arithmetic.
+
+“How do I add up?” he says. ᴹ
+
+“Better,” says Shoko. “Thirty-eight hours better. Ciel will have told you about the hands.” ˢʰ
+
+“She did.” ᴹ
+
+“The left side's healing properly now. Not just being held together.” She tips her head at him. “You did the most expensive thing you can do that isn't a domain, and then slept a day and a half, and you're sitting up eating cold fish with your fingers. I'll take it.” ˢʰ
+
+He looks down at his fingers. They're covered in fish.
+
+“Sorry,” he says. ᴹ
+
+“Stop apologising to me for eating.” ˢʰ
+
+He almost smiles. Not quite. It gets about halfway and stops, the way his smiles have been stopping lately, as if they've forgotten the rest of the route.
+
+Shoko sees it stop. She doesn't say anything about it.
+
+* * *
+
+He's on the last cake when he says it.
+
+“Did they ask?” ᴹ
+
+He doesn't say who. He doesn't need to.
+
+Shoko looks at him across the table for a long moment.
+
+“Yes,” she says. ˢʰ
+
+He puts the cake down.
+
+“Both of them?” ᴹ
+
+“Both of them.” ˢʰ
+
+“Did you—” ᴹ
+
+“I did what you told me to,” says Shoko. “All of it. Nothing of *it's fine*. Ori got the part that's her size. Yuka got all of it.” ˢʰ
+
+He sits very still.
+
+He doesn't know what he expected to feel. Relief, maybe. Fear. Something. What he feels is neither. It's more like the feeling of putting down something heavy that you've been carrying so long you stopped noticing it, and then standing there, with your arms suddenly light and strange, not knowing what to do with them.
+
+“What did she—” ᴹ
+
+He stops. He doesn't know how to finish it.
+
+Shoko doesn't make him.
+
+“That's hers to tell you,” she says. “Not mine. I told her what you said. What she does with it is up to her.” ˢʰ
+
+She looks at the notebook on the windowsill, and then back at him.
+
+“She brought that,” she says. “Last night. She didn't come in. She left it on the step, with Makima, and Makima brought it in.” ˢʰ
+
+He looks at the notebook.
+
+He doesn't get up to look at it. He doesn't open it. He sits there at the table with his bandaged hands flat on the wood and looks at it from across the room, for a long time, the way you'd look at a door you weren't sure you were allowed through.
+
+“Not yet,” he says. ᴹ
+
+“That's allowed,” says Shoko. ˢʰ
+
+* * *
+
+He's falling asleep again before he's finished the water.
+
+He doesn't notice it happening, any more than he did the first time. It's just that the lamp is very warm, and the chair is very comfortable, and the table seems to be getting gradually closer to his face.
+
+Shoko takes the cup out of his hand before he drops it.
+
+“Bed,” she says. ˢʰ
+
+“I've only just woken up.” ᴹ
+
+“You slept thirty-eight hours and ate a meal and a half. Your body knows what it's doing better than you do. Bed.” ˢʰ
+
+He gets up. She doesn't help him, exactly; she just stays close enough that she could, and walks him the three steps back to the cot like you'd walk a horse back to its stall.
+
+Ori has spread out to fill the whole cot.
+
+He looks at the situation. He looks at Shoko.
+
+Shoko shrugs.
+
+So he lies down on the edge, on his side, in the narrow strip Ori has left him, and she makes a small annoyed sound in her sleep and rolls over, toward him instead of away, and before he can arrange himself she has burrowed into his chest with her boots against his knees and her face in his shirt and both hands fisted in the front of it, the way she used to when she was very small and the house was very new and she was afraid of the dark.
+
+He puts his arm round her.
+
+He doesn't decide to. It's just where his arm goes.
+
+Shoko puts the blanket over both of them and turns down the lamp.
+
+He's almost gone when Ori speaks.
+
+She's still asleep. Very asleep. Her voice is muffled in his shirt and thick with dreaming, and very serious, the voice she uses for negotiations at the Fort.
+
+“No more pickles,” says Ori. ᴼ
+
+He opens his eyes.
+
+“I'll eat less,” says Ori, “of the Fort reserves. I'll eat less. I *promise*. You can have them. You can have all of them.” ᴼ
+
+Her hands tighten in his shirt.
+
+“Just,” she says, and then she doesn't say anything else, because she's gone back down into whatever dream she was having, and her breathing evens out again against his chest.
+
+He lies there in the dark with his arm round her.
+
+He doesn't know what the dream was. He doesn't know what she thought she was bargaining for, in her sleep, with the Fort reserves and the pickles, the most precious things she owns. He can guess.
+
+He can guess.
+
+He holds on to her a little tighter.
+
+Behind him, in the dark, Shoko stands by the table with the lamp turned down to nothing, very still. Then he hears her pick up the empty plate, quietly, and put the cloth back over it, and go back through to her own room, and not quite close the door.
+
+*Ciel*, he says. ᴹ
+
+*I'm here.* ᶜ
+
+*Stay.* ᴹ
+
+A pause.
+
+*Yes*, says Ciel. And there's something in her voice he hasn't heard in a week. ᶜ
+
+He falls asleep with Ori's face in his shirt and her small fierce promise still in the air of the room, and doesn't dream at all.

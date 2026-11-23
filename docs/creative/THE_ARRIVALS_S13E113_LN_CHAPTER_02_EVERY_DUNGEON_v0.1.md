@@ -7,7 +7,7 @@
 **Source episode:** S13E113
 **Continuity state:** B+431, sunset, in the yard. The break. Yuka sees Makima walking a step behind Mau on the hill road, smells the dungeon on them, and understands where he's been all day: a dungeon, without telling her, with Makima, after she promised at the quarry to go with him into every one. She's furious and frightened. Mau starts to explain: he didn't want to bother her, she was with Cross. She hears "with Cross" and gets defensive before he can finish, and it turns into an attack. She says things she can't take back, and she brings up Makima: he'd rather have her; Yuka had *started to trust her*. Makima, stricken, takes a step and ends up half behind Mau, like Power behind Denji. That breaks Yuka. She says her last thing and walks off with Cross toward the orchard. Mau stands in the yard with the S1 belief confirmed: stepping away was the right thing, she has someone else. The house sees all of it. No physical fight.
 
-*When: B+431. Sunset. The light is going long and gold across the yard. Most of the house is on the porch or at the windows, because Yuka has been waiting all afternoon and everyone knows it.*
+*When: B+431. Sunset. The light is going long across the yard. Most of the house is on the porch or at the windows, because Yuka has been waiting all afternoon and everyone knows it.*
 
 He sees her before he reaches the yard.
 

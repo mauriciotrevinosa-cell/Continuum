@@ -4,7 +4,7 @@
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 9
+**Chapter files:** 10
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -21,6 +21,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 7 | S13E107 | The Road Home | `THE_ARRIVALS_S13E107_LN_CHAPTER_01_THE_ROAD_HOME_v0.1.md` |
 | 8 | S13E107 | Permanent | `THE_ARRIVALS_S13E107_LN_CHAPTER_02_PERMANENT_v0.1.md` |
 | 9 | S13E108 | Basically a King | `THE_ARRIVALS_S13E108_LN_CHAPTER_01_BASICALLY_A_KING_v0.1.md` |
+| 10 | S13E108 | Six Months | `THE_ARRIVALS_S13E108_LN_CHAPTER_02_SIX_MONTHS_v0.1.md` |
 
 ## Notes
 
@@ -40,3 +41,4 @@ See `the_arrivals_story_board/S13_V83_WORK_CONTINUITY_2026-11-22.md` and the cur
 - #7 (Claude, B+419, "68"): arrivals at the gate. Beatrice first ("Where is the library?"); Subaru (thin, new eyebrow scar); Rem holds him; Ram stops three steps short ("Barusu"), their talk saved. Puck to Mau: "You're looking at me rather a lot"; Mau apologises. Emilia sees Satella and nearly collapses; Satella only says "Emilia" and "There's tea. When you're ready." Yuka shoves and hugs Tsurugi. The twins: Maru asks permission at the gate; Cross, who came to fight, sees Yuka and stops: "You're alive" (six months, the doctor). Mau sees a face of hers he doesn't know. Cross calls Mau "the king" flatly. Cross watches Yuka all the way to the house; she doesn't notice; Mau notices and says nothing. Speaker marks: Beatrice ᴮᵉᵃ, Puck ᴾᵘ, Emilia ᴱᵐ, Satella ˢᵃ, Ram ᴿᵃ, Tsurugi ᵀˢ, Maru ᴹᵃʳᵘ, Cross ᶜʳ.
 - #8 (Claude, B+420, "67"): Subaru asks Mau to sit with him so he won't run. Rem forgives him completely. Ram forgives him and tells him it isn't fixed: the damage is permanent and he'll live next to the crack; he accepts it ("I'd rather have the crack than the pretending"). Satella's tea with Emilia (Yuka arranges it, Mau carries the pot): "Why do we look the same?" "Not yet. Not no." Yuka wants to be better at "not yet". Beatrice judges the house's books and moves into Frieren's window seat beside Mau's grimoire ("This is acceptable"). The Fort inducts Emilia (Ori presides; Kamish: "There was never a tunnel"). Cross watches Yuka from the posts all day; Mau and Cross lock eyes over her head.
 - #9 (Claude, B+421, "66"): first talks at the long table (Rimuru as diplomat, Mau made to take the head). Yuka sits in his lap the whole meeting ("This is a chair"). Maru: the Simurians came down in the north; most stayed and want to live; Dabura, the strongest, called king, went up a mountain and came down knowing things no one taught him. Mau says he felt Dabura from the porch and that Dabura doesn't remember learning them. Tsurugi retells Mau's deeds to the table, a third wrong ("basically a king"). Cross: Dabura will come "and won't care who's standing next to the king", looking at Yuka. Maru asks Mau to meet Dabura first, on his terms; Mau will think about it. Yuka: "I'm coming. Every dungeon." Cross closes the door too quietly. Kiss note for Work.
+- #10 (Claude, B+422, "65", Yuka POV): Cross asks to talk; the orchard wall. He looked for her after she vanished, thinking she'd gone to die alone; he was shot twice by a sorcerer during Maru's talks and woke up here. She tells him the truth: the operation worked, then the coin found her (ring across the room). "You were so scared... your hands were shaking so much you couldn't open the door." Being seen from before Mau; she names it "an old friend" and is very sure. Back at the house she's extra clingy all evening; Mau doesn't ask and she doesn't notice. In bed: "He saw me really scared. The worst. Before you." Mau lies awake until morning.

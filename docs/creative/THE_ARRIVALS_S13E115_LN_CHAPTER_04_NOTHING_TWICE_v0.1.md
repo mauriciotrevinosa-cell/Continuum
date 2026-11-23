@@ -107,6 +107,44 @@ Dabura's body, the body that learned against something that always changed to me
 
 * * *
 
+On the twentieth, he gets it wrong.
+
+Not badly. A fraction. He has Infinity up and Shrine cutting, the two he can hold, and Dabura comes in from a direction he didn't read in time, and his hand reaches for Blue before the Shrine has gone quiet.
+
+Three.
+
+For less than a heartbeat. Not three he chose, with Ciel counting and the RCT ready behind it. Three that happened because his hand moved before his head did.
+
+Something behind his left eye *tears*.
+
+He feels it go. The old damage, the eye that was never quite right since the duel. A line of white-hot pressure across the back of it, and the left half of the world going dark and bright and dark, and something warm running out of his nose, fast. Not the slow ache the RCT keeps ahead of all day. A sudden thing. Faster than the healing.
+
+He drops the Blue. Drops the Shrine. Holds only Infinity.
+
+The RCT is already there. It was always there. It goes into the tear and starts closing it. But it's *behind*. For three seconds, four, it's chasing the damage instead of keeping ahead of it, and the left side of the quarry flickers, and Dabura's light comes through the thin place on the left where he can't see, and goes through his shoulder.
+
+Five seconds. Six.
+
+Then the RCT catches up. The tear closes. The left side of the world comes back.
+
+*That*, says Ciel, very quietly, *is what a mistake costs.* ᶜ
+
+“I know.” ᴹ
+
+*The refresh keeps up with use*, says Ciel. *Not with errors. If that had been the domain, or a full combination, it wouldn't have been an eye.* ᶜ
+
+“I *know*, Ciel.” ᴹ
+
+He wipes his nose with the back of his hand. Dabura, ten paces off, is watching him with his head on one side. He saw. He saw something go wrong, and he doesn't know what, and he's very interested.
+
+Mau goes back to two.
+
+He doesn't reach for a third again. Not by accident.
+
+*Twenty*, says Ciel. ᶜ
+
+* * *
+
 Then Mau does the stupid thing.
 
 He doesn't plan it. It comes up out of his hands the way the cheapest tent did: from somewhere deeper than his head.
@@ -179,7 +217,7 @@ And then he laughs. Harder than he's laughed all morning. Harder than when he th
 
 He can't finish. He's laughing too hard.
 
-*Twenty*, says Ciel, and Mau thinks she sounds like she might be laughing too. ᶜ
+*Twenty-one*, says Ciel, and Mau thinks she sounds like she might be laughing too. ᶜ
 
 * * *
 

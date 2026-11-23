@@ -161,7 +161,11 @@ Yuka's breath catches.
 
 Her voice is barely there.
 
-“He has,” says Shoko. “Before. A long time ago. With Frieren. When Fern came. He moved his cup out of their room. His clothes. His books. Because he thought Frieren needed the space for someone new, and he thought he was being kind.” ˢʰ
+“He has,” says Shoko. “Before. In the other timeline, long before he'd ever heard of me. With Frieren. When Fern came. He moved his cup out of their room. His clothes. His books. Because he thought Frieren needed the space for someone new, and he thought he was being kind.” ˢʰ
+
+Yuka looks up. “How do you know that?” ʸ
+
+“He told me.” Shoko shrugs, very slightly. “One of those afternoons he comes down to the clinic with nothing wrong with him. He sits on the end of the cot and I point at the kettle, and sometimes he talks. He told me that one a while ago. Like it was a funny story about someone else.” ˢʰ
 
 She lets go of Yuka's hands. She picks her cup back up.
 

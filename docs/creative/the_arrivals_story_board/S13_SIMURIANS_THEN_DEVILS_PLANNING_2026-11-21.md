@@ -375,3 +375,13 @@ Timeline anchor: V82 ends after the Fort day (about B+405). Yoru's contract runs
 > no tu date solo que dire es que en el empute sobre makima que yuka le diga que ya habia comenadoa confiarle y continua para que work haga tus corchetes y su desmadre
 
 - **In the blow-up over Makima,** Yuka tells Mau she had *already started to trust* Makima. That's what makes it hurt for both of them, and for Makima.
+
+## Dabura canon (web summaries, 22 November 2026; to verify with Work)
+
+- His cursed technique has two parts: **light** (powerful beams of light), and something "that can't be put into human words" that **physically manifests killing intent**.
+- In Modulo he begins to understand jujutsu and learns **reverse cursed technique and Domain Expansion**.
+- Ch. 20: he learns a technique that only Gojo and Kenjaku had used (verify which).
+- He fights Yuka's Mahoraga and overpowers it quickly, then fights "for real" (ch. 15–20).
+- His rank varies by source: "king of the Simurians" (Dabura Karaba) or "the strongest Simurian warrior".
+- **Mauri's version:** he arrives with all of that from the Mahoraga fight but doesn't remember it was there. The CE-cutting is Mauri's idea for this story; it fits the "something that can't be put into words".
+- Sources: [ComicBook – Dabura true powers](https://comicbook.com/anime/feature/jujutsu-kaisens-sequel-unveils-daburas-true-powers), [ComicBook – Dabura CT reveal](https://comicbook.com/anime/feature/jujutsu-kaisen-modulo-dabura-cursed-technique-reveal), [Beebom – Ch. 15](https://beebom.com/jujutsu-kaisen-modulo-chapter-15-yuka-summons-jjks-most-terrifying-shinigami-against-dabura).

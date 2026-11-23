@@ -4,7 +4,7 @@
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 4
+**Chapter files:** 5
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -16,6 +16,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 2 | S13E104 | Bad Company | `THE_ARRIVALS_S13E104_LN_CHAPTER_02_BAD_COMPANY_v0.1.md` |
 | 3 | S13E105 | What Maki Feels | `THE_ARRIVALS_S13E105_LN_CHAPTER_01_WHAT_MAKI_FEELS_v0.1.md` |
 | 4 | S13E105 | The First Third | `THE_ARRIVALS_S13E105_LN_CHAPTER_02_THE_FIRST_THIRD_v0.1.md` |
+| 5 | S13E106 | The Expedition | `THE_ARRIVALS_S13E106_LN_CHAPTER_01_THE_EXPEDITION_v0.1.md` |
 
 ## Notes
 
@@ -24,3 +25,4 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 - #2 (Claude, B+407, "80"): in the inner room Ciel shows the finished Mini Ciel and says it "won't survive" the last step; Mau thanks it ("it did a lot"); Ciel laughs: it's whole, fitted in four seconds while he slept. Noise's idea. "You've been keeping bad company"; Ciel and DIO object (DIO cites Elmesia). Yuka heard it all on the link. The cloth becomes optional; Yuka keeps it folded "for tired days". Ciel: Noise has been waiting for this headroom to finish something; tomorrow.
 - #3 (Claude, B+408, "79"): Noise's model of how Maki's Heavenly Restriction body senses the world (heat, air, weight, the foot before a strike), folded into Mau WITHOUT the restriction (no CE lost, nothing traded). Mau asks Maki first; "Then take it. It was never mine to keep." First test: sense + eyes = he can feel and count the air's particles; sits down; Mini Ciel and Noise turn it down (never off). Maki can't turn hers down and doesn't want to. "Feeling it isn't the same as being fast enough" (she still taps him). Yuka asks what he feels on her: heartbeat, heat climbing to her ears; she hides behind Maki. Maki: "the first thing anyone's ever asked me for." Kiss note for Work.
 - #4 (Claude, B+409, "78"): points day with Yuka, Umaru and Jin-Woo (promised at the birthday). Stat page fields: Strength, Speed, Endurance, Perception (+ unexplained minor lines). Jin-Woo: not all at once, your body has to learn them; a third now, spread across every field (Umaru: everything goes up together or something breaks). Effects: warmth in the bones; the left arm (eleven pieces after the north) is finally as strong as the right; an afternoon of relearning his body (Beru: "a very strong newborn calf"). Shoko finds nothing wrong and is cross. Two thirds remain unspent.
+- #5 (Claude, B+411, "76"): Ori's promised expedition with Beru ("My commander"). Planned as three; Frieren, Yuka, Fern, Stark and Himmel join (eight). Beru carries Ori on his shoulder the whole way; everyone obeys her; Beru "has dust in his eyes". Old ruins and a cave past the river (Kamish overhead). Carved road sign; Frieren reads "rest here" and a later hand: "we did". Ori's map: REST HERE. WE DID. (expedition 1). Ori falls asleep on Beru's shoulder going home. Beru: the best day since the beginning (the birthday gate is now second). Kiss note for Work.

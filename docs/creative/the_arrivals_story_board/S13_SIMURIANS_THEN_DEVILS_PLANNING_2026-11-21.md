@@ -401,3 +401,22 @@ Timeline anchor: V82 ends after the Fort day (about B+405). Yoru's contract runs
 ## Semilla: Rem le dice "te quiero" a Umaru (Mauri, 23 de noviembre de 2026)
 
 Patrón de Rem: cada paso con Umaru (su date, lo que sintió en el festival) se lo cuenta primero a Mau o le pide ayuda. V83 #8 sigue ese patrón: la primera vez que dice "I love Umaru" en voz alta es a Mau. Cuando se lo diga a Umaru en la cara, que salga de ese mismo hilo: primero Mau, luego ella. Escena pendiente; sin fecha.
+
+
+## Semilla: Beatrice y la biblioteca de Echidna (Mauri, 23 de noviembre de 2026)
+
+Lo que dijo Mauri:
+- La biblioteca es la de Echidna.
+- Beatrice puede crear una que se mueve de puerta en puerta (Door Crossing).
+- Mau le prohíbe ser la keeper constante: que salga.
+- Echidna reconoce a Beako. Se conocían en su mundo y vivieron juntas hasta que Echidna murió. Que convivan las dos aquí.
+
+Canon de la casa, verificado: la biblioteca ya existe. Desde Moving Day (Day 100), el cuarto sin nombre guarda la puerta de Echidna: una lámpara, una silla y una biblioteca más grande que la casa (DECISION_HISTORY). En V83 #8 Beatrice concluye que la casa "no tiene" biblioteca y se queda en el window seat de Frieren. Nadie le enseñó la puerta.
+
+Propuesta de Claude, por secundar:
+- Beatrice encuentra (o le enseñan) la puerta del cuarto sin nombre, y del otro lado está Echidna.
+- Reconocimiento. Echidna no se disculpa bonito por los 400 años; es Echidna. Beatrice no la perdona en una escena.
+- Con Door Crossing, Beatrice conecta la biblioteca a cualquier puerta de la casa. Las dos la comparten.
+- La regla de Mau: aquí nadie es keeper. La biblioteca se abre para ella, pero ella vive en la casa: come con todos, sale con la Fort y sigue en el window seat de Frieren cuando quiera. No es un contrato, es una regla de familia. Ella protesta ("I suppose").
+
+Pendiente de confirmar con Mauri: si va insertado en V83 (después de #8) o abre V84 antes de los Devils, y qué recuerda esta Echidna de su muerte.

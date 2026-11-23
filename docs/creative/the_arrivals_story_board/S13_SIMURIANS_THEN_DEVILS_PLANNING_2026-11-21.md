@@ -400,7 +400,7 @@ Timeline anchor: V82 ends after the Fort day (about B+405). Yoru's contract runs
 
 ## Semilla: Rem le dice "te quiero" a Umaru (Mauri, 23 de noviembre de 2026)
 
-Patrón de Rem: cada paso con Umaru (su date, lo que sintió en el festival) se lo cuenta primero a Mau o le pide ayuda. V83 #8 sigue ese patrón: la primera vez que dice "I love Umaru" en voz alta es a Mau. Cuando se lo diga a Umaru en la cara, que salga de ese mismo hilo: primero Mau, luego ella. Escena pendiente; sin fecha.
+Patrón de Rem: cada paso con Umaru (su date, lo que sintió en el festival) se lo cuenta primero a Mau o le pide ayuda. V83 #8: la primera vez que dice "I love Umaru" en voz alta es a Subaru, con Mau presente (corregido; antes decía "a Mau"). Cuando se lo diga a Umaru en la cara, que salga de ese mismo hilo: primero Mau, luego ella. Escena pendiente; sin fecha.
 
 
 ## Semilla: Beatrice y la biblioteca de Echidna (Mauri, 23 de noviembre de 2026)

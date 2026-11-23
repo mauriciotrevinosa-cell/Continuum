@@ -19,7 +19,7 @@ Ciel is at the table with the scout images laid out in front of her like cards, 
 
 *I know*, he says. ᴹ
 
-Noise is by the wall. Noise is always by the wall. A shape against the light that isn't quite there, the outline of someone standing guard over a door. He doesn't say anything. He's holding Makima's body steady in the world, the way he does whenever she's outside it, and he's watching Mau.
+Noise has taken the chair next to Ciel. She slides each scout image across when it comes in, and he puts a fingertip on the places where the shapes change direction. Outside, he keeps Makima's body steady while she walks. When Mau stumbles half a step on the wet grass, Noise looks up before Ciel does.
 
 DIO isn't at the table. She's in the corridor of the little Inn, near the door that leads to Ashborn's space, the one that stays closed. She waved once when they left. Not a fighter. She never asked to be.
 
@@ -141,7 +141,7 @@ Mau looks down the road. He can still hear the word he chose, *really*, doing mo
 
 He thinks about it for a long time.
 
-Long enough that Ciel, inside, puts the scout images down and looks at him. Long enough that Noise, by the wall, turns his head.
+Long enough that Ciel, inside, puts the scout images down and looks at him. Long enough for Noise to set the next image down without sliding it over.
 
 “And if I don't,” Mau says. “If I just push them back. Hold them. Send them away.” ᴹ
 
@@ -183,7 +183,11 @@ He puts that behind the door, too.
 
 *I have one*, says Mau. ᴹ
 
-He tells them. It doesn't take long. It's very simple. It's so simple that for a moment nobody inside says anything at all, and then Noise, by the wall, makes a sound Mau has never heard him make before, low and short, that might be the start of a laugh.
+He tells them. Noise looks down at the stack of scout images and pulls out the one that shows the entire basin.
+
+*Kamish will like that*, he says. ᴺ
+
+He turns the image so Ciel can see where he wants the dragon to come in. He gives Mau a little pleased look before he goes back to the picture.
 
 *Your body*, says Ciel carefully. *Shoko said not again today.* ᶜ
 

@@ -329,7 +329,7 @@ And she's asleep.
 
 Just like that. All at once, the way Ori goes. Her breathing slowing and evening out against his shoulder, her hand fisted in his shirt.
 
-He lies there in the dark for a while, feeling the line between them, open and bright and warm. Feeling all of them. Ciel, and Noise by his wall, and DIO humming behind her door. Makima, in her room in the north wing, very still, and then, as if she's felt something, letting out a long breath and turning over. Beru at the foot of Ori's stairs. A soldier in a little room far away, sitting in a chair by a window, looking at a city.
+He lies there in the dark for a while, feeling the line between them, open and bright and warm. Feeling all of them. Ciel and Noise still talking at the table, and DIO humming behind her door. Makima, in her room in the north wing, very still, and then, as if she's felt something, letting out a long breath and turning over. Beru at the foot of Ori's stairs. A soldier in a little room far away, sitting in a chair by a window, looking at a city.
 
 All of them there.
 

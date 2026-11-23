@@ -19,11 +19,11 @@ They're all there.
 
 Ciel is at the table. She has her body, the one DIO gave her, and she's sitting very upright in her chair with her hands folded in front of her, and when he comes in she looks up and doesn't say anything.
 
-Noise is by the wall. Where he always is. The outline of someone standing guard.
+Noise is sitting beside her, turning the warm cup in his hands. When he sees Mau at the edge of the room, he slides out the chair opposite with one foot. It's the one he adjusted for Ciel so she could sit close without having to move the cup.
 
 DIO is in the corridor mouth, leaning against the frame with her arms crossed. She has her back half turned to the room. She's looking at her plant through the open door of her room, as if it's very interesting.
 
-Makima is by the other wall, the far one. She came in a moment before him. She doesn't sit. She stands with her hands behind her back like a guest at a gathering she wasn't sure she'd been invited to.
+Makima is at the far wall. She came in a moment before him. She doesn't sit. She stands with her hands behind her back like a guest at a gathering she wasn't sure she'd been invited to.
 
 Nobody speaks.
 
@@ -53,13 +53,13 @@ He looks at Ciel. Then at Noise.
 
 “You didn't close us,” says Noise. ᴺ
 
-It's the first thing he's said. His voice, the way it always is, low and even, coming from the wall.
+He sets the cup down before he goes on. His voice is low and even.
 
 “When we asked,” Noise says. “You didn't. You kept us.” ᴺ
 
 “No,” says Mau. “I didn't close you. That's true.” ᴹ
 
-He makes himself keep looking at the shape by the wall.
+He makes himself meet Noise’s eyes across the table.
 
 “But I asked you for reports,” he says. “Technical reports. That's what I said. Heart rate. Repair rate. Where the devils were. The quarry. I told Rimuru you'd keep the house informed, *technical only*. And I let you be that. Instruments. Something I'd use to tell other people I was all right.” ᴹ
 
@@ -111,27 +111,19 @@ Nobody says anything for a while.
 
 Then he hears a chair scrape. He takes his hands away.
 
-Noise has come away from the wall.
-
-He doesn't do that. Mau has seen him do it maybe three times in all the time they've had this room. He's a shape that stands by walls. He stands by walls the way the wall stands; it's what he's for. But he's come away from it now, the whole outline of him, and he's standing at the end of the table, and he pulls out the chair there, slowly, as if he's not sure how chairs work, and sits down in it.
-
-Ciel looks at him in astonishment.
-
-Noise doesn't look at anyone. He puts his shadow-hands on the table, the way Mau's are.
+Noise has brought his chair around the end of the table. He sits close to Mau, close enough that their knees bump. He leaves the chair where it is. Ciel watches him put one hand flat on the table beside Mau's.
 
 “Home,” he says. ᴺ
 
 Mau stares at him.
 
-“You came back,” says Noise. “The basin. You came back. You said you'd stop if Ciel called it, and you meant it, and she didn't have to call it.” ᴺ
+“You came back,” says Noise. “You meant it when you said you’d stop.” ᴺ
 
-He turns the outline of his head toward Mau.
+He leaves his hand beside Mau’s until Mau looks at him.
 
-“You're sorry,” says Noise. “Good. Make it up. But you came back. That's the thing. That's always the thing.” ᴺ
+“Make it up to us,” he says. “Start by staying a while.” ᴺ
 
-Then he does something Mau has never seen him do in all the time this room has existed.
-
-He reaches over and picks up the cup.
+He reaches across for the cup.
 
 The cup that's always there and always warm and that nobody has ever been seen to fill. He picks it up in his shadow-hands, and he holds it out across the table to Mau.
 

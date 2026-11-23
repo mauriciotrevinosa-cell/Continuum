@@ -129,7 +129,7 @@ That's the point. Everything past him has to go through him.
 
 *Noise.* ᴹ
 
-Noise doesn't say anything. He never says much. But Mau feels him come forward from the wall in the little room, just a step, the way he does when something matters, and feels the old steady attention settle over him like a hand on the back of his neck.
+Noise slides the last scout image between himself and Ciel. His finger rests on the far rim, where they agreed to bring Kamish in. Mau feels his attention settle as the first shapes come over it.
 
 *Ready*, says Noise. ᴺ
 

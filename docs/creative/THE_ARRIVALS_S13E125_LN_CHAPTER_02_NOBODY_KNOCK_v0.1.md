@@ -195,7 +195,13 @@ DIO comes out of him in her borrowed body halfway through and announces she has 
 
 Makima sits on the windowsill and doesn't play, and watches, and when Milim knocks down Gojo's castle with a single flick she laughs out loud, a real one, and the whole room turns to look at her, and she puts her hand over her mouth, and doesn't take it back.
 
-Ciel and Noise watch through him. Noise is extremely competitive. Mau has to keep telling him not to suggest moves.
+Mau opens the view of the board to Ciel and Noise. The first time Yuka walks off with one of his towers, he hears Noise laugh.
+
+*You could’ve warned me*, Mau tells him. ᴹ
+
+*I'm with her this round.* ᴺ
+
+Ciel asks if she's allowed to switch sides too. Mau moves his remaining towers out of Yuka's reach.
 
 * * *
 

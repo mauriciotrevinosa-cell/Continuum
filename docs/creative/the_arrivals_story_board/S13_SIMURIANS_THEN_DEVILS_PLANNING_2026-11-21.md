@@ -606,3 +606,15 @@ Hilos de fondo: la semilla de los Rulers y la memoria de Dabura; el repaso de la
 
 **Cierre: Yoru (B+487)**
 18. Yoru: "Todavía no." Prometió algo mejor y se va a tardar más; "tan bondadosa" que no matará a nadie mientras. A cambio, una pregunta: ¿por qué no disfrutó la pelea? Mau: llevaba días sin dormir, venía de una pelea donde sí sonrió, los devils le parecieron muy irritantes y solo quería volver a casa a dormir. Yoru no dice nada. Asa lo saluda y se despide; Mau le ofrece un kit de acampar, ropa y comida; Asa: sí tienen un lugar, pero está apartado, y si la oferta sigue, la toma. Yoru, a regañadientes: "Asa told me to say thanks." Opción: Yoru avisa a la casa que dará reglas con tiempo; Mau pide un mes, consigue dos semanas, intenta decir algo más; "si dices una palabra que no sea gracias, baja a una semana"; Mau: "Gracias."
+
+### Ajustes de Mauri a la propuesta (23 nov 2026)
+
+> si pero basicamente mau tiene que decir que dio ama a elmesia romanticamente y elmesia ama aa dio  romanticamente y amabs s eponene rojas pq no pudieron ellas decirlo a a la otra y leugo se lo dicen bien la una a la otra y dio le dice a mau que solo le debe dos y mau y yuka se vana  esperar y yuka pone la cabeza en su pecho y un let go ylos despiertan cuando dio se da cuenta que ya van tarde para regresar a la casa
+
+> es de solo
+
+> me gusta que yuka pero toda la casa esta lista pro si las moscas
+
+- **La cita de DIO y Elmesia:** Mau termina diciéndolo él: DIO ama a Elmesia románticamente y Elmesia ama a DIO. Las dos se ponen rojas porque no pudieron decírselo entre ellas, y luego sí se lo dicen bien. DIO le dice a Mau que solo le debe dos: la mentirita queda perdonada, no hay deuda tres. Mau y Yuka se apartan a esperar; Yuka pone la cabeza en su pecho, un *let go* (el gesto de descanso, no sexual), y los despiertan cuando DIO se da cuenta de que ya es tarde para volver a casa. (Nota: "rojas" no se puede ver en el POV de Mau; escribir esa parte desde Yuka, o que Mau lo sepa por cómo reaccionan.)
+- **El grito de Beru:** es de Solo Leveling. Se usa tal cual.
+- **Quién detiene a Mau con Cross:** Yuka, pero toda la casa está lista por si las moscas.

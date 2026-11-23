@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 8
 **Source episode:** S13E107
-**Continuity state:** B+420 ("67"). The day after the arrival. Subaru asks Mau to sit with him while he talks to Rem and Ram, because he doesn't trust himself not to run. He apologises properly. Rem forgives him with her whole heart. Ram forgives him too, and tells him plainly that forgiving isn't the same as fixed: the damage to what was between them is permanent, and he'll have to live next to the crack. He accepts it. Emilia has tea with Satella, with Yuka and Mau carrying the cups; Satella answers what she can and says "not yet" to the rest. Beatrice inspects the house's "library" (Frieren's shelves, Senku's notebooks, the grimoire Frieren keeps for Mau) and moves in among Frieren's books without asking. Echidna, coming across from the witches' side of the town to return a book, finds her in Frieren's window seat: they knew each other in their own world and lived together until Echidna died. Echidna takes her to the room with no name, behind whose door her library has always been; Beatrice uses Door Crossing to open it onto doors all over the house. At sunset Mau makes a rule: it's her library and Echidna's, but she is not its keeper and doesn't wait inside it; she eats with everyone and comes out every day. In the afternoon the Fort inducts Emilia as a member, with Ori presiding. Cross is at the edge of every room Yuka is in.
+**Continuity state:** B+420 ("67"). The day after the arrival. Subaru asks Mau to sit with him while he talks to Rem and Ram, because he doesn't trust himself not to run. He apologises properly. Rem forgives him with her whole heart. Ram forgives him too, and tells him plainly that forgiving isn't the same as fixed: the damage to what was between them is permanent, and he'll have to live next to the crack. He accepts it. Emilia has tea with Satella, with Yuka and Mau carrying the cups; Satella answers what she can and says "not yet" to the rest. Beatrice inspects the house's "library" (Frieren's shelves, Senku's notebooks, the grimoire Frieren keeps for Mau) and moves in among Frieren's books without asking. Echidna, coming across from the witches' side of the town to return a book, finds her in Frieren's window seat: they knew each other in their own world and lived together until Echidna died. Echidna takes her to the room with no name, behind whose door her library has always been; Beatrice uses Door Crossing to open it onto doors all over the house. At sunset Mau, with the Six Eyes, sees her old keeper's contract gone slack: it was made for a world where Echidna was dead. He offers to take it off her with Echidna, who tied it and can show him the knot, if she ever asks. Beatrice will think about it. Meanwhile, his smaller rule: she doesn't wait inside; she eats with everyone and comes out every day. In the afternoon the Fort inducts Emilia as a member, with Ori presiding. Cross is at the edge of every room Yuka is in.
 
 *When: B+420. Morning to evening. Yuka wrote "67". Subaru has been awake since before dawn, sitting on the back steps.*
 
@@ -411,7 +411,47 @@ She doesn't look at Echidna when she says it. She very carefully doesn't look at
 
 In the chair by the lamp, Echidna's page stops turning.
 
-“Then the contract is between you and her,” says Mau. “I'm not asking you to break anything. I wouldn't know how.” He keeps his voice gentle. “I'm asking you not to sit in here waiting. Not for anyone. There's nobody to wait for. Everyone you'd be waiting for is outside, in the yard, and they'd like you to come and watch Ori give Emilia a paper badge.” ᴹ
+Mau looks at her properly then. He lets the Six Eyes look.
+
+It's there. He can see it, the way he could see the weight of Makima's rule on himself when he was the one carrying it: a binding, old, wound round her and running back into the shelves. Strong once. Made with great care by someone who knew exactly what she was doing.
+
+But the other end of it is wrong. It goes back toward the shelves and then it bends, and runs, of all places, to the chair by the lamp. And there it doesn't hold. It lies across the space between them slack, like a rope tied off to a post that was supposed to fall down and didn't.
+
+“Can I tell you what I see?” he says. ᴹ
+
+Beatrice's chin goes up another inch. But she doesn't say no.
+
+“Contracts are made for something,” he says. “I've carried one. I know how they sit on you. Yours was made so that you'd keep this place until you found something. Someone. After she was gone.” He doesn't look at Echidna. He doesn't have to. “It was made for a world where she was dead.” ᴹ
+
+The silence in the library goes very deep.
+
+“She's not,” he says. “She's sitting in that chair, reading. And the end of it that was tied to her isn't holding anything any more. I can see it. It's loose, Beatrice. It's been loose since the moment she said your name.” ᴹ
+
+Beatrice's hands have closed on the book in her lap.
+
+“A contract does not stop,” she says, very precisely, “because Betty would like it to, in fact.” ᴮᵉᵃ
+
+“No,” Mau agrees. “It doesn't. You'd want it done properly. Not just left hanging off you.” ᴹ
+
+He glances, finally, at the chair.
+
+Echidna has closed her book on one finger. She is watching them both over the top of it with that total, sharp attention, and under it something else he can't name.
+
+“She wrote it,” says Mau. “She knows how it's tied. I can see where it's tied. Between the two of us, if you want it gone, we can take it off you. Not today, if you don't want today. Not ever, if you don't want ever. But you don't have to carry a promise to wait for someone after the person who asked you to wait has come back.” ᴹ
+
+Echidna is quiet for a long moment.
+
+“It was written for a world in which I was dead,” she says at last. “I find I am inconveniently not.” ᴱᶜ
+
+She looks at Beatrice.
+
+“He is right about the knot,” she says. “I tied it. I can show him where.” A pause. “If you ask.” ᴱᶜ
+
+Beatrice doesn't ask. Not yet. She sits very still in her circle of books with her hands clenched on the cover in her lap, and Mau can see, with the Six Eyes and without them, that four hundred years of waiting doesn't come off in one afternoon just because someone has explained that it can.
+
+“Betty will think about it,” she says. “I suppose.” ᴮᵉᵃ
+
+“Good.” He keeps his voice gentle. “Then until you decide, I'll make a smaller rule. Don't sit in here waiting. Not for anyone. Everyone you'd be waiting for is outside, in the yard, and they'd like you to come and watch Ori give Emilia a paper badge.” ᴹ
 
 He waits.
 

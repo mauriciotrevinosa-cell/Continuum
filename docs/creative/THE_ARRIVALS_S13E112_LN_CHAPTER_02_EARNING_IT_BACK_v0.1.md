@@ -5,13 +5,13 @@
 **Volume:** 83
 **Reading order:** 18
 **Source episode:** S13E112
-**Continuity state:** B+431, dawn to late afternoon. The wild medium dungeon in the hills past the ruins, with Makima. Mau clears it fast, clean and joyless: perfect technique, no wasted motion, Ciel giving him numbers and nothing else, the currency piling up. Makima fights a little where she can (her body is Noise's work and can't go far from him) and mostly watches. On the last floor he wants to keep going: to open a deeper sublevel the eyes found and take it alone at full, with his Infinity still thin on the right. Makima stops him, the second time she has, by standing in the way and saying no. They sit on the floor among the remains. She tells him what she feels through the thread, without making him say it. He tells her, at last, one true thing: "I think I'm being replaced." She says he's wrong, and that she's not the one who can tell him. The friend's handshake. They head home with a great deal of money he doesn't need.
+**Continuity state:** B+431, dawn to late afternoon. Mau and Makima clear a wild gate without changing the house gate’s separate rules. The clear credits his balance; physical floor drops go to inventory. He wants to break an optional deeper seal; Makima stops him. He says he fears being replaced. They record the seal for a later planned survey and leave through the ordinary exit; the cleared gate closes. They return wealthy, tired and still emotionally unsettled.
 
 *When: B+431. From first light in the hills to the late afternoon, when the light goes long. At the house, the notebook now says "56", in Yuka's hand; she wrote it when she woke up and found the bed empty.*
 
 The dungeon is in a fold of the hills, a long way past the ruins.
 
-Ciel found it weeks ago, in the dry part of the season, when the sense was still new: a wrongness in the ground, like a stone in a shoe. A wild gate. Nothing to do with the house, or the Rulers, or the oval between the two old trees. Just one of the holes this world opens sometimes in empty places, with things living in it, waiting.
+Ciel marked it during an earlier survey of the hills: a wrongness in the ground, like a stone in a shoe. A wild gate. Nothing to do with the house, or the Rulers, or the oval between the two old trees. Just one of the holes this world opens sometimes in empty places, with things living in it, waiting.
 
 Medium, Ciel said. Ten floors. Nothing that matters.
 
@@ -19,15 +19,13 @@ He stands at the mouth of it in the grey light with Makima beside him.
 
 “Numbers,” he says. ᴹ
 
-*Ten floors*, says Ciel. *Medium throughout. Floor four has water. Floor seven has a ceiling that comes down if you're slow. The guardian is on ten. Nothing on any floor can get through your Infinity at its current setting, except on the right side, where it's thin.* ᶜ
+*Ten floors on the entry record*, says Ciel. *The survey puts water on four and moving stone on seven. Guardian marked on ten. Those are the readings we have, not a guarantee about what hasn't shown itself.* ᶜ
 
-“I know about the right side.” ᴹ
+“Nothing outside the survey?” ᴹ
 
-*I'm telling you the technical things*, says Ciel. *You asked.* ᶜ
+*Nothing verified. I'll tell you when that changes*, says Ciel. *You asked for technical things.* ᶜ
 
 He goes in.
-
-* * *
 
 It's fast.
 
@@ -43,8 +41,6 @@ She doesn't do much. She can't go far from him; Noise holds her body, and Noise 
 
 She doesn't comment. Neither does he.
 
-* * *
-
 Floor four has water.
 
 He crosses it on Sky without getting his boots wet. Things move under the surface. He doesn't look at them. He reads them, with the eyes, and with the sense turned down very low, and he goes round the places where they are, and doesn't stop.
@@ -52,8 +48,6 @@ He crosses it on Sky without getting his boots wet. Things move under the surfac
 Halfway across, he thinks about the drowned level in the Rulers' gate. Carrying her on his back the whole way. Her arms round his neck. Her voice in his ear: *four, two, left*.
 
 He goes faster.
-
-* * *
 
 Floor seven has the ceiling.
 
@@ -71,15 +65,13 @@ He doesn't answer.
 
 He held it because it felt good to hold something heavy and not have it move. He doesn't say that either.
 
-* * *
-
 The guardian on ten is a great armoured thing like a beetle the size of a house.
 
 He kills it in four moves.
 
 He doesn't even think about it. It comes at him, and he moves, and moves again, and opens Shrine in a single long line exactly where the eyes say the joint in its armour is, and it comes apart along the line like a seam unpicked, and falls.
 
-The box opens.
+The guardian falls. Above the exit that forms behind it, the notification opens.
 
 > **[Dungeon cleared.]**
 >
@@ -87,9 +79,7 @@ The box opens.
 
 There's a lot of currency. More than the Rulers' gate. More than the Hamster War cost him, by a long way.
 
-He sweeps it into the shadow without counting it.
-
-* * *
+The clear credits it to his balance. He closes the notification without checking the total.
 
 He doesn't leave.
 
@@ -107,8 +97,6 @@ He puts his hand on the floor.
 
 “I'm going to open it,” he says. ᴹ
 
-* * *
-
 “No,” says Makima. ᴹᵏ
 
 He looks up.
@@ -121,15 +109,13 @@ She's standing in front of him. Right in front of him, on the other side of his 
 
 “It's sealed. Something's down there. If I don't open it, someone else will find it eventually and—” ᴹ
 
-“Then someone else can find it,” says Makima. “With Gojo and Yuta and a plan and Shoko waiting at the top. Not you. Not today. Not alone, with your Infinity thin on the right and your head full of something you won't say.” ᴹᵏ
+“Then someone else can find it,” says Makima. “With Gojo and Yuta and a plan and Shoko waiting at the top. Not you. Not today. Not while you're missing sleep and stopping in the middle of a fight to stare at nothing.” ᴹᵏ
 
 He stands up.
 
 She doesn't move.
 
 “You wanted me here to stop you doing something stupid,” she says. “This is the stupid thing. I'm stopping you.” ᴹᵏ
-
-* * *
 
 He looks at her for a long time.
 
@@ -139,23 +125,19 @@ He doesn't say anything.
 
 After a moment, Makima sits down too. Beside him. Not touching. The way she sat on the wall.
 
-* * *
-
 “I can feel it,” she says. ᴹᵏ
 
 He doesn't ask what.
 
-“Through the thread,” she says. “Everything. I've been feeling it all day. All week. You're very loud. You've been loud since the gate, since he walked through it and said *you're alive* to her.” ᴹᵏ
+“Through the thread,” she says. “The distress. I've been feeling it all day. All week. You're very loud. You've been loud since the gate, since he walked through it and said *you're alive* to her.” ᴹᵏ
 
 She looks at her hands.
 
-“I'm not going to make you say it,” she says. “I know what it is. I've felt it. You don't have to put it into words for me.” ᴹᵏ
+“I'm not going to make you say it,” she says. “I know it hurts. I don't know what you think is happening unless you tell me.” ᴹᵏ
 
 He's quiet for a long time.
 
 Then he says it anyway.
-
-* * *
 
 “I think I'm being replaced,” he says. ᴹ
 
@@ -177,8 +159,6 @@ His hand has gone to his pocket. He doesn't notice.
 
 “So I'm getting out of the way,” he says. “Before she has to ask. So it doesn't hurt when she does.” ᴹ
 
-* * *
-
 Makima is quiet for a long time.
 
 “You're wrong,” she says. ᴹᵏ
@@ -196,8 +176,6 @@ She pauses.
 She turns her head and looks at him.
 
 “And you closed her door,” she says. ᴹᵏ
-
-* * *
 
 He doesn't answer.
 
@@ -218,8 +196,6 @@ He thinks about it.
 He doesn't finish.
 
 Makima doesn't push. She looks at the floor, where the seal is, where the cold is coming up.
-
-* * *
 
 After a while, he holds out his hand.
 
@@ -247,7 +223,7 @@ Makima looks at their hands.
 
 “Good,” says Makima. “I wanted to check.” ᴹᵏ
 
-* * *
+Before they leave, Ciel records the unopened seal and its position. Mau marks it on their map for a later survey with the house. The ordinary exit is still available; he takes it rather than breaking a second way deeper. Once they are both outside, the cleared gate closes.
 
 They come out in the late afternoon.
 
@@ -261,9 +237,7 @@ The light is long and gold over the hills. He can't see gold. He knows it's ther
 
 “I know, Ciel.” ᴹ
 
-* * *
-
-They walk home over the hills, Makima a step behind him, the shadow at his feet heavy with currency he didn't need and didn't count.
+They walk home over the hills, Makima a step behind him, his inventory carrying the floor drops, his balance higher by an amount he didn't need and didn't check.
 
 He doesn't feel better.
 

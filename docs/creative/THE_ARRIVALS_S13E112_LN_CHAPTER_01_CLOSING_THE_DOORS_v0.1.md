@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 17
 **Source episode:** S13E112
-**Continuity state:** B+431 ("56"), before dawn. Mau, who lay awake deciding what Yuka's "something" is, goes to the shared inner room. Everything he locked away is coming up at once: the S1 room he emptied for Fern, the Trial year in his hands, the gate, "before you". He can't stand anything outside reaching him while he sorts it. So he closes the doors. Not breaking: closing. Yuka's contract (her use of his techniques, the Exchange, her link to the voices in him) stays intact and closed. Mai's agreement (her Construction drawing on his reserves) stays intact and closed. He reaches for Ciel and Noise too; they ask him not to; he says okay. He tells Ciel to give him only technical things from now on. He tells Makima he's going to a dungeon to clear his head. She comes; Noise holds her body; she can't be far. He leaves before Yuka wakes, without a word. The notebook on the windowsill is still on yesterday's page.
+**Continuity state:** B+431 ("56"), before dawn. Mau closes his direct personal relays and the external contract access, including Yuka’s borrowed techniques/Exchange and Mai’s supply. Contracts remain intact. The shadow watch and its existing protection orders continue; Ciel’s independent communications and emergency reports remain available. Ciel/Noise ask him not to isolate them too, and he agrees. Makima accompanies him outside; DIO withdraws inside for range. Mau leaves without a note.
 
 *When: B+431. The hour before dawn. Yuka hasn't written today's number yet. She's asleep, on his side of the bed, with her hand on his pillow.*
 
@@ -19,11 +19,9 @@ Noise by the table, the shadow of it, very still. Ciel in her chair. DIO at the 
 
 Nobody says anything.
 
-They know. They live in him. They've felt every hour of the last week. They felt last night, *I want to talk to you about something*, and what it did to him, and what he did with it until the sky started going grey.
+They have seen what reaches the shared room: missed meals, the work his body is doing without sleep, the requests he keeps putting aside. Makima has felt his distress through their particular bond. None of them has heard the conversation Yuka meant to have. He has spent the night supplying its ending himself.
 
 He sits down at the table.
-
-* * *
 
 “It's all coming up,” he says. ᴹ
 
@@ -39,8 +37,6 @@ His voice is very level. He notices that from a distance.
 
 “I can't think,” he says. “With everything coming in. The eyes. Maki's sense. The house. Her. I need it to stop. Just for a while. Just until I can sort it.” ᴹ
 
-* * *
-
 “What do you want to do?” says Ciel. ᶜ
 
 Her voice is careful. The clinic voice.
@@ -55,15 +51,13 @@ One goes to Yuka.
 
 He can see it. Feel it. The thread of her contract: everything he built for her over the years, one piece at a time. The techniques she can borrow. The second Limitless inside him that's hers. The handle Noise put on her side, so she can pull him to her. The link, so the voices in him can reach her. All of it running out through that door, out of him, to her, all the time.
 
-He can feel her through it now. Asleep. Warm. Dreaming something. Content.
+He notices the familiar connection still available while she sleeps. He has not opened her thoughts. The fact that she could reach him is enough to make him imagine the words she might say.
 
 Another goes to Mai. The agreement. Her Construction, drawing on his reserves instead of hers, so she can build the second floor and the kettle and the aqueduct and everything else on her list.
 
 And more. Threads to Rimuru. To the soldiers in people's shadows. To everyone.
 
 “I want to close them,” he says. ᴹ
-
-* * *
 
 The room goes very quiet.
 
@@ -73,7 +67,7 @@ The room goes very quiet.
 
 He says it fast. Firmly. He needs them to understand.
 
-“I'm not breaking anything,” he says. “Not her contract. Not Mai's. Nothing. Everything stays. Everything's still there. I just—close the doors. For a while. So nothing comes through. So I don't feel her dreaming and Mai building and everyone needing something. So I can think.” ᴹ
+“I'm not breaking anything,” he says. “Not her contract. Not Mai's. Nothing. Everything stays. Everything's still there. I just—close the doors. For a while. So nothing comes through. So I'm not waiting for her to reach me while I'm trying to sort all this out. So the requests stop for a while. So I can think.” ᴹ
 
 “And when you open them?” says Ciel. ᶜ
 
@@ -82,8 +76,6 @@ He says it fast. Firmly. He needs them to understand.
 “And Yuka?” ᶜ
 
 He doesn't answer that.
-
-* * *
 
 DIO stands up at the end of the table.
 
@@ -101,19 +93,17 @@ He looks at her.
 
 He's never seen her face like this. DIO, who is all brightness and hats and plants and bouncing. Her face is very still, and very frightened, and very much like Ori's when Ori is trying not to cry.
 
-“I have to,” he says. “I can't think with it open. I can feel her through it, all the time, and every time I feel her I think about the walk and the ridge and the corridor and the chair. I need it to stop. Just for a while.” ᴹ
+“I have to,” he says. “I can't think with it open. Every time I notice the connection I think about the walk and the ridge and the corridor and the chair. I need it to stop. Just for a while.” ᴹ
 
 He closes his eyes.
 
 He closes the door.
 
-* * *
-
 It doesn't make a sound.
 
 He'd thought it might. It doesn't. The thread to Yuka is there, and then it's still there, and then it's still there but nothing is coming through it. Like a window with the shutters closed. The house is still on the other side. He just can't hear it.
 
-He can't feel her dreaming anymore.
+Her side no longer has a way to reach him directly.
 
 He sits very still at the table and waits to feel better.
 
@@ -121,11 +111,13 @@ He doesn't.
 
 He closes Mai's door.
 
-He closes the others. Rimuru's thread. The soldiers in people's shadows, not called back, just quiet. One by one. Quietly. Shutters going down along a street at night.
+He closes the personal relay to Rimuru. He quiets the ordinary reports from the soldiers in people's shadows. He does not call them back or cancel their protection orders. The watch remains Bellion's to run.
+
+“Emergencies still reach me,” Ciel says. “And I can speak to Rimuru and Yuka myself. You are asking to close your conversation, not mine.” ᶜ
+
+He nods. Those paths stay. One by one, he closes the invitations that reach him directly.
 
 And then he reaches for the last ones. The ones closest. The ones in the room.
-
-* * *
 
 “*No*,” says Noise. ᴺ
 
@@ -139,8 +131,6 @@ It doesn't say it in its report voice. It says it in the voice it used once, a l
 
 “Not us,” says Noise again. “Please.” ᴺ
 
-* * *
-
 Ciel has stood up too.
 
 She's standing beside her chair with one hand on the back of it, very straight, the way she stands when she's about to give him a number he won't like.
@@ -150,8 +140,6 @@ She's standing beside her chair with one hand on the back of it, very straight, 
 She pauses.
 
 “I counted every breath of a year once,” she says, “so you'd know you were still there. Don't make me sit in here and not be able to count.” ᶜ
-
-* * *
 
 He looks at them.
 
@@ -168,8 +156,6 @@ His voice is very tired.
 Noise doesn't move for a moment. Then, slowly, the shadow goes back to the table.
 
 Ciel sits down.
-
-* * *
 
 “One thing,” he says. ᴹ
 
@@ -188,8 +174,6 @@ Ciel opens her mouth.
 She closes it.
 
 “Understood,” she says, after a long time. The crisp voice. The number voice. But he can hear what's under it, and he doesn't let himself listen. ᶜ
-
-* * *
 
 He turns to the far wall.
 
@@ -217,11 +201,9 @@ Makima looks at him for a long, long moment.
 
 She knows it's not the money. He knows she knows. He's rich; the Shop is full; the war cost him nothing that matters. She doesn't say so.
 
-“You can't go far without me,” she says. “Noise holds my body. I'd have to come.” ᴹᵏ
+“If you go far, I come inside or I come with you,” she says. “This body can't stay behind at the house.” ᴹᵏ
 
 “I know,” he says. “That's why I'm telling you.” ᴹ
-
-* * *
 
 She stands up.
 
@@ -239,15 +221,13 @@ He nods.
 
 He doesn't say *thank you*. He can't, right now. She doesn't seem to need him to.
 
-* * *
-
 He comes back out of the room.
 
 He's sitting on the bottom stair in the hall, in the grey before dawn, with his back against the wall. The house is silent round him.
 
 He's never felt it this silent.
 
-He can't feel Yuka. He's felt her every hour of every day since the contract, since the island, since before. Even asleep. Even across the yard. A small warm weight at the edge of him, always.
+He can't reach Yuka through the route they chose to share. He is used to knowing he can speak to her, across a yard or at the edge of sleep, if either of them opens it. He has taken that choice off her side without warning her.
 
 It isn't there.
 
@@ -257,15 +237,13 @@ It doesn't come.
 
 He stands up anyway.
 
-* * *
-
 He doesn't go upstairs.
 
 He doesn't wake her. He doesn't leave a note. He thinks about it. He stands at the bottom of the stairs and looks up toward their room, toward the windowsill, where the notebook is. Where today's number isn't written yet.
 
 He doesn't go up.
 
-He goes out the back door, into the cold, and across the yard. Makima is already there, at the bottom of the porch steps, in her own body, waiting. Beru is at the end of the porch, very still, watching.
+He goes out the back door, into the cold, and across the yard. Makima is already there, at the bottom of the porch steps, in her own body, waiting. DIO has withdrawn to the inner room for the journey; there is no second borrowed body left outside its reach. Beru is at the end of the porch, very still, watching.
 
 “My king,” Beru says. ᴮᵉ
 
@@ -276,8 +254,6 @@ Beru looks at him for a long time with all his eyes.
 “Yes, my king,” he says. ᴮᵉ
 
 He doesn't move. He doesn't stop him. But Mau feels him watching all the way across the yard, all the way to the orchard, all the way up the hill road, until the trees close behind them.
-
-* * *
 
 Upstairs, in the room where he isn't, Yuka sleeps.
 

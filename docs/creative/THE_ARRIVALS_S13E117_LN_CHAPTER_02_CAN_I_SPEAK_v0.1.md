@@ -5,29 +5,27 @@
 **Volume:** 83
 **Reading order:** 29
 **Source episode:** S13E117
-**Continuity state:** B+434. Yuka's point of view. She starts with the people she hurt on the way. Before dawn she writes the number in the notebook again ("52"). She goes to Makima at the bottom of the porch steps and, turning the rule round, asks *her*: "Can I speak?" She apologises for "I had started to trust you," and tells her she still does. Makima's answer is careful, and true. Then Mai and Maki, in the workshop, without excuses. She doesn't go to Mau with words: he's in negotiations all day with Dabura, Maru and Rimuru, and the closed door is still closed. Her plan is small and exact: dinner. Her chair. Six inches closer. His plate. Ori sees her coming and gives up the seat without a word. Yuka sits beside him. She reaches for his plate. He goes very still. And at that exact moment Beru, on the porch, says "My king," in the voice he uses for danger, and Kaisel comes down into the yard: someone at the gate.
+**Continuity state:** B+434 ("53"). Yuka apologises to Makima, then Mai/Maki. She still trusts Makima and recognises she used the accusation to hurt. She plans to begin reconnecting at dinner and talk after. Ori voluntarily gives her the seat. Yoru’s arrival interrupts before the first stolen pickle. No absolute claims that Yuka never cooks/sets tables, Maki never hugs Yuta or Beru is never loud.
 
-*When: B+434. Before dawn to dinner. Yuka wrote "52" in the notebook at four in the morning, by lamplight, because she'd worked it out: fifty-four on the day of the fight, fifty-three yesterday, which nobody wrote.*
+*When: B+434. Before dawn to dinner. Yuka writes "53" by lamplight: B+434, the day after the fight. The last written count was "56" on B+431.*
 
 She writes the number before dawn.
 
 She does it by the lamp, on the windowsill, in a room with only her in it. He slept in Ori's room last night; she heard Ori take him there, very firmly, the way Ori does things. She didn't go after them.
 
-She counts back. Fifty-six, the last one she wrote. Then the day after the yard, which nobody wrote. Then the day of the fight. Then yesterday.
+She counts back. Fifty-six, the last one she wrote. Then fifty-five on the day after the yard. Fifty-four on the day of the fight, yesterday. Today is fifty-three.
 
 She turns to a new page.
 
-*52.*
+*53.*
 
 She doesn't draw anything next to it.
 
 She looks at it for a long time. Then she closes the notebook and puts it on his side of the bed, where his pillow is. Where he'll see it.
 
-* * *
-
 Makima is on the porch steps.
 
-At the bottom, where she always is, in her own body, with her hands folded in her lap. She's been there since before light. Yuka could feel it, faintly, through the link that Ciel and Noise kept open: something sitting very still at the bottom of the steps, the way you'd sit outside a room where someone you care about is sleeping.
+At the bottom, where she always is, in her own body, with her hands folded in her lap. She's been there since before light. Yuka saw her from the landing window when she came to find the lamp. No voice announced where Makima was; she was simply there, waiting beneath the porch light.
 
 Yuka comes down the steps.
 
@@ -36,8 +34,6 @@ She stops one step above Makima.
 Makima doesn't look round. She doesn't say anything. She doesn't ask if she can speak.
 
 Yuka sits down on the step beside her.
-
-* * *
 
 They sit for a while.
 
@@ -57,15 +53,11 @@ Makima turns her head.
 
 “Can I speak?” says Yuka. ʸ
 
-* * *
-
 Makima goes very still.
 
 Yuka watches it happen. The strategist's stillness, the one that sees every piece on the board. And then something else under it. Something that looks, for just a moment, very young.
 
 “Yes,” says Makima. ᴹᵏ
-
-* * *
 
 “I said I'd started to trust you,” says Yuka. ʸ
 
@@ -79,7 +71,7 @@ She looks at her hands.
 
 She stops.
 
-“In that domain,” she says. “You held his side open for him. From inside. With everything you had. Ciel told me what it costs you.” ʸ
+“In that domain,” she says. “You helped him put the flow back. From inside. Ciel told me what you were doing.” ʸ
 
 Makima doesn't say anything.
 
@@ -88,8 +80,6 @@ Makima doesn't say anything.
 She looks up.
 
 “I'm sorry,” she says. “I still trust you. I never stopped. I just said I had.” ʸ
-
-* * *
 
 Makima looks at her for a long time.
 
@@ -105,8 +95,6 @@ She pauses.
 
 “I didn't know I had anything that could be taken back,” she says. “Until you did it.” ᴹᵏ
 
-* * *
-
 Yuka's eyes have gone hot.
 
 “I'm sorry,” she says again. ʸ
@@ -120,8 +108,6 @@ She looks out at the yard.
 Something happens at the corner of her mouth.
 
 “I understand it now,” she says. “I'm sorry it looked like something else.” ᴹᵏ
-
-* * *
 
 They sit there.
 
@@ -145,8 +131,6 @@ She looks back at the yard.
 
 “And he closed her door,” she says. ᴹᵏ
 
-* * *
-
 Yuka goes to the workshop next.
 
 Mai is already there, upstairs, on the new floor, at her bench by the big window. Maki is with her, on a stool, with a cup of tea. They both look up when Yuka comes up the stairs.
@@ -163,11 +147,9 @@ Mai puts down her tool.
 
 She doesn't say *but*. She doesn't say *I didn't know*. She doesn't say anything else at all.
 
-* * *
-
 Maki looks at her granddaughter for a long time.
 
-Then she puts her tea down and gets up off the stool and crosses the floor and puts her arms round her. Hard. The way she hugs Yuta, once a year, when nobody's looking.
+Then she puts her tea down and gets up off the stool and crosses the floor and puts her arms round her. Hard. The familiar firm hold Yuka has seen her give Yuta when he comes home tired and still tries to say he isn't.
 
 “Good,” she says, into Yuka's hair. ᴹᵃᵏ
 
@@ -189,8 +171,6 @@ She takes a breath.
 
 “I don't want him to have to say it,” she says. “I want to show him I already know.” ʸ
 
-* * *
-
 He's busy all day.
 
 She knew he would be. Dabura is at the house now, with Maru, and Rimuru has set up the long table for talks again, and Mau is at the head of it because everyone looks at him. All day. In the common room, with the doors closed, with Dabura's huge laugh coming through the walls every so often, and Rimuru's calm voice, and Mau's, very level, saying things she can't make out.
@@ -205,8 +185,6 @@ She takes her hand away.
 
 She waits for dinner.
 
-* * *
-
 The plan is very small.
 
 She thought about it all night, sitting on the kitchen floor, then lying alone in their bed. She thought about grand things. Letters. Speeches. Going into the common room in the middle of the talks and saying it in front of everyone.
@@ -217,13 +195,11 @@ What's right is small.
 
 Dinner. Her chair. Six inches closer. His plate.
 
-That's all. That's the whole plan. She'll sit beside him, where she always sat, and she'll reach over, the way she always reached, and she'll steal something off his plate. And he'll know. He'll know without her saying anything. Because it's theirs. Because nobody else in the world would understand what it means except him.
+That's all. That's the whole plan. She'll sit beside him, where she always sat, and she'll reach over, the way she always reached, and she'll steal something off his plate. And he'll know. He'll know without her saying anything. Because it's theirs. Because it belonged to their ordinary dinners long before anyone else noticed its absence.
 
 And then, after, when he knows, she'll say it. The ugly thing. All of it.
 
 But first, the plate.
-
-* * *
 
 The talks end at dusk.
 
@@ -231,17 +207,15 @@ She hears the common-room doors open. Voices in the hall. Dabura's laugh, enormo
 
 She's already in the kitchen.
 
-She's been in the kitchen for an hour. Helping Shuna, which she never does. Setting the table, which she never does. Putting the plates out. His at the head, where he'll sit, because everyone looks at him.
+She's been in the kitchen for an hour. Helping Shuna. Setting the table with an attention that makes her check the same cup twice. Putting the plates out. His at the head, where he'll sit, because everyone looks at him.
 
 Her chair beside it.
 
 She moved it six inches closer. Then six more. Then she sat in it, to check, and her knee was where his would be, and she got up again with her heart going so fast she had to hold the back of the chair.
 
-* * *
-
 Ori is sitting in it when the others come in.
 
-Of course she is. She's been sitting in it every night. Since the walk. Since the plate. Because someone has to.
+Of course she is. She's been sitting in it every night. Since the walk. Since the plate. Because she wanted to sit with him.
 
 She's swinging her legs. She's waiting for her father.
 
@@ -256,8 +230,6 @@ She slides down off the chair. She pushes it back in, very neatly, six inches cl
 And she goes back round the table, past Gojo and Milim and Umaru, to her own seat beside Frieren, and sits down, and folds her hands.
 
 Frieren, beside her, puts a hand on her head.
-
-* * *
 
 Mau comes in last.
 
@@ -277,8 +249,6 @@ He sits down.
 
 Yuka comes away from the stove.
 
-* * *
-
 She sits beside him.
 
 She doesn't say anything. She sits in her chair, six inches closer, and her knee is against his under the table, and she feels him go completely still.
@@ -291,11 +261,9 @@ Waiting.
 
 She reaches over.
 
-* * *
-
 Her hand is a few inches from his plate when Beru speaks.
 
-From the porch. Through the open kitchen door. Not loud. Beru is never loud. But in a voice she has heard him use exactly three times: in the Rulers' gate, the night before the bottom; on the porch, the night something bright looked back from the north-east; and once, a long time ago, before her.
+From the porch. Through the open kitchen door. Not loud this time. In the voice that has stopped her before: in the Rulers' gate, the night before the bottom; on the porch, the night something bright looked back from the north-east; and once, a long time ago, before her.
 
 “*My king*,” says Beru. ᴮᵉ
 
@@ -304,8 +272,6 @@ The kitchen goes silent.
 And in the yard, with a sound like a sheet being shaken out, Kaisel comes down out of the dark and lands on the grass, and turns his long head toward the gate, and stays there.
 
 Pointing.
-
-* * *
 
 Yuka's hand is still out over his plate.
 
@@ -322,8 +288,6 @@ She hears Mau say, in the doorway, very quietly, not to her:
 And then, from the gate, out of the dark, a voice she's only heard once, at a table by the sea:
 
 “Good evening. I hope I'm not interrupting dinner.” ʷᵈ
-
-* * *
 
 Yuka looks at her hand.
 

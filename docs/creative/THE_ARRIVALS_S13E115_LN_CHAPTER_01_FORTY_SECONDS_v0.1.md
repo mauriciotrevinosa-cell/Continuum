@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 23
 **Source episode:** S13E115
-**Continuity state:** B+433, the first phase of the fight. Dabura's light moves faster than sound, faster than the eyes can follow; Mau survives on Infinity while the eyes and Noise read the light and start building copies of what they see. Infinity holds the first exchanges. Dabura is delighted and gets *interested*, which is bad: he stops being careless. Then he finds the trick: the wordless intent can reach Mau's cursed energy itself and cut it, just for an instant, and in that instant Infinity thins. He finds the thin place on Mau's right side, the one Gojo warned about, and goes through it. Mau takes the first real hits. The daggers and the hands (one third of the points) work in the gaps. RCT is always on, so the wounds close, but the hits are getting closer together. On the ridge, Gojo: "That's my Infinity." Frieren: "He's alive because he hid first." No domains yet.
+**Continuity state:** B+433, first phase. Light meets Infinity. Dabura’s intent attacks the active CE operation locally; this is the first real interruption, not a pre-existing gap that admits attacks because Mau needs air. The late physical right guard identified in Gojo’s controlled drill costs him. Noise has read the engraved pattern but is calibrating release/aim before firing near observers. Wounds heal while control and processing remain costly.
 
 *When: B+433. The first minutes. On the ridge, Yuka has both hands over her mouth now.*
 
@@ -25,13 +25,9 @@ He looks at Dabura.
 
 “Huh,” says Dabura. ᴰᵇ
 
-* * *
-
 “Again,” says Mau. ᴹ
 
 Dabura grins.
-
-* * *
 
 It's fast.
 
@@ -47,23 +43,19 @@ He doesn't need to. Not yet. He stands in the middle of the quarry with the ligh
 
 *More than he's going to give us.* ᴺ
 
-* * *
-
 The eyes read it.
 
 That's what they do. That's what they've always done, since Gojo's eyes became his: see the shape of a technique, the flow, the *how*, and give it to Noise, and let Noise build. He's copied things that way his whole life. Sukuna's cuts. Makima's Bang. The way Maki's body listens.
 
-The light is hard.
+The engraved technique is read. Using the model at this speed is another matter.
 
-It's hard because it's fast, and because it's simple. There's nothing to it. No elaborate shape, no flow to follow. Just light, made, and sent, and arriving. The eyes look at it the way you'd look at the sun, and the information comes back too bright to hold.
+The eyes can show him the beginning of an emission. By the time his hand follows the new route, the original has already crossed the quarry. Noise is matching the construction to Mau's body while Mini Ciel separates what is happening now from the image that arrived too late. A copied release that points a fraction wide would carve the ridge instead of his opponent. He needs the aiming clean before he sends it.
 
-*I've got the shape of the making*, says Noise. *Not the sending. The sending's too fast. Give me more.* ᴺ
+*Pattern read*, says Noise. *Making works. Aim isn't clean. More samples.* ᴺ
 
 He gives it more.
 
 He stands there and lets Dabura throw everything.
-
-* * *
 
 On the ridge, Gojo has stopped eating.
 
@@ -83,8 +75,6 @@ Gojo looks at her.
 
 “So are you,” says Frieren. ᶠ
 
-* * *
-
 On the quarry floor, Dabura is having the time of his life.
 
 Mau can see it. Through the eyes, through the sense turned low, through everything. Dabura is *delighted*. Every line of light that stops against the Infinity makes him laugh. He comes in closer, and closer, trying angles, trying speeds, trying everything, the way a child tries every key on a ring to see which one opens the door.
@@ -102,8 +92,6 @@ Mau feels it happen. The change. The looseness goes out of the way Dabura moves,
 *Jin-Woo said make him bored*, says Ciel. *You made him interested.* ᶜ
 
 “I *know*, Ciel.” ᴹ
-
-* * *
 
 Dabura stops.
 
@@ -125,8 +113,6 @@ He tilts his head.
 
 “What happens,” he says, “if I touch *that*?” ᴰᵇ
 
-* * *
-
 The other thing comes up in him.
 
 The thing with no word. Mau feels it before he sees it, before the eyes can read it: a pressure, enormous, pure, *wanting*. Wanting him dead. Not angrily. Not cruelly. Just wanting, the way water wants to go downhill.
@@ -141,21 +127,19 @@ The wanting touches it.
 
 And for an instant, for less than an instant, the flow *stops*.
 
-* * *
-
 It's like a hand on a tap.
 
 That's the only way he'll ever be able to describe it afterward. Something reaches in and closes the tap, for a heartbeat, and the cursed energy that's always flowing out of him into the Infinity just—doesn't.
 
 And the Infinity goes thin.
 
-Not everywhere. Not all at once. It goes thin first where it was already thin. On the right side. Where he's been letting more through so he can feel the air with Maki's sense. Where Gojo tapped him three times in the field. Where Gojo said *Dabura won't give you forty seconds*.
+Not everywhere. Not all at once. Dabura concentrates the interference on the right. A narrow part of the active formula fails before the rest re-forms. This is no harmless contact admitted by the filter. It is an attack on the operation maintaining the distance.
+
+Mau's Infinity had been whole a moment before. His physical answer is late on the side Gojo kept finding in the drill. Where Gojo said *Dabura won't give you forty seconds*.
 
 He doesn't.
 
 He doesn't give him four.
-
-* * *
 
 The light comes through.
 
@@ -177,8 +161,6 @@ Dabura watches it close.
 
 His eyes go very wide.
 
-* * *
-
 “You *heal*,” he says. ᴰᵇ
 
 “So do you,” says Mau. ᴹ
@@ -194,8 +176,6 @@ Something goes across Dabura's face. Too fast to read. Then it's gone.
 He looks at Mau for a long moment.
 
 Then he laughs, short and sharp and delighted, and comes in.
-
-* * *
 
 Now it's a fight.
 
@@ -213,7 +193,27 @@ Dabura makes a sound.
 
 Not pain. Surprise.
 
-* * *
+Mau keeps the dagger shallow and turns the edge out before Dabura can trap his wrist. His other hand is already coming under the elbow. He wants the arm across Dabura's own line of fire.
+
+The intent shifts with it.
+
+Mau feels the operation on his right fail again and lets his knee fold instead of trying to win the grip. Light takes the stone above his head. He drives the dagger's pommel into the inside of Dabura's wrist and releases the blade into inventory before the answering hand can break it against him.
+
+The grip closes on nothing.
+
+Mau's left dagger is real a breath later. He puts it across the forearm, turns sideways and takes a cut along his cheek when Dabura brings the knee up instead of chasing the missing weapon.
+
+For half a step they are shoulder to shoulder. Neither has room for the large attack. Mau catches the knee with Authority, using mana while the innate channel is interrupted. He does not stop Dabura outright; he changes the landing enough to put the next line of light into the floor.
+
+Dabura's free hand catches Mau beneath the ribs.
+
+He feels the impact through both hearts. His feet leave the stone. He has just enough space to recover Limitless, draw with Blue and make the fall into a short swing around a broken pillar. The next beam takes the pillar apart behind him.
+
+When he comes back into range, he aims for the same wrist.
+
+Dabura moves it before he arrives.
+
+They're learning each other. The dagger is no longer a surprise, and the interruption is no longer something Mau can afford to wait to feel.
 
 They go back and forth across the quarry floor.
 
@@ -226,8 +226,6 @@ The wanting comes. The tap closes. The Infinity thins. He has less than a heartb
 Over and over.
 
 The holes start coming faster.
-
-* * *
 
 One in his side. Closes.
 
@@ -249,13 +247,11 @@ A pause.
 
 *Not long*, says Ciel. ᶜ
 
-* * *
-
-*I need more time*, says Noise. *I've got the making. I've almost got the sending. Give me—* ᴺ
+*Aim nearly clean*, says Noise. *One more crossing—* ᴺ
 
 “I *know*,” says Mau. ᴹ
 
-He's breathing hard. He notices that from a distance. His heart is going very fast.
+He's breathing hard. He notices that from a distance. His living pulse is going very fast against the Black Heart's heavier rhythm.
 
 And under everything, at the back of everything, the noise.
 
@@ -268,8 +264,6 @@ The room he emptied for Fern. The year in his hands. The plate. The chair. *You 
 All of it.
 
 Coming up.
-
-* * *
 
 The tap closes.
 
@@ -287,8 +281,6 @@ He stands ten paces off, light quiet in him, looking down at Mau on one knee on 
 
 He isn't smiling.
 
-* * *
-
 On the ridge, Yuka makes a sound.
 
 He can't hear it. He's too far, and the door's closed. But he looks up, because he can't not, because he always looks up, and she's standing on the edge of the quarry with both hands over her mouth, and her whole body is leaning forward, toward him, like someone about to step off a cliff.
@@ -297,11 +289,9 @@ Cross has his hand on her arm.
 
 Holding her back.
 
-* * *
-
 Mau looks away.
 
-He stands up. The hole is closed. His side is whole. His heart is going very fast.
+He stands up. The hole is closed. His side is whole. His living pulse is going very fast against the Black Heart's heavier rhythm.
 
 Dabura is still looking at him.
 

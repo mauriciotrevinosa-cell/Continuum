@@ -5,13 +5,15 @@
 **Volume:** 83
 **Reading order:** 22
 **Source episode:** S13E114
-**Continuity state:** B+433, dawn, at the quarry where Mau fought Sukuna. Watchers on the ridge: Gojo, Frieren, Jin-Woo, Maru, Tsurugi. Yuka comes too, a little apart, because she promised every one, even now; Cross stands beside her. Makima is at Mau's shoulder (she lives in him). Mau senses one more presence far off, hidden, watching; Makima recognises War. Yoru is there to watch. Dabura arrives, reads what Mau's body gives off, and finds almost nothing: a little cursed energy, a little mana, Frieren's concealment. He laughs. Tsurugi lied; the king is nothing. Mau lets it go: the concealment drops, and the cursed energy and mana come out of him all at once, the way Frieren taught him to hide them. Dabura stops laughing. On the ridge, Frieren: "I taught him that." Gojo: offended. The fight begins.
+**Continuity state:** B+433 dawn, the scouted quarry. The house has checked the ground and approaches. Mau expressly allows Yoru to observe from the far rim. Direct observation reads Dabura’s active RCT and engraved technique/barrier patterns; it does not show an unviewed memory of Mahoraga. Mau deliberately unfolds a large chosen CE/mana output, not an impossible literal total of infinite mana. Makima stays nearby; the duel begins.
 
 *When: B+433. Dawn. Nobody wrote in the notebook again. It's still open to "56" on the windowsill of an empty room.*
 
 The quarry hasn't changed.
 
-He thought it might have. It's been a long time. But it's the same: a great bite out of the hills, grey stone in tiers going down, the floor of it flat and broken and scattered with the pieces of things. Some of the pieces are his. He knows exactly where.
+He thought it might have. It's been a long time. But it's the same: a great bite out of the hills, grey stone in tiers going down, the floor of it flat and broken and scattered with the pieces of things. He recognises the place his body struck. The loose stone is different after rain and seasons; the old outline of the ground is not.
+
+Gojo and Jin-Woo have already checked the quarry and the paths behind it. Bellion's scouts hold the approaches; the watchers have a marked way back if the fight reaches their ridge.
 
 He stands on the floor of the quarry in the grey light and looks at the place where he lay with his shadows holding him together.
 
@@ -21,21 +23,17 @@ He stands on the floor of the quarry in the grey light and looks at the place wh
 
 He looks up.
 
-* * *
-
 They're on the ridge.
 
 He can see them against the sky: small dark shapes on the lip of the quarry, high up, where Gojo said they'd be. Gojo himself, sitting on a rock with his legs crossed and his blindfold off, eating something. Frieren beside him, standing, staff in hand. Jin-Woo, very still, a little apart. Maru, upright as always. Tsurugi, who asked to come and wouldn't be told no.
 
 And further along the ridge, a little apart from the others, two more.
 
-He doesn't need the eyes. He doesn't need the sense; it's turned down so low it's almost off, and anyway the door's closed. He'd know her anywhere. Against any sky.
+He doesn't need the eyes. He doesn't need the sense; it's turned down so low it's almost off, and the private link is closed. He'd know her anywhere. Against any sky.
 
 The only colour in the world, standing on the edge of the quarry with her arms wrapped round herself.
 
 Cross beside her.
-
-* * *
 
 She came.
 
@@ -51,8 +49,6 @@ And she's standing next to Cross.
 
 He looks away.
 
-* * *
-
 Makima is at his shoulder.
 
 She came down with him, the only one who could. She lives in him. Noise holds her body; she can't be far. She stands a step behind him on the broken floor of the quarry with her hands folded in front of her, the way she stands everywhere, and looks at the north end of the quarry where the road comes in.
@@ -67,8 +63,6 @@ He lets the sense up, just a little, just for a moment.
 
 She's right.
 
-* * *
-
 Far off. Further than the ridge. Hidden, carefully, the way he hides. But not well enough, not from the eyes, not from Maki's sense, not now. A presence on the far rim, very still, watching the quarry floor.
 
 He knows it.
@@ -79,11 +73,15 @@ He's felt it before, at a table by the sea, with Asa looking out through the sam
 
 Yoru.
 
-* * *
-
 He doesn't say anything.
 
-*Seventy*—no. He doesn't know the number. Nobody wrote it this morning. He thinks it's fifty-four. Fifty-four days, and Yoru is already here, on the rim, watching. Not to fight. The contract doesn't allow that; she can't harm anyone in the house, she can only watch.
+*Seventy*—no. He doesn't know the number. Nobody wrote it this morning. He thinks it's fifty-four. Fifty-four days, and Yoru is already here, on the rim, watching. Not to fight. The agreement still bars her attacks and killings. Watching this fight is a separate permission.
+
+He lifts a hand toward the far rim.
+
+“Stay there. You can watch from there.” ᴹ
+
+The distant figure inclines its head. He does not offer a place on the family's ridge.
 
 So she's watching.
 
@@ -92,8 +90,6 @@ So she's watching.
 He knows why. He knows exactly why. She wants to see what he is. What he can do. She wants to see him fight something that wants him dead, and see where he cracks.
 
 He looks away from the rim.
-
-* * *
 
 Dabura comes at sunrise.
 
@@ -107,23 +103,19 @@ He stops fifty paces away.
 
 He looks at Mau.
 
-* * *
-
 The eyes go into him and come back full.
 
 Light. That's the first thing. Not sunlight; the other kind. The kind the eyes read as *light* the way they read Infinity as *distance*. It's in him, all through him, packed so tight it's almost solid. Waiting.
 
 And under it, the other thing. The thing with no word. Pure. Pressing.
 
-And under *that*: everything. Reverse cursed technique, turned on itself inside him, steady, the way Mau's is now. A shape folded very small at the centre of him: a domain, never opened, waiting. And all through his body, in the way his weight sits, in the angle of his shoulders, the shape of things he learned from something that was always just a little stronger, always changing to meet him.
+And under *that*, the flow turning back on itself. Reverse cursed technique. He can see it working now. The engraved pattern gives Noise a route to examine; it does not give Mau the hours Dabura spent learning to use it.
 
-The eyes find that, and stop.
+There is a barrier pattern too, waiting for a hand sign and an answer from the space around him.
 
-There's a wheel in there. Not a real one. The shadow of one. The shape a great slow wheel leaves in someone who fought against it for a very long time.
+*Read*, says Noise. *Testing the execution.* ᴺ
 
-*Mahoraga*, says Noise, very quietly. *He fought Mahoraga. Her Mahoraga, maybe. Or one like it. A long time. And he doesn't remember.* ᴺ
-
-* * *
+Maru supplied the gap in Dabura's memory. Nothing in a stance supplies a picture of the missing fight. Mau watches the reflexes instead: the shoulder that shifts before his gaze does, the fingers already turning toward a guard he has not needed yet. He would like to know what taught them.
 
 Dabura is reading him too.
 
@@ -139,15 +131,13 @@ That's what Frieren taught him. A long time ago, on a road, before anything was 
 
 He's been hiding it so long he doesn't remember not hiding it.
 
-* * *
-
 Dabura laughs.
 
 It's a big laugh. Loud, and genuinely amused, and a little disappointed, the way you'd laugh at a joke that wasn't as good as you'd been promised. It goes up the sides of the quarry and comes back.
 
 “*That*?” says Dabura. ᴰᵇ
 
-His voice is deep. Easy. He speaks the language the way his brother's people do, carefully, but there's nothing careful in the way he says it.
+His voice is deep. Easy. He speaks the language the way the twins do, carefully, but there's nothing careful in the way he says it.
 
 “*That's* the king?” he says. “The boy Tsurugi told me about? The strongest in this world?” ᴰᵇ
 
@@ -158,8 +148,6 @@ He laughs again.
 He looks up at the ridge. At Tsurugi.
 
 “You *lied*,” he calls. Not angry. Delighted. Like he's caught a child in a fib. “There's nothing there at all!” ᴰᵇ
-
-* * *
 
 On the ridge, Tsurugi has gone pale.
 
@@ -175,25 +163,21 @@ He thinks about the closed doors. About the quiet in his head where she used to 
 
 *Nothing there at all.*
 
-* * *
-
 He lets it go.
 
-Not all at once. He does it the way Frieren taught him to hide it, only backwards. A long time ago, on a road, she showed him how to fold everything away, layer by layer, until only a little showed. He's never unfolded it. Not all of it. Not since.
+Not all at once. He does it the way Frieren taught him to hide it, only backwards. A long time ago, on a road, she showed him how to fold everything away, layer by layer, until only a little showed. Today he unfolds the trained concealment deliberately, while Dabura is standing still enough to read the difference.
 
 He unfolds it.
 
 Layer by layer.
 
-The cursed energy first. Up out of wherever he keeps it, the reserves that the eyes don't drink from anymore, all of it, coming up through him and out into the morning like water out of a broken dam.
+The cursed energy first. Up out of wherever he keeps it, the reserves that the eyes no longer spend down in ordinary use, a chosen surge coming up through him and out into the morning like water out of a broken dam.
 
 Then the mana. The Black Heart's mana, the bottomless kind, the kind that has never once run out. Up beside the cursed energy, not mixed, side by side, the way it sits in the ring on the katana.
 
-He doesn't do anything with them. He doesn't shape them. He doesn't make a technique. He just lets them *out*. Lets them be seen.
+He doesn't do anything with them. He doesn't shape them. He doesn't make a technique. He lets Dabura see an output he has chosen to sustain. The Black Heart has no empty bottom to show him; Mau's body still has a limit to what it can carry at once.
 
 The quarry fills.
-
-* * *
 
 Dabura stops laughing.
 
@@ -213,8 +197,6 @@ Not the laugh. Not the amused, disappointed thing. A different smile. Slow, and 
 
 “*Oh*,” says Dabura. ᴰᵇ
 
-* * *
-
 On the ridge, Frieren lets out a breath.
 
 She turns to Gojo, sitting on his rock with a sweet halfway to his mouth, and her face, which almost never does anything, is doing something.
@@ -229,7 +211,7 @@ Gojo looks at her.
 
 She looks back down at the quarry, at Mau standing in the middle of all that cursed energy and mana, at Dabura with his slow wide smile.
 
-“He's never let all of it go before,” she says. “Not in front of me.” ᶠ
+“He's letting him see it on purpose,” she says. “Before the first blow.” ᶠ
 
 Gojo puts the sweet in his mouth. He chews. He looks offended.
 
@@ -246,8 +228,6 @@ Gojo puts the sweet in his mouth. He chews. He looks offended.
 “And I taught him to *hide* it,” says Frieren. ᶠ
 
 Jin-Woo, a little way along the ridge, closes his eyes in an expression of deep suffering.
-
-* * *
 
 On the quarry floor, Dabura rolls his shoulders.
 
@@ -271,11 +251,9 @@ Dabura laughs again. Short this time. Real.
 
 “I'm going to enjoy this,” he says. ᴰᵇ
 
-* * *
-
 Makima steps back.
 
-She doesn't have to. Mau doesn't ask. She just takes three steps back, out of the line between him and Dabura, and stands there, with her hands folded. She can fight. She lives in him; whatever Yoru's terms are, whatever anyone's terms are, she's his. But not yet. Not unless he needs her.
+She doesn't have to. Mau doesn't ask. She just takes three steps back, out of the line between him and Dabura, and stands there, with her hands folded. She can fight. She lives in him; she is bound to his living body, not an observer he can leave on the ridge. But not yet. Not unless he needs her.
 
 He feels her through the thread, at his back.
 
@@ -290,8 +268,6 @@ She's still there. Hand over her mouth. Eyes on him.
 He looks back at Dabura.
 
 “Go,” he says. ᴹ
-
-* * *
 
 The light comes.
 

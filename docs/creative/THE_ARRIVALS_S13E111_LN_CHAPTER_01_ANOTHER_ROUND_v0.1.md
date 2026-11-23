@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 15
 **Source episode:** S13E111
-**Continuity state:** B+430 ("57"). Gojo calls in the rematch he offered after the gate ("When Shoko clears you. Another round?", V80 #28). He says it's training for Dabura. It is, partly. Out past the river, on open ground, the two of them, with nobody watching but Beru from a distance. Gojo reads him the whole time and talks the whole time. Mau is fast and good and somewhere else, and Gojo lands touches he shouldn't. Gojo asks what's in his pocket. Mau doesn't answer. Gojo stops the fight, sits on the grass, and tries the real question. Mau gives him the technical answers to everything and nothing else. Gojo goes back to the house and, instead of pushing, tells Shoko. No domains; Infinity, Blue, Red, Shrine in lines, daggers, hands; nothing at full.
+**Continuity state:** B+430 ("57"). Gojo calls in the rematch. For the controlled drill, both selectively admit the partner’s physical training contact while hostile techniques still meet Infinity. Gojo finds Mau’s right guard late when his attention drifts; distraction does not switch neutral Infinity off. Mau answers emotional questions with technical explanations. Gojo tells Shoko, who is a mother figure to Mau and trusted by Yuka.
 
 *When: B+430. Mid-morning to noon, on the open ground past the river. Yuka wrote "57". She was in the yard with Cross when Mau and Gojo left; she waved.*
 
@@ -31,8 +31,6 @@ Through the kitchen window, in the yard, Yuka is on the grass with Cross, the wh
 
 “Okay,” he says. ᴹ
 
-* * *
-
 They go past the river.
 
 Past the orchard, down the long field, over the ford, and up onto the open ground beyond it where the grass is short and nothing grows taller than your knee for a long way in every direction. Kamish is there sometimes, sunning himself. Not today. Today it's empty.
@@ -45,21 +43,23 @@ Beru follows them to the river and stops on the bank.
 
 “I will stay here,” Beru agrees, and sits down on the bank, and folds his wings, and doesn't take his eyes off them. ᴮᵉ
 
-* * *
-
 They stand twenty paces apart.
 
 Gojo takes his blindfold off altogether and puts it in his pocket. The eyes come out into the morning, very bright. He rolls his shoulders. He looks happy.
 
 “Rules,” he says. “No domains. Nothing at full. If one of us breaks something that doesn't grow back, Shoko kills both of us and makes the other one watch.” ᴳ
 
+“Hands and the daggers?” Mau asks. ᴹ
+
+“Pass through both Infinities for the drill. Stop at contact. Techniques still get stopped.” Gojo holds up his palm until Mau gives him a nod. “I want to see your guard, not spend the morning punching distance.” ᴳ
+
+Mau makes the narrow exception on his side. Neither barrier switches off. They have agreed which training contacts it can admit.
+
 “Fine.” ᴹ
 
 “Say *go*,” says Gojo. ᴳ
 
 “Go,” says Mau. ᴹ
-
-* * *
 
 It's fast.
 
@@ -71,7 +71,7 @@ Gojo laughs.
 
 Mau goes in.
 
-Daggers. Real ones, his own, out of the shadow. Short, close, under Gojo's guard where Infinity is thinnest because Gojo has to let some things through or he couldn't touch anything. Gojo turns them. Mau turns the turn. Red off his left hand, tiny, a flick, to push Gojo's weight back half a step. Shrine in a line along the grass where Gojo is about to put his foot.
+Daggers. Real ones, his own, out of the shadow. Short, close, through the permitted space, under Gojo's physical guard. The real edges stop before contact; a point held against cloth counts. Gojo turns them. Mau turns the turn. Red off his left hand, tiny, a flick, to push Gojo's weight back half a step. Shrine in a line along the grass where Gojo is about to put his foot.
 
 Gojo doesn't put his foot there.
 
@@ -81,11 +81,9 @@ Gojo doesn't put his foot there.
 
 “I can see *everything*, baby,” says Gojo, and taps him on the forehead. ᴳ
 
-* * *
-
 That's the first one.
 
-The tap. A finger, through Mau's Infinity, at the exact moment Mau was looking at the line of Shrine in the grass instead of Gojo's hand. Not hard. A tap. The way Maki taps him with the staff.
+The tap. A permitted finger at the exact moment Mau was looking at the line of Shrine in the grass instead of Gojo's hand. Not hard. A tap. The way Maki taps him with the staff.
 
 Mau steps back.
 
@@ -93,25 +91,21 @@ He shouldn't have been looking at the grass. He knows where the grass is. He has
 
 “Again,” says Gojo. ᴳ
 
-* * *
-
 They go again.
 
 It's good. It is good. Mau can feel how good it is: his new body doing what he asks, his left arm as strong as his right, Maki's sense under everything feeling the air move before Gojo does. He's better than he's ever been. He knows it. Gojo knows it.
 
 And Gojo taps him again.
 
-On the shoulder this time. Through the Infinity, in the half second where Mau's attention flickered somewhere else and Infinity flickered with it.
+On the shoulder this time. Past Mau's late right guard in the half second when his attention went somewhere else. The agreed contact passes; the Red behind Gojo's other hand still stops where it should.
 
 “Where'd you go?” says Gojo. ᴳ
 
 “Nowhere.” ᴹ
 
-“You went somewhere. Your Infinity went thin on the right. Like a door left open.” ᴳ
+“You went somewhere. Your right hand was late. Again.” ᴳ
 
 Mau doesn't answer. He goes in again.
-
-* * *
 
 The third tap is on the chest.
 
@@ -129,8 +123,6 @@ Mau steps back. Out of reach.
 
 He doesn't answer.
 
-* * *
-
 Gojo lowers his hand.
 
 He looks at Mau for a long moment. Then he sits down on the grass. Just sits, cross-legged, in the middle of the open ground, with the sun on him and the river far behind and Beru a dark shape on the bank.
@@ -147,13 +139,11 @@ Gojo waits.
 
 After a while, Mau sits.
 
-* * *
-
 “So,” says Gojo. ᴳ
 
 He's pulling up blades of grass and laying them in a row on his knee. He doesn't look at Mau.
 
-“Your Infinity goes thin on the right every forty seconds or so,” he says. “Your Shrine's clean but you're putting it where she'd stand if she were here. You keep checking the river. Your heartbeat goes up every time you think about something, and I don't know what the something is, but it isn't me and it isn't Dabura.” ᴳ
+“You lose track of your right guard every forty seconds or so,” he says. “Your Shrine's clean but you're putting it where she'd stand if she were here. You keep checking the river. Your heartbeat goes up every time you think about something, and I don't know what the something is, but it isn't me and it isn't Dabura.” ᴳ
 
 Mau doesn't say anything.
 
@@ -163,15 +153,13 @@ He lays another blade of grass in the row.
 
 “So,” he says again. “What's going on?” ᴳ
 
-* * *
-
 Mau thinks about it.
 
 He thinks about it properly, the way he promised Yuka he'd always think about things. He looks for the answer.
 
 And what comes out is:
 
-“The right side's thin because I'm running Infinity selectively,” he says. “Since Mini Ciel came back. I'm letting more through on the right so I can feel the air with Maki's sense. I haven't balanced it yet. Ciel says it'll take another week.” ᴹ
+“I'm checking two streams on the right,” he says. “The reconstructed sense and what the eyes are showing. I'm late choosing the physical response. Ciel and I are adjusting the priority.” ᴹ
 
 Gojo stops pulling grass.
 
@@ -179,7 +167,7 @@ Gojo stops pulling grass.
 
 “Mau—” ᴳ
 
-“The heartbeat's the points,” says Mau. “My body's still learning them. Jin-Woo said it'd take a month. It goes up when I move fast. It's normal.” ᴹ
+“The heartbeat could be the points,” says Mau. “My body's still learning them. Jin-Woo wanted a month to settle. I've been moving fast.” ᴹ
 
 Gojo looks at him.
 
@@ -192,8 +180,6 @@ Mau is quiet for a moment.
 “What does it say?” ᴳ
 
 Mau doesn't answer.
-
-* * *
 
 Gojo looks at him for a very long time.
 
@@ -209,11 +195,9 @@ He tips his head back further.
 
 “And not one word,” he says, “about what's actually going on.” ᴳ
 
-* * *
-
 Mau doesn't say anything.
 
-He looks at the river. At Beru on the bank. At the long field going back up to the orchard and, past it, very small, the house. He can see the yard from here, if he lets the sense go out. He doesn't let it.
+He looks at the river. At Beru on the bank. At the long field going back up to the orchard and, past it, very small, the house. He could ask Beru for the view back toward the yard. He doesn't.
 
 “I'm fine,” he says. ᴹ
 
@@ -233,8 +217,6 @@ He stands up.
 
 He holds out his hand to pull Mau up.
 
-* * *
-
 Mau takes it.
 
 Gojo pulls him up, and doesn't let go straight away. He holds Mau's hand a moment longer, the way you'd hold someone's wrist to feel their pulse.
@@ -243,23 +225,19 @@ Gojo pulls him up, and doesn't let go straight away. He holds Mau's hand a momen
 
 He lets go.
 
-“Dabura won't give you forty seconds,” he says. “He won't give you four. When your Infinity goes thin on the right, he'll be inside it before you've noticed you looked away.” ᴳ
+“Dabura won't give you forty seconds,” he says. “He won't give you four. If he finds a way around Infinity, you won't have the time I gave you to remember your right hand.” ᴳ
 
 He puts the blindfold back on.
 
 “Think about that,” he says. “With numbers, if you like.” ᴳ
 
-* * *
-
 They walk back.
 
-Beru falls in beside them at the river, without saying anything, and walks on Mau's right, where the Infinity is thin. Mau notices. He doesn't say anything either.
+Beru falls in beside them at the river, without saying anything, and walks on Mau's right, where his guard has been late. Mau notices. He doesn't say anything either.
 
 At the orchard, Gojo peels off. He says something about lunch. He goes up through the trees toward the house, whistling.
 
 He doesn't go to lunch.
-
-* * *
 
 Shoko is in the clinic, doing her inventory.
 
@@ -285,8 +263,6 @@ Shoko puts her clipboard down.
 
 “Then what,” she says. ˢʰ
 
-* * *
-
 Gojo is quiet for a long time.
 
 “He's doing what I did,” he says at last. “Before. Answering the question next to the question.” ᴳ
@@ -309,15 +285,13 @@ Gojo looks back out of the window. At the yard. At Yuka, laughing, with her hand
 
 He stands up.
 
-“You're her mother,” he says. “Here. Whatever you call it. You're the one she'd hear it from.” ᴳ
+“He's your son,” he says. “Here. Whatever the chart calls it. You know him, and she trusts you. You might get a conversation I couldn't.” ᴳ
 
 He goes to the door. He stops in it.
 
 “He touches a note in his pocket,” he says. “From Ori. Every time it gets bad. He doesn't know he's doing it.” ᴳ
 
 And he goes.
-
-* * *
 
 Shoko sits at her desk for a long time after he's gone.
 

@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 28
 **Source episode:** S13E117
-**Continuity state:** B+433, from the ridge to night. Yuka's point of view. What she saw from the ridge: Mau on his knees, Mau getting up, and Makima walking into a domain to hold his thin side open while Noise strained to keep her there. She understands, too late, what Makima is to him: a friend standing in the way, not a rival. The comparison she made in the yard was unfair, and she knew it was unfair while she said it. When the fight ends, she tries to go down. Cross holds her arm and tells her not to: he doesn't need her, look at them, she saw, stay. And this time she sees it: Cross wedging himself in, using her hurt. She takes her arm back. She doesn't go down; Mau won't look up and she can't face him in front of everyone. At home she asks Shuna for the plate Shuna kept. Shuna gives it to her: two days old, the pickles still set aside on her side, untouched. Yuka sits on the kitchen floor with it.
+**Continuity state:** B+433, Yuka viewpoint. Ciel reports the domain work through her independent channel. Yuka understands her accusation against Makima was unfair, recognises Cross exploiting her distress and takes back her arm. She goes home before the quarry party; the rest of the household has not vanished. Shuna supplies the B425 meal kept cold, now eight days old, and speaks with her. Yuka wants to reach Mau first, then hear his part, not substitute knowing his plate for knowing every feeling.
 
 *When: B+433. The fight seen from the ridge, then the afternoon and night. Nobody wrote in the notebook today either.*
 
@@ -23,8 +23,6 @@ She saw him put Dabura through a wall.
 
 And then the world went white.
 
-* * *
-
 She couldn't see inside the domain.
 
 Nobody could. It was just light, a dome of it on the quarry floor, pure and blinding, with Mau inside it and Dabura inside it and nothing to look at but white.
@@ -37,15 +35,13 @@ She couldn't feel him either. The door was closed. She stood on the ridge and re
 
 A pause.
 
-*Makima's helping*, said Ciel. *From inside. Noise pulled her body back in the instant the domain opened; out there the sure hit would have broken it and gone for her. She's holding his right side open from in here. Where it's thin. So the tap can't close there.* ᶜ
-
-* * *
+*Makima's helping*, said Ciel. *We withdrew the body before closure. She's sharing the reconnection on the right. It still gets interrupted. It comes back sooner.* ᶜ
 
 She didn't understand.
 
 *From inside*, she said. *How—* ʸ
 
-*The way she held the weight in the gate*, said Ciel. *Standing where the tearing is. With everything she has. She knows what it costs her. She's doing it anyway.* ᶜ
+*The way she held the weight in the gate*, said Ciel. *The same working place, with his consent. Keeping that part steady while we sort the rest.* ᶜ
 
 And then a stain of dark spread through the white from the inside, and the white cracked like ice, and the domain broke, and the quarry came back, and she saw them.
 
@@ -55,19 +51,15 @@ And at his right shoulder, with one hand on it, Makima.
 
 Holding on.
 
-* * *
-
 She stood on the ridge and looked at them.
 
-At Makima, the best strategist her world ever had, who controlled everyone, who had never once in her life done anything for anyone that wasn't for herself. Holding the thin place on Mau's right side open from inside him, in the middle of a domain of light that could erase stone, with everything she had.
+At Makima, who had once tried to take Yuka's place by removing her, now doing the work Mau had trusted her to share. Holding the thin place on Mau's right side open from inside him, in the middle of a domain of light that could erase stone, with everything she had.
 
 So he wouldn't die.
 
 *Standing in the way.* She doesn't know where the words come from. They just arrive, the way true things do.
 
 She understands it now.
-
-* * *
 
 *You'd rather have her.*
 
@@ -79,15 +71,13 @@ She said it like an accusation. Like it was something they were doing to her.
 
 She looks at Makima now, at Mau's shoulder, in the middle of the carved quarry. Makima, whose face crumpled in the yard like a dog that's been told off. Makima, who hid behind him.
 
-Makima, who has nobody. Yuka has always known that, somehow, without anyone saying it. Makima has no one in this world except the man she's bound to.
+Makima, who has only started learning what to do when someone chooses her company. Mau was the first. Yuka has seen the awkward attempts with DIO and Ciel too; she knew those small beginnings mattered before she threw her accusation at them.
 
 Makima, who is his friend.
 
 That's all. That's all it ever was. A friend. Standing in the way.
 
 And Yuka knew. That's the worst part. Standing in the yard, saying it, she *knew* it wasn't true. She said it anyway. Because it was the only thing she could find to throw that would hurt as much as the closed door.
-
-* * *
 
 The fight ends.
 
@@ -100,8 +90,6 @@ And Mau's hand, held out. And Dabura taking it.
 She's moving before she knows it. Toward the edge. Toward the long tiers going down into the quarry. Toward him.
 
 Cross's hand closes on her arm.
-
-* * *
 
 “Don't,” says Cross. ᶜʳ
 
@@ -123,8 +111,6 @@ His hand tightens.
 
 “You don't have to keep going to him,” he says. “You don't have to keep being the one who goes. Stay here. With me. I was there when it was bad. I'm still here.” ᶜʳ
 
-* * *
-
 She looks at him.
 
 At his hand on her arm. At his face, hard and closed and not very good at hiding anything, which he thinks he is.
@@ -142,8 +128,6 @@ He's been doing it for days, she thinks. Standing close. Waiting at the posts. T
 She didn't see it.
 
 She sees it now.
-
-* * *
 
 “No,” she says. ʸ
 
@@ -163,8 +147,6 @@ Her voice is shaking. She doesn't care.
 
 “He's my *husband*,” she says. ʸ
 
-* * *
-
 Cross doesn't say anything.
 
 His face does something. Too fast to read. Then it closes, hard, like a door.
@@ -179,8 +161,6 @@ She takes a step toward the edge.
 
 And stops.
 
-* * *
-
 She can't go down.
 
 Not like this. Not in front of everyone. Not to a man who won't look up at her, who closed a door on her, who stood in a yard while she said *I'll stop bothering you* and didn't say a word.
@@ -191,17 +171,15 @@ She can feel him not looking at her. She knows he knows exactly where she is. He
 
 And she can't blame him.
 
-* * *
-
 She goes home.
 
 Not with the others. Before them. Alone, down the back of the ridge and over the hills, the long way, fast, so she won't have to walk beside anyone.
 
-The house is almost empty when she gets there. Most of it went to the quarry. Shuna is in the kitchen, alone, starting dinner for when they come back.
+The kitchen is almost empty when she gets there. The people who went to the quarry haven't returned yet; from the common room she can hear Umaru's game and someone asking for the volume to come down. Shuna is in the kitchen, alone, starting dinner for when they come back.
 
 She looks up when Yuka comes in.
 
-She doesn't say anything. Shuna doesn't say things.
+Shuna turns the heat down and sets the spoon aside.
 
 Yuka stands in the kitchen doorway.
 
@@ -211,23 +189,21 @@ Her voice is very small.
 
 Shuna looks at her for a long moment.
 
-Then she goes to the corner of the counter, where something is sitting under a folded cloth, and picks it up very carefully, and brings it over.
+“I kept it cold,” she says. “I didn't know whether he'd come back for it. Then I couldn't bring myself to clear it.” ˢᵘ
 
-* * *
+She brings a covered container from the cold cupboard and lifts out the plate. It is the same meal, kept aside since B+425, not the dinner Mau left two nights ago.
 
 She lifts the cloth.
 
 It's a plate.
 
-His plate, from the night of the walk. Half a dinner, two days old now, gone cold and dry. The stew, and the bread, and on the far edge, the edge nearest where her chair would have been, a small neat pile.
+His plate, from the night of the walk. Half a dinner, eight days old now, gone cold and dry. The stew, and the bread, and on the far edge, the edge nearest where her chair would have been, a small neat pile.
 
 The pickles.
 
 The small sharp ones. The ones he likes and pretends not to. Set aside in a little pile on her side of his plate, the way they've been set aside at every meal for as long as anyone can remember. Waiting for her to reach over and steal them.
 
 Untouched.
-
-* * *
 
 She sits down on the kitchen floor.
 
@@ -245,8 +221,6 @@ And Shuna kept it. Because she didn't know what else to do.
 
 And Ori ate the pickles. Every night. In Yuka's chair. Because someone had to.
 
-* * *
-
 She doesn't cry.
 
 She thinks she will. She waits for it. She sits on the kitchen floor with the plate in her lap and Shuna standing over her, not saying anything, and she waits for it to come.
@@ -259,19 +233,21 @@ She knows what she did.
 
 All of it. The chair. The plate. The walk. The yard. *I had started to trust you.* *I'll stop bothering you.* She knows exactly what she did, and she knows she can't ask him to tell her. Because he will. If she asks him, he'll tell her the truth, the whole truth, the ugly thing. That's what they promised.
 
-And she doesn't want him to have to say it.
+She doesn't want to make him prove the hurt before she takes responsibility for her part. That cannot mean deciding she knows all of it either.
 
-She wants to be the one who fixes it.
-
-* * *
+She wants to reach him first. Then she will have to stay and hear what her reaching cannot answer.
 
 She looks up at Shuna.
 
 “Thank you,” she says. “For keeping it.” ʸ
 
-Shuna crouches down. She puts her hand on Yuka's head, very lightly, the way she'd touch Ori's.
+Shuna crouches down. She sets a fresh cup of water within reach, then rests a hand on Yuka's head.
 
-Then she stands up and goes back to the stove.
+“He was saving you something,” she says. “He didn't tell me why he left. You'll have to hear his part from him.” ˢᵘ
+
+“I know.” Yuka has to start again. “I want to stop making him do all the reaching first.” ʸ
+
+Shuna stays crouched beside her until the kettle calls her back to the stove.
 
 Yuka sits on the floor with the plate in her lap.
 

@@ -5,9 +5,9 @@
 **Volume:** 83
 **Reading order:** 13
 **Source episode:** S13E110
-**Continuity state:** B+426–428 ("61"–"59"). Three days of the distance. By day Yuka is with Cross more and more: showing him the house, the orchard, the Fort, catching him up on years of her life, training with him in the yard because he's never seen Ten Shadows done properly. At night she is exactly as clingy as ever and believes everything is fine. Mau goes on as if nothing has changed. Ori notices before any adult says anything. At the third dinner, when Yuka is at the far end of the table again, Ori takes the empty chair beside her father, moves it six inches closer, and steals the pickles off his plate. Mau just enjoys it. She asks if everything is okay. "A lot in my head." "The duel?" "Partly." Ori leaves him a note under his cup the next morning.
+**Continuity state:** B+426–429 ("61"–"58"). Three days of the distance. By day Yuka is with Cross more and more: showing him the house, the orchard, the Fort, catching him up on years of her life, training with him in the yard because he's never seen Ten Shadows done properly. At night she is exactly as clingy as ever and believes everything is fine. Mau goes on as if nothing has changed. Ori notices before any adult says anything. At the third dinner, when Yuka is at the far end of the table again, Ori takes the empty chair beside her father, moves it six inches closer, and steals the pickles off his plate. Mau just enjoys it. She asks if everything is okay. "A lot in my head." "The duel?" "Partly." Ori leaves him a note under his cup the next morning.
 
-*When: B+426 to B+428. Yuka wrote "61", "60" and "59", one each morning, in the same neat hand, before he woke.*
+*When: B+426 to the morning of B+429. Yuka writes "61", "60", "59" and then "58", one each morning.*
 
 The notebook is on the windowsill when he wakes up.
 
@@ -17,8 +17,6 @@ She's already gone downstairs. He can hear her in the kitchen, laughing.
 
 He looks at the number for a long time. Then he closes the notebook and puts it on her side of the bed, where she'll find it, and goes down.
 
-* * *
-
 She's in the yard all morning.
 
 With Cross. He sees them from the porch. She's showing him the training posts. Then the orchard, and the two old trees, and the oval of light between them that she gave its shape. Then the Fort, where Ori is lying in wait with a stick and demands to know if he's friend or foe, and Cross looks at Yuka, completely lost, and Yuka laughs so hard she has to sit down on the grass.
@@ -26,8 +24,6 @@ With Cross. He sees them from the porch. She's showing him the training posts. T
 He watches her laugh.
 
 He's not sure what his face is doing. He makes it stop doing whatever it is and drinks his tea.
-
-* * *
 
 In the afternoon she trains with him.
 
@@ -51,8 +47,6 @@ Yuka laughs too.
 
 She doesn't look at the porch.
 
-* * *
-
 At night she's exactly the same.
 
 That's the thing he can't make fit. He lies in bed and she comes up after him and climbs in and finds him in the dark the way she always does, her head on his chest, her hand on the line on his arm, her cold feet on his shins. She tells him about the day. The Fort. Ori and the stick. Cross throwing the black dog.
@@ -71,29 +65,45 @@ She kisses his chest, sleepily, through his shirt.
 
 “I love you,” he says. ᴹ
 
-She means it. He can feel that she means it. Through the contract, through the link, through her heartbeat against his ribs, slow and easy and content. She isn't hiding anything. She isn't pretending. She's happy, and warm, and safe, and her husband's hand is on her back.
+She sounds like herself. She kisses his chest once more and settles against him. He has no reason to call those words a lie. He still cannot make them fit the day he has spent watching her from the porch.
+
+He could ask her to stay awake a little longer. The question reaches his mouth. He kisses her hair instead.
 
 Everything is fine.
 
 She falls asleep. He lies awake.
 
-* * *
-
 The second day is the same.
 
 The third day is the same.
 
-He goes on. That's what he's good at. He helps Mai finish the walls on the second floor. He goes through the next part of the grimoire with Frieren and Beatrice, who has started correcting Frieren's translations and been told, coldly, that she's wrong, and has been right twice. He takes Ori and Beru to the river to plan expedition two.
+He goes on. That's what he's good at. He helps Mai finish the walls on the second floor. He goes through the next part of the grimoire with Frieren and Beatrice. Beatrice has put a finger over the word Frieren just read.
 
-He says *it's fine* when Rimuru asks him how the Simurian talks are going.
+“That means *return*, I suppose.” ᴮᵉᵃ
+
+“In the margin,” Frieren says. “The line in the body is *retain*.” ᶠ
+
+Mau turns the page toward the window. There are two hands in it. The later writer has squeezed an instruction between the original lines.
+
+“So it says to keep the spell here and send the answer back?” he asks. ᴹ
+
+The two of them look at the page.
+
+“That,” Beatrice says, “is what I said.” ᴮᵉᵃ
+
+“It wasn't,” Frieren says. ᶠ
+
+Mau keeps his head bent until the small smile is safe. Beatrice borrows his pencil without asking and writes her reading on the loose sheet, not in the old book. Frieren moves her cup before the cuff reaches it.
+
+By the time Fern calls them downstairs, Mau has read three lines properly. He leaves a mark where he can start tomorrow, and Beatrice adds a very small correction to it. He takes Ori and Beru to the river to plan expedition two.
+
+When Rimuru asks about the next talks, he gives him the date and the names. When Rimuru stays to ask about him, he says *it's fine*.
 
 He says *it's fine* when Shoko asks how he's sleeping.
 
 He says *it's fine* when Ciel, very quietly, says she's noticed he's stopped telling her things.
 
 He doesn't notice he's saying it.
-
-* * *
 
 Ori notices.
 
@@ -108,8 +118,6 @@ The chair beside him is empty.
 He's moved it six inches closer. His hands did it.
 
 He looks at it.
-
-* * *
 
 Ori gets up from her place beside Frieren.
 
@@ -130,8 +138,6 @@ Ori looks at the pickles.
 She looks up at him.
 
 Then she reaches over, very deliberately, and takes one. And eats it. Looking straight ahead, at nothing, with an expression of perfect innocence.
-
-* * *
 
 He looks down at her.
 
@@ -160,8 +166,6 @@ He puts his arm round her. She leans against his side, small and warm and making
 He doesn't look at the far end of the table.
 
 For a while, he doesn't need to.
-
-* * *
 
 After dinner she stays.
 
@@ -205,9 +209,7 @@ She slides down off the chair. She stands in front of him, and reaches up, and h
 
 Then she goes to find Frieren.
 
-* * *
-
-In the morning, there's a note under his cup.
+On B+429, there's a note under his cup.
 
 He finds it when he picks the cup up. A small square of paper, folded twice, in Ori's careful handwriting. The same paper she uses for the *welcome home* notes he keeps on the bedside table.
 
@@ -223,11 +225,17 @@ He unfolds it.
 
 *P.S. They are still horrible.*
 
-* * *
+He reads it twice before Ori comes in with Frieren. He catches her sleeve as she passes and bends to kiss the top of her head.
 
-He reads it three times.
+“You don't have to keep eating something you hate,” he says. ᴹ
 
-Then he folds it up again, very carefully, and puts it in his pocket. Not on the bedside table with the others. In his pocket. Where he can feel it.
+“I said I would.” ᴼ
+
+“I like having you beside me. You can have the bread.” ᴹ
+
+She considers the exchange with appropriate seriousness, then takes a piece from his plate. He holds it steady while she tears off the end. Frieren stays beside her chair, watching him thank their daughter without handing her the rest of what is in his head.
+
+He folds the note carefully and puts it in his pocket. Not on the bedside table with the others. In his pocket. Where he can feel it.
 
 Across the kitchen, Yuka is at the window with her tea, talking to Cross about the orchard. She sees Mau and smiles at him, bright and easy, and blows him a kiss.
 
@@ -237,4 +245,4 @@ He keeps his hand in his pocket, on the note, the whole time.
 
 Upstairs, on the windowsill, the notebook is open to today's page.
 
-*59.*
+*58.*

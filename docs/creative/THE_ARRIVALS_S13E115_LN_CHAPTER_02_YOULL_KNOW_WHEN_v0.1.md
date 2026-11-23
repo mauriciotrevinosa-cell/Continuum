@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 24
 **Source episode:** S13E115
-**Continuity state:** B+433, the pause in the fight. Dabura has stopped because Mau isn't all there. Mau answers him by showing him what's left: he opens the stat page in the middle of the quarry and spends the other two thirds of the points at once. Jin-Woo, on the ridge, closes his eyes: this is the "you'll know when". The body takes it badly at first and then takes it: speed, strength, endurance, perception, all at once, the old-scale equivalent of three hundred levels finally in him. He has nothing left to hold back for later. Dabura watches it happen and laughs with pure joy. On the ridge Frieren and Gojo go at it again. The tap still closes, but now Mau's body is fast enough to be somewhere else in the instant it does. Noise finishes reading the light. Second phase begins.
+**Continuity state:** B+433, pause. Mau spends the remaining two thirds using the previously planned proportions; the old-scale reference is 300 levels, not an invented exact stat total. Twenty-four days since the first allocation, eleven seconds for the physical change now; no instant mastery, repaired finger/eye history or erased old scars. Both hearts checked. Extra processing headroom lets Noise finish the copied light’s aiming calibration.
 
 *When: B+433. Still morning. Dabura has stopped ten paces off. Nobody on the ridge is breathing.*
 
@@ -13,7 +13,7 @@
 
 Mau stands on the quarry floor.
 
-He's whole. The RCT closed every hole. His side, his shoulder, his arm, his thigh: all of it back, smooth, new skin over new flesh. His body is fine.
+He's whole. The RCT closed every hole. The new wounds in his side, shoulder, arm and thigh have closed. The older marks remain across the healed skin: the great chest tracks, the eye, the damaged fingers, the diagonal line the last gate left him. He can stand on it again. That is as much as he has checked.
 
 He isn't.
 
@@ -24,8 +24,6 @@ He looks up at the ridge again.
 He can't help it.
 
 She's still there. Both hands over her mouth. Cross's hand on her arm.
-
-* * *
 
 *Mau*, says Ciel. ᶜ
 
@@ -41,13 +39,11 @@ A pause.
 
 *I'm not telling you what to do*, says Ciel. *I'm telling you a number.* ᶜ
 
-* * *
-
 He thinks about Jin-Woo's finger on the chart.
 
 *Not all of it.* *Your body has to learn them.* *If something comes in that month, you'll be fighting in a body you don't know yet. That's worse than fighting in a weaker one you do.*
 
-It's been three weeks. Not a month. His body has learned the first third; he's been fighting in it for ten minutes and it's done everything he's asked. But two thirds more, all at once, in the middle of this—
+It's been twenty-four days. Not a month. His body has learned the first third; he's been fighting in it for ten minutes and it's done everything he's asked. But two thirds more, all at once, in the middle of this—
 
 *You'll know when.*
 
@@ -58,8 +54,6 @@ Dabura is looking back at him, with that almost-disappointed face. Waiting. Not 
 He looks at the ridge.
 
 At Yuka.
-
-* * *
 
 He doesn't know when.
 
@@ -73,13 +67,11 @@ So he'll give it the rest.
 
 Everything he has. Everything he saved. There's nothing to save it for. Nothing he's holding back for later. There isn't a later he can see.
 
-* * *
-
 He opens the page.
 
 Right there. In the middle of the quarry. With Dabura ten paces away and the light quiet in him and the whole ridge watching.
 
-He doesn't need to hide it; nobody else can see it. They'll just see him standing very still with his eyes on nothing, the way he stood in the common room a long time ago, at level one, with Umaru demanding paper.
+The page is visible to him, not projected to the ridge. They'll just see him standing very still with his eyes on nothing, the way he stood in the common room a long time ago, at level one, with Umaru demanding paper.
 
 The fields. *Strength. Speed. Endurance. Perception.*
 
@@ -87,15 +79,13 @@ The box at the bottom.
 
 > **[Unallocated points remaining: two thirds of the accumulated total.]**
 
-He doesn't do it the way Umaru planned. There isn't time for the chart. He does it the way she said, though, at the table, with the ruler: *spread out. Everything goes up together, or something breaks.*
+He uses the proportions they wrote with Umaru and Jin-Woo, checking the remaining total before he confirms. There is no invented new pool in the middle of the fight. The two thirds he kept at the table are the two thirds available now.
 
 Everything.
 
 All of it.
 
 He puts them in.
-
-* * *
 
 On the ridge, Jin-Woo closes his eyes.
 
@@ -107,8 +97,6 @@ But his lips move. Just once.
 
 *Now.*
 
-* * *
-
 It hits like a wave.
 
 Not the warmth from the table. Not *like growing, all at once*. That was a third. This is two thirds, all at once, in a body already running at full in the middle of a fight. It doesn't feel like growing.
@@ -117,17 +105,15 @@ It feels like being broken and put back together faster than the RCT can follow.
 
 He goes down on both knees.
 
-The bones first. All of them, at once, as if every bone in his body has been picked up and turned over and put back down denser. Then the muscles, tearing and knitting, tearing and knitting, layer on layer. His heart, stuttering, then beating harder, slower, stronger. His lungs. His eyes, which were already more than eyes; something in them goes *clear*, the way water goes clear when the silt settles.
+The bones first. All of them, at once, as if every bone in his body has been picked up and turned over and put back down denser. Then the muscles, tearing and knitting, tearing and knitting, layer on layer. His living heart stutters, then finds a stronger rhythm beside the Black Heart. His lungs draw too much air on the next breath. The new Perception widens what he can sort at once; Mini Ciel catches up with the difference. The old blur in one eye does not disappear.
 
 He hears himself make a sound.
 
 He doesn't know what kind of sound it is.
 
-* * *
-
 *Hold on*, says Ciel. *It's taking. It's taking. Hold on.* ᶜ
 
-*Your heart rate is—* says Noise, and then, *never mind, it's fine, it's settling, it's—* ᴺ
+*Taking*, says Noise. *Both stable.* ᴺ
 
 On his knees on the quarry floor, he holds on.
 
@@ -135,13 +121,11 @@ He doesn't know how long. Ciel will tell him later: eleven seconds. It feels lik
 
 And then it's done.
 
-* * *
-
 He's on his knees on the broken floor of the quarry.
 
 He breathes in.
 
-The air tastes different. Not the air. Him. His lungs take it in deeper and slower and hold more of it. He can feel his heart beating, slow and enormous, like a drum in a hall.
+The air tastes different. Not the air. Him. His lungs take it in deeper and slower and hold more of it. He can feel the stronger living pulse beside the other rhythm. Ciel is counting both.
 
 He puts one hand on the ground.
 
@@ -151,19 +135,15 @@ He doesn't push.
 
 He stands up.
 
-* * *
-
 It's like standing up for the first time.
 
-The ground is where it's supposed to be. He doesn't overshoot. He doesn't land in the orchard. His body learned the first third in a month and it's learned this in eleven seconds, because it had to, because there was no month, and it *knows*.
+The ground is where it's supposed to be. He doesn't overshoot. He doesn't land in the orchard. He has had twenty-four days to learn the first third. He has had eleven seconds with the rest. He plants his feet wider than usual and tests the left heel before putting his weight into it. Nothing about the extra power has taught him where to stop.
 
 He looks at his hands.
 
 He closes them.
 
 The air between his fingers goes *crack*.
-
-* * *
 
 Dabura is staring at him.
 
@@ -193,8 +173,6 @@ Mau thinks about it.
 
 “I'd know when,” he says. ᴹ
 
-* * *
-
 On the ridge, Gojo is on his feet.
 
 He stood up without meaning to. He's standing on his rock with his blindfold in his hand and both bright eyes on the quarry, and his face isn't still anymore. It's lit up.
@@ -223,8 +201,6 @@ Jin-Woo, a little way along the ridge, opens his eyes and says nothing, and look
 
 Tsurugi, between them, looks from one to the other with an expression of slowly dawning horror.
 
-* * *
-
 On the quarry floor, Dabura stops laughing.
 
 He rolls his shoulders. The light comes up in him, slowly, all that packed bright pressure starting to move again.
@@ -241,25 +217,21 @@ He tilts his head.
 
 “That's fine,” he says. “I'll bring you back down.” ᴰᵇ
 
-* * *
-
 He comes in.
 
 The wanting comes first. The hand on the tap. The Infinity goes thin.
 
 And Mau isn't there.
 
-He moves in the instant the tap closes. Not after. *In* it. The new speed. The new body. He moves before the light comes through, before the eyes have finished telling him the tap is closing, because his body knows, the way Maki's knows, the way it knew the foot before the staff. He's on the left. He's under Dabura's arm. He's behind him.
+He moves in the instant the tap closes. Not after. *In* it. The new speed. The new body. He reads Dabura's preparation and commits to it; he is moving before the beam is released, not outrunning a beam already in flight. He moves before the light comes through, before the eyes have finished telling him the tap is closing, because his body knows, the way Maki's knows, the way it knew the foot before the staff. He's on the left. He's under Dabura's arm. He's behind him.
 
 The light goes through where he was.
 
 He hits Dabura.
 
-* * *
-
 Not with a technique. Not with a dagger. With his fist. In the back. Between the shoulder blades.
 
-He doesn't think about it. His body does it. All that new strength, all of it, two thirds of everything he saved, in one hand.
+He turns through the familiar motion and discovers, too late to take all of it back, how much more the new body puts behind it. His hand goes past the stopping point he meant. He has to widen his next step to keep from following Dabura across the quarry.
 
 Dabura goes across the quarry.
 
@@ -267,13 +239,9 @@ Not falls. *Goes*. Off his feet and through the air and into the far wall of the
 
 The quarry goes very quiet.
 
-* * *
-
 On the ridge, nobody says anything.
 
 On the far rim, very still, very hidden, Yoru has stopped leaning forward. She's sitting back on her heels. Watching.
-
-* * *
 
 In the wall, Dabura moves.
 
@@ -283,17 +251,15 @@ He's smiling.
 
 “*There* you are,” he says. ᴰᵇ
 
-* * *
-
 *I've got it*, says Noise. ᴺ
 
 Mau goes still.
 
-*The light*, says Noise. *The sending. I've got it. All of it. While you were on your knees, your eyes went clear, and I could see it properly for the first time. I've got the making and the sending.* ᴺ
+*The light. Aim corrected*, says Noise. *More room to sort it now.* ᴺ
 
 A pause.
 
-*It's built*, says Noise. *Whenever you want it.* ᴺ
+*Ready*, says Noise. *Start narrow.* ᴺ
 
 Mau looks across the quarry at Dabura, standing at the foot of the crack he made, smiling, with the light coming up in him again.
 

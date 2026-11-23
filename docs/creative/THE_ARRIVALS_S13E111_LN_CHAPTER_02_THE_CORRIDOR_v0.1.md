@@ -25,8 +25,6 @@ Yuka almost smiles. It's what Mau does. Since the gate. He goes to the clinic wi
 
 “Okay,” she says. ʸ
 
-* * *
-
 The clinic smells of the things it always smells of. Clean cloth. The sharp stuff Shoko uses on cuts. The cigarettes she doesn't light.
 
 Shoko puts the kettle on. She gets out two cups, not her clinic cups, the good ones, the ones with the chips in the rim that she won't let anyone throw away. She doesn't sit at the desk. She sits on the end of the bed by the window, the one Mau has sat on more than any other bed in the house, and pats the space beside her.
@@ -38,8 +36,6 @@ They drink tea for a while. Shoko doesn't say anything. Yuka doesn't either. Thr
 “Gojo came to see me,” says Shoko. ˢʰ
 
 Yuka's cup stops halfway to her mouth.
-
-* * *
 
 “He fought Mau this morning,” says Shoko. “Past the river. Said it was training.” ˢʰ
 
@@ -55,17 +51,15 @@ Yuka looks at her tea.
 
 She turns her cup in her hands.
 
-“So he stopped, and sat down, and asked Mau what was going on,” says Shoko. “And Mau told him. Every reason. His Infinity's thin on one side because of the new sense. His heart rate's up because of the points. His Shrine goes where you'd be standing because of the gate. All of it. Very precise. Like Ciel.” ˢʰ
+“So he stopped, and sat down, and asked Mau what was going on,” says Shoko. “And Mau told him. Every reason. His physical guard is late on one side while he sorts the new sense. His heart rate's up because of the points. His Shrine goes where you'd be standing because of the gate. All of it. Very precise. Like Ciel.” ˢʰ
 
 She looks at Yuka.
 
 “And nothing else,” she says. “Gojo said it was the most technical answer he'd ever heard. To a question that wasn't technical at all.” ˢʰ
 
-* * *
-
 Yuka doesn't say anything.
 
-She thinks about this afternoon. About climbing into Mau's lap on the porch, shaking, after the workshop. About waiting for him to ask what was wrong. About him not asking.
+She thinks about yesterday. About climbing into Mau's lap on the porch, shaking, after the workshop. About waiting for him to ask what was wrong. About him not asking.
 
 About being grateful that he didn't.
 
@@ -75,15 +69,13 @@ Yuka waits.
 
 “He said Mau keeps touching something in his pocket,” says Shoko. “When it gets bad. A note. From Ori. He doesn't know he's doing it.” ˢʰ
 
-* * *
-
 Something cold goes through Yuka.
 
-The same cold thing from this afternoon. From *it's fine*. From the porch.
+The same cold thing from yesterday. From *it's fine*. From the porch.
 
 She didn't know about the note. She didn't know Ori had written him a note. She doesn't know what it says.
 
-She knows every note in that house. The ones on the bedside table. *Welcome home.* The chocolate wrapper from the red gate, the letter from Elmesia. She's read all of them. She's the one who keeps the notebook. She knows everything about him; she's made sure of it, since the gate, since he promised: everything, even the ugly things.
+She knows the notes they keep on the bedside table. *Welcome home.* The chocolate wrapper from the red gate, the letter from Elmesia. She's read all of them. She's the one who keeps the notebook. They've made room to tell each other more since the gate, even the ugly things. She has started treating that as a certainty that nothing important can pass her by.
 
 She didn't know about the note.
 
@@ -92,8 +84,6 @@ She didn't know about the note.
 Her voice is small.
 
 “I know,” says Shoko. ˢʰ
-
-* * *
 
 “Mai said I'm swapping him,” Yuka says. ʸ
 
@@ -111,13 +101,11 @@ Shoko doesn't say anything. She doesn't say *you are* or *you aren't*. She just 
 
 “I don't know what Cross is,” says Yuka finally. ʸ
 
-* * *
-
 “Tell me,” says Shoko. “Not what he is. What he gives you. That nobody else does.” ˢʰ
 
 Yuka looks at her.
 
-It's a strange question. Nobody else asked it. Mai said *swapping*. Granny said *a child is filling in for you*. Grandpa said *we see both of you*. Nobody asked her what Cross gives her.
+It's a strange question. Nobody else asked it. Mai said *swapping*. Granny said *a child noticed*. Grandpa said *we see both of you*. Nobody asked her what Cross gives her.
 
 She thinks about it.
 
@@ -136,8 +124,6 @@ Her hands are tight round the cup.
 She looks at Shoko.
 
 “Nobody else saw that,” she says. “Nobody. Mau didn't know me then. He's seen me scared since. But never like that. Never when it was *me*.” ʸ
-
-* * *
 
 Shoko is quiet for a long time.
 
@@ -163,8 +149,6 @@ She squeezes Yuka's hands.
 
 “The problem,” she says, “is that *he* can't see the difference. Not from where he's standing.” ˢʰ
 
-* * *
-
 Yuka goes very still.
 
 “From where he's standing,” says Shoko, “his wife came home from a walk with a man who saw her at her worst. Before him. And sat with that man at dinner. And didn't sit with him. And didn't steal off his plate. And came to bed happy, and told him about her day, and the day was full of the other man.” ˢʰ
@@ -172,8 +156,6 @@ Yuka goes very still.
 Yuka's breath catches.
 
 “He doesn't know it's a different thing,” says Shoko. “How could he? You haven't told him. You haven't told *yourself*. And he's not asking. Because he's Mau, and he's got a very old habit of deciding that the kindest thing he can do for someone he loves is get out of the way.” ˢʰ
-
-* * *
 
 “He wouldn't,” says Yuka. ʸ
 
@@ -187,9 +169,7 @@ She lets go of Yuka's hands. She picks her cup back up.
 
 She drinks her tea.
 
-“That's what Gojo saw,” she says. “In the field. Him making himself smaller.” ˢʰ
-
-* * *
+“That's what Gojo was worried about,” she says. “In the field. He saw Mau stop answering him. We don't get to know what Mau's thinking until he says it, but I don't want either of you sitting alone deciding for the other.” ˢʰ
 
 Yuka sits on the bed by the window with her hands round her cup.
 
@@ -208,8 +188,6 @@ Shoko looks at her.
 She puts her cup down.
 
 “Tell him the ugly thing,” says Shoko. “The way he tells you. That's what you promised each other, isn't it? Even the ugly things.” ˢʰ
-
-* * *
 
 Yuka nods.
 
@@ -230,8 +208,6 @@ Shoko looks at her for a long time.
 “Tomorrow,” she says. ˢʰ
 
 “Tomorrow.” ʸ
-
-* * *
 
 She goes upstairs.
 
@@ -255,9 +231,7 @@ Just for a moment.
 
 She falls asleep.
 
-* * *
-
-She doesn't know that *I want to talk to you about something* is the worst thing she could have said, in the dark, half asleep, without saying what.
+She doesn't know what he will make of *I want to talk to you about something*, left without the rest of it in the dark.
 
 She doesn't know he lies awake until morning, again, with his hand on her back, deciding what the something is.
 

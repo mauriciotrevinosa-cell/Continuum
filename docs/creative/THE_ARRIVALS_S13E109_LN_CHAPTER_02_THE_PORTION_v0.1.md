@@ -23,11 +23,21 @@ She sees he's awake. She comes over and sits on the edge of the bed and bends do
 
 “I know, Yuka.” ᴹ
 
-She smiles. She kisses his forehead again, for no reason, and gets up, and goes.
+She smiles and bends to kiss his forehead again. He catches her hand before she can get up.
+
+“Missed,” he says. ᴹ
+
+She looks down at him, then at his mouth.
+
+“Did I?” ʸ
+
+This kiss lands where he wanted. She gives him another before he can complain about the first one being too short. When she finally stands, she keeps hold of his fingers until the bed makes her let go.
+
+“Dinner,” she says again, softly. ʸ
+
+He nods and watches her go.
 
 He lies there and listens to her go down the stairs. The front door. Two sets of footsteps on the porch, and then on the path, and then nothing.
-
-* * *
 
 He doesn't think about it.
 
@@ -35,11 +45,31 @@ That's the plan. He has a lot of plans, and that's the main one. He gets up and 
 
 He doesn't think about it.
 
-He takes Ori and Beru to the orchard after lunch and lets Ori explain the second expedition again, all of it, with the map. He sits with Frieren for an hour in her room and reads three pages of the grimoire she keeps for him while Beatrice watches him from the window seat with deep suspicion. He goes down to the clinic with nothing wrong and Shoko gives him tea and doesn't ask why he's there.
+He takes Ori and Beru to the orchard after lunch and lets Ori explain the second expedition again, all of it, with the map. He sits with Frieren for an hour in her room and reads three pages of the grimoire she keeps for him while Beatrice watches him from the window seat with deep suspicion. He goes down to the clinic with nothing wrong. Shoko looks up from the cupboard and points at the kettle with her chin.
+
+“If you're visiting, make yourself useful.” ˢʰ
+
+He fills it. She goes back to counting clean dressings. By the time she sits down, he has two cups on her desk and the lid back on the tin.
+
+She opens it again.
+
+“That's the one Satoru said he finished.” ˢʰ
+
+“He did.” ᴹ
+
+“And you replaced it.” ˢʰ
+
+“You like that one.” ᴹ
+
+“I liked knowing who to be annoyed with.” She shuts the tin. “Now he'll think it refills.” ˢʰ
+
+“It does. Bad design.” ᴹ
+
+She laughs into her cup. For a little while he can sit with his mother while she complains about the cupboard Gojo never closes, and have an answer that doesn't require arranging his whole face first.
+
+When she asks whether he slept, he looks down at the cup. She draws the tin back across the desk and stays with him while it steeps.
 
 He doesn't think about it at all.
-
-* * *
 
 At four, the sun moves round to the north side of the house, and he finds he's standing at the window looking up the north road.
 
@@ -52,8 +82,6 @@ He doesn't remember deciding to.
 *I know*, says Ciel. ᶜ
 
 He goes and helps Shuna with the vegetables.
-
-* * *
 
 She's back at dinner.
 
@@ -75,11 +103,9 @@ The table laughs.
 
 Yuka laughs hardest.
 
-* * *
-
 Mau looks at the chair beside him.
 
-It's empty. He'd moved it, before she came in. Six inches closer. The way she always moves it. He didn't think about doing it; his hands did it, the way his hands still reach for the cheapest tent.
+It's empty. He'd moved it, before she came in. Six inches closer. The way she always moves it. He didn't think about doing it; his hands did it while Shuna was putting the dishes out.
 
 She doesn't come round.
 
@@ -88,8 +114,6 @@ She doesn't look round. She's leaning toward Cross, telling the next part, the p
 “He walked *all* of it,” she's saying. “Every bit. You can see it from up there. It goes on forever.” ʸ
 
 Mau looks at his plate.
-
-* * *
 
 It's a good dinner. Shuna made the small sharp pickles. The ones he likes and pretends not to.
 
@@ -111,8 +135,6 @@ It was a joke.
 
 It was a *joke*.
 
-* * *
-
 He puts his fork down.
 
 He doesn't say anything. He doesn't make a sound. He just pushes his chair back, very quietly, and gets up, and leaves the plate where it is: half eaten, with the small sharp pickles set aside on the far edge, untouched, in a little pile, the way he always leaves them.
@@ -123,8 +145,6 @@ Nobody stops him. Nobody really notices. The table is loud, and Tsurugi is telli
 
 She doesn't see him go.
 
-* * *
-
 Shuna sees the plate.
 
 She's clearing. She comes to his place with the stack in her arms and stops. Looks down. Half a dinner. And the pickles, set aside on the edge nearest the empty chair, in a small neat pile, the way they've been set aside at every meal for longer than she can remember.
@@ -133,11 +153,9 @@ She looks at the empty chair beside it.
 
 She looks across the table, at Yuka, laughing, holding Cross's arm.
 
-She doesn't say anything. Shuna doesn't say things. She picks up the plate very carefully, so the little pile doesn't fall over, and carries it to the counter, and stands there for a moment with her back to the room, looking at it.
+Shuna starts to call his name, then looks toward the back door. He has already gone beyond it. She picks up the plate very carefully, so the little pile doesn't fall over, and carries it to the counter, and stands there for a moment with her back to the room, looking at it.
 
 Then she covers it with a cloth, and puts it to one side, and doesn't throw it away.
-
-* * *
 
 He's at the bottom of the yard when Makima catches up with him.
 
@@ -167,8 +185,6 @@ He breathes out.
 
 “Stay,” she says. “Just tonight. Sit on the wall with me. I won't talk.” ᴹᵏ
 
-* * *
-
 He sits on the wall.
 
 She sits beside him. She doesn't talk. She keeps her promise. She sits there with her hands folded in her lap and her eyes on the dark, and doesn't say a word, for a long time.
@@ -197,8 +213,6 @@ She doesn't have to. He can feel her not saying it, the way you can feel someone
 
 “No,” says Makima. ᴹᵏ
 
-* * *
-
 They sit there a long time.
 
 The house is lit up behind them. Loud. He can hear it from here: the long table, the laughing, someone starting a song and someone else telling them to stop. All the warmth of it, through the windows, falling across the dark yard in long bars.
@@ -211,13 +225,11 @@ He was wrong then. He knows that. Frieren told him, much later.
 
 He doesn't know if he's wrong now.
 
-* * *
-
 “You're a good friend,” he says. ᴹ
 
 He says it without looking at her. Casually. The way you'd say *it's cold* or *the stars are out*. He doesn't think about it.
 
-He feels her go still beside him.
+She stops moving beside him, their shoulders almost level against the wall.
 
 “You know that?” he says. “You stopped me. Just now. I was going to walk out there and—I don't know. Find something to hit. You stopped me.” ᴹ
 
@@ -225,15 +237,13 @@ He holds out his hand. Sideways. Without looking. The way you'd hold your hand o
 
 “Thanks,” he says. ᴹ
 
-* * *
-
 Makima looks at his hand for a long time.
 
 Then she takes it.
 
 Not with her fingers through his. Not the way Yuka holds his hand. Palm to palm, thumb over the back of his hand, firm. The way you'd shake hands with someone on a deal you both meant. And then she doesn't let go. She keeps holding it, like that, between them on the wall, a friend's hand.
 
-“I've never had one,” she says. ᴹᵏ
+“Before you, I'd never had one,” she says. ᴹᵏ
 
 He looks at her.
 
@@ -251,8 +261,6 @@ Her hand tightens, very slightly, on his.
 
 “So I don't know what a good friend is,” she says. “I'm learning. From watching. From you.” ᴹᵏ
 
-* * *
-
 He doesn't say anything.
 
 He doesn't have to. He holds her hand, like that, a friend's handshake, on the wall at the bottom of the yard, and looks at the dark with her, and lets the house be loud behind them.
@@ -268,8 +276,6 @@ After a while, she says, still not looking at him:
 He thinks about that.
 
 Then he lets go of her hand. And gets down off the wall. And goes back up the yard toward the light.
-
-* * *
 
 Yuka is on the sofa when he comes in.
 

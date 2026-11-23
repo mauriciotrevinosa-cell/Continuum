@@ -11,7 +11,7 @@
 
 Dabura lies on his back on the quarry floor and looks up at him.
 
-The light is gone from Mau's hand. He's still on one knee, with his left hand flat on Dabura's chest, and he can feel Dabura's heart under it: huge, slow, steadying. Like his own.
+The light is gone from Mau's hand. He dismisses the remaining territory. The innate routes that held it go dull with burnout; he does not try to force them awake. Ciel checks whether the brain repair is still keeping pace before Noise gives Makima her body again, within reach beside him. He's still on one knee, with his left hand flat on Dabura's chest, and he can feel Dabura's heart under it: huge, slow, steadying. Mau's living pulse answers it; the Black Heart keeps its other rhythm beneath.
 
 “No,” says Dabura. ᴰᵇ
 
@@ -20,8 +20,6 @@ He says it the way you'd repeat a word in a language you're learning. Testing it
 “No,” says Mau again. ᴹ
 
 “Why?” ᴰᵇ
-
-* * *
 
 Mau thinks about it.
 
@@ -36,8 +34,6 @@ Dabura waits.
 He looks at the place. A little to the left. Where the floor is still darker than the rest.
 
 “I'd rather you got up,” he says. ᴹ
-
-* * *
 
 Dabura looks at him for a long time.
 
@@ -59,8 +55,6 @@ He stands up. He holds out the same hand.
 
 Dabura looks at it.
 
-* * *
-
 He takes it.
 
 Mau pulls him up. It takes more than he expects. Dabura is heavy, heavier than he looks, all that packed light in him, and the new strength in Mau's arm takes it without trying.
@@ -79,8 +73,6 @@ He lets go of Mau's hand.
 
 “The king is real,” he says. ᴰᵇ
 
-* * *
-
 On the ridge, something breaks.
 
 Mau hears it from here: a shout, high and wordless and ecstatic. Tsurugi, who has been standing between Gojo and Frieren for an hour with his face going whiter and whiter, has thrown both arms in the air.
@@ -88,8 +80,6 @@ Mau hears it from here: a shout, high and wordless and ecstatic. Tsurugi, who ha
 “I *TOLD* you,” Tsurugi is shouting. “I *TOLD* HIM! *BASICALLY A KING!*” ᵀˢ
 
 Gojo is laughing. Frieren has put her hand over her face. Maru has sat down on the ridge, very suddenly, as if his legs have given out, with both hands over his heart.
-
-* * *
 
 “You'll talk now,” says Mau. “With Maru. With the house.” ᴹ
 
@@ -100,8 +90,6 @@ Dabura looks up at the ridge, at his people's representative sitting on a rock w
 He looks back at Mau.
 
 “My people have never had one of those,” he says. ᴰᵇ
-
-* * *
 
 Then he asks about the wheel.
 
@@ -121,23 +109,19 @@ He looks at Mau.
 
 “What is it?” he asks. ᴰᵇ
 
-* * *
-
 Mau thinks about lying.
 
-He doesn't. He hasn't lied to anyone in a long time; he's just stopped telling them things, which isn't the same, and he knows it isn't the same.
+He doesn't. He's been saying *fine* to avoid a truthful answer. He can at least give Dabura the name of the thing that just stopped him.
 
 “It's called Mahoraga,” he says. “It adapts. To anything. It turns once for every lesson. And it never stops learning.” ᴹ
 
 Dabura goes very still.
 
-“I think you fought one,” says Mau. “A long time. Somewhere. Maybe before you came here. The eyes can see it in you. In the way you move. Everything you learned on the mountain, you learned against something that was always a little stronger and always changing to meet you.” ᴹ
+“I think you fought one,” says Mau. “A long time. Somewhere. Maybe before you came here. That's an inference from what you did when it appeared, not a memory I read. You recognised the wheel before you could place it. Some of the ways you answer an attack look familiar to me too.” ᴹ
 
 He pauses.
 
 “You don't remember it,” he says. “But your body does.” ᴹ
-
-* * *
 
 Dabura doesn't say anything for a long time.
 
@@ -151,11 +135,9 @@ He lowers his hand.
 
 Mau doesn't say anything.
 
-He knows what that's like. To have a year in your hands that isn't in your head. To reach for the cheapest tent before you've read the prices.
+He knows what that's like. To have a year in your hands that isn't in your head. To know the shape of a movement before you can bear to remember where you learned it.
 
 He doesn't say that either.
-
-* * *
 
 On the far rim, someone stands up.
 
@@ -181,8 +163,6 @@ The contract still holds. She didn't come down. She didn't touch anyone. She wat
 
 He knows exactly what she saw.
 
-* * *
-
 The ridge comes down.
 
 Gojo first, of course, half running, half sliding down the long tiers of the quarry with his blindfold in his hand and his face lit up like a lamp.
@@ -191,21 +171,19 @@ Gojo first, of course, half running, half sliding down the long tiers of the qua
 
 “Gojo—” ᴹ
 
-“—and then you took his *light*, you took his *technique*, Noise just *built* it, and then the *domains*, *three* of them, *compressed*, a *sure hit*, with your brain burning and coming back, and Makima holding you from the inside, and then the *wheel*, oh my *God* the wheel—” ᴳ
+“—and then you took his *light*, you took his *technique*, Noise just *built* it, and then the *domains*, *three* of them, *compressed*, a *sure hit*, with your brain burning and coming back, and you keeping it together after her body withdrew, and then the *wheel*, oh my *God* the wheel—” ᴳ
 
 “*Gojo*.” ᴹ
 
 Gojo stops in front of him. Breathing hard. Grinning so wide it must hurt.
 
-“That,” says Gojo, “was the best fight I've seen in fifty years.” ᴳ
+“That,” says Gojo, “was the best fight I've seen since I came here.” ᴳ
 
 He means it. Mau can tell. He means every word.
 
 “And you were only half there for most of it,” says Gojo, more quietly. ᴳ
 
 Mau doesn't answer that.
-
-* * *
 
 Frieren comes down after Gojo, more slowly.
 
@@ -223,9 +201,11 @@ Frieren nods slowly.
 
 “Good,” she says. “I've wanted to see that for a long time.” ᶠ
 
-She puts her hand on his arm. Just for a moment. Then she goes to look at the grooves in the wall, very interested, the way she gets interested in spells that polish bronze.
+She puts her hand on his arm. Just for a moment. His elbow shifts under her hand. She keeps hold of it.
 
-* * *
+“Sit before you fall,” she says. “We can look at the walls afterward.” ᶠ
+
+Jin-Woo brings a flat piece of stone close enough that Mau can lower himself onto it without admitting how far the ground still feels from his knees.
 
 Jin-Woo comes last.
 
@@ -239,11 +219,9 @@ Jin-Woo looks at him for a long time.
 
 “That's usually how you know,” he says. ᴶʷ
 
-* * *
-
 He's tired.
 
-He notices it when the ridge is all round him, talking. His body is whole. The RCT closed everything. Two thirds of everything he saved are in his bones now, and he can feel how strong they are, and how fast, and how much more than he was this morning.
+He notices it when the ridge is all round him, talking. The fresh holes have closed. The important old marks are still there, and his head hurts when he turns it. Ciel wants Shoko to check the compression strain before anyone calls him recovered. Two thirds of everything he saved are in his bones now, and he can feel how strong they are, and how fast, and how much more than he was this morning.
 
 And he's so tired he could lie down on the quarry floor where he once lay in pieces and not get up for a week.
 
@@ -260,8 +238,6 @@ She hasn't left. She hasn't said anything since the domain broke. But her hand i
 *Noise*, says Makima, inside, very gently. *Thank you for holding me.* ᴹᵏ
 
 *Any time*, says Noise. Very tired. Very proud. ᴺ
-
-* * *
 
 He doesn't look for Yuka.
 

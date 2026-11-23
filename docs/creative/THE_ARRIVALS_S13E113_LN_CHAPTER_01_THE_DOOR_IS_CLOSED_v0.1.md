@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 19
 **Source episode:** S13E113
-**Continuity state:** B+431 ("56"), morning to late afternoon. Yuka's point of view. She wakes to an empty bed and assumes he's up early. She writes "56". She spends the morning with Cross, who wants to see what she can do with Mau's techniques, and she's proud of it and wants to show off. She reaches for his Blue and it doesn't come. Not broken: closed. She reaches for the Exchange, then for him through the link in her head, and finds a closed door where he always is. Ciel and Noise, who are still open to her, try to explain. They're watching everything Mau ever felt hit him at once in a dungeon, and they choose the wrong words: "He's asked not to be reached." "He needs some time. He doesn't want anyone near him right now." Yuka hears *me*. Cross sees her shaking and stays beside her. Nobody tells her where Mau is. She waits on the porch all afternoon.
+**Continuity state:** B+431 ("56"), Yuka viewpoint, parallel to the clear. Her borrowed techniques/Exchange and direct link to Mau are closed. Ciel’s own channel still works and supplies the gate location and his safe status. Yuka hears the request for distance as rejection; Cross helps steady her. The house is not collectively hiding Mau’s whereabouts. Yuka chooses to wait on the porch and sees both return.
 
 *When: B+431. Morning to late afternoon. When she woke, the bed was cold on his side; she didn't think anything of it. She wrote "56" and a small sun.*
 
@@ -24,8 +24,6 @@ That's strange. He usually leaves it open to a blank page for her. She turns to 
 *56.*
 
 She goes downstairs.
-
-* * *
 
 He isn't on the porch.
 
@@ -47,8 +45,6 @@ It isn't an answer. She doesn't notice that it isn't.
 
 He goes back to looking at the orchard.
 
-* * *
-
 Cross is in the yard.
 
 He's always in the yard in the mornings now. Waiting for her, she thinks, though he'd never say so. He's by the training posts with his arms crossed, and he uncrosses them when he sees her coming.
@@ -59,13 +55,11 @@ He's always in the yard in the mornings now. Waiting for her, she thinks, though
 
 “The other thing. His things. That you can use.” ᶜʳ
 
-She told him about it yesterday. On the walk back from the ridge, maybe; she can't remember. About the contract. About how she can borrow Mau's techniques, any of them, his Blue, his Red, his Infinity, the second Limitless he built inside himself just for her. About how she can pull him to her through her own shadow, from anywhere.
+She told him about it while they were catching up. On the walk back from the ridge, maybe; she can't remember. About the contract. About how she can borrow Mau's techniques, any of them, his Blue, his Red, his Infinity, the second Limitless he built inside himself just for her. About how she can pull him to her through her own shadow, from anywhere.
 
 Cross didn't believe her. She could tell. His face did the thing it does when he thinks someone is exaggerating.
 
 “Okay,” she says, grinning. “Watch.” ʸ
-
-* * *
 
 She holds out her hand.
 
@@ -85,8 +79,6 @@ Like a door. Like a door she's walked through a thousand times and has always be
 
 She can't get in.
 
-* * *
-
 “Well?” says Cross. ᶜʳ
 
 She doesn't hear him.
@@ -105,8 +97,6 @@ There's a door there too.
 
 Closed.
 
-* * *
-
 She's sitting on the grass.
 
 She doesn't remember sitting down. She's just there, on the grass by the training posts, with her hands flat on the ground on either side of her, and the yard is very bright and very far away, and her heart is going so fast she can hear it.
@@ -116,8 +106,6 @@ She doesn't remember sitting down. She's just there, on the grass by the trainin
 He's crouched in front of her. She can see his face. She can't hear him properly.
 
 *Ciel*, she says. Down the link. Down whatever's left of it. *Ciel. Noise. Are you there? Is anyone there?* ʸ
-
-* * *
 
 *We're here*, says Ciel. ᶜ
 
@@ -131,15 +119,13 @@ A pause.
 
 A long one.
 
-She doesn't know that inside Mau, in the room with the table, Ciel and Noise are watching him clear a dungeon floor in silence, and feeling everything he's ever locked away come up through him at once, the room he emptied for Fern and the year in his hands and *before you*, all of it, like a tide. She doesn't know that Ciel promised him, this morning, technical things only. She doesn't know that Ciel is choosing her words while drowning in his.
+Ciel takes too long to answer. Yuka counts three breaths, each worse than the one before, and reaches again for a door that does not move.
 
-*He's not hurt*, says Ciel. ᶜ
+*He's not hurt*, says Ciel. *He's clearing the wild gate beyond the ruins. I can give you the position. His own channel is closed; mine is still here.* ᶜ
 
 Yuka breathes out.
 
 *He's asked not to be reached*, says Ciel. *For now.* ᶜ
-
-* * *
 
 Yuka goes very still.
 
@@ -152,8 +138,6 @@ Another pause.
 Noise's voice. Gruff and careful. She's never heard it this careful.
 
 *He doesn't want anyone near him right now*, says Noise. *He's closed everything. Not just yours. He just—needs some time. Away.* ᴺ
-
-* * *
 
 *Anyone*, Noise says.
 
@@ -169,8 +153,6 @@ She hears *me*.
 
 He doesn't want *me* near him.
 
-* * *
-
 *Yuka*, says Ciel, sharply. *Yuka, that isn't what—* ᶜ
 
 But she's stopped listening.
@@ -182,8 +164,6 @@ She can't take them now.
 Not because she's choosing.
 
 Because he closed the door.
-
-* * *
 
 “Yuka.” ᶜʳ
 
@@ -203,11 +183,9 @@ She breathes.
 
 She does.
 
-He doesn't ask what's wrong. He doesn't need to. He saw her face change. He saw her reach for something and not find it. He's seen her like this before. He's the only one who has.
+He doesn't ask what's wrong. He saw her face change. He saw her reach for something and not find it. He was there in the hospital corridor too; she recognises the way he is trying to steady her now.
 
 He stays there, crouched on the grass in front of her with his hands on her shoulders, until she stops shaking.
-
-* * *
 
 She doesn't lean into him.
 
@@ -223,23 +201,21 @@ She doesn't know.
 
 She goes to find out.
 
-* * *
+Nobody has spoken to Mau himself. Shuna heard that he went out early. Frieren knows he is at a gate, and offers to go with Yuka if she wants to meet him outside it. Gojo has the position from Ciel, but no invitation from Mau.
 
-Nobody knows.
+“He's safe at the moment,” he tells her. “That doesn't make leaving without a word all right.” ᴳ
 
-Or nobody will say. She asks Shuna, and Shuna looks at her with a face Yuka can't read and says *he went out early*. She asks Frieren, who looks up from her book and says *I don't know* in a voice that means she does. She asks Gojo, on the wall, and Gojo pushes his blindfold up and looks at her for a long time with the bright eyes and says, for once, nothing at all.
-
-She asks Beru again. Beru says *he asked me to stay with the house*.
+She asks Beru again. He repeats that his king asked him to stay with the house. When she asks who left with him, this time she waits for the answer.
 
 She asks about Makima.
 
-Makima's gone too. Nobody's seen her at the bottom of the porch steps since dawn.
+“Lady Makima,” Beru says. “They took the hill road together.” ᴮᵉ
+
+She had asked where he was. Now she knows. It does nothing to tell her why he has shut her out.
 
 Yuka stands in the middle of the yard and doesn't let herself think about that.
 
-* * *
-
-She waits on the porch all afternoon.
+She tells Frieren she will wait here. Then she waits on the porch all afternoon.
 
 In the old chair. His chair. With her knees drawn up and her arms round them and the notebook in her lap, closed, and the north road and the hill road and the orchard path all in front of her, all empty.
 
@@ -253,21 +229,17 @@ She puts the plate in Yuka's lap. She looks at her very seriously.
 
 Then she goes back inside.
 
-* * *
-
 Yuka looks at the pickles.
 
 She doesn't understand. Then, slowly, she does.
 
-*Ori's been eating pickles*, Maki said. *Every night. In your chair. She hates them. She does it anyway. A child is filling in for you.*
+*Ori's been eating pickles*, Maki said. *Last night. She hates them. A child noticed.*
 
 She looks at the plate in her lap.
 
 She doesn't eat them.
 
 She holds the plate, and looks at the empty roads, and waits.
-
-* * *
 
 The sun goes round to the west.
 

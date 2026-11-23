@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 25
 **Source episode:** S13E115
-**Continuity state:** B+433, the middle of the fight. Mau is all the way there now, and Dabura is the first thing in a long time that's hard enough to kill that Mau can stop holding back. This is what the last year has built: infinite mana from the Black Heart, cursed energy the eyes no longer drink, a body with every point in it, RCT that never switches off, every technique he's ever copied. He lets loose. Light against light. Zoltraak by the hundred with mana that never runs out (Frieren on the ridge: "that's mine too"). Blue and Red at once, then two techniques from two different sources at once. Shrine in its evolved forms. Authority throwing pieces of the quarry. Sky. Bang. The katana with Rika, whole, out for the first time in a real fight. Dabura, who has never met anything that could keep up, laughs the whole time. Nothing runs out, and that's the point. At the end, pushed past everything he knows, Dabura opens the domain he's never opened.
+**Continuity state:** B+433, middle phase. Copied light, Zoltraak, Limitless, Shrine, Authority, Sky, Bang and the already completed katana/Rika are used in concrete sequences. Blue/Red are two applications of one innate technique. Innate routes are changed rather than all firing at once; Infinity plus Shrine retains neural strain. Mana/CE efficiency does not erase grip errors, headache, blood or control limits. Rika manifests fully using the existing ring capacity. Dabura opens his domain.
 
 *When: B+433. Late morning. The sun is high. The quarry walls are already carved from rim to floor.*
 
@@ -21,15 +21,13 @@ And the man in front of him is very, very hard to kill.
 
 He's never fought anyone like that. Not since Sukuna. Everything else, he's had to hold back. The gates, the Monarchs, the Warden: something to protect, something to keep alive, a body that couldn't take it, a reserve that would run dry.
 
-Nothing runs dry now.
+The mana does not run dry. His own techniques scarcely move the CE reserve. He has more physical strength than he has ever been able to spend.
 
-Nothing is holding him back.
+He still has one body to direct it through. For once, he can test that against someone who gets up again.
 
 *Mau*, says Ciel, very quietly. *Technical observation. You're smiling.* ᶜ
 
 He is.
-
-* * *
 
 He sends the light.
 
@@ -37,23 +35,19 @@ Not one. Ten. Out of his palm, the way Noise built it, faster than sound, a fan 
 
 And under the light, Mau opens everything else.
 
-* * *
-
 Mana first.
 
-The Black Heart's. The bottomless kind. He's never once used it the way it wants to be used, because he's never needed to, because there was always a body that couldn't take it or a room too small to spend it in.
+The Black Heart's. The bottomless kind. He has used enormous amounts before. Today his stronger body and the repaired filter let him choose a sustained series instead of spending everything on one intervention.
 
 The quarry isn't small.
 
 He calls Zoltraak.
 
-Frieren's spell. The first one she taught him to fight with, on the road, a long time ago: the killing magic, the demon-killer, a white line of force that goes straight and doesn't stop. He's used it a hundred times. One at a time. Carefully. Counting.
+Frieren's spell. The first one she taught him to fight with, on the road, a long time ago: the killing magic, the demon-killer, a white line of force that goes straight and doesn't stop. He knows its preparation, the aim and the delay before changing that aim. He begins with the same spell he has practised, then gives it more lines to follow.
 
 He doesn't count.
 
 He calls it a hundred times at once.
-
-* * *
 
 On the ridge, Frieren stops breathing.
 
@@ -73,11 +67,9 @@ Her voice is very strange.
 
 The quarry floor is disappearing under them. Hole after hole after hole.
 
-“I've never seen anyone cast it like that,” says Frieren. “I've never seen anyone with enough mana to *try*.” ᶠ
+“He's keeping the next spread ready before the first lands,” Frieren says. “Watch where he's leaving the gap. He wants Dabura to choose it.” ᶠ
 
 Gojo, beside her, has stopped arguing.
-
-* * *
 
 Dabura is laughing.
 
@@ -89,15 +81,11 @@ Not with Infinity. With *Blue*. Big. Not careful, not small, not the size of a f
 
 And then *Red*. In the same instant. From the other hand. Not after: at the same time.
 
-Two techniques at once.
+Two applications of Limitless at once. Pull and push. He knows that combination; it is not the same as holding two independent innate techniques in his body.
 
-He's done that before, a few times, carefully, with Ciel counting and Noise steering and a headache after. Blue in one hand and Red in the other, two directions of the same thing, pulling and pushing.
-
-He does it without thinking. The eyes don't cost. The reserves don't drop. He doesn't have to choose.
+He has already let the copied light go quiet to give Limitless the front of his attention. The Zoltraak sequence is mana work, prepared and redirected rather than another JJK inscription running alongside it. Ciel keeps the distinction precise while he changes what is active.
 
 The Red takes Dabura in the chest and throws him the length of the quarry.
-
-* * *
 
 “That's not possible,” says Maru, on the ridge, very quietly. ᴹᵃʳᵘ
 
@@ -109,9 +97,7 @@ He's sitting forward on his rock with his blindfold off and both eyes open, and 
 
 He watches Mau open Blue again, and Red, and Zoltraak, all at once, without stopping.
 
-“He doesn't have to decide anymore,” says Gojo. “He just *does*.” ᴳ
-
-* * *
+“The reserve isn't the part stopping him now,” Gojo says. “Watch the changes. He still has to put each thing somewhere.” ᴳ
 
 Dabura comes back.
 
@@ -119,13 +105,11 @@ He doesn't come back the way he went. He comes back faster. He's stopped laughin
 
 The tap closes.
 
-On the left. Where it's thinner now than the right, because Mau has been pouring everything out of his right hand.
+On the left this time. Dabura has moved the point of interference instead of returning to the place Mau was ready to defend.
 
 Dabura comes through the gap.
 
 And Mau isn't there.
-
-* * *
 
 He's above.
 
@@ -133,11 +117,11 @@ Sky. The first thing he ever learned that made him feel like more than a man in 
 
 Mau drops.
 
+He keeps Limitless for the landing and opens Shrine as the second innate route. Pressure starts behind the old damaged eye at once.
+
 With Shrine.
 
-* * *
-
-Not the single line. Not the careful cut along a joint. The other ones. The evolutions. The ones he made in this quarry, a long time ago, with Sukuna's archive open in his head and his shadows holding him together. Cuts that don't come from his hand. Cuts that come from the air, from angles that don't exist, from everywhere.
+Not the single line. Not the careful cut along a joint. The other ones. The evolutions. The ones he made in this quarry, a long time ago, from the parts of Sukuna's craft he has already read and practised. He does not open the sealed memory archive now. Cuts that don't come from his hand. Cuts that come from the air, from angles that don't exist, from everywhere.
 
 He doesn't open the one that cuts the world.
 
@@ -155,8 +139,6 @@ He looks up at Mau, still dropping.
 
 “*More*,” says Dabura. ᴰᵇ
 
-* * *
-
 Mau gives him more.
 
 Authority, the grip that isn't Blue. He takes hold of a piece of the quarry wall the size of a house, a piece that light carved loose half an hour ago, and throws it.
@@ -165,21 +147,21 @@ Dabura erases it. Light, through the middle of it, and the house-sized rock stop
 
 By then Mau has thrown three more.
 
-And under them, the katana.
+He closes Shrine before he changes the next innate route. The pressure eases without vanishing.
 
-* * *
+And under the falling stone, the katana.
 
-He hasn't used it in a real fight since the ring.
+The ring and its working shape are already part of the weapon he brings from inventory.
 
 He takes it out of the shadow. The blade with Kaisel's scale in the spine and Beru's chitin in the guard and Kamish's tooth ground into the edge. The ring at the base of it, three rings and the web between, holding cursed energy and mana side by side.
 
 And Rika.
 
-He feels her wake. All of her. Every form, the ones Yuta's ring held and the katana never could, until the workshop, until Mai's corrected curve.
+He calls the full form the katana's completed ring can already hold. The corrected shape matters under this load; it is not a new permission appearing in the middle of the fight.
 
 She comes out of the blade behind him.
 
-The great pale shape of her. The arms. The face that's terrible and gentle at once. She rises over the quarry floor behind Mau as he lands, enormous, and for the first time she isn't half of herself. She's whole.
+The great pale shape of her. The arms. The face that's terrible and gentle at once. She rises over the quarry floor behind Mau as he lands, enormous, and he lets her manifest whole rather than limiting her to a reaching arm beside the blade.
 
 Dabura stops.
 
@@ -191,8 +173,6 @@ Just for a moment. In the middle of the air. Looking up at her.
 
 And Rika goes for him.
 
-* * *
-
 On the ridge, someone else has stopped breathing.
 
 Yuta isn't there. He stayed at the house; he said he didn't need to watch. But Tsurugi is there, his grandson, and Tsurugi is staring down at the quarry with his mouth open, at the shape rising behind Mau, the one he's only ever heard about.
@@ -201,23 +181,25 @@ Yuta isn't there. He stayed at the house; he said he didn't need to watch. But T
 
 “The workshop,” says Frieren, without looking away. “Mai's curve.” ᶠ
 
-* * *
-
 It goes on.
 
 He doesn't know how long. Ciel knows. Ciel always knows. Later she tells him: nine minutes. It feels like an hour. It feels like no time at all.
 
-Light. Zoltraak. Blue and Red at once. Shrine from every angle. Authority throwing the walls. Sky, so that he's never where Dabura's light is going. Rika, whole, the great arms coming down. The katana in his hands, the tooth-ground edge going through things that light can't touch. Bang, once, off two fingers, Makima's, when Dabura gets too close and too fast and too sure.
+Light. Zoltraak. Blue and Red together. Then Shrine while the copied light is quiet, with Limitless held as the other innate route. Authority throwing the walls. Sky, so that he's never where Dabura's light is going. Rika, whole, the great arms coming down. The katana in his hands, the tooth-ground edge going through things that light can't touch. Bang, once, off two fingers, Makima's, when Dabura gets too close and too fast and too sure.
 
-And nothing runs out.
+The reserves do not force him to stop.
 
-That's what he keeps noticing, in the part of him that's still watching from a distance. Nothing runs out. He opens Blue, and the reserve doesn't drop. He calls Zoltraak a thousand times, and the mana doesn't thin. He takes a hole through the thigh, and the RCT is already in it before the pain arrives. He reaches for something and it's there. Every time.
+His hand still does. On the next change from Blue to the copied light, the strengthened fingers close too far around the katana. He eases the grip before it costs the angle. The old damaged finger joints answer with a pain that RCT has never made disappear.
+
+A Zoltraak line lands a pace wider than he intended. He cancels the next spread instead of letting the error multiply. Noise takes the aiming back down to fewer live corrections.
+
+*Two routes*, Ciel says. *Change cleanly.* ᶜ
+
+He obeys. Blood has started beneath one nostril from the overlap with Shrine; he wipes it on his shoulder and puts the next cut where he actually means it. The mana is still there. So is the work of making his body use it.
 
 He's never fought like this.
 
 He's never been *allowed* to fight like this.
-
-* * *
 
 Dabura is laughing again.
 
@@ -228,8 +210,6 @@ He's bleeding from a hundred places and closing a hundred places, and the light 
 Mau knows exactly how he feels.
 
 He doesn't say so. But he's smiling too. He can feel it on his face. The same smile. Two people who have spent their lives holding back because everything round them was too fragile, finally meeting something that isn't.
-
-* * *
 
 And then Dabura stops.
 
@@ -253,6 +233,6 @@ Mau feels it before it happens. The shape folded small at the centre of Dabura, 
 
 It's opening.
 
-“Domain,” says Ciel. ᶜ
+*Domain*, says Ciel. ᶜ
 
 And the world goes white.

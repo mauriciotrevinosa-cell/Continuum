@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 21
 **Source episode:** S13E114
-**Continuity state:** B+431 night to B+432 night. Yuka doesn't come to bed. She sleeps in Ori's room; Ori sleeps in her parents' bed with Mau, deliberately, and tells him so. Mau doesn't sleep. In the small hours he decides to go to the quarry now, alone, a day early, and get it over with. Makima, who felt it through the thread, is sitting on the porch steps waiting for him with her hands folded, and stops him for the third time. B+432 is a long silent day: Yuka in the orchard with Cross, Mau in the workshop with Mai, neither crossing the yard. The notebook on the windowsill has no number on it. Gojo, Frieren and Jin-Woo prepare for the quarry in their own ways. That night Mau opens the stat page and looks at the two thirds he hasn't spent. Nothing else changes.
+**Continuity state:** B+431 night to B+432 night. Ori chooses to sleep beside Mau while Yuka stays in Ori’s room with Frieren. Makima prevents a premature solitary departure; Mau says he wants to return. Mai confronts the unannounced supply cut and he restores that resource path separately on B432, leaving his personal relays closed. Shuna, Rimuru and Frieren actively offer food, conversation and support. One third of the saved allocation remains spent; two thirds stay available until the duel.
 
 *When: B+431, late night, to B+432, night. Nobody wrote a number in the notebook on B+432. It lies open on the windowsill to "56".*
 
@@ -29,13 +29,11 @@ He doesn't say anything.
 
 She pulls the blanket up to her chin.
 
-“So I'm sleeping here,” she says. “Because someone has to.” ᴼ
-
-* * *
+“So I'm sleeping here,” she says. “I wanted to be with you.” ᴼ
 
 He lies down beside her.
 
-He doesn't take his boots off. He doesn't think about it. He just lies on his back on top of the blanket with his boots on and his daughter beside him, very small and very determined, on her mother's pillow.
+He doesn't take his boots off. He doesn't think about it. He just lies on his back on top of the blanket with his boots on and his daughter beside him, very small and very determined, on Yuka's pillow.
 
 She finds his hand in the dark. She holds it.
 
@@ -57,8 +55,6 @@ She doesn't push. She lies there holding his hand, and after a while her breathi
 
 He lies awake.
 
-* * *
-
 He gets up at the darkest part of the night.
 
 He does it carefully, so as not to wake her. He tucks the blanket round her. He goes down the stairs in his boots, which he never took off, and through the dark house, to the back door.
@@ -70,8 +66,6 @@ The quarry. Now. Tonight. Not the day after tomorrow at dawn, the way Maru said.
 He doesn't need anyone. He doesn't want anyone. He closed the doors so nothing would reach him, and nothing will.
 
 He opens the back door.
-
-* * *
 
 Makima is sitting on the porch steps.
 
@@ -89,8 +83,6 @@ He stands in the doorway.
 
 “No,” says Makima. ᴹᵏ
 
-* * *
-
 He comes down the steps. He stops beside her.
 
 She still doesn't look up. She's looking at the yard. At the dark shape of the training posts. At the orchard beyond, where Yuka went.
@@ -103,17 +95,21 @@ He doesn't say anything.
 
 “I have to go.” ᴹ
 
-“You have to go the day after tomorrow,” says Makima. “At dawn. With Gojo and Frieren and Jin-Woo watching from the ridge. With the house knowing where you are. Not now. Not in the dark. Not alone, a day early, so you can stand in a quarry by yourself and wait for someone to come and kill you.” ᴹᵏ
+“You have to go tomorrow,” says Makima. “At dawn. With Gojo and Frieren and Jin-Woo watching from the ridge. With the house knowing where you are. Not now. Not in the dark. Not alone, a day early, so you can stand in a quarry by yourself and wait for someone to come and kill you.” ᴹᵏ
 
 He looks at her.
 
-“That's what this is,” says Makima. “I know it is. I can feel it. You don't want to fight him. You want to go somewhere nobody can see you and have it be over.” ᴹᵏ
+“You want to stop waiting,” Makima says. “That much reaches me. It doesn't tell me what you'll do when you get there.” ᴹᵏ
 
 She finally turns her head and looks up at him.
 
-“That's the stupid thing,” she says. “I'm stopping you.” ᴹᵏ
+“I want to come back,” he says. ᴹ
 
-* * *
+“Then let someone see you leave. Let them know when to expect you. You know how to make that plan.” ᴹᵏ
+
+He looks at the dark yard.
+
+“That's the stupid thing,” she says. “I'm stopping you.” ᴹᵏ
 
 He stands there a long time.
 
@@ -127,17 +123,27 @@ He doesn't make a sound.
 
 Makima doesn't say anything. She doesn't touch him. She just stays, a friend on a step, while the sky starts very slowly going grey over the hills.
 
-* * *
-
 B+432 is very long.
 
-He spends it in the workshop with Mai. He doesn't decide to; he just goes there, after breakfast, which he doesn't eat, and Mai looks at him and doesn't say anything and gives him a beam to hold. He holds it. She builds round it. They don't talk.
+He spends it in the workshop with Mai. He doesn't decide to; he just goes there, after breakfast, which he doesn't eat, and Mai looks at him and gives him a beam for the storage rack she's adding beneath the new floor. He holds it while she checks the dry joint. She has not started her Construction yet.
 
-Mai doesn't ask about the closed door. He felt her reach for his reserves this morning, the way she always does when she starts building, and find them shut. He felt her stop. Then go on with her own.
+Mai doesn't ask him to explain Yuka. She puts the first beam down before she touches her Construction.
 
-She doesn't say anything about it. She just hands him another beam.
+“My supply stopped yesterday,” she says. “The joint was empty, so I could stop. You have to tell me before you do that.” ᴹᵃ
 
-* * *
+He looks at the tools. The prepared socket. The work she has set aside.
+
+“I didn't think about where you were in it.” ᴹ
+
+“I noticed.” ᴹᵃ
+
+“I'm sorry.” He rests a hand beside hers on the bench. “Can we put that part back without opening the rest?” ᴹ
+
+Ciel answers privately: the supply path and the personal conversation can be separated. They check it with Mai before she begins. She draws a little, tests the joint and lets it go. Nothing is taken from her own reserve.
+
+“Tell me if you're going to stop it again,” she says. Then she puts the next beam in his hands. ᴹᵃ
+
+He holds it still while she builds. There is work they can do together without either of them pretending the rest is settled.
 
 Yuka is in the orchard.
 
@@ -151,11 +157,19 @@ He looks away.
 
 He doesn't look again.
 
-* * *
-
 The house moves round them like water round two stones.
 
-Nobody says anything. Not to him. Not, as far as he can tell, to her. Shuna puts food in front of him at lunch and takes it away again, untouched, without a word. Rimuru comes to the workshop door once and stands there, and Mau feels him reach for the thread between them, the one that runs through Ciel, and find it closed, and go away again.
+At lunch Shuna brings a bowl to the workshop. She makes him put the beam down before she leaves it in his hands.
+
+“Three mouthfuls while it's warm,” she says. “Mai can wait three mouthfuls.” ˢᵘ
+
+Mai agrees without looking up. He manages some of it.
+
+Rimuru comes to the doorway afterward.
+
+“Ciel can still reach me,” he says. “I know you closed your part. If you want to talk out loud, I'm here too.” ᴿ
+
+Mau nods. Rimuru stays a little longer, asks about tomorrow's route, and only then goes back to the house.
 
 Frieren comes in the afternoon.
 
@@ -187,11 +201,9 @@ He goes very still.
 
 She goes.
 
-* * *
-
 Gojo prepares by not preparing.
 
-He sits on the wall all afternoon with a bag of sweets, eating them, watching the north road, saying nothing to anyone. At one point Milim asks him if he's going to fight too, and he says *no, I'm going to watch, it's going to be the best fight I've seen in fifty years*, and grins, and doesn't mean the grin.
+He sits on the wall all afternoon with a bag of sweets, eating them, watching the north road, saying nothing to anyone. At one point Milim asks him if he's going to fight too, and he says *no, I'm going to watch, it's going to be the best fight I've seen since I came here*, and grins, and doesn't mean the grin.
 
 Jin-Woo prepares by going to the training posts and standing there, for an hour, completely still, with his eyes closed. When he opens them, he comes to the workshop, and stands in the doorway the way Frieren did.
 
@@ -209,21 +221,17 @@ He's quiet for a moment.
 
 “You'll know when,” says Jin-Woo, and goes. ᴶʷ
 
-* * *
-
 At dinner, she doesn't come.
 
 Ori sits in the chair beside him. She moves it six inches closer. She eats the pickles. She makes the face.
 
 He watches her eat them.
 
-He doesn't eat anything.
-
-* * *
+He breaks the bread and gives her the larger end. She pushes a piece back into his fingers. This time he eats it.
 
 That night, alone in the bedroom, he opens the page.
 
-The stat page. The name at the top. The level. The fields: *Strength. Speed. Endurance. Perception.* All of them a third higher than they were.
+The stat page. The name at the top. The level. The fields: *Strength. Speed. Endurance. Perception.* Each raised by part of the first allocation. One third of the saved pool spent; two thirds still waiting.
 
 And the box at the bottom.
 
@@ -240,8 +248,6 @@ He closes the page.
 He doesn't spend anything.
 
 He lies down beside his daughter, with his boots off this time, and closes his eyes, and doesn't sleep.
-
-* * *
 
 On the windowsill, the notebook lies open.
 

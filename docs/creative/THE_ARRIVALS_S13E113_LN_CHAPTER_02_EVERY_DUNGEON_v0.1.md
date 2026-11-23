@@ -19,8 +19,6 @@ At Makima, one step behind him.
 
 He keeps walking. He doesn't know what else to do.
 
-* * *
-
 She doesn't come to meet him.
 
 She waits at the bottom of the porch steps. She has her arms crossed. She's very pale, and very still, and there's something in her face he's never seen there before, not even in the gate, not even when the box turned red.
@@ -35,11 +33,9 @@ The yard goes quiet. He can feel it go quiet: everyone on the porch, everyone at
 
 It isn't a question.
 
-* * *
-
 He could lie.
 
-He doesn't. He hasn't lied to her since the gate.
+He doesn't. He's been calling things fine that aren't. This answer, at least, comes out plainly.
 
 “A dungeon,” he says. “Past the ruins. A wild one. Medium.” ᴹ
 
@@ -57,8 +53,6 @@ She looks past him. At Makima.
 
 “With *her*,” she says. ʸ
 
-* * *
-
 “Yuka—” ᴹ
 
 “You went to a *dungeon*,” she says. Her voice is getting louder. “Without telling me. Without a note. You were gone before I woke up. And you took *her*.” ʸ
@@ -71,8 +65,6 @@ Her voice cracks.
 
 “At the quarry. I said *from now on I'm coming with you*. Every dungeon. *Every one*. I said it at the bell tower. I said it at the warm house. I said it in the *tent*, Mau, with the lamp. And you went without me. And you took her instead.” ʸ
 
-* * *
-
 He opens his mouth.
 
 “I didn't want to bother you,” he says. “You were—” ᴹ
@@ -80,8 +72,6 @@ He opens his mouth.
 He stops. He doesn't know how to finish it. *You were busy*. *You were happy*. *You were with—*
 
 “You were with Cross,” he says. ᴹ
-
-* * *
 
 He sees it land.
 
@@ -97,23 +87,19 @@ She's shaking.
 
 “And you were in a dungeon,” she says. “With her. All day.” ʸ
 
-* * *
-
 He doesn't know what to say.
 
 Everything he could say is the wrong thing. He can see that. He can see it the way he sees the flow in a technique: every line of it, every way it could go, and all of them going wrong.
 
 *I closed it because I couldn't think.*
 
-*I closed it because I could feel you dreaming and every time I felt you I thought about the corridor.*
+*I closed it because every time I noticed the link I imagined what you were about to tell me.*
 
 *I closed it because you said you wanted to talk to me about something and I thought I knew what the something was.*
 
 He doesn't say any of it.
 
 He stands there.
-
-* * *
 
 “Say something,” says Yuka. ʸ
 
@@ -126,8 +112,6 @@ He looks at her.
 The only colour in the world.
 
 He opens his mouth, and nothing comes out.
-
-* * *
 
 She looks past him again.
 
@@ -153,23 +137,23 @@ She looks at Makima.
 
 “I had *started to trust you*,” she says. ʸ
 
-* * *
-
 Makima flinches.
 
 He feels it. Through the thread. Something in her goes very small and very cold, all at once, like a candle going out.
 
 She doesn't say anything. She can't, he thinks. She hasn't asked if she can speak, and it isn't important, not the way the rule means, and Yuka didn't come to her.
 
-She just takes a step.
+“Yuka.” Maki's voice comes from the steps. “You can be angry with him without doing this to her.” ᴹᵃᵏ
 
-Not toward Yuka. Not away. Sideways. Closer. Until she's half behind him, at his shoulder, the way a child stands behind someone when someone else is shouting. Her face does something he's never seen Makima's face do. It crumples. Very slightly. Like a dog that's been told off and doesn't understand what it did.
+Yuka's eyes move toward her grandmother and back.
+
+Makima takes a step.
+
+Not toward Yuka. Not away. Sideways. Closer. Until she's half behind him, at his shoulder, the way a child stands behind someone when someone else is shouting. Her face does something he's never seen Makima's face do. It crumples. Very slightly. She draws breath, measures the room that is really a yard full of people, and finds no place in it that she can stand without worsening the argument.
 
 She puts one hand on the back of his shirt.
 
 Just one. Small. Holding on.
-
-* * *
 
 Yuka sees it.
 
@@ -185,8 +169,6 @@ That's all it is.
 
 He knows that's not what Yuka sees.
 
-* * *
-
 Something in Yuka's face breaks.
 
 He watches it happen. He'll see it for a long time afterward, at night, with his eyes closed. Not anger. Past anger. Something giving way.
@@ -201,19 +183,19 @@ She steps back.
 
 “I'll stop bothering you,” she says. ʸ
 
-* * *
-
 She turns round.
 
 She doesn't go up the steps. She doesn't go into the house. She goes across the yard, fast, toward the training posts. Toward Cross, standing there with his arms at his sides, watching.
 
 She doesn't stop when she reaches him.
 
-She walks past him, toward the orchard, toward the two old trees and the path beyond them. And Cross looks at her going. And then looks at Mau, across the yard, for one long moment.
+She walks past him, toward the orchard, toward the two old trees and the path beyond them. Shoko comes down a step.
+
+“Stay on the grounds tonight,” she says. “We'll talk when you can hear it.” ˢʰ
+
+Yuka gives a sharp nod without turning round. And Cross looks at her going. And then looks at Mau, across the yard, for one long moment.
 
 And then turns, and follows her.
-
-* * *
 
 Mau stands in the yard.
 
@@ -222,8 +204,6 @@ He doesn't move. He can't. The light is going long and gold across the grass, an
 The only colour in the world, walking away.
 
 *Go with her*, she said. *I'll stop bothering you.*
-
-* * *
 
 He thinks: *I knew*.
 
@@ -237,8 +217,6 @@ He was right.
 
 It hurts anyway.
 
-* * *
-
 Behind him, Makima's hand is still on the back of his shirt.
 
 It's shaking.
@@ -248,8 +226,6 @@ He reaches back without looking, and finds it, and takes it. Not the way Yuka ho
 He holds it.
 
 He doesn't know who's holding whom up.
-
-* * *
 
 On the porch, nobody moves.
 
@@ -267,8 +243,6 @@ She comes down the porch steps, past the plate on the ground and the pickles sca
 
 He stands in the yard in the last of the light, with Makima's hand in one of his and Ori's in the other, and the orchard empty in front of him where Yuka went.
 
-* * *
-
 Maru finds him there, at dark.
 
 He comes across the yard from the north road, quickly, the way he doesn't usually move, and stops in front of Mau, and looks at the three of them, and at the orchard, and at Mau's face. Whatever he sees there, he doesn't ask about.
@@ -282,8 +256,6 @@ Mau looks at him.
 He hesitates.
 
 “He says he's tired of waiting to see if the king is real,” says Maru. ᴹᵃʳᵘ
-
-* * *
 
 Mau doesn't say anything for a long time.
 

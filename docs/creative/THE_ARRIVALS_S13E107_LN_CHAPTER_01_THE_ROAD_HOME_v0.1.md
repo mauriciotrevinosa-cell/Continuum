@@ -25,7 +25,7 @@ He goes back inside and shouts up the stairs. He doesn't shout often. The house 
 
 The house goes out to the gate.
 
-All of it. Nobody decides to; it just happens, the way water goes downhill. Rem with flour on her hands from the kitchen. Ram behind her, walking, not running, very straight. Milim already halfway down the road and being shouted back by Rimuru. Umaru in a dressing gown. Shuna, Shion, Senku with a spanner he forgot he was holding. Frieren, with Ori. Gojo on the wall, blindfold pushed up, grinning. Satella in the doorway, staying there.
+All of it. Nobody decides to; it just happens, the way water goes downhill. Rem in her kitchen apron, flour on her hands. Ram behind her, walking, not running, very straight. Milim already halfway down the road and being shouted back by Rimuru. Umaru in a dressing gown. Shuna, Shion, Senku with a spanner he forgot he was holding. Frieren, with Ori. Gojo on the wall, blindfold pushed up, grinning. Satella in the doorway, staying there.
 
 Yuka beside Mau, holding his hand so hard his fingers hurt.
 

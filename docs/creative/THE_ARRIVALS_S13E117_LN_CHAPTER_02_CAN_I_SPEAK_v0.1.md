@@ -79,7 +79,7 @@ She looks at her hands.
 
 She stops.
 
-“You went into that domain,” she says. “For him. You held his side open with everything you had. Noise had to hold you there and it was costing him everything and you asked him to hold on a little longer.” ʸ
+“In that domain,” she says. “You held his side open for him. From inside. With everything you had. Ciel told me what it costs you.” ʸ
 
 Makima doesn't say anything.
 

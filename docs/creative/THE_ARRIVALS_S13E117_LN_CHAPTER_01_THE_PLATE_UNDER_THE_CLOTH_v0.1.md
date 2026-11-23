@@ -37,19 +37,15 @@ She couldn't feel him either. The door was closed. She stood on the ridge and re
 
 A pause.
 
-*Makima's gone in*, said Ciel. ᶜ
+*Makima's helping*, said Ciel. *From inside. Noise pulled her body back in the instant the domain opened; out there the sure hit would have broken it and gone for her. She's holding his right side open from in here. Where it's thin. So the tap can't close there.* ᶜ
 
 * * *
 
 She didn't understand.
 
-*Gone in*, she said. *What does that mean? She's—how is she—* ʸ
+*From inside*, she said. *How—* ʸ
 
-*She lives in him*, said Ciel. *Wherever he is, she is. She's on his right. Where it's thin. She's holding his flow open on that side, so the tap can't close there. Like she held the weight in the gate.* ᶜ
-
-A pause.
-
-*Noise is holding her body to do it*, said Ciel. *It's costing him everything. She knows. She asked him to hold her a little longer.* ᶜ
+*The way she held the weight in the gate*, said Ciel. *Standing where the tearing is. With everything she has. She knows what it costs her. She's doing it anyway.* ᶜ
 
 And then the domain broke, and the colour that isn't a colour went up out of the quarry into the sky, and the quarry came back, and she saw them.
 
@@ -63,7 +59,7 @@ Holding on.
 
 She stood on the ridge and looked at them.
 
-At Makima, the best strategist her world ever had, who controlled everyone, who had never once in her life done anything for anyone that wasn't for herself. Standing in a domain of light that could erase stone, at the thin place on Mau's right side, holding it open with everything she had.
+At Makima, the best strategist her world ever had, who controlled everyone, who had never once in her life done anything for anyone that wasn't for herself. Holding the thin place on Mau's right side open from inside him, in the middle of a domain of light that could erase stone, with everything she had.
 
 So he wouldn't die.
 

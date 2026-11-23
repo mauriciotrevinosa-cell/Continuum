@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 25
 **Source episode:** S13E116
-**Continuity state:** B+433, the climax. Mau answers with Dabura's own light, copied, and Dabura is overjoyed and furious at once. Pushed, Dabura opens the domain he has never opened: a world of light where the wanting is everywhere and the tap can close from every side. Makima steps in: Mau agreed to fight alone, but she lives in him, so the domain closed on her too: she stands on his thin right side and holds his flow open there, the way she held the weight in the Rulers' gate, while Noise strains to keep her body and the rest of Mau's input comes in raw. Mau breaks the domain from inside with Purple at full. Then, as Dabura comes back at him, Mau calls the wheel up over his head. Dabura's body remembers what his mind doesn't: the great slow wheel he honed himself against for so long. He freezes for one heartbeat. Mau ends it with the light a hair from Dabura's throat. Dabura, on his back, laughs and says do it. Mau says no.
+**Continuity state:** B+433, the climax. Mau answers with Dabura's own light, copied, and Dabura is overjoyed and furious at once. Pushed, Dabura opens the domain he has never opened: a world of light where the wanting is everywhere and the tap can close from every side. Makima helps without entering the domain: a domain is a sure hit that would break the body Noise holds for her and then go for her soul, so Noise pulls her body back inside Mau the instant it opens. From inside, she holds his thin right side open, the way she held the weight in the Rulers' gate, which also frees Noise to hold back part of the flood. Mau breaks the domain from inside with Purple at full. Then, as Dabura comes back at him, Mau calls the wheel up over his head. Dabura's body remembers what his mind doesn't: the great slow wheel he honed himself against for so long. He freezes for one heartbeat. Mau ends it with the light a hair from Dabura's throat. Dabura, on his back, laughs and says do it. Mau says no.
 
 *When: B+433. Late morning. The sun is high over the quarry. On the ridge, Gojo is still standing.*
 
@@ -141,45 +141,49 @@ From the back of him. In the thread. The voice that always asks.
 
 It stops. Starts again. Without the question.
 
-*It's important*, says Makima. *I'm coming in.* ᴹᵏ
+*It's important*, says Makima. *I'm here. Inside.* ᴹᵏ
 
 * * *
 
-She's there.
+She isn't beside him.
 
-On his right. In the light. In her own body, the one Noise holds for her, standing beside him on one knee in the middle of Dabura's world with her hands folded in front of her, the way she stands everywhere.
+He realises it all at once. She was at the edge of the quarry floor when the world went white, three steps behind him, in the body Noise holds for her. And she isn't there now. There's no one in the light but him and Dabura.
 
-She shouldn't be able to be here. The domain closed on him. She's outside—
+*Noise pulled me in*, says Makima. *Before it closed. The instant he started to open it.* ᴹᵏ
 
-No. She isn't outside. She lives in him. Wherever he is, she is. He said he'd fight Dabura alone, and nobody from the ridge has come down.
+*I don't know if his has a sure hit*, says Noise. Strained. Fast. *A first domain, never opened, might not. Yours didn't, until you made one by compressing several into one. But if his does, anything of ours standing out there in it gets hit. Her body would break. And under the body, the thing it would go for next is her. I wasn't going to find out on her.* ᴺ
 
-But she isn't from the ridge. She lives in Mau.
+Her. Not a body Noise can rebuild. The part of her that's bound to him, that gave up coming back for it.
 
-*Your right side*, she says. *Where it's thin. Where he keeps getting in.* ᴹᵏ
+*So I'm in here*, says Makima. *Where the domain can't reach anything but you. It's better. Noise doesn't have to hold a body for me now. And I don't need hands for this.* ᴹᵏ
 
-She puts her hand on his shoulder. The right one.
+* * *
 
-*I'll hold it*, she says. *The flow. The tap. On this side. Like the weight, in the gate. Whatever he closes, I'll hold it open. You do the rest.* ᴹᵏ
+He feels her move inside him.
+
+Not in the room with the table. Further in. To the place where the door was in the gate, where everything came through and she stood and held it. Only she isn't holding everything now. She's going to one place. His right side. Where the flow runs out of him into the Infinity, where it's thin, where Dabura keeps getting in.
+
+*I'll hold it*, she says. *The flow. The tap. On this side. From in here. Whatever he closes from out there, I'll hold it open from in here. Like the weight, in the gate. You do the rest.* ᴹᵏ
 
 * * *
 
 He feels her do it.
 
-Something steadies on his right. The tap closes, the thousand hands reaching for it from everywhere, and on the right side it doesn't close. Something is holding it. Something that controlled everyone in her world, holding one small thing open for one person, with everything she has.
+Something steadies on his right. The tap closes, the thousand hands reaching for it from everywhere, and on the right side it doesn't close. Something is holding it. From the inside. Something that controlled everyone in her world, holding one small thing open for one person, with everything she has.
 
 The Infinity comes back on the right.
 
 Only the right. The rest still flickering. But the right holds.
 
-*Noise*, says Makima, very calm. *I know you're holding my body. I know it's costing you. I'm sorry. Hold it a little longer.* ᴹᵏ
+And with her body gone back inside, Noise has a little more to spare.
 
-*I've got you*, says Noise. Strained. Enormous. *I've got you. Go.* ᴺ
+*Got it*, says Noise. *I've got the flood. Some of it. Enough. Go.* ᴺ
 
 * * *
 
 He stands up.
 
-In the middle of the light, with Makima at his right shoulder holding his flow open, and Noise straining to hold her there, and Ciel counting, and everything pouring in raw and loud and unbearable.
+In the middle of the light, with Makima inside him holding his right side open, and Noise holding back what it can of the flood, and Ciel counting, and the rest pouring in raw and loud and unbearable.
 
 He stands up anyway.
 
@@ -207,7 +211,7 @@ The domain breaks.
 
 The quarry comes back.
 
-All at once. The sky, the walls, the broken floor, the ridge. He's standing in the middle of the quarry floor with his hands still together, and Makima at his right shoulder, and the line of Purple still going, up and out, over the rim of the quarry, into the sky, gone.
+All at once. The sky, the walls, the broken floor, the ridge. He's standing in the middle of the quarry floor with his hands still together, and as the light goes, Noise lets Makima back out, at his right shoulder, a hand on it, and the line of Purple still going, up and out, over the rim of the quarry, into the sky, gone.
 
 Dabura is on his knees, thirty paces away.
 

@@ -74,7 +74,7 @@ Maki looked at the brazier.
 
 Nobody said anything.
 
-"She was ten when Yuta died," said Maki. "In my life. In hers. I'd gone a few years before. She was the one who was always with him. *Grandpa's little girl*, everyone called her. She followed him round the house. She sat on the end of his bed when he was ill. He gave her his ring on a cord when she was six, on a beach, and told her it would watch over her until she was a real sorcerer." Her voice did not change. "And after he died, the family took the ring off her and gave it to her brother. Because they thought he was more suited."
+"She was ten when Yuta died," said Maki. "In my life. In hers. I'd gone the year before. He went slowly after that. She was the one who was always with him. *Grandpa's little girl*, everyone called her. She followed him round the house. She sat on the end of his bed when he was ill. He gave her his ring on a cord when she was six, on a beach, and told her it would watch over her until she was a real sorcerer." Her voice did not change. "And after he died, the family took the ring off her and gave it to her brother. Because they thought he was more suited."
 
 Frieren had looked up.
 

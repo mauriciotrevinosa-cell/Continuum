@@ -70,8 +70,9 @@ not on this list. Add a line every time the creator catches a new slip.
   not two.
   The same goes for **Rem** (S3, the second rescue): "more than a year" by
   V25. Himmel arrived in S2 (S2E18).
-- **Maki died a few years before Yuta**; Yuka was ten when he died and about
-  seven when Maki did (V22 "Look at Me", V23 "Not Twice").
+- **Maki died about a year before Yuta**; Yuta faded slowly after her and died
+  when Yuka was ten, so Yuka was about nine when Maki died (V23 "Not Twice";
+  Mauri's correction from Modulo, 2026-11-23).
 - **Yuka's ring was across her room**, off the cord, when the coin found her.
   Continuum brought it (V24 "Grandpa's Little Girl").
 - **Mai has heard the name Yuka** at the crackers table (V23 "Not Twice").
@@ -563,4 +564,4 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 - **Beatrice y Echidna** (Mauri, 23 de noviembre de 2026): se conocían en su mundo y vivieron juntas hasta que Echidna murió. Echidna vive en su espacio del pueblo (el Inn ya es un pueblo, no una sola casa). Su biblioteca está detrás del cuarto sin nombre desde Moving Day. Desde V83 #8 Beatrice la comparte y la abre en varias puertas con Door Crossing. **Regla de Mau: Beatrice no es la keeper.** No espera adentro, come con todos y sale todos los días.
 - **Subaru llegó de antes de la S2 de Re:Zero** (Mauri, 23 de noviembre de 2026): **no existe contrato entre Beatrice y Subaru.** Beatrice sigue atada al contrato de Echidna: cuidar la biblioteca hasta que llegue *esa persona*. **Como Echidna está viva, el contrato ya no se sostiene** (se hizo para un mundo donde ella había muerto). En V83 #8 Mau lo ve flojo con los Six Eyes. Echidna solo se ríe. Mau saca la rueda, sin que gire, como una posibilidad *no probada*: la rueda solo se adapta a lo que lo lastima a él, así que tendría que cargar el peso del nudo, y nunca lo ha intentado con algo que no sea suyo. A Echidna le encanta la idea de averiguar si es posible; quedan en verlo después. Mau propone que *esa persona* quizá no sea una persona sino un lugar, una casa que la va a querer ahí, y que tal vez ya lo encontró. Beatrice "lo va a pensar" (semilla: ella decide cuándo). Mientras tanto, la regla: no espera adentro.
 - **La rueda ya se usó dos veces por otros** (Mauri, 23 de noviembre de 2026): (1) la mamá de Coco (S4E30): Mau deja que el cristal lo tome y la rueda lo aprende; (2) Nazuna y Ko (S10E41): Mau sostiene en su cuerpo el estado de Ko, con la rueda lista, para comprobar antes si Nazuna o Ko mueren si ella toma su sangre. El patrón: Mau toma la cosa en sí mismo para que la rueda pueda girar. Un contrato (el de Beatrice) nunca se ha probado.
-- **Los abuelos de Yuka ya estaban muertos en lo de Modulo** (Mauri, 23 de noviembre de 2026): cuando Yuka se estaba muriendo y Cross la vio en el pasillo, Maki y Yuta llevaban años muertos. No escribir que "los abuelos no sabían" o "no la vieron" en ese tiempo. Corregido en V83 #10 y #14. (Edades: el canon escrito dice Maki muere cuando Yuka tenía unos 7 años y Yuta cuando tenía 10; Mauri recuerda 9 para Maki. Falta que confirme.)
+- **Los abuelos de Yuka ya estaban muertos en lo de Modulo** (Mauri, 23 de noviembre de 2026): cuando Yuka se estaba muriendo y Cross la vio en el pasillo, Maki y Yuta llevaban años muertos. No escribir que "los abuelos no sabían" o "no la vieron" en ese tiempo. Corregido en V83 #10 y #14. (Edades: Maki muere cuando Yuka tenía unos 9 años; Yuta se va apagando y muere un año después, cuando ella tenía 10.)

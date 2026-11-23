@@ -422,3 +422,20 @@ Propuesta de Claude, por secundar:
 Pendiente de confirmar con Mauri: si va insertado en V83 (después de #8) o abre V84 antes de los Devils, y qué recuerda esta Echidna de su muerte.
 
 **Escrito (23 nov 2026):** insertado en V83 #8 *Permanent*, por decisión de Mauri. Echidna viene de su espacio en el pueblo (el Inn ya es un pueblo) a devolverle un libro a Frieren y encuentra a Beatrice en el window seat. "Beatrice." / "Mother." Echidna no se disculpa: nombra el libro en blanco como algo cruel y lo deja en la mesa. Le enseña el cuarto sin nombre (callback a Moving Day, "a door at the end of it"). Con Door Crossing, Beatrice abre la biblioteca a varias puertas de la casa. Al atardecer Mau pone la regla de no ser keeper; Echidna: "You will find you keep them anyway." Yuka le da la mano y Beatrice sale.
+
+
+## V84: la guerra de Yoru, cómo termina (Mauri, 23 de noviembre de 2026)
+
+> mira tengo una idea para lo que sigue me encanta que makima le diga a mau como funcionan los devils pq makima le recomendo maatrlos y mau dice no al matar y makima le explcia que matarlos los rencarna sin memoria de la casa sin memoria de ellos mau dice que entonces no los mata y makima le dice si pero como son conceptos miedos en forma fisica no hay mucho qu ehacer. Entonces me gusta que sea algo muy simple un unlimited hollow purple de limpia que uite a la mayoria de gente y mau use los soldados para arrinconar a todos y desde arriba kamish lanza el fuego y terminan con todo en un parpadear y yoru solo dice que aburrido y se va y me gusta que mau regrese pero ya le pego todo el cansancio y su cuerpo queriendo dormir despues de lograr lo ultimo y me gusta que mau y makima regresen osea todo mundo esperando que se tarde un rato regresa en nada y antes de pensar va con shoko le dice la verdad completa y de que entre todo pq cerro todo le dice todo y mientras platica shoko lo ve cabezeando le pone una venda le dice que tome agua y mau le agarra la mano y le pide que le cuente como va con gojo y se queda dromido con la mano de shoko y yuka puede ausstarse pq fue directo ala clincia y solo le dicen que necesita dormir
+
+Dirección:
+- **Makima le explica los devils.** Ella recomienda matarlos y Mau dice que no. Makima le explica que matarlos los reencarna sin memoria: de la casa, de ellos. Mau dice que entonces no los mata. Makima: sí, pero son conceptos, miedos en forma física; no hay mucho que hacer.
+- **Final simple y rapidísimo:** un Purple de limpieza; los soldados de sombra arrinconan a todos; Kamish lanza fuego desde arriba. Todo termina en un parpadeo. Yoru: "qué aburrido", y se va.
+- **El regreso:** todos esperan que tarde, y Mau y Makima vuelven casi de inmediato. Le cae todo el cansancio; su cuerpo quiere dormir después de lograr lo último.
+- **Directo con Shoko, antes de pensar:** le dice la verdad completa, todo lo que cerró. Ella lo ve cabeceando, le pone una venda y le dice que tome agua. Mau le agarra la mano y le pide que le cuente cómo va con Gojo. Se queda dormido con la mano de Shoko.
+- **Yuka se asusta** porque él fue directo a la clínica. Solo le dicen que necesita dormir.
+
+Notas de Claude (canon, por verificar al escribir):
+- Chainsaw Man: un devil que muere en la Tierra va al Infierno, y uno que muere en el Infierno renace en la Tierra, sin recuerdos. Coincide con lo que dice Makima.
+- **Power es fiend** (devil en un cadáver humano). Si muere, el Blood Devil renace sin recordar a Denji. Eso le da peso a la conversación: la limpieza es para la horda, no para los que la casa quiere salvar.
+- Mau tiene Purple practicado (MAU_CURRENT_KIT). Kamish es el dragón de la casa.

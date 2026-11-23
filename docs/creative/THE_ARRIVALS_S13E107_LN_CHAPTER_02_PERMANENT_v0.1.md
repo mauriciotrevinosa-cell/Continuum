@@ -405,9 +405,13 @@ That makes her look up. Suspicious.
 
 “This is your library,” he says. “Yours and Echidna's. Open it wherever you want. Every door in the town, if you like. But you're not its keeper.” ᴹ
 
-“Betty is not anybody's keeper,” she says. “Betty has a contract, in fact. With Subaru.” ᴮᵉᵃ
+“Betty *is* its keeper,” she says. “Betty has always been its keeper, in fact. That is the contract. Until *that person* comes.” ᴮᵉᵃ
 
-“I know. That's not what I mean.” He keeps his voice gentle. “I mean you don't sit in here waiting. Not for anyone. There's nobody to wait for. Everyone you'd be waiting for is outside, in the yard, and they'd like you to come and watch Ori give Emilia a paper badge.” ᴹ
+She doesn't look at Echidna when she says it. She very carefully doesn't look at Echidna.
+
+In the chair by the lamp, Echidna's page stops turning.
+
+“Then the contract is between you and her,” says Mau. “I'm not asking you to break anything. I wouldn't know how.” He keeps his voice gentle. “I'm asking you not to sit in here waiting. Not for anyone. There's nobody to wait for. Everyone you'd be waiting for is outside, in the yard, and they'd like you to come and watch Ori give Emilia a paper badge.” ᴹ
 
 He waits.
 

@@ -356,3 +356,18 @@ Timeline anchor: V82 ends after the Fort day (about B+405). Yoru's contract runs
 
 - **Everything Mau carries at once:** reliving psychological and physical damage, the world of information (eyes plus Heavenly Restriction), the information from the constructions that Noise normally keeps under control while he fights, and on top of that, Yuka.
 - **Ori helps her dad.** She sees him down or stressed and supports him the way Ori can. Claude's proposal: small and concrete, in Ori's way (a note, sitting with him without asking, bringing him something), never therapy talk. She notices before the adults say anything.
+
+## List v2 changes (22 November 2026)
+
+> lo del plato me encanta ve que yuka no se sienta con el y ella se sienta con el y le roba y mau solo disfruta este rato con su hija que bello y que ori le pregunte si todo bien y mua le dice que tiene mucho en su cabeza y ori pregunta por el duelo y mau el dice en parte
+
+> va haz el v2 o creo que ya tenemos todo para arrancar solo esos cambios y recuerda el minimo de promedio es de 1500 palabras pro cap pero si lo haces mas grande esta bien peor que valga la pena no loq ue hiciste la otra ves de repetir lo mismo 20 veces
+
+- **A** adds Beru's exploration outing (Ori on Beru's shoulder; Frieren, Yuka, Fern, Stark, Himmel).
+- **B** adds the Re:Zero reunion (Beatrice and Puck; Emilia faces Satella; Ram and Rem close things with Subaru; Emilia joins the Fort). Satella's envy stays a quiet seed.
+- **C**, after the plate: **Ori sees Yuka isn't sitting with him, so she sits with him and steals off his plate.** Mau just enjoys the time with his daughter.
+  - Ori asks if everything's okay. Mau: he has a lot on his mind.
+  - Ori asks about the duel. Mau: partly.
+- **E/F:** in Yoru's test only those who live in Mau can fight (Makima, Ciel, Noise). Makima's body is held by Noise; Mau's analysis never stops.
+- **Writing rule:** about 1,500 words per chapter on average, longer if it earns it. No repeating the same beat over and over.
+- **Volume numbering:** the new volume is **V83**, starting at **S13E104**, **B+406**.

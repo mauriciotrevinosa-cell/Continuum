@@ -396,3 +396,8 @@ Timeline anchor: V82 ends after the Fort day (about B+405). Yoru's contract runs
 ## Pending (Mauri, 23 November 2026)
 
 - **Gojo's real rematch** after the reconciliation, with Mau whole and both of them going all out. In V83 #15 the rematch was deliberately a way to get Mau to open up, and Mauri likes it that way. Gojo: "You'll beat me next time if you're actually here."
+
+
+## Semilla: Rem le dice "te quiero" a Umaru (Mauri, 23 de noviembre de 2026)
+
+Patrón de Rem: cada paso con Umaru (su date, lo que sintió en el festival) se lo cuenta primero a Mau o le pide ayuda. V83 #8 sigue ese patrón: la primera vez que dice "I love Umaru" en voz alta es a Mau. Cuando se lo diga a Umaru en la cara, que salga de ese mismo hilo: primero Mau, luego ella. Escena pendiente; sin fecha.

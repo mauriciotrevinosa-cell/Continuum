@@ -59,7 +59,7 @@ She remembers his face. Afterward. In the corridor. When she told him what it me
 
 She didn't know he'd looked for her.
 
-“When you were gone,” Cross says. “After. You just stopped being anywhere. Your brother didn't know. Your grandparents didn't know. Nobody knew. And I thought—” ᶜʳ
+“When you were gone,” Cross says. “After. You just stopped being anywhere. Your brother didn't know. Nobody knew. And I thought—” ᶜʳ
 
 He stops.
 
@@ -141,7 +141,7 @@ It isn't love. She knows what love is now. Love is Mau carrying her down the sta
 
 This is something else.
 
-This is being *seen*. From before. From when she was the most frightened she'd ever been in her life and pretending not to be, and nobody saw it, nobody at all, not her brother, not her grandparents, nobody, except a boy from another planet who didn't know what a hospital was and sat in a plastic chair with his knees up round his ears.
+This is being *seen*. From before. From when she was the most frightened she'd ever been in her life and pretending not to be, and nobody saw it, nobody at all, not her brother, not anyone (her grandparents had been gone for years by then), nobody, except a boy from another planet who didn't know what a hospital was and sat in a plastic chair with his knees up round his ears.
 
 Nobody has ever seen her like that. From then. Mau never saw her then. Mau didn't know her then. Mau has seen her frightened since, a hundred times, but never *that* frightened. Never when it was her who was dying.
 

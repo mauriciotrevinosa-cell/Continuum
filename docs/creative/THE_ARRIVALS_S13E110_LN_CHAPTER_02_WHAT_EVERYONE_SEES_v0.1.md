@@ -159,7 +159,7 @@ Cross is her friend.
 
 Cross saw her in the corridor, with her hands shaking too much to open the door.
 
-Nobody else saw that. Nobody. Not Granny. Not Grandpa. Not Tsurugi. Not Mau, who didn't know her then, who has seen her frightened a hundred times since but never like that, never when she was the one dying.
+Nobody else saw that. Nobody. Not Tsurugi. Not Granny or Grandpa, who had been gone for years by then. Not Mau, who didn't know her then, who has seen her frightened a hundred times since but never like that, never when she was the one dying.
 
 That's all it is. Someone who saw. She's allowed to have someone who saw.
 

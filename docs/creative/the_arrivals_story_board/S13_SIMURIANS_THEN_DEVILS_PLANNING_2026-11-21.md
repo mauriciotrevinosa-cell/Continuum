@@ -439,3 +439,28 @@ Notas de Claude (canon, por verificar al escribir):
 - Chainsaw Man: un devil que muere en la Tierra va al Infierno, y uno que muere en el Infierno renace en la Tierra, sin recuerdos. Coincide con lo que dice Makima.
 - **Power es fiend** (devil en un cadáver humano). Si muere, el Blood Devil renace sin recordar a Denji. Eso le da peso a la conversación: la limpieza es para la horda, no para los que la casa quiere salvar.
 - Mau tiene Purple practicado (MAU_CURRENT_KIT). Kamish es el dragón de la casa.
+
+### Segunda ronda, mismo día
+
+> si aqui denji reze y power no estan tengo un plan para ellos cuando sea lo de asa y si que agregue como funcione
+
+> un unlimted hollow purple es basicamente poniendole todo lo que puedas a la tecnica normalmente cuando la haces deja espacio pq es algo que es duro entonces poner tu 100% en el es tu concentracion y todo en el osea es un trade off por un os segundo no se puede mover y se tiene que controlar y aqui me gusta que makima entre y demuestre su calibreque les diga a todos stop y la mayoria se detiene de golpe sino es que todos y eso hace que el hollow purple destruya a la mayoria demostrando el terror real del combo de control con literalmente le poder de borrar todo
+
+> lo tenia pensado aun mas para la pelea con yoru halloween y el resto nos son pendejos los que fueron son como los perros hambrientos yendo a destruir algo antes de que agarre vuelo
+
+> la prueba s edicta que es ella convirtiendolo en una prueba lo de los 90 dias siguen en pie el que aburrido es que ella esperaba que mau se divirtiera y extendiera pero no tres movimientos y dos de el no son suyos uno e sd emakima y uno de kamish
+
+> y esto nos da muy bein mau dormido y me gusta que tal evs shoko le dio algo para que duerma bien y shoko le cuenta todo lo que mau sintio y recuerda la misma pendejada que hizo antes del gate y mau viviendo cone sa respuesta entocnes le hace ams sentido esta reaccion lleva aun cargando con lo que penso aun pq mau no olvida guarda als cosas detras de una puerta y esa puerta se ah abierto multiples veces
+
+Dirección:
+- **Denji, Reze y Power NO están en esta guerra.** Mauri tiene un plan para ellos en el arco de Asa. Sí se incluye cómo funcionan los devils (muerte, Infierno, renacer sin memoria).
+- **Unlimited Hollow Purple:** Purple con el 100% de Mau, toda la concentración. Es un trade-off: por unos segundos no se puede mover y tiene que controlarlo.
+- **Makima muestra su calibre:** dice "Stop" y la mayoría, si no todos, se detiene de golpe. El Purple borra a la mayoría. Es el terror real del combo: control más el poder de borrarlo todo.
+- **Movimientos:** Purple (Mau), Stop (Makima), soldados de sombra arrinconando y fuego de Kamish desde arriba.
+- **Los devils que vienen no son los fuertes:** son perros hambrientos que van a destruir algo antes de que agarre vuelo. **Halloween contra Unlimited Void queda para la pelea con Yoru** misma.
+- **Yoru:** la "prueba" la dicta ella, convirtiendo la guerra en prueba. **Los 90 días siguen en pie.** "Qué aburrido" porque esperaba que Mau se divirtiera y lo extendiera: fueron tres movimientos, y dos ni siquiera fueron suyos (uno de Makima y otro de Kamish).
+- **Después:** Shoko le da algo para que duerma bien. Shoko le cuenta a Yuka todo lo que Mau sintió. Yuka recuerda la misma tontería que hizo antes del gate, y que Mau ha vivido con esa respuesta; por eso le hace más sentido su reacción. Mau sigue cargando lo que pensó, porque no olvida: guarda las cosas detrás de una puerta, y esa puerta se ha abierto varias veces.
+
+Pendiente de confirmar con Mauri: cuál es "la misma tontería que hizo antes del gate" (qué gate y qué hizo Yuka).
+
+Nota de canon: el Control de Makima funciona sobre quienes ella considera inferiores, así que un "Stop" masivo sobre devils menores es coherente.

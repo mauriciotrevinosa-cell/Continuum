@@ -420,3 +420,5 @@ Propuesta de Claude, por secundar:
 - La regla de Mau: aquí nadie es keeper. La biblioteca se abre para ella, pero ella vive en la casa: come con todos, sale con la Fort y sigue en el window seat de Frieren cuando quiera. No es un contrato, es una regla de familia. Ella protesta ("I suppose").
 
 Pendiente de confirmar con Mauri: si va insertado en V83 (después de #8) o abre V84 antes de los Devils, y qué recuerda esta Echidna de su muerte.
+
+**Escrito (23 nov 2026):** insertado en V83 #8 *Permanent*, por decisión de Mauri. Echidna viene de su espacio en el pueblo (el Inn ya es un pueblo) a devolverle un libro a Frieren y encuentra a Beatrice en el window seat. "Beatrice." / "Mother." Echidna no se disculpa: nombra el libro en blanco como algo cruel y lo deja en la mesa. Le enseña el cuarto sin nombre (callback a Moving Day, "a door at the end of it"). Con Door Crossing, Beatrice abre la biblioteca a varias puertas de la casa. Al atardecer Mau pone la regla de no ser keeper; Echidna: "You will find you keep them anyway." Yuka le da la mano y Beatrice sale.

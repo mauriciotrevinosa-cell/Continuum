@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 8
 **Source episode:** S13E107
-**Continuity state:** B+420 ("67"). The day after the arrival. Subaru asks Mau to sit with him while he talks to Rem and Ram, because he doesn't trust himself not to run. He apologises properly. Rem forgives him with her whole heart. Ram forgives him too, and tells him plainly that forgiving isn't the same as fixed: the damage to what was between them is permanent, and he'll have to live next to the crack. He accepts it. Emilia has tea with Satella, with Yuka and Mau carrying the cups; Satella answers what she can and says "not yet" to the rest. Beatrice inspects the house's "library" (Frieren's shelves, Senku's notebooks, the grimoire Frieren keeps for Mau) and moves in among Frieren's books without asking. In the afternoon the Fort inducts Emilia as a member, with Ori presiding. Cross is at the edge of every room Yuka is in.
+**Continuity state:** B+420 ("67"). The day after the arrival. Subaru asks Mau to sit with him while he talks to Rem and Ram, because he doesn't trust himself not to run. He apologises properly. Rem forgives him with her whole heart. Ram forgives him too, and tells him plainly that forgiving isn't the same as fixed: the damage to what was between them is permanent, and he'll have to live next to the crack. He accepts it. Emilia has tea with Satella, with Yuka and Mau carrying the cups; Satella answers what she can and says "not yet" to the rest. Beatrice inspects the house's "library" (Frieren's shelves, Senku's notebooks, the grimoire Frieren keeps for Mau) and moves in among Frieren's books without asking. Echidna, coming across from the witches' side of the town to return a book, finds her in Frieren's window seat: they knew each other in their own world and lived together until Echidna died. Echidna takes her to the room with no name, behind whose door her library has always been; Beatrice uses Door Crossing to open it onto doors all over the house. At sunset Mau makes a rule: it's her library and Echidna's, but she is not its keeper and doesn't wait inside it; she eats with everyone and comes out every day. In the afternoon the Fort inducts Emilia as a member, with Ori presiding. Cross is at the edge of every room Yuka is in.
 
 *When: B+420. Morning to evening. Yuka wrote "67". Subaru has been awake since before dawn, sitting on the back steps.*
 
@@ -277,11 +277,171 @@ She walks in and reaches toward the cloth-wrapped book. Frieren puts a finger on
 
 Beatrice inspects them, chooses the thickest, and climbs onto the window seat. She settles the book on her knees and opens it. Frieren shifts her own cup far enough to leave room for another. Neither calls attention to it.
 
-Beatrice doesn't come out again until dinner.
+Frieren watches her for a while. Then she goes back to her own book, and doesn't say anything, and for most of an hour the room is two people reading a foot apart in total silence.
 
-Frieren watches her for a while.
+* * *
 
-Then she goes back to her own book, and doesn't say anything, and when Fern comes to call them both for dinner she finds them sitting a foot apart in total silence, each reading, and both of them, she reports later, looking extremely pleased.
+Mau and Yuka come up the stairs at five with the empty cups from Satella's tea.
+
+They are halfway along the corridor when someone knocks on Frieren's open door behind them. Mau turns. It's Echidna, in her long robe, with a book under her arm. She has walked over from the witches' side of the town, the way she does once a week, to return whatever she borrowed from Frieren last time and borrow something worse.
+
+She steps into the doorway and says, “Frieren, the third chapter of this is wrong, and I want to tell you why—”
+
+And stops.
+
+Beatrice has looked up from the window seat.
+
+Mau has seen Echidna surprised before, a few times. It's usually a pleased thing, a sharpening, the look of someone who's just been handed a new question. This isn't that. Her face doesn't sharpen. It goes still, completely, the way a room goes still when somebody drops a cup and nobody has heard it land yet.
+
+The book slides a little under her arm. She doesn't catch it. Frieren does, without getting up, and puts it on the table.
+
+Beatrice doesn't move at all.
+
+“Beatrice,” says Echidna. ᴱᶜ
+
+It's very quiet. Not the voice she uses at the tea table, the one that makes every sentence a door you have to decide whether to go through. Just a name.
+
+Beside Mau, Yuka has stopped breathing. Her hand has found his sleeve.
+
+Beatrice's hands are flat on the open book in her lap. Her chin is up. Her face is doing the thing Mau has seen it do twice since yesterday, at the gate and at the library that wasn't one: holding very hard onto an expression so that no other expression can get in.
+
+“Mother,” she says. ᴮᵉᵃ
+
+That's all.
+
+Frieren looks from one to the other. Then she gets up, picks up her cup, and goes past Echidna into the corridor without a word, and stands next to Mau and Yuka, and drinks her tea there, as if that's where she always drinks it.
+
+* * *
+
+They don't hear everything. They aren't meant to. Mau steps back far enough that it isn't listening and stays close enough that he's there.
+
+He hears Echidna say: “You were in the library when I died. ᴱᶜ”
+
+He hears Beatrice say nothing for a long time.
+
+He hears Echidna say: “I left you a book with nothing written in it. ᴱᶜ”
+
+And then, after a while, with something in it he has never heard in her voice in all the years of tea: “That was a cruel thing to leave a child. I have had a long time to read about cruelty, and I did not need to read very far. ᴱᶜ”
+
+It isn't an apology. Mau knows Echidna well enough to know she would consider an apology a way of making the other person do the work of forgiving. It's a fact, set down on the table between them, and left there.
+
+Beatrice says something too low to hear.
+
+Echidna says: “Yes. I know. ᴱᶜ”
+
+Then Beatrice says, louder, in the voice of someone who has decided to be furious because the alternative is worse: “You were *dead*, I suppose. Four hundred years dead. And you are here. Drinking tea. In a town with a *dragon* in the orchard. Borrowing books from an elf.” ᴮᵉᵃ
+
+“The elf has good books,” says Echidna. ᴱᶜ
+
+“This house has no library!” ᴮᵉᵃ
+
+Frieren, in the corridor, sips her tea.
+
+Echidna is quiet for a moment. Then she says, “Come with me.” ᴱᶜ
+
+* * *
+
+She takes Beatrice to the end of the north corridor upstairs. Past Aira's room. Past the cellar stair. To the room with no name.
+
+Mau follows, with Yuka. Echidna doesn't tell them not to.
+
+It's a small room. It always has been. Mau asked Wakana to draw it, a long time ago, before there was a town, when the Inn was just an inn and a plan on the table with names going on it in ink. *For somebody who arrives,* he'd said, *and doesn't stay a stranger.* And Echidna had stood at the back of the common room and said *leave it*, and asked for a door instead of a name.
+
+She opens it.
+
+Behind it, the lamp. The chair. And the shelves, going back and back and up and up, much further than the corridor outside could possibly hold, row after row into a dimness that doesn't seem to have an end. The smell of old paper. The quiet of a place that has been quiet for a very long time.
+
+Beatrice stands on the threshold.
+
+She knows it. Mau can see her know it with the Six Eyes, in the way her whole small body goes stiff and then, just slightly, leans forward. Not the same library. It can't be. But the same hand made it.
+
+“I asked for this room on the forty-seventh day,” says Echidna, “for my books. I told them a room only has to have a door. And I said that when somebody arrived who did not stay a stranger, and could not sleep, and walked down a corridor in a strange house looking for something, there would be a door at the end of it.” ᴱᶜ
+
+She looks down at Beatrice.
+
+“I did not know it would be you,” she says. “I should like to say I did. I did not.” ᴱᶜ
+
+Beatrice walks in.
+
+She goes to the nearest shelf and puts her hand flat against the spines, the way someone puts a hand on a wall in a house they grew up in to make sure it's still there. She stays like that for a while. Nobody says anything. Yuka has her face turned into Mau's shoulder and is crying silently, the way she does when something is too much and also good, and he has his arm round her, and doesn't tell her to stop.
+
+Then Beatrice turns round, and her chin is back up, and her eyes are very bright.
+
+“The doors are badly placed, in fact,” she says. “There is only one. Anyone can see that. A library this size needs more doors than one, I suppose.” ᴮᵉᵃ
+
+“Then make more,” says Echidna. ᴱᶜ
+
+Beatrice puts her hand on the frame.
+
+Mau feels it with the eyes before anything happens: a fold, a seam, space pinched and stitched. And then the door of Frieren's room, down the corridor, sighs open by itself, and through it Mau can see shelves. And the door of the music room. And the pantry. She's laughing, not out loud, just in the shoulders.
+
+“There,” says Beatrice. “Now it is a library.” ᴮᵉᵃ
+
+* * *
+
+It's Mau who goes in to get her, at sunset.
+
+The Fort is gathering in the yard. Ori is on her crate. Emilia is waiting for her badge. Subaru has been to the room with no name twice to ask Beatrice to come and twice been told she is busy, in fact, and twice come away looking as though he would like to sit on the back steps again.
+
+Mau finds her on the floor between two shelves, with six books open round her in a circle and a seventh in her lap. Echidna is in the chair by the lamp, reading, and doesn't look up.
+
+Yuka waits in the doorway.
+
+Mau sits down on the floor across from Beatrice. He doesn't touch the books.
+
+“Ori's inducting Emilia,” he says. “It'll take ten minutes. There's a speech. Kamish is involved.” ᴹ
+
+“Betty is busy,” says Beatrice. “I have four hundred years of shelves to check, I suppose.” ᴮᵉᵃ
+
+“They'll be here after dinner.” ᴹ
+
+She doesn't look up.
+
+Mau looks at the circle of books. At the small figure in the middle of it, the way she's sitting, the way she has arranged herself as if she could stay here forever and nobody would have to come and find her. He knows what this library was for her, before. He knows how long she waited in one.
+
+“Beatrice,” he says. “Can I make a rule?” ᴹ
+
+That makes her look up. Suspicious.
+
+“This is your library,” he says. “Yours and Echidna's. Open it wherever you want. Every door in the town, if you like. But you're not its keeper.” ᴹ
+
+“Betty is not anybody's keeper,” she says. “Betty has a contract, in fact. With Subaru.” ᴮᵉᵃ
+
+“I know. That's not what I mean.” He keeps his voice gentle. “I mean you don't sit in here waiting. Not for anyone. There's nobody to wait for. Everyone you'd be waiting for is outside, in the yard, and they'd like you to come and watch Ori give Emilia a paper badge.” ᴹ
+
+He waits.
+
+“You eat with us,” he says. “You come out every day. You go and annoy Frieren in her window seat. You let Umaru drag you into the Fort if she wants to, and she will. The library will still be here. It's not going anywhere. That's the point of it. It doesn't need you to stand guard.” ᴹ
+
+Beatrice looks at him for a long time.
+
+Then she looks past him, at Echidna.
+
+Echidna turns a page.
+
+“He means it,” she says, without looking up. “He makes rules like this for everyone. They are very tiresome. You will find you keep them anyway.” ᴱᶜ
+
+Beatrice closes the book in her lap.
+
+“This is a terrible rule,” she says. ᴮᵉᵃ
+
+“I know.” ᴹ
+
+“Betty will be watching it very closely, I suppose.” ᴮᵉᵃ
+
+“That's fine.” ᴹ
+
+She gets up. She steps carefully out of the circle of books without disturbing any of them, and walks past him to the door, where Yuka is waiting, and stops.
+
+Yuka holds out her hand.
+
+Beatrice looks at it. Then, as if it is entirely her own idea, takes it.
+
+Mau gets up and follows them out. At the door he looks back. Echidna has put her book down on her knee and is watching the empty doorway where Beatrice was, and her face, for a moment, before she notices him, is not interesting or sharp or curious at all.
+
+Then she picks the book up again.
+
+“Close it behind you,” she says. “There are a great many doors now. I shall have to learn which one is the draught.” ᴱᶜ
 
 The Fort inducts Emilia at sunset.
 

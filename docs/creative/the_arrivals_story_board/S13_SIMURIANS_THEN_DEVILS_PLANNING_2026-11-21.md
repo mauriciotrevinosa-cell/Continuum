@@ -461,6 +461,28 @@ Dirección:
 - **Yoru:** la "prueba" la dicta ella, convirtiendo la guerra en prueba. **Los 90 días siguen en pie.** "Qué aburrido" porque esperaba que Mau se divirtiera y lo extendiera: fueron tres movimientos, y dos ni siquiera fueron suyos (uno de Makima y otro de Kamish).
 - **Después:** Shoko le da algo para que duerma bien. Shoko le cuenta a Yuka todo lo que Mau sintió. Yuka recuerda la misma tontería que hizo antes del gate, y que Mau ha vivido con esa respuesta; por eso le hace más sentido su reacción. Mau sigue cargando lo que pensó, porque no olvida: guarda las cosas detrás de una puerta, y esa puerta se ha abierto varias veces.
 
-Pendiente de confirmar con Mauri: cuál es "la misma tontería que hizo antes del gate" (qué gate y qué hizo Yuka).
+**Resuelto (Mauri):** "la tontería antes del gate" es la de la red gate (la trampa de Makima). Yuka, harta de que Mau no le contara la verdad, le dijo que quería parar esto, de un modo que daba a entender que se salía del matrimonio si él no se abría. Mau entró a la gate, se volvió red gate y lo torturó: él pasó **un año adentro con esa pregunta**, y ella solo **tres días** afuera viendo la red gate.
+
+> todos me quede pensando y lit solo makma batallaria contra unos cuantos de todo el infierno
+
+> esto nos da algo un tiempo para que yuka se siente y hable y palnee bien peor quiero armar primero todo el antes hasta lo de shoko contandole todo y me gusta que mau entre que se quede dormido le diga ashoko que si yuka u ori pregunta que les diga la verdad nada de its fine
+
+- **Stop:** se detienen *todos*. Del Infierno entero, Makima solo batallaría con unos cuantos.
+- **Antes de dormirse, Mau le dice a Shoko:** si Yuka u Ori preguntan, que les diga la verdad. Nada de "it's fine". (Por eso Shoko puede contarle todo a Yuka: con su permiso.)
+- Después viene un tiempo para que Yuka se siente, hable y planee bien. **Primero se arma todo lo de antes, hasta que Shoko le cuenta todo.**
+
+### Propuesta de Claude para V84, hasta Shoko (por secundar)
+
+Arranca donde termina V83 (B+435, antes del amanecer): Mau sale al norte solo con los de adentro (Makima, Noise, Ciel, DIO; Kamish es sombra suya). Yuka empieza su lista con Ori.
+
+1. **El camino al norte.** Makima recomienda matarlos; Mau dice que no. Makima le explica los devils (Infierno, renacer sin memoria, conceptos y miedos con forma). Mau entiende que no hay mucho que hacer.
+2. **Los perros hambrientos.** Yoru aparece y convierte la guerra en *su* prueba. Los que vienen no son los fuertes: van a destruirlo antes de que agarre vuelo.
+3. **Tres movimientos (POV de Yoru).** Unlimited Hollow Purple: Mau mete el 100% y queda vendido unos segundos. Makima: "Stop", y todos se detienen. El Purple borra. Los soldados arrinconan a los que quedan. Kamish, fuego desde arriba. Un parpadeo. "Qué aburrido": dos de los tres movimientos ni siquiera fueron suyos. Los 90 días siguen.
+4. **De regreso en nada.** La casa esperando que tarde, y vuelve casi de inmediato. Le cae todo el cansancio. Antes de pensar, va directo a la clínica.
+5. **La clínica.** Le dice a Shoko la verdad completa, todo lo que había cerrado. Venda, agua, algo para dormir bien. Le agarra la mano y le pregunta cómo va con Gojo. "Si Yuka u Ori preguntan, diles la verdad. Nada de it's fine." Se duerme con la mano de Shoko.
+6. **Yuka (POV de Yuka).** Se asusta porque él fue directo a la clínica; solo le dicen que necesita dormir. Shoko le cuenta todo lo que Mau sintió. Yuka recuerda la red gate: su "quiero parar esto", el año de él contra sus tres días. Entiende la reacción de Mau: la puerta que se ha abierto varias veces. Termina ahí; después viene su tiempo para planear.
+
+Pendiente: si Ori pregunta en el cap 6 y qué le cuenta Shoko (¿la verdad en tamaño Ori?).
+
 
 Nota de canon: el Control de Makima funciona sobre quienes ella considera inferiores, así que un "Stop" masivo sobre devils menores es coherente.

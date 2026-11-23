@@ -482,7 +482,15 @@ Arranca donde termina V83 (B+435, antes del amanecer): Mau sale al norte solo co
 5. **La clínica.** Le dice a Shoko la verdad completa, todo lo que había cerrado. Venda, agua, algo para dormir bien. Le agarra la mano y le pregunta cómo va con Gojo. "Si Yuka u Ori preguntan, diles la verdad. Nada de it's fine." Se duerme con la mano de Shoko.
 6. **Yuka (POV de Yuka).** Se asusta porque él fue directo a la clínica; solo le dicen que necesita dormir. Shoko le cuenta todo lo que Mau sintió. Yuka recuerda la red gate: su "quiero parar esto", el año de él contra sus tres días. Entiende la reacción de Mau: la puerta que se ha abierto varias veces. Termina ahí; después viene su tiempo para planear.
 
-Pendiente: si Ori pregunta en el cap 6 y qué le cuenta Shoko (¿la verdad en tamaño Ori?).
+**Ajustes de Mauri (secundando el esquema):**
+
+> que no se te olvide que mau tiene todo un ejercito pero que el plan no los necesita y me gusta que beru se quede atras para proteger a ori
+
+> la verdad que mau lleva cargando unas dudas y sucedieron muchas cosas que el entendio mal y luego tuvo que pelear y ahora necesita dormir y que ori se quede con el y shoko y ori se queda con shoko platicando mientras yuka va a platicar con la casa
+
+- Mau tiene **todo un ejército**, pero el plan no lo necesita: solo usa los soldados que arrinconan. **Beru se queda atrás para proteger a Ori.**
+- **Lo que Shoko le cuenta a Ori:** que Mau lleva cargando unas dudas, que pasaron muchas cosas que él entendió mal, que luego tuvo que pelear y que ahora necesita dormir. Ori se queda con él y con Shoko, platicando con ella, mientras **Yuka va a platicar con la casa**.
+
 
 
 Nota de canon: el Control de Makima funciona sobre quienes ella considera inferiores, así que un "Stop" masivo sobre devils menores es coherente.

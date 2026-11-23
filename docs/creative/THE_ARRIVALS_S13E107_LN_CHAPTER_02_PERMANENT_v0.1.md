@@ -33,7 +33,7 @@ He laughs, not very well.
 
 Mau doesn't know everything about it.
 
-He knows enough. The house knows. Rem and Ram came here from before anything happened between Rem and Subaru. Before any confession. Subaru came later, from soon after a duel he lost, already sure of what Rem was to him. At the way station, the day he arrived, he made a declaration and used it to pull her back toward him, as if she owed it something. Rem named it and said no. She had her own life here by then. She still does.
+He knows enough. The house knows. Rem and Ram came here from before any confession. Rem had only just begun to wonder about what she felt for the strange boy she thought was special. Then Subaru arrived, already sure of what she was to him, and at the way station, the day he came, he threw those feelings in her face: feelings she was only starting to consider, used to pull her back toward him as if she owed them to him. Rem named it and said no. And here she'd found other things. A man who never asked her for anything except to be family. And Umaru, who drags her into everything because she wants Rem there.
 
 And Ram, who watched it happen to her sister and had made her anger very clear. That anger had not prevented Subaru leaving. He has to come and hear her himself now.
 

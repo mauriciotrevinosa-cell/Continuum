@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 27 — The Plate Under the Cloth
+## Chapter 28 — The Plate Under the Cloth
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 27
+**Reading order:** 28
 **Source episode:** S13E117
 **Continuity state:** B+433, from the ridge to night. Yuka's point of view. What she saw from the ridge: Mau on his knees, Mau getting up, and Makima walking into a domain to hold his thin side open while Noise strained to keep her there. She understands, too late, what Makima is to him: a friend standing in the way, not a rival. The comparison she made in the yard was unfair, and she knew it was unfair while she said it. When the fight ends, she tries to go down. Cross holds her arm and tells her not to: he doesn't need her, look at them, she saw, stay. And this time she sees it: Cross wedging himself in, using her hurt. She takes her arm back. She doesn't go down; Mau won't look up and she can't face him in front of everyone. At home she asks Shuna for the plate Shuna kept. Shuna gives it to her: two days old, the pickles still set aside on her side, untouched. Yuka sits on the kitchen floor with it.
 
@@ -47,9 +47,9 @@ She didn't understand.
 
 *The way she held the weight in the gate*, said Ciel. *Standing where the tearing is. With everything she has. She knows what it costs her. She's doing it anyway.* ᶜ
 
-And then the domain broke, and the colour that isn't a colour went up out of the quarry into the sky, and the quarry came back, and she saw them.
+And then a stain of dark spread through the white from the inside, and the white cracked like ice, and the domain broke, and the quarry came back, and she saw them.
 
-Mau, standing. Hands together. Purple still going up and away.
+Mau, standing. Hands together. Blood on his mouth. Something dark folding back into him like a held breath.
 
 And at his right shoulder, with one hand on it, Makima.
 

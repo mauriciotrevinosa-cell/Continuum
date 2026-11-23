@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 29 — A Test
+## Chapter 30 — A Test
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 29
+**Reading order:** 30
 **Source episode:** S13E118
 **Continuity state:** B+434, night, at the gate. Yoru, in Asa's body, crosses the protection because the contract (until B+487) forbids her to harm anyone in the house, and the barrier reads intent. She keeps every term. She announces. She told her world what she saw in Mau's memory and at the quarry: a man who survived being erased. Her world is afraid of him now, and fear makes devils hungry. Some of them aren't waiting for her contract to end. Things that were eaten and shouldn't exist are pushing through in the empty country to the north, and they want him. She frames it as her test: he goes alone. Only those who live in him (Makima, Ciel, Noise) may fight. If anyone else from the house follows, the hungry ones will know where the house is and who he loves, and the barrier only covers the house, not the roads. She saw a point where the present doesn't match the memory, and she wants to see what breaks there. Asa, inside, says she didn't agree to this part; Yoru says Asa agreed to watching, and this is watching. Mau agrees. Yuka, in the doorway behind him, hears all of it.
 

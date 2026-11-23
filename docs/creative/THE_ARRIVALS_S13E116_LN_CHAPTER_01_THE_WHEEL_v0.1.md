@@ -1,109 +1,13 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 25 — The Wheel
+## Chapter 26 — The Wheel
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 25
+**Reading order:** 26
 **Source episode:** S13E116
-**Continuity state:** B+433, the climax. Mau answers with Dabura's own light, copied, and Dabura is overjoyed and furious at once. Pushed, Dabura opens the domain he has never opened: a world of light where the wanting is everywhere and the tap can close from every side. Makima helps without entering the domain: a domain is a sure hit that would break the body Noise holds for her and then go for her soul, so Noise pulls her body back inside Mau the instant it opens. From inside, she holds his thin right side open, the way she held the weight in the Rulers' gate, which also frees Noise to hold back part of the flood. Mau breaks the domain from inside with Purple at full. Then, as Dabura comes back at him, Mau calls the wheel up over his head. Dabura's body remembers what his mind doesn't: the great slow wheel he honed himself against for so long. He freezes for one heartbeat. Mau ends it with the light a hair from Dabura's throat. Dabura, on his back, laughs and says do it. Mau says no.
+**Continuity state:** B+433, the climax, inside Dabura's domain. A world of white light where the wanting reaches the tap from every side and Infinity flickers everywhere. Makima helps without entering it: a domain may carry a sure hit that would break the body Noise holds for her and reach her soul, so Noise pulls her back inside Mau the instant it opens, and from inside she holds his thin right side open (like the weight in the Rulers' gate), freeing Noise to hold back part of the flood. Then Mau answers with his own domain. His hybrid territory has no sure hit of its own; the only way he's ever forced one is by opening several domains and compressing them into one, and the last time he tried it in training it burned out his brain. This time the eyes cost nothing, and Gojo's lesson holds: RCT running constantly, rebuilding the brain as fast as the strain destroys it. He opens one, then a second, then a third, compresses them into a single territory with a forced sure hit inside Dabura's, and Dabura's world cracks and breaks. As Dabura comes back at him, Mau calls Mahoraga's wheel; Dabura's body remembers what his mind doesn't, and he freezes for one heartbeat. Mau ends it with the light a hair from Dabura's throat. "Do it." "No."
 
-*When: B+433. Late morning. The sun is high over the quarry. On the ridge, Gojo is still standing.*
-
-The light in his palm is very small.
-
-It's the smallest thing he's ever made. Smaller than the first Blue, the one he threw in the clearing before he knew what it was. A point. A single point of pure bright pressure in the middle of his hand.
-
-The eyes can barely look at it.
-
-Across the quarry, Dabura has stopped smiling.
-
-He's staring at Mau's hand. At the point of light. And his face is doing two things at once: something enormous and delighted, and something else, under it, that Mau has seen before on other faces, on Sukuna's, at the end.
-
-Outrage.
-
-“That's *mine*,” says Dabura. ᴰᵇ
-
-“It was,” says Mau. ᴹ
-
-* * *
-
-He sends it.
-
-He doesn't know how fast it goes. Noise built the sending; Noise knows. It goes the way Dabura's goes, faster than sound, faster than the eyes, and it's in the air between them and it's arriving, and Dabura—
-
-Dabura *moves*.
-
-He's fast. Faster than the light, almost. Not quite. It takes him in the left side, high, under the arm, and goes through, and comes out the back, and goes on into the quarry wall and through it and out the other side, and the stone where it passed stops being there.
-
-Dabura looks down at the hole in his side.
-
-It's closing. His RCT, the one he doesn't remember learning, is already in it, filling it.
-
-He looks up at Mau.
-
-“*Mine*,” he says again. ᴰᵇ
-
-And then he laughs, and comes in, and the light comes out of him in every direction at once.
-
-* * *
-
-It's different now.
-
-Before, it was a wall and a storm, and then a storm and a man dodging. Now it's two storms. Light against light. Every line Dabura sends, Mau sends one back. They cross in the air between them and the air screams. The quarry walls are carved in long smooth grooves from top to bottom. Pieces of the floor go up and don't come down because there's nothing left of them to come down.
-
-And Mau moves.
-
-The new body. Two thirds of everything he saved, in every bone. He moves in the instant the tap closes, every time, before the light can come through the thin place. He's never been this fast. Nobody he's ever fought has made him this fast.
-
-Dabura is faster.
-
-Just. Barely. A hair.
-
-And Dabura is still learning.
-
-* * *
-
-*The interruptions are longer*, says Ciel. *He's holding the tap closed longer each time. In a minute he'll be able to hold it long enough to get through regardless of how fast you are.* ᶜ
-
-“I know.” ᴹ
-
-*You need to end it.* ᶜ
-
-“*I know*.” ᴹ
-
-He sends the light. Dabura isn't there. Dabura is behind him. He turns, and Dabura is above him, and the wanting is reaching for the tap from above and from the right at the same time—
-
-And Dabura stops.
-
-Twenty paces off. Breathing hard. For the first time all morning, breathing hard.
-
-He looks at Mau.
-
-He isn't laughing.
-
-* * *
-
-“I've never done this,” says Dabura. ᴰᵇ
-
-His voice is quiet. Almost wondering.
-
-“I know how,” he says. “I've always known how. I don't know where I learned it. I just know. I've never once needed to.” ᴰᵇ
-
-He lifts his hands. He brings them together in front of his chest, slowly, the way you'd hold something very fragile.
-
-Mau feels it before it happens.
-
-The shape folded very small at the centre of Dabura. The one the eyes found at dawn. The world of his own he's never opened.
-
-It's opening.
-
-* * *
-
-“Domain,” says Ciel. *He's—* ᶜ
-
-The world goes white.
-
-* * *
+*When: B+433. Late morning, inside the light. On the ridge, all anyone can see is a dome of white on the quarry floor.*
 
 It's light.
 
@@ -111,7 +15,7 @@ All of it. Everything. The quarry is gone. The ridge, the sky, the broken floor.
 
 He feels it on every side.
 
-It reaches for the tap from everywhere at once. Not a hand. A thousand hands. And the Infinity doesn't go thin on the right. It goes thin *everywhere*. All of it, flickering, on and off, on and off, the folded distance round him opening and closing like a lung.
+It reaches for the tap from everywhere at once. Not a hand. A thousand hands. And the Infinity doesn't go thin on one side. It goes thin *everywhere*. All of it, flickering, on and off, on and off, the folded distance round him opening and closing like a lung.
 
 And somewhere in the light, Dabura, everywhere, nowhere, very close.
 
@@ -121,9 +25,9 @@ And somewhere in the light, Dabura, everywhere, nowhere, very close.
 
 The light comes from everywhere.
 
-He moves. He can't move enough. There's nowhere to move *to*. Every direction is light. The first line goes through his left leg. The second through his back. The RCT is in after them, always on, filling, filling, but they're coming faster than it can fill, and the tap keeps closing, and the Infinity keeps going out—
+He moves. He can't move enough. There's nowhere to move *to*. Rika goes back into the katana like smoke going home; there's nothing out here she can hold. The first line goes through his left leg. The second through his back. The RCT is in after them, always on, filling, filling, but they're coming faster than it can fill, and the tap keeps closing, and the Infinity keeps going out—
 
-*Mau*, says Noise. *Mau, I can't hold everything. The domain's flooding the eyes, the sense is flooding, Mini Ciel is— I can't keep it down and build at the same time—* ᴺ
+*Mau*, says Noise. *I can't hold everything. The domain's flooding the eyes, the sense is flooding, Mini Ciel is— I can't keep it down and hold her body too—* ᴺ
 
 He knows.
 
@@ -187,35 +91,163 @@ In the middle of the light, with Makima inside him holding his right side open, 
 
 He stands up anyway.
 
-He brings his hands up.
+* * *
 
-Blue in the left. Not small. Not careful. The size Blue is when there's nothing holding it back.
+*Purple won't do it*, says Ciel. *Not from in here. You'd need an edge to aim at, and he's everywhere. You can't outlast this. You can't outrun it.* ᶜ
 
-Red in the right.
+“I know.” ᴹ
 
-He's made Purple at full once before. At the bottom of a gate built to kill his wife, with Makima holding the weight then too.
-
-He brings his hands together.
+*You have to answer it*, says Ciel. *With your own.* ᶜ
 
 * * *
 
-It doesn't make a sound.
+His own.
 
-It goes out of him in a line, the colour that isn't a colour, through the white, through the light, through the wanting. Not at Dabura. Dabura is everywhere; there's nothing to aim at. At the *edge*. At the place where the domain stops and the world starts, the place the eyes can just about see, a seam in the light.
+He has one. He's had one since after Ashborn. A territory of his own: the cosmic dark, the shadow floor that takes your feet, attacks from angles that don't exist, everything he owns within reach. He built it slowly, the way everyone who knew anything told him to.
 
-It goes through the seam.
+It has no sure hit.
 
-The domain breaks.
+It never has. It's a place where he's strongest, not a place where everything he aims lands. Against a domain like this one, that loses.
+
+There's only one way he's ever found to force a sure hit.
+
+* * *
+
+He tried it once, in training. A long time ago.
+
+Open one domain. Then another, on top of it. Then another. Three territories at once, and then fold them together, compress them, crush them into one, until the pressure of three worlds in the space of one forces what none of them has alone.
+
+It worked. For a moment.
+
+Then his brain burned.
+
+He remembers it the way you remember being hit by something very large. Three worlds' worth of information at once, more than any brain was made to hold, and something in his head simply giving way. Blood from his nose and ears. Days in Shoko's clinic. Ciel very quiet for a long time afterward.
+
+He tried part of it in the duel. Half. It opened a gap in Sukuna, and it cost him enough of his brain to take him out of the fight.
+
+He hasn't tried it since.
+
+* * *
+
+*Mau*, says Ciel. *If you do that—* ᶜ
+
+“I know.” ᴹ
+
+*The eyes are free now*, says Ciel, very fast, in the number voice, the only one he allows her. *They cost nothing. That's one load gone. But the compression will burn. Your brain will burn. The way it did.* ᶜ
+
+“I know.” ᴹ
+
+He's already thinking about the porch.
+
+Gojo on the railing with his sweets, the day after the orchard. *Leave it on. Low. Quiet. Just there. Ticking over. So the next time something goes through you, it's already behind the blade.*
+
+The RCT has been on since the orchard. Always.
+
+And the field, with a blade of grass on Gojo's knee. *The brain too. If you ever do something stupid with your head again, don't wait to fix it after. Keep it coming the whole time. A new brain as fast as you burn the old one.*
+
+“Ciel,” says Mau. ᴹ
+
+*Yes.* ᶜ
+
+“Put the RCT on my brain. All of it. Not after. *During*. As fast as it burns, build it back.” ᴹ
+
+A pause.
+
+*Yes*, says Ciel. ᶜ
+
+* * *
+
+He puts his hands together.
+
+“*Domain Expansion*,” he says. ᴹ
+
+* * *
+
+The first one opens.
+
+Dark. The cosmic dark, spreading out from his feet into the white, a stain of night in the middle of Dabura's sun. The shadow floor under him, taking his feet, holding him up. And all round him the shape of his own territory, pushing against Dabura's.
+
+It isn't enough. Without a sure hit, it doesn't push back the light. It only holds a small dark circle where he stands.
+
+He opens the second.
+
+* * *
+
+It hurts.
+
+Not the body. The head. A second world opening inside the first, a second set of rules, and his brain trying to hold both at once, and something behind his eyes starting to burn.
+
+He feels the RCT come in.
+
+Not after. *During*. Exactly the way he asked. Ciel steering it, Noise holding the flood off it, the reverse technique pouring into the burning place as fast as it burns, building it back, cell by cell, in the same instant it's destroyed.
+
+It holds.
+
+The dark gets bigger. Two worlds, pushing harder against the white.
+
+Not enough.
+
+He opens the third.
+
+* * *
+
+Three worlds.
+
+The pain is enormous. He's never felt anything like it. Not the Warden's blade. Not Sukuna. Not the arm in eleven pieces. Something inside his skull being burned out and rebuilt and burned out and rebuilt, faster than he can count, faster than Ciel can count. The eyes, free, costing nothing, pouring everything in. Maki's sense pouring everything in. And three worlds of information on top of that.
+
+He doesn't stop.
+
+He compresses them.
+
+* * *
+
+He folds the three worlds into one.
+
+He takes the cosmic dark and the shadow floor and the third thing, the one he has no name for, and crushes them together. Down. Smaller. The way you'd crush three handfuls of snow into one ball. The pressure builds. Three worlds in the space of one. Rules piling on rules. Territory folding over territory.
+
+And at the centre, where all three meet under more pressure than any of them could make alone, something changes.
+
+The dark stops being a place where he's strong.
+
+It becomes a place where everything he aims *lands*.
+
+* * *
+
+The sure hit locks.
+
+He feels it lock. Like a key turning. Like the latch of the door in the gate.
+
+The compressed dark, his, three worlds in one with a sure hit forced into it by sheer pressure, presses outward against Dabura's white.
+
+And the white cracks.
+
+* * *
+
+He hears Dabura make a sound.
+
+From everywhere. From the light. A sound of pure astonishment.
+
+The cracks run through the white the way cracks run through ice. Long and black and branching. Dabura's world, the one he's never opened before today, the one he knew how to make and didn't know where he learned, is coming apart under a dark that shouldn't be able to push it.
+
+Mau's nose is bleeding.
+
+Warm on his lip. The RCT is rebuilding his brain as fast as it burns, and it's keeping up, it's *keeping up*, but only just, and the blood runs down over his mouth and chin.
+
+He pushes.
+
+* * *
+
+Dabura's domain breaks.
 
 * * *
 
 The quarry comes back.
 
-All at once. The sky, the walls, the broken floor, the ridge. He's standing in the middle of the quarry floor with his hands still together, and as the light goes, Noise lets Makima back out, at his right shoulder, a hand on it, and the line of Purple still going, up and out, over the rim of the quarry, into the sky, gone.
+All at once. The sky, the walls, the broken floor, the ridge. He's standing in the middle of the quarry floor with his hands still together, and as the white goes, his own dark folds back into him like a held breath let out, and Noise lets Makima back out, at his right shoulder, a hand on it. His nose is still bleeding. The RCT is still rebuilding behind his eyes, quieter now.
 
 Dabura is on his knees, thirty paces away.
 
-He's staring at the sky where the Purple went. Where his domain was. His face is completely blank.
+He's staring at the air where his domain was. His face is completely blank.
 
 “That's never happened,” he says. ᴰᵇ
 

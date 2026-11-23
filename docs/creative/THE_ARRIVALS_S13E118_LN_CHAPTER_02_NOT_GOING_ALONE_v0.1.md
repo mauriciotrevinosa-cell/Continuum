@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 30 — Not Going Alone
+## Chapter 31 — Not Going Alone
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1 (end of volume)
 **Volume:** 83
-**Reading order:** 30
+**Reading order:** 31
 **Source episode:** S13E118
 **Continuity state:** B+435, before dawn. Mau gets ready to go north. The house wants to come and can't; Gojo argues; Mau tells him what Yoru said about the roads, and Gojo stops. Ori gives him a new note. Frieren tells him to come back. Yuka finds him in the yard and tries again; she doesn't get past the first words. He tells her: "It's fine. I can solve it. I'm not going alone. Makima's coming with me." He means it as reassurance; she hears the exact thing she accused him of. Makima takes his hand, a friend's handshake, so they don't lose each other. They go north as the sky goes grey. Yuka stays in the yard with the notebook and writes "51". Then, under it, she starts making a list. Volume ends; the devil war is its own arc.
 

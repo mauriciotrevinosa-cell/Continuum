@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 28 — Can I Speak?
+## Chapter 29 — Can I Speak?
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 28
+**Reading order:** 29
 **Source episode:** S13E117
 **Continuity state:** B+434. Yuka's point of view. She starts with the people she hurt on the way. Before dawn she writes the number in the notebook again ("52"). She goes to Makima at the bottom of the porch steps and, turning the rule round, asks *her*: "Can I speak?" She apologises for "I had started to trust you," and tells her she still does. Makima's answer is careful, and true. Then Mai and Maki, in the workshop, without excuses. She doesn't go to Mau with words: he's in negotiations all day with Dabura, Maru and Rimuru, and the closed door is still closed. Her plan is small and exact: dinner. Her chair. Six inches closer. His plate. Ori sees her coming and gives up the seat without a word. Yuka sits beside him. She reaches for his plate. He goes very still. And at that exact moment Beru, on the porch, says "My king," in the voice he uses for danger, and Kaisel comes down into the yard: someone at the gate.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 26 — The King Is Real
+## Chapter 27 — The King Is Real
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 26
+**Reading order:** 27
 **Source episode:** S13E116
 **Continuity state:** B+433, just after. Dabura on his back, asking why not. Mau's answer is short and true: he once stood in this quarry in pieces, and someone could have finished him and didn't get the chance, and he'd rather Dabura got up. Dabura gets up. "The king is real." He'll talk, through Maru, because a king who won and didn't kill is worth talking to. He asks about the wheel; Mau tells him he doesn't remember a fight his body does, and Dabura goes quiet. On the far rim, Yoru stands, looks down at Mau for a long moment, and leaves; the contract still holds. The ridge comes down: Gojo, Frieren, Jin-Woo, Maru, Tsurugi. Mau's body is whole and wrecked with tiredness, and Makima is still at his right shoulder, holding the handshake. He doesn't look for Yuka. He knows exactly where she is.
 
@@ -141,7 +141,7 @@ He pauses.
 
 Dabura doesn't say anything for a long time.
 
-He stands on the quarry floor with his hand on his chest and looks at nothing. At the grooves in the walls. At the sky where the Purple went.
+He stands on the quarry floor with his hand on his chest and looks at nothing. At the grooves in the walls. At the air where his domain broke.
 
 “I don't remember a lot of things,” he says finally. “I thought it was the mountain. That I'd been up there so long I'd forgotten.” ᴰᵇ
 
@@ -191,7 +191,7 @@ Gojo first, of course, half running, half sliding down the long tiers of the qua
 
 “Gojo—” ᴹ
 
-“—and then you took his *light*, you took his *technique*, Noise just *built* it, and then the *domain*, and Makima, and *Purple*, and then the *wheel*, oh my *God* the wheel—” ᴳ
+“—and then you took his *light*, you took his *technique*, Noise just *built* it, and then the *domains*, *three* of them, *compressed*, a *sure hit*, with your brain burning and coming back, and Makima holding you from the inside, and then the *wheel*, oh my *God* the wheel—” ᴳ
 
 “*Gojo*.” ᴹ
 

@@ -1,0 +1,278 @@
+# The Arrivals — Light Novel — Volume 83
+## Chapter 26 — The King Is Real
+
+**Status:** LN PRODUCTION DRAFT — S13 v0.1
+**Volume:** 83
+**Reading order:** 26
+**Source episode:** S13E116
+**Continuity state:** B+433, just after. Dabura on his back, asking why not. Mau's answer is short and true: he once stood in this quarry in pieces, and someone could have finished him and didn't get the chance, and he'd rather Dabura got up. Dabura gets up. "The king is real." He'll talk, through Maru, because a king who won and didn't kill is worth talking to. He asks about the wheel; Mau tells him he doesn't remember a fight his body does, and Dabura goes quiet. On the far rim, Yoru stands, looks down at Mau for a long moment, and leaves; the contract still holds. The ridge comes down: Gojo, Frieren, Jin-Woo, Maru, Tsurugi. Mau's body is whole and wrecked with tiredness, and Makima is still at his right shoulder, holding the handshake. He doesn't look for Yuka. He knows exactly where she is.
+
+*When: B+433. Late morning going on noon. The quarry is carved from rim to floor in long smooth grooves where the light passed.*
+
+Dabura lies on his back on the quarry floor and looks up at him.
+
+The light is gone from Mau's hand. He's still on one knee, with his left hand flat on Dabura's chest, and he can feel Dabura's heart under it: huge, slow, steadying. Like his own.
+
+“No,” says Dabura. ᴰᵇ
+
+He says it the way you'd repeat a word in a language you're learning. Testing it.
+
+“No,” says Mau again. ᴹ
+
+“Why?” ᴰᵇ
+
+* * *
+
+Mau thinks about it.
+
+He thinks about it the way he used to think about things before the doors. Properly. For the real answer, not the one next to it.
+
+“I was here once,” he says. ᴹ
+
+Dabura waits.
+
+“Right here,” says Mau. “On this floor. A long time ago. In pieces. Someone tried very hard to kill me, and he nearly did, and my shadows held me together so I wouldn't fall apart.” ᴹ
+
+He looks at the place. A little to the left. Where the floor is still darker than the rest.
+
+“I'd rather you got up,” he says. ᴹ
+
+* * *
+
+Dabura looks at him for a long time.
+
+Then he laughs again. Not breathless, this time. Slow. Wondering.
+
+“You'd rather I got up,” he repeats. ᴰᵇ
+
+“Yes.” ᴹ
+
+“I just tried to erase you from the world for an hour.” ᴰᵇ
+
+“Yes.” ᴹ
+
+“And you'd *rather I got up*.” ᴰᵇ
+
+Mau takes his hand off Dabura's chest.
+
+He stands up. He holds out the same hand.
+
+Dabura looks at it.
+
+* * *
+
+He takes it.
+
+Mau pulls him up. It takes more than he expects. Dabura is heavy, heavier than he looks, all that packed light in him, and the new strength in Mau's arm takes it without trying.
+
+They stand there on the quarry floor, facing each other, among the grooves.
+
+Dabura looks down at him. He's taller. Much taller. He looks down at the man who just beat him, and his face is doing something Mau doesn't have a name for. Something between a child's and a king's.
+
+“Tsurugi didn't lie,” says Dabura. ᴰᵇ
+
+“He got a third of it wrong.” ᴹ
+
+“He got the important part right,” says Dabura. ᴰᵇ
+
+He lets go of Mau's hand.
+
+“The king is real,” he says. ᴰᵇ
+
+* * *
+
+On the ridge, something breaks.
+
+Mau hears it from here: a shout, high and wordless and ecstatic. Tsurugi, who has been standing between Gojo and Frieren for an hour with his face going whiter and whiter, has thrown both arms in the air.
+
+“I *TOLD* you,” Tsurugi is shouting. “I *TOLD* HIM! *BASICALLY A KING!*” ᵀˢ
+
+Gojo is laughing. Frieren has put her hand over her face. Maru has sat down on the ridge, very suddenly, as if his legs have given out, with both hands over his heart.
+
+* * *
+
+“You'll talk now,” says Mau. “With Maru. With the house.” ᴹ
+
+Dabura looks up at the ridge, at his people's representative sitting on a rock with his hands on his heart.
+
+“I'll talk,” he says. “A king who wins and doesn't kill is worth talking to.” ᴰᵇ
+
+He looks back at Mau.
+
+“My people have never had one of those,” he says. ᴰᵇ
+
+* * *
+
+Then he asks about the wheel.
+
+Quietly. Not the big voice. He looks at the place in the air over Mau's head where it was, where it turned once and the sound came out of the earth, and his face goes to the edge-of-sleep look again.
+
+“The thing over your head,” he says. “At the end. The wheel.” ᴰᵇ
+
+“Yes.” ᴹ
+
+“I knew it.” ᴰᵇ
+
+He presses a hand to his chest, where Mau's hand was.
+
+“I don't know how I knew it,” he says. “I've never seen it. But I knew the sound. I hear it sometimes, when I'm almost asleep. Something heavy turning. I wake with my hands up.” ᴰᵇ
+
+He looks at Mau.
+
+“What is it?” he asks. ᴰᵇ
+
+* * *
+
+Mau thinks about lying.
+
+He doesn't. He hasn't lied to anyone in a long time; he's just stopped telling them things, which isn't the same, and he knows it isn't the same.
+
+“It's called Mahoraga,” he says. “It adapts. To anything. It turns once for every lesson. And it never stops learning.” ᴹ
+
+Dabura goes very still.
+
+“I think you fought one,” says Mau. “A long time. Somewhere. Maybe before you came here. The eyes can see it in you. In the way you move. Everything you learned on the mountain, you learned against something that was always a little stronger and always changing to meet you.” ᴹ
+
+He pauses.
+
+“You don't remember it,” he says. “But your body does.” ᴹ
+
+* * *
+
+Dabura doesn't say anything for a long time.
+
+He stands on the quarry floor with his hand on his chest and looks at nothing. At the grooves in the walls. At the sky where the Purple went.
+
+“I don't remember a lot of things,” he says finally. “I thought it was the mountain. That I'd been up there so long I'd forgotten.” ᴰᵇ
+
+He lowers his hand.
+
+“Maybe it wasn't the mountain,” he says. ᴰᵇ
+
+Mau doesn't say anything.
+
+He knows what that's like. To have a year in your hands that isn't in your head. To reach for the cheapest tent before you've read the prices.
+
+He doesn't say that either.
+
+* * *
+
+On the far rim, someone stands up.
+
+Mau feels it. With the sense, turned low. A presence that has been very still for an hour, hidden, watching, rising to its feet on the far edge of the quarry.
+
+He looks up.
+
+Yoru is standing on the rim.
+
+Not hiding anymore. In plain sight, against the sky, a small dark shape with her hands at her sides. Asa's body. Yoru's eyes, looking down at him across the whole length of the quarry.
+
+She doesn't move. She doesn't say anything. She just looks at him.
+
+He looks back.
+
+It goes on for a long time. Long enough that Makima, at his shoulder, goes very still. Long enough that Dabura turns to see what he's looking at, and sees, and frowns.
+
+Then Yoru turns round, and walks away along the rim, and over it, and is gone.
+
+*Fifty-four*, Mau thinks. *Or fifty-three. Nobody wrote it.*
+
+The contract still holds. She didn't come down. She didn't touch anyone. She watched.
+
+He knows exactly what she saw.
+
+* * *
+
+The ridge comes down.
+
+Gojo first, of course, half running, half sliding down the long tiers of the quarry with his blindfold in his hand and his face lit up like a lamp.
+
+“*Points*,” he says, before he's even reached the floor. “*Points*, in the *middle of the fight*, on your *knees*, and then you punched him *through a wall*—” ᴳ
+
+“Gojo—” ᴹ
+
+“—and then you took his *light*, you took his *technique*, Noise just *built* it, and then the *domain*, and Makima, and *Purple*, and then the *wheel*, oh my *God* the wheel—” ᴳ
+
+“*Gojo*.” ᴹ
+
+Gojo stops in front of him. Breathing hard. Grinning so wide it must hurt.
+
+“That,” says Gojo, “was the best fight I've seen in fifty years.” ᴳ
+
+He means it. Mau can tell. He means every word.
+
+“And you were only half there for most of it,” says Gojo, more quietly. ᴳ
+
+Mau doesn't answer that.
+
+* * *
+
+Frieren comes down after Gojo, more slowly.
+
+She stops in front of Mau and looks at him. Up and down. The new body. The grooves in the quarry. Makima at his shoulder. Her face does the thing it did on the ridge, the pride, ears up.
+
+“You let all of it go,” she says. ᶠ
+
+“Yes.” ᴹ
+
+“In front of me.” ᶠ
+
+“Yes.” ᴹ
+
+Frieren nods slowly.
+
+“Good,” she says. “I've wanted to see that for a long time.” ᶠ
+
+She puts her hand on his arm. Just for a moment. Then she goes to look at the grooves in the wall, very interested, the way she gets interested in spells that polish bronze.
+
+* * *
+
+Jin-Woo comes last.
+
+He doesn't say anything. He stops beside Mau and looks at him with the same face he had at the table, with his finger on the chart.
+
+“You knew when,” he says. ᴶʷ
+
+“I didn't,” says Mau. “I just didn't have anything else to save them for.” ᴹ
+
+Jin-Woo looks at him for a long time.
+
+“That's usually how you know,” he says. ᴶʷ
+
+* * *
+
+He's tired.
+
+He notices it when the ridge is all round him, talking. His body is whole. The RCT closed everything. Two thirds of everything he saved are in his bones now, and he can feel how strong they are, and how fast, and how much more than he was this morning.
+
+And he's so tired he could lie down on the quarry floor where he once lay in pieces and not get up for a week.
+
+Makima is still at his right shoulder.
+
+She hasn't left. She hasn't said anything since the domain broke. But her hand is still there, in his, palm to palm, thumb over the back, the friend's handshake. He doesn't remember taking it. He doesn't remember her taking his.
+
+*Thank you*, he says, inside, through the thread. ᴹ
+
+*You're welcome*, says Makima. *Noise needs to rest. So do you.* ᴹᵏ
+
+*I know.* ᴹ
+
+*Noise*, says Makima, inside, very gently. *Thank you for holding me.* ᴹᵏ
+
+*Any time*, says Noise. Very tired. Very proud. ᴺ
+
+* * *
+
+He doesn't look for Yuka.
+
+He knows exactly where she is. He doesn't need the eyes or the sense or the door. He knows the way you know where your own heart is.
+
+She's on the ridge. She didn't come down with the others.
+
+He doesn't look up.
+
+He holds Makima's hand, and listens to Gojo describe the fight back to him for the third time, and to Tsurugi, who has arrived on the quarry floor and is explaining to Dabura that he *told* him, and he doesn't look up at the ridge.
+
+Not once.
+
+He can feel her looking at him the whole time.

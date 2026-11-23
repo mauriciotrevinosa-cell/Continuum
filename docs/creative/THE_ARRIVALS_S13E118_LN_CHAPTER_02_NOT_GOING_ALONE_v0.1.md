@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 31 — Not Going Alone
+## Chapter 32 — Not Going Alone
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1 (end of volume)
 **Volume:** 83
-**Reading order:** 31
+**Reading order:** 32
 **Source episode:** S13E118
 **Continuity state:** B+435 before dawn ("52"; notebook from B434 says "53"). After scout confirmation the house places Gojo at the return route and Bellion’s watch on approaches while Mau goes forward with only his internal participants. Reports remain open through Ciel/Rimuru, private conversations closed. DIO stays inside and is not an extra combatant; Ashborn’s protected space remains closed. Frieren knows the aftermath of the selected replay, not a memory secretly broadcast to her. Yuka’s apology is interrupted by the surge; Mau’s line about Makima is meant as reassurance but hurts her. They leave hand in hand as friends. Yuka starts her list; S13 continues into the next arc.
 

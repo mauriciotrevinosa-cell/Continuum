@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 28 — The Plate Under the Cloth
+## Chapter 29 — The Plate Under the Cloth
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 28
+**Reading order:** 29
 **Source episode:** S13E117
 **Continuity state:** B+433, Yuka viewpoint. Ciel reports the domain work through her independent channel. Yuka understands her accusation against Makima was unfair, recognises Cross exploiting her distress and takes back her arm. She goes home before the quarry party; the rest of the household has not vanished. Shuna supplies the B425 meal kept cold, now eight days old, and speaks with her. Yuka wants to reach Mau first, then hear his part, not substitute knowing his plate for knowing every feeling.
 

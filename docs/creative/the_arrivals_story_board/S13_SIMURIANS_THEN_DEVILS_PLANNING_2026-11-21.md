@@ -392,3 +392,7 @@ Timeline anchor: V82 ends after the Fort day (about B+405). Yoru's contract runs
 
 - **The Rulers and Dabura's memory:** maybe when they brought the Simurians (or Dabura) here and played with things, they wiped his memory of the Mahoraga fight, but the body kept it and slipped past them. The wheel exposed the slip. Connects to the Rulers as administrators (V78, V80).
 - **Yuka's list:** Mauri likes it as a mystery for the reconciliation.
+
+## Pending (Mauri, 23 November 2026)
+
+- **Gojo's real rematch** after the reconciliation, with Mau whole and both of them going all out. In V83 #15 the rematch was deliberately a way to get Mau to open up, and Mauri likes it that way. Gojo: "You'll beat me next time if you're actually here."

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 26 — The Wheel
+## Chapter 27 — The Wheel
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 26
+**Reading order:** 27
 **Source episode:** S13E116
 **Continuity state:** B+433, climax. Noise withdraws Makima’s body before closure as a precaution; shared life remains vulnerable, inside is not categorical soul immunity. She helps restore the interrupted right-side flow with Mau’s consent, not by controlling his choices. Mau contests the domain using the reconstructed spatial boundary, his Monarch shadow territory and embedded Shrine targeting. The targeting rule, not extra energy or compression alone, supplies the bounded sure-hit. Three-pattern compression now succeeds briefly with monitored brain RCT and a stop condition; previous training was a failure, and S9 succeeded for one strip/step only. Mau holds his own remaining territory until the finish. Dabura’s domain collapse burns out his light; he attacks physically. The actual wheel prompts an unanticipated recognition, not a free completed adaptation. Mau pins him with the prepared copied light and refuses to kill. Mau’s own burnout follows dismissal in #27.
 
@@ -17,13 +17,25 @@ He feels it on every side.
 
 It reaches for the tap from everywhere at once. Not a hand. A thousand hands. And the Infinity doesn't go thin on one side. It goes thin *everywhere*. All of it, flickering, on and off, on and off, the folded distance round him opening and closing like a lung.
 
+And no shadows.
+
+He notices it a breath later, and it's worse than the light. He looks down, and there's nothing under his feet. Not the floor; the floor is there, white. His *shadow*. There isn't one. Light is coming from every direction at once, from above and below and inside, and nothing in this world casts a shadow, because nothing in this world is allowed to.
+
+*It's the rule*, says Ciel, very fast. *His domain. No shadows. Light from everywhere.* ᶜ
+
+He reaches for the legion. For Beru, home in the yard. For the soldiers in a hundred people's shadows, the anchors, the doors he steps through.
+
+Nothing. There's no shadow for them to be in.
+
+*Everything you keep in the dark is cut off*, says Ciel. *For as long as we're in here.* ᶜ
+
 And somewhere in the light, Dabura, everywhere, nowhere, very close.
 
 “*Now*,” says Dabura, from every direction. “Now let's see what a king is.” ᴰᵇ
 
 The light comes from everywhere.
 
-He moves. He can't move enough. There's nowhere to move *to*. Rika goes back into the katana like smoke going home; there's nothing out here she can hold. The first line goes through his left leg. The second through his back. The RCT is in after them, always on, filling, filling, but they're coming faster than it can fill, and the tap keeps closing, and the Infinity keeps going out—
+He moves. He can't move enough. There's nowhere to move *to*. Rika flickers at his back and goes back into the katana like smoke going home; she was made in shadow, and there's none here to hold her. The first line goes through his left leg. The second through his back. The RCT is in after them, always on, filling, filling, but they're coming faster than it can fill, and the tap keeps closing, and the Infinity keeps going out—
 
 *Body withdrawn*, says Noise. *Still too much.* ᴺ
 
@@ -123,7 +135,7 @@ He puts his hands together.
 
 The first one opens.
 
-Dark. The cosmic dark, spreading out from his feet into the white, a stain of night in the middle of Dabura's sun. The shadow floor under him, taking his feet, holding him up. And all round him the shape of his own territory, pushing against Dabura's.
+The Dark. The cosmic void the eyes taught him, distance itself folded open: night spreading out from his feet into the white, a stain of it in the middle of Dabura's sun. And all round him the shape of his own territory, pushing against Dabura's.
 
 It isn't enough. The boundary contests a small circle. Within it the guaranteed interference loses its direct purchase for a moment, but Dabura's territory presses from every side. Mau has not yet given his room enough stability to widen.
 

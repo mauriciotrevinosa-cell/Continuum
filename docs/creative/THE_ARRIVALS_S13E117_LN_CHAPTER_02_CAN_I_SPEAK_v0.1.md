@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 29 — Can I Speak?
+## Chapter 30 — Can I Speak?
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 29
+**Reading order:** 30
 **Source episode:** S13E117
 **Continuity state:** B+434 ("53"). Yuka apologises to Makima, then Mai/Maki. She still trusts Makima and recognises she used the accusation to hurt. She plans to begin reconnecting at dinner and talk after. Ori voluntarily gives her the seat. Yoru’s arrival interrupts before the first stolen pickle. No absolute claims that Yuka never cooks/sets tables, Maki never hugs Yuta or Beru is never loud.
 

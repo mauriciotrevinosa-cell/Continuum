@@ -4,7 +4,7 @@
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 31
+**Chapter files:** 32
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -37,12 +37,13 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 23 | S13E115 | Forty Seconds | `THE_ARRIVALS_S13E115_LN_CHAPTER_01_FORTY_SECONDS_v0.1.md` |
 | 24 | S13E115 | You'll Know When | `THE_ARRIVALS_S13E115_LN_CHAPTER_02_YOULL_KNOW_WHEN_v0.1.md` |
 | 25 | S13E115 | Everything | `THE_ARRIVALS_S13E115_LN_CHAPTER_03_EVERYTHING_v0.1.md` |
-| 26 | S13E116 | The Wheel | `THE_ARRIVALS_S13E116_LN_CHAPTER_01_THE_WHEEL_v0.1.md` |
-| 27 | S13E116 | The King Is Real | `THE_ARRIVALS_S13E116_LN_CHAPTER_02_THE_KING_IS_REAL_v0.1.md` |
-| 28 | S13E117 | The Plate Under the Cloth | `THE_ARRIVALS_S13E117_LN_CHAPTER_01_THE_PLATE_UNDER_THE_CLOTH_v0.1.md` |
-| 29 | S13E117 | Can I Speak? | `THE_ARRIVALS_S13E117_LN_CHAPTER_02_CAN_I_SPEAK_v0.1.md` |
-| 30 | S13E118 | A Test | `THE_ARRIVALS_S13E118_LN_CHAPTER_01_A_TEST_v0.1.md` |
-| 31 | S13E118 | Not Going Alone | `THE_ARRIVALS_S13E118_LN_CHAPTER_02_NOT_GOING_ALONE_v0.1.md` |
+| 26 | S13E115 | Nothing Twice | `THE_ARRIVALS_S13E115_LN_CHAPTER_04_NOTHING_TWICE_v0.1.md` |
+| 27 | S13E116 | The Wheel | `THE_ARRIVALS_S13E116_LN_CHAPTER_01_THE_WHEEL_v0.1.md` |
+| 28 | S13E116 | The King Is Real | `THE_ARRIVALS_S13E116_LN_CHAPTER_02_THE_KING_IS_REAL_v0.1.md` |
+| 29 | S13E117 | The Plate Under the Cloth | `THE_ARRIVALS_S13E117_LN_CHAPTER_01_THE_PLATE_UNDER_THE_CLOTH_v0.1.md` |
+| 30 | S13E117 | Can I Speak? | `THE_ARRIVALS_S13E117_LN_CHAPTER_02_CAN_I_SPEAK_v0.1.md` |
+| 31 | S13E118 | A Test | `THE_ARRIVALS_S13E118_LN_CHAPTER_01_A_TEST_v0.1.md` |
+| 32 | S13E118 | Not Going Alone | `THE_ARRIVALS_S13E118_LN_CHAPTER_02_NOT_GOING_ALONE_v0.1.md` |
 
 ## Notes
 
@@ -92,7 +93,7 @@ Day labels: #6 B414(73); #7 B419(68); #8 B420(67); #9 B421(66); #10 B422(65); #1
 - #29 (Claude draft + Work revision): B+434 ("53"). Yuka apologises to Makima, then Mai/Maki. She still trusts Makima and recognises she used the accusation to hurt. She plans to begin reconnecting at dinner and talk after. Ori voluntarily gives her the seat. Yoru’s arrival interrupts before the first stolen pickle. No absolute claims that Yuka never cooks/sets tables, Maki never hugs Yuta or Beru is never loud.
 - #30 (Claude draft + Work revision): B+434 night. Yoru reports independently moving devils and tries to frame the danger as her test. The B397 pact explicitly bars arranged/proxy killing, weapons intended for covered killings, attacks on the household and withdrawable lethal instructions. Mau challenges that boundary. Yoru claims she sought later leverage and ordered no present attack, expected deterrence, told them to stop and failed; this is her account, not narrator certification. Ordinary independent devils may not be her proxies, but calling an arranged attack a test would not exempt it. Her presence does not override DIO’s ward; protected grounds retain their old footprint. Scout sight corroborates the openings. The mechanism of erased devils returning is unverified, not an established single hole at the house.
 
-**Volume 83 complete: 31 chapters, B+406 to B+435.** The devil war (Denji, Reze, Power; Halloween vs Unlimited Void; Yoru pressing; Yuka's plan/list; the reconciliation) is its own arc in V84, to plan with Mauri.
+**Volume 83 complete: 32 chapters, B+406 to B+435.** The devil war (Denji, Reze, Power; Halloween vs Unlimited Void; Yoru pressing; Yuka's plan/list; the reconciliation) is its own arc in V84, to plan with Mauri.
 - **Fight revision (Mauri, 23 Nov 2026: "vete loco": show how far Mau has come; infinite mana and no CE cost against someone hard to kill):** new #25 "Everything" (S13E115 CH03): Mau lets loose for nine minutes: light against light, Zoltraak by the hundred (Frieren: "I've never seen anyone with enough mana to try"), Blue and Red at once, evolved Shrine from every angle, Authority throwing the walls, Sky, Bang, the katana with Rika whole for the first time in a real fight; nothing runs out; Dabura: "Finally something that doesn't break!"; then he opens his domain. #26 "The Wheel" rewritten: Makima pulled inside (sure-hit risk) holds his right side; Mau opens his hybrid domain, then a second, then a third, and compresses them into one to force a sure hit (the move that burned his brain in training and in the duel); this time the eyes cost nothing and Ciel runs RCT on his brain during the compression, rebuilding it as fast as it burns (Gojo's lesson); Dabura's domain cracks and breaks; the wheel; "No." Chapters 26-30 renumbered 27-31.
 
 ## Work pass — V83 #12–31, 22 November 2026
@@ -108,3 +109,4 @@ Fight/state handoff: one third allocated B409; remaining two thirds B433, exact 
 Yoru must still obey the anti-proxy/non-killing/non-attack wording from V82 #6–7. She claims the current attackers are independent, unarmed/unsent by her, that her disclosures sought later leverage/deterrence and that they refused her request to stop. That account is not certified by the narrator. Mau challenges her and has the real disturbance checked with the watch. Calling a deliberately arranged present attack a test would not exempt it. Observation requires a separate invitation; the pact is not a bypass of DIO's ward. The protection footprint is not shrunk from grounds to house walls or enlarged to distant roads. The house chooses an active return/defense plan using scout evidence; no external ally joins Mau's forward party. DIO stays inside for reach and is not an extra combatant. Ashborn's protected space stays closed.
 
 The source volume ends at #31/B435. The next devil battle, erased-devil return mechanism and relationship repair remain future scenes. Recheck for additions before reporting a later pass complete.
+- **Second fight revision (Mauri: "date grasa"; Gojo's real rematch saved for later):** #25 "Everything" rewritten as real choreography: every technique works once, Dabura half-has it the second time and answers it the third (Zoltraak, Blue and Red found the null point, Shrine gaps); Noise: he adapts, the wheel's shadow is how he fights. New #26 "Nothing Twice" (S13E115 CH04): Mau never repeats (stolen light, katana and Rika, Authority tilting the floor, Bang, Sky, combinations; Ciel counts exchanges), and Frieren's flower spell makes Dabura's body waste an adaptation on flowers while the katana goes through his back (Frieren: "That's the flower spell... I taught him that because it was pretty"); "Finally something that doesn't break!"; "I can't keep up with you"; domain. #27 "The Wheel": Dabura's domain rule is no shadows (the legion, anchors and Rika cut off); Mau's three worlds named: the Dark (cosmic void, eyes/Infinity), the Floor (shadow medium, puts a shadow back into a world that forbids it), the Edge (the cutting world from Shrine's archive); compressed for a forced sure hit with RCT on the brain. Chapters after renumbered 28-32.

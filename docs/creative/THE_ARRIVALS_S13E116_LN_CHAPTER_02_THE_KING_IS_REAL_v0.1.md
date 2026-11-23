@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 27 — The King Is Real
+## Chapter 28 — The King Is Real
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 27
+**Reading order:** 28
 **Source episode:** S13E116
 **Continuity state:** B+433, just after. Dabura on his back, asking why not. Mau's answer is short and true: he once stood in this quarry in pieces, and someone could have finished him and didn't get the chance, and he'd rather Dabura got up. Dabura gets up. "The king is real." He'll talk, through Maru, because a king who won and didn't kill is worth talking to. He asks about the wheel; Mau tells him he doesn't remember a fight his body does, and Dabura goes quiet. On the far rim, Yoru stands, looks down at Mau for a long moment, and leaves; the contract still holds. The ridge comes down: Gojo, Frieren, Jin-Woo, Maru, Tsurugi. Mau's body is whole and wrecked with tiredness, and Makima is still at his right shoulder, holding the handshake. He doesn't look for Yuka. He knows exactly where she is.
 

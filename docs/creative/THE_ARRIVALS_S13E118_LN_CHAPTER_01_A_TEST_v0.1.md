@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 30 — A Test
+## Chapter 31 — A Test
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 30
+**Reading order:** 31
 **Source episode:** S13E118
 **Continuity state:** B+434 night. Yoru reports independently moving devils and tries to frame the danger as her test. The B397 pact explicitly bars arranged/proxy killing, weapons intended for covered killings, attacks on the household and withdrawable lethal instructions. Mau challenges that boundary. Yoru claims she sought later leverage and ordered no present attack, expected deterrence, told them to stop and failed; this is her account, not narrator certification. Ordinary independent devils may not be her proxies, but calling an arranged attack a test would not exempt it. Her presence does not override DIO’s ward; protected grounds retain their old footprint. Scout sight corroborates the openings. The mechanism of erased devils returning is unverified, not an established single hole at the house.
 

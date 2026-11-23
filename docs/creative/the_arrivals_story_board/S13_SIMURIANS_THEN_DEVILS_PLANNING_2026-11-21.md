@@ -330,3 +330,15 @@ Timeline anchor: V82 ends after the Fort day (about B+405). Yoru's contract runs
 - **"Makima is coming with me" is reassurance:** Mau saying he isn't alone. **Yoru expected exactly that.**
 - **Yoru is the one who forces Mau to fight it alone.** She allows no intervention from anyone else and says herself that it's a test.
 - **Raise the stakes with devils that Pochita ate in Chainsaw Man,** or that weren't eaten (Nuclear Weapons, the Nazis one, and so on). Verify the source list before using any.
+
+## Clarifications (Mauri, 22 November 2026)
+
+> si pero cuidado satella ya vive y es amada por la casa aqui es que satella ya tuvo tiempo para digerir esto y siente la envidia usal pero aun no ah podido decir nada
+> ah okay mientars trates esto como guia y no como ley esta bien
+> y los que salen en el manga y puede ser que aqui es que el mundo devil ya sabe por yoru que mau puede sobrevivir se rborrado haciendolo aun mas temerario y quieran deshacerse de el y un fucking halloween v unlimited void nmmmsmsmsmsmsmmsmsmsmsms
+> si icnluye a makima ciel y noise que ens i ya son parte de mau
+
+- **Satella, carefully:** she already lives in the house and is loved by it. She's had time to digest this and feels her usual envy, but she hasn't managed to say anything yet.
+- **Chapter list = a guide, not a law.**
+- **Devils:** use the ones that appear in the manga too. Through Yoru, the devil world already knows Mau can survive being erased, which makes him even more feared, and they want to get rid of him. And **Halloween vs Unlimited Void**. Verify Halloween in the manga before writing.
+- **"Alone" includes Makima.** Yoru bars her from fighting. Ciel and Noise stay, because they're part of Mau.

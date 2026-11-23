@@ -97,7 +97,7 @@ It goes on.
 
 He doesn't repeat. He doesn't let himself. Light from the right, then the katana from the left, then Authority on Dabura's own arm, then Blue, but alone this time, small, on the far side so it pulls Dabura *toward* the katana instead of away. Then the stolen light again, but from Rika's hands, as she rises behind him for one breath and sends it and goes.
 
-Every exchange new. And never everything at once: he changes routes, lets one go quiet before the next comes up, the way Ciel keeps reminding him, because Infinity and Shrine together still press behind his eyes, and he only has one head to hold them in. The RCT keeps that head fresh, over and over, the way it always does now; what it can't do is make one head into two.
+Every exchange new. Two at a time, often: he's been practising that for months, two innate techniques running together, Infinity holding while Shrine cuts, and he can do it now without his head giving way, because the RCT keeps it fresh, over and over, the way it always does. What he doesn't do is open everything at once. Two is practice. Three is where it starts to cost, and Ciel is counting.
 
 And it works.
 

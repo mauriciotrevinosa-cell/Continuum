@@ -31,13 +31,11 @@ He laughs, not very well.
 
 “I've forgotten all of it,” he says. ˢᵇ
 
-* * *
-
 Mau doesn't know everything about it.
 
 He knows enough. The house knows. Subaru and Rem, and Subaru and Emilia, and the long tangle of it from before they all came here. Rem, who loved him with everything. Subaru, who loved Emilia. The things he promised, and the things he couldn't keep, and the way it all came apart in this house, a long time ago, in a way that hurt everyone and that nobody has ever quite put back.
 
-And Ram. Who watched all of it happen to her sister. Who has never once said what she thought of it, out loud.
+And Ram, who watched it happen to her sister and had made her anger very clear. That anger had not prevented Subaru leaving. He has to come and hear her himself now.
 
 “Will you sit with me?” Subaru says. ˢᵇ
 
@@ -55,27 +53,45 @@ He looks at the cold tea.
 
 Mau thinks about it.
 
-“Okay,” he says. ᴹ
+“I'll ask them,” he says. “They get to decide who's in the room too.” ᴹ
 
-* * *
+Rem agrees in the kitchen. Ram looks at Mau, then past him to Subaru on the steps.
+
+“He can say it with you there,” she says. “He still has to say it to us.” ᴿᵃ
 
 They talk in the small sitting room at the end of the house, the one with the window on the orchard.
 
 Rem and Ram on the couch. Subaru in the chair across from them. Mau in the corner by the window, where he can see all three of them and none of them have to look at him.
 
-Subaru talks.
+Subaru begins with the road. The search. How long it took to find the others. He gets as far as the weather before he stops himself.
 
-It doesn't come out the way he planned it. Mau can tell. It comes out in pieces, out of order, starting in the middle and going back to the beginning and getting lost and starting again. He says he's sorry. He says it a lot. He says he's sorry for the promises and sorry for the leaving and sorry for the way he left, and sorry it took him this long to come back and say so. He says he knows sorry doesn't fix it. He says it anyway.
+“That's not what I came to say.” ˢᵇ
+
+Ram keeps looking at the window. Rem waits.
+
+“When I said I loved you,” he says to Rem, “I wanted you to come back with me. I knew what those words had meant to you. I used that.” ˢᵇ
+
+Rem's hands tighten together.
+
+“I wanted to be important again. I wanted you to look at me the way you used to. And when you didn't, I acted like you were the one taking something away.” ˢᵇ
+
+He looks toward Mau, catches himself and looks back at Rem.
+
+“You weren't. You had a life here. You told me. I didn't listen because it wasn't the answer I wanted.” ˢᵇ
+
+“That was what hurt,” Rem says. “You were talking to me. You weren't hearing me.” ᴿᵉ
+
+“I know. I do now. I'm sorry.” ˢᵇ
+
+He starts another sentence, loses it, tries again. He apologises for the leaving and for making them carry an argument he could escape by walking away. He does not offer the miles or the scar as proof that he has paid for it. By the time he stops, the speech he rehearsed on the road is gone.
 
 Rem listens with her hands in her lap and her eyes on his face.
 
 Ram listens with her eyes on the window.
 
-* * *
-
 When he's finished, Rem gets up.
 
-She crosses the little room and kneels in front of his chair, and takes both his hands in hers, and holds them.
+She crosses the little room. Subaru starts to stand; she gestures for him to stay, pulls the spare chair closer and sits facing him. She takes his hands for a moment, looking straight at him.
 
 “I forgive you,” she says. ᴿᵉ
 
@@ -85,13 +101,23 @@ Subaru's face crumples.
 
 “Rem—” ˢᵇ
 
-“I forgave you a long time ago,” says Rem. “I was only waiting for you to come home so I could tell you.” ᴿᵉ
+“I'd stopped wanting to be angry before you came back,” Rem says. “But I needed to hear you say what you were sorry for.” ᴿᵉ
 
-She squeezes his hands. Then she lets go, and stands, and goes back to the couch, and sits down beside her sister.
+He nods. He doesn't try to turn the hands in his into a promise.
+
+“I love Umaru,” she says. “I'm happy. I want to be able to tell you that without wondering whether you'll hear it as something I've done to you.” ᴿᵉ
+
+Subaru swallows.
+
+“Okay,” he says. Then, more steadily, “I'm glad she makes you happy.” ˢᵇ
+
+“She's terrible at putting her things away.” Rem's mouth moves a little. “I'm still happy.” ᴿᵉ
+
+This time he manages a small smile.
+
+She squeezes his hands, lets go, and goes back to sit beside her sister. She has forgiven him. Their old relationship stays where she put it.
 
 They both look at Ram.
-
-* * *
 
 Ram doesn't say anything for a long time.
 
@@ -117,8 +143,6 @@ She pauses.
 
 “That's what I can give you,” she says. “Forgiveness, and the truth. I think it's more than you expected.” ᴿᵃ
 
-* * *
-
 The room is very quiet.
 
 Then Subaru nods. Slowly.
@@ -139,23 +163,27 @@ She stands up and leaves the room.
 
 Rem stays a moment longer. She looks at Subaru, and then, very briefly, at Mau in the corner, and inclines her head to him, a small *thank you*. Then she follows her sister.
 
-* * *
-
 Subaru sits in the chair with his face in his hands.
 
 Mau doesn't say anything. He just stays in the corner, by the window, until Subaru lifts his head.
 
-“You didn't run,” Mau says. ᴹ
+“You stayed and heard them,” Mau says. ᴹ
 
 Subaru laughs, a cracked, wet sound.
 
 “No,” he says. “I didn't.” ˢᵇ
 
-* * *
-
 Emilia has tea with Satella in the afternoon.
 
-Yuka arranges it. She doesn't ask anyone; she just decides, the way she decides things now, and appears in the kitchen with a tray and a very firm expression and says *Mau, you're carrying the pot*. So he carries the pot. Out onto the side porch, where Satella is sitting in the shade, alone, in the chair she always uses.
+Emilia finds Yuka in the kitchen and asks whether Satella meant the offer of tea. Yuka goes to ask Satella, comes back with a yes, and puts a tray in Mau's hands.
+
+“You're carrying the pot.” ʸ
+
+“An honour.” ᴹ
+
+“And don't drink it on the way.” ʸ
+
+So he carries the pot out onto the side porch, where Satella is sitting in the shade, in the chair she always uses.
 
 Satella looks up when they come round the corner.
 
@@ -165,27 +193,29 @@ She goes very still. The same stillness as yesterday, in the doorway.
 
 “You said there was tea,” says Emilia. Her voice is careful. “When I was ready. I think I'm—I'd like to try.” ᴱᵐ
 
-* * *
-
 Mau pours. Yuka hands round the cups. Then they sit on the porch steps a little way off, close enough to be there and far enough not to be part of it, Yuka leaning against his side with her head on his shoulder.
 
-They don't listen. Not on purpose. But the porch is small.
+Emilia has asked them to stay nearby. They leave the talking to the two women and remain where she can see them.
 
 Emilia asks questions. Careful ones, at first. Where Satella came from. How long she's been here. Whether the house knew, when she came, what she was.
 
-Satella answers. Some of it. She tells Emilia how she arrived, and who was kind to her first, and how long it took before she could sit at the long table without everyone going quiet. She doesn't tell her everything. Mau can hear the places where she stops.
+Satella answers what she can about arriving here. Her place at the long table, the people she eats with, the tea visits. Emilia looks toward the kitchen when she mentions Shuna remembering which cup she likes. It seems to trouble her more than an account of a battle would have.
+
+“And they knew?” Emilia asks. ᴱᵐ
+
+“Yes.” ˢᵃ
+
+Yuka's cheek rests against Mau's shoulder. Beyond the porch, someone calls for the good scissors; Mai shouts back that they are the good scissors because she doesn't lend them. Satella waits while Emilia listens to the house carrying on around her.
 
 Then Emilia asks the question she came to ask.
 
 “Why do we look the same?” ᴱᵐ
 
-* * *
-
 Satella holds her cup in both hands.
 
 She looks at it for a long time.
 
-“I don't know all of it,” she says. “And the parts I do know, I don't think you're ready to hear. Not today. Not on your second day here, after a road that long.” ˢᵃ
+“I can't give you a complete answer,” she says. “I won't fill in the parts I can't explain just because you deserve one.” ˢᵃ
 
 Emilia's face falls, just slightly.
 
@@ -193,13 +223,11 @@ Emilia's face falls, just slightly.
 
 She looks up.
 
-“You can ask me again,” she says. “Whenever you want. I'll always tell you *not yet* or I'll tell you the truth. I won't ever tell you something that isn't.” ˢᵃ
+“You can ask me again,” she says. “Whenever you want. If I still can't answer, I'll say so.” ˢᵃ
 
 Emilia looks at her.
 
 Then, slowly, she nods, and drinks her tea.
-
-* * *
 
 Beside Mau, Yuka has gone very quiet.
 
@@ -218,8 +246,6 @@ Looking at the porch.
 Mau looks too. Cross looks away.
 
 Yuka doesn't notice. She's already turned back to the tea, and to Satella, and to Emilia, and she's tucked herself more firmly against Mau's side, and she's smiling.
-
-* * *
 
 Beatrice finds the library at four in the afternoon.
 
@@ -241,15 +267,25 @@ Something in her expression changes. Not much. Just enough.
 
 “This,” she says, “is acceptable.” ᴮᵉᵃ
 
-And she walks into the room, and climbs onto the window seat beside the shelves, and takes down a book without asking, and opens it, and doesn't come out again until dinner.
+She walks in and reaches toward the cloth-wrapped book. Frieren puts a finger on its spine before it leaves the shelf.
+
+“That one stays here.” ᶠ
+
+“I was only looking, I suppose.” ᴮᵉᵃ
+
+“There are translations by the window. You can borrow those.” ᶠ
+
+Beatrice inspects them, chooses the thickest, and climbs onto the window seat. She settles the book on her knees and opens it. Frieren shifts her own cup far enough to leave room for another. Neither calls attention to it.
+
+Beatrice doesn't come out again until dinner.
 
 Frieren watches her for a while.
 
 Then she goes back to her own book, and doesn't say anything, and when Fern comes to call them both for dinner she finds them sitting a foot apart in total silence, each reading, and both of them, she reports later, looking extremely pleased.
 
-* * *
-
 The Fort inducts Emilia at sunset.
+
+Umaru has invited her to come and see the banner. Emilia is still asking what a Fort member actually does when Ori brings out the paper badge and asks if she would like one. She looks from the badge to the expectant faces and says yes.
 
 Ori presides. She stands on a crate in the yard in her explorer clothes, with the banner from the castle day held up behind her by Milim and Umaru, and the Fort girls in a row, and the rest of the house watching from the porch. Emilia stands in front of her, looking slightly bewildered, with Puck on her shoulder looking extremely amused.
 
@@ -278,8 +314,6 @@ Ori waits, with great dignity, for it to stop. Then she climbs down off her crat
 Emilia looks down at the badge. Her face does something soft.
 
 “Thank you,” she says. ᴱᵐ
-
-* * *
 
 Mau watches from the porch with Yuka in his lap.
 

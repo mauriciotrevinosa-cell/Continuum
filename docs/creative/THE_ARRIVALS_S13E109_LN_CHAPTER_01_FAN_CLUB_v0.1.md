@@ -11,7 +11,7 @@
 
 “Light,” says Maru. ᴹᵃʳᵘ
 
-They're on the back porch, out of the wind. Maru on the bench, sitting very upright, the way he always sits, as if he's been told chairs are for humans and is being polite about it. Mau in the old chair across from him. Yuka on the steps with her notebook, pretending not to listen and writing down every word.
+They're on the back porch, out of the wind. Maru on the bench, sitting very upright, the way he always sits, as if he's been told chairs are for humans and is being polite about it. Mau in the old chair across from him. Yuka on the steps with her notebook, pretending not to listen and writing down every word. Mau has opened their chosen channel to her for the conversation; when Noise starts asking questions, her pencil hurries to catch up.
 
 “His technique is light,” Maru says. “That is the nearest word. He makes it. He shapes it. It goes where he sends it, faster than anything should go, and what it touches—” ᴹᵃʳᵘ
 
@@ -28,8 +28,6 @@ Maru looks at him.
 “Fast,” he says. “I don't have a better word. When we were children, he could cross the valley before the sound of him leaving reached the other side.” ᴹᵃʳᵘ
 
 *Ask how much of a valley*, says Noise. ᴺ
-
-* * *
 
 It goes on like that.
 
@@ -53,8 +51,6 @@ Maru looks at him sharply.
 
 “Yes,” he says. “If he wants you dead badly enough, the wanting is a weapon. It reaches you before the light does.” ᴹᵃʳᵘ
 
-* * *
-
 Inside him, Noise makes a sound.
 
 He's never heard Noise make that sound before. It's a small, involuntary sound, like someone seeing a very beautiful piece of machinery for the first time.
@@ -70,8 +66,6 @@ He's never heard Noise make that sound before. It's a small, involuntary sound, 
 *I want to take it apart*, says Noise. *I want to take it apart so badly.* ᴺ
 
 “I know,” says Mau, and realises, with some alarm, that he's smiling. ᴹ
-
-* * *
 
 Gojo arrives somewhere in the second hour.
 
@@ -96,8 +90,6 @@ He looks at Mau.
 Mau doesn't say anything. But he finds he's sitting forward in the chair. He finds his hands are clasped very tightly between his knees. He finds that the itch, the old one, the one from the porch before the birthday gate, is back in his fingers.
 
 Gojo grins at him.
-
-* * *
 
 “You two,” says Yuka. ʸ
 
@@ -137,8 +129,6 @@ He closes it.
 
 Yuka writes it down.
 
-* * *
-
 Maru, on the bench, is looking at them all with an expression of slow bewilderment.
 
 “He wants to kill you,” he says to Mau. ᴹᵃʳᵘ
@@ -159,9 +149,7 @@ Maru looks at Gojo.
 
 Gojo shrugs, and eats another sweet.
 
-“That's how you know he'll be fine,” Gojo says. “The ones who aren't interested are the ones who lose.” ᴳ
-
-* * *
+“I'd worry more if he'd stopped asking questions,” Gojo says. “I still want answers before he walks in.” ᴳ
 
 “The quarry,” says Mau. ᴹ
 
@@ -173,7 +161,13 @@ Something goes over his face when he says the name. He feels it. He doesn't hide
 
 “It's far enough from the house,” he says. “It's already broken. Nothing lives there that can't move. And I know the ground.” ᴹ
 
-He knows the ground very well. He's been under it, in pieces, with his shadows holding him together.
+He knows the ground very well. He remembers what it felt like to try to stand on it at the end of the duel.
+
+“We check it first,” he adds. “I don't want to find out somebody's moved into it while we're standing there.” ᴹ
+
+“I'll go with the first look,” Gojo says. ᴳ
+
+Rocks and an old battle are not a guarantee of an empty place. Yuka puts a square beside *quarry* and writes *check*.
 
 “You'll meet him,” says Maru slowly. ᴹᵃʳᵘ
 
@@ -189,8 +183,6 @@ Then he stands up, and bows, very formally, the way his people must bow, from th
 
 “I'll send word,” he says. ᴹᵃʳᵘ
 
-* * *
-
 Yuka comes up the steps when he's gone.
 
 She doesn't sit in his lap. She stands in front of the chair and looks down at him, with her notebook against her chest.
@@ -201,7 +193,11 @@ She doesn't sit in his lap. She stands in front of the chair and looks down at h
 
 “Where you nearly died.” ʸ
 
-“Where I didn't.” ᴹ
+“Where I didn't,” he says, then sees her expression. “I know. That's not all you remember about it.” ᴹ
+
+“No,” she says. ʸ
+
+He turns his hand palm-up toward her. She takes it before she sits down.
 
 She looks at him for a long time.
 
@@ -219,8 +215,6 @@ Then she does sit in his lap. Heavily. All at once. And puts her forehead agains
 
 “Every dungeon,” he agrees. ᴹ
 
-* * *
-
 Cross asks at dinner.
 
 In front of everyone. Mau will think about that later. He doesn't wait until she's at the sink, the way he did before. He just sits across the long table from her, with his plate untouched again, and when there's a gap in the noise, he says, quite loudly:
@@ -233,21 +227,19 @@ Yuka looks up from her plate.
 
 “Walk where?” she says. ʸ
 
-“North,” says Cross. “The road we came down. There's a ridge a few hours up where you can see all the way to the lake. Where I looked for you. I want to show you.” ᶜʳ
+“North,” says Cross. “The road we came down. There's a ridge a few hours up where you can see all the way to the lake. Before I heard about this house, I sat there thinking I'd never find out what had happened to you. I want to show you.” ᶜʳ
 
 He says it flatly, the way he says everything. But his hands are flat on the table again, and they aren't quite still.
 
-“I walked all of it,” he says. “Looking. I want you to see what I walked.” ᶜʳ
-
-* * *
+“I walked all of it before I knew you were here,” he says. “I want you to see it.” ᶜʳ
 
 Yuka hesitates.
 
-Just for a moment. Mau feels it, through the contract. A small pause. And then she turns, and looks at him, sitting beside her with his knee against hers and half her dinner on his plate.
+Just for a moment, with her fork held over her plate. Then she turns and looks at Mau, sitting beside her with his knee against hers and half her dinner on his plate.
 
-“Can I?” she says to him. ʸ
+“We didn't have anything tomorrow, did we?” she asks him. ʸ
 
-She's asking. She always asks. That's the rule they have.
+They had talked about a quiet day. He had not asked her to keep it for him. She is checking the day with him; he hears how easily she has pictured spending it somewhere else.
 
 Mau looks at her.
 
@@ -255,9 +247,7 @@ He looks at Cross, across the table, with his hands not quite still.
 
 He thinks about the orchard wall. About *before you*. About lying awake until morning.
 
-“It's fine,” he says. ᴹ
-
-* * *
+“Nothing fixed,” he says. Then, “It's fine.” ᴹ
 
 Yuka smiles at him.
 
@@ -267,13 +257,11 @@ Bright and easy. She leans over and kisses his cheek, quickly, right there at th
 
 Cross nods. Once.
 
-He picks up his fork. For the first time since he came through the gate, he eats.
+He picks up his fork and begins eating the dinner he had left untouched while he waited to ask.
 
 Yuka goes back to her dinner. She steals a piece of bread off Mau's plate. She leans against his shoulder while she eats it.
 
 Mau eats his dinner.
-
-* * *
 
 At the bottom of the porch steps, after dinner, Makima is sitting where she always sits.
 

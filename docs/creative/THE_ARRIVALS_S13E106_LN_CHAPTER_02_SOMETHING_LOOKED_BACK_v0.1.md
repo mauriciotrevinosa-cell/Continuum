@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 6
 **Source episode:** S13E106
-**Continuity state:** B+414 ("73"). A letter arrives from Subaru, the first word from him and Tsurugi in a long time. They went looking for Emilia across this world, not other worlds. They've found her, and Puck, and Beatrice. They're coming home. And they aren't alone: Tsurugi met people on the road, and some of them are "not from here, not from anywhere". That night on the porch, with the new sense turned low and the eyes open, Mau feels something enormous a long way off to the north-east: bright, like light, and under it something with no word, pure intent. It notices him noticing, and looks back. Short closing section from far away: a Simurian warrior on a mountain, honing himself, who doesn't remember where he learned half of what he knows, feels a small hard point to the south-west that is hiding almost everything, and smiles. No names yet on that side.
+**Continuity state:** B+414 ("73"). A letter arrives from Subaru, the first word from him and Tsurugi in a long time. They went looking for Emilia across this world, not other worlds. They've found her, and Puck, and Beatrice. They're coming home. And they aren't alone: Tsurugi met people on the road, and some of them are "not from here, not from anywhere". That night on the porch, with the new sense turned low and Kamish sharing his sight, Mau notices something enormous a long way off to the north-east: bright, like light, and under it something with no word, pure intent. It notices him noticing, and looks back. Short closing section from far away: a Simurian warrior on a mountain, honing himself, who doesn't remember where he learned half of what he knows, feels a small hard point to the south-west that is hiding almost everything, and smiles. No names yet on that side.
 
 *When: B+414. Afternoon, then late night. Yuka wrote "73" and nothing else; she was in a hurry to get to the window because she'd heard the bird.*
 
@@ -19,7 +19,7 @@ Rem gets to it first. She always gets to things first. She unties the letter and
 
 “It's Subaru's writing,” she says. ᴿᵉ
 
-* * *
+---
 
 The kitchen goes quiet.
 
@@ -34,8 +34,6 @@ Rem looks at her sister. Then at the letter. Then she holds it out across the ta
 He looks at her.
 
 “Out loud,” says Rem. “For everyone.” ᴿᵉ
-
-* * *
 
 He reads it out loud.
 
@@ -53,13 +51,11 @@ There's a pause in the kitchen that you could hear a pin drop in.
 
 Somebody at the table laughs, wetly. Mau doesn't look up to see who.
 
-*We're coming home. All of us. It'll take a while; the roads are bad and Puck refuses to be carried. Tell Rem and Ram. Tell them I'm sorry it took so long. Tell them I have a lot of things to say and I want to say them properly, in person, so I'm not going to write them here.*
+*We're coming home. All of us. It'll take a while; the roads are bad and Puck refuses to admit that sitting on a shoulder is being carried. Tell Rem and Ram. Tell them I'm sorry it took so long. Tell them I have a lot of things to say and I want to say them properly, in person, so I'm not going to write them here.*
 
 Rem has put her hand over her mouth. Ram, beside her, is looking at the table, very hard, and her jaw is tight.
 
 Mau keeps reading.
-
-* * *
 
 *One more thing,* the letter says.
 
@@ -67,9 +63,9 @@ The writing changes here. Still Subaru's. But smaller. More careful.
 
 *Tsurugi met some people on the road.*
 
-*I'm going to be honest, because Tsurugi says Mau likes it when people are honest now, and Tsurugi is very insistent about this. They're not from here. They're not from anywhere. They came down out of the sky somewhere in the north, a lot of them, and most of them stayed where they landed, and a few of them didn't.*
+*Tsurugi says you should hear this from us first, and Tsurugi is very insistent about this. They're not from here. They're not from anywhere. They came down out of the sky somewhere in the north, a lot of them, and most of them stayed where they landed, and a few of them didn't.*
 
-*Two of them are travelling with us. Brothers. Twins. One of them wants to talk. The other one wants to fight everyone and Tsurugi keeps telling him no.*
+*Two of them are travelling with us. Brothers. Twins. They want to talk to you. One asks enough questions for both of them and the other keeps correcting the answers. Tsurugi has been explaining the house, which means I've had to explain some of his explanations.*
 
 *They've heard about the house. Tsurugi told them. Tsurugi told them about Mau.*
 
@@ -85,11 +81,13 @@ The writing changes here. Still Subaru's. But smaller. More careful.
 
 *P.S. Beako says she's coming to the house to see if the library is any good, NOT because she missed anyone. Please have a library.*
 
-* * *
-
 He puts the letter down.
 
-The kitchen is very quiet for a moment. Then it isn't. Then everyone is talking at once: Rem crying and laughing, Ram saying *he'd better have a lot of things to say* in a voice that isn't steady, Milim demanding to know who the twins are and whether they're strong, Umaru demanding to know whether the house has a library and, if not, why not.
+The kitchen is very quiet for a moment. Then it isn't. Then everyone is talking at once: Rem crying and laughing, Ram saying *he'd better have a lot of things to say* in a voice that isn't steady, Milim demanding to know who the twins are and whether they're strong, Umaru wanting to know who is going to tell Beatrice how many people already have opinions about the bookshelves.
+
+Under the table, Rem reaches for Umaru's hand. Umaru stops mid-question and turns toward her, letting Rem hold it while she reads the part about Emilia again. Farther down, Seika moves her chair against Ram's. Ram keeps looking at the letter, but her hand comes to rest on Seika's knee.
+
+There will be things to say when Subaru arrives. Finding the people he went to find has not said them for him. For now Rem asks Mau to read the first paragraph once more. He does, leaving the letter within her reach when she is ready to take it.
 
 Mau sits in the middle of it with the letter in front of him.
 
@@ -103,11 +101,11 @@ She doesn't say anything. She doesn't have to. She's read the last part over his
 
 “Seventy-three,” he says. ᴹ
 
-* * *
+---
 
 That night, he can't sleep.
 
-He doesn't try very hard. He gets up, carefully, so as not to wake her, and goes down through the dark house and out onto the porch, and sits in the old chair with his feet on the railing and the night all round him.
+He doesn't try very hard. He gets up carefully so as not to wake her and writes *porch* beneath the day's number in the notebook by her side. Then he goes down through the dark house and out onto the porch, and sits in the old chair with his feet on the railing and the night all round him.
 
 It's a clear night. Cold. The stars are out over the hills in the way they only come out in the dry part of the year, sharp and close.
 
@@ -115,25 +113,31 @@ He closes his eyes.
 
 He lets the sense come up. Just a little. Just to see.
 
-* * *
-
 The yard first. The warmth still coming off the stones where the sun was. The cool in the grass. Beru, at the end of the porch, very still, keeping watch; the steady slow weight of him. Kamish, high up and far off, turning against the stars. The house behind him, full of people sleeping, all their warmth and breathing like a great soft animal at rest.
 
-Then further.
+He opens the practical channel to Kamish.
 
-The orchard. The river. The hills. He lets the sense go out, the way you'd let a rope out, further than he's let it go before. Mini Ciel holds the flood. Noise holds the sense. The eyes read everything it touches.
+*Show me the ridge.* ᴹ
 
-The valley. The ridge where Ori draws her maps. The ruins with *rest here, we did* cut into the rock. Further. The empty country past the ridge, where the maps stop.
+The view from his scout comes with the familiar shift of height. Mau keeps the feel of the chair beneath him while he looks through what the dragon can see. Mini Ciel separates the two arrivals. Noise keeps the new bodily sense quiet enough that the grass against the porch does not demand the same attention as the country beyond the wings.
 
-And then, a very long way off, to the north-east, beyond anything he's ever reached—
+The orchard lies behind Kamish now. The river catches a little of the starlight. Beyond it are the hills Ori drew, and beyond those, dark country with no useful detail from the porch.
 
-Something.
+Mau lets his eyes work on the shared view. He has used a shadow's sight before; tonight he can hold it beside his own without forcing either one away.
 
-* * *
+Kamish turns toward the north-east.
+
+There is something past the far ridge.
+
+Too distant to resolve into a person. Too little information for a body, a technique or a name.
+
+But something.
+
+---
 
 He opens his eyes.
 
-He doesn't mean to. His body does it, the way his body sat down on the stair in the gate when he saw the Shop was open. His heart is going very fast.
+He doesn't mean to. His body does it, the way his body sat down on the stair in the gate when he saw the Shop was open. His physical pulse is going very fast against the slower weight of the other heart.
 
 *You felt it*, says Ciel. Not a question. ᶜ
 
@@ -141,11 +145,9 @@ He doesn't mean to. His body does it, the way his body sat down on the stair in 
 
 *I don't know.* ᶜ
 
-Ciel doesn't say *I don't know*. Ciel says *I'm looking* or *insufficient data* or *give me a moment*. She doesn't say *I don't know*.
+He waits for the next part: a comparison, something she has seen before, a way to place the thing against what he already knows. For the moment, she has none to offer.
 
 He closes his eyes again. He goes back.
-
-* * *
 
 It's still there.
 
@@ -155,13 +157,11 @@ And under the brightness, something else.
 
 Something the eyes don't have a word for. They try. He feels them try, the way they tried with the Warden and found nothing to hold. Only this isn't nothing. This is the opposite of nothing. It's full. It's pressing. It's—
 
-*Intent*, says Noise, very quietly. *It's just intent. Pure. Wanting to kill. Shaped like a thing.* ᴺ
+*Intent,* Noise says very quietly. *To kill.* ᴺ
 
-* * *
+Mau holds the impression without mistaking it for an explanation of the thing making it.
 
-He holds still.
-
-He holds very still in the old chair on the porch, with his eyes closed and the sense out further than it's ever been, and looks at the bright hard point a very long way off.
+He holds still in the old chair on the porch, his attention on the distant point through the view Kamish has given him.
 
 And the point looks back.
 
@@ -171,15 +171,13 @@ It knows he's there.
 
 It knows he's looking.
 
-*Pull back*, says Ciel. *Now. Slowly. Don't let it follow the line.* ᶜ
+*Enough,* Ciel says. *Close the view. We don't know what it can read back.* ᶜ
 
-He pulls back.
+He releases the shared sight. Kamish remains above the hills, returning to the route Mau gives him instead of turning toward the presence.
 
-Slowly. The rope coming in, hand over hand. The empty country. The ridge. The ruins. The river. The orchard. The yard. The porch.
+The chair is solid beneath Mau's hands. The new sense is still receiving the yard, the cooling stones, the bodies asleep behind him. None of those has moved toward the distant brightness.
 
 He opens his eyes.
-
-* * *
 
 Beru is standing beside his chair.
 
@@ -195,7 +193,7 @@ He doesn't fold his wings.
 
 “I did not like it,” says Beru. ᴮᵉ
 
-* * *
+---
 
 The door opens behind them.
 
@@ -229,9 +227,33 @@ Then she pulls the blanket tighter round both of them and settles her head more 
 
 “Then he can look,” she says. “He can look all he wants. You're mine.” ʸ
 
-> **[PARA WORK: nota de cercanía, aquí.** De madrugada en el porche, ella en sus piernas envuelta con él en la cobija de la cama, pies fríos en sus espinillas, recién oyó lo de la presencia y lo «reclama» («You're mine»). Un beso que es para darle calma, no juguetón; Beru vigilando al norte con las alas abiertas. Corto. **Sin límite de palabras; no comprimas.]**
+He looks at her for a moment before lifting a hand to her face.
 
-* * *
+“I was here first,” she adds, more quietly. ʸ
+
+The little attempt at a joke reaches him. His mouth moves beneath her thumb, and she leans in to kiss him before he has to find an answer.
+
+He meets her gently. She stays close when they part, her forehead against his, both hands keeping the blanket around his shoulders. His arm settles more firmly behind her back.
+
+For a while she lets him look at the hills over her shoulder. Then he turns toward her himself and kisses her again, with a little more certainty.
+
+“Cold feet,” he murmurs afterward. ᴹ
+
+“You left the warm place.” ʸ
+
+“I wrote where I was.” ᴹ
+
+“I found you.” ʸ
+
+She tucks her feet beneath the blanket, against him, and he holds her closer while the ordinary heat comes back into her toes. At the end of the porch Beru remains facing the north-east, giving them the quiet without relaxing his watch.
+
+“I don't know what it was,” Mau says after a while. ᴹ
+
+“Then that's what we know tonight.” ʸ
+
+She rests her head beneath his chin. He keeps his eyes on the dark hills for another moment, then lowers his face to her hair and stays with the weight of her in his arms.
+
+---
 
 A very long way to the north-east, on a mountain with no name, someone opens their eyes.
 
@@ -247,7 +269,7 @@ He doesn't remember the wheel.
 
 He doesn't remember anything about it, except that sometimes, at the edge of sleep, there's a sound like something heavy turning, and he wakes with his hands up.
 
-* * *
+---
 
 He felt something just now.
 
@@ -257,7 +279,7 @@ Not a light, like his. Nothing like his. Something small, and hard, and very car
 
 But it was *looking*.
 
-That was the thing. It had reached all the way out here, across all that distance, further than anything here should be able to reach, and it had found him. And when he looked back, it had pulled away. Carefully. Hand over hand. Not afraid. Just careful. Like something that knew exactly what it was doing, and was hiding almost everything, and had decided, for now, not to show him.
+That was the thing. There had been another attention behind the winged shape far above the ridge, something reaching from much farther away than the watcher itself. It had found him. And when he looked back, the attention had withdrawn while the winged shape continued along the mountains. Carefully. Showing him very little. Like something that knew there was more to learn and had decided, for now, not to offer him the same chance.
 
 The boy Tsurugi had told him about a king.
 

@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 7
 **Source episode:** S13E107
-**Continuity state:** B+419 ("68"). Kaisel spots the travellers on the north road at dawn. The house goes out to the gate. Subaru, thinner and browner and grinning; Emilia beside him; Puck on her shoulder; Beatrice walking very fast in front so nobody can say she was waiting. Rem reaches Subaru first; Ram stops a few steps short (their real talk is next chapter). Mau, analysing Puck without meaning to, is told "you're looking at me rather a lot" and apologises. Beatrice demands the library. Emilia sees Satella in the doorway and nearly collapses; Satella, who has lived and been loved in this house a long time, stays very still and says only her name. Tsurugi and Yuka collide in the yard, sibling and rival: a shove, then a hug that lasts too long. Last at the gate, the twins: Maru, calm, who asks permission to cross; and Cross, who came to fight everyone, sees Yuka over Tsurugi's shoulder and stops dead. "You're alive." Mau, at her side, watches her face change. No fight.
+**Continuity state:** B+419 ("68"). Kaisel spots the travellers on the north road at dawn. The house goes out to the gate. Subaru, thinner and browner and grinning; Emilia beside him; Puck on her shoulder; Beatrice walking very fast in front so nobody can say she was waiting. Rem reaches Subaru first; Ram stops a few steps short (their real talk is next chapter). Mau, analysing Puck without meaning to, is told "you're looking at me rather a lot" and apologises. Beatrice demands the library. Emilia sees Satella in the doorway and nearly collapses; Satella, who has lived and been loved in this house a long time, stays very still and says only her name. Tsurugi and Yuka collide in the yard, sibling and rival: a shove, then a hug that lasts too long. Last at the gate, the twins: Maru, calm, who asks permission to cross; and Cross, who came to talk beside Maru but has been braced for rejection, sees Yuka over Tsurugi's shoulder and stops dead. "You're alive." Mau, at her side, watches her face change. No fight.
 
 *When: B+419. Dawn to mid-morning. Yuka wrote "68" in the dark and didn't draw anything, because Kaisel had already come down into the yard and was making the sound he makes when there are people on the road.*
 
@@ -15,7 +15,7 @@ He comes down out of the dawn into the yard with a sound like a sheet being shak
 
 Mau is on the porch before he's finished landing.
 
-*People on the north road*, says Ciel. *Seven. Walking. One of them is very small and walking very fast.* ᶜ
+*People on the north road*, says Ciel. *Six on foot. One spirit travelling with them. One of the walkers is very small and walking very fast.* ᶜ
 
 He knows who that is before Ciel says anything else.
 
@@ -23,17 +23,13 @@ He goes back inside and shouts up the stairs. He doesn't shout often. The house 
 
 “*They're here*.” ᴹ
 
-* * *
-
 The house goes out to the gate.
 
 All of it. Nobody decides to; it just happens, the way water goes downhill. Rem in her apron with flour on her hands. Ram behind her, walking, not running, very straight. Milim already halfway down the road and being shouted back by Rimuru. Umaru in a dressing gown. Shuna, Shion, Senku with a spanner he forgot he was holding. Frieren, with Ori. Gojo on the wall, blindfold pushed up, grinning. Satella in the doorway, staying there.
 
 Yuka beside Mau, holding his hand so hard his fingers hurt.
 
-Down the road, in the grey light, seven shapes.
-
-* * *
+Down the road, in the grey light, six travellers and the small shape riding on Emilia’s shoulder.
 
 The small one is first.
 
@@ -44,8 +40,6 @@ She's walking so fast she's almost running, and she's absolutely not running, an
 Nobody answers. Nobody knows what to say.
 
 “It's smaller than I was told,” says Beatrice. “Where is the library?” ᴮᵉᵃ
-
-* * *
 
 Behind her, Subaru.
 
@@ -59,15 +53,13 @@ His face does something.
 
 And then Rem is there.
 
-She doesn't run either. She just walks, very fast, down the road and through the gate with the flour still on her hands, and stops in front of him, and looks at him. Up and down. The scar. The patches. The pack.
+She walks very fast down the road and through the gate with the flour still on her hands. At the last step she slows. The scar. The patches. The pack. Behind her, Umaru stops too, giving her the space she has chosen without disappearing from it.
 
 “You're thin,” she says. ᴿᵉ
 
 “Yeah,” says Subaru. “Yeah, the roads were—” ˢᵇ
 
 She puts her arms round him, pack and all, flour and all, and holds on.
-
-* * *
 
 Ram stops three steps short.
 
@@ -80,8 +72,6 @@ Subaru looks at her over Rem's shoulder.
 “Barusu,” says Ram. ᴿᵃ
 
 That's all. That's all either of them says. But Mau sees the way Subaru's face falls, just slightly, and the way Ram's hands tighten on each other, and he knows there's something there that's going to need its own day.
-
-* * *
 
 Then Emilia.
 
@@ -105,9 +95,13 @@ The cat considers this.
 
 He closes his eye again.
 
-Beside Mau, Yuka makes a small strangled sound that might be a laugh.
+*Still reading*, Noise says, privately. ᴺ
 
-* * *
+*I know. Keep it with us*, Mau answers. *No demonstrations.* ᴹ
+
+He lets his gaze move to Emilia's face. The work behind his eyes continues; he can at least stop making her companion feel displayed at his own arrival.
+
+Beside Mau, Yuka makes a small strangled sound that might be a laugh.
 
 Emilia stops at the gate.
 
@@ -116,8 +110,6 @@ She looks at the house, and at all the people at the gate, and her face is lit u
 And then she looks past them, to the doorway.
 
 And she sees Satella.
-
-* * *
 
 The colour goes out of her face.
 
@@ -134,8 +126,6 @@ He's there before Mau has moved, dropping the pack, one arm round her, holding h
 “I know,” says Subaru. “I know. I should have told you. I didn't know how. She's—it's okay. She's okay. She *lives* here.” ˢᵇ
 
 Emilia stares at the doorway.
-
-* * *
 
 Satella hasn't moved.
 
@@ -161,8 +151,6 @@ Then Satella steps back. Just one step. Back into the house. Leaving the doorway
 
 And she goes in.
 
-* * *
-
 Emilia stands at the gate with Subaru holding her up, staring at the empty doorway.
 
 “She—” ᴱᵐ
@@ -175,9 +163,23 @@ Emilia stands at the gate with Subaru holding her up, staring at the empty doorw
 
 “She said it like—” ᴱᵐ
 
-She doesn't finish. Puck, on her shoulder, has opened both eyes and is looking at the doorway too, very thoughtfully, for a cat.
+She doesn't finish. Puck, on her shoulder, has opened both eyes and is looking at the doorway too.
 
-* * *
+“Somewhere to sit, please,” he says. There is very little of the cat in his voice now. ᴾᵘ
+
+Mau steps aside. Yuka goes back for a chair; Maki brings water. No one tries to take Emilia farther than the patch of shade beside the gate.
+
+“I should have told you on the road,” Subaru says again, crouching where she can see him. “You don't have to go inside yet.” ˢᵇ
+
+Emilia accepts the water with both hands. A little spills over her thumb.
+
+“Stay here a minute,” she asks him. ᴱᵐ
+
+“Yeah.” ˢᵇ
+
+Beatrice returns from the doorway, takes one look at them and puts herself on the other side of the chair. For once she has no comment about the books.
+
+Mau leaves the gate open and the way back to the road clear. When Emilia finally looks up, it is to ask where she can put her bag. That is the first thing she chooses to bring inside.
 
 Tsurugi comes up the road behind them all, and Yuka lets go of Mau's hand.
 
@@ -209,8 +211,6 @@ Then she grabs him by the front of his jacket and pulls him in and holds on, her
 
 “Because it's still weird,” says Tsurugi, and she laughs, wetly, and shoves him a third time, very gently, without letting go. ᵀˢ
 
-* * *
-
 The twins are last.
 
 They've stopped at the bend in the road, a little way back from the others. Mau saw them from the porch and has been watching them the whole time, with the eyes, with the sense turned low.
@@ -227,17 +227,13 @@ He looks at the people at the gate. Then, after a moment, at Mau.
 
 “May we come in?” he asks. ᴹᵃʳᵘ
 
-* * *
-
 Mau doesn't answer right away.
 
-Behind Maru, the other twin hasn't moved from the bend in the road. He's standing with his arms crossed and his weight on his back foot, the way people stand when they're ready to go forward very fast. The sense tells Mau everything about that stance. Tense. Coiled. Furious about something. He's been furious, Mau thinks, for the whole road. He came to fight everyone, Subaru said in the letter, and Tsurugi kept telling him no.
+Behind Maru, the other twin hasn't moved from the bend in the road. He's standing with his arms crossed and his weight on his back foot, the way people stand when they're ready to go forward very fast. The new sense makes the held muscles unmistakable. Tense. Coiled. He looks furious about something. He's been furious, Mau thinks, for the whole road. Both brothers asked to come and talk, Subaru said in the letter. This one still looks as if he's spent the whole road expecting someone to make talking impossible.
 
 He's looking at the house the way you'd look at a wall you were about to go through.
 
 Then his eyes find Yuka.
-
-* * *
 
 She's still in the road with Tsurugi, her face in her brother's shoulder. She lifts her head. She sees the twins at the bend.
 
@@ -253,11 +249,9 @@ He stops there, a few paces from Yuka, and stares at her.
 
 “You're alive,” he says. ᶜʳ
 
-* * *
-
 Yuka goes very still.
 
-Mau feels it before he sees it. Through the contract, through the link, through the hand she isn't holding anymore. Something in her goes *still*, the way a pond goes still when you drop something into it, just before the rings start.
+Her answer takes a breath longer than Mau expects. Her shoulders stop moving. Whatever has reached her belongs to before this house; the link gives him no name for it, and he doesn't reach in to find one.
 
 “Cross,” she says. ʸ
 
@@ -268,8 +262,6 @@ Just his name. The way Satella said Emilia's. Carefully. Like setting something 
 He stops.
 
 “You're alive,” he says again. ᶜʳ
-
-* * *
 
 Mau doesn't move.
 
@@ -284,8 +276,6 @@ He doesn't know this one.
 It's open. That's the thing. Open in a way he's only seen it be for him. Surprised, and shaken, and something underneath that he can't read, that the eyes can't read, that the new sense can feel only as warmth coming up her throat, and her heartbeat, fast.
 
 She takes a step toward the gate.
-
-* * *
 
 Then she stops.
 
@@ -312,8 +302,6 @@ It isn't a compliment. It isn't an insult either. It's just a word, flat, like a
 “Mau,” says Mau. ᴹ
 
 Cross doesn't say anything else.
-
-* * *
 
 Behind them, Maru is still standing at the gate with his hands open, waiting for an answer.
 

@@ -33,27 +33,23 @@ She puts her plate down. She looks back across the kitchen to where Mau is sitti
 
 She goes out with Cross.
 
-* * *
-
 They sit on the orchard wall.
 
 It's the same wall where Mau sat with Yuta, the night after the ring. Old stone, warm in the sun, with the two old trees behind it and the oval of light between them, humming quietly again now, back to the shape she gave it. Something warm in it, somewhere.
 
-Cross sits too close. She moves along a little. He doesn't seem to notice.
+Cross sits too close. She moves along a little and rests a hand on the stone between them. He doesn't move closer again.
 
 For a while he doesn't say anything. He looks at the trees. At the oval. At the house.
 
 “You're alive,” he says. ᶜʳ
 
-“You said that yesterday.” ʸ
+“You said that when you arrived.” ʸ
 
 “I'm still saying it.” ᶜʳ
 
 He picks at the moss on the wall with one long finger.
 
 “I looked for you,” he says. ᶜʳ
-
-* * *
 
 She didn't know that.
 
@@ -73,8 +69,6 @@ Yuka doesn't say anything.
 
 It *is* the kind of stupid thing she'd do. That's the worst part. He's right.
 
-* * *
-
 “So I looked,” says Cross. “For a long time. Everywhere. And then the talks happened. My brother's talks. And everything went wrong.” ᶜʳ
 
 He lifts his shirt.
@@ -93,8 +87,6 @@ He looks at her.
 
 “And then your brother started talking about a house,” he says. “And a man who was basically a king. And his *wife*. And he said your name.” ᶜʳ
 
-* * *
-
 Yuka looks at her hands.
 
 “I'm sorry,” she says. ʸ
@@ -107,9 +99,7 @@ Yuka looks at her hands.
 
 So she tells him.
 
-* * *
-
-She tells him the truth, because she doesn't know how to tell anyone anything else anymore. Mau did that to her. Or she did it to Mau, and it came back. She isn't sure which.
+She tells him what happened. She and Mau have spent too much time learning how to say difficult things to each other for her to turn the operation into an easy little miracle now.
 
 She tells him about the operation. The one the doctors said probably wouldn't work, that she said yes to anyway, because six months of waiting seemed worse than a chance. She tells him about waking up afterward with her head shaved and bandaged and a doctor at the end of the bed with a face she didn't understand at first, because it was the face of someone who couldn't believe their luck.
 
@@ -124,8 +114,6 @@ Cross is very still.
 She looks at the house. At the porch.
 
 “And then I was here,” she says again. ʸ
-
-* * *
 
 Cross doesn't say anything for a long time.
 
@@ -144,8 +132,6 @@ She goes still.
 He looks away.
 
 “I didn't know what a tumour was,” he says. “But I knew what your hands were doing.” ᶜʳ
-
-* * *
 
 Something happens in her chest.
 
@@ -175,19 +161,15 @@ But his face does something she's never seen it do. It opens. Just slightly. Jus
 
 Then it closes again, and he looks at the trees.
 
-* * *
-
 She goes back to the house just before lunch.
 
 She feels light. That's the strange thing. She feels light and warm and a little bit wrung out, the way you feel after you cry, except she didn't cry. She walks up through the orchard with the sun on her back, and she decides, on the way, what the feeling is.
 
-*An old friend.* That's all. Someone from before. Someone who knew her when. She's allowed to have that. Everyone in this house has people from before. Mau has Frieren. Granny has Grandpa. She has Cross.
+*An old friend.* That's all. Someone from before. Someone who knew her when. She's allowed to be glad an old friend is alive. The house has made room for people from everyone's before; she has watched Mau sit through reunions without making anyone explain the whole history first. She can tell him hers too.
 
 That's all it is.
 
 She's very sure.
-
-* * *
 
 Mau is on the porch.
 
@@ -205,17 +187,21 @@ He puts his arms round her. He doesn't ask.
 
 She stays there for a long time.
 
-* * *
-
 She's clingy all evening.
 
 She knows she is. She doesn't care. She follows him to the kitchen and sits on the counter while he helps Shuna with the vegetables. She steals a piece of carrot off his board every time he cuts one. At dinner she drags her chair round to his side and puts her knee against his and eats half of everything off his plate. On the sofa afterward she lies across him like a blanket and refuses to move when Umaru wants to change the film.
 
-Mau lets her.
+Mau moves the carrots to her side of the board. She reaches for the next slice before it is ready; he lifts the knife away and gives her the piece with his other hand.
 
-He always lets her. He moves the carrots to her side of the board. He leaves the good half of everything on his plate. On the sofa he puts his hand on her back and keeps it there, and when Umaru complains, he says *she's comfortable* in a voice that ends the conversation.
+“Predatory,” he says. ᴹ
 
-* * *
+“Married.” ʸ
+
+At dinner he hooks his ankle behind hers. On the sofa he draws her back when she stretches to reach the blanket, getting it from inventory before she can stand. She kisses his chin in thanks and tucks it around them both.
+
+“You're blocking the subtitles,” Umaru says. ᵁ
+
+They move together, barely, until she can see. Yuka resettles with her face against Mau's shirt. He has laughed with her, caught her hand, brought her closer. She has no reason to think those things cost him anything tonight.
 
 At bedtime, she's lying on his chest in the dark, drawing shapes on his arm.
 
@@ -231,7 +217,7 @@ Mau's hand stops moving on her back for a second. Then starts again.
 
 “It is a lot.” ʸ
 
-She waits for him to ask something else. He doesn't. She doesn't notice that either.
+She waits a moment before continuing. His hand is moving again, and she takes the small nod beneath her cheek as an invitation to go on.
 
 “He was the only one who came to the hospital,” she says. “Before. When they told me. I never told you that.” ʸ
 
@@ -249,7 +235,9 @@ She yawns. She settles her head more comfortably on his chest. She's warm and fu
 
 She falls asleep a minute later.
 
-She doesn't see him lying awake. She doesn't see him staring at the ceiling in the dark with his hand still moving on her back, slowly, steadily, the way it always does.
+---
+
+Mau stays awake after her breathing settles. His hand keeps moving on her back, slowly, steadily. Once she stirs and presses closer; he bends his mouth to her hair until she relaxes again.
 
 She doesn't see his face.
 

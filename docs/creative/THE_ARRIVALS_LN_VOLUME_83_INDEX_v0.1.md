@@ -4,7 +4,7 @@
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 12
+**Chapter files:** 13
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -24,6 +24,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 10 | S13E108 | Six Months | `THE_ARRIVALS_S13E108_LN_CHAPTER_02_SIX_MONTHS_v0.1.md` |
 | 11 | S13E109 | Fan Club | `THE_ARRIVALS_S13E109_LN_CHAPTER_01_FAN_CLUB_v0.1.md` |
 | 12 | S13E109 | The Portion | `THE_ARRIVALS_S13E109_LN_CHAPTER_02_THE_PORTION_v0.1.md` |
+| 13 | S13E110 | Someone Has To | `THE_ARRIVALS_S13E110_LN_CHAPTER_01_SOMEONE_HAS_TO_v0.1.md` |
 
 ## Notes
 
@@ -54,3 +55,4 @@ All six sources were read in full and revised. #6 and #9 marked kisses are compl
 
 Day labels: #6 B414(73); #7 B419(68); #8 B420(67); #9 B421(66); #10 B422(65); #11 B424(63). Yoru deadline remains B487 at its agreed hour. No further points spent and no Dabura technique copied yet. This follow-up does not certify later sources added concurrently.
 - #12 (Claude, B+425, "62"): Cross's walk day; Mau keeps busy and doesn't think about it. Yuka back exactly at dinner, mid-story, sits beside Cross across the table, eats her own food, doesn't steal. Mau sets her pickles aside on the empty chair's side, leaves them untouched and walks out without a word. Shuna covers the plate and keeps it. Makima stops him walking into the dark ("You're very loud right now"); "It's not fine." He remembers moving his cup out of Frieren's room when Fern came (S1E12). "You're a good friend": the friend's handshake; Makima: "I had everyone and I didn't have anyone." Back inside, Yuka tells him about the lake and doesn't ask where he went.
+- #13 (Claude, B+426-428, "61"-"59"): by day Yuka shows Cross the house and trains with him (he throws the black dog and laughs for the first time); by night she's as clingy as ever ("I love you"), fully meaning it. Mau says "it's fine" to Rimuru, Shoko and Ciel without noticing. Maru's word: Dabura will come in his own time. Third dinner: Yuka at the far end; Ori takes the empty chair, moves it closer and steals the pickles she hates ("Someone has to"). "Is everything okay?" "I've got a lot in my head." "Is it the duel?" "Partly." Ori's note under his cup: she'll eat the pickles every day until someone else does. He keeps it in his pocket.

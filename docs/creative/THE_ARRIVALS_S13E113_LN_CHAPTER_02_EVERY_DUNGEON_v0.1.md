@@ -233,7 +233,7 @@ Maki has her hand over her mouth. Mai is looking at the ground. Yuta has his arm
 
 Gojo is on the wall with his blindfold off, looking at Mau with the bright eyes, and for once his face isn't doing anything at all.
 
-Frieren has gone very pale. She's looking at Mau, and Mau thinks she's seeing a room a long time ago, with a cup missing from the windowsill.
+Frieren has gone very pale. She's looking at Mau the way she sometimes looks at Himmel across the table, as if she's watching something she understood too late, happening again to someone else.
 
 Ori is in the doorway with her hand in Frieren's sleeve.
 

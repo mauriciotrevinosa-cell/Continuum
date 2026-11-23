@@ -173,7 +173,7 @@ Mau nods. Rimuru stays a little longer, asks about tomorrow's route, and only th
 
 Frieren comes in the afternoon.
 
-She stands in the workshop doorway and looks at him for a long time, holding the beam for Mai. She has the look on her face she had in the yard last night. Like she's seeing a room a long time ago.
+She stands in the workshop doorway and looks at him for a long time, holding the beam for Mai. She has the look on her face she had in the yard last night. Like she's watching something she understood too late.
 
 “The quarry,” she says. ᶠ
 
@@ -193,11 +193,11 @@ She doesn't go. She stands there a moment longer.
 
 He waits.
 
-“When Fern came,” says Frieren. “You moved your cup. I moved my books. We both thought we were being kind.” ᶠ
+“I thought there would be time,” says Frieren. “With Himmel. I thought I could understand him later, when it was convenient. So I didn't ask. I let him be kind and I was kind back and neither of us said anything.” ᶠ
 
 He goes very still.
 
-“We were wrong,” says Frieren. “It took us a long time to find out. I don't want it to take you that long.” ᶠ
+“It took me ten years and a funeral to find out what I'd missed,” says Frieren. “I don't want it to take you that long.” ᶠ
 
 She goes.
 

@@ -17,13 +17,19 @@ He's on the porch with his tea, watching Mai and Senku argue over a beam. Yuka i
 
 “The room. I'd like to show you something. It's better at the table.” ᶜ
 
-She doesn't sound worried. She sounds the way she sounds before she gives him a number she's proud of. He puts the tea down on the railing.
+She doesn't sound worried. She sounds the way she sounds before she gives him a number she's proud of. He puts the tea down on the railing and settles back into the porch chair. His body stays there, the yard still within reach of his attention while he follows the invitation to the room inside.
 
-“Five minutes,” he says. ᴹ
+*Shall I include Yuka?* Ciel asks through the practical channel. ᶜ
+
+*Yes.* ᴹ
+
+*I want to see,* Yuka answers when the invitation reaches her. *Ori and I are staying by the fence.* ʸ
+
+“Five minutes,” he tells Ciel. ᴹ
 
 “It will take less,” says Ciel. ᶜ
 
-* * *
+---
 
 The room is the same as always.
 
@@ -43,11 +49,9 @@ He knows it. He'd know it anywhere.
 
 “Mini Ciel,” Ciel agrees. ᶜ
 
-* * *
-
 He sits down.
 
-He knows the history of that shape better than he'd like. The filter Ciel built a long time ago, from what she could see behind Gojo's eyes, so that his own eyes wouldn't drown him. The overload, before the north, when it gave way and everything came in at once and he went down in Shoko's clinic with blood on his lip. The weeks after, with the cloth over his eyes. And then the island: Ciel rebuilding it in pieces, a little at a time, testing every layer with his permission, until it was usable. Partial. Enough that he only needs the cloth when he's tired, or when the world starts arriving faster than he can choose.
+He knows the history of that shape better than he'd like. The filter Ciel built a long time ago, from what she could see behind Gojo's eyes, so that his own eyes wouldn't drown him. The earlier overload, before the north, when it gave way and he went down in Shoko's clinic with blood on his lip. The work it took to recover from that. Then the Rulers' gate: his eyes reaching their full efficiency, and the filter failing again beneath what they could receive. The cloth afterward. And then the island: Ciel rebuilding it in pieces, a little at a time, testing the layers until it was usable. Partial. Enough that he only needs the cloth when he's tired, or when the world starts arriving faster than he can choose.
 
 He's worn the cloth less every week since. He still keeps it in his pocket.
 
@@ -55,7 +59,7 @@ He's worn the cloth less every week since. He still keeps it in his pocket.
 
 He looks up.
 
-“While you were asleep. With Yuka asleep on you, which made the calibration easier, for once; your attention was very still.” ᶜ
+“While you were asleep, in the calibration window we agreed on. With Yuka asleep on you, which made that part easier; your attention was very still.” ᶜ
 
 “Finished,” he says. ᴹ
 
@@ -64,8 +68,6 @@ He looks up.
 She folds her hands on the table.
 
 “I need to tell you something first,” she says. ᶜ
-
-* * *
 
 Her voice changes.
 
@@ -78,8 +80,6 @@ This is the careful one.
 She pauses.
 
 “Mini Ciel won't survive it,” she says. ᶜ
-
-* * *
 
 The room goes very quiet.
 
@@ -103,11 +103,9 @@ Then the corner of her mouth goes.
 
 Then the rest of it.
 
-* * *
-
 She laughs.
 
-Ciel, who laughs maybe twice a year, and then very quietly, puts her hand over her mouth and *laughs*, properly, her shoulders shaking. At the far end of the table, DIO has put her face down on her arms and is making a sound like a kettle.
+Ciel, who got through the entire explanation with a perfectly composed face, puts her hand over her mouth and laughs so hard her shoulders shake. At the far end of the table, DIO has put her face down on her arms and is making a sound like a kettle.
 
 He stares at them both.
 
@@ -124,8 +122,6 @@ He stares at them both.
 “It *did* do a lot,” he says, with as much dignity as he can find. ᴹ
 
 That sets DIO off again.
-
-* * *
 
 He sits there while they finish.
 
@@ -153,9 +149,13 @@ Noise is the stillest he has ever seen it. A shadow standing beside a table in t
 
 A long pause.
 
-“I suggested,” says Noise carefully, “that the news could be delivered in a way that was memorable.” ᴺ
+“My idea,” Noise admits. ᴺ
 
-* * *
+Ciel looks down at the page, far too late to hide her smile.
+
+“He wanted you to remember the announcement,” she says. ᶜ
+
+“I do,” Mau tells them. ᴹ
 
 He looks at Noise for a long time.
 
@@ -164,8 +164,6 @@ Noise, his first construct. The thing he built before he knew he was building an
 That just planned a prank.
 
 “You've been keeping bad company,” he tells it. ᴹ
-
-* * *
 
 The objection is immediate and from two directions.
 
@@ -185,15 +183,13 @@ DIO looks very hard at the window and straightens her hat.
 
 “It was a very good joke.” ᶜ
 
-“It was *my* joke,” says Noise, very quietly, and Mau realises it sounds pleased. ᴺ
-
-* * *
+“My joke,” Noise says, very quietly, and Mau realises it sounds pleased. ᴺ
 
 From outside, through the link, faint and delighted, comes another laugh.
 
 Yuka.
 
-She's been listening. Of course she has; the link runs through Ciel, and Ciel didn't close it, which means Ciel *meant* for her to hear. He can feel her out in the yard, beside the string fence, bent over with her hands on her knees, laughing so hard that Ori is asking her what's wrong.
+She stayed in the conversation Ciel invited her to join, listening from the yard while the three of them tried to keep straight faces. He can feel her out in the yard, beside the string fence, bent over with her hands on her knees, laughing so hard that Ori is asking her what's wrong.
 
 *It did a lot*, Yuka says down the link, in a very fair imitation of his voice. ʸ
 
@@ -203,9 +199,9 @@ She's been listening. Of course she has; the link runs through Ciel, and Ciel di
 
 “I will consider it,” says Ciel. ᶜ
 
-* * *
+---
 
-He goes back out to the porch afterward.
+He turns his attention back to the porch afterward, his hand still resting beside the tea he left on the railing.
 
 His tea is cold. Mai and Senku have stopped arguing about the beam and started arguing about a different beam. Yuka is coming up the steps toward him with Ori behind her, both of them still grinning.
 
@@ -222,8 +218,6 @@ And underneath it, steady, holding, the filter. Whole. Not patched. Taking the f
 It's quiet in his head.
 
 Not silent. Quiet. Like a room where the window's open, but the wind has dropped.
-
-* * *
 
 Yuka sits down on the arm of the chair. She sees the cloth in his hand.
 
@@ -254,8 +248,6 @@ Ori considers this.
 “Noise is getting funny,” she decides. ᴼ
 
 *I heard that*, says Noise, inside him, and he doesn't need to see a shadow to know it's pleased. ᴺ
-
-* * *
 
 At the bottom of the porch steps, Makima has been watching the whole thing with her hands folded in her lap.
 

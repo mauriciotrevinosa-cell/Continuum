@@ -5,25 +5,29 @@
 **Volume:** 83
 **Reading order:** 3
 **Source episode:** S13E105
-**Continuity state:** B+408 ("79"). With Mini Ciel whole, Noise finally finishes what it has been building quietly since it began watching Maki train: a model of how Maki's Heavenly Restriction makes her body sense the world (heat, air, weight, the shift of a foot before a strike), folded into Mau's body **without** the restriction itself, so he loses no cursed energy and nothing is traded away. Mau asks Maki first, the way he asked Mai. Maki's answer is short. The first test is in the yard with Maki and Yuta; the sense plus the eyes is too much (he can follow the movement of the air down to particles) and he has to turn it down with Mini Ciel and Noise. Yuka, playful, asks what he can feel on *her*; he tells her the truth (her heartbeat and the warmth climbing her neck), and she flees behind her grandmother. Maki is proud and pretends not to be. Kiss note for Work.
+**Continuity state:** B+408 ("79"). With Mini Ciel whole, Noise finally finishes what it has been building quietly since it began watching Maki train: a model of how Maki's Heavenly Restriction makes her body sense the world (heat, air, weight, the shift of a foot before a strike), folded into Mau's body **without** the restriction itself, so he loses no cursed energy and nothing is traded away. Mau asks Maki first, the way he asked Mai. Maki's answer is short. The first test is in the yard with Maki and Yuta; the sense plus the eyes is too much (he can follow the movement of the air down to particles) and he has to turn it down with Mini Ciel and Noise. Yuka, playful, asks what he can feel on *her*; he tells her the truth (her heartbeat and the warmth climbing her neck), and she flees behind her grandmother. Maki is proud and pretends not to be. Kiss completed in the Work revision.
 
 *When: B+408. Morning in the yard, by the training posts. Yuka wrote "79" before breakfast and drew a small sun next to it because the weather was good.*
 
 “I have to ask her first,” he says. ᴹ
 
-He's sitting on the edge of the bed with his boots half laced. Noise has just finished explaining. It took a long time; Noise doesn't usually explain things for long, but this one it wanted him to understand properly, all the way, before he decided anything.
+He's sitting on the edge of the bed with his boots half laced. Noise has shown him the model, turning one part toward him and then another while Ciel explains how the pieces fit. They have stayed with it until he can follow the distinction that matters.
 
 *You do*, Ciel agrees. ᶜ
 
-*It's hers*, says Noise. *The shape of it. I've been watching her since before the house had a second floor. Every time she trains in the yard. Every time she fights Yuta. Every time she catches a cup before it falls without looking.* ᴺ
+*Her senses,* Noise says. ᴺ
+
+He shows Mau the pattern again: the little change before Maki catches a falling cup, the foot shifting before Yuta moves, several observations laid beside one another until Mau can see what Noise has kept.
 
 “And you can put it in me.” ᴹ
 
-*Not the restriction*, Noise says at once. *Not the trade. She was born with no cursed energy, and her body paid for it by becoming everything else. I'm not taking that. You wouldn't lose anything. I'm taking the way her body listens. How it feels the world without looking at it.* ᴺ
+*No trade,* Noise says at once. *Just senses.* ᴺ
+
+*Maki's present body works without cursed energy,* Ciel explains. *Noise has modelled how it receives information. Fitting that pattern into yours does not impose her restriction or remove your energy. Receiving the additional information is the part we had to prepare for.* ᶜ
 
 *With the filter whole*, says Ciel, *you can carry it. Before, you couldn't. It would have been one more flood.* ᶜ
 
-Yuka is lying across the bed behind him with her head propped on her hand, listening to all of it through the link.
+Yuka is lying across the bed behind him with her head propped on her hand. She asked to join the explanation and has been following it through their chosen channel.
 
 “Granny's going to say something rude,” she says. ʸ
 
@@ -35,7 +39,7 @@ Yuka is lying across the bed behind him with her head propped on her hand, liste
 
 She looks pleased.
 
-* * *
+---
 
 Maki is in the yard.
 
@@ -83,7 +87,7 @@ Maki considers this.
 
 “Will it cost you anything?” ᴹᵃᵏ
 
-“No.” ᴹ
+“No loss of energy or strength. More information to get used to. That's why we waited for the filter.” ᴹ
 
 “Will it make you better at keeping her alive?” ᴹᵃᵏ
 
@@ -97,23 +101,17 @@ Maki uncrosses her arms.
 
 “Then take it,” she says. “It was never mine to keep. I just had to live in it.” ᴹᵃᵏ
 
-* * *
-
 On the bench, Yuta has put his tea down.
 
 He doesn't say anything. But Mau sees him look at his wife, the way he looks at her when she's said something she'll pretend later she didn't mean as much as she meant it.
-
-* * *
 
 Noise does it right there, in the yard.
 
 There isn't much to see. Noise doesn't need much. It's been ready for weeks, waiting for the headroom; now there's room. Mau stands by the training posts with his eyes closed and feels it go in, not like the ring going into the katana, not like Construction, but like something he already knew how to do and had forgotten. Like remembering the way home.
 
-“Open,” says Ciel. ᶜ
+*Open,* Ciel says through the private channel. ᶜ
 
 He opens his eyes.
-
-* * *
 
 It's too much.
 
@@ -129,11 +127,7 @@ And the eyes, on top, tell him what all of it is made of.
 
 The column of heat from the tea isn't a column. It's movement. Tiny things moving faster than other tiny things. The air between him and Maki isn't empty. It's full. Everything is full. Every breath of wind across the yard is a crowd, pushing and spinning and colliding, and he can feel the crowd and see the crowd and *count* the crowd—
 
-He sits down on the grass.
-
-He doesn't mean to. His legs just go.
-
-* * *
+He lowers himself onto the grass before the next breath can bring him another yard's worth of things to sort through.
 
 “*Mau*—” ʸ
 
@@ -155,8 +149,6 @@ He breathes out.
 
 “Okay,” he says. ᴹ
 
-* * *
-
 “That's what it's like,” says Maki. ᴹᵃᵏ
 
 She hasn't moved. She's watching him from where she stands, and her face is doing something complicated.
@@ -169,7 +161,7 @@ She hasn't moved. She's watching him from where she stands, and her face is doin
 
 She shrugs.
 
-“I never had it any other way,” she says. “You're feeling it for the first time. I was born in it. It's like asking how I stand having skin.” ᴹᵃᵏ
+“I've had to learn it,” she says. “You're receiving all of this for the first time. I've spent my life working out what my body tells me, including when it changed.” ᴹᵃᵏ
 
 She spins the staff once, idly.
 
@@ -183,7 +175,7 @@ Maki thinks about it for longer than he expects.
 
 “No,” she says at last. “It's mine.” ᴹᵃᵏ
 
-* * *
+---
 
 They test it properly after that.
 
@@ -203,7 +195,7 @@ She taps him again, on the other shoulder, for emphasis.
 
 On the bench, Yuta laughs out loud.
 
-* * *
+---
 
 Yuka has been watching all of it from the edge of the yard.
 
@@ -227,8 +219,6 @@ She tilts her head.
 
 “What can you feel on *me*?” she asks. ʸ
 
-* * *
-
 He could say *nothing*. He could say *it's turned down*. He could make a joke.
 
 He doesn't lie to her anymore.
@@ -247,8 +237,6 @@ Yuka is staring at him, scarlet to the roots of her hair, the only colour in the
 
 Then she turns round and walks very fast across the yard and puts herself behind her grandmother.
 
-* * *
-
 Maki looks down at her granddaughter, hiding behind her with her face in the back of her shirt.
 
 Then she looks at Mau.
@@ -265,8 +253,6 @@ Then she looks at Mau.
 
 On the bench, Yuta has put his face in his hands. His shoulders are shaking.
 
-* * *
-
 Maki reaches behind her without looking and finds Yuka's head and pats it, twice, the way you'd pat a dog that has done something both stupid and endearing.
 
 “Go on,” she says. “Go and get him. He's going to be insufferable now.” ᴹᵃᵏ
@@ -282,8 +268,6 @@ Yuka goes very still.
 Then she looks at Mau with dawning horror.
 
 He doesn't say anything. He just smiles.
-
-* * *
 
 She comes back eventually.
 
@@ -305,9 +289,41 @@ He catches her hand. The one that poked him. He holds it against his chest.
 
 “*Stop it*.” ʸ
 
-> **[PARA WORK: beso aquí, en el patio.** Yuka roja hasta las orejas (lo único con color para él), él sosteniéndole la mano contra el pecho y diciéndole que siente su pulso en los dedos, ella diciendo «Stop it». Maki y Yuta a unos pasos, Yuta muerto de risa. Juguetón, sin prisa. **Sin límite de palabras; no comprimas.]**
+He closes his mouth, but the smile stays.
 
-* * *
+Yuka looks down at the hand he is holding. Her finger is no longer accusing him of anything. He turns it over and rests her palm against him instead, warm beneath his own.
+
+“You're enjoying this,” she says. ʸ
+
+“You came over to ask me.” ᴹ
+
+“I came over to be charming.” ʸ
+
+“You were.” ᴹ
+
+That leaves her quiet for just long enough that he bends toward her. She catches his collar before he can make her wait and kisses him, still pink, her other hand rising to the back of his neck.
+
+He draws her closer. She stops worrying about what her face is doing when he follows her into the second kiss, his arm around her waist and her fingers warm against the short hair at his nape.
+
+Behind them, Yuta makes a badly suppressed sound.
+
+Yuka pulls back an inch.
+
+“You can look at your own wife,” she tells him. ʸ
+
+“I was,” Yuta manages. ʸᵗ
+
+Maki gives him a look which starts him laughing all over again. Yuka turns back toward Mau with an expression of injured dignity.
+
+“We should go inside.” ʸ
+
+“To steal something off my plate?” ᴹ
+
+“You're supposed to offer.” ʸ
+
+He kisses her once more, briefly this time, and takes her hand. She keeps his arm close against her as they cross the yard, still explaining the terms under which she intends to enjoy his improved perception.
+
+---
 
 Later, when they've gone in, Maki is still in the yard.
 
@@ -325,6 +341,6 @@ Maki drinks his cold tea.
 
 She looks at the door Mau and Yuka went through.
 
-“That's the first thing,” she says, “anyone's ever asked me for.” ᴹᵃᵏ
+“That's the first time,” she says, “anyone's asked whether they could have this part.” ᴹᵃᵏ
 
 Yuta doesn't say anything. He just puts his hand over hers on the cup, and they sit in the yard in the sun, and in the house, faintly, they can hear their granddaughter shouting *I said stop it* and laughing.

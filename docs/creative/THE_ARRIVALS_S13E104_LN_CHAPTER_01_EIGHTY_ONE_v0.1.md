@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 1
 **Source episode:** S13E104
-**Continuity state:** B+406, the morning after the Fort's castle day. The house goes back to ordinary routine. Yuka is clingier than ever after the island: she wakes him by sitting on him, carries her chair round the table to his side, steals from his plate. Mau has a small mark on the bedroom calendar: the day Yoru's ninety-day contract ends, at the same hour, B+487. Eighty-one days. Yuka sees him looking at it and asks; he tells her the truth instead of "it's fine". Mai opens the notebook she started when she learned his eyes cost nothing (V80 #28, "Everything") and asks for the first project: a second floor for the workshop, built with her Construction on his reserves under their agreement. Momo Nishimiya is unconvinced about the stairs. Kiss note for Work.
+**Continuity state:** B+406, the morning after the Fort's castle day. The house goes back to ordinary routine. Yuka is clingier than ever after the island: she wakes him by sitting on him, carries her chair round the table to his side, steals from his plate. Mau has a small mark on the bedroom calendar: the day Yoru's ninety-day contract ends, at the same hour, B+487. Eighty-one days. Yuka sees him looking at it and asks; he tells her the truth instead of "it's fine". Mai opens the notebook she started when she learned his eyes cost nothing (V80 #28, "Everything") and asks for the first project: a second floor for the workshop, built with her Construction on his reserves under their agreement. Momo Nishimiya is unconvinced about the stairs. Kiss completed in the Work revision.
 
 *When: B+406. Morning to early afternoon. The castle has gone back into storage. The Fort's banner is still hanging in the common room, slightly crooked, because Umaru won't let anyone straighten it.*
 
@@ -41,9 +41,45 @@ She doesn't move. She uncrosses her arms and puts both hands flat on his chest i
 
 “Say it properly.” ʸ
 
-> **[PARA WORK: beso de buenos días, aquí.** Ella encima de él, el pelo cayendo alrededor de los dos como cortina, en su camisa vieja; él tiene que decir «good morning» «properly». Juguetón, de mañana, sin prisa. **Sin límite de palabras; no comprimas.]**
+He puts a hand at the back of her neck and draws her the last little distance down.
 
-* * *
+Yuka stops holding herself above him. Her elbows settle beside his shoulders, her hair catching against his cheek as she kisses him. He has time to smile before she does it again, more firmly, as though the first attempt has not quite met the morning's requirements.
+
+“Good morning,” he murmurs against her mouth. ᴹ
+
+“Better.” ʸ
+
+“Was there a complaint?” ᴹ
+
+“You were asleep.” ʸ
+
+He lifts his free hand toward the pale line beneath the curtain, hoping the evidence will help him.
+
+“In our bed. At night.” ᴹ
+
+“It's morning now.” ʸ
+
+She pushes his hair back from his forehead with both hands. He catches one, kisses her palm and keeps it beside his face while she studies him with an expression which has lost most of its royal indignation.
+
+He brings her down for the next kiss himself.
+
+Yuka makes a small pleased sound, then laughs when her hair gets between them. He frees the strand from the corner of his mouth. She gathers the rest over one shoulder and bends to him again, carefully this time, with her free hand against his cheek.
+
+When she finally sits up, he keeps his hands at her waist.
+
+“Breakfast?” he asks. ᴹ
+
+She looks toward the window, apparently considering whether that requires too much movement.
+
+“In a minute.” ʸ
+
+“You told me I was late.” ᴹ
+
+“You've caught up.” ʸ
+
+He laughs. She lies down against him, tucks her head beneath his chin and takes a much longer minute than either of them intends to admit downstairs.
+
+---
 
 She makes him carry her downstairs.
 
@@ -66,8 +102,6 @@ He picks her up. She settles against him with her arms round his neck and her ch
 “My king. My queen,” Beru says. “You are very late.” ᴮᵉ
 
 “See?” says Yuka. ʸ
-
-* * *
 
 The kitchen is loud.
 
@@ -95,7 +129,7 @@ She notices. Of course she notices. She takes another one, slower this time, and
 
 Across the table, Shoko is drinking her tea and watching them over the rim of the cup, and her face is doing the thing it does when she's decided not to say something out loud.
 
-* * *
+---
 
 The calendar is on the wall of their room, beside the wardrobe.
 
@@ -114,8 +148,6 @@ He goes up after breakfast to get his jacket, and he stops in front of the calen
 He counts.
 
 Eighty-one.
-
-* * *
 
 “What are you looking at?” ʸ
 
@@ -171,7 +203,7 @@ She pulls his face down and presses her forehead against his, hard, the way she 
 
 She lets go. She picks up her bread. She takes his hand on the way out of the room, and she doesn't let go of it down the stairs, even though she has to walk sideways on the narrow bit by the landing to keep holding it.
 
-* * *
+---
 
 Mai is waiting for him in the workshop doorway.
 
@@ -190,8 +222,6 @@ He remembers. He remembers her going down the stairs one step at a time, writing
 “I remember,” he says. ᴹ
 
 Mai opens the notebook.
-
-* * *
 
 The first page says *EVERYTHING* across the top, in her small hard capitals, underlined twice.
 
@@ -221,15 +251,17 @@ She closes the notebook.
 
 “Only a floor,” Mai agrees. ᴹᵃ
 
-* * *
-
 He doesn't answer right away.
 
-Not because he doesn't want to. Because he's checking. The old habit, from when everything cost: reaching inward to see how much is there, how much the eyes are taking, how much he can spare. He's done it so many times it happens before he decides to.
+He follows the connection they already use, checking how Mai wants to draw on it while she works. His eyes leave his own expenditure almost nothing; her Construction will still use the energy he supplies. He has more than enough for what she is asking.
 
-There's nothing to check. The eyes take nothing. The reserves are just there, the way they'd be if he'd never used them.
+“You want the whole frame first?” he asks. ᴹ
 
-He still checks. He'll probably always check.
+“With Senku watching the joins. Then the floor. We keep the stairs clear until I know where they're going.” ᴹᵃ
+
+He looks at the line beneath her thumb, the one she has shown him, and at the workshop beyond her.
+
+He likes the thought of seeing what she does with that much room.
 
 “Yes,” he says. ᴹ
 
@@ -244,8 +276,6 @@ Mai lets out a breath.
 “Then no.” ᴹ
 
 Something happens at the corner of her mouth.
-
-* * *
 
 “The stairs,” says Momo Nishimiya, from the corner by the broom. ᴹⁿ
 
@@ -281,7 +311,7 @@ Momo uncrosses her arms. She comes over to the doorway. She looks at the drawing
 
 Mau leaves them to it.
 
-* * *
+---
 
 He finds Yuka on the porch.
 
@@ -320,8 +350,6 @@ He thinks about *aqueduct* and *Tempest* and the four crossed-out kettles.
 “We're going to need a bigger house,” he says. ᴹ
 
 She laughs into his neck.
-
-* * *
 
 They stay there a long time.
 

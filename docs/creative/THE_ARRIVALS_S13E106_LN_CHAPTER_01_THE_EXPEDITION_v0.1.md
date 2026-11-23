@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 5
 **Source episode:** S13E106
-**Continuity state:** B+411 ("76"). The exploring trip Ori promised Beru when she offered him the matching clothes (V82 #25). The plan was Mau, Ori and Beru. Frieren comes because it's Ori. Yuka comes because it's Mau. Fern comes because Frieren would get lost, so Stark comes, so Himmel comes. Destination: the old stone ruins and the cave behind them in the hills past the river, which Ori has been mapping from the ridge for weeks; outside the house's protection but well inside Mau's reach, with Kamish overhead. Beru carries Ori on his shoulder the whole way. Everyone takes orders from a child on someone's shoulder. Beru holds back tears of happiness and mostly fails. A small real moment in the cave: Ori finds a carved mark on the wall and Frieren reads it. No combat beyond a startled bat. Mau's new body, one third in, gets its first long walk. Kiss note for Work.
+**Continuity state:** B+411 ("76"). The exploring trip Ori promised Beru when she offered him the matching clothes (V82 #25). The plan was Mau, Ori and Beru. Frieren comes because it's Ori. Yuka comes because it's Mau. Fern comes because Frieren would get lost, so Stark comes, so Himmel comes. Destination: the old stone ruins and the cave behind them in the hills past the river, which Ori first sketched after returning home with Frieren and has chosen for this week's expedition; outside the house's protection but well inside Mau's reach, with Kamish overhead. Beru carries Ori on his shoulder the whole way. Everyone takes orders from a child on someone's shoulder. Beru holds back tears of happiness and mostly fails. A small real moment in the cave: Ori finds a carved mark on the wall and Frieren reads it. No combat beyond a startled bat. Mau's new body, one third in, gets its first long walk. Kiss completed in the Work revision.
 
 *When: B+411. Sunrise to dusk. Yuka wrote "76" and drew a map pin next to it. The workshop's second-floor frame is up; Mai has forbidden anyone to look at it until it's finished.*
 
@@ -33,11 +33,11 @@ Ori considers this.
 
 “Four,” she says, and leaves. ᴼ
 
-* * *
+---
 
 Beru is in the yard.
 
-He is, as reported, wearing the jacket. Mai made it for him to match Ori's: the same cut, the same pockets, the same small brass buttons, only enormous, fitted over his armour with a care that must have taken her days. On his head, the hat Ori gave him for his birthday, the good one, brim turned up at one side the way Ori turns up hers.
+He is, as reported, wearing the jacket. Mai fitted the short over-jacket to him on the evening Ori made her offer, leaving his shoulder joints free and putting the pockets within reach of his claws. The bands match Ori's. So do the fastenings Mau helped make while Momo held the drawing toward the lamp. On his head, the hat Ori gave him for his birthday, the good one, brim turned up at one side the way Ori turns up hers.
 
 He's standing very straight. He's been standing very straight, Shuna says, for some time.
 
@@ -53,11 +53,9 @@ She doesn't say anything. She just walks down the steps and across the yard and 
 
 Beru's mandibles make a small sound.
 
-* * *
-
 The plan was three.
 
-Mau. Ori. Beru. That's what Ori promised, at the Fort, when she was bargaining for the matching clothes: an expedition, the three of them, somewhere real. She's been planning it for weeks. She has a map.
+Mau. Ori. Beru. That's what Ori promised, at the Fort, when she was bargaining for the matching clothes: an expedition, the three of them, somewhere real. She has spent the week improving the plan. She has a map.
 
 The plan lasts about four minutes.
 
@@ -67,7 +65,7 @@ Frieren is on the porch when they come out. She has her staff and a small bag an
 
 “Mama—” ᴼ
 
-“You're going to the ruins past the river,” says Frieren. “The ones with the cave. You've been drawing them from the ridge for three weeks. There are old marks on the stones there. I want to see them.” ᶠ
+“You're going to the ruins past the river,” says Frieren. “The ones with the cave. You showed me the first sketch after we came home. There are old marks on the stones there. I want to see them.” ᶠ
 
 Ori looks at her for a long moment.
 
@@ -88,8 +86,6 @@ Yuka comes out behind Mau with her boots in her hand.
 “It isn't a dungeon. It's a cave.” ᴹ
 
 “It's a cave you're going into without me,” says Yuka, sitting on the step to pull on her boots. “Same thing.” ʸ
-
-* * *
 
 Fern comes out of the kitchen with a sandwich.
 
@@ -125,15 +121,33 @@ He smiles at her.
 
 She looks away, and doesn't say *no*.
 
-* * *
+Mau gives Bellion the route before they leave. The ordinary watch has its standing orders; the map Ori wants to use on the road remains in her hands.
 
-So it's eight.
+DIO goes inside after asking him to remember which flowers grow near the water. Makima follows, carrying the book she intends to finish while they walk. Neither outside body is left waiting at the house when Mau goes beyond its reach.
 
-Eight people on the road past the orchard and down to the river, in the early light, with the grass still wet. Ori counts them twice. She seems to find the number satisfactory. She adds them to the map in pencil, in a list at the bottom, under the heading *EXPEDITION*.
+Kamish lowers his head beside the field while Ori is doing her count.
+
+“And my appointment?” he asks. ᴷ
+
+She looks at the map, then up at him.
+
+“You can see the road from above.” ᴼ
+
+“An aerial scout.” ᴷ
+
+“But tell us if you see something interesting.” ᴼ
+
+“How many goats would qualify?” ᴷ
+
+Ori considers that seriously before deciding she will have to see them herself. Mau is still smiling when Kamish rises from the clear part of the field, taking his enormous shadow across the grass and away from the waiting group.
+
+So it's eight on the road, with Kamish above them.
+
+They go past the orchard and down to the river in the early light, with the grass still wet. Ori counts them twice. She seems to find the number satisfactory. She adds them to the map in pencil, in a list at the bottom, under the heading *EXPEDITION*.
 
 Then she looks up at Beru.
 
-She doesn't say anything. She just looks. And Beru, who has known her since she was very small, understands at once, and goes down on one knee again, and holds out his hand.
+She doesn't say anything. She just looks. And Beru, who has been waiting for this part since they left the steps, understands at once, and goes down on one knee again, and holds out his hand.
 
 She steps onto it.
 
@@ -143,7 +157,7 @@ She looks down at all of them.
 
 “Forward,” she says. ᴼ
 
-* * *
+---
 
 They go forward.
 
@@ -171,8 +185,6 @@ Yuka squeezes Mau's hand. He looks at her. She's watching Ori, and her face is d
 
 “She's running it,” he agrees. ᴹ
 
-* * *
-
 It's Beru he keeps looking at.
 
 Beru walks very carefully, with Ori on his shoulder. More carefully than Mau has ever seen him walk, in the tower or the gates or the long war in the north. He places each foot like the ground might give. He keeps one hand up, not touching her, just there, near her back, in case.
@@ -189,25 +201,64 @@ On the riverbank, when Ori says *we stop here for water, everyone, that's an ord
 
 “All of them,” says Beru. ᴮᵉ
 
-* * *
+
+Ori calls the water stop under a tree which is only just beginning to shade the bank.
+
+Beru lowers himself so she can reach the map without having to fold it against his hat. She stays on his shoulder while Mau brings cups from the inventory and passes the water around. Fern takes her sandwich out to check that the wrapping has survived her pocket.
+
+Stark looks at it hopefully.
+
+“Lunch,” she reminds him. ᶠᵉ
+
+“I was checking.” ˢᵗ
+
+“So was I.” ᶠᵉ
+
+Himmel comes over to see the route. Ori turns the map toward him and follows a line along the bank before pointing uphill.
+
+“We go round this side.” ᴼ
+
+“Why that side?” he asks. ᴴⁱᵐ
+
+She shows him the little patch she has shaded. The other path is shorter, but the first part of it crosses the bare slope. She wants them to reach the cave before they eat, and she thinks Beru would be too warm carrying everybody's things up there in the sun.
+
+Beru looks at Mau over the edge of the paper.
+
+“A thoughtful route,” Himmel says. ᴴⁱᵐ
+
+“I marked the shade,” Ori explains. ᴼ
+
+Frieren leans beside her to look. She asks which line is the stream and waits while Ori distinguishes it from the path that crosses it. The girl erases a corner, draws the two farther apart and checks that her mother understands the new version before putting the pencil away.
+
+Yuka takes a drink from Mau's cup after finishing her own. He lets her, then takes the empty one when she comes to stand against his side.
+
+“The commander thought of everything,” she says quietly. ʸ
+
+“We should ask when we're allowed to continue.” ᴹ
+
+Ori hears that. She looks down at the party, checking cups, hats and whether Beru has finished his own water.
+
+“Now,” she decides. ᴼ
+
+He gets up slowly with her hand against his head, keeping the map steady until she has rolled it. Mau stores the cups. The first step away from the shade takes them toward exactly the line she drew.
 
 His body is different on the road.
 
 He notices it after the river. The long climb up into the hills, which used to pull at his side and his left arm by the second hour, doesn't pull at anything. He walks it the way he used to walk the road with Frieren, a long time ago, before anything was broken. His left hand, when he puts it out to steady Yuka on a loose stone, closes on her arm as firmly as his right.
 
-And the new sense is there too, turned low, underneath everything. The warmth of the sun on the rocks. The cool coming out of the ground where the path goes into shade. The weight of eight people and a giant ant on the hillside, all moving, all shifting, all safe.
+And the new sense is there too, turned low, underneath everything. The warmth of the sun on the rocks. The cool coming out of the ground where the path goes into shade. The expedition's weight on the hillside: Beru's careful steps carrying Ori, the others moving at their own pace behind him. Eight of them on the same path.
 
 Overhead, high up, so high he's only a shape, Kamish turns in a slow wide circle against the sky.
 
-*Nothing for a long way*, Ciel says. *A few goats. A very angry bird.* ᶜ
+*Kamish reports no one on the path ahead,* Ciel tells him through the practical channel. *Goats by the ridge. A bird that objected to his route.* ᶜ
 
 “Good,” Mau says. ᴹ
 
-* * *
+---
 
 The ruins are on a shoulder of the hill, just below the ridge.
 
-Old stone. Older than the house, older than anything Mau has seen in this valley except the trees. A ring of broken walls, half fallen, with grass growing through the floors. And behind them, set into the hillside, a dark opening in the rock: the cave Ori has been drawing from the ridge for three weeks.
+Old stone. Older than the house, older than anything Mau has seen in this valley except the trees. A ring of broken walls, half fallen, with grass growing through the floors. And behind them, set into the hillside, a dark opening in the rock: the cave Ori marked from the ridge after coming home.
 
 Ori goes very quiet on Beru's shoulder.
 
@@ -221,11 +272,11 @@ Frieren looks at the map over her shoulder.
 
 Ori pulls her hat down over her eyes and says nothing at all.
 
-* * *
+---
 
 They go into the cave together.
 
-Beru first, ducking, with Ori pressed down flat against his helmet so she won't hit the roof, laughing. Then Mau and Yuka. Then the rest. Frieren makes a light, a small soft one, the kind she taught Mau a long time ago, and it floats ahead of them along the passage and shows them the walls.
+Beru checks the height at the entrance before lowering himself beneath it. Ori takes her hat off and holds it against her map, ducking close to his head while he goes through slowly enough to keep the stone well above her. She starts laughing when she realizes he is still obeying her whispered instructions to mind the roof. Mau follows close behind with Yuka. Then the rest. Frieren makes a light, a small soft one, the kind she taught Mau a long time ago, and it floats ahead of them along the passage and shows them the walls.
 
 There's a bat.
 
@@ -233,13 +284,11 @@ Just one. It comes off the ceiling when the light reaches it and goes past them 
 
 Then the passage opens out.
 
-* * *
-
 It's a small chamber. Round. Dry. The floor smooth with age.
 
 And on the far wall, cut into the rock, a mark.
 
-Ori sees it first. Of course she does. She slides down Beru's arm before anyone can stop her and goes across the chamber and stands in front of it, in the floating light, with her hat pushed back.
+Ori sees it first. Of course she does. She asks Beru to lower her, steps from his hand onto the level floor and goes across the chamber to stand in front of it, in the floating light, with her hat pushed back.
 
 It's a shape. Lines and curves, cut deep and worn soft. Not a picture. Something that might be writing, or might once have been.
 
@@ -267,8 +316,6 @@ She stops.
 
 “*We did*,” Frieren reads. “It says *we did*.” ᶠ
 
-* * *
-
 Nobody says anything for a moment.
 
 Then Himmel laughs, very softly, behind them.
@@ -285,7 +332,7 @@ Then, underneath, in smaller letters:
 
 *(expedition 1)*
 
-* * *
+---
 
 They eat in the ruins, in the sun.
 
@@ -301,9 +348,57 @@ Yuka sits on the grass with her back against Mau's legs and her head tipped back
 
 She reaches up without looking and finds his hand and pulls it down onto her shoulder, and holds it there.
 
-> **[PARA WORK: beso en las ruinas, aquí.** Al sol, después de comer; ella recargada en sus piernas con la cabeza en su rodilla y los ojos cerrados; Ori explicándole a Beru la próxima expedición en el muro de al lado. Chiquito y tierno, de domingo. **Sin límite de palabras; no comprimas.]**
+He brushes his thumb against her shoulder until she opens one eye.
 
-* * *
+“What?” she asks. ʸ
+
+“I was wondering how long you meant to stay there.” ᴹ
+
+“A while.” ʸ
+
+“A precise order.” ᴹ
+
+She shifts her head against his knee, then pats the empty grass beside her.
+
+“You can come down here.” ʸ
+
+She lifts her head so he can move. Mau takes a folded blanket from his inventory, spreads it on the grass beside her and sits with his back against the warm stone. Yuka moves onto it with him before he has finished straightening the corner.
+
+“Better?” he asks. ᴹ
+
+She turns toward him instead of answering, puts a hand beside his face and kisses him.
+
+He catches her at the waist as she leans closer. Her fingers settle against his neck, and the second kiss lasts until a little burst of laughter from the wall makes her smile against his mouth.
+
+Ori has apparently decided that an expedition needs a flag. Beru is accepting the assignment with the gravity he gave the entire route.
+
+Yuka looks toward them, still close enough that her cheek brushes Mau's.
+
+“You're going to have to supply it,” she murmurs. ʸ
+
+“I suspected.” ᴹ
+
+She kisses him once more before settling against his side. He puts his arm around her and stretches his legs out, feeling the warmth of the ground through the blanket. Her hand stays on his knee.
+
+Across from them, Himmel offers Frieren the bag again. She takes another sweet while explaining that she is saving it for the walk home. Fern looks at the four empty wrappers beside her and declines to say what her face has already said.
+
+Ori turns her map toward Mau.
+
+“Dad. What colour should the next flag be?” ᴼ
+
+“The commander usually decides.” ᴹ
+
+“I'm asking my supplies officer.” ᴼ
+
+Yuka starts laughing. Mau looks toward Beru, who is plainly considering this a promotion.
+
+“I'll show you what we have when we get home,” he promises. ᴹ
+
+Ori records that beside the next question mark. Then she gives the map back to Beru and goes to show Frieren where she wrote the words from the cave.
+
+Yuka rests her head against Mau's shoulder again. He turns to kiss her hair and stays on the blanket while Himmel begins telling them about a much less useful road sign he once followed.
+
+---
 
 On the way home, Ori falls asleep.
 
@@ -319,11 +414,11 @@ Mau walks at the back with Yuka, and doesn't say anything.
 
 He doesn't have to. He can see Beru's shoulders, from behind, and the way they're shaking, just slightly, all the way home.
 
-* * *
+---
 
-In the yard, Beru lowers Ori into Frieren's arms without waking her.
+In the yard, Beru lowers Ori into Frieren's arms without waking her. Mau catches the map as her sleeping fingers loosen and puts it safely on the porch bench. Beside it he leaves a small selection of labelled cloth from the inventory, ready for the flag she wants to choose.
 
-Then he straightens, and turns to Mau, still holding the small hat against his chest.
+Then Beru straightens, and turns to Mau, still holding the small hat against his chest.
 
 “My king,” he says. ᴮᵉ
 

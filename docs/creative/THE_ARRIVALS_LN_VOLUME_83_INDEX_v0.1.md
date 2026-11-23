@@ -4,7 +4,7 @@
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 6
+**Chapter files:** 7
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -18,6 +18,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 4 | S13E105 | The First Third | `THE_ARRIVALS_S13E105_LN_CHAPTER_02_THE_FIRST_THIRD_v0.1.md` |
 | 5 | S13E106 | The Expedition | `THE_ARRIVALS_S13E106_LN_CHAPTER_01_THE_EXPEDITION_v0.1.md` |
 | 6 | S13E106 | Something Looked Back | `THE_ARRIVALS_S13E106_LN_CHAPTER_02_SOMETHING_LOOKED_BACK_v0.1.md` |
+| 7 | S13E107 | The Road Home | `THE_ARRIVALS_S13E107_LN_CHAPTER_01_THE_ROAD_HOME_v0.1.md` |
 
 ## Notes
 
@@ -34,3 +35,4 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 Reviewed and expanded chapters1–5 without changing source IDs or reading order. Completed the three nonsexual kiss handoffs in1,3,5. Joined continuous dialogue into scenes, retained deliberate place/time changes and the household's humour. #2 makes the inner-room visit and Yuka's participation explicit, preserves the prank, and keeps Noise concise. #3 describes Maki's present sensing without claiming complete zero CE from birth; her restriction is not transferred. #4 adds B410 body calibration with Jin-Woo and map planning with Ori, while two thirds of the points stay unspent, the old marks remain and Shoko checks both hearts. #5 keeps the B404-to-B411 one-week promise, correct fitted outfit, physical party of eight including Beru, Kamish's speech/scouting and internal guests' reach; adds a lived river stop, the actual kiss and shared picnic. The flag materials are supplied on returning while Ori retains the choice. Beru's final scene remains the ending.
 
 See `the_arrivals_story_board/S13_V83_WORK_CONTINUITY_2026-11-22.md` and the current kit addendum. Later chapters are not certified by this five-chapter pass.
+- #7 (Claude, B+419, "68"): arrivals at the gate. Beatrice first ("Where is the library?"); Subaru (thin, new eyebrow scar); Rem holds him; Ram stops three steps short ("Barusu"), their talk saved. Puck to Mau: "You're looking at me rather a lot"; Mau apologises. Emilia sees Satella and nearly collapses; Satella only says "Emilia" and "There's tea. When you're ready." Yuka shoves and hugs Tsurugi. The twins: Maru asks permission at the gate; Cross, who came to fight, sees Yuka and stops: "You're alive" (six months, the doctor). Mau sees a face of hers he doesn't know. Cross calls Mau "the king" flatly. Cross watches Yuka all the way to the house; she doesn't notice; Mau notices and says nothing. Speaker marks: Beatrice ᴮᵉᵃ, Puck ᴾᵘ, Emilia ᴱᵐ, Satella ˢᵃ, Ram ᴿᵃ, Tsurugi ᵀˢ, Maru ᴹᵃʳᵘ, Cross ᶜʳ.

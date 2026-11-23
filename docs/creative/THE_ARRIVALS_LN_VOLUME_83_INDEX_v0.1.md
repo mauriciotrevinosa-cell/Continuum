@@ -4,7 +4,7 @@
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 10
+**Chapter files:** 11
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -22,6 +22,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 8 | S13E107 | Permanent | `THE_ARRIVALS_S13E107_LN_CHAPTER_02_PERMANENT_v0.1.md` |
 | 9 | S13E108 | Basically a King | `THE_ARRIVALS_S13E108_LN_CHAPTER_01_BASICALLY_A_KING_v0.1.md` |
 | 10 | S13E108 | Six Months | `THE_ARRIVALS_S13E108_LN_CHAPTER_02_SIX_MONTHS_v0.1.md` |
+| 11 | S13E109 | Fan Club | `THE_ARRIVALS_S13E109_LN_CHAPTER_01_FAN_CLUB_v0.1.md` |
 
 ## Notes
 
@@ -42,3 +43,4 @@ See `the_arrivals_story_board/S13_V83_WORK_CONTINUITY_2026-11-22.md` and the cur
 - #8 (Claude, B+420, "67"): Subaru asks Mau to sit with him so he won't run. Rem forgives him completely. Ram forgives him and tells him it isn't fixed: the damage is permanent and he'll live next to the crack; he accepts it ("I'd rather have the crack than the pretending"). Satella's tea with Emilia (Yuka arranges it, Mau carries the pot): "Why do we look the same?" "Not yet. Not no." Yuka wants to be better at "not yet". Beatrice judges the house's books and moves into Frieren's window seat beside Mau's grimoire ("This is acceptable"). The Fort inducts Emilia (Ori presides; Kamish: "There was never a tunnel"). Cross watches Yuka from the posts all day; Mau and Cross lock eyes over her head.
 - #9 (Claude, B+421, "66"): first talks at the long table (Rimuru as diplomat, Mau made to take the head). Yuka sits in his lap the whole meeting ("This is a chair"). Maru: the Simurians came down in the north; most stayed and want to live; Dabura, the strongest, called king, went up a mountain and came down knowing things no one taught him. Mau says he felt Dabura from the porch and that Dabura doesn't remember learning them. Tsurugi retells Mau's deeds to the table, a third wrong ("basically a king"). Cross: Dabura will come "and won't care who's standing next to the king", looking at Yuka. Maru asks Mau to meet Dabura first, on his terms; Mau will think about it. Yuka: "I'm coming. Every dungeon." Cross closes the door too quietly. Kiss note for Work.
 - #10 (Claude, B+422, "65", Yuka POV): Cross asks to talk; the orchard wall. He looked for her after she vanished, thinking she'd gone to die alone; he was shot twice by a sorcerer during Maru's talks and woke up here. She tells him the truth: the operation worked, then the coin found her (ring across the room). "You were so scared... your hands were shaking so much you couldn't open the door." Being seen from before Mau; she names it "an old friend" and is very sure. Back at the house she's extra clingy all evening; Mau doesn't ask and she doesn't notice. In bed: "He saw me really scared. The worst. Before you." Mau lies awake until morning.
+- #11 (Claude, B+424, "63"): Maru on Dabura: light that makes things stop being there; crossed a valley faster than sound as a child; gets bored easily; the other thing is intent made into a weapon that reaches you before the light. Noise: "a technique made out of WANTING"; Gojo joins ("when he's losing he goes quiet; has he ever lost?"). Yuka: "You're a fan club" (members: Mau, Noise, Gojo; Ciel reluctant). Mau sets the meeting: the quarry where he fought Sukuna. Yuka: "Every dungeon." At dinner Cross asks Yuka to walk north tomorrow to see the road he walked looking for her; she asks Mau; Mau: "It's fine." Cross eats for the first time. Makima, on the steps: "You said it's fine. You haven't said that in a long time." They sit in silence.

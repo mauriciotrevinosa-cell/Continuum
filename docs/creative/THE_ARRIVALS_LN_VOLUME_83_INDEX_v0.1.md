@@ -4,7 +4,7 @@
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 18
+**Chapter files:** 19
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -30,6 +30,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 16 | S13E111 | The Corridor | `THE_ARRIVALS_S13E111_LN_CHAPTER_02_THE_CORRIDOR_v0.1.md` |
 | 17 | S13E112 | Closing the Doors | `THE_ARRIVALS_S13E112_LN_CHAPTER_01_CLOSING_THE_DOORS_v0.1.md` |
 | 18 | S13E112 | Earning It Back | `THE_ARRIVALS_S13E112_LN_CHAPTER_02_EARNING_IT_BACK_v0.1.md` |
+| 19 | S13E113 | The Door Is Closed | `THE_ARRIVALS_S13E113_LN_CHAPTER_01_THE_DOOR_IS_CLOSED_v0.1.md` |
 
 ## Notes
 
@@ -66,3 +67,4 @@ Day labels: #6 B414(73); #7 B419(68); #8 B420(67); #9 B421(66); #10 B422(65); #1
 - #16 (Claude, B+430 evening, Yuka POV): Shoko invites her to the clinic with nothing wrong. Tells her what Gojo saw (technical answers; the note from Ori she didn't know about). Asks what Cross gives her that nobody else does: "He saw me. In the corridor." Shoko: that's real and allowed, but not the same as what she has with Mau, and he can't see the difference from where he stands; his old habit is getting out of the way (S1, the cup out of Frieren's room when Fern came). "Tell him the ugly thing." Yuka half hears it and decides: tomorrow. In bed, half asleep: "Tomorrow I want to talk to you. Properly. About something." Mau goes still, lies awake deciding what the something is, and is gone before she wakes.
 - #17 (Claude, B+431, before dawn): in the inner room Mau says everything is coming up at once (Frieren's room when Fern came, the Trial year, the gate, "before you") and he can't think with anything reaching him. He closes the doors without breaking anything: Yuka's contract (techniques, Exchange, link) and Mai's agreement stay intact and closed; Rimuru's thread and the soldiers go quiet too. DIO begs him not to. He reaches for Ciel and Noise; Noise: "Not us. Please"; Ciel: "Don't make me sit in here and not be able to count." He says okay. "From now on, just tell me the technical things. Don't ask me how I am." Tells Makima he's clearing a wild medium dungeon past the ruins (to "earn back the Hamster War"); she comes (Noise holds her body): "If you try to do something stupid, I'll stop you." He leaves without waking Yuka or leaving a note; Beru stays with the house. The notebook still says 57.
 - #18 (Claude, B+431, dawn to late afternoon): wild medium dungeon in the hills past the ruins (10 floors). Mau clears it fast, clean and joyless; Ciel gives only numbers; Makima mostly watches (stops one creature with a look). Holds the falling ceiling on Infinity because holding something heavy feels good. Guardian (house-sized beetle) killed in four moves; a lot of currency, uncounted. The eyes find an older sealed sublevel, well above medium; Mau wants to open it alone. Makima stands in the way: "This is the stupid thing. I'm stopping you." On the floor: "I think I'm being replaced" (S1, Fern; getting out of the way before she has to ask). Makima: "You're wrong... the only person you'd believe it from is her. And you closed her door." "Not yet." The handshake; "standing in the way... I think that's what friends are for." Ten hours, no note.
+- #19 (Claude, B+431, Yuka POV): empty bed; she writes 56. In the yard she goes to show Cross what she can do with Mau's techniques; his Blue doesn't come: the contract is there but closed; the Exchange handle won't turn; the link to Mau is a closed door. She sits down on the grass shaking. Ciel and Noise (still open to her), drowning in Mau's feelings, choose the wrong words: "He's asked not to be reached"; "He needs some time. He doesn't want anyone near him... He's closed everything. Not just yours." She hears "me". Cross holds her shoulders and gets her breathing; she doesn't lean into him. Nobody will say where Mau is; Makima is gone too. She waits on the porch all afternoon; Ori brings her a plate with two pickles. At sunset two shapes on the hill road; she sees who the second one is and stops.

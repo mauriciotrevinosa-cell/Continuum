@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 4
 **Source episode:** S13E120
-**Continuity state:** B+435, late morning. The house expected to wait all day. Ciel's report reaches Rimuru: done. Mau and Makima are back on the hill road before anyone has finished believing it. Gojo, at the return point, sees his face and doesn't joke. On the way down the weight lands all at once: the Purple, yesterday's compression, three days without sleep, and the last thing he did. He doesn't go to the porch. He doesn't go to Yuka. Before he can think, he goes straight to the clinic. Makima sits on the clinic step; Noise holds her body there. Mau tells Shoko the whole truth: everything he had closed. Shoko sees him nodding off, bandages his split palms, makes him drink water and gives him something to sleep properly. He holds her hand and asks how it's going with Gojo. Before he falls asleep he asks her: if Yuka or Ori ask, tell them the truth. Nothing of "it's fine". He sleeps holding Shoko's hand.
+**Continuity state:** B+435, late morning. The house expected to wait all day. Ciel's report reaches Rimuru: done. Mau and Makima are back on the hill road before anyone has finished believing it. Gojo, at the return point, sees his face and doesn't joke. On the way down the weight lands all at once: the Purple, yesterday's compression, two nights without sleep, and the last thing he did. He doesn't go to the porch. He doesn't go to Yuka. Before he can think, he goes straight to the clinic. Makima sits on the clinic step; Noise holds her body there. Mau tells Shoko everything at once, the whole bundle together, though she already knows much of it: everything he had closed, Cross, the room with Frieren, and the Final Trial, when he heard Yuka's "If you won't let me be with you when it hurts, I don't know how to stay in this" as leaving and spent ~368 local days (one day outside) working out how to say goodbye. Shoko sees him nodding off, bandages his split palms, makes him drink water and gives him something to sleep properly. He holds her hand and asks how it's going with Gojo. Before he falls asleep he asks her: if Yuka or Ori ask, tell them the truth. Nothing of "it's fine". He sleeps holding Shoko's hand.
 
 *When: B+435. Late morning. Rimuru has read "Done" out loud twice, and the second time nobody laughed.*
 
@@ -149,21 +149,29 @@ He stops.
 
 So he goes on.
 
-He tells her about the plate. He tells her about Cross in the yard at the gate, *you're alive*, and the look on Yuka's face that he'd never seen before. He tells her about *before you*. About *I want to talk to you about something*, in the dark, and how he went still under it and couldn't move. He tells her about the room with Frieren in the other life, the cup, the clothes, the books, and how it came back to him at the wall with Makima and hasn't stopped coming back.
+Most of it she knows. That's the strange part. He can see her knowing it as he says it: Gojo told her about the field, and he told her about the room with Frieren himself, one of those afternoons on this cot, and she was in the room after the Trial, when he told a small chosen few what it had been, and the next day, when he and Yuka told her the worst of it. None of it is news to her.
 
-He tells her about the red gate.
+He tells her anyway. All of it. Not in order. Not one thing and then the next, the careful way he tells things when he's decided what they mean. All of it at once, in one pile, the way you empty a bag onto a table because you can't carry it another step.
 
-He hasn't told anyone about the red gate. Not like this. Not the part that matters.
+The plate. Cross at the gate, *you're alive*, and the face Yuka made that he'd never seen on her. *Before you.* *I want to talk to you about something*, in the dark, and going still under it. The cup on the windowsill in the other life. The clothes. The books. The wall with Makima, and how it all came back there and hasn't stopped coming back.
 
-“She said she wanted to stop,” he says. “Before I went in. She was tired of me not telling her things. She said it in a way that—” His voice does something. He waits for it to stop. “That sounded like she meant us. If I didn't open up. That she'd go.” ᴹ
+“I know,” Shoko says, now and then. Not to stop him. Just so he knows she's still there. ˢʰ
+
+And the Trial.
+
+“She said she didn't know how to stay in this,” he says. “The morning before. *If you won't let me be with you when it hurts, I don't know how to stay in this.* She didn't mean it like that. She told me after. I know she didn't.” His voice does something. He waits for it to stop. “But I heard it like that. And then I went to the inspection and the door shut and it was the Trial.” ᴹ
+
+“I know,” says Shoko. “You told us.” ˢʰ
+
+“A year,” he says, as if she hadn't spoken. “Three hundred and sixty-eight days. And she was out here for one. And I spent all of it working out how to say goodbye to her properly. A guest room. How to keep away when Ori visited. How to keep protecting her from somewhere she didn't have to look at me.” ᴹ
 
 Shoko's hands have slowed down on his palm.
 
-“And then the gate went red,” he says, “and I was in there for a year. A whole year. And she was out here for three days. And I had that the whole time. That question. A year with that question.” ᴹ
+“I told you all that,” he says. “I told her. We talked. I came back and I opened up and I've been trying, every day, and I thought it was *behind* me.” ᴹ
 
 He looks at his hands in hers.
 
-“I came back,” he says. “I opened up. I tried. I've been trying. Every day. And I thought—I thought we were—” ᴹ
+“I thought we were—” he says. ᴹ
 
 He can't find the word.
 

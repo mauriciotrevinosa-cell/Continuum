@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 5
 **Source episode:** S13E121
-**Continuity state:** B+435, around noon. Yuka's point of view. She saw him come back and walk past her, straight to the clinic, and it frightened her more than the war did. When she knocks, all she is told at first is that he needs to sleep. Then she asks. Shoko, who promised, tells her the truth in the herb room behind the clinic, with Mau's permission and in Mau's words: everything he had closed, the plate, Cross, "before you", the room with Frieren in the other life, the red gate. Yuka remembers what she said before that gate, that she wanted to stop this, said in a way that sounded like leaving the marriage if he didn't open up. He spent a year inside with that question; she spent three days outside watching the gate turn red. Then, in the yard, she took the thing he fears most and said it to him. Nothing is forgiven or fixed in this chapter. Ori asks too, and gets the truth at her size. Ori stays with Mau and Shoko. Yuka goes to talk to the house.
+**Continuity state:** B+435, around noon. Yuka's point of view. She saw him come back and walk past her, straight to the clinic, and it frightened her more than the war did. When she knocks, all she is told at first is that he needs to sleep. Then she asks. Shoko, who promised, tells her the truth in the herb room behind the clinic, with Mau's permission and in Mau's words: everything he had closed, the plate, Cross, "before you", the room with Frieren in the other life, the Trial. Yuka remembers what she said the morning before the Final Trial ("If you won't let me be with you when it hurts, I don't know how to stay in this"), which he heard as leaving. He spent ~368 local days inside working out how to say goodbye; for her it was one day. She already knew all this; what lands now is that she did it again. Then, in the yard, she took the thing he fears most and said it to him. Nothing is forgiven or fixed in this chapter. Ori asks too, and gets the truth at her size. Ori stays with Mau and Shoko. Yuka goes to talk to the house.
 
 *When: B+435. Around noon. On the page under "52" there are seven lines in Yuka's handwriting. She has crossed out the fourth.*
 
@@ -113,35 +113,31 @@ She tells her about Cross. About *you're alive*, at the gate. About the face Yuk
 
 She tells her about the room with Frieren. In the other life, the one this Frieren doesn't remember. The cup on the windowsill. The clothes. The books. How he moved himself out of the room when Fern came, before anyone could ask, so that it wouldn't hurt when they did. How it came back to him at the wall with Makima and hasn't stopped coming back.
 
-And then Shoko tells her about the red gate.
+And then Shoko tells her about the Trial.
 
 * * *
 
 Yuka knows what's coming.
 
-She knew it the moment Shoko said *the red gate*. Her whole body knew it. She sits on the bench with her hands clenched on the notebook in her lap and hears it come, the way you hear a cart coming up the road long before you see it.
+She knew it the moment Shoko said *the Trial*. Her whole body knew it. She sits on the bench with her hands clenched on the notebook in her lap and hears it come, the way you hear a cart coming up the road long before you see it.
 
-“He said you told him you wanted to stop,” says Shoko. “Before he went in. That you were tired of him not telling you things. And he said you said it in a way that sounded like you meant *us*. Like you'd go, if he didn't open up.” ˢʰ
+“The morning before,” says Shoko. “You cut your finger, and he flinched, and then he tried to make it nothing. And you said—” ˢʰ
+
+“*If you won't let me be with you when it hurts,*” Yuka says. Her own voice, very small. “*I don't know how to stay in this.*” ʸ
+
+Shoko nods.
 
 Yuka closes her eyes.
 
-She remembers. Of course she remembers. She remembers being so angry, so *tired*, after too many *it's fine*s and *don't worry*s and doors she couldn't open. She remembers looking for the hardest thing she could say. Not to hurt him. To make him *hear*. She remembers saying *I want to stop this*, and letting it sit there, ambiguous, letting him wonder what *this* meant, because she wanted him frightened enough to finally talk to her.
+She knows this part. That's what's so terrible. It isn't news. She's known it since the week he came back. He told her himself, a few nights after he came back: the guest room he'd planned, the way he'd keep out of the way when Ori visited, how he'd go on protecting her from somewhere she wouldn't have to look at him. Three hundred and sixty-eight days of working out how to say goodbye to her properly. She sat there and heard every word of it and didn't leave.
 
-And she remembers him going very still. And nodding. And going into the gate.
+She has played that morning sentence over and over. With Maki, while the display counted. Alone, after. She knew it was ambiguous the moment it left her mouth. She meant *I can't keep doing this part*. He heard *I can't keep doing us*. And then the inspection door closed, and it was the Trial.
 
-And the gate going red.
+A day for her. A year for him.
 
-“For you it was three days,” Shoko says. “For him it was a year.” ˢʰ
+She knows all of that. She's known it for months.
 
-Yuka makes a sound she doesn't recognise.
-
-“A year,” Shoko says quietly, “with that question. He told me. A whole year inside that thing, being taken apart, with *I want to stop this* and not knowing what it meant. Not knowing if there'd be anyone to come back to.” ˢʰ
-
-Yuka has her face in her hands now.
-
-Three days. She remembers the three days. She remembers them as the worst three days of her life.
-
-She never once, in all the time since, thought about what three days was on the other side.
+And four days ago she stood in the yard and did it again.
 
 “He came back,” Shoko says. “He opened up. He told me that too. He's been trying ever since. Every day. And he thought you were all right. He thought *we* were all right. And then.” ˢʰ
 
@@ -183,7 +179,7 @@ And every time it opened, there was more behind it. Things she put there.
 
 The same door. Opened over and over. And every time it opened, she was the one standing on the other side of it with the worst thing she could find in her hand.
 
-“I didn't know,” she says at last. Her voice is wrecked. “About the year. I didn't—I never thought—” ʸ
+“I knew,” she says at last. Her voice is wrecked. “About the year. He told me. I *knew*, and I thought it was over, and I—” ʸ
 
 “I know,” says Shoko. ˢʰ
 

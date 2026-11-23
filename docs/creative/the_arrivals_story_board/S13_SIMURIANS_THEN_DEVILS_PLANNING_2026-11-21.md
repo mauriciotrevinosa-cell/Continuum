@@ -461,7 +461,9 @@ Dirección:
 - **Yoru:** la "prueba" la dicta ella, convirtiendo la guerra en prueba. **Los 90 días siguen en pie.** "Qué aburrido" porque esperaba que Mau se divirtiera y lo extendiera: fueron tres movimientos, y dos ni siquiera fueron suyos (uno de Makima y otro de Kamish).
 - **Después:** Shoko le da algo para que duerma bien. Shoko le cuenta a Yuka todo lo que Mau sintió. Yuka recuerda la misma tontería que hizo antes del gate, y que Mau ha vivido con esa respuesta; por eso le hace más sentido su reacción. Mau sigue cargando lo que pensó, porque no olvida: guarda las cosas detrás de una puerta, y esa puerta se ha abierto varias veces.
 
-**Resuelto (Mauri):** "la tontería antes del gate" es la de la red gate (la trampa de Makima). Yuka, harta de que Mau no le contara la verdad, le dijo que quería parar esto, de un modo que daba a entender que se salía del matrimonio si él no se abría. Mau entró a la gate, se volvió red gate y lo torturó: él pasó **un año adentro con esa pregunta**, y ella solo **tres días** afuera viendo la red gate.
+**Corregido después (Mauri + canon verificado):** no es la red gate de B+309 (esa despedida fue alegre). Es el **Final Trial**: el B+215 por la mañana (S11E56 CH01), Yuka dijo *"If you won't let me be with you when it hurts, I don't know how to stay in this"* y Mau lo oyó como que se iba. Adentro pasó ~368 días locales (reloj 360x), afuera fue más o menos un día, ensayando cómo despedirse de ella. Yuka ya lo sabía: Mau se lo contó (S12E03) y ella se arrepintió de esa frase (S11E57, S11E60). Lo que le cae ahora es que lo volvió a hacer. Las notas de abajo que dicen "red gate" quedan reemplazadas por esto.
+
+~~Primera lectura:~~ la red gate (la trampa de Makima). Yuka, harta de que Mau no le contara la verdad, le dijo que quería parar esto, de un modo que daba a entender que se salía del matrimonio si él no se abría. Mau entró a la gate, se volvió red gate y lo torturó: él pasó **un año adentro con esa pregunta**, y ella solo **tres días** afuera viendo la red gate.
 
 > todos me quede pensando y lit solo makma batallaria contra unos cuantos de todo el infierno
 
@@ -513,4 +515,4 @@ Principio: **nada en chinga.** Mau está destruido por dentro. Yuka tomó su mie
 7. **La conversación de verdad**, cuando toque y no antes, quizá en las ruinas de Ori, junto a *REST HERE. WE DID.* Yuka: "Dije lo peor que encontré. Dos veces. No te pido que estés bien." Mau, por fin, lo feo y verdadero: "Tenía miedo de que te fueras." No lo resuelve todo; eligen volver a empezar.
 8. Después: la revancha real con Gojo. Halloween contra Yoru, antes del B+487.
 
-Pendiente de Mauri: dónde dijo Yuka "quiero parar esto" antes de la red gate. En los capítulos de B+308–309 la despedida es alegre ("Go and get tired", "Come back for dinner", "tonight you're mine"), y no encontré el ultimátum. Si no está escrito, se puede insertar antes (B+308).
+Resuelto: es el Final Trial (ver arriba).

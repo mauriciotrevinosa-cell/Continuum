@@ -4,7 +4,7 @@
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 5
+**Chapter files:** 6
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -17,6 +17,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 3 | S13E105 | What Maki Feels | `THE_ARRIVALS_S13E105_LN_CHAPTER_01_WHAT_MAKI_FEELS_v0.1.md` |
 | 4 | S13E105 | The First Third | `THE_ARRIVALS_S13E105_LN_CHAPTER_02_THE_FIRST_THIRD_v0.1.md` |
 | 5 | S13E106 | The Expedition | `THE_ARRIVALS_S13E106_LN_CHAPTER_01_THE_EXPEDITION_v0.1.md` |
+| 6 | S13E106 | Something Looked Back | `THE_ARRIVALS_S13E106_LN_CHAPTER_02_SOMETHING_LOOKED_BACK_v0.1.md` |
 
 ## Notes
 
@@ -26,3 +27,4 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 - #3 (Claude, B+408, "79"): Noise's model of how Maki's Heavenly Restriction body senses the world (heat, air, weight, the foot before a strike), folded into Mau WITHOUT the restriction (no CE lost, nothing traded). Mau asks Maki first; "Then take it. It was never mine to keep." First test: sense + eyes = he can feel and count the air's particles; sits down; Mini Ciel and Noise turn it down (never off). Maki can't turn hers down and doesn't want to. "Feeling it isn't the same as being fast enough" (she still taps him). Yuka asks what he feels on her: heartbeat, heat climbing to her ears; she hides behind Maki. Maki: "the first thing anyone's ever asked me for." Kiss note for Work.
 - #4 (Claude, B+409, "78"): points day with Yuka, Umaru and Jin-Woo (promised at the birthday). Stat page fields: Strength, Speed, Endurance, Perception (+ unexplained minor lines). Jin-Woo: not all at once, your body has to learn them; a third now, spread across every field (Umaru: everything goes up together or something breaks). Effects: warmth in the bones; the left arm (eleven pieces after the north) is finally as strong as the right; an afternoon of relearning his body (Beru: "a very strong newborn calf"). Shoko finds nothing wrong and is cross. Two thirds remain unspent.
 - #5 (Claude, B+411, "76"): Ori's promised expedition with Beru ("My commander"). Planned as three; Frieren, Yuka, Fern, Stark and Himmel join (eight). Beru carries Ori on his shoulder the whole way; everyone obeys her; Beru "has dust in his eyes". Old ruins and a cave past the river (Kamish overhead). Carved road sign; Frieren reads "rest here" and a later hand: "we did". Ori's map: REST HERE. WE DID. (expedition 1). Ori falls asleep on Beru's shoulder going home. Beru: the best day since the beginning (the birthday gate is now second). Kiss note for Work.
+- #6 (Claude, B+414, "73"): Subaru's letter (Mau reads it aloud at Rem's request): Emilia found far north past the big lake, with Puck and Beatrice; coming home; things to say to Rem and Ram in person. Tsurugi met Simurians: twin brothers travel with them (one wants to talk, one to fight); Tsurugi told them Mau is the strongest, "basically a king"; a third one went off alone, "interested". That night Mau sends the sense out further than ever and finds, far north-east, something bright like light with pure killing intent under it; it looks back; he pulls away. Beru felt it look. Yuka: "He can look all he wants. You're mine." Closing section: a Simurian on a mountain, honing, with techniques he doesn't remember learning (RCT, an unopened domain, a heavy turning sound at the edge of sleep); he felt a small hard hidden point to the south-west (Frieren's concealment) and smiles. Closeness note.

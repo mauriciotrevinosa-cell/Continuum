@@ -155,19 +155,29 @@ He sits back.
 
 He turns his cup round on the table. Once. Twice.
 
-“You've jumped before,” he says. “Big. I heard about it.” ᴶʷ
+“He's done it before,” says Yuka. ʸ
+
+Jin-Woo looks at her.
+
+“A big jump,” says Yuka. “All at once. In the red gate. Before you came.” ʸ
 
 Mau goes still.
 
 He has. The red gate. The trap, the one with Makima at the end of it. He came out of it a hundred levels higher than he went in, all at once, and for days afterward he was afraid to touch anything. Afraid of the cup in his hand. Afraid of the door handle. Afraid, most of all, to hold Yuka, in case his arms didn't know their own strength yet and something in her broke.
 
-Beside him, Yuka has gone very still too. She remembers. She remembers him lying beside her in the dark that week with his hands held carefully away from her, as if they belonged to someone else.
+Yuka remembers. She remembers him lying beside her in the dark that week with his hands held carefully away from her, as if they belonged to someone else.
 
-“A hundred, last time,” says Jin-Woo, watching his face. “And you didn't want to touch anyone for a week.” ᴶʷ
+“How many?” says Jin-Woo. ᴶʷ
 
-“Yes,” says Mau. ᴹ
+“A hundred,” says Mau. ᴹ
 
-“A third of what you've got now is a hundred again,” says Jin-Woo. “Points aren't just numbers. They go into your body. Your body has to learn them. A hundred, you can learn in a few days. You've done it. If you put three hundred levels in at once, today, at this table, you'll spend the next month learning to walk again. Not badly. But you'll reach for a cup and break it. You'll step off the porch and land in the orchard.” ᴶʷ
+“And after?” ᴶʷ
+
+“I didn't want to touch anyone for a week,” says Mau. ᴹ
+
+Jin-Woo nods slowly. He hadn't known. He takes it in the way he takes in the shape of a dungeon from its edge.
+
+“Then you already know,” he says. “A third of what you've got now is a hundred again. Points aren't just numbers. They go into your body. Your body has to learn them. A hundred, you can learn in a few days. You've done it. If you put three hundred levels in at once, today, at this table, you'll spend the next month learning to walk again. Not badly. But you'll reach for a cup and break it. You'll step off the porch and land in the orchard.” ᴶʷ
 
 Yuka makes a small sound.
 
@@ -209,13 +219,11 @@ She's holding the notebook. She's written down every number. She's been looking,
 
 She stops. She doesn't say *wouldn't hold me*. She doesn't have to.
 
-Everyone looks at Jin-Woo.
+Mau looks at her.
 
-“Same size jump,” he says. “So, yes. A few days of not trusting his hands.” ᴶʷ
+“Same size jump,” he says. “So, probably. A few days of not trusting my hands.” ᴹ
 
-He looks at Mau.
-
-“But he knows what it is this time,” he says. “That helps more than you'd think.” ᴶʷ
+“But you know what it is this time,” says Jin-Woo, from the end of the table. “That helps more than you'd think.” ᴶʷ
 
 Yuka nods slowly. She looks back at Mau.
 

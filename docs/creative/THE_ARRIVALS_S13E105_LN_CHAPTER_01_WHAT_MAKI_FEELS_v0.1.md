@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 3
 **Source episode:** S13E105
-**Continuity state:** B+408 ("79"). With Mini Ciel whole, Noise finally finishes what it has been building quietly since it began watching Maki train: a model of how Maki's Heavenly Restriction makes her body sense the world (heat, air, weight, the shift of a foot before a strike), folded into Mau's body **without** the restriction itself, so he loses no cursed energy and nothing is traded away. Mau asks Maki first, the way he asked Mai. Maki's answer is short. The first test is in the yard with Maki and Yuta; the sense plus the eyes is too much (he can follow the movement of the air down to particles) and he has to turn it down with Mini Ciel and Noise. Yuka, playful, asks what he can feel on *her*; he tells her the truth (her heartbeat and the warmth climbing her neck), and she flees behind her grandmother. Maki is proud and pretends not to be. Kiss completed in the Work revision.
+**Continuity state:** B+408 ("79"). With Mini Ciel whole, Noise finally finishes what it has been building quietly since it began watching Maki train: a model of how Maki's Heavenly Restriction makes her body sense the world (heat, air, weight, the shift of a foot before a strike), folded into Mau's body **without** the restriction itself, so he loses no cursed energy and nothing is traded away. Mau asks Maki first, the way he asked Mai. Maki's answer is short. The first test is in the yard with Maki and Yuta; Maki’s bodily sensing and Mau’s Six Eyes combine. He can resolve nearby matter atom by atom and distinguish its ordinary motion from cursed energy and mana even where all three overlap. The combined input overwhelms him until Mini Ciel and Noise attenuate it. Yuka, playful, asks what he can feel on *her*; he tells her the truth (her heartbeat and the warmth climbing her neck), and she flees behind her grandmother. Maki is proud and pretends not to be. Kiss completed in the Work revision.
 
 *When: B+408. Morning in the yard, by the training posts. Yuka wrote "79" before breakfast and drew a small sun next to it because the weather was good.*
 
@@ -117,15 +117,21 @@ It's too much.
 
 He knew it would be. Ciel told him; Noise told him; he still wasn't ready.
 
-The eyes he knows. The eyes have been his for a long time: the flow of everything, the shape of every technique, the information in every surface. He's learned to live in them. Mini Ciel holds them for him now, whole.
+He knows the Six Eyes. He knows the flow of cursed energy, the point where a technique takes shape, the difference between that flow and mana. Mini Ciel is whole again and he knows how to live with what comes through it.
 
-This is underneath that.
+Then his body gives each of those readings a place to land.
 
 The *air*. He can feel the air. Not see it: *feel* it, against every part of him at once, the way you feel water when you get into a bath, only the bath is the whole yard and the water is moving. He can feel the warmth coming off the training posts where the sun has been on them. The cool coming up out of the shade under the porch. Yuta's tea, cooling on the bench, the heat leaving it in a slow thin column. Maki's weight on the ground, ten paces away, shifting from one foot to the other.
 
-And the eyes, on top, tell him what all of it is made of.
+Maki rolls her staff half a turn. He feels the air yield around it before he notices her fingers move. His eyes pick up the same change and keep following it. The disturbance breaks into the paths of molecules. He can separate those into atoms, follow the ones closest to the staff and see where their movement carries the heat from her palm into the cooler air.
 
-The column of heat from the tea isn't a column. It's movement. Tiny things moving faster than other tiny things. The air between him and Maki isn't empty. It's full. Everything is full. Every breath of wind across the yard is a crowd, pushing and spinning and colliding, and he can feel the crowd and see the crowd and *count* the crowd—
+At the bench Yuta lifts his cup. The new sense catches the small change in how his feet bear his weight. The eyes give him that movement in pieces: the muscle tightening at the wrist, the tea coming up the inside of the cup. Cursed energy shifts through Yuta's hand at the same time. Mau can follow the energy through the fingers without losing the movement of the fingers themselves. Each belongs to its own reading, even within the same hand.
+
+Mana lies shallow across the training post beside him, a trace left where a spell sealed a split in the wood. He feels the sun's warmth coming off the post. He can follow the grain down to the atoms in the wood, then follow the mana along the seam where it crosses the grain. He knows exactly where the two meet. When the wind crosses the post, he still has the air, its temperature and the pull of it on his sleeve, all moving across that same little patch of yard.
+
+He tries to look back at the cup. Yuta hasn't even got it to his mouth. Mau has the tea cooling, the cursed energy in the hand that holds it and the mana along the old split in the post. His body is still receiving the rest of the yard. Every time he fixes on one of those readings, the eyes give him enough detail to split it again.
+
+He can decide to follow a single atom. He hasn't yet learned how to leave the rest alone—
 
 He lowers himself onto the grass before the next breath can bring him another yard's worth of things to sort through.
 
@@ -139,7 +145,7 @@ Yuka's hand is on his shoulder before he's finished sitting.
 
 *I know*, says Noise. *I've got it.* ᴺ
 
-He feels them do it together. Mini Ciel taking the flood from the eyes and folding it into a shape he can hold. Noise reaching for the new sense and turning it down, slowly, the way you'd turn down a lamp: not off, never off, just low. Until the air is the air again. Until the tea is a cup of tea going cold on a bench. Until Maki is just Maki, standing ten paces away with her staff, shifting her weight.
+Noise lowers the new sense first. The grass beneath him settles from a thousand small pressures into somewhere to sit. Mini Ciel brings the eyes down to the scale of the things he can actually use. One outline for the cup, one for the hand carrying it, each energy flow kept separate and ready if he asks for it. The finer detail is still there. He can return to the split in the post and see what the mana is doing at a single point without having to follow every atom in the yard on the way there.
 
 He can still feel it. All of it. Underneath. Waiting.
 
@@ -149,11 +155,19 @@ He breathes out.
 
 “Okay,” he says. ᴹ
 
-“That's what it's like,” says Maki. ᴹᵃᵏ
+“Did you feel him pick up the cup?” asks Maki. ᴹᵃᵏ
 
-She hasn't moved. She's watching him from where she stands, and her face is doing something complicated.
+“Yes. Could you feel the tea turning inside it?” ᴹ
 
-“All the time?” he asks. ᴹ
+“I felt him put more weight on his left foot. His grip tightened before he lifted it.” She watches Mau look from the cup to the post. “What else did you get?” ᴹᵃᵏ
+
+“His cursed energy. Mana in the post. I could follow the air between them atom by atom while I felt you shift your foot.” ᴹ
+
+Maki glances down at her boot, then back at him.
+
+“Your eyes followed all that?” she asks. ᴹᵃᵏ
+
+“Until I sat down.” He takes another breath. “The part you feel. Is that there all the time?” ᴹ
 
 “All the time.” ᴹᵃᵏ
 

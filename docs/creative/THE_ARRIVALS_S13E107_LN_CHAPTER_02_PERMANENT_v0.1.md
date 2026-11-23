@@ -33,7 +33,7 @@ He laughs, not very well.
 
 Mau doesn't know everything about it.
 
-He knows enough. The house knows. Subaru and Rem, and Subaru and Emilia, and the long tangle of it from before they all came here. Rem, who loved him with everything. Subaru, who loved Emilia. The things he promised, and the things he couldn't keep, and the way it all came apart in this house, a long time ago, in a way that hurt everyone and that nobody has ever quite put back.
+He knows enough. The house knows. Subaru came here from earlier than Rem did, from the time when she hadn't yet fallen for him, and he arrived carrying everything she would one day feel for him in a story she never lived. He told her he loved her, here, at the way station, the day he came. He used those words to pull her back toward him, as if they had to mean to her what they meant in his memory. Rem named it and said no. She had her own life by then. She still does.
 
 And Ram, who watched it happen to her sister and had made her anger very clear. That anger had not prevented Subaru leaving. He has to come and hear her himself now.
 

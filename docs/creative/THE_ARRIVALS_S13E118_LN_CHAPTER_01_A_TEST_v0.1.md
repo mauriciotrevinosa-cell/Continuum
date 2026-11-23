@@ -69,7 +69,7 @@ He doesn't say anything.
 
 She tilts her head.
 
-“And what I knew already,” she says. “That you once stood in front of the thing that erases. The Chainsaw. The one that eats devils and takes them out of the world so they never were. And it ate *at* you. Pieces of you. And you put them back.” ʷᵈ
+“And what I knew already,” she says. “That you once stood in front of the thing that erases. The Chainsaw. The one that eats devils and takes them out of the world so they never were. And it ate *at* you. Pieces of what you could do, gone, the way things it eats are gone. And you got them back.” ʷᵈ
 
 The yard is very quiet.
 

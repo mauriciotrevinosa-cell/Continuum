@@ -4,7 +4,7 @@
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 26
+**Chapter files:** 27
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -38,6 +38,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 24 | S13E115 | You'll Know When | `THE_ARRIVALS_S13E115_LN_CHAPTER_02_YOULL_KNOW_WHEN_v0.1.md` |
 | 25 | S13E116 | The Wheel | `THE_ARRIVALS_S13E116_LN_CHAPTER_01_THE_WHEEL_v0.1.md` |
 | 26 | S13E116 | The King Is Real | `THE_ARRIVALS_S13E116_LN_CHAPTER_02_THE_KING_IS_REAL_v0.1.md` |
+| 27 | S13E117 | The Plate Under the Cloth | `THE_ARRIVALS_S13E117_LN_CHAPTER_01_THE_PLATE_UNDER_THE_CLOTH_v0.1.md` |
 
 ## Notes
 
@@ -82,3 +83,4 @@ Day labels: #6 B414(73); #7 B419(68); #8 B420(67); #9 B421(66); #10 B422(65); #1
 - #24 (Claude, B+433): Dabura waits while Mau is "half here". Ciel gives him the number: two thirds unspent. With nothing to save them for, Mau opens the page in the middle of the quarry and spends all of it, spread across every field (Umaru's rule). Jin-Woo on the ridge: "Now." Eleven seconds on his knees: bones, muscles, heart, lungs, eyes going clear. He stands; closing his hand cracks the air. Dabura's pure joy: "Saving them? For what?" "I'd know when." Gojo on his feet ("He levelled up in the middle of the fight!"); Frieren credits Jin-Woo; the bickering resumes; Tsurugi horrified. Mau now moves inside the tap-closing instant and puts Dabura through the far wall with a fist; Yoru sits back on the rim. Dabura: "There you are." Noise: the light is read and built, making and sending. A point of light in Mau's palm.
 - #25 (Claude, B+433 climax): Mau sends Dabura's own light back ("That's mine." "It was."); light against light; Dabura still faster by a hair and learning to hold the tap. Dabura opens his never-opened domain: a world of white light where the wanting reaches the tap from every side and Infinity flickers everywhere; holes faster than RCT; Noise can't hold the flood and build. Makima ("It's important. I'm coming in") enters, since she lives in Mau, stands on his thin right side and holds his flow open there like the weight in the gate; Noise strains to hold her body. Mau breaks the domain from inside with Purple at full, through the seam at its edge. Dabura comes back; Mau calls Mahoraga's wheel; it turns once; Dabura's body remembers what his mind doesn't and he freezes for one heartbeat. Mau ends on one knee over him, the light a hair from his throat. Dabura laughs: "Do it." Mau closes his hand. "No."
 - #26 (Claude, B+433, after): "Why?" "I was here once. In pieces... I'd rather you got up." Mau pulls Dabura up. "The king is real." Tsurugi on the ridge: "I TOLD you! BASICALLY A KING!" Dabura will talk through Maru: "A king who wins and doesn't kill is worth talking to." On the wheel: Mau tells him it's Mahoraga and that his body remembers a fight his mind doesn't; Dabura: "Maybe it wasn't the mountain." Yoru stands openly on the far rim, looks at Mau a long time and leaves; the contract held. Gojo: best fight in fifty years, "and you were only half there." Frieren: "I've wanted to see that for a long time." Jin-Woo: "That's usually how you know." Mau whole but exhausted; Makima still holding the handshake; she thanks Noise for holding her. Mau doesn't look up at the ridge once; Yuka stayed up there.
+- #27 (Claude, B+433, Yuka POV): the fight from the ridge; Cross holding her back twice. Ciel tells her Makima went into the domain to hold Mau's thin side, with Noise straining to keep her there. Yuka understands Makima is his friend standing in the way, and that she knew the yard accusation was untrue when she made it. When she tries to go down, Cross holds her arm: "He's got her. He doesn't need you... Stay here. With me. I was there when it was bad." She sees him using her hurt (the walk, the grass, waiting at the posts). "You don't get to use that. Not on him... He's my husband." She takes her arm back. She doesn't go down (he won't look up; she can't face him after what she said). At home she asks Shuna for the plate: two days old, the pickles set aside on her side, untouched. She sits on the kitchen floor with it, doesn't cry, decides not to ask him to tell her the truth but to fix it herself.

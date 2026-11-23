@@ -97,7 +97,7 @@ It goes on.
 
 He doesn't repeat. He doesn't let himself. Light from the right, then the katana from the left, then Authority on Dabura's own arm, then Blue, but alone this time, small, on the far side so it pulls Dabura *toward* the katana instead of away. Then the stolen light again, but from Rika's hands, as she rises behind him for one breath and sends it and goes.
 
-Every exchange new. Two at a time, often: he's been practising that for months, two innate techniques running together, Infinity holding while Shrine cuts, and he can do it now without his head giving way, because the RCT keeps it fresh, over and over, the way it always does. What he doesn't do is open everything at once. Two is practice. Three is where it starts to cost, and Ciel is counting.
+Every exchange new. He has practised holding two independent techniques at once, long enough to keep Infinity between himself and the light while Shrine cuts. The pressure builds behind his left eye anyway. He lets each cut finish before he gives his full attention to the next technique. Ciel counts the exchanges and checks how much of that pressure the RCT has time to relieve.
 
 And it works.
 
@@ -111,9 +111,9 @@ On the twentieth, he gets it wrong.
 
 Not badly. A fraction. He has Infinity up and Shrine cutting, the two he can hold, and Dabura comes in from a direction he didn't read in time, and his hand reaches for Blue before the Shrine has gone quiet.
 
-Three.
+Blue and Infinity are both Limitless. He's already held them together today. This time he tries to redirect the same technique while its flow is still being interrupted and Shrine is still cutting. His hand finishes the change before he's sorted out which part of the flow can carry it.
 
-For less than a heartbeat. Not three he chose, with Ciel counting and the RCT ready behind it. Three that happened because his hand moved before his head did.
+Ciel starts to tell him to let Shrine go.
 
 Something behind his left eye *tears*.
 
@@ -121,7 +121,7 @@ He feels it go. The old damage, the eye that was never quite right since the due
 
 He drops the Blue. Drops the Shrine. Holds only Infinity.
 
-The RCT is already there. It was always there. It goes into the tear and starts closing it. But it's *behind*. For three seconds, four, it's chasing the damage instead of keeping ahead of it, and the left side of the quarry flickers, and Dabura's light comes through the thin place on the left where he can't see, and goes through his shoulder.
+The RCT is already there. It was always there. It goes into the tear and starts closing it. But it's *behind*. For three seconds, four, it's chasing the damage instead of keeping ahead of it, and the left side of the quarry flickers. Dabura's intent cuts the flow on that side and his light goes through Mau's shoulder before Mau finds his footing.
 
 Five seconds. Six.
 
@@ -165,7 +165,7 @@ Flowers. Hundreds of them. Pouring up out of the cracks in the broken floor in a
 
 Dabura's body reacts.
 
-He sees it with the eyes, perfectly. The new thing under Dabura's feet, the thing he's never seen, the thing that came up out of the ground from Mau's mana: his body does what it's done all morning. It *adapts*. It reads the flowers as an attack. It throws everything it has at understanding them, preparing for them, turning to meet them. His weight shifts. His light comes up, aimed down, at petals.
+He sees it with the eyes, perfectly. The new thing under Dabura's feet, the thing he's never seen, the thing that came up out of the ground from Mau's mana: his body does what it's done all morning. It reads the change as the start of an attack. Dabura angles his hips away from the first stalks and lowers his guard to cover the cracks they came through. He has already committed to that answer by the time one of the petals brushes his hand. His weight shifts. His light comes up, aimed down, at petals.
 
 At nothing.
 

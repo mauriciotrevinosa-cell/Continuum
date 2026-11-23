@@ -17,7 +17,7 @@ She has a very good seat.
 
 Asa's body is cold. Asa doesn't like heights much, or cold stone, or being awake this early. Yoru can feel her somewhere underneath, complaining in the small resentful way she complains about everything. Yoru ignores her. She leans forward on the child's wall with the grass in her teeth and watches the king lift his hands.
 
-She saw the quarry yesterday. She saw what he could do to a Simurian when he was willing to stand still and take the punches and learn. She knows what he is. Or she thought she did.
+She saw the quarry two mornings ago. She saw what he could do to a Simurian when he was willing to stand still and take the punches and learn. She knows what he is. Or she thought she did.
 
 She wants to see him *enjoy* it. That's the test, really, under all the talk. She wants to see what happens when a man who's been told all his life to hold back is finally given a basin full of things nobody will miss and told *go on*. She wants him to stretch. To try things. To pull out the domain and the shrine and the shadows and the dragon and play. To take an hour. To take all morning. To find out, in front of her, that he likes it.
 
@@ -141,13 +141,11 @@ When it's gone there's nothing in the middle of the basin but a wide black scorc
 
 The soldiers sink back into the shadow. The dragon wheels once, high up, and dives, and is gone too, folded back into the dark at the king's feet like a coat put on a hook.
 
-The basin is empty.
+The basin is empty. The names are still there. Yoru can think them, even the small, stupid ones. The bodies will have to start over elsewhere. Chainsaw would have taken the names with him.
 
 The king is standing in the middle of it, with his hands at his sides, and the woman at his shoulder, exactly where they were.
 
-Yoru looks at the sun. It's moved perhaps a finger's width.
-
-Less than a minute.
+The grass she spat off the wall is still drifting down the side of it. Less than a minute.
 
 * * *
 

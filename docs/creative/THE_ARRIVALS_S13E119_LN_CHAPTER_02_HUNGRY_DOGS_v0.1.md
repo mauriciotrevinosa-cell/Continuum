@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 2
 **Source episode:** S13E119
-**Continuity state:** B+435, morning. Mau and Makima reach Ori's ridge and the ruins with *REST HERE. WE DID.* on the stone. Yoru is already there, sitting on the broken wall in Asa's body to watch, as the contract allows. She tells him again that this is her test and that she didn't send them. The ones coming aren't the strong devils. They are the hungry ones, small fears that were eaten and came back, running to destroy something before it can grow. Mau doesn't argue with her about whose test it is. He walks down into the basin past the ruins, alone with Makima, and waits for them to come to him, so that nothing gets past him toward the house. Ciel counts. The first of them comes over the far rim.
+**Continuity state:** B+435, morning. Mau and Makima reach Ori's ridge and the ruins with *REST HERE. WE DID.* on the stone. Yoru is already there, sitting on the broken wall in Asa’s body. Mau gives her leave to watch from there. She tells him again that this is her test and that she didn't send them. The ones coming aren't the strong devils. They are the hungry ones, small fears that were eaten and came back, running to destroy something before it can grow. Mau doesn't argue with her about whose test it is. He walks down into the basin past the ruins, alone with Makima, and waits for them to come to him, so that nothing gets past him toward the house. Ciel counts. The first of them comes over the far rim.
 
 *When: B+435. Mid-morning. The scout report Rimuru reads to the porch says only "At the ridge."*
 
@@ -13,7 +13,7 @@ Ori's ruins are smaller than she drew them.
 
 They always are, Mau thinks, the places children draw. On her map they were a castle. Here they're a few walls of old stone, waist-high, knee-high, the corners rounded off by a long time of wind, standing on the crest of the ridge with the grass grown up through the floor. A doorway with no door. A step that goes nowhere.
 
-And on the biggest stone, the one at the front, the words she copied so carefully into her notebook. He's never seen them except in her handwriting. Here they're cut deep into the rock by someone a very long time ago, with a hand that wasn't steady.
+And on the biggest stone, the one at the front, the words she copied so carefully into her notebook. He remembers standing here while she sounded the inscription out after Frieren. He had been looking at Ori then. This time he notices how deep somebody cut the words into the stone.
 
 REST HERE. WE DID.
 

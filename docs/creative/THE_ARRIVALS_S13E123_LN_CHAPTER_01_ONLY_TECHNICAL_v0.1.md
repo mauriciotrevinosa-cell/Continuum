@@ -97,7 +97,7 @@ She lifts her head and looks at him.
 
 She stops.
 
-Ciel doesn't stop. Ciel never stops in the middle of a sentence. He's never once heard her do it.
+Ciel has stopped, though she still has more to say. He leaves the space after her last word open.
 
 “I thought, *he's trusting Makima with three seconds*,” says Ciel, “*and he won't trust me with one sentence that isn't a number.*” ᶜ
 
@@ -279,9 +279,9 @@ Then he gets up and finds paper in Shoko's drawer, and a pencil, and sits down a
 
 *It wasn't you. I want you to know that first. I didn't close it because I thought you'd push, or wouldn't respect it if I asked for space. You always have. You're the person in this house who's best at leaving a thing alone when it needs to be left alone.*
 
-*It was the eyes. Since they changed, I can see the contracts. All of them. Yours, Yuka's, Makima's, the soldiers', the anchors. Not as words. As lines. Running out of me to everyone, thin and bright, and I can feel each one pulling a little, the way you'd feel a thread pulling on a sleeve. Usually it's fine. Usually it's good. It's how I know where everyone is.*
+*Since the work Noise did with Maki's senses, I've been able to sort more of what the eyes give me. When I look at the ties I've made, I can follow each one separately. Yours. Yuka's. Makima's. The legion and the anchors. They're lines I can see coming out of me, and while a channel is open I can feel the demands on my side of it, like threads pulling on my sleeve. Most days I can tell which one to attend to and which can wait.*
 
-*But last week I couldn't stop feeling them. Every single one. All at once. All pulling. And I couldn't think. I couldn't hear myself over it. So I put them all down. Every one, all at the same time, the way you'd drop everything you were carrying because your arms had given out. I didn't choose yours. I didn't choose anyone's. I just put everything down.*
+*But last week I couldn't stop feeling them. Every single one. All at once. All pulling. And I couldn't think. I couldn't hear myself over it. So I put them all down. Every one, all at the same time, the way you'd drop everything you were carrying because your arms had given out. I didn't choose yours. I didn't choose anyone's. I just put everything down. I should have thought about what would happen at your bench when I did.*
 
 *I've opened yours again tonight. You don't have to do anything with it. It's just there, the way it was.*
 

@@ -15,7 +15,7 @@ Not out loud. There's no need to. Makima walks at his right shoulder, his hand s
 
 Inside, it's different. Inside, the room is busy.
 
-Ciel is at the table with the scout images laid out in front of her like cards, sorting them, passing the short version through to Rimuru every few minutes. *Eleven openings. Four have closed again. The shapes that came through are moving north-west, away from the house, toward the ridge. Consistent with Yoru's account.* Then, to Mau only: *Your heart rate is higher than walking explains.* ᶜ
+Ciel is at the table with the scout images laid out in front of her like cards, sorting them, passing the short version through to Rimuru every few minutes. *Eleven openings. Four have closed again. The shapes that came through are moving north-west, away from the house, toward the ridge. Consistent with Yoru's account.* Then, to Mau only: *Your first pulse is higher than walking explains. The Black Heart is steady.* ᶜ
 
 *I know*, he says. ᴹ
 
@@ -99,7 +99,7 @@ She doesn't argue. She waits.
 
 “I don't kill,” he says. “Not if there's another way. I didn't kill Dabura. I didn't kill the—” ᴹ
 
-He stops, because the list is long, and she knows it. She's been inside him long enough to have read all of it.
+He stops, because the list is long, and she knows it. She's heard him refuse before. She already knows where the sentence ends.
 
 “I know,” says Makima. “That's why I'm going to tell you how it works.” ᴹᵏ
 
@@ -133,7 +133,9 @@ He looks at her.
 
 “So it isn't really killing,” he says. ᴹ
 
-“Not the way you mean,” says Makima. ᴹᵏ
+“They lose this life,” says Makima. “The fear survives it. The next one won’t remember what brought this one here.” ᴹᵏ
+
+Mau looks down the road. He can still hear the word he chose, *really*, doing more work than he meant it to.
 
 * * *
 
@@ -187,7 +189,7 @@ He tells them. It doesn't take long. It's very simple. It's so simple that for a
 
 *Not the domain*, says Mau. *Not the compression. This is something else.* ᴹ
 
-*It's the most expensive thing you can do that isn't a domain*, says Ciel. ᶜ
+*It asks more of your concentration than any other single release*, says Ciel. ᶜ
 
 *For a few seconds*, says Mau. *Then it's over.* ᴹ
 

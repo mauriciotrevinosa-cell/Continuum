@@ -181,7 +181,7 @@ So he asked Elmesia, before he left this morning, for a room.
 
 Any room. Somewhere quiet. Somewhere nobody would be frightened if a man suddenly appeared in it.
 
-She gave him one.
+She gave him one. Before he left, she took him up to see it herself, and he asked one of the ordinary soldiers to wait there for the evening Exchange.
 
 It's small. Hardly bigger than a cupboard. A plain wooden floor, a chair, a hook for a coat, at the top of a narrow stair in the old part of the palace, where the gardens begin. Nobody uses it. Nobody comes up here except the cats.
 
@@ -199,9 +199,9 @@ DIO has stopped breathing beside him.
 
 * * *
 
-He calls a soldier up out of the shadow.
+He brings the landing soldier back through his shadow. It had traded places with him for the crossing. He has another anchor at the house for the way home, and this one can take up its post now.
 
-An ordinary one. One of the thousands. A shape in shadow-armour, with no name, that stands up out of the floor of the little room and goes down on one knee in front of him.
+It rises in ordinary shadow armour and goes down on one knee in front of him.
 
 “This is your room now,” Mau tells it. ᴹ
 

@@ -117,7 +117,7 @@ He stops. He doesn't know what else there is.
 
 Yuka puts her cup down very slowly.
 
-He watches her face. He watches her understand what he's doing. He watches her understand that he's never once done it before, not like this, not out loud, at the table, before. He watches something go through her eyes that makes them go bright, and watches her decide not to let it out, not here, not yet.
+He watches her face. He watches her understand what he's doing. She lowers the letter and looks at him again. A week ago, when he left for the gate, there hadn’t even been a note. This time he’s still here, waiting to hear what she has to say. He watches something go through her eyes that makes them go bright, and watches her decide not to let it out, not here, not yet.
 
 “Okay,” she says. ʸ
 
@@ -129,7 +129,7 @@ And then she says something else. Something he didn't expect.
 
 “Come back,” she says. ʸ
 
-He hasn't heard her say that since the morning he went to find a gate and it turned red. *Come back for dinner.* Before the Trial, before Cross, before any of it. In another season.
+He can hear it over the other words now. She wants him to come back from this particular trip, this morning. There's nothing he has to work out behind it.
 
 “I will,” he says. ᴹ
 

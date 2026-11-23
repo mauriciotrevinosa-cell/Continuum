@@ -105,7 +105,7 @@ Shoko tells her.
 
 She tells her about the doors.
 
-That he closed everything, the relays, the contracts, her techniques, Mai's supply, all of it, because he thought he was getting out of the way. That he didn't do it to punish anyone. That he did it the way he does everything: so that whatever happened next wouldn't hurt anyone but him.
+That he shut the personal relays and the access the contracts gave them because he thought he was getting out of the way. Mai had her supply back the next day. Yuka's own techniques were still hers. It was Mau she couldn't reach, and the things he'd offered to share with her. That he didn't do it to punish anyone. That he did it the way he does everything: so that whatever happened next wouldn't hurt anyone but him.
 
 She tells her about the plate. That he saw it. That he'd been setting her portion aside on her side of his plate at every meal, the small sharp pickles he pretends not to like, and that the day she didn't reach over and steal them, he noticed, and didn't say anything, and kept setting them aside anyway.
 
@@ -298,3 +298,21 @@ Nobody says anything for a moment.
 Then Shuna puts the cloth over her shoulder and holds the kitchen door open.
 
 One by one, the house goes in.
+
+Yuka puts the notebook on the kitchen table. She keeps one hand on it while she talks. The things Mau told Shoko stay in the herb room. She can tell them what she said in the yard. They heard it. They can hear her say now that she knew it would hurt him.
+
+“I thought I needed a way to make him listen,” she says. “Now I think I need a way to start that doesn't ask him for anything.” ʸ
+
+Mai takes the chair nearest her. She puts a cup beside the notebook before she sits down.
+
+“What'd you write first?” she asks. ᴹᵃ
+
+Yuka turns the page so she can see it. *Talk to him*, underlined twice. She's written *now* next to it and rubbed that out so many times the paper has started to go soft.
+
+“If you were tired enough to sleep through the whole house worrying,” says Shuna, “what would you want when you woke up?” ˢᵘ
+
+Yuka thinks of the clinic. The water on the table. The pillow with his hair already pressed into it.
+
+“Breakfast,” she says. ʸ
+
+Shuna gets up to find a pencil of her own. From across the yard comes no sound at all. For the first time since he walked past her, Yuka can sit through that silence without counting how long it has been.

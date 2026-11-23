@@ -163,7 +163,7 @@ Mau looks at Dabura.
 
 Standing on the broken floor of the quarry, light coming up in him, not even breathing hard.
 
-*The wheel*, says Noise, very quietly. *The shadow of it. The thing the eyes found at dawn. It's not just a memory in him. It's how he fights.* ᴺ
+*He's fighting like the wheel taught him*, says Noise. *Anticipating the change.* ᴺ
 
 * * *
 
@@ -211,7 +211,7 @@ And on the far rim, so still she might be part of the rock, Yoru leans forward a
 
 Mau takes a breath.
 
-The air goes in deep and slow. The new lungs. The new heart, huge, steady.
+The air goes in deep and slow. His lungs make room for a deeper breath. His living heart beats quicker than the Black Heart beneath it.
 
 He thinks about everything he has.
 

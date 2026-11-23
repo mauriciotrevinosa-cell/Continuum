@@ -27,7 +27,7 @@ Then she pulls the hood back and goes downstairs.
 
 She's afraid.
 
-She's been afraid since yesterday, in the herb room, with Shoko's voice going on and on very quietly and not softening anything. She was afraid all last night, lying in Ori's bed without Ori, because Ori had gone back to the clinic for the third time and Shoko had stopped sending her away. She was afraid when she walked across the yard in the dark and put the notebook on the clinic step beside Makima and walked away again without saying anything to her.
+She's been afraid since Shoko took her into the herb room, with Shoko's voice going on and on very quietly and not softening anything. She was afraid all last night, lying in Ori's bed without Ori, because Ori had gone back to the clinic for the third time and Shoko had stopped sending her away. She was afraid when she walked across the yard in the dark and put the notebook on the clinic step beside Makima and walked away again without saying anything to her.
 
 She's afraid now, standing in the kitchen doorway at dawn in her battle armour, watching Shuna lay out the breakfast things.
 
@@ -253,7 +253,7 @@ Then he goes.
 
 Frieren comes out next. She stands on the step a moment, looking out at the yard.
 
-“He moved the pickles,” she says, to nobody in particular. ᶠ
+“He moved the pickles,” she says, looking out at the yard. Then she looks down at Yuka, long enough for Yuka to know who she meant to hear it. ᶠ
 
 Then she goes too.
 

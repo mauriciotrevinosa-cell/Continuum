@@ -15,7 +15,7 @@ It's the first thing she understands, sitting on it in the afternoon sun with th
 
 It used to be her place with Mau. Before that.
 
-She'd forgotten that. Somewhere in the last two weeks she'd let it become Cross's.
+She'd forgotten that. Somewhere in the days since the walk she'd stopped thinking about that.
 
 She sits on the wall and looks at the clinic across the yard. The door's open. She can see Mau in the chair by the window, with his eyes closed and his hands loose in his lap. Not asleep. She knows what he looks like asleep. This is the other thing: the way he looks when he's gone inside, to the room with the table and the cup, to talk to the people who live in him.
 
@@ -69,7 +69,7 @@ He looks at her.
 
 * * *
 
-The wheel comes before she decides to call it.
+She calls the wheel before she climbs down from the wall.
 
 She feels it first, at the back of her head, the way you feel a sneeze coming. A pressure. A turning. And then it's there, over her head in the afternoon light: the great eight-spoked shape, solid and enormous and old, the one she learned to call on a white stone in another world. Not the whole of Mahoraga. Just the wheel. Hanging over her like a halo made of something that has broken gods.
 
@@ -113,7 +113,7 @@ He goes still.
 
 “You're using it,” she says again, and her voice shakes now, and she lets it. “You're taking the one thing you gave me that nobody else could, and you're using it like a knife. To get between me and my husband. Every time you say *before you*. Every time you say *you just stopped being anywhere*. Every time you stand at the edge of a room I'm in and look at him. You're using it to make me think he can't see me the way you did.” ʸ
 
-The wheel clicks again over her head. She doesn't tell it to. It just does.
+The wheel hangs above her. Cross has backed up. She can say the rest without taking another step.
 
 “And I let you,” she says. “That's the worst part. I let you. I sat on this wall and I let you, because it felt good to be seen from before. And I went home and said the worst thing I could find to the man who's seen me every single day since.” ʸ
 
@@ -125,7 +125,7 @@ That's what happens next. She doesn't expect it. She's standing in the orchard w
 
 And what's under it is fear.
 
-Not anger. She thought it was anger. She's been angry for two weeks, at Cross and at Mau and at the closed door and at the plate and at herself, and she thought that was what this was. But it isn't. Underneath it, all the way down, it's the same thing she felt in the corridor with her hands shaking too much to open the door.
+Not anger. She thought it was anger. She's been angry for days, at Cross and at Mau and at the closed door and at the plate and at herself, and she thought that was what this was. But it isn't. Underneath it, all the way down, it's the same thing she felt in the corridor with her hands shaking too much to open the door.
 
 She's afraid.
 
@@ -211,11 +211,13 @@ Makima is sitting on the wall too. A careful distance away. Knees together, hand
 
 They sit there for a moment.
 
-Yuka doesn't know what to say to her. She's never known what to say to Makima. She asked her not to sit beside her without asking. She's never once asked Makima to sit beside her.
+Makima sets both hands on the stone. There is enough room between them for Yuka to stand up and go. Yuka puts an elbow on the wall and turns toward her.
 
-Makima hasn't asked. She's at the other end of the wall. Not beside. Near.
+“You can sit closer,” she says. ʸ
 
-“Can I tell you something,” says Makima. “About him.” ᴹᵏ
+Makima moves a little way. She leaves her hands on the stone.
+
+“Can I tell you something about him?” she asks. ᴹᵏ
 
 * * *
 
@@ -229,9 +231,9 @@ Yuka goes very still.
 
 “He gave Shoko leave to tell you everything,” Makima says. “*If Yuka asks, tell her the truth. All of it.* He didn't say anything about me.” She tilts her head. “So I think that's a grey area. And I've decided I'm going to stand in it. You can tell me to stop.” ᴹᵏ
 
-Yuka doesn't tell her to stop.
+“Tell me what you felt,” Yuka says. “Anything he told you in private can stay with you.” ʸ
 
-So Makima tells her.
+So Makima starts with what reached her through the bond.
 
 She tells her in her calm, precise voice, the report-voice, with nothing added and nothing left out. She tells her what it was like inside him in the yard four days ago, when Yuka said *you'd rather have her*. That it wasn't anger. That it wasn't even hurt, at first. That it was the floor going. That everything in him, every single thing, went very quiet, and then the quiet went down and down, like falling down a well, and at the bottom of it there was a room in an inn in another life with everyone dead in the yard.
 

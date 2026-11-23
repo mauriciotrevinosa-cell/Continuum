@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 27
 **Source episode:** S13E116
-**Continuity state:** B+433, climax. Dabura's domain has one rule: no shadows (light from everywhere; the legion, the Exchange anchors and Rika are cut off while it stands). Noise withdraws Makima’s body before closure as a precaution; shared life remains vulnerable, inside is not categorical soul immunity. She helps restore the interrupted right-side flow with Mau’s consent, not by controlling his choices. Mau contests the domain using the reconstructed spatial boundary, his Monarch shadow territory and embedded Shrine targeting. The targeting rule, not extra energy or compression alone, supplies the bounded sure-hit. Three-pattern compression now succeeds briefly with monitored brain RCT and a stop condition; previous training was a failure, and S9 succeeded for one strip/step only. Mau holds his own remaining territory until the finish. Dabura’s domain collapse burns out his light; he attacks physically. The actual wheel prompts an unanticipated recognition, not a free completed adaptation. Mau pins him with the prepared copied light and refuses to kill. Mau’s own burnout follows dismissal in #27.
+**Continuity state:** B+433, climax. Dabura's domain has one rule: no shadows (light from everywhere; the legion, the Exchange anchors and Rika are cut off while it stands). Noise withdraws Makima’s body before closure as a precaution; shared life remains vulnerable, inside is not categorical soul immunity. She helps restore the interrupted right-side flow with Mau’s consent, not by controlling his choices. Mau contests the domain using the reconstructed spatial boundary, his Monarch shadow territory and embedded Shrine targeting. The targeting rule, not extra energy or compression alone, supplies the bounded sure-hit. Three-pattern compression now succeeds briefly with monitored brain RCT and a stop condition; previous training was a failure, and S9 succeeded for one strip/step only. Mau holds his own remaining territory until the finish. Dabura’s domain collapse burns out his light; he attacks physically. The actual wheel prompts an unanticipated recognition, not a free completed adaptation. Mau pins him with the prepared copied light and refuses to kill. Mau’s own burnout follows dismissal in #28.
 
 *When: B+433. Late morning, inside the light. On the ridge, all anyone can see is a dome of white on the quarry floor.*
 
@@ -35,7 +35,7 @@ And somewhere in the light, Dabura, everywhere, nowhere, very close.
 
 The light comes from everywhere.
 
-He moves. He can't move enough. There's nowhere to move *to*. Rika flickers at his back and goes back into the katana like smoke going home; she was made in shadow, and there's none here to hold her. The first line goes through his left leg. The second through his back. The RCT is in after them, always on, filling, filling, but they're coming faster than it can fill, and the tap keeps closing, and the Infinity keeps going out—
+He moves. He can't move enough. There's nowhere to move *to*. The ring at the base of the katana goes quiet. Rika was already back inside it after the last exchange, and when he reaches for her now, the shadow she needs in order to come out is gone. The first line goes through his left leg. The second through his back. The RCT is in after them, always on, filling, filling, but they're coming faster than it can fill, and the tap keeps closing, and the Infinity keeps going out—
 
 *Body withdrawn*, says Noise. *Still too much.* ᴺ
 

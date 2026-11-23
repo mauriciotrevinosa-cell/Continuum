@@ -5,13 +5,13 @@
 **Volume:** 84
 **Reading order:** 13
 **Source episode:** S13E125
-**Continuity state:** B+438 late night into B+439 ("49" → "48"). Mau brings DIO home from Elmesia's garden; DIO, holding her plant, goes to her room humming. He goes to the clinic for the cot. Yuka is in the chair on the other side of it, the one Ori's map pointed to: NEXT EXPEDITION. The real talk. Yuka says it plainly. His reaction didn't come from nothing; it came from what she did, and it's the second time she's said something like that: the morning before the Trial, and the yard. She went for the worst thing she could find because she was sure he'd still be there to hear it, and that isn't all right. She learned that growing up isn't acting, and it isn't not crying; it's being honest and saying when you got it wrong. Mau tries to take part of it ("I closed the doors"); she stops him: "Don't steal my apology." He laughs, really, for the first time in two weeks. Then he gives his own: he let things from the past carry him back to the old habit of getting out of the way, and he'll try to be better for her. She accepts it. She asks him to open her line. He does. They go upstairs to their own room and, at last, both of them sleep. [PARA WORK] marks the kiss.
+**Continuity state:** B+438 late night into B+439 ("49" → "48"). Mau brings DIO home from Elmesia's garden; DIO, holding her plant, goes to her room humming. He goes to the clinic for the cot. Yuka is in the chair on the other side of it, the one Ori's map pointed to: NEXT EXPEDITION. The real talk. Yuka says it plainly. His reaction didn't come from nothing; it came from what she did, and it's the second time she's said something like that: the morning before the Trial, and the yard. She went for the worst thing she could find because she was sure he'd still be there to hear it, and that isn't all right. She learned that growing up isn't acting, and it isn't not crying; it's being honest and saying when you got it wrong. Mau tries to take part of it ("I closed the doors"); she stops him: "Don't steal my apology." They laugh together in the middle of the apology. Then he gives his own: he let things from the past carry him back to the old habit of getting out of the way, and he'll try to be better for her. She accepts it. She asks him to open her line. He does. They go upstairs to their own room and, at last, both of them sleep. They share a brief kiss beside the cot.
 
 *When: B+438, close to midnight. Ori's map is on the clinic windowsill, unfolded, held flat with a stone.*
 
 DIO hums all the way home.
 
-Not out loud. In here, inside, where only he can hear it. They come through the Exchange into the kitchen at home, out of the little room with the very good view, and the soldier that was standing by the stove goes through to sit in its chair by the window again, and DIO comes with him, borrowed body and all, holding her plant against her chest.
+Not out loud. In here, inside, where only he can hear it. They come through the Exchange into the kitchen at home, out of the little room with the very good view, using the house anchor. The soldier with the view stays at its window. DIO is beside Mau, borrowed body and all, with her plant held against her chest.
 
 She doesn't say anything about the garden. She doesn't say anything about Elmesia. She says *goodnight, Mau*, very graciously, like a queen dismissing a courtier, and withdraws to her room in the little Inn with the plant, and closes the door.
 
@@ -35,7 +35,7 @@ He doesn't lift the cloth. He isn't hungry. He's tired in the good way, the way 
 
 He thinks about going upstairs.
 
-The stairs are right there. Their room is at the top. The notebook was on his pillow there, a week ago, with *53* in her handwriting. She's not there. She's been in Ori's room since the night he didn't come up.
+The stairs are right there. Their room is at the top. The notebook was on his pillow there four days ago, with *53* in her handwriting. She's not there. She's been in Ori's room since the night he didn't come up.
 
 He doesn't go up.
 
@@ -107,7 +107,11 @@ Her hands are shaking on the notebook.
 
 She takes a breath.
 
-“That isn't all right,” she says. “It's not all right that I did it once, and it's worse that I did it twice. Your reaction this week, the doors, and the clinic, and walking past me in the yard, didn't come out of nowhere. It came out of what I did. I was the one who said it. You were the one who had to live in it.” ʸ
+“That isn't all right,” she says. “It's not all right that I did it once, and it's worse that I did it twice. Your reaction this week, the doors, and the clinic, and walking past me in the yard, didn't come out of nowhere. It came out of what I did. I was the one who said it. You were the one who had to live with it.” ʸ
+
+She puts the notebook down on her knees and looks at him.
+
+“I’m sorry, Mau. I’m sorry I made you think I wanted you gone. I want you here.” ʸ
 
 * * *
 
@@ -131,7 +135,7 @@ He stares at her.
 
 And then, out of absolutely nowhere, from somewhere so far down in him that he'd forgotten it was there, he laughs.
 
-He doesn't mean to. It just comes up, all at once, the way a cough does. Not a big laugh. A short helpless one, almost a breath, with his hand coming up to his face too late to stop it. The first real one in two weeks. He feels it go all the way through him and out, and his face goes with it, all of it, every part of his face doing the thing it hasn't done since before the gate.
+He doesn't mean to. It just comes up, all at once, the way a cough does. Not a big laugh. A short helpless one, almost a breath, with his hand coming up to his face too late to stop it. It catches him by surprise. He'd been getting ready to apologise without knowing whether she'd even let him finish. Somehow it matters that she wants him to sit here long enough to hear her out.
 
 Yuka is staring at him now.
 
@@ -195,7 +199,7 @@ He breathes out.
 
 *I am*, says Ciel, inside, very quietly. ᶜ
 
-“And when I notice,” he says, “I'll come and find you. Not Shoko. Not the clinic. You. First.” ᴹ
+“When I start wondering what you meant,” he says, “I’ll ask you. I should’ve asked you that night, before I spent it answering for you.” ᴹ
 
 * * *
 
@@ -231,7 +235,13 @@ Not slowly. Not carefully. All at once, the way you'd throw open a window in a r
 
 She gasps.
 
-He feels her feel it. Feels her, on the other end, all of her at once: her fear, and her sorry, and her relief, and under all of it something so large and so warm that he has to close his eyes. He'd forgotten. A week. He'd forgotten what it was like to feel her there.
+For a moment the line is simply there between them. Then she reaches through it herself.
+
+*Here*, Yuka says. ʸ
+
+He closes his eyes at the sound of her in that familiar place.
+
+*Here*, he answers. ᴹ
 
 When he opens his eyes she's crying again. Properly. With her hands pressed over her mouth and the notebook slipping off her lap onto the floor.
 
@@ -239,7 +249,23 @@ He reaches across the cot and takes her hand.
 
 * * *
 
-[PARA WORK: kiss here. She comes round the cot to him; tender, wet-faced, brief and very sure. Not intimate beyond that; the pause continues.]
+She gets up, still holding his hand, and comes round the end of the cot. He turns to make room for her. Her knee knocks the wooden frame on the way and she gives it a furious little look. It is so like her that he almost laughs again.
+
+“Can I kiss you?” she asks. ʸ
+
+“Yes.” He tightens his fingers around hers. “Come here.” ᴹ
+
+She sits beside him. Her cheeks are wet and the cuff she tries to wipe them with is already wet too. He wipes the next tear away with his thumb. She turns her face into his palm for a moment before she leans in.
+
+The kiss is brief. He still feels the warmth of it when she draws back. She's close enough that he can see her gathering herself to say something, so he waits.
+
+“Will you come upstairs with me?” she says. “I want to sleep beside you.” ʸ
+
+He looks at the chair she chose, at Ori's map under the stone. He puts his free hand over hers.
+
+“I want that too,” he says. ᴹ
+
+She lets out a breath against his cheek. He presses his mouth to her forehead and stays there a second longer, until she stands and takes him with her.
 
 * * *
 
@@ -321,4 +347,4 @@ He almost laughs.
 
 He goes to sleep.
 
-For the first time in two weeks, both of them do.
+Neither of them wakes when the lamp in the hall goes out.

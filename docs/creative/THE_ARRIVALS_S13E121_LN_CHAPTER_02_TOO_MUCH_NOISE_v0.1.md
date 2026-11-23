@@ -31,7 +31,7 @@ He doesn't know how long she's been there. He doesn't know how long *he's* been 
 
 *Ciel*, he says. ᴹ
 
-*Thirty-eight hours*, says Ciel, before he can ask. Her voice is very quiet in the little room, as if she's afraid of waking someone. *You slept for thirty-eight hours. It's the middle of the night. The day after the day after.* ᶜ
+*Thirty-eight hours*, says Ciel, before he can ask. Her voice is very quiet in the little room, as if she's afraid of waking someone. *You slept for thirty-eight hours. It's just past midnight. The second night since you came back.* ᶜ
 
 He takes that in.
 
@@ -133,7 +133,7 @@ He becomes aware, after a while, that she's counting. Not out loud. Just watchin
 
 “She did.” ᴹ
 
-“The left side's healing properly now. Not just being held together.” She tips her head at him. “You did the most expensive thing you can do that isn't a domain, and then slept a day and a half, and you're sitting up eating cold fish with your fingers. I'll take it.” ˢʰ
+“The left side's healing properly now. Not just being held together.” She tips her head at him. “You put every bit of your attention into that shot, and then slept a day and a half, and you're sitting up eating cold fish with your fingers. I'll take it.” ˢʰ
 
 He looks down at his fingers. They're covered in fish.
 

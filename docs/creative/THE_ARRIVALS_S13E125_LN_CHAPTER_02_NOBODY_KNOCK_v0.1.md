@@ -139,7 +139,7 @@ Milim isn't sorry.
 
 She marches into the room with the box held out in front of her, and stops in front of the couch, and looks at the two of them, Yuka on top of Mau under the blanket with the third film paused on the screen behind them, and her face does something that makes Mau's chest hurt.
 
-She's been crying. He can see it. Somewhere in the last two weeks, Milim, who never cries about anything she can punch, has been crying about this.
+She's been crying. He can see it. Milim has been crying. Mau had been so sure everyone knew she could knock that it never occurred to him she might have been afraid to.
 
 “Do you want to play?” she says. Very loud. Her voice wobbling on it. “It's a new one. Rimuru got it. It's about castles. You build a castle and then you knock down everyone else's. I haven't played it yet. I was *waiting*.” ᴹⁱ
 
@@ -153,11 +153,33 @@ Mau looks at Yuka.
 
 Yuka looks at him.
 
-He sees her see it, too. All of them in the doorway. All of them who tiptoed and shushed and pinned up signs and left plates under cloths and carried Milim out of the corridor eight times. All of them who stood in a ring round the clinic. All of them who were frightened for two weeks and didn't say so because they didn't want to make it worse.
+He sees her see it, too. All of them in the doorway. All of them who tiptoed and shushed and pinned up signs and left plates under cloths and carried Milim out of the corridor eight times. All of them who stood in a ring round the clinic. All of them who were frightened and wanted to be near them anyway.
 
 “Yes,” says Yuka. ʸ
 
 “Yes,” says Mau. ᴹ
+
+Milim sets the box down so quickly that its lid jumps. Then she looks at the couch instead of opening it.
+
+“I thought you might want another hour,” she says. ᴹⁱ
+
+Yuka lifts the end of the blanket. “You could’ve asked me.” ʸ
+
+“I was told there were orders.” ᴹⁱ
+
+From the doorway, Ori lowers the broom handle. Rimuru looks at the ceiling with the air of someone waiting to be thanked for six hours of work.
+
+Milim touches Mau’s sleeve. She leaves her hand there until he puts his hand over it.
+
+“I was waiting to play with both of you,” she tells him. ᴹⁱ
+
+He sits forward. Yuka lets the blanket slide off them and makes room on the floor by the box.
+
+“Show us how,” he says. ᴹ
+
+“I don’t know how.” Milim snatches up the lid. “That’s why I waited.” ᴹⁱ
+
+Rimuru takes the rules out of the box before she can throw them aside. This turns out to be the last useful thing anyone does with them.
 
 * * *
 
@@ -183,7 +205,7 @@ Openly. Shamelessly. The way she cheated at the racing tournament, the way she c
 
 Mau lets her.
 
-He lets her steal three of his towers. He lets her knock down his gate. He sits on the floor of the common room with his back against the couch and watches her do it, the only colour in a room full of people he loves, laughing in her too-big hoodie with her hair coming loose and her sleeves pushed up and her face lit from the inside, the way it hasn't been in two weeks.
+He lets her steal three of his towers. He lets her knock down his gate. He sits on the floor of the common room with his back against the couch and watches her do it, the only colour in a room full of people he loves, laughing in her too-big hoodie with her hair coming loose and her sleeves pushed up and her face lit from the inside, bright enough to draw Milim's grin from across the board.
 
 She catches him watching.
 
@@ -211,7 +233,7 @@ At the end of the night, when Milim has been declared the winner on the grounds 
 
 She turns to a different page.
 
-Mau sees her do it. He doesn't think anyone else does. She turns back to a page near the front, where the list of the last two weeks is: her own list, the small one, written in her best handwriting the night he went north. He's never read it. He doesn't read it now.
+Mau sees her do it. He doesn't think anyone else does. She turns back to a page near the front, where she started a little list of her own after she sat with Yuka on the grass the morning he went north. He's never read it. He doesn't read it now.
 
 But he sees her take her pencil and make one more tick.
 
@@ -225,7 +247,7 @@ Much later, when the room has emptied and the castles are back in the box and th
 
 He lies there and looks at the ceiling.
 
-It isn't finished. He knows that. Neither of them is stupid enough to think it is. There are things they haven't said yet. There's the long list in her notebook, which he hasn't read. There's Cross, who apparently came to supper and sat at the far end of the table and was very quiet and was, Ciel says, *polite*, which Mau will have to think about another day. There's Yoru, with forty-eight days left and Halloween in her pocket. There's Gojo, who still wants his real rematch.
+It isn't finished. He knows that. Neither of them is stupid enough to think it is. There are things they haven't said yet. There's the long list in her notebook, which he hasn't read. There's Cross, who apparently came to supper and sat at the far end of the table and was very quiet and was, Ciel says, *polite*, which Mau will have to think about another day. There's Yoru. Forty-eight days until the agreement comes due. There's Gojo, who still wants his real rematch.
 
 There's the room he goes back to, sometimes, without meaning to. It'll still be there tomorrow. It's always going to be there.
 

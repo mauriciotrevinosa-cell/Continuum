@@ -384,9 +384,13 @@ Across from them, Himmel offers Frieren the bag again. She takes another sweet w
 
 Ori turns her map toward Mau.
 
-“Dad. What colour should the next flag be?” ᴼ
+“Dad. What shape should the next flag be?” ᴼ
 
-“The commander usually decides.” ᴹ
+“Not the colour?” ᴹ
+
+“You can't see colours,” says Ori, very practically. “So you pick the shape. I'll pick the colour. That's fair.” ᴼ
+
+“The commander usually decides everything.” ᴹ
 
 “I'm asking my supplies officer.” ᴼ
 
@@ -416,7 +420,7 @@ He doesn't have to. He can see Beru's shoulders, from behind, and the way they'r
 
 ---
 
-In the yard, Beru lowers Ori into Frieren's arms without waking her. Mau catches the map as her sleeping fingers loosen and puts it safely on the porch bench. Beside it he leaves a small selection of labelled cloth from the inventory, ready for the flag she wants to choose.
+In the yard, Beru lowers Ori into Frieren's arms without waking her. Mau catches the map as her sleeping fingers loosen and puts it safely on the porch bench. Beside it he leaves a small selection of cloth from the inventory, each piece with its colour written on a tag in Yuka's hand, because he can't tell them apart, ready for the flag Ori wants to choose.
 
 Then Beru straightens, and turns to Mau, still holding the small hat against his chest.
 

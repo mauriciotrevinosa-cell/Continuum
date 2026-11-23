@@ -457,7 +457,11 @@ Beatrice's mouth opens. Nothing comes out of it.
 
 He looks up at it.
 
-“I've never used it on something that isn't mine,” he says. “I don't know if it can. If you let me carry the knot for a moment, take the weight of it, the way I carry Makima's rule... it might turn. It might learn it. Or nothing happens and we try something else.” ᴹ
+“I've done this twice for someone else,” he says. “Coco's mother was crystal. I let the crystal take me, and the wheel learned it, and she came out. And with Nazuna and Ko, I held what Ko's body does inside mine, with the wheel ready, so we'd know before anyone got hurt.” ᴹ
+
+He looks up at it again.
+
+“It only turns at what's happening to me,” he says. “So I'd have to take the knot on myself. Carry its weight for a moment, the way I carry Makima's rule. I've never done that with a contract. I don't know if it can learn one. It might turn. Or nothing happens and we try something else.” ᴹ
 
 He looks back down at Beatrice.
 
@@ -467,7 +471,7 @@ Echidna has put her book down altogether.
 
 She is leaning forward in the chair with both hands on its arms, and her face is lit with something Mau has only seen on it a handful of times in all the years of tea: pure, undisguised delight. The look of someone who has been handed the best question she has heard in a century and has no intention of letting anyone answer it without her.
 
-“The thing in the house that learns from inside,” she says softly. “I told them so, a long time ago. Nobody would let me find out.” ᴱᶜ
+“The thing in the house that learns from inside,” she says softly. “I said so before he ever let it. A crystal. A vampire's blood.” Her fingers tighten on the arms of the chair. “And now a contract. *Mine*.” ᴱᶜ
 
 She doesn't take her eyes off the wheel.
 

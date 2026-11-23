@@ -300,3 +300,33 @@ Timeline anchor: V82 ends after the Fort day (about B+405). Yoru's contract runs
 - Yoru squeezing where the memory and the present don't match.
 - Yuka's plan to win her husband back, and the reconciliation (Mau minimises; she knows, and plans).
 - To plan in detail later.
+
+## Feedback on chapter list v1 (Mauri, 22 November 2026)
+
+> falto la exploracion con beru y me encataria que termine llendo toda la banda frieren y yuka fern pdia acompanar y por ende terminan yendo start y himmel y me encnata que beru agarre a ori y se la ponga en un hombro mau y yuka atras y el resto obedeciendo a una chamace en el hombro de alguien qu eesta aguantando las algrimas d efelciidad
+
+> y me gusta mucho la idea de esto y de una buena reunion y resulta que tambien encontraron a la lolli de la biblioteca el espiritu se em fue su nombre. Y que cuando mau comience a analizar a puck puck se saque un comentario de que se siente que lo estan viendo de mas y mau se disculpa y que a emilia casi le de un paro cardiaco al ver a las brujas especificamente de satella yyyyyyyyy me encnata y medio se me olvido satella a ser envy ve que makima logro algo con mau pero como ahorita tiene el amor de una cas aque gente envidia no se ah quejado pero something is brewing. Y aqui podemos dar unc ierre al pleito de ram y rem con subaru disculpandolo pero diciendole que el damage a su relacion es permanente y luego se llevan a emilia a ignaguralra como un miembro del fort
+
+> lo haces sonar muy gay jajajajajjajajajaja
+
+> solo 6-8 caps de pelea o de todo? sobre dabura mmm loq ue tampoco vi es el dungeon de ellos makima mau y que el comment de makima is coming es de cmo re assurance que noe sta solo y yoru ya esperaba eso y que sea yoru la que obliga mau a pelear esto solo y no permite intervencion de los demas y ella misma dice que esto es un test y aqui podemos introducir devils que en chainsaw ya fueron comidos o no como el nuclear weapons el de nais y asi haciedno los stakes mucho mas grandes
+
+**Add to A: Beru's exploration outing (the one Ori promised).**
+- Frieren and Yuka go too. Fern might come along, which means Stark and Himmel end up going as well.
+- **Beru puts Ori on his shoulder.** Mau and Yuka walk behind, and everyone else follows the orders of a kid on someone's shoulder, while that someone holds back tears of happiness.
+
+**Add to B: the Re:Zero reunion.**
+- Subaru, Emilia and Puck. They also found **Beatrice** (the spirit from the library).
+- When Mau starts analysing Puck, Puck remarks that he feels a bit too looked at, and Mau apologises.
+- **Emilia nearly has a heart attack seeing the witches, specifically Satella.**
+- **Satella as Envy:** she sees Makima managed to get something with Mau. Right now Mau has the love of a house that people envy. She hasn't complained, but something is brewing (a seed, not resolved here).
+- **Close Ram and Rem's quarrel with Subaru:** they forgive him but tell him the damage to their relationship is permanent.
+- Then they take Emilia to be welcomed as a **member of the Fort**.
+
+**Fight length:** the 6–8 count in E was only for the Dabura block, not the whole arc, and the story decides. Not a cap.
+
+**Makima and the war:**
+- The Mau and Makima dungeon is item 18 in list v1. Keep it.
+- **"Makima is coming with me" is reassurance:** Mau saying he isn't alone. **Yoru expected exactly that.**
+- **Yoru is the one who forces Mau to fight it alone.** She allows no intervention from anyone else and says herself that it's a test.
+- **Raise the stakes with devils that Pochita ate in Chainsaw Man,** or that weren't eaten (Nuclear Weapons, the Nazis one, and so on). Verify the source list before using any.

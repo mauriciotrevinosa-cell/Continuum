@@ -535,3 +535,11 @@ Capítulos (Claude, siguiendo a Mauri):
 12. POV de Yuka: mientras Mau está fuera, Cross intenta algo; Yuka saca su rueda, lista para los golpes, y le pone el límite: le agradece lo de antes, pero ahora ve que lo usa como arma para separarla de su esposo. Se escucha a sí misma; miedo de perder a Mau igual o mayor que aquel día; ya se había imaginado su mañana con él: familia, un hermanito o hermanita para Ori. Makima la ayuda y le cuenta lo que Mau sintió y cómo ayudarlo bien (zona gris legal: Mau dio luz verde vía Shoko).
 13. La plática de verdad. Yuka entiende que la reacción de Mau viene de sus propias acciones y de que es la segunda vez que dice algo así. Madura: no es actuar ni no llorar, es ser honesta y decir cuándo metió la pata. Mau también se disculpa: se dejó llevar por el pasado. Yuka: "Don't steal my apology." Mau se ríe. Por fin duermen los dos.
 14. Día de no hacer nada: películas en la sala, nadie los molesta por miedo a romperlo, hasta que Milim obliga un juego y todos terminan en un torneo.
+
+
+## La revancha de Gojo: confirmada (Mauri, 23 nov 2026)
+
+> okay gojo tendra su pelea
+
+- La pelea real de Gojo contra Mau **sí se hace**, después de la reconciliación.
+- El espíritu, según lo platicado: con todo, pero divirtiéndose. Dos amigos jugando en serio, sin miedo y sin que nadie tenga que salvar a nadie. Lo que importa es la amistad que se hizo en el proceso.

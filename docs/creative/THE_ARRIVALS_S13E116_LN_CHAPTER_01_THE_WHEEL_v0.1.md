@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 25
 **Source episode:** S13E116
-**Continuity state:** B+433, the climax. Mau answers with Dabura's own light, copied, and Dabura is overjoyed and furious at once. Pushed, Dabura opens the domain he has never opened: a world of light where the wanting is everywhere and the tap can close from every side. Makima steps in. Only those who live in Mau may fight, and she does: she stands on his thin right side and holds his flow open there, the way she held the weight in the Rulers' gate, while Noise strains to keep her body and the rest of Mau's input comes in raw. Mau breaks the domain from inside with Purple at full. Then, as Dabura comes back at him, Mau calls the wheel up over his head. Dabura's body remembers what his mind doesn't: the great slow wheel he honed himself against for so long. He freezes for one heartbeat. Mau ends it with the light a hair from Dabura's throat. Dabura, on his back, laughs and says do it. Mau says no.
+**Continuity state:** B+433, the climax. Mau answers with Dabura's own light, copied, and Dabura is overjoyed and furious at once. Pushed, Dabura opens the domain he has never opened: a world of light where the wanting is everywhere and the tap can close from every side. Makima steps in: Mau agreed to fight alone, but she lives in him, so the domain closed on her too: she stands on his thin right side and holds his flow open there, the way she held the weight in the Rulers' gate, while Noise strains to keep her body and the rest of Mau's input comes in raw. Mau breaks the domain from inside with Purple at full. Then, as Dabura comes back at him, Mau calls the wheel up over his head. Dabura's body remembers what his mind doesn't: the great slow wheel he honed himself against for so long. He freezes for one heartbeat. Mau ends it with the light a hair from Dabura's throat. Dabura, on his back, laughs and says do it. Mau says no.
 
 *When: B+433. Late morning. The sun is high over the quarry. On the ridge, Gojo is still standing.*
 
@@ -151,9 +151,9 @@ On his right. In the light. In her own body, the one Noise holds for her, standi
 
 She shouldn't be able to be here. The domain closed on him. She's outside—
 
-No. She isn't outside. She lives in him. Wherever he is, she is. The rule is only those who live in Mau.
+No. She isn't outside. She lives in him. Wherever he is, she is. He said he'd fight Dabura alone, and nobody from the ridge has come down.
 
-She lives in Mau.
+But she isn't from the ridge. She lives in Mau.
 
 *Your right side*, she says. *Where it's thin. Where he keeps getting in.* ᴹᵏ
 

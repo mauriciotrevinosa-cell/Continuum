@@ -67,9 +67,7 @@ At Makima, the best strategist her world ever had, who controlled everyone, who 
 
 So he wouldn't die.
 
-*Standing in the way*, Mau said, once, about Makima, on the porch, after the gate. *That's what she did. She stood in the way.*
-
-Yuka didn't understand it then.
+*Standing in the way.* She doesn't know where the words come from. They just arrive, the way true things do.
 
 She understands it now.
 
@@ -85,7 +83,7 @@ She said it like an accusation. Like it was something they were doing to her.
 
 She looks at Makima now, at Mau's shoulder, in the middle of the carved quarry. Makima, whose face crumpled in the yard like a dog that's been told off. Makima, who hid behind him.
 
-Makima, who has nobody. Who said so, once, on the island: *I had everyone and I didn't have anyone.*
+Makima, who has nobody. Yuka has always known that, somehow, without anyone saying it. Makima has no one in this world except the man she's bound to.
 
 Makima, who is his friend.
 

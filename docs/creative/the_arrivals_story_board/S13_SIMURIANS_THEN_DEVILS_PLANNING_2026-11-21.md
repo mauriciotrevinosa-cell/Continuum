@@ -371,3 +371,7 @@ Timeline anchor: V82 ends after the Fort day (about B+405). Yoru's contract runs
 - **E/F:** in Yoru's test only those who live in Mau can fight (Makima, Ciel, Noise). Makima's body is held by Noise; Mau's analysis never stops.
 - **Writing rule:** about 1,500 words per chapter on average, longer if it earns it. No repeating the same beat over and over.
 - **Volume numbering:** the new volume is **V83**, starting at **S13E104**, **B+406**.
+
+> no tu date solo que dire es que en el empute sobre makima que yuka le diga que ya habia comenadoa confiarle y continua para que work haga tus corchetes y su desmadre
+
+- **In the blow-up over Makima,** Yuka tells Mau she had *already started to trust* Makima. That's what makes it hurt for both of them, and for Makima.

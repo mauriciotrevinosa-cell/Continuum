@@ -494,3 +494,23 @@ Arranca donde termina V83 (B+435, antes del amanecer): Mau sale al norte solo co
 
 
 Nota de canon: el Control de Makima funciona sobre quienes ella considera inferiores, así que un "Stop" masivo sobre devils menores es coherente.
+
+
+## Reconciliación: propuesta de Claude (23 nov 2026, por secundar)
+
+> pq no quiero que se sienta como en chinga mau la perdona mau anda destruido por dentro pq yuka agarro su temor se lo voltio y le dijo lo que mas temia
+
+> y el plan de reocncilacion de mau con ciel noise y dio ya quie metemos lo de elmesia
+
+Principio: **nada en chinga.** Mau está destruido por dentro. Yuka tomó su miedo más grande, se lo volteó y se lo dijo. El perdón no se pide ni se da en una escena: se reconstruye con hechos.
+
+1. **Mau despierta** (B+436). Ori dormida a los pies del catre, Shoko en el banco. Sabe que Yuka ya sabe, porque él lo pidió. No va hacia ella: tiene miedo de lo que va a encontrar.
+2. **El plato.** El primer movimiento de Yuka no es hablar. En la primera comida, Mau sigue apartando los pepinillos de su lado del plato, por costumbre, y Yuka estira la mano y se los roba. Sin decir nada. "Sigo aquí." Es lo contrario de "I'll stop bothering you".
+3. **El cuarto de adentro primero.** Mau reabre lo que cerró, empezando por los suyos. Ciel, Noise y DIO se quedaron aunque él cerró las conversaciones privadas. Escena en la mesa: Mau pide perdón. Ciel: "Aceptaste no aislarnos, y en cosas pequeñas lo hiciste igual." Noise no necesita disculpa ("Home"). DIO, que se retiró, sigue sentida.
+4. **DIO y Elmesia como puente.** DIO sigue aprendiendo a amar con Elmesia y le pide consejo a Mau: "¿Cómo sabes que alguien te quiere ahí?" Para contestarle, Mau tiene que decir en voz alta lo que él mismo necesita oír de Yuka. Luego cumple lo que le debía: la lleva con Elmesia, con su planta.
+5. **La lista de Yuka, con la casa.** Sus líneas se revelan cuando se cumplen, no antes. Una es Cross: Yuka le pone el límite (él la vio en lo peor, pero no es en quien se apoya en lugar de Mau), y Maru lo ayuda a aceptarlo. Otra es Makima, como aliada: la que conoce a Mau desde adentro. "Él también dijo okay."
+6. **Mau reabre el lazo de Yuka** (técnicas, Exchange). No como perdón: como confianza. Ella no lo usa enseguida.
+7. **La conversación de verdad**, cuando toque y no antes, quizá en las ruinas de Ori, junto a *REST HERE. WE DID.* Yuka: "Dije lo peor que encontré. Dos veces. No te pido que estés bien." Mau, por fin, lo feo y verdadero: "Tenía miedo de que te fueras." No lo resuelve todo; eligen volver a empezar.
+8. Después: la revancha real con Gojo. Halloween contra Yoru, antes del B+487.
+
+Pendiente de Mauri: dónde dijo Yuka "quiero parar esto" antes de la red gate. En los capítulos de B+308–309 la despedida es alegre ("Go and get tired", "Come back for dinner", "tonight you're mine"), y no encontré el ultimátum. Si no está escrito, se puede insertar antes (B+308).

@@ -129,7 +129,7 @@ Frieren stops him at the door.
 
 She doesn't hug him now. She stands in the doorway with her staff, looking up at him, and her face isn't doing anything at all.
 
-“The last time you went out alone looking for something,” she says, “at the old inn, you didn't come back for a long time.” ᶠ
+“You told me about the old inn,” she says. “In the other life. The last time you went out alone looking for something, you didn't come back for a long time. I wasn't there. I only know because you told me.” ᶠ
 
 He goes very still.
 

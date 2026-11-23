@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 83 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — home before the Simurians; S13 continues.
+**Status:** LN PRODUCTION DRAFT — complete volume: home, the Simurians and Dabura, the break, and the start of Yoru's test; S13 continues.
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 29
+**Chapter files:** 30
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -41,6 +41,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 27 | S13E117 | The Plate Under the Cloth | `THE_ARRIVALS_S13E117_LN_CHAPTER_01_THE_PLATE_UNDER_THE_CLOTH_v0.1.md` |
 | 28 | S13E117 | Can I Speak? | `THE_ARRIVALS_S13E117_LN_CHAPTER_02_CAN_I_SPEAK_v0.1.md` |
 | 29 | S13E118 | A Test | `THE_ARRIVALS_S13E118_LN_CHAPTER_01_A_TEST_v0.1.md` |
+| 30 | S13E118 | Not Going Alone | `THE_ARRIVALS_S13E118_LN_CHAPTER_02_NOT_GOING_ALONE_v0.1.md` |
 
 ## Notes
 
@@ -88,3 +89,6 @@ Day labels: #6 B414(73); #7 B419(68); #8 B420(67); #9 B421(66); #10 B422(65); #1
 - #27 (Claude, B+433, Yuka POV): the fight from the ridge; Cross holding her back twice. Ciel tells her Makima went into the domain to hold Mau's thin side, with Noise straining to keep her there. Yuka understands Makima is his friend standing in the way, and that she knew the yard accusation was untrue when she made it. When she tries to go down, Cross holds her arm: "He's got her. He doesn't need you... Stay here. With me. I was there when it was bad." She sees him using her hurt (the walk, the grass, waiting at the posts). "You don't get to use that. Not on him... He's my husband." She takes her arm back. She doesn't go down (he won't look up; she can't face him after what she said). At home she asks Shuna for the plate: two days old, the pickles set aside on her side, untouched. She sits on the kitchen floor with it, doesn't cry, decides not to ask him to tell her the truth but to fix it herself.
 - #28 (Claude, B+434, Yuka POV): she writes "52" and leaves the notebook on his pillow (he slept in Ori's room). She goes to Makima and turns the rule round: "Can I speak?" Apologises for "I had started to trust you": she still does. Makima: "It hurt... the first time anyone hurt me by taking back something they'd given me"; the hiding was a girl in her world hiding behind her friend; Mau told her one true thing she won't share, and only Yuka can answer it, "and he closed her door." To Mai and Maki: "You were right," no buts; Maki hugs her ("Good"). Her plan: not talk first (he'd make himself say every ugly thing); show him she knows. Dinner: her chair six inches closer; Ori gives up the seat without a word. Yuka sits; Mau goes still; she reaches for the pickles, and Beru says "My king" in his danger voice; Kaisel points at the gate. Mau: "It's her." Yoru: "Good evening. I hope I'm not interrupting dinner." Her hand never reaches the plate. Speaker marks: Yoru ʷᵈ, Asa ᴬˢ.
 - #29 (Claude, B+434 night): Yoru (Asa's body) crosses the barrier because the contract (until B+487) bars her from harming anyone in the house and she has no harmful intent. She told her world about Mau: the memory, the quarry, and that he survived the Chainsaw eating at him. Devils are afraid, so hungry; her contract binds only her. Eaten things that shouldn't exist are pushing through in the empty country north past the ruins, wanting him, through by morning. Her test: he goes alone; only those who live in him (Makima, Ciel, Noise). If anyone else follows, the hungry ones learn who he loves, and the barrier covers the house, not the roads. Gojo: "That's a threat." Yoru: "Both." She wants to press where he differs from the inn memory (alone then; hand in Makima's now) "and see what breaks". Asa surfaces: "I didn't agree to this"; Yoru: "This is watching." Mau: "Okay." Yuka: "Mau, wait. Please. I need to—" "Not now." Yoru sees it, pleased. "Good luck, king." Mau feels many old wrong things pressing from the north.
+- #30 (Claude, B+435 before dawn; end of volume): Mau sees "52" on his pillow. The house in the kitchen; Gojo wants to come; Mau: the fence covers the house, not the roads; Gojo sits. Dabura: "Kings are very strange in this world." Ori gives a new note (two in his pocket): "Come back." "I'll try with everything." "That's the real one." Frieren saw some of the inn through Yoru: "Come back sooner this time." Makima: they're closer. Yuka, barefoot in his shirt, tries: "It's not 'I want to talk to you about something'... The plate. I saw the plate. Shuna kept it—". The devils surge; Mau: "It's fine. I can solve it. I'm not going alone. Makima's coming with me." Meant as reassurance; she hears her own yard accusation said back without him knowing. "Okay." Makima takes his hand, a friend's handshake, so they don't lose each other; they go north. Yuka sits on the wet grass and writes "51", then a list nobody can see; Ori sits beside her and reads it. Volume 83 complete: 30 chapters, B+406 to B+435.
+
+**Volume 83 complete: 30 chapters, B+406 to B+435.** The devil war (Denji, Reze, Power; Halloween vs Unlimited Void; Yoru pressing; Yuka's plan/list; the reconciliation) is its own arc in V84, to plan with Mauri.

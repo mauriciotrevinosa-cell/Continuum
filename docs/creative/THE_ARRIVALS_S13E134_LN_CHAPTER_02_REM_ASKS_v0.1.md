@@ -81,6 +81,10 @@ She looks up at him.
 
 He keeps his face very still.
 
+“I told Ram,” she says. “Last night. Everything. She listened to all of it and then she said *about time* and went to sleep.” ᴿᵉ
+
+Mau almost laughs.
+
 “I'm afraid of the other thing,” says Rem. “Of giving it to someone. Of putting it in someone's hands. Even hers.” ᴿᵉ
 
 * * *
@@ -218,3 +222,66 @@ He doesn't say anything. He just nods. Once.
 Rem takes a breath.
 
 And at the other end of the table, DIO, who has come down for breakfast in her own body for the first time in a week, looks from Rem to Umaru and back again, and smiles into her tea like a cat that has found the cream.
+
+* * *
+
+Umaru finds him in the afternoon.
+
+She comes into the workshop yard where he's sitting with Taihei, who has been helping Mai carry timber and has stopped for water, and she plants herself in front of the two of them in her dressing gown with her hands on her hips and her face doing something very determined and very frightened at the same time.
+
+“I need to talk to you,” she says. “Both of you. My brothers. Now.” ᵁ
+
+Taihei puts down his water.
+
+Mau doesn't say anything. He has a feeling he knows.
+
+He does.
+
+It all comes out at once, the way everything comes out of Umaru. How long she's loved Rem. How she's never said the words, not once, not even with Rem's hand in hers under every table in the house. How she's afraid that if she says them, Rem will think she's being asked for them back, because of Subaru, because of what he did, and say them because she's kind and not because she's ready. How she wants to say it anyway. How she doesn't know how.
+
+“How do I say it,” says Umaru, “so she knows I don't want anything for it?” ᵁ
+
+Taihei looks at Mau.
+
+Mau looks at the sky.
+
+It's very clear. Not a cloud. Ciel was right this morning. It'll be clear all night.
+
+He thinks about Rem at the kitchen table before the sun. *Where would you want to say it?* *The roof.* *Tonight.* He thinks about how it isn't his to say. Either half of it.
+
+He doesn't say either half.
+
+“Go up on the roof tonight,” he says. ᴹ
+
+Umaru blinks.
+
+“The Fort roof,” says Mau. “It'll be clear. Look at the stars. The way you always do.” ᴹ
+
+“That's not *advice*,” says Umaru. “That's just what I *do*.” ᵁ
+
+“I know,” says Mau. “Do it tonight.” ᴹ
+
+Umaru looks at him with deep suspicion.
+
+Taihei, beside him, looks at Mau for a long moment, and then, very slowly, picks his water back up and drinks it, and doesn't say anything, and Mau can tell from the side of his face that he's understood exactly what Mau is doing and is trying very hard not to smile.
+
+“And when you say it,” says Taihei, to his sister, gently, “say that part too. That you don't want anything for it. Out loud. She'll need to hear it.” ᵀᵃ
+
+Umaru looks from one brother to the other.
+
+“You two are being *weird*,” she says. ᵁ
+
+“Roof,” says Mau. ᴹ
+
+“Tonight,” says Taihei. ᵀᵃ
+
+Umaru narrows her eyes at both of them. Then she turns round and stalks off across the yard in her dressing gown, muttering.
+
+Taihei waits until she's gone.
+
+“Rem came to you this morning,” he says. Not a question. ᵀᵃ
+
+“I can't tell you that,” says Mau. ᴹ
+
+“You just did,” says Taihei, and smiles into his water. ᵀᵃ
+

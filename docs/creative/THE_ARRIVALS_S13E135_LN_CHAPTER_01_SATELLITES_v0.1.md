@@ -260,4 +260,22 @@ Rem looks at the ceiling.
 
 “I know,” says Mau. ᴹ
 
-Rem puts her face in her hands and laughs until the sun comes up.
+Rem stops.
+
+She looks at Mau across the table. At his face, which is doing absolutely nothing, very carefully.
+
+“She said you told her to go up on the roof,” she says slowly. “Last night. You and Taihei. She said you were being weird.” ᴿᵉ
+
+Mau drinks his tea.
+
+“You knew,” says Rem. “Both of us. We both came to you. And you didn't tell either of us about the other one.” ᴿᵉ
+
+“It wasn't mine to tell,” says Mau. ᴹ
+
+“You just sent us both to the same roof.” ᴿᵉ
+
+“It was going to be clear,” says Mau. ᴹ
+
+Rem stares at him.
+
+Then she puts her face in her hands and laughs until the sun comes up.

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 25 — Construction
+## Chapter 27 — Construction
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 25
+**Reading order:** 27
 **Source episode:** S13E131
 **Continuity state:** B+449 ("38"). The workshop again, the next evening. Mau offers Maki a contract like Yuka's, a second Limitless: she keeps her Heavenly Restriction, her body and her strength exactly as they are; the CE and the cost are all his. Maki looks at her sister and asks instead whether she could have Construction. Mai will never admit it, but she has just heard her sister say she wants to be like her and spend more time with her, and she says she'll allow it. Then Mai explains to Maki how to explain it to Mau, and Mau understands his mistake: he decided what Maki wanted without asking. He looks at Yuta. Yuta asks for something for Rika: Noise and Ciel find a way to stretch her five minutes to about ten and cut the time it takes her to come back. Whether Rika could be recovered if she were completely destroyed is beyond them for now; Noise wants to study it.
 

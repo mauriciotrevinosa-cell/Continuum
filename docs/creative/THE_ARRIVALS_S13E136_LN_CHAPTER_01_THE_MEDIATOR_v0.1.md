@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 35 — The Mediator
+## Chapter 37 — The Mediator
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 35
+**Reading order:** 37
 **Source episode:** S13E136
 **Continuity state:** B+459 ("28"), evening. Yuka's point of view. Elmesia's garden, lit. DIO with the plant, the blue dress and Ori's lucky dragon; Elmesia waiting at the foot of the narrow stair. Mau meant to stay in the little room with the soldier; within ten minutes he's been fetched down to a bench between the two of them, because neither can get a sentence out, and he ends up as mediator. He fetches his expert. The expert, Yuka, sits on the bench, eats the cakes, laughs, and says, "You two can do it." They can't. In the end Mau says it for them, plainly, because nobody else will: DIO loves Elmesia, the romantic way, and Elmesia loves DIO, the same way. Both of them go red to the ears, which Yuka can see and Mau can't, because neither of them managed to say it to the other. Then they say it properly, to each other, without him. DIO tells Mau he still only owes her two; the letter lie is forgiven. Mau and Yuka take their promised dance by the pool and then sit under a tree to wait. Yuka puts her head on his chest; a let go; they both fall asleep. They're woken by DIO, alarmed, because it's very late and they should have been home hours ago.
 

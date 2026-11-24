@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 27 — First Pin
+## Chapter 29 — First Pin
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 27
+**Reading order:** 29
 **Source episode:** S13E132
 **Continuity state:** B+451 ("36"). The first use of the new clause. Mai comes to find Mau in the yard in the middle of the morning to tell him what she's going to make today, and he stops what he's doing, sits down on the porch step and listens, properly, to all of it: a set of pins for Maki's first lesson, and the exact cost. It takes twenty minutes. It's the best twenty minutes of Mai's week, though she'd never say so. That evening Maki makes her first pin. It comes apart. She makes another. It comes apart. On the eleventh try it holds. Mau feels the small cost land in his body through the line, a pinch like a needle in the thumb, and has never been so pleased to be charged for anything.
 

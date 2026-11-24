@@ -1,23 +1,29 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 23 — Beru's Cry
+## Chapter 25 — Beru's Cry
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 23
+**Reading order:** 25
 **Source episode:** S13E130
-**Continuity state:** B+447 ("40"). Ori's point of view. Ori and Beru come back from the household weekly gate, set small for her by Mau and checked by Frieren, where she trains train in. On the path through the orchard, Cross is waiting. He wants to explain; he says he wants Ori to understand him. Ori tells him plainly: he nearly broke her family, and she doesn't want him near her. When he steps closer anyway, Beru uses his cry, the Solo Leveling one that roots people where they stand. Cross can't move. Beru picks Ori up and carries her to find Mau. Mau doesn't walk to the river this time. He listens to all of it, thanks Beru, and goes to find Maru instead, and asks him, very calmly, to keep his brother away from his daughter. Maru says he will.
+**Continuity state:** B+447 ("40"). Ori's point of view. Ori and Beru come back from her first run through the Fort's new door in the upgraded house gate (V84 #23–24), checked by Frieren. On the path through the orchard, Cross is waiting. He wants to explain; he says he wants Ori to understand him. Ori tells him plainly: he nearly broke her family, and she doesn't want him near her. When he steps closer anyway, Beru uses his cry, the Solo Leveling one that roots people where they stand. Cross can't move. Beru picks Ori up and carries her to find Mau. Mau doesn't walk to the river this time. He listens to all of it, thanks Beru, and goes to find Maru instead, and asks him, very calmly, to keep his brother away from his daughter. Maru says he will.
 
 *When: B+447. "40." Ori wrote it herself, very large, and drew Beru beside it with his mouth open and lines coming out of it.*
 
-This week, the house gate is Ori's.
+The middle door is Ori's.
 
-It's the only gate there is inside the protection. Nothing wild can open in here; the gate is the one DIO gave Dad, the one that changes once a week, and when it changes Dad can tell it what he wants. Harder. Easier. Somewhere warm to rest. And this week, for the first time, *small enough for Ori*.
+It's new. Since yesterday. Since Dad went for a walk after supper and came back an hour later having had tea with the Rulers, which Ori still doesn't entirely believe, and the house gate had three doors instead of one.
 
-Frieren checked it first. She went through it twice, alone, with her staff, the morning Dad set it that way, and came out and said, *That's fine. Ori can go in. With Beru. Not past the second door.*
+The first door is the one there always was: Dad's, the weekly one, the one he can tell what he wants. The third door is for the grown-ups who want to *scratch an itch*, Gojo says, and Shuna is already making a list.
 
-Ori has never gone past the second door.
+And the middle one is for the Fort.
 
-She's been in four times this week. She keeps count in her notebook, on a special page, with a map of every room, because next week the gate changes and it won't be hers anymore. The first room has slimes, the small slow kind that Beru can step on. The second room has bats. The third room is behind the second door and she has never seen it and she has a drawing of what she thinks is in it, which is a dragon, which is probably wrong.
+Safe for children. Safe for people who don't fight. It reads who comes in and won't make itself harder than they can finish, and it can't turn red, not ever, not unless Dad is the one inside. The gate said it couldn't give much in the way of treasure, so Dad said it could take its treasure out of his Shop, and now it can.
+
+Frieren checked it first anyway. She went through it before lunch, alone, with her staff, and came out and said, *That's fine. Ori can go in. With Beru. Not past the second door. Yet.*
+
+Ori has never gone past the second door. She's only been in once.
+
+She keeps count anyway, in her notebook, on a special page, with a map of every room. The first room has slimes, the small slow kind that Beru can step on. The second room has bats. The third room is behind the second door and she has never seen it and she has a drawing of what she thinks is in it, which is a dragon, which is probably wrong.
 
 Today she killed four slimes and a bat. The bat was mostly Beru. She's counting it anyway.
 

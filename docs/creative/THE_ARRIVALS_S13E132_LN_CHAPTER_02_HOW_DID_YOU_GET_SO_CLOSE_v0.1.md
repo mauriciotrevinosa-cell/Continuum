@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 28 — How Did You Get So Close
+## Chapter 30 — How Did You Get So Close
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 28
+**Reading order:** 30
 **Source episode:** S13E132
 **Continuity state:** B+452 ("35"). Satella comes to the north-wing step at dusk, where Makima sits, and asks the question she's carried for weeks: how did Makima get so close to him? She has lived in this house a long time and been loved here; but Makima, who hurt him, has a room inside him and holds his hand. It isn't hatred. It's envy, quiet and honest, the oldest thing Satella knows. Makima answers plainly: she hurt him, she was forgiven, she asked. "You've never asked." Satella has never asked anyone for anything. Makima takes her to Mau. Satella can't get the words out; Makima says them for her, then stops and makes her say the last part herself. Mau offers Satella a room inside him, off the inner corridor, for visiting, whenever she wants, as a guest. Satella says yes. She doesn't know that six other witches are listening at the north-wing window.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 26 — Second Friend
+## Chapter 28 — Second Friend
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 26
+**Reading order:** 28
 **Source episode:** S13E131
 **Continuity state:** B+450 ("37"). Yuka's point of view. She finds Makima alone on the north-wing step at dusk, hugs her from behind, and doesn't let go: thank you for not letting him do something stupid when I hurt him. Makima: that's what friends are for. Yuka laughs and asks what they're doing, holding hands. Makima explains, plainly, without embarrassment: it isn't romance; it's how they tell each other we're here, we're friends, we can lean. She has no romantic feelings, not for anyone; what she wanted all her life without knowing the word was someone at her own level, someone who could stand level with her, and Mau showed her what that is. Yuka understands that what she feared, that Makima would replace her, was impossible from the start. She takes Makima's hand to try it. Then: he has two now, but if Yuka ever sees her try to kiss him the way Yoru tried, she'll send her straight to hell. Makima accepts the terms. Yuka tells her what Mau did for Rem. Makima thanks her. Makima's second friend.
 

@@ -487,4 +487,5 @@ Architect ending now selected: statues/fight -> pleased by Mau -> new Black Hear
   1. La que ya tenían: ajustable, pero cambia una vez por semana.
   2. Una que Mau convierte para Ori y la Fort, segura para niños y para quien no pelea. La gate avisa que no puede dar tanto loot; Mau ofrece conectar las recompensas al Shop o a su inventario, y él surte el loot.
   3. Una que Mau puede modificar y que se refresca cada vez que se completa.
-- Cuándo ocurre: por decidir con Mauri. En V84 #23, Ori entrena en la gate semanal solo "esta semana", la primera vez que Mau la pone a su tamaño.
+- **Escrito (Mauri, 24 nov):** no vino de una Purple ni de una Red Gate, sino de los Rulers como agradecimiento (V84 #23 *An Olive Branch*, #24 *Three Doors*). Ver CANON_TRAPS.
+- Antes: cuándo ocurre, por decidir con Mauri. En V84 #23, Ori entrena en la gate semanal solo "esta semana", la primera vez que Mau la pone a su tamaño.

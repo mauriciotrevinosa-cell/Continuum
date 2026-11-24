@@ -4,7 +4,7 @@
 **Volume:** 84
 **Season:** 13
 **Coverage:** S13E119–; Yoru's war, the clinic, Yuka's turn
-**Chapter files:** 35
+**Chapter files:** 37
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -34,19 +34,21 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 20 | S13E128 | Not Watching the Stairs | `THE_ARRIVALS_S13E128_LN_CHAPTER_02_NOT_WATCHING_THE_STAIRS_v0.1.md` |
 | 21 | S13E129 | Applause | `THE_ARRIVALS_S13E129_LN_CHAPTER_01_APPLAUSE_v0.1.md` |
 | 22 | S13E129 | Not One Centimetre | `THE_ARRIVALS_S13E129_LN_CHAPTER_02_NOT_ONE_CENTIMETRE_v0.1.md` |
-| 23 | S13E130 | Beru's Cry | `THE_ARRIVALS_S13E130_LN_CHAPTER_01_BERUS_CRY_v0.1.md` |
-| 24 | S13E130 | Swallowed Words | `THE_ARRIVALS_S13E130_LN_CHAPTER_02_SWALLOWED_WORDS_v0.1.md` |
-| 25 | S13E131 | Construction | `THE_ARRIVALS_S13E131_LN_CHAPTER_01_CONSTRUCTION_v0.1.md` |
-| 26 | S13E131 | Second Friend | `THE_ARRIVALS_S13E131_LN_CHAPTER_02_SECOND_FRIEND_v0.1.md` |
-| 27 | S13E132 | First Pin | `THE_ARRIVALS_S13E132_LN_CHAPTER_01_FIRST_PIN_v0.1.md` |
-| 28 | S13E132 | How Did You Get So Close | `THE_ARRIVALS_S13E132_LN_CHAPTER_02_HOW_DID_YOU_GET_SO_CLOSE_v0.1.md` |
-| 29 | S13E133 | Seven Rooms | `THE_ARRIVALS_S13E133_LN_CHAPTER_01_SEVEN_ROOMS_v0.1.md` |
-| 30 | S13E133 | The Host | `THE_ARRIVALS_S13E133_LN_CHAPTER_02_THE_HOST_v0.1.md` |
-| 31 | S13E134 | Two People | `THE_ARRIVALS_S13E134_LN_CHAPTER_01_TWO_PEOPLE_v0.1.md` |
-| 32 | S13E134 | Rem Asks | `THE_ARRIVALS_S13E134_LN_CHAPTER_02_REM_ASKS_v0.1.md` |
-| 33 | S13E135 | Satellites | `THE_ARRIVALS_S13E135_LN_CHAPTER_01_SATELLITES_v0.1.md` |
-| 34 | S13E135 | The Invitation | `THE_ARRIVALS_S13E135_LN_CHAPTER_02_THE_INVITATION_v0.1.md` |
-| 35 | S13E136 | The Mediator | `THE_ARRIVALS_S13E136_LN_CHAPTER_01_THE_MEDIATOR_v0.1.md` |
+| 23 | S13E130 | An Olive Branch | `THE_ARRIVALS_S13E130_LN_CHAPTER_03_AN_OLIVE_BRANCH_v0.1.md` |
+| 24 | S13E130 | Three Doors | `THE_ARRIVALS_S13E130_LN_CHAPTER_04_THREE_DOORS_v0.1.md` |
+| 25 | S13E130 | Beru's Cry | `THE_ARRIVALS_S13E130_LN_CHAPTER_01_BERUS_CRY_v0.1.md` |
+| 26 | S13E130 | Swallowed Words | `THE_ARRIVALS_S13E130_LN_CHAPTER_02_SWALLOWED_WORDS_v0.1.md` |
+| 27 | S13E131 | Construction | `THE_ARRIVALS_S13E131_LN_CHAPTER_01_CONSTRUCTION_v0.1.md` |
+| 28 | S13E131 | Second Friend | `THE_ARRIVALS_S13E131_LN_CHAPTER_02_SECOND_FRIEND_v0.1.md` |
+| 29 | S13E132 | First Pin | `THE_ARRIVALS_S13E132_LN_CHAPTER_01_FIRST_PIN_v0.1.md` |
+| 30 | S13E132 | How Did You Get So Close | `THE_ARRIVALS_S13E132_LN_CHAPTER_02_HOW_DID_YOU_GET_SO_CLOSE_v0.1.md` |
+| 31 | S13E133 | Seven Rooms | `THE_ARRIVALS_S13E133_LN_CHAPTER_01_SEVEN_ROOMS_v0.1.md` |
+| 32 | S13E133 | The Host | `THE_ARRIVALS_S13E133_LN_CHAPTER_02_THE_HOST_v0.1.md` |
+| 33 | S13E134 | Two People | `THE_ARRIVALS_S13E134_LN_CHAPTER_01_TWO_PEOPLE_v0.1.md` |
+| 34 | S13E134 | Rem Asks | `THE_ARRIVALS_S13E134_LN_CHAPTER_02_REM_ASKS_v0.1.md` |
+| 35 | S13E135 | Satellites | `THE_ARRIVALS_S13E135_LN_CHAPTER_01_SATELLITES_v0.1.md` |
+| 36 | S13E135 | The Invitation | `THE_ARRIVALS_S13E135_LN_CHAPTER_02_THE_INVITATION_v0.1.md` |
+| 37 | S13E136 | The Mediator | `THE_ARRIVALS_S13E136_LN_CHAPTER_01_THE_MEDIATOR_v0.1.md` |
 
 ## Notes
 
@@ -64,6 +66,6 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 - DIO's count: "two you owe me" (the door, the letter). The small lie about Elmesia's letter will make three when she works it out.
 - #13 completes the clinic apology and the kiss beside the cot. Yuka asks Mau to reopen their direct channel, then reaches out herself. The intimate-scene pause continues.
 - Mau's open threads: Yoru (48 days left at #14; Halloween planned for later, not yet known to Mau), Gojo's real rematch, Yuka's long list, Cross as a friend.
-- #15–35 are the first part of the forty-eight days before Yoru (Mauri's ideas, planning doc), roughly one chapter per day, B+440–459: clingy Yuka reloaded, Cross (no centimetre; Beru's cry), thanks and contracts (Mai's listening clause; Maki's Construction; Rika's clock), Makima's second friend, Satella asks, seven rooms, DIO and Elmesia, Rem and Umaru.
+- #15–37 are the first part of the forty-eight days before Yoru (Mauri's ideas, planning doc), roughly one chapter per day, B+440–459 (#23–24 added later: the Rulers' tea and the three-door house gate): clingy Yuka reloaded, Cross (no centimetre; Beru's cry), thanks and contracts (Mai's listening clause; Maki's Construction; Rika's clock), Makima's second friend, Satella asks, seven rooms, DIO and Elmesia, Rem and Umaru.
 - #15–35 carry Mau and Yuka's affection through the day. Mau brings Yuka the things she likes without waiting to be asked, and they take their promised dance in the garden in #35. Yuka ends the pause in her own words in V85 #9.
-- DIO's count stays at two: she keeps the letter lie as "a good lie" (#35).
+- DIO's count stays at two: she keeps the letter lie as "a good lie" (#37).

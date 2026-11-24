@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 30 — The Host
+## Chapter 32 — The Host
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 30
+**Reading order:** 32
 **Source episode:** S13E133
 **Continuity state:** B+454 ("33"). The witches' first visit inside. All seven arrive at once, at tea time, through the doors Noise built. Noise hosts. It goes about as well as everyone expected: Pride wants a game; Daphne wants to know where the food is (there is none; there is only the cup, and the cup is always warm); Minerva is angry about the chairs; Echidna asks Noise what he is; Sekhmet finds the bed in her room and is not seen again; Carmilla sits in the corner and Noise doesn't notice her until she speaks. Ciel, still offended, refuses to help at first and then can't bear it and helps. DIO arrives late with her plant and is jealous for exactly four minutes. Satella sits at the table among her sisters and drinks from the cup. Noise, at the end, says it was the best day he's had. Mau, outside, can barely walk straight from the noise in his head, and is happy.
 

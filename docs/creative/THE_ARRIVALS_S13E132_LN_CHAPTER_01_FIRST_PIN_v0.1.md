@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 29
 **Source episode:** S13E132
-**Continuity state:** B+451 ("36"). The first use of the new clause. Mai comes to find Mau in the yard in the middle of the morning to tell him what she's going to make today, and he stops what he's doing, sits down on the porch step and listens, properly, to all of it: a set of pins for Maki's first lesson, and the exact cost. It takes twenty minutes. It's the best twenty minutes of Mai's week, though she'd never say so. That evening Maki makes her first pin. It comes apart. She makes another. It comes apart. On the eleventh try it holds. Mau feels the small cost land in his body through the line, a pinch like a needle in the thumb, and has never been so pleased to be charged for anything.
+**Continuity state:** B+451 ("36"). The first use of the new clause, and the first time in two weeks Mai builds through Mau; she reaches with the old numbers (a tingle per beam, when he was about 200 old levels), they test it on the porch step at his level 5 (500 old), and it's like air; two EVERYTHINGs now, hers and Maki's. Mai comes to find Mau in the yard in the middle of the morning to tell him what she's going to make today, and he stops what he's doing, sits down on the porch step and listens, properly, to all of it: a set of pins for Maki's first lesson, and the exact cost. It takes twenty minutes. It's the best twenty minutes of Mai's week, though she'd never say so. That evening Maki makes her first pin. It comes apart. She makes another. It comes apart. On the eleventh try it holds. Mau feels the small cost land in his body through the line, a pinch like a needle in the thumb, and has never been so pleased to be charged for anything.
 
 *When: B+451. "36." Under it, in Maki's handwriting, very large and slightly aggressive: "PIN".*
 
@@ -59,47 +59,83 @@ It's pins. For Maki's first lesson tonight. Twelve of them, the simplest thing M
 
 She explains the cost.
 
-Not the way it is now. The way she remembers it. She can't help it; she's talking about Construction, and Construction, for most of her life, meant her own body paying. So she tells him how much each pin draws, exactly, to the last fraction, and then she tells him what it'll feel like, and what she describes is what it used to feel like for her. The cold that starts in the fingertips. The ache behind the eyes after the third one. How after a whole day of making things she used to sit on the edge of her bed in that house and not be able to lift her arms. How it got worse the bigger the thing was. How she used to measure every single thing she made against what she had left.
+And halfway through, he hears that she's explaining it the old way.
 
-She's looking at the paper while she says it. Her voice is very flat.
+It isn't the first time she's built through him. Far from it. The second floor of the workshop stands over their heads because of it; half the list in her cracked notebook was written on the strength of it. But she hasn't touched the supply for two weeks. Not since he closed the lines and then opened them again and she didn't quite trust the door yet. And now that she's reaching for it again, she's reaching with the old numbers.
 
-“Mai,” he says. ᴹ
+“Left thumb,” she says. “A tingle. A sharp one. About a minute. That's what it was for the frame, per beam.” ᴹᵃ
 
-She stops.
+He remembers. The second floor. Every beam a small bright sting in his thumb, the body he had then noticing each one.
 
-“It's not like that anymore,” he says gently. “Not for you. Not for me either. The CE doesn't run out. My body barely notices something this size. It's like air on my face.” ᴹ
+“That was then,” he says. ᴹ
 
-Mai looks at the paper for a moment longer.
+Mai looks up.
 
-“I know,” she says. “I know that. I just—” ᴹᵃ
+“I was about two hundred, then,” he says. “Old levels. Now it's five on the new scale. Five hundred, old. The body's not the same body. I don't think you'll get a tingle out of it anymore.” ᴹ
 
-“If you want to pay me for the pins,” he says, “you can get me something to drink instead.” ᴹ
+Mai narrows her eyes.
 
-Mai blinks at him.
+“You *think*,” she says. ᴹᵃ
 
-Then, unexpectedly, the corner of her mouth goes.
+“Let's test it,” says Mau. ᴹ
 
-“Fine,” she says. “That's fair.” ᴹᵃ
+* * *
 
-She puts the paper down on the step and starts to get up, already turning toward the kitchen.
+She makes one pin, right there on the porch step.
 
-Mau holds up one hand. In the air in front of him, the Shop opens. The panel. The lists. He scrolls.
+Small. A plain one, round head, the pattern for tonight. She reaches down the line for the supply the way she always has, and he holds still and pays attention, all of it, to his left thumb.
 
-“Tea,” he says. “Cold or hot. The fizzy one Yuka likes. The plum thing. Coffee, three kinds. Something called a *milkshake*, which Umaru says is a meal. Juice. That yoghurt drink Ori hates—” ᴹ
+The pin comes together in her palm.
 
-Mai stops halfway to standing.
+He waits for the tingle.
 
-She stares at the floating panel.
+It doesn't come. Not really. Something does: so small he'd miss it if he weren't watching for it. A touch. A breath of air across the skin of his thumb, there and gone.
 
-“Oh,” she says. “I forget that.” ᴹᵃ
+“Well?” says Mai. ᴹᵃ
 
-“It's really convenient, isn't it?” says Mau. ᴹ
+“Like air,” he says. “Like a bit of wind on my face. That's it.” ᴹ
 
-Mai sits back down on the step. She looks at the panel for a long time. Then she points at something on it, without saying what, and Mau buys it, and it's in her hand, cold, with drops running down the outside.
+Mai looks at the pin in her hand. Then at his thumb. Then at him.
 
-She holds it and doesn't drink it straight away.
+He watches it go through her. Two weeks of not reaching. The old numbers in her head. Now *air*.
 
-“Convenient,” she says, as if trying out the word, and then she drinks it, and goes back to explaining the pins.
+She opens the cracked notebook.
+
+The first page. *EVERYTHING*, underlined twice, in her small hard capitals.
+
+“Then I'm adding things,” she says. ᴹᵃ
+
+“Add whatever you want.” ᴹ
+
+“And Maki has one now,” says Mai. “Her own list. She started it last night. She thinks I don't know.” ᴹᵃ
+
+He laughs.
+
+“Okay,” he says. “Let's build an aqua-something. A water thing. With the arches. The aqua—” ᴹ
+
+Mai hits him on the back of the head.
+
+Not hard. A proper sisterly smack, the kind Maki gives Yuta.
+
+“You *read* it,” she says. ᴹᵃ
+
+“Only what you let me see,” says Mau. “The first day. Before your thumb came down. Bridges. Something with *aqueduct*—” ᴹ
+
+She smacks him again.
+
+“That's *mine*,” she says. “You don't get to say it before I've drawn it.” ᴹᵃ
+
+And then she laughs. Out loud, on the porch step, with the pin in one hand and the notebook in the other, the way she almost never does where anyone can see.
+
+“Two *everythings*,” she says. “Now there's going to be two. Hers and mine.” ᴹᵃ
+
+“I can't wait,” says Mau. “Tell me every single thing.” ᴹ
+
+Mai looks at him for a moment.
+
+“I will,” she says. “That's the clause.” ᴹᵃ
+
+And she goes back to explaining the pins.
 
 She explains why she's making twelve and not ten. Because Maki will lose two.
 

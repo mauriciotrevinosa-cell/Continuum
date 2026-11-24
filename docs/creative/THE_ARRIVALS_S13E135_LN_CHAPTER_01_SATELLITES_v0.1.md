@@ -143,6 +143,15 @@ She takes her hands away from her face. Her face is wet and red and completely u
 
 “And I looked at you laughing,” she says, “and I thought *oh no*.” ᵁ
 
+She takes a breath. She makes herself look straight at Rem, with her wet face and her hair everywhere.
+
+“And listen,” she says. “I'm never going to use them. Those words. I'm never going to hold them up in front of you and say *so you have to*. Not ever. Not when we fight. Not when I want something. Not when I'm scared. I'm not saying them so you owe me anything. I'm saying them because it's what I feel. That's all they're for.” ᵁ
+
+Rem's eyes fill.
+
+She doesn't say anything. She can't. She just reaches out and pulls Umaru into her arms, dressing gown and tears and all, and holds on, and her own tears run down into Umaru's hair, and she doesn't let go for a long, long time.
+
+
 * * *
 
 “Then why didn't you ever *say*—” says Rem. ᴿᵉ

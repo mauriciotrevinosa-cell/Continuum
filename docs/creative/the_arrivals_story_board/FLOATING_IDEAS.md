@@ -521,3 +521,12 @@ Corrección de Mauri (mismo día); manda sobre lo anterior:
 - Maru tiene que balancear: primero no ayuda a Cross y luego termina ayudándolo, o al revés (sin decidir).
 - Semilla, sin escribir.
 - **Pendiente (Mauri):** "lo de maru suena mucho como un copout para yuka". Las dos semanas de Yuka en V84 tienen que seguir siendo suyas. Antes de usar esto, hay que revisarlo contra lo ya escrito y contra los personajes; si no encaja, se descarta o se cambia de ángulo (por ejemplo: Maru lo intentó y no le agarró, o Maru no tiene nada que ver con Yuka).
+
+## La sombra de Mau crece o se encoge; Chimera Shadow Garden sin barrera (Mauri, 24 nov 2026)
+
+> y recuerda mau puede hacer mas grande o chica su sombra entonces so quiere en un punto podemos usar el domain expansion de chimera garden hacerlo en un simple domain al estilo de lo que hizo megumi en los culling games contra regi
+
+- Mau puede agrandar o achicar su sombra (por ejemplo, para que entren varias a la vez).
+- Semilla: en algún momento, Chimera Shadow Garden en versión sin barrera, como Megumi contra Reggie en el Culling Game: la sombra se extiende por el suelo.
+- Por revisar antes de usarlo: en CANON_TRAPS, Chimera Shadow Garden aparece como Domain Expansion de Yuka (S7E34, S8E46). Falta confirmar si Mau también lo usa o si sería a través de ella.
+- A favor: sin barrera y sin sure hit no le rompe a Makima el cuerpo que sostiene Noise (ver "Dominios y Makima", 23 nov).

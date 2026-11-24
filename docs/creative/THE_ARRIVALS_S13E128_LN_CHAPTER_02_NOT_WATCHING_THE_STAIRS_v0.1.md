@@ -123,7 +123,7 @@ Umaru comes over and presses her nose to the oven door. Rem puts down the washin
 
 And Mau, with nothing to do for a moment but wait for the tray, looks at them.
 
-He's seen them together a thousand times. Every day. At meals, at the Fort, in the yard. Umaru dragging Rem into things. Rem following, sighing, smiling. He's never really *looked*.
+He's seen them together a thousand times. Every day. At meals, at the Fort, in the yard. Umaru dragging Rem into things. Rem following, sighing, smiling. They've been together a long time now; the whole house knows it, and has seen the kisses it pretends not to see. He's never really *looked*, though.
 
 He looks now.
 
@@ -139,9 +139,9 @@ And Umaru doesn't see it. Umaru is looking at the tray.
 
 Mau looks away.
 
-He doesn't say anything. It isn't his. But he remembers what Rem said, the day after Subaru came, with Mau sitting beside him. *I love Umaru. I'm happy.* Said to Subaru. Said in front of Mau. Never to her.
+He doesn't say anything. It isn't his. But he remembers what Rem said, the day after Subaru came, with Mau sitting beside him. *I love Umaru. I'm happy.* Said to Subaru. Said in front of Mau. Never to her. All this time together, and the three words never once said to Umaru herself.
 
-*She hasn't told her*, says Ciel quietly. ᶜ
+*She hasn't said it to her*, says Ciel quietly. *The words.* ᶜ
 
 *No.* ᴹ
 

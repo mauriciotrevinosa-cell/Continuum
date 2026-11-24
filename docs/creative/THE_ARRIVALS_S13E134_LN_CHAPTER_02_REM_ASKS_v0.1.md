@@ -59,7 +59,7 @@ She stops.
 
 She looks down at the cup.
 
-“Isn't that stupid?” she says. “I said it to him. To the one person in the world who least needed to hear it. And I've never once said it to her.” ᴿᵉ
+“Isn't that stupid?” she says. “We've been together for so long. She holds my hand under the table. We kiss on the porch when we think nobody's looking. And I said it to him, to the one person in the world who least needed to hear it, and I've never once said it to her.” ᴿᵉ
 
 * * *
 

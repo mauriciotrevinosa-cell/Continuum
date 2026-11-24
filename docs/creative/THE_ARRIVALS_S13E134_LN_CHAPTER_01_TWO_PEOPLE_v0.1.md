@@ -213,13 +213,13 @@ DIO's whole face lights up.
 
 “I'm not telling you.” ᴹ
 
-“Is it Umaru?” ᴰ
+“Is it Rem?” ᴰ
 
 He doesn't move a single muscle in his face.
 
 DIO looks at him for a long, long moment.
 
-“It's Umaru,” she says. “And Rem. It's Rem and Umaru. It's *obviously* Rem and Umaru. Rem looks at her like I look at the bird.” ᴰ
+“It's Rem,” she says. “Rem came and asked you how to say it. To Umaru. They've been together for ages, they kiss on the porch when they think nobody's looking, and Rem has *never said it*. That's it, isn't it? That's the third. Rem looks at her like I look at the bird and she's never once told her.” ᴰ
 
 “I didn't tell you that,” says Mau. ᴹ
 

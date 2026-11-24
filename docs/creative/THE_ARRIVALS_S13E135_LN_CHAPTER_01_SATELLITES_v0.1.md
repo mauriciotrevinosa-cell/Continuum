@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 33
 **Source episode:** S13E135
-**Continuity state:** B+456 night into B+457 ("31" → "30"). Rem's point of view. The Fort roof, a clear night. Umaru on her back on the blanket, pointing at stars she says might be satellites. Rem lies down beside her. She tells her, plainly: I love you. Umaru goes silent for the first time anyone can remember; then she sits up and asks, in a very small voice, whether Rem means it the big way; then she bursts into tears and says she's loved Rem since the first tournament and didn't say so because she was afraid Rem would think she owed her something, after Subaru. Neither of them was ever going to pull. They lie back down. Umaru points at a star and says that one's a satellite; Rem, for the first time, says, "Yes. I see it." In the morning Rem comes down to the kitchen before the sun and tells Mau. Umaru is already making a banner.
+**Continuity state:** B+456 night into B+457 ("31" → "30"). Rem's point of view. The Fort roof, a clear night. Umaru on her back on the blanket, pointing at stars she says might be satellites. Rem lies down beside her. She tells her, plainly: I love you. Umaru goes silent for the first time anyone can remember; then she sits up and says, in a very small voice, that Rem has never said it, not once in all their time together; then she bursts into tears and says it back: she has loved Rem since the first racing tournament and never said the words because she was afraid Rem would feel she owed her words in return, after Subaru. Neither of them was ever going to pull. They lie back down. Umaru points at a star and says that one's a satellite; Rem, for the first time, says, "Yes. I see it." In the morning Rem comes down to the kitchen before the sun and tells Mau. Umaru is already making a banner.
 
 *When: B+456. Night, clear. Not a cloud. Ciel was right.*
 
@@ -107,13 +107,13 @@ Slowly. She sits up on the blanket with her dressing gown falling off one should
 
 Her face is doing something Rem has never seen.
 
-“Do you mean,” says Umaru. Very small. Smaller than Rem has ever heard her voice. ᵁ
+“You said it,” says Umaru. Very small. Smaller than Rem has ever heard her voice. ᵁ
 
 She stops. She tries again.
 
-“Do you mean it the big way?” she says. “Not the—not the friend way. Not the Fort way. The big way. Like Yuka and Mau. Like—” ᵁ
+“You've never said it,” she says. “Not once. All this time. You hold my hand and you come up on the roof and you kiss me on the porch when nobody's looking, and you've never once *said* it.” ᵁ
 
-“The big way,” says Rem. ᴿᵉ
+“I'm saying it now,” says Rem. “I love you.” ᴿᵉ
 
 Umaru looks at her.
 
@@ -133,7 +133,7 @@ Rem doesn't know what to do. She reaches out, and stops, and reaches out again, 
 
 Umaru leans into it.
 
-“I've loved you,” she says, through her hands, “since the first *racing tournament* you played.” ᵁ
+“I love you too,” she says, through her hands. “I have since the first *racing tournament* you played.” ᵁ
 
 Rem goes very still.
 
@@ -145,7 +145,7 @@ She takes her hands away from her face. Her face is wet and red and completely u
 
 * * *
 
-“Then why didn't you—” says Rem. ᴿᵉ
+“Then why didn't you ever *say*—” says Rem. ᴿᵉ
 
 “Because of *him*,” says Umaru. ᵁ
 
@@ -155,11 +155,11 @@ She wipes her face on her dressing gown sleeve. It doesn't help.
 
 She stops.
 
-“I thought, if I say it,” she says, “if I tell her, then she'll think I want something. She'll think I'm doing it too. She'll think *oh, here's another one who thinks I owe them because of what I feel*. And she'll—she'll be kind about it, because Rem's always kind, but she'll be careful of me after. And I'd rather have you not careful of me. I'd rather have you on the roof not knowing than careful of me knowing.” ᵁ
+“I thought, if I say it,” she says, “the big words, out loud, then she'll think I want something back. She'll think I'm doing it too. She'll think *oh, here's another one who thinks I owe them words because of what I feel*. And she'll say it back because she's kind, not because she's ready. And I'd rather have you not say it than say it because I made you.” ᵁ
 
 She looks down at Rem's hand, which is still on her back.
 
-“So I didn't say,” says Umaru. “I just kept dragging you into things. Because I wanted you there. And I thought, if I just keep asking her to come, and never ask for anything else, maybe that's enough. Maybe that's all I'll ever get, and it's enough.” ᵁ
+“So I didn't say,” says Umaru. “I just kept dragging you into things. And holding your hand. And kissing you on the porch. Because I wanted you there. And I thought, if I never ask for the words, maybe she'll say them one day on her own. And if she never does, that's all right. What I've got is enough.” ᵁ
 
 * * *
 
@@ -169,7 +169,7 @@ She sits on the blanket on the roof of the Fort under all the stars in the world
 
 All this time.
 
-Both of them. Lying here, night after night, side by side, looking at stars that weren't satellites. Both of them holding the same thing. Both of them afraid to put it in the other's hands, for the same reason, because of the same man.
+Both of them. Together all this time, lying here night after night, side by side, looking at stars that weren't satellites. Both of them holding the same three words. Both of them afraid to put them in the other's hands, for the same reason, because of the same man.
 
 Neither of them was ever going to pull.
 

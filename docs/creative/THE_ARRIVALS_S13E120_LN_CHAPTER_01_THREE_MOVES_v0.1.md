@@ -131,7 +131,7 @@ The sky above the basin has gone dark in one place.
 
 Something comes down out of it.
 
-It's the dragon. The one that lies in the orchard and lets the child climb on it. She's seen it there, curled under the trees like a cat, with a little girl in an explorer's jacket asleep against its side. It is not curled now. It comes out of the high air with its wings back and its jaws open, and it doesn't even land. It passes over the basin once, low and fast, and breathes.
+It's the dragon. The one that lies in the orchard and lets the child climb on it. She's seen it there, lying along the bottom of the orchard like a range of low hills, with a little girl in an explorer's jacket asleep in the crook of one foreleg. It is not curled now. It comes out of the high air with its wings back and its jaws open, and it doesn't even land. It passes over the basin once, low and fast, and breathes.
 
 The fire doesn't miss.
 

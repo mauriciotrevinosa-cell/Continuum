@@ -11,7 +11,7 @@
 
 Kamish is lying under his tree when they come.
 
-He always lies there in the afternoons. It's the big old pear at the bottom of the orchard, the one with the low wide branches, and Kamish curls round the foot of it like a cat round a stove, with his tail across the grass and his great head resting on his forelegs and his eyes half shut. Most of the house has stopped noticing him there. You walk round a dragon the way you'd walk round a hedge.
+He always lies there in the afternoons. Not under it; nothing that size could be under anything. Kamish lies along the whole bottom of the orchard and out over the wall into the field beyond, longer than the house, a ridge of dark scales with the grass grown up against it, and the big old pear with the low wide branches is where he puts his head. His jaw rests on the grass beside its trunk. The tree barely comes up to his brow. His eyes, each one as big as a cartwheel, are half shut. His tail is somewhere out past the far hedge. Most of the house has stopped noticing him there. You walk round a dragon the way you'd walk round a hill.
 
 Ori hasn't stopped noticing.
 
@@ -43,9 +43,11 @@ Something goes through the dragon. Mau feels it the way he feels all of them, th
 
 The eye blinks. Slowly.
 
+“*I know*,” says Kamish. His voice comes up out of the ground under them more than out of his mouth; it always has. ᴷ
+
 “In the basin,” says Mau. “The fire. You came down out of the sky and you didn't even land. You didn't miss one. You were very, very good.” ᴹ
 
-Kamish lets out a breath. A long one, through his nose, warm, that ruffles the grass all the way to the tree trunk and lifts Ori's hat brim. It sounds exactly like a cat purring, if a cat were the size of a barn.
+Kamish lets out a breath. A long one, through his nose, warm, that ruffles the grass all the way to the tree trunk and lifts Ori's hat brim. It sounds exactly like a cat purring, if a cat were the size of a hill.
 
 Ori has stopped telling him to sit. She's watching.
 
@@ -235,7 +237,7 @@ None of them see it happen. They're lying on the grass under the pear tree, the 
 
 When Ori sits up and looks round, Kamish is sitting.
 
-Upright. Tail round his feet. Exactly like the little carved dragon. Looking down at the three of them from his full height with an expression of profound and patient dignity.
+Upright. Tail round his feet. Exactly like the little carved dragon. Taller than the house; taller than the old pear by three times; his head up where the birds are, blotting out half the evening, his shadow falling over the whole orchard. Looking down at the three of them from that enormous height with an expression of profound and patient dignity.
 
 Ori stares at him.
 
@@ -249,6 +251,8 @@ Mau believes her. He felt it. Down the line, warm and pleased and very slightly 
 
 *You did that on purpose*, he tells Kamish. ᴹ
 
-The eye opens. Looks at him. Closes.
+The eye opens. Looks at him.
 
-He takes that as a yes.
+“*She asked forty times*,” says Kamish. “*It seemed rude not to.*” ᴷ
+
+The eye closes.

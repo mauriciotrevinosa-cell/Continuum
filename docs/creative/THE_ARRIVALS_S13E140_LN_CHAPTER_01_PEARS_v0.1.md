@@ -65,7 +65,7 @@ Ori asks him to. She goes and stands in front of his nose with her map and expla
 
 Then he stands up.
 
-He's enormous when he stands up. People forget. He unfolds from round the foot of the tree like a hill getting to its feet, and everyone in the orchard stops and looks up, and he reaches up, very slowly, with one great clawed forefoot, and hooks the top of the highest branch, and bends it down.
+He's enormous when he stands up. People forget, because he spends most of his life lying down. He gets up out of the field like a hill getting to its feet, and his shadow goes over the whole orchard at once, and everyone in it stops and looks up. He doesn't need to reach. He tips his head down the way you'd look at something small on a table, and lifts one forefoot, and hooks the top of the old pear tree's highest branch with the very tip of a single claw, and bends it down.
 
 Gently. So gently. The way you'd bend down a branch for a child. The leaves barely shake. Not one pear falls.
 

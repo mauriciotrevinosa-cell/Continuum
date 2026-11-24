@@ -45,7 +45,7 @@ Mau sits down on the step below them.
 
 Frieren doesn't say it straight away.
 
-She drinks her tea. She watches the yard. The training posts going dark. The orchard going dark. Kamish under his pear tree, a long shape against a longer shadow. The lamps coming on in the kitchen window behind them.
+She drinks her tea. She watches the yard. The training posts going dark. The orchard going dark. Kamish along the bottom of the orchard with his head at the old pear, a long dark ridge longer than the house. The lamps coming on in the kitchen window behind them.
 
 “I said something to Mau,” she says at last. “On the day before the quarry. The Day Between. When he was about to go and fight Dabura, and Yuka was in the orchard with Cross, and everything was wrong.” ᶠ
 

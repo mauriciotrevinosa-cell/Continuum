@@ -133,7 +133,7 @@ Then she looks at that. Then she crosses it out too, and writes, very small:
 
 They camp under the trees.
 
-Mau takes the tent out of the shadow and puts it up, with Ori giving instructions and Beru holding the ropes, both ropes, in case one rope. Yuka gathers wood. Kamish comes down out of the sky at dusk and curls round the outside of the camp like a wall, very carefully, so as not to squash anything, and puts his head down on his forelegs and closes his eyes.
+Mau takes the tent out of the shadow and puts it up, with Ori giving instructions and Beru holding the ropes, both ropes, in case one rope. Yuka gathers wood. Kamish comes down out of the sky at dusk and lies down along the far side of the meadow, and the meadow is suddenly much smaller. His body runs the whole length of it, a long dark ridge between the pear trees and the night, with his tail curled round the far end very carefully so as not to flatten anything. He puts his head down by the stream and closes his eyes.
 
 Mau lights the fire with a small spell. The first one Frieren ever taught him that wasn't flowers.
 

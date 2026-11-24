@@ -5,29 +5,31 @@
 **Volume:** 84
 **Reading order:** 32
 **Source episode:** S13E133
-**Continuity state:** B+454 ("33"). The witches' first visit inside. All seven arrive at once, at tea time, through the doors Noise built. Noise hosts. It goes about as well as everyone expected: Pride wants a game; Daphne wants to know where the food is (there is none; there is only the cup, and the cup is always warm); Minerva is angry about the chairs; Echidna asks Noise what he is; Sekhmet finds the bed in her room and is not seen again; Carmilla sits in the corner and Noise doesn't notice her until she speaks. Ciel, still offended, refuses to help at first and then can't bear it and helps. DIO arrives late with her plant and is jealous for exactly four minutes. Satella sits at the table among her sisters and drinks from the cup. Noise, at the end, says it was the best day he's had. Mau, outside, can barely walk straight from the noise in his head, and is happy.
+**Continuity state:** B+454 ("33"). The witches' first visit inside. All seven arrive at tea time the way DIO does: they step into Mau's shadow on the porch and he connects their way in, body and all (only Makima, a construction Noise holds, has to stay near; the witches are real, so they can go in), through the doors Noise built. Noise hosts. It goes about as well as everyone expected: Pride wants a game; Daphne wants to know where the food is (there is none; there is only the cup, and the cup is always warm); Minerva is angry about the chairs; Echidna asks Noise what he is; Sekhmet finds the bed in her room and is not seen again; Carmilla sits in the corner and Noise doesn't notice her until she speaks. Ciel, still offended, refuses to help at first and then can't bear it and helps. DIO arrives late with her plant and is jealous for exactly four minutes. Satella sits at the table among her sisters and drinks from the cup. Noise, at the end, says it was the best day he's had. Mau, outside, can barely walk straight from the noise in his head, and is happy.
 
 *When: B+454. "33." Under it, in Ori's hand: "MAU HAS A HEADACHE (GOOD KIND)".*
 
 They come at tea time.
 
-All of them. All at once. Mau is sitting on the porch with Yuka, not doing anything, when he feels it: seven small doors opening inside him, one after another along the new corridor, like a row of lamps being lit.
+All of them. All at once. Mau is sitting on the porch with Yuka, not doing anything, when they come across the yard from the north wing in a line, Echidna at the front, Minerva at the back carrying Sekhmet.
+
+They stop at the bottom of the porch steps. His shadow lies down them in the low sun.
+
+“May we?” says Echidna. ᴱᶜ
+
+“Go on,” he says. ᴹ
+
+Echidna steps into his shadow and is gone. Then Pride, with a little jump, the way you'd jump into a pool. Daphne, still chewing. Satella, carefully. Carmilla, so quietly Yuka nearly misses it. Minerva last, with Sekhmet asleep over her shoulder.
+
+It's the same as DIO. They're real; they go in all the way, body and all, and he opens the way for them through the shadows and connects them to the doors on the other side. Not like Makima, whose body is a construction Noise holds out here and who has to stay close. The witches can go in whole.
+
+He feels them arrive: seven small doors opening inside him, one after another along the new corridor, like a row of lamps being lit.
 
 He goes very still.
 
-Yuka looks at him.
+Yuka looks at the empty steps. Then at him.
 
-“They're here,” he says. ᴹ
-
-“Who?” ʸ
-
-“All of them.” ᴹ
-
-Yuka looks across the yard at the north wing. The step is empty. The witches' tea table, on the terrace outside their rooms, is laid, with seven cups. Nobody's sitting at it.
-
-The seven of them are sitting on their beds in their rooms in the north wing, with their eyes closed, very still. Going inside.
-
-Yuka looks back at him.
+“They're in,” he says. ᴹ
 
 “How does it feel?” she says. ʸ
 
@@ -243,13 +245,13 @@ She picks up the cup. She looks into it.
 
 She drinks.
 
-He doesn't know what it tastes like for her. He'll never ask. But he sees her face, after, and he sees Echidna see it too, from across the table, and Echidna puts her hand over Satella's for just a moment, and takes it away, and goes back to asking Noise about the walls.
+He doesn't know what it tastes like for her. He'll never ask. But he sees her face, after, and he sees Echidna see it too, from across the table, and Echidna puts her hand over Satella's for just a moment, and takes it away, and goes back to asking Noise about the room.
 
 * * *
 
 They leave at dusk.
 
-All seven doors closing, one after another, along the new corridor. Except Sekhmet's, which has been closed since the beginning and from behind which comes slow, deep, happy breathing.
+All seven doors closing, one after another, along the new corridor, and then the witches stepping back up out of his shadow onto the porch, one at a time, blinking at the evening. Six of them. Sekhmet's door has been closed since the beginning, and from behind it comes slow, deep, happy breathing. Minerva looks at Mau. He says he'll bring her out when she wakes up.
 
 Noise stands in the corridor after they've gone.
 

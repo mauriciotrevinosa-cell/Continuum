@@ -606,3 +606,10 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 > esa en si es la unica wall
 
 - En el cuarto de adentro no se ubica a nadie "junto a la pared": la gente está en la mesa, en su silla o en su cuarto.
+
+## Cómo entran las brujas en Mau (Mauri, 24 nov 2026)
+
+> mmmm no lo hacen como dio entran a mau literalmente y como ashbornla diferencia a makima makima tiene que estar cerca pq es una construccion en cambio dio y las otras son reales entonces ellas se pueden meter pq mau conecta su entrada las sombras
+
+- Las brujas entran como DIO (y como Ashborn): de cuerpo entero, por la sombra de Mau, y él conecta su entrada. No se quedan dormidas en sus cuartos mientras "van adentro".
+- Makima es la excepción: su cuerpo es una construcción que sostiene Noise, por eso tiene que estar cerca.

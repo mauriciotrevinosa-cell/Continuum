@@ -506,4 +506,17 @@ Contexto: Mauri leyó la técnica de Maru (Harmony y Chaos, JJK Modulo) y dice q
 > osea que tal ves maru en la otra vida vio a cross feliz a su modo con yuka entonces pudo ser el que medio forzo a yuka de una amnera a acercarse a cross y corss siendo cross empujo botones y por eso yuka andaba como perro rabioso entonces cuando ve el pushback de yuka el es el que actua como el innocente pq sabe que su hermano es el terco y a el lo venc omo el calmado entonces ve que amenazan a su hermano puede no decir nada por el fin de convivencia pero cuando cross busque su venganza maru tendra que balancear y primero ayudara a su hermano o al reves al principio decide no ayudarlo y luego termina ayudandolo y aqui podemos meter a los otros a yuki y a las naciones
 
 - Que Cross llegara aquí después del disparo NO es Harmony: es el mismo mecanismo con el que Gojo regresó después de morir en Shinjuku.
-- Semilla, sin escribir. Faltan por decidir: el orden de Maru (ayuda primero o se niega primero), el papel de Yuki y de las naciones, y si Mau o Yuka llegan a saber lo que hizo Maru en la otra vida.
+
+Corrección de Mauri (mismo día); manda sobre lo anterior:
+
+> olvidate de su pasado mau le quito a yuka simple y en la cabeza retorcida de cross de que todo lo ve mal por ejemplo paz con los humanos .
+
+> nonon las naciones son las que hicieron la guerra en un punto y aqui pueden presionar que mau delego con los extraterrestres y cross con yuki de tensura pueden yuki amnipular a cross sin que se de cuenta a que venda la idea que la persona con la rueda anda creando guerras con extraterrestres y asi yyyyyyy en modulo no lo tocaria dejaria que naturalmente corss y yuka se hicieron amigos solo que maru vio que se llevan bien y aqui en este mundo maru vio a yuka con alguien mas y aqui uso su poder en yuka y de ahi nace pq yuka nunca piensa que lo que esta haciendo mal o se pelea con su fam cuando les dice como lo vieron
+
+- Motivo de Cross: simple. Mau le quitó a Yuka, y su cabeza torcida ve todo mal (por ejemplo, la paz con los humanos).
+- En Modulo NO se toca nada: Cross y Yuka se hicieron amigos de forma natural; Maru solo vio que se llevaban bien.
+- En ESTE mundo Maru vio a Yuka con alguien más (Mau) y usó su técnica en Yuka. De ahí que Yuka nunca pensara que hacía algo mal y se peleara con su familia cuando le decían cómo lo veían.
+- Las naciones (las que hicieron la guerra en algún punto) presionan porque Mau negoció con los extraterrestres.
+- Yuki (Yuuki Kagurazaka, Tensura) manipula a Cross sin que Cross se dé cuenta, para que venda la idea de que "la persona con la rueda" está creando guerras con los extraterrestres.
+- Maru tiene que balancear: primero no ayuda a Cross y luego termina ayudándolo, o al revés (sin decidir).
+- Semilla, sin escribir.

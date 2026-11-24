@@ -125,7 +125,7 @@ Another silence.
 
 *You'll work it out*, says Mau. ᴹ
 
-*I don't know how to entertain*, says Noise. *I stand by walls.* ᴺ
+*I don't know how to entertain*, says Noise. *I stood by a wall for longer than anyone knows. I've only just learned to sit at the table.* ᴺ
 
 *You did all right with DIO and Ciel*, says Mau. ᴹ
 
@@ -165,7 +165,7 @@ He shows Noise.
 
 Through his eyes. All seven faces.
 
-Inside, Noise stops walking toward his wall.
+Inside, Noise stops halfway out of his chair.
 
 *They're lying*, says Noise. ᴺ
 

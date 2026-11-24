@@ -594,3 +594,9 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 > entonces no lo hagas sonar que nada mas las ven de ves en cuando o solo en la meeting son del fort para el fort y con la casa
 
 - Las brujas comen en la mesa familiar como todos; nunca escribir que comen aparte o que solo se les ve en el té o en las juntas.
+
+## Noise ya no está en la pared (Mauri, 24 nov 2026)
+
+> pq noise sigue diciendo que stand in walls
+
+- Desde *Only Technical* (V84 #13), Noise se sienta a la mesa del cuarto de adentro, en su silla, junto a Mau. Lo de "por la pared" es pasado; no escribirlo en presente.

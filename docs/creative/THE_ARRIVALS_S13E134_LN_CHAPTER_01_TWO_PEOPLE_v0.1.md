@@ -71,7 +71,7 @@ DIO doesn't look at him. She keeps her eyes on Mau. Her face is doing the thing 
 
 “I always thought,” she says, “that what I felt for Noise was that. The other kind. From the beginning. I said so. I asked him if he wanted to be my husband. More than once. I *meant* it.” ᴰ
 
-Noise has gone completely still by the wall where he went to pick up the spoon.
+Noise has gone completely still in his chair, halfway through picking up the spoon.
 
 “And now,” says DIO, “I don't know. Because I don't feel about Noise the way I feel in Elmesia's garden. And I don't know which one's wrong.” ᴰ
 
@@ -103,7 +103,7 @@ He waits.
 
 DIO doesn't say anything for a long time.
 
-Behind Mau, by the wall, Noise hasn't moved. Mau can feel him listening. Can feel something go through him that's very complicated and, underneath it all, very relieved.
+Beside Mau, at the table, Noise hasn't moved. Mau can feel him listening. Can feel something go through him that's very complicated and, underneath it all, very relieved.
 
 “And Elmesia,” says DIO at last. Very quietly. ᴰ
 
@@ -129,7 +129,7 @@ He holds up two fingers.
 
 * * *
 
-Behind him, by the wall, Noise makes a noise.
+Beside him, at the table, Noise makes a noise.
 
 At the end of the table, Ciel makes a noise too. A pointed one. Sharper than Noise's.
 
@@ -245,7 +245,7 @@ Then she turns to go back to her room. At the door, she stops.
 
 “Noise,” she says, without turning round. ᴰ
 
-By the wall, Noise goes still.
+At the table, Noise goes still.
 
 “I'm sorry,” says DIO. “For asking you all those times. If you wanted to be my husband. I think I was asking the wrong question.” ᴰ
 
@@ -261,7 +261,7 @@ DIO nods again.
 
 She goes into her room with her notebook and closes the door. Not precisely. Just closed.
 
-Noise stands by the wall.
+Noise sits at the table with his hands round the cup.
 
 *Are you all right?* says Mau. ᴹ
 

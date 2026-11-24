@@ -185,7 +185,7 @@ That's the decision. Mau makes it with Ciel that night, at the table inside. Nob
 
 But everyone who needs to know, knows.
 
-Yuka. Maru. Makima. Ciel. Noise, who heard all of it and said nothing and moved, very slightly, closer to the wall that faces the yard.
+Yuka. Maru. Makima. Ciel. Noise, who heard all of it and said nothing and pulled his chair, very slightly, closer to Mau's.
 
 Everyone watches.
 

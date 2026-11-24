@@ -89,7 +89,7 @@ Mau doesn't move.
 
 The inner room is completely silent.
 
-Ciel has gone very still. Noise, by the wall, has stopped being an outline and become something solider and darker, the way he does when he's about to stand in front of something.
+Ciel has gone very still. Noise, in his chair at the table, has stopped being an outline and become something solider and darker, the way he does when he's about to stand in front of something.
 
 “He compared me,” says Mau, very quietly, “to her cancer.” ᴹ
 

@@ -217,7 +217,7 @@ It lasts about four minutes.
 
 He counts.
 
-For four minutes, DIO stands in the corridor with her notebook and her chin up and a face like a thundercloud, watching Pride play the spoon game with Ciel and Echidna ask Noise about the walls.
+For four minutes, DIO stands in the corridor with her notebook and her chin up and a face like a thundercloud, watching Pride play the spoon game with Ciel and Echidna ask Noise about the room.
 
 Then Satella, at the end of the table, looks up and sees her.
 

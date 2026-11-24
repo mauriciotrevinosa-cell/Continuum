@@ -520,3 +520,4 @@ Corrección de Mauri (mismo día); manda sobre lo anterior:
 - Yuki (Yuuki Kagurazaka, Tensura) manipula a Cross sin que Cross se dé cuenta, para que venda la idea de que "la persona con la rueda" está creando guerras con los extraterrestres.
 - Maru tiene que balancear: primero no ayuda a Cross y luego termina ayudándolo, o al revés (sin decidir).
 - Semilla, sin escribir.
+- **Pendiente (Mauri):** "lo de maru suena mucho como un copout para yuka". Las dos semanas de Yuka en V84 tienen que seguir siendo suyas. Antes de usar esto, hay que revisarlo contra lo ya escrito y contra los personajes; si no encaja, se descarta o se cambia de ángulo (por ejemplo: Maru lo intentó y no le agarró, o Maru no tiene nada que ver con Yuka).

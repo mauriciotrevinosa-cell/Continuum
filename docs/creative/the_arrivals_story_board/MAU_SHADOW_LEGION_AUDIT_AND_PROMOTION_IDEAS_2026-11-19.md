@@ -29,7 +29,7 @@ El **total actual de ficción es mayor** por el crecimiento normal fuera de cám
 | Grupo/candidato | Hecho documentado | Por investigar / propuesta, NO hecho nuevo |
 |---|---|---|
 | **Bellion, Igris, Beru** | Generales con voces, mando, personalidad y trayectoria. Bellion coordina refuerzos; Igris tácticas; Beru combate, cura y convive. | Evolución escalonada, mandos delegados sin que Mau se vuelva narrador de todo el frente. |
-| **Tusk** | Chamán orco que **habla** y usa fuego azul/efectos de apoyo; V30 piso 60. | Especialización mágica y soporte, sin regalarle hechizos sin ensayo. |
+| **Tusk** | Chamán orco que usa fuego azul/efectos de apoyo; V30 piso 60. **Como sombra NO habla** (corrección de Mauri, 24 nov 2026: «Tusk no habla, es un error»). | Especialización mágica y soporte, sin regalarle hechizos sin ensayo. |
 | **Kamish** | Dragón enorme que **habla**, pelea y tiene alas; V30 piso 70. | Extender presencia social con límites de escala y autonomía; estudiar vuelo específico si se requiere una hazaña. |
 | **Kaisel** | Wyvern no verbal de montura con **vuelo demostrado**, incluida la ruta con Yuka. | Transporte y rescate; no conceder voz sin evolución. |
 | **Lantern** | Primer dragón de Red Gate, **no verbal**, alas descritas; Ori lo nombró y puede llamarlo con consentimiento mientras el vínculo sigue en Mau. | **Vuelo es físicamente plausible por alas y condición de dragón, pero NO localizado como hazaña probada en los capítulos revisados**. Separar *podría volar* de *ya voló*. Probar despegue, carga, maniobra y aterrizaje por separado antes de asumir montura o vuelo ilimitado. |
@@ -50,8 +50,8 @@ El **total actual de ficción es mayor** por el crecimiento normal fuera de cám
 **Aclaración creador posterior (19 nov): los DOS dragones de V43 SÍ son adquisiciones.** Mau los mató junto a su equipo en el combate de las dos calamidades, y en ese dungeon **levanta todo lo que mata**, incluyendo ambos grandes cuerpos. El capítulo *Let Him Turn* conserva una línea antigua donde se niega a levantarlos: **no rige el canon actual**, es una contradicción editorial por corregir en la prosa y los contadores antiguos. Esto establece **seis dragones capturados identificables como mínimo**: Lantern, Kaisel, Kamish, los dos de V43 y el dragón constructo del Arquitecto V71 (el que le abrió el abdomen; levantado durante su recuperación). Los dos nuevos dragones de V43 son **distintos y no tienen nombres confirmados**. No asumir que cualquier dragón muerto en otras gates se registró salvo que la regla de recolección y las fuentes lo respalden.
 
 **Voces:**
-- Confirmadas en escenas: **Bellion, Igris, Beru, Tusk, Kamish**. La regla diegética admite voz en sombras capaces de hablar, pero NO significa que toda sombra humanoide ya lo haga.
-- No verbales probadas en momentos clave: **Lantern, Kaisel, Tank, Pillow**.
+- Confirmadas en escenas: **Bellion, Igris, Beru, Kamish**. (Tusk se listaba aquí por error; como sombra no habla, Mauri 24 nov 2026.) La regla diegética admite voz en sombras capaces de hablar, pero NO significa que toda sombra humanoide ya lo haga.
+- No verbales probadas en momentos clave: **Lantern, Kaisel, Tank, Pillow, Tusk**.
 - **Pendientes de verificación o desarrollo:** Rime(s), Monarcas reales recién extraídos, Rampart, Muster, estatuas, Roof, Corner, Cairn, Reed, Skein, Fang, otros dragones, centinela y unidades especiales ordinarias. Escoger voz por inteligencia, rango, progresión y escena, nunca porque haga falta diálogo cómodo.
 
 **Nota de separación:** Ashborn real es huésped voluntario que desea privacidad (en el Inn o en Mau), no es sombra comandada ni comodín para el ejército. DIO, Ciel, Noise y shikigamis nativos de Mau/Yuka tampoco se suman a Arise. No mezclar la legión de Jin-Woo con la de Mau.

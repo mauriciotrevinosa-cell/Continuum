@@ -435,7 +435,7 @@ not on this list. Add a line every time the creator catches a new slip.
 ## DH-124 tower traps (2026-10-18)
 
 - **Companions may assist, never carry.** Mau finishes every guardian from 10 on. Before the north road (Day 328) the companions led floors 1–9; that is intended.
-- **There is no Warden.** Floor 60 is **Tusk** (speaking caster, "Great one"). The 101 statue for 60 holds a skull-staff, not keys.
+- **There is no Warden.** Floor 60 is **Tusk** (orc caster; as the floor's guardian he spoke, "Great one"). **As Mau's shadow, Tusk does not speak** (Mauri, 24 nov 2026). The 101 statue for 60 holds a skull-staff, not keys.
 - **Kamish was fought ALONE** (party size 1, set by the Architect; he admits it at 101). Gojo, Frieren and Yuta were ejected. Mau used the **True Dragon scale** (a pressure-body round him, from the containment's memory of Rimuru's cave) for forty seconds on Ciel's count; it nearly killed him. Kamish was raised before anyone returned. Kamish calls Frieren "the elf" who stood beside him, not "the one who went through the inside".
 - **Legion:** soldier-rank shadows take no named places (floor 80 change). 100 raised of 212. Ninety-eight after 101.
 - **Floor 100 is a Ruler copy guarding the garden.** Not extractable. The **Ruler's Authority** fragment is rough and unused, distinct from Momo's psychokinesis and from the Noise's patterns. Don't use it casually in S6 without cost.
@@ -450,7 +450,7 @@ not on this list. Add a line every time the creator catches a new slip.
 - **Beru was killed with Sukuna's shrine (arm's-length) and Fuga**, then raised blind in the smoke; he caught Mau. Igris did NOT cut its throat (old draft).
 - **Aftermath must be felt (creator, 2026-10-19):** after any severe injury, the following days show the body and the house reacting (sling, wrappings, someone cutting his bread or holding his cup, Shoko's "not fine, but go"). Never "nothing happened" the next day. Fixed: Tank→Day 354 (sling), Beru→Days 362–368 (wrapped hands, cup held by Touka, the house watching him, new skin tearing on Kaisel), spear at 80→Day 386 (stitched side, Shoko "two floors", Maki).
 
-- **Shadows peeking (creator, 2026-10-20):** from floor 50 (V30 "So It Can Keep Flying") the speaking shadows (Beru, Igris, Kamish, Bellion, Tusk) can look out of Mau's shadow and talk without being called. They cannot come out unless he calls. Beru insists he is "the strongest".
+- **Shadows peeking (creator, 2026-10-20):** from floor 50 (V30 "So It Can Keep Flying") the speaking shadows (Beru, Igris, Kamish, Bellion; **not Tusk**, Mauri 24 nov 2026) can look out of Mau's shadow and talk without being called. They cannot come out unless he calls. Beru insists he is "the strongest".
 
 ## Ciel at the reopened Kamish threshold — DH-132
 

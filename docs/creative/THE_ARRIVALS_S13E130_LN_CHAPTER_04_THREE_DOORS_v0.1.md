@@ -157,7 +157,37 @@ He isn't the only one.
 
 “Can I go in?” says Milim, bouncing. ᴹⁱ
 
-“*No*,” says Rimuru, Mau, Frieren and Shoko, all at once. ᴿ
+“*No*—” says Rimuru, out of pure habit. ᴿ
+
+Mau looks at the board again. *Reads who comes in. Never harder than they can finish.* He turns it over in his head. Then he looks at Milim, bouncing on her toes in front of the third door with her whole face lit up, the way it's been lit up at every door in this house that everybody else got to go through first.
+
+“It adapts,” he says. “To whoever goes in. It'll read her and become something she can fight. That's the point of it.” ᴹ
+
+Rimuru opens his mouth. Closes it.
+
+Milim has stopped bouncing. She's staring at Mau.
+
+“So I *can*,” she says. ᴹⁱ
+
+“You can,” says Mau. ᴹ
+
+Milim lets out a sound that makes Kamish, at the bottom of the orchard, lift his head.
+
+Then she points at Mau. Straight at him. With her whole arm.
+
+“And *you*,” she says, “are coming with me.” ᴹⁱ
+
+Mau looks at her finger.
+
+“Am I?” ᴹ
+
+“You are,” says Milim. “I've watched you go in every Thursday for a *year*. I've watched you go in with Yuka. I've watched Gojo get to fight you in a field. You're coming in with me, and we're going to break it, and then it's going to refresh, and we're going to break it *again*.” ᴹⁱ
+
+Mau looks at Rimuru. Rimuru looks at the sky.
+
+“Okay,” says Mau. ᴹ
+
+Milim screams.
 
 “Dabura wants a turn,” says Maru, from the back. “He hasn't said so. But he's looking at it the way he looked at the pears.” ᴹᵃʳᵘ
 
@@ -185,7 +215,7 @@ Gojo opens his mouth.
 
 She takes a pencil from behind her ear and the notebook from Rimuru's hands, without asking, and turns to a fresh page.
 
-“Gojo,” she says, writing. “Solo. Tomorrow. Jin-Woo, the day after. Maki and Yuta, the day after that. Dabura after them, but never on the day of the house run on the left door. Anyone else, you ask me.” ˢʰᵘ
+“Gojo,” she says, writing. “Solo. Tomorrow. Jin-Woo, the day after. Maki and Yuta, the day after that. Dabura after them, but never on the day of the house run on the left door. Then Milim, *with Mau*, since he's apparently been volunteered. Anyone else, you ask me.” ˢʰᵘ
 
 “*Tomorrow*?” says Gojo. ᴳ
 

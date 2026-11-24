@@ -603,3 +603,6 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 
 - Noise nunca tuvo "su pared": antes era la silueta de pie junto a la mesa; desde *Only Technical* (V84 #13) se sienta en su silla junto a Mau.
 - La única pared que existe es la que creó Ciel para contener el flood que Makima controla, para que no vuelva a romper el dam.
+> esa en si es la unica wall
+
+- En el cuarto de adentro no se ubica a nadie "junto a la pared": la gente está en la mesa, en su silla o en su cuarto.

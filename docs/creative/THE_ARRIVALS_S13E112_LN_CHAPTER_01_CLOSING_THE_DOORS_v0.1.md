@@ -15,7 +15,7 @@ Not the bedroom. He's already left that. He got up so carefully she didn't stir,
 
 They're all there.
 
-Noise by the table, the shadow of it, very still. Ciel in her chair. DIO at the window end, without her hat, which means she's worried. Makima in her chair by the far wall, upright, hands folded, watching him come in.
+Noise by the table, the shadow of it, very still. Ciel in her chair. DIO at the window end, without her hat, which means she's worried. Makima in her chair at the far end of the table, upright, hands folded, watching him come in.
 
 Nobody says anything.
 
@@ -145,7 +145,7 @@ He looks at them.
 
 At Noise, the shadow of the first thing he ever built without knowing he was building it. At Ciel, who has been with him longer than he can remember. At DIO, standing at the end of the table with her hands pressed together, not crying, trying not to.
 
-At Makima, in her chair by the wall, who hasn't said anything, and who is watching him with the eyes of the best strategist her world ever had, seeing every piece on the board.
+At Makima, in her chair at the far end, who hasn't said anything, and who is watching him with the eyes of the best strategist her world ever had, seeing every piece on the board.
 
 “Okay,” he says. ᴹ
 
@@ -175,7 +175,7 @@ She closes it.
 
 “Understood,” she says, after a long time. The crisp voice. The number voice. But he can hear what's under it, and he doesn't let himself listen. ᶜ
 
-He turns to the far wall.
+He turns to the far end of the table.
 
 “Makima,” he says. ᴹ
 

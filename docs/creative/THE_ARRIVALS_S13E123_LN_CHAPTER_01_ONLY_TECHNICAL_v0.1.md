@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 9
 **Source episode:** S13E123
-**Continuity state:** B+437 night ("50"). The clinic bed again, by his own request. Mau goes into the inner room and sits at the table with Ciel, Noise and DIO; Makima comes and stands by the wall. He apologises properly, all of it. Noise: "You didn't close us when we asked." Mau: no, but he asked them for technical reports only, as if they were instruments; that was wrong, his biggest mistake of the week, and he'll make it up to them. Ciel says what it was like to report his heart rate to Rimuru while he wouldn't speak to her. DIO, who withdrew inside, is still hurt and says he owes her something. Then Mau reopens Mai's personal line and, before he sleeps, writes her a letter: it wasn't that he thought she wouldn't respect his space; once he began to see the contracts and the lines that join them, he could feel every one of them pulling, and he couldn't think, and he had to put everything down. He leaves the letter for Shoko to take to the workshop in the morning.
+**Continuity state:** B+437 night ("50"). The clinic bed again, by his own request. Mau goes into the inner room and sits at the table with Ciel, Noise and DIO; Makima comes and stands at the far end of the table. He apologises properly, all of it. Noise: "You didn't close us when we asked." Mau: no, but he asked them for technical reports only, as if they were instruments; that was wrong, his biggest mistake of the week, and he'll make it up to them. Ciel says what it was like to report his heart rate to Rimuru while he wouldn't speak to her. DIO, who withdrew inside, is still hurt and says he owes her something. Then Mau reopens Mai's personal line and, before he sleeps, writes her a letter: it wasn't that he thought she wouldn't respect his space; once he began to see the contracts and the lines that join them, he could feel every one of them pulling, and he couldn't think, and he had to put everything down. He leaves the letter for Shoko to take to the workshop in the morning.
 
 *When: B+437, night. Shoko left the lamp on low and her own door open a hand's width.*
 
@@ -23,7 +23,7 @@ Noise is sitting beside her, turning the warm cup in his hands. When he sees Mau
 
 DIO is in the corridor mouth, leaning against the frame with her arms crossed. She has her back half turned to the room. She's looking at a little notebook in her hand. Mau recognises the one she keeps the watering dates in.
 
-Makima is at the far wall. She came in a moment before him. She doesn't sit. She stands with her hands behind her back like a guest at a gathering she wasn't sure she'd been invited to.
+Makima is standing at the far end of the table, behind her chair. She came in a moment before him. She doesn't sit. She stands with her hands behind her back like a guest at a gathering she wasn't sure she'd been invited to.
 
 Nobody speaks.
 
@@ -101,7 +101,7 @@ Ciel has stopped, though she still has more to say. He leaves the space after he
 
 “I thought, *he's trusting Makima with three seconds*,” says Ciel, “*and he won't trust me with one sentence that isn't a number.*” ᶜ
 
-By the far wall, Makima goes very still.
+At the far end of the table, Makima goes very still.
 
 Mau puts his hands over his face.
 
@@ -207,7 +207,7 @@ She closes the notebook and tucks it under her arm. Then she leans, very slightl
 
 * * *
 
-Makima hasn't moved from the far wall.
+Makima hasn't moved from behind her chair.
 
 He looks at her across the room. She looks back.
 

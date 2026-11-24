@@ -586,3 +586,11 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 > si pq satella si intenta acercase a mau en las de te se sienta alado bien pegada fue indoctrinada al fort y mau lo unico que le puso un alto fue al i love you pq el sabia que no era cierto osea ya son cercanos el chiste mas que nada es que ella envidia lo de makima el cuarto y poder hablar con el y acompanarlo y makima dice lo de acompanar es que el y yo somos en realidad uno este cuerpo es noise y satella entiende y de ahi nace el cuarto pq se siente que no conviven pero la verdad es otra
 
 - Satella y Mau YA son cercanos. Nunca escribirla como "nunca ha estado cerca de nadie" ni "nunca ha pedido nada en 400 años".
+
+## La cena es familiar; las brujas son de la casa (Mauri, 24 nov 2026)
+
+> recuerda la cena es familiar y todo mundo atiende si puede si estan ahciendo algo es solo cuando no pero esa es regla y antes de shuna y ahora tienes a shuna que nadie en el mundo le dice que no a shuna
+
+> entonces no lo hagas sonar que nada mas las ven de ves en cuando o solo en la meeting son del fort para el fort y con la casa
+
+- Las brujas comen en la mesa familiar como todos; nunca escribir que comen aparte o que solo se les ve en el té o en las juntas.

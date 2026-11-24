@@ -33,7 +33,7 @@ They look at the yard for a while. The light going. The lamps coming on in the k
 
 Satella has lived in this house longer than Makima.
 
-Much longer. Makima knows the history, because she makes a point of knowing histories. Satella came with the other witches, in the beginning, before there was a north wing, before there was a house, when there was only an inn and a field and a plan on the table with names going on it in ink. She has her own room, with an inner window onto the common room so she can see people without being in among them. She has tea with the others every week. She has Emilia now, who came back from the dead world and sat across a table from her and did not run.
+Much longer. Makima knows the history, because she makes a point of knowing histories. Satella came with the other witches, in the beginning, before there was a north wing, before there was a house, when there was only an inn and a field and a plan on the table with names going on it in ink. She has her own room, with an inner window onto the common room. She's at the family table every meal, the same as everyone; she's Fort, and she's house. She has tea with the others every week. She has Emilia now, who came back from the dead world and sat across a table from her and did not run.
 
 She is loved here. Everyone knows it. She knows it too, Makima thinks, in the way you know something that you've been told many times and still don't quite believe.
 
@@ -237,7 +237,7 @@ Yuka looks at Satella for a long moment. Then she smiles, sleepily, all the way.
 
 None of them see the inner window.
 
-Satella's window. The one Wakana built into the wall of her room in the north wing, so that she could see the common room without having to be in it. Her room is empty tonight; Satella is in the common room for once. And behind her window, in the dark, pressed close together, absolutely silent, are six faces.
+Satella's window. The one Wakana built into the wall of her room in the north wing, onto the common room. Her room is empty tonight; Satella is in the common room for once. And behind her window, in the dark, pressed close together, absolutely silent, are six faces.
 
 Echidna, with a book under her arm and an expression of intense interest.
 

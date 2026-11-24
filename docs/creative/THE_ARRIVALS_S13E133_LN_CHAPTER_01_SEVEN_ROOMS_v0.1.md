@@ -9,19 +9,19 @@
 
 *When: B+453. "34." Under it, in seven different handwritings, seven small marks, as if the witches had signed a petition. One of them is a drawing of a sleeping face.*
 
-They come to breakfast in a delegation.
+They come to breakfast the way they always come to meals in this house: all of them. It's a family table, and everyone sits at it unless they're out doing something, and that was the rule long before Shuna. Now there's Shuna, and nobody in any world says no to Shuna.
 
-Mau has never seen it before. The witches don't usually come to breakfast at all. They eat in the north wing, at their own table, at their own hours, and the house sees them at the weekly tea and in the corridors and on the step at dusk. They don't come into the kitchen at eight in the morning in a body, in a line, with Echidna at the front holding a piece of paper.
+So the witches are at the long table every morning, the same as everyone. Fort, family, house. Daphne beside the bread. Pride on her wobbly chair. Sekhmet asleep against Minerva's shoulder.
 
-They do now.
+What Mau has never seen is this: all six of them putting down their spoons at once, standing up, and filing round to the end of the table in a line, with Echidna at the front holding a piece of paper.
 
 The kitchen goes silent.
 
-Echidna stops at the end of the long table, opposite Mau. The others arrange themselves behind her. Pride, small and fierce, standing on her toes. Daphne, holding a bread roll she has taken from the table on the way past. Minerva, arms folded, scowling. Sekhmet, upright only because Minerva has a hand on the back of her collar, eyes closed, breathing slowly. And Carmilla, behind them all, half behind the doorframe, mostly invisible.
+Echidna stops at the end of the long table, opposite Mau. The others arrange themselves behind her. Pride, small and fierce, standing on her toes. Daphne, holding a bread roll she has brought with her from her place. Minerva, arms folded, scowling. Sekhmet, upright only because Minerva has a hand on the back of her collar, eyes closed, breathing slowly. And Carmilla, behind them all, half behind Minerva, mostly invisible.
 
 Satella isn't with them.
 
-Satella is at the table already, beside Emilia, with a cup of tea. She's gone very still and is looking at her cup.
+Satella stays in her seat, beside Emilia, with a cup of tea. She's gone very still and is looking at her cup.
 
 “We have a protest,” says Echidna. ᴱᶜ
 

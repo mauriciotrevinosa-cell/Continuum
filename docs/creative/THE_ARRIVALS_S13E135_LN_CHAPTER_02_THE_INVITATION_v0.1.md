@@ -33,6 +33,70 @@ Under the table, Mau sees them holding hands.
 
 * * *
 
+By the second day, it's become a thing.
+
+It starts at lunch. Umaru is on the couch in the common room in her hamster hoodie, the one with the ears, with a bag of chips in her lap that she has been guarding all morning with her life, and the Fort is circling.
+
+Rem sits down beside her.
+
+“Umaru,” she says, quite calmly. “You know I love you.” ᴿᵉ
+
+Umaru goes still.
+
+“Could you share your bag of chips with the house?” says Rem. ᴿᵉ
+
+Umaru looks at her with an expression of profound betrayal.
+
+Then she holds out the bag.
+
+The Fort descends on it.
+
+* * *
+
+Umaru gets her revenge at supper.
+
+Rem is about to get up to fetch the water jug from the far end of the table, and Umaru, who is lying with her head in Rem's lap and has no intention of moving it, looks up at her.
+
+“Rem,” she says sweetly. “You know I love you.” ᵁ
+
+Rem stops halfway to standing.
+
+“Could you stay exactly where you are,” says Umaru, “so I don't have to get up?” ᵁ
+
+Rem sits back down.
+
+Milim fetches the water.
+
+* * *
+
+By the end of the day they don't say *please* anymore. Not to each other. Not once. Every favour, every small thing, every *pass the salt*, starts the same way now: a name, and *you know I love you*, and then the asking. Said lightly. Said laughing. Said, Mau notices, every single time, as if neither of them can quite get over being allowed to.
+
+It isn't a lever. It never once is. It's the opposite of one. It's the thing Umaru promised on the roof, turned into a joke so they can say it fifty times a day without it ever getting heavy.
+
+Mau watches them do it from across the table and doesn't say anything, and is so happy for the two of them that he has to look at his rice.
+
+* * *
+
+Umaru catches him at it.
+
+She comes over after supper in the hamster hoodie, with what's left of the chips, and stands in front of his chair, and looks down at him.
+
+She takes out one chip. She holds it out.
+
+He takes it.
+
+“You don't get to complain,” says Umaru, “about anything. Ever. You sent us both up the same roof.” ᵁ
+
+“I'm not complaining,” says Mau. “I'm taking notes.” ᴹ
+
+Umaru narrows her eyes.
+
+Then she takes out another chip and puts it in his hand.
+
+“Good student,” she says, and goes back to Rem. ᵁ
+
+* * *
+
 He writes to Elmesia after breakfast.
 
 He's careful. He sits at the kitchen table with Ciel at his shoulder, inside, reading every word, and writes it three times before it's right. Because it isn't his. None of it is his to say. Not what DIO feels. Not what Elmesia feels. He knows both. He can't say either.

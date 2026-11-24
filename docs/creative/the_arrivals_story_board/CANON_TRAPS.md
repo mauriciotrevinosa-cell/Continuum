@@ -599,4 +599,7 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 
 > pq noise sigue diciendo que stand in walls
 
-- Desde *Only Technical* (V84 #13), Noise se sienta a la mesa del cuarto de adentro, en su silla, junto a Mau. Lo de "por la pared" es pasado; no escribirlo en presente.
+> la unica wall en si que existe es la que creo ciel que evita que el flood que makima anda controlando para que no vuelva a romper el dam
+
+- Noise nunca tuvo "su pared": antes era la silueta de pie junto a la mesa; desde *Only Technical* (V84 #13) se sienta en su silla junto a Mau.
+- La única pared que existe es la que creó Ciel para contener el flood que Makima controla, para que no vuelva a romper el dam.

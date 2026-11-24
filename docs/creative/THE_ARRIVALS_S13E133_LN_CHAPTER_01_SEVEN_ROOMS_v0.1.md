@@ -125,7 +125,7 @@ Another silence.
 
 *You'll work it out*, says Mau. ᴹ
 
-*I don't know how to entertain*, says Noise. *I stood by a wall for longer than anyone knows. I've only just learned to sit at the table.* ᴺ
+*I don't know how to entertain*, says Noise. *I stood beside the table for longer than anyone knows. I've only just learned to sit at it.* ᴺ
 
 *You did all right with DIO and Ciel*, says Mau. ᴹ
 
@@ -133,7 +133,7 @@ And then, deliberately, very gently, he lets Noise remember.
 
 DIO, when she first came inside, following Noise round the little room like a duckling, asking him questions every second, *what are you, why are you a shadow, are you sad, do you want to be my husband*. Ciel, when she first got her body, sitting at the table every hour of every day, wanting to know everything, wanting to talk about everything, wanting to be *near*.
 
-How Noise had stood by his wall and endured it, for weeks, the way a cliff endures the sea.
+How Noise had stood beside the table, a shadow on his feet, and endured it, for weeks, the way a cliff endures the sea.
 
 *Oh*, says Noise. ᴺ
 
@@ -145,7 +145,7 @@ How Noise had stood by his wall and endured it, for weeks, the way a cliff endur
 
 Noise is quiet for a long time.
 
-Mau can feel him reconsidering. Feel him standing up from the table, inside, and going back toward his wall, slowly, the old way.
+Mau can feel him reconsidering. Feel him half rising from his chair, inside, as if to go back to standing beside the table, slowly, the old way.
 
 * * *
 
@@ -191,7 +191,7 @@ She's beside him, with the last pickle halfway to her mouth, looking at him with
 
 He thinks about it.
 
-He thinks about Noise, standing by the wall for longer than anyone knows, alone, guarding a door. About the night Noise came away from the wall and sat down and picked up the cup. About *seven more friends*, said in that voice.
+He thinks about Noise, standing beside the table for longer than anyone knows, a shadow on his feet, keeping watch. About the night Noise pulled out a chair and sat down and picked up the cup. About *seven more friends*, said in that voice.
 
 “I'm giving Noise options,” he says. ᴹ
 

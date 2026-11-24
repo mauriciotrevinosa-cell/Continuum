@@ -93,7 +93,7 @@ DIO nods, very slightly.
 
 He looks at her.
 
-“I think with Noise,” he says, “you did the same thing. Noise was kind to you. He was there. He stood by his wall and let you follow him round and ask him a thousand questions. He never sent you away. And you'd never had anyone do that. So you thought it must be the big kind. Because that was the only word you had for someone who stayed.” ᴹ
+“I think with Noise,” he says, “you did the same thing. Noise was kind to you. He was there. He stood beside the table and let you follow him round and ask him a thousand questions. He never sent you away. And you'd never had anyone do that. So you thought it must be the big kind. Because that was the only word you had for someone who stayed.” ᴹ
 
 He waits.
 

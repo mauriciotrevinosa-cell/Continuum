@@ -45,7 +45,7 @@ Mau, Ori and Beru. That's what she said at the Fort, months ago, bargaining for 
 
 So this time it's just them.
 
-Just them and Lantern, who doesn't count, Ori says, because Lantern goes wherever Ori goes anyway. Mau asked her to, a long time ago, and never took it back. The small dragon flies low behind them all the way, the way she always does, close enough to reach Ori in a breath.
+Just them and Lantern, who doesn't count, Ori says, because Lantern lives in her shadow anyway. The dragon Dad gave her. She named him once, in a life she doesn't remember, and Dad does. He doesn't need to walk behind her to be there.
 
 Except Yuka.
 

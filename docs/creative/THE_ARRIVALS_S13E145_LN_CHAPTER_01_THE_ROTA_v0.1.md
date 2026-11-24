@@ -57,11 +57,11 @@ It takes all day.
 
 He goes through them. Properly. One by one, rank by rank, the way he should have done long ago. Ciel keeps the list. Noise, who remembers every single one of them because he remembers everything Mau has ever done, tells him where each one came from. Which gate. Which floor. Which fight.
 
-Igris isn't here. Igris is upstairs, a step behind Yuka, where he has been every day since Mau first asked him to watch over her, and where he'll stay until Mau says otherwise, which he never will. Mau reaches along the line to him anyway, and feels him there: tall and still with his sword, at her shoulder in the workshop doorway, the first of them with a name.
+Igris isn't here. Igris is watching over Yuka, the post Mau gave him. Mau reaches along the line to him anyway, and feels him there: tall and still with his sword, the first of them with a name.
 
 Kamish isn't here either. Kamish is lying along the bottom of the orchard with his head at the old pear, keeping the promise Mau asked of him: the house. He keeps it lying down, mostly. It still counts.
 
-Beru isn't here. Beru is upstairs, in the world, with Ori. And Lantern with her, the small dragon Mau asked long ago to watch over her, which nobody has ever told to stop.
+Beru isn't here. Beru is upstairs, in the world, with Ori. And Lantern in her shadow: the dragon Mau gave her, because she named him once, in the other life.
 
 Bellion is at the front instead. He has the watch on the approaches and the legion when Mau isn't leading it, and he stands when Mau comes and gives him the count, all of it, in order, without being asked.
 
@@ -79,7 +79,7 @@ But Noise stops beside it.
 
 Mau looks at it.
 
-*The two weeks*, says Noise. *When you were in the clinic and Yuka was in Ori's room. Igris was at Yuka's door, the way he always is. Beru was at Ori's bed, and Lantern on the sill. Every post you ever gave was kept. But nobody had a post at the foot of the stairs, between the two of them and the way down to you. This one went and stood there. Every night. Nobody told it to. Not out loud, not inside. It just went.* ᴺ
+*The two weeks*, says Noise. *When you were in the clinic and Yuka was in Ori's room. Igris was watching over Yuka, the way he always is. Beru was with Ori, and Lantern in her shadow. Every post you ever gave was kept. But nobody had a post at the foot of the stairs, between the two of them and the way down to you. This one went and stood there. Every night. Nobody told it to. Not out loud, not inside. It just went.* ᴺ
 
 Mau stands in front of the soldier for a long time.
 
@@ -201,9 +201,9 @@ The full one. The one from the seven rooms. *How dare you* in breath form.
 
 Noise, beside her, laughs.
 
-Igris, at the front of the legion, turns his head very slowly to look at the small dented soldier at the back, who has just been named Pickles by a child, and Mau feels something go through Igris that he has never once felt from him in all the time since the first gate.
+And from Yuka's shadow, all the way across the house, Igris speaks, through the line, in the dry level voice he uses for reports.
 
-Approval.
+*A fitting name, my king*, says Igris. *It is small, and it is sharp, and the child chose it.* ᴵᵍ
 
 And the small soldier with the dent in its helmet, at the very back of six thousand and more, goes down on one knee in the dark. Slowly. As if it means it.
 

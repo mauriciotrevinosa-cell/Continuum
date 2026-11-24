@@ -9,15 +9,15 @@
 
 *When: B+447. "40." Ori wrote it herself, very large, and drew Beru beside it with his mouth open and lines coming out of it.*
 
-The house gate has an Ori setting now.
+This week, the house gate is Ori's.
 
-It's the only gate there is inside the protection. Nothing wild can open in here; the gate is the one DIO gave Dad, the one that changes every week, and Dad can tell it what he wants. Harder. Easier. Somewhere warm to rest. And since three weeks ago, one morning a week, *small enough for Ori*.
+It's the only gate there is inside the protection. Nothing wild can open in here; the gate is the one DIO gave Dad, the one that changes once a week, and when it changes Dad can tell it what he wants. Harder. Easier. Somewhere warm to rest. And this week, for the first time, *small enough for Ori*.
 
-Frieren checked it first. She went through it twice, alone, with her staff, the first time Dad set it that way, and came out and said, *That's fine. Ori can go in. With Beru. Not past the second door.*
+Frieren checked it first. She went through it twice, alone, with her staff, the morning Dad set it that way, and came out and said, *That's fine. Ori can go in. With Beru. Not past the second door.*
 
 Ori has never gone past the second door.
 
-She's been in twelve times. She keeps count in her notebook, on a special page, with a map of every room, a new map every week, because the gate changes. This week the first room has slimes, the small slow kind that Beru can step on. The second room has bats. The third room is behind the second door and she has never seen it and she has a drawing of what she thinks is in it, which is a dragon, which is probably wrong.
+She's been in four times this week. She keeps count in her notebook, on a special page, with a map of every room, because next week the gate changes and it won't be hers anymore. The first room has slimes, the small slow kind that Beru can step on. The second room has bats. The third room is behind the second door and she has never seen it and she has a drawing of what she thinks is in it, which is a dragon, which is probably wrong.
 
 Today she killed four slimes and a bat. The bat was mostly Beru. She's counting it anyway.
 

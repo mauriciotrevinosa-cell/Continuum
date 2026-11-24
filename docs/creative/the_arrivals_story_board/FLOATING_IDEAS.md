@@ -475,3 +475,16 @@ Architect ending now selected: statues/fight -> pleased by Mau -> new Black Hear
 ## S6 — Yuka confía su cáncer en la última noche, antes de la reescritura (creador,2026-10-22)
 
 [Mensajes íntegros y límites](S6_POST_RED_GATE_CONTINUATION_CREATOR_FULL_PROPOSAL_2026-10-22.md#yuka-confidencia-sobre-el-cáncer-en-la-última-noche--ampliación-del-creador2026-10-22); [mapa de desarrollo](S6_POST_RED_GATE_DEVELOPMENT_MAP_PROPOSED_2026-10-22.md). La idea inicialmente condicional/futura ya tiene colocación pedida: antes de la intervención de la Diosa, preferentemente en la última noche. Yuka cuenta a Mau que tuvo cáncer, que creyó no tener un mañana y su sacrificio, cuyo contexto debe cotejarse con Modulo y su extracción. Mau llega al trato con ese conocimiento. La Diosa le advierte antes de aceptar que Yuka olvidará haberle confiado esto; Mau lo conserva. No borrar por defecto la autobiografía médica de Yuka, no inventar desenlace/diagnóstico actual/cura, no difundir la charla privada, no romper el límite sin sexo. Los detalles siguen sujetos al final de Modulo; escena futura de planificación, no capítulo producido ni hecho ya ocurrido.
+
+
+## La gate del hogar: upgrade a tres puertas (Mauri, 24 nov 2026)
+
+> Oye espera esa es una mega idea perk ahorita la gate cambia una ves por semana y para un upgrade tiene que suceder una purple gate o red gate y me encanta que esta les de dos nuevas puertas la que ya tenian que pueden ajustar pero una por semana una segunda que esta mau la termina convirtiendo para ori y para el fort safe for children or Mon fighters y la gate informa que no podia dar tanto loot y mau ofrece conectarle los rewards al shop o a su inventario entonces mau les suminstra el loot y otra que mau pueda modificar pero esta se refresaca cada ves que se completa
+
+- **Estado actual:** la gate del hogar (regalo de DIO) cambia **una vez por semana**, y Mau la ajusta al cambiar (dificultad, lugar caliente, etc.).
+- **Para el upgrade** tiene que ocurrir una **Purple Gate o una Red Gate**.
+- **El upgrade da dos puertas nuevas**, tres en total:
+  1. La que ya tenían: ajustable, pero cambia una vez por semana.
+  2. Una que Mau convierte para Ori y la Fort, segura para niños y para quien no pelea. La gate avisa que no puede dar tanto loot; Mau ofrece conectar las recompensas al Shop o a su inventario, y él surte el loot.
+  3. Una que Mau puede modificar y que se refresca cada vez que se completa.
+- Cuándo ocurre: por decidir con Mauri. En V84 #23, Ori entrena en la gate semanal solo "esta semana", la primera vez que Mau la pone a su tamaño.

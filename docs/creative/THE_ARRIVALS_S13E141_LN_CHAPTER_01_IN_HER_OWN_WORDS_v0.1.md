@@ -176,15 +176,65 @@ He laughs, and she feels it right where her wrist rests against his throat. He b
 
 He presses his lips to her temple. “I will.” ᴹ
 
-Here is the first one. She keeps her eyes closed and listens to his breathing, with her thumb on the little fold of his collar. She thinks she might want to say something about tomorrow. It can wait until she knows the words. She opens her eyes. He's still close enough that she has to draw back a little to see his whole face.
+She takes the first second with her thumb resting in the little fold of his collar. She can feel the fabric move each time he breathes. He stays close enough for her to lean in the rest of the way, and when she does, he lets out a breath against her mouth. She had thought she'd need to sit back and collect herself. All she needed was to feel him wait while she made up her mind.
 
-“I'm ready,” she says. ʸ
+“I'm ready,” she says. “Come down with me?” ʸ
 
-He kisses her this time. She takes his hand and draws him down with her into the warm hollow between the pillows. The blanket catches under her elbow. He lifts it out from under her and she uses the room he's made to wrap her arm all the way round him.
+She scoots back until her shin clears the side of the bed. He takes her hand as she lowers herself onto the pillow and sets his other palm beside her shoulder. The dip in the mattress brings him close. She reaches up to wrap her arm round him and finds the blanket pinned under her elbow.
 
-They make love with the lamp still on. She asks him to stay close, and a little later asks him again, for the pleasure of hearing his breath catch at the same words. When she needs that second, she takes it against his shoulder. He puts his cheek against her hair and waits there with her. It turns out she likes this part too, when it's quiet enough to hear the little laugh he tries to keep in.
+“Hang on. I've caught myself.” ʸ
 
-Afterwards, she reaches over to turn the lamp down and gets as far as an inch off the pillow before his arm tightens around her.
+Mau lifts his hand. She tugs the blanket free, and the corner of it lands across the back of his head.
+
+“Did I do something?” he asks, from under it. ᴹ
+
+“You were in the way.” ʸ
+
+She pulls the blanket down herself. His hair comes with it, flattened over one eye. She uses two fingers to push it back. He's holding himself steady while she does it, trying to give her a straight face, and the effort is visible in his mouth. The first laugh is hers. She feels his follow against her forehead. By the time they settle, she has her arm round him and the blanket is wherever it is.
+
+When they make love, she wants to keep looking at him. He lowers his head to kiss her, and she catches his cheek in her palm.
+
+“Up a little,” she says. “There. I can see you now.” ʸ
+
+In the lamplight she sees his lips part before she hears him breathe. He leans down again, slowly enough for her to meet him, and the kiss ends against the corner of her mouth. Her fingers close on his shoulder. She had meant to tell him to stay that close, and for a breath she forgets what she meant to say.
+
+“A second,” she manages. ʸ
+
+He goes still. His breath is warm along her cheek. She smooths her hand over the place where she's been gripping his shoulder and feels him relax into it by degrees.
+
+“Can I hold you while we wait?” he asks. ᴹ
+
+“Yes. Here.” ʸ
+
+She turns onto her side and draws him down beside her. His hand leaves the mattress, and the pillow lifts a little under her head. She draws his hand round to her back, and his palm settles there, warm and quite steady. She takes another breath with her face against his jaw. It comes easier this time. She raises her head and kisses him back. The hand at her back draws her closer, and when he pulls away to see her she follows, just far enough to make him laugh.
+
+“Now who needs a second?” she asks. ʸ
+
+“Me, actually.” ᴹ
+
+She keeps her hand on his cheek. The laughter takes a moment to leave his face. She gets to see it go, and to see what he looks like after it does.
+
+“What do you want?” she asks. ʸ
+
+“Your hand.” ᴹ
+
+She starts to lift the one on his cheek. He catches her other wrist, and she understands. She opens that hand, and he threads his fingers through hers against the pillow.
+
+“Both?” she says. ʸ
+
+He turns his face a little into her palm. “Both.” ᴹ
+
+She stays like that until he squeezes her hand and says her name. She says his back. The next time he leans in, she keeps her eyes open until he's too close for her to see him properly. She feels him smile at her mouth. She wants to keep him there and pulls him closer.
+
+She keeps her fingers between his while their breathing settles. When she lifts their hands, the seam of the pillow has left a crease along the back of her wrist. She turns her hand to look at it. Mau rubs his thumb over the line once, then brings her knuckles to his mouth.
+
+“Warm enough?” he asks. ᴹ
+
+The air has cooled on the side of her face that was turned towards the window. She inches closer and brings his hand down to her waist.
+
+“Now I am.” ʸ
+
+He brings the blanket up to her shoulder, and she waits until his arm is settled before she reaches for the lamp. She gets an inch off the pillow. His arm tightens.
 
 “Where are you going?” he asks. ᴹ
 
@@ -192,7 +242,7 @@ She looks at the lamp. Then she looks down at his arm.
 
 “Nowhere, apparently.” ʸ
 
-She settles back. He laughs into her shoulder and she fishes the blanket up over both of them. The room has gone properly cold around the edges. She can feel it on the fingers she leaves sticking out, and after a moment draws those under too.
+She settles back. He laughs into her shoulder. One of the corners of the blanket is folded in on itself, and when she reaches around him to straighten it, her fingers find the back of his shirt. The fabric is warm now. She leaves her hand there.
 
 “Tomorrow,” she says. ʸ
 

@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 27
 **Source episode:** S13E131
-**Continuity state:** B+449 ("38"). The workshop again, the next evening. Mau offers Maki a contract like Yuka's, a second Limitless: she keeps her Heavenly Restriction, her body and her strength exactly as they are; the CE and the cost are all his. Maki looks at her sister and asks instead whether she could have Construction. Mai will never admit it, but she has just heard her sister say she wants to be like her and spend more time with her, and she says she'll allow it. Then Mai explains to Maki how to explain it to Mau, and Mau understands his mistake: he decided what Maki wanted without asking. He looks at Yuta. Yuta asks for something for Rika: Noise and Ciel find a way to stretch her five minutes to about ten and cut the time it takes her to come back. Whether Rika could be recovered if she were completely destroyed is beyond them for now; Noise wants to study it.
+**Continuity state:** B+449 ("38"). The workshop again, the next evening. Mau has spent the night, with Ciel and Noise, building the frame of a contract for Maki that can't break her Heavenly Restriction: her body, her strength and her speed stay exactly as they are; the CE and the cost are all his. What goes inside the frame he leaves to her. He lays out every technique he carries and asks which one she wants. Maki looks at her sister and chooses Construction. Mau has his own copy of Mai's technique, but he respects her, so he turns to Mai and asks; he doesn't need her approval, and they both know it. Mai, who has just heard her sister say she wants to be like her and spend time with her, will never admit what that does to her; she says it's a stupid idea and she'll allow it, and then explains to Maki how to word the request. Then Yuta asks for Rika: Noise and Ciel stretch her five minutes to about ten and halve the time it takes her to come back. For the fear that she could be broken for good, Noise, who has built Rika before, proposes a new weapon at the grade of Mau's and Rimuru's swords, a second ring or a katana, filled with all the CE Yuta has poured into Rika over the years. It holds a snapshot of her, a save copy. If the original breaks or is about to, the copy takes the damage in an instant swap and dies in her place; the original goes to smoke and needs time to come back out, like Copy, and the snapshot has to be made again. Yuta says he'll ask Rika which she'd rather live in.
 
 *When: B+449. "38." Mai has pressed a second flower into the notebook, beside the first.*
 
@@ -15,7 +15,9 @@ Lying in the dark with Yuka asleep on his shoulder, feeling the new thread in th
 
 Yuka has a contract. Mai has a contract. Maki has nothing.
 
-So he worked it out. In the dark, with Ciel and Noise at the table. And by morning he had it, and he was pleased with it, and he asked the three of them back to the workshop after supper.
+So he worked on it. In the dark, with Ciel and Noise at the table. Not on what to give her. On how to give her anything at all without touching what she already is. That was the hard part, and it took most of the night, and by morning he had it.
+
+He asked the three of them back to the workshop after supper.
 
 * * *
 
@@ -23,15 +25,19 @@ So he worked it out. In the dark, with Ciel and Noise at the table. And by morni
 
 Maki, on her stool, raises her eyebrows.
 
-“Like Yuka's,” he says. “The same shape. A second Limitless, if you want it. Blue. Red. Infinity. You'd be able to ask for them and use them, the way Yuka does. The cost lands on me. The CE's mine.” ᴹ
+“Your Restriction stays exactly as it is,” he says. “That's the first thing, and it's the important one. Noise checked it three times. Ciel checked it four. Your body. Your strength. Your speed. Your eyes. Nothing in it changes. Not a hair. You don't carry any CE; you don't pay any cost. It's all mine. It sits on top of you, like a coat. You can take it off.” ᴹ
 
-He leans forward.
+Maki's eyebrows stay up.
 
-“And you keep everything,” he says. “That's the important part. Noise checked it three times. Your Restriction stays exactly as it is. Your body. Your strength. Your speed. None of it changes. You don't lose anything. It's just—on top. Extra. If you want it.” ᴹ
+“And on top of what?” she says. ᴹᵃᵏ
+
+“That's the second thing,” he says. “I don't know. That's yours.” ᴹ
+
+He puts his hands flat on the bench.
+
+“I carry a lot of techniques,” he says. “More than I can use at once. Gojo's. The shadows. Yuta's Copy, and what it's taken. Little ones I picked up along the way and never had a reason to use. Any one of them. Whatever you want. You pick. I'll build it into the frame and it's yours.” ᴹ
 
 He sits back.
-
-He's pleased with it. He can feel how pleased he is. It's a good contract. It took most of the night. Maki would be—he can't even imagine what Maki would be, with her body as it is and Infinity on top of it.
 
 Maki looks at him for a long time.
 
@@ -45,21 +51,17 @@ Maki looks at her for a long moment.
 
 Then she looks back at Mau.
 
-“Could I have Construction instead?” she says. ᴹᵃᵏ
+“Construction,” she says. ᴹᵃᵏ
 
 * * *
 
 The workshop goes very quiet.
 
-Mau blinks.
-
 “Construction,” he says. ᴹ
 
-“Mai's,” says Maki. “Her technique. Making things. Could the contract give me that? Instead of the other one?” ᴹᵃᵏ
+“Mai's,” says Maki. “Her technique. Making things. That one.” ᴹᵃᵏ
 
-He doesn't understand.
-
-“Limitless is—” he starts. ᴹ
+“You could have Limitless,” says Mau. Not arguing. Just making sure she's seen the whole table. “You'd be very—” ᴹ
 
 “I know what Limitless is,” says Maki. “I've seen Gojo use it. I've seen you use it. It's very impressive. I'd be very impressive with it. I'd probably kill someone by accident the first week.” ᴹᵃᵏ
 
@@ -84,6 +86,12 @@ She stops again. Her jaw is very tight.
 Nobody says anything.
 
 Mau doesn't look at Mai. He's afraid to. He can feel the line between them, the new thread, and down it, very faintly, something happening in Mai that's so big and so silent that he doesn't dare look at her face.
+
+He has Construction. He's had a copy of it for a long time. He could write it into Maki's frame tonight, here, without a word from anyone, and it would work.
+
+He turns to Mai anyway.
+
+“It's yours,” he says. “I've got a copy, but it's yours. May I?” ᴹ
 
 Mai doesn't move.
 
@@ -113,11 +121,19 @@ She puts her hands flat on the bench.
 
 Maki looks up.
 
-“It's my technique,” says Mai. “He can't give it to you without me agreeing. It goes through my contract. So I'm agreeing. I'll allow it.” ᴹᵃ
+Mai is looking at Mau now, not at her sister. Very fiercely, as if he's done something to her.
 
-She still isn't looking at her sister. She's looking at the bench, very fiercely, as if it's done something to her.
+“You know you don't need me to,” she says. “You've got it. You could just write it.” ᴹᵃ
 
-“But you'll do it properly,” says Mai. “You'll sit here and learn it properly. From me. Not from him. He doesn't know how it works. He just pays for it.” ᴹᵃ
+“I know,” he says. ᴹ
+
+“So why ask.” ᴹᵃ
+
+“Because it's yours,” he says. ᴹ
+
+Mai looks at him a moment longer. Then she looks away, fast, at the bench.
+
+“But you'll do it properly,” she says to Maki. “You'll sit here and learn it properly. From me. Not from him. He doesn't know how it works. He just pays for it.” ᴹᵃ
 
 “Fine,” says Maki. ᴹᵃᵏ
 
@@ -147,17 +163,9 @@ And she pulls a stool round to Maki's side of the bench and sits down on it, clo
 
 Mau watches them.
 
-And it comes to him, slowly, the way it came to him on Elmesia's couch with the half-eaten cake.
+He'd laid the whole table out. Every technique he carries, the biggest ones at the front. And Maki had looked past all of it, at her sister, behind the bench, with her arms folded.
 
-He worked all night on a contract for Maki. He was so pleased with it. He decided exactly what she should have, the most powerful thing he could think of, the biggest gift, and wrapped it up and brought it to her and put it in front of her.
-
-He never asked her what she wanted.
-
-He decided for her.
-
-The same thing. The same old thing. Deciding the answer before anyone else gets to say anything.
-
-He sits on his stool with his hands in his lap and feels it, all of it, and doesn't look away from it.
+He's glad he asked.
 
 Then he looks across the bench at Yuta.
 
@@ -165,9 +173,9 @@ Then he looks across the bench at Yuta.
 
 Yuta is watching him.
 
-Yuta has been watching him the whole time. Quietly, the way Yuta watches everything. He saw Mau's face when Maki said *Construction*. He saw it again just now.
+Yuta has been watching him the whole time. Quietly, the way Yuta watches everything. He saw Mau turn to Mai. He saw Mai's face when he did.
 
-He doesn't say anything about it. He doesn't say *you did it again*. He just smiles, a little, very kindly, the way you'd smile at someone who's just tripped over the same step twice and noticed.
+He doesn't say anything about it. He just smiles, a little, very kindly.
 
 “I'll go next,” says Yuta. “Since we're asking.” ʸᵗ
 
@@ -195,31 +203,37 @@ He looks at Mau.
 
 *Noise*, says Mau. *Ciel.* ᴹ
 
-They're already working on it. He can feel them at the table inside, heads together, the way they get when a problem interests them. Noise moving pieces of something round on the wood that Mau can't quite see. Ciel making notes.
+They're already working on it. He can feel them at the table inside, heads together, the way they get when a problem interests them. Noise moving pieces of something round on the wood. Ciel making notes.
 
 It takes about five minutes.
 
-*The first one*, says Ciel at last. *The clock. We can do something. Not double. Close. We can stretch the five minutes to about ten, and cut the time it takes her to come back to about half. Through the ring. The cost lands on you every time she's out. You won't notice it. You have the CE to spare, and your body stopped feeling costs that size a long time ago.* ᶜ
+*The first one*, says Ciel at last. *The clock. We can do something. Not double. Close. We can stretch the five minutes to about ten, and cut the time it takes her to come back to about half. Through the ring. The cost lands on you every time she's out. You won't notice it. Air.* ᶜ
 
 *And the second?* ᴹ
 
+*The second one I know how to do*, says Noise. ᴺ
+
+Mau waits.
+
+*I've built her before*, says Noise. *All of her. Every form. She's in your katana. I know her pattern better than anything except you. What I can't do is put her back together from nothing if she breaks; there wouldn't be anything to read. So we don't wait for nothing. We keep a copy.* ᴺ
+
+*A copy*, says Mau. ᴹ
+
+*A snapshot*, says Noise. *A save. A new weapon, at the grade of your katana and Rimuru's. A second ring, or a blade; whichever she'd rather. We fill it with what he's been pouring into her all these years, all of it, every scrap of CE he's spent on her; you and I can move it across. And it holds a copy of her. Not a second Rika walking round. A save, kept still.* ᴺ
+
+*And if she breaks?* ᴹ
+
+*If the original breaks, or is about to*, says Noise, *the snapshot swaps with her. Instantly. Damage and all. The copy takes the hit and dies. Not her. She goes to smoke and has to come back out, the way Copy needs time before it can call a thing again. And the snapshot has to be made again, from the start, before it can do it a second time.* ᴺ
+
 A pause.
 
-*No*, says Noise. *Not now.* ᴺ
-
-*Not now?* ᴹ
-
-*We don't know enough*, says Noise. *About what she is. What holds her. If she broke all the way, what would be left to call back. I'd need to study it. With her. If she'd let me. It might be possible. I don't know.* ᴺ
-
-A pause.
-
-*I want to know*, says Noise. ᴺ
+*Once*, says Ciel. *Each time. Not a promise she can't be hurt. A promise she can't be lost in one blow.* ᶜ
 
 * * *
 
 He tells Yuta.
 
-All of it. The clock: ten minutes, half the wait. The cost on him. And the other thing: not now, but Noise wants to study it, with Rika, if she'll let him.
+All of it. The clock: ten minutes, half the wait, the cost on him. And the other thing: a second ring or a blade, filled with everything Yuta's ever given her, holding a copy of her that dies instead of her, once, and then has to be made again.
 
 Yuta listens.
 
@@ -229,19 +243,23 @@ When Mau finishes, Yuta looks down at the ring for a long time. He turns it once
 
 “About.” ᴹ
 
-“That's twice the—” ʸᵗ
+“And if she—” ʸᵗ
 
 He stops. He puts his hand over his mouth for a moment.
 
 “That's enough,” he says, through his fingers. “That's more than enough. Thank you.” ʸᵗ
 
-“Ask Rika,” says Mau. “About the other thing. Whether she'd let Noise study her. Don't decide for her.” ᴹ
+“Ring or blade,” says Mau. “Noise needs to know.” ᴹ
 
-He hears himself say it. *Don't decide for her.*
+Yuta takes his hand away from his mouth.
 
-Yuta hears it too. He takes his hand away from his mouth and looks at Mau, and something in his face is very gentle.
+“I'll ask her,” he says. “It's her copy. She should choose where she lives.” ʸᵗ
 
-“No,” says Yuta. “I won't.” ʸᵗ
+Mau nods.
+
+“Ask her if she'll meet Noise first, too,” he says. “He'll have to look at her very closely to make it.” ᴹ
+
+“I will,” says Yuta. ʸᵗ
 
 * * *
 
@@ -255,30 +273,26 @@ He sits down beside her.
 
 “How did it go?” she says. ʸ
 
-He thinks about it.
+“I put everything on the table,” he says. “Every technique I've got. And told her to pick.” ᴹ
 
-“I did it again,” he says. “Decided for someone. Maki. I worked all night on the wrong thing.” ᴹ
+“And?” ʸ
 
-Yuka is quiet for a moment.
+“She picked Mai's.” ᴹ
 
-“Did you notice?” she says. ʸ
+Yuka is quiet for a moment. Then she smiles into his shoulder.
 
-“Yes.” ᴹ
+“Of course she did,” she says. ʸ
 
-“Before or after?” ʸ
+“I asked Mai,” he says. “If I could.” ᴹ
 
-“During,” he says. “Halfway through. When she asked for something else.” ᴹ
+“You've got it already.” ʸ
+
+“I know.” ᴹ
 
 Yuka leans her head on his shoulder.
 
-“That's better than after,” she says. ʸ
+“Good,” she says. ʸ
 
-He thinks about that.
-
-“Yes,” he says. ᴹ
-
-“Next time it'll be before,” says Yuka. ʸ
-
-He doesn't say anything. He puts his arm round her.
+He puts his arm round her.
 
 Behind them, in the workshop, very faintly, he hears Maki say *this is impossible*, and Mai say *I told you*, and then, unmistakably, both of them laughing.

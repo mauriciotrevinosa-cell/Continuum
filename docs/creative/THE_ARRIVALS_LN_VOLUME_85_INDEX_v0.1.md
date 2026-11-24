@@ -49,7 +49,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 - #2–5 Gojo's real rematch, Shoko's rules; both domains collapse as on Day 133 and the two Purples go into the sky. Draw, for style.
 - #9 *In Her Own Words*: Yuka ends the pause on the porch and tells Mau what she wants. He sees the checked list while she keeps the last line to herself. At #23 she chooses to tell him what it said.
 - #11–13 expedition two: the REST HERE stone, Kamish's fire told at Ori's size, the valley of everyone's pears, Frieren's compass points home. EXPEDITION THREE is an arrow off the map.
-- Seeds, not resolved: #14 Dabura's hands trace the wheel (memory taken, hands missed; filed "for when he wants it"). #24 Cross's harmless questions add up to a map; nobody moves, everyone watches. #25 Noise begins studying what holds Rika.
+- Seeds, not resolved: #14 Dabura's hands trace the wheel (memory taken, hands missed; filed "for when he wants it"). #24 Cross's harmless questions add up to a map; nobody moves, everyone watches. #25 Rika chooses a ring; Noise reads her for the snapshot (a save copy that dies in her place once, then must be remade).
 - #20 Frieren and Himmel: she won't wait to understand him this time. Nothing named. Flagged for Mauri to confirm the direction.
 - #21 Senku's satellite plan (fifteen to twenty years); the Fort has a seat on the launch committee.
 - DIO's count stays "still two" (#22): she has stopped counting, not owing.

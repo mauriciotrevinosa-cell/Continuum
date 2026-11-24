@@ -5,13 +5,13 @@
 **Volume:** 85
 **Reading order:** 25
 **Source episode:** S13E149
-**Continuity state:** B+483 ("4"). Yuta asked Rika, as Mau told him to, whether she would let Noise study her: what holds her, and what would be left to call back if she were ever broken all the way. It took Rika three weeks to answer. Today she answers yes, on one condition: she wants to meet Noise first, properly, the way you meet someone before you let them look inside you. Yuta brings her out in the yard, the full ten minutes now that the ring is stretched. Noise steps out as a shadow-outline to meet her after she asks for him by name. They look at each other. Rika asks what he is. He says what he told Echidna. She says she's something that stayed when it shouldn't have, too. Noise begins. Not an answer yet; a beginning. Yuta cries a little and pretends he doesn't.
+**Continuity state:** B+483 ("4"). Yuta asked Rika, as Mau told him to, two things: whether she'd let Noise make the snapshot (a save copy of her, held in a new weapon filled with all the CE Yuta has given her, that takes a killing blow in her place once and then has to be made again), and whether she'd rather live in a second ring or a blade. It took Rika three weeks to answer. Today she answers yes, on one condition: she wants to meet Noise first, properly, the way you meet someone before you let them look closely enough to copy you. Yuta brings her out in the yard, the full ten minutes now that the ring is stretched. Noise steps out as a shadow-outline to meet her after she asks for him by name. They look at each other. Rika asks what he is; Mau says Noise's words for him, since only Mau can hear him. She says she's something that stayed when it shouldn't have, too. She chooses a ring. Noise reads her pattern for the snapshot. Not finished yet; a beginning. Yuta cries a little and pretends he doesn't.
 
 *When: B+483. "4." Under it, in Yuta's hand: "Rika said yes". And under that, in a hand nobody has ever seen, very large and very round, as if made by fingers too big for the pencil: "HI NOISE".*
 
 Rika takes three weeks to answer.
 
-Yuta asked her the night after the workshop. Mau knows because Yuta told him. *I asked her*, he said, at breakfast the next morning. *Like you said. I didn't decide for her. I asked.*
+Yuta asked her the night after the workshop. Mau knows because Yuta told him. *I asked her*, he said, at breakfast the next morning. *Both things. The copy. And ring or blade.*
 
 *What did she say?*
 
@@ -19,7 +19,7 @@ Yuta asked her the night after the workshop. Mau knows because Yuta told him. *I
 
 It was three weeks.
 
-Mau didn't ask again. Neither did Noise. Noise, who wanted to know more than anyone, who had said *I want to know* in a voice Mau had never heard, waited at the table inside for three weeks and didn't once say *has she answered yet*.
+Mau didn't ask again. Neither did Noise. Noise, who has built her once already and has had the snapshot half drawn on the table inside since the night of the workshop, waited for three weeks and didn't once say *has she answered yet*.
 
 This morning Yuta comes to find Mau on the porch.
 
@@ -31,11 +31,11 @@ This morning Yuta comes to find Mau on the porch.
 
 Mau waits.
 
-“She wants to meet him first,” says Yuta. “Noise. Properly. Not through you. Not inside. She wants to see him. Face to face. The way you'd meet someone before you let them look inside you.” ʸᵗ
+“She wants to meet him first,” says Yuta. “Noise. Properly. Not through you. Not inside. She wants to see him. Face to face. The way you'd meet someone before you let them look close enough to make a copy of you.” ʸᵗ
 
 He turns the ring on his finger.
 
-“She says she's never let anyone look at what holds her,” he says. “Not even me. Not really. And if she's going to let him, she wants to know who he is first.” ʸᵗ
+“She says he built her once without asking her,” he says. “For your katana. She doesn't mind. But this time it's a copy that dies for her, and she wants to know who's holding it first.” ʸᵗ
 
 Mau thinks about it.
 
@@ -95,7 +95,7 @@ Rika is nervous.
 
 Noise steps out.
 
-Mau feels him do it. It's the strangest feeling he's ever had. Like something stepping out of his own chest. Not a soldier. Not Makima, whose body Noise holds. Noise himself. The first thing Mau ever made, who has stood guard inside him longer than anyone knows. He's done it before, a handful of times, with DIO and Ciel. Never because someone outside asked for him by name.
+Mau feels him do it. It's the strangest feeling he's ever had. Like something stepping out of his own chest. Not a soldier. Not Makima, whose body Noise holds. Noise himself. The first thing Mau ever made, who stood beside the table inside him longer than anyone knows. He's done it before, a handful of times, with DIO and Ciel. Never because someone outside asked for him by name.
 
 Stepping out into the world.
 
@@ -125,13 +125,15 @@ Her voice is very quiet. For Rika.
 
 Noise looks at her.
 
-“I'm Noise,” he says. ᴺ
+Nobody outside Mau can hear Noise. So Mau says it for him, from the porch, word for word, as Noise gives it to him.
+
+“*I'm Noise*,” says Mau. ᴺ
 
 Rika waits.
 
-“He made me,” says Noise, “to stand in front of a door. And I stood there. For a long time. And then I wanted to be somewhere else. At a table. With people. That's all I know.” ᴺ
+“*He made me*,” says Mau, in Noise's words, “*to stand beside him. Inside. And I stood there. For a long time. And then I wanted to sit down. At the table. With people. That's all I know.*” ᴺ
 
-The same words he said to Echidna. Mau recognises them.
+The same words Noise gave Echidna. Mau recognises them.
 
 Rika is quiet for a long moment.
 
@@ -149,17 +151,17 @@ One of her great hands comes up and very gently touches the top of Yuta's head.
 
 She looks at Noise.
 
-“*You stayed too*,” she says. “*At your door. When you could have stopped.*” ʳⁱᵏᵃ
+“*You stayed too*,” she says. “*On your feet. When you could have stopped.*” ʳⁱᵏᵃ
 
-“Yes,” says Noise. ᴺ
+“*Yes*,” says Mau, for him. ᴺ
 
 “*Why?*” ʳⁱᵏᵃ
 
 Noise thinks about it.
 
-Mau feels him think about it. All the way down. The whole long time by the wall. The Trial. The first Stay. The night he picked up the cup.
+Mau feels him think about it. All the way down. The whole long time on his feet beside the table. The Trial. The first Stay. The night he picked up the cup.
 
-“Because someone needed me there,” says Noise. “And then because I wanted to be.” ᴺ
+“*Because someone needed me there*,” says Mau, for him. “*And then because I wanted to be.*” ᴺ
 
 Rika looks at him for a long time.
 
@@ -173,11 +175,13 @@ Then she smiles. Not the terrible grin. Something smaller. Something that looks,
 
 She sits down. In the yard. Carefully, so as not to crush the training posts. Folds herself up as small as something that size can fold.
 
-“*Look at what holds me*,” she says. “*If you can find it. If anything does. And if you find a way to call me back, if I ever break, then you can tell him.*” ʳⁱᵏᵃ
+“*Make your copy*,” she says. “*The one that breaks so I don't.*” ʳⁱᵏᵃ
 
 She looks at Yuta.
 
-“*Tell him first*,” she says. “*Not me. Him.*” ʳⁱᵏᵃ
+“*A ring*,” she says. “*Not a blade. He gave me one ring already. That one was a promise. This one can be too.*” ʳⁱᵏᵃ
+
+Yuta makes a sound and doesn't finish it.
 
 Noise looks at Yuta too.
 
@@ -187,21 +191,19 @@ And begins.
 
 * * *
 
-It isn't an answer.
+It isn't finished.
 
 Mau knows that. Noise knows that. It takes nine minutes, and at the end of the nine minutes Noise steps back, and Rika is still Rika, and nothing has changed that anyone can see.
 
-But Mau feels it. Through Noise. Something going in. Something being read. Not all of it. Not even most of it. A door opened a hand's width, on something very old and very strange and very much loved.
+But Mau feels it. Through Noise. Something being read, closer than when he built her for the katana, because this time she's holding still and letting him. Every form. Every line of her. All of it laid down on the table inside like a pattern on the back of one of Mai's drawings.
 
 *Well?* says Mau, inside. ᴹ
 
-*It's going to take a long time*, says Noise. ᴺ
+*I have her*, says Noise. *The snapshot can be made now. Then the ring, with Mai. Then we move everything he's given her into it, you and me, and she's kept.* ᴺ
 
-*Can you do it?* ᴹ
+*How long?* ᴹ
 
-A pause.
-
-*I don't know*, says Noise. *But I know where to start now. She showed me where to start.* ᴺ
+*Not long*, says Noise. *I wanted her to say yes before I drew the last line.* ᴺ
 
 * * *
 
@@ -213,9 +215,9 @@ Before she does, she bends down one more time. To Noise. Level.
 
 Noise looks at her.
 
-“*Next time*,” says Rika. “*Come back out. In the sun. And look some more. And we can talk about staying.*” ʳⁱᵏᵃ
+“*Next time*,” says Rika. “*Come back out. In the sun. And bring my ring. And we can talk about staying.*” ʳⁱᵏᵃ
 
-“Yes,” says Noise. ᴺ
+“*Yes*,” says Mau, for him. ᴺ
 
 Rika smiles, the small one, and folds herself up, and goes back into the ring in Yuta's palm like water going down a drain.
 

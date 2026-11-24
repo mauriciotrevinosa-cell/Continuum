@@ -1,10 +1,10 @@
 # The Arrivals — Light Novel — Volume 84 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — in progress: Yoru's war ends in three moves; Mau sleeps; Yuka learns the truth; the reconciliation (Mauri's version) begins and the volume continues.
+**Status:** LN PRODUCTION DRAFT — complete volume: Yoru's war in three moves; the reconciliation; the first part of the forty-eight days (B+440–459). V85 continues the forty-eight days.
 **Volume:** 84
 **Season:** 13
 **Coverage:** S13E119–; Yoru's war, the clinic, Yuka's turn
-**Chapter files:** 14
+**Chapter files:** 35
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -26,6 +26,27 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 12 | S13E124 | A Weapon | `THE_ARRIVALS_S13E124_LN_CHAPTER_02_A_WEAPON_v0.1.md` |
 | 13 | S13E125 | Don't Steal My Apology | `THE_ARRIVALS_S13E125_LN_CHAPTER_01_DONT_STEAL_MY_APOLOGY_v0.1.md` |
 | 14 | S13E125 | Nobody Knock | `THE_ARRIVALS_S13E125_LN_CHAPTER_02_NOBODY_KNOCK_v0.1.md` |
+| 15 | S13E126 | Wake Up in Thirty | `THE_ARRIVALS_S13E126_LN_CHAPTER_01_WAKE_UP_IN_THIRTY_v0.1.md` |
+| 16 | S13E126 | Carried Down | `THE_ARRIVALS_S13E126_LN_CHAPTER_02_CARRIED_DOWN_v0.1.md` |
+| 17 | S13E127 | Nobody Else Today | `THE_ARRIVALS_S13E127_LN_CHAPTER_01_NOBODY_ELSE_TODAY_v0.1.md` |
+| 18 | S13E127 | Under Kamish's Tree | `THE_ARRIVALS_S13E127_LN_CHAPTER_02_UNDER_KAMISHS_TREE_v0.1.md` |
+| 19 | S13E128 | Rain and Doors | `THE_ARRIVALS_S13E128_LN_CHAPTER_01_RAIN_AND_DOORS_v0.1.md` |
+| 20 | S13E128 | Not Watching the Stairs | `THE_ARRIVALS_S13E128_LN_CHAPTER_02_NOT_WATCHING_THE_STAIRS_v0.1.md` |
+| 21 | S13E129 | Applause | `THE_ARRIVALS_S13E129_LN_CHAPTER_01_APPLAUSE_v0.1.md` |
+| 22 | S13E129 | Not One Centimetre | `THE_ARRIVALS_S13E129_LN_CHAPTER_02_NOT_ONE_CENTIMETRE_v0.1.md` |
+| 23 | S13E130 | Beru's Cry | `THE_ARRIVALS_S13E130_LN_CHAPTER_01_BERUS_CRY_v0.1.md` |
+| 24 | S13E130 | Swallowed Words | `THE_ARRIVALS_S13E130_LN_CHAPTER_02_SWALLOWED_WORDS_v0.1.md` |
+| 25 | S13E131 | Construction | `THE_ARRIVALS_S13E131_LN_CHAPTER_01_CONSTRUCTION_v0.1.md` |
+| 26 | S13E131 | Second Friend | `THE_ARRIVALS_S13E131_LN_CHAPTER_02_SECOND_FRIEND_v0.1.md` |
+| 27 | S13E132 | First Pin | `THE_ARRIVALS_S13E132_LN_CHAPTER_01_FIRST_PIN_v0.1.md` |
+| 28 | S13E132 | How Did You Get So Close | `THE_ARRIVALS_S13E132_LN_CHAPTER_02_HOW_DID_YOU_GET_SO_CLOSE_v0.1.md` |
+| 29 | S13E133 | Seven Rooms | `THE_ARRIVALS_S13E133_LN_CHAPTER_01_SEVEN_ROOMS_v0.1.md` |
+| 30 | S13E133 | The Host | `THE_ARRIVALS_S13E133_LN_CHAPTER_02_THE_HOST_v0.1.md` |
+| 31 | S13E134 | Two People | `THE_ARRIVALS_S13E134_LN_CHAPTER_01_TWO_PEOPLE_v0.1.md` |
+| 32 | S13E134 | Rem Asks | `THE_ARRIVALS_S13E134_LN_CHAPTER_02_REM_ASKS_v0.1.md` |
+| 33 | S13E135 | Satellites | `THE_ARRIVALS_S13E135_LN_CHAPTER_01_SATELLITES_v0.1.md` |
+| 34 | S13E135 | The Invitation | `THE_ARRIVALS_S13E135_LN_CHAPTER_02_THE_INVITATION_v0.1.md` |
+| 35 | S13E136 | The Mediator | `THE_ARRIVALS_S13E136_LN_CHAPTER_01_THE_MEDIATOR_v0.1.md` |
 
 ## Notes
 
@@ -43,3 +64,6 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 - DIO's count: "two you owe me" (the door, the letter). The small lie about Elmesia's letter will make three when she works it out.
 - #13 completes the clinic apology and the kiss beside the cot. Yuka asks Mau to reopen their direct channel, then reaches out herself. The intimate-scene pause continues.
 - Mau's open threads: Yoru (48 days left at #14; Halloween planned for later, not yet known to Mau), Gojo's real rematch, Yuka's long list, Cross as a friend.
+- #15–35 are the first part of the forty-eight days before Yoru (Mauri's ideas, planning doc), roughly one chapter per day, B+440–459: clingy Yuka reloaded, Cross (no centimetre; Beru's cry), thanks and contracts (Mai's listening clause; Maki's Construction; Rika's clock), Makima's second friend, Satella asks, seven rooms, DIO and Elmesia, Rem and Umaru.
+- [PARA WORK] brackets in #13, #16 (breakfast kisses) and #20 (flour kisses). The intimate-scene pause continues; Yuka lifts it in her own words in V85.
+- DIO's count stays at two: she keeps the letter lie as "a good lie" (#35).

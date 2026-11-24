@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 16
 **Source episode:** S13E126
-**Continuity state:** B+440 ("47"), thirty minutes later. Mau goes up. Yuka is in bed with her eyes shut very hard, pretending to be asleep, and failing because she can't stop smiling. He carries her down the stairs the way he said he would. She opens her eyes in the kitchen to everything on the table and the whole house pretending not to watch. Clingy Yuka, reloaded: she won't let go of him, sits in his lap through breakfast, feeds him, and steals from every plate in reach. [PARA WORK] marks the kisses. She writes "47" in the notebook in whipped cream and then in pencil. The house eats the rejects. Nothing about the last two weeks is said; it doesn't need to be today.
+**Continuity state:** B+440 ("47"), thirty minutes later. Mau goes up. Yuka is in bed with her eyes shut very hard, pretending to be asleep, and failing because she can't stop smiling. He carries her down the stairs the way he said he would. She opens her eyes in the kitchen to everything on the table and the whole house pretending not to watch. Clingy Yuka, reloaded: she won't let go of him, sits in his lap through breakfast, feeds him, and steals from every plate in reach. She kisses him through breakfast, and he gives as good as he gets. She writes "47" in the notebook in whipped cream and then in pencil. The house eats the rejects. Nothing about the last two weeks is said; it doesn't need to be today.
 
 *When: B+440. Twenty-nine minutes after "I'm waking up in thirty". Umaru counted.*
 
@@ -95,9 +95,27 @@ She doesn't get off his lap. Not once. She eats from every plate she can reach, 
 
 And every so often, for no reason he can see, in the middle of a mouthful, she just stops, and turns her face up, and looks at him.
 
-[PARA WORK: kisses through breakfast. Small, frequent, unashamed, in front of everyone; she kisses him in the middle of the table with cream on her mouth and doesn't care who sees. Clingy reloaded: she's making up for a week. Nothing beyond kisses; the pause continues. Sin límite de palabras; no comprimas.]
+The first time, he thinks she wants him to pass something. He reaches for the plate of cakes and she catches his chin on the way past. Her thumb is cool against his jaw. The kiss leaves a dab of cream on his upper lip.
 
-Milim makes a noise every time. Rimuru, beside her, puts a hand over her mouth every time.
+“You've got something on you,” she says. ʸ
+
+“I wonder how it got there.” ᴹ
+
+She leans in again to get it. He turns his head at the last second and catches her mouth. A little laugh gets out of her. She curls her hand round the back of his neck and keeps him there until the fork in his other hand comes to rest on the plate.
+
+At the far end, Milim takes in a heroic amount of air. Rimuru barely gets there in time.
+
+By the time Mau has slid the tart plate within Stark's reach, Yuka has shifted so he's tucked into the crook of her arm. There's an open place on her cheek just above the edge of the blanket. He puts a kiss there on his own. She stops with a piece of cake pinched between her fingers, puts it back, and presses her face into his neck.
+
+“You can do that again,” she says. ʸ
+
+He does. She tips her head into it so hard he has to catch her at the waist. Her feet slide off his shin, and he gathers the blanket around them before she gets cold. When he looks up again, Stark is holding out the plate with one tart left on it, very solemnly, as if he's offering it to somebody on the other side of a river.
+
+Yuka takes it.
+
+“For him,” she tells Stark. She eats the crisp edge off it and feeds Mau the rest. ʸ
+
+By the time Mau kisses Yuka's wrist on the way to taking a bite, Rimuru has started eating one-handed.
 
 Umaru, by the reject pile, has stopped eating and is just watching them with her chin in her hands and tears running down her face, and isn't doing anything about the tears, and has a fork in one hand that she's forgotten about.
 

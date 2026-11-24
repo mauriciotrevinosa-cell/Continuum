@@ -5,13 +5,13 @@
 **Volume:** 85
 **Reading order:** 22
 **Source episode:** S13E147
-**Continuity state:** B+479–480 ("8"–"7"). DIO's second visit to Elmesia, the first since they said it. DIO takes the plant from the Guest Inn windowsill for its holiday in the sheltered corner of the palace garden. Mau comes because she can't go that far from him; Yuka comes because there will be cakes. This time nobody needs a mediator. Mau and Yuka sit in the little room with the very good view, with View, who keeps the room between rota weeks and has to share his window. They watch DIO and Elmesia plant it together in the lit garden below, and argue about how deep, and laugh. DIO comes up the stair at the end with dirt on her hands and a face Mau can't see the colour of but can guess. She tells him she isn't counting the debts anymore. Then she says: still two.
+**Continuity state:** B+479–480 ("8"–"7"). DIO's second visit to Elmesia, the first since they said it. DIO takes the plant from the Guest Inn windowsill for its holiday in the sheltered corner of the palace garden. Mau brings them through the Exchange; Yuka comes for the company and the cakes. This time nobody needs a mediator. Mau and Yuka sit in the little room with the very good view, with View, who keeps the room between rota weeks and has to share his window. They watch DIO and Elmesia plant it together in the lit garden below, and argue about how deep, and laugh. DIO comes up the stair at the end with dirt on her hands and a face Mau can't see the colour of but can guess. She tells him she isn't counting the debts anymore. Then she says: still two.
 
 *When: B+479, evening, into the small hours of B+480. "8", then "7". DIO wrote both herself, in a hand that has got much neater since she started writing letters.*
 
 DIO goes to the Guest Inn for the plant at dusk.
 
-Mau goes with her. Not inside it; she wants to do this part herself. He waits in the hall while she goes up the stairs to her room, the physical one, the one with the window that actually looks out onto something, and comes back down with the pot in both hands.
+Mau walks with her to the Guest Inn. She wants to carry the plant down herself. He waits in the hall while she goes up the stairs to her room, the physical one, the one with the window that actually looks out onto something, and comes back down with the pot in both hands.
 
 The plant is bigger than it was. Four new leaves since the first visit. She's drawn every one of them in her watering notebook.
 
@@ -102,6 +102,16 @@ And they turn, together, and go out into the lit garden.
 Mau and Yuka watch from the window.
 
 There's room, just, beside View. Yuka sits on the windowsill with the basket in her lap. Mau stands behind her with his arms round her shoulders and his chin on top of her head.
+
+Yuka leans back an inch and finds him with the top of her head.
+
+“Can you see over me?” she asks. ʸ
+
+“Yes.” ᴹ
+
+“Then come down here.” ʸ
+
+She moves the basket to the other end of the sill. He fits onto the ledge beside her, one foot against the floor, and she puts both of her legs across his. When the edge of the stone starts to dig into him, she folds the cloth out of the basket and pushes it under his hip. He catches her cheek with a quick kiss as she straightens. She feeds him a corner of her cake without looking down.
 
 Below them, the garden. All the paths lit. The fountains. The lanterns in the trees. And in the sheltered corner by the old wall, where the light's good, two small figures kneeling in the earth.
 

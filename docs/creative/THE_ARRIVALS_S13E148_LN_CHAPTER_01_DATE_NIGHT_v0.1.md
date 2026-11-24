@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 23
 **Source episode:** S13E148
-**Continuity state:** B+481 ("6"). Mau asks Yuka out. Properly. For the first time since before the island he plans something himself and doesn't ask anyone how. He takes her back to the valley of everyone's pears, by Exchange to Kamish's shadow on the far rim, at sunset, with a blanket and a basket Shuna packed without asking questions. The terrible wild pears. The stream. The stars, which are enough. He tells her something plainly, as she taught him: that for two weeks he was afraid she'd go, and now he isn't, and the difference is that she told him the truth when it was ugly. She tells him the last line of the long list. He'd already guessed. [PARA WORK] marks kisses. They don't go home until it's very late.
+**Continuity state:** B+481 ("6"). Mau asks Yuka out. Properly. For the first time since before the island he plans something himself and doesn't ask anyone how. He takes her back to the valley of everyone's pears, by Exchange to Kamish's shadow on the far rim, at sunset, with a blanket and a basket Shuna packed without asking questions. The terrible wild pears. The stream. The stars, which are enough. He tells her something plainly, as she taught him: that for two weeks he was afraid she'd go, and now he isn't, and the difference is that she told him the truth when it was ugly. She tells him the last line of the long list. He'd already guessed. They stay under the trees, kissing and listening to the stream. They don't go home until it's very late.
 
 *When: B+481. "6." Under it, in Mau's hand, which still almost never appears: "date". Yuka has underlined it three times and drawn a pear.*
 
@@ -65,7 +65,7 @@ He takes her by Exchange.
 
 They stand in the yard at sunset, with the basket, and he holds out his hand, and she takes it, and the world folds round them like a coat.
 
-Kamish is already there. He flew out an hour ago, alone, which he has never done before, and settled himself on the far rim of the basin above the long valley, and folded his wings, and waited. His shadow is the anchor.
+Kamish is already there. He flew out an hour ago and settled himself on the far rim of the basin above the long valley, and folded his wings, and waited. His shadow is the anchor.
 
 They come through into Kamish's shadow on the rim.
 
@@ -171,7 +171,35 @@ Then she rolls over and puts her face in his shoulder.
 
 She cries. A little. Into his shoulder. The good kind.
 
-[PARA WORK: kisses here, under the pear trees, in the starlight, after he's said it. Unhurried. Both of them happy. Clingy Yuka reloaded; she doesn't let him go. Not an intimate scene; kisses and holding. Sin límite de palabras; no comprimas.]
+Her sleeve has gone damp where she's been trying to wipe her face with it. Mau turns the cuff back for her. Underneath, the skin on her wrist is cold. He puts his mouth there, just where the cuff was, then holds her hand against the warm part of his throat.
+
+“Come here,” she says. ʸ
+
+He lifts his head. “I'm here.” ᴹ
+
+“You're on that bit of blanket. This is the good bit.” ʸ
+
+She rolls onto her back to show him the room she's made, about the width of a finger. He looks at it for a second, then sets his elbow past her shoulder and lets his head come down against her. She gets an arm round him before he's finished getting settled. He smells of the stream, where he rinsed their cups, and the last of the bread crust.
+
+“Can I?” he asks, his nose brushing hers. ᴹ
+
+She answers with her hand at his neck, drawing him down. His elbow shifts in the grass. The blanket wrinkles under her heel and she pushes it away, trying to get closer without breaking the kiss. He's smiling by the time they have to breathe. She kisses the smile. He chases one more when she starts to turn her head, and his lips land halfway to her ear.
+
+“That's my ear,” she says. ʸ
+
+“I got that.” ᴹ
+
+He starts to take his weight onto his arm. She slips both hands under the edge of his cloak, palms flat on his back, and turns her cheek into his. He settles against her again. From here the stream sounds closer. He can feel the little hitch in her breathing taper off as she lets her fingers relax against his shirt.
+
+Down in the grass beside the blanket, something drops out of a tree with a soft thud.
+
+“One of them just fell,” says Mau. ᴹ
+
+“It can stay there.” ʸ
+
+“I was going to save it for you.” ᴹ
+
+She pulls him back up to kiss him properly. By the time she lets him look for it, it's too dark to see it in the grass.
 
 * * *
 
@@ -181,7 +209,7 @@ Much later, she lifts her head.
 
 He looks at her.
 
-“Of the list,” says Yuka. “The long one. The one I wrote in the workshop with jam on my fingers. You never asked. You never looked. You said *I saw the notebook* and you didn't read it.” ʸ
+“Of the list,” says Yuka. “The long one. The one I wrote in the workshop with jam on my fingers. You saw all my ticks. I kept my thumb over the last line, and you let me.” ʸ
 
 “I didn't.” ᴹ
 
@@ -231,17 +259,15 @@ They don't go home until very late.
 
 When they finally climb back up the valley to the rim, with the empty basket and the blanket over Yuka's shoulders, Kamish is still there. Exactly where they left him. His head on his forelegs. His eyes half closed.
 
-He opens one when they come up.
+He opens one eye when they come up.
 
-Looks at them.
+“There's a pear in your hood,” he says. ᴷ
 
-Closes it again.
+Mau reaches behind his own neck. Nothing. Yuka touches the back of hers, and her hand comes away with a little hard pear in it.
 
-*You waited*, Mau tells him, inside. ᴹ
+“How long has that been there?” she asks. ʸ
 
-The eye opens. Looks at him. Closes.
-
-He takes that as a yes.
+“I was going to tell you at the bottom,” says Kamish. He closes his eye again. “You looked busy.” ᴷ
 
 They step into Kamish's shadow, and the world folds round them like a coat, and they're home. In the yard. Under the stars. With the house dark and asleep and one lamp still lit in the kitchen window, where somebody left it for them.
 

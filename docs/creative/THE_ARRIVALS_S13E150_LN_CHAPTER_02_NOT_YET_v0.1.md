@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 28 — Not Yet
+## Chapter 29 — Not Yet
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1 (end of volume)
 **Volume:** 85
-**Reading order:** 28
+**Reading order:** 29
 **Source episode:** S13E150
 **Continuity state:** B+487 ("0"), the hour. The ninety days end. Yoru comes in Asa's body to the edge of the grounds and finds the whole house standing in the yard, exactly as drawn in Rimuru's notebook. She says: not yet. She promised him something better than the basin, and something better takes longer. Being, she says, so very generous, she won't kill anyone while she prepares it. In exchange she wants one answer: why didn't he enjoy the fight with the devils? He tells her the truth: he hadn't slept in days, he'd just come from a fight where he did smile, the devils were irritating, and all he wanted was to go home and sleep. Yoru says nothing. She'll give the house warning, and rules, in good time; he asks for a month; she offers two weeks; he starts to say something and she says one word other than "thanks" and it's one week; he says "thanks." Asa surfaces to say hello and goodbye. Mau offers her a camping kit, a change of clothes and food, in case she has nowhere. Asa says they have a place, but it's far away; if the offer stands, she'll take it. Yoru, grudgingly: "Asa told me to say thanks." They go. The countdown in the notebook ends. The house goes in to lunch.
 
@@ -357,7 +357,7 @@ And under that, smaller still:
 
 * * *
 
-Shuna rings the bell for lunch.
+Shuna rings the bell for supper.
 
 The house goes in.
 
@@ -381,7 +381,7 @@ He checks. Under the ribs. Behind the doors.
 
 He takes the small carved dragon out of his pocket and looks at it. Sitting. Ori's. A lend, not a give.
 
-He'll give it back after lunch.
+He'll give it back after supper.
 
 He goes in.
 
@@ -393,6 +393,10 @@ She looks up at him with a perfectly straight face and pats her lap.
 
 He sits in her chair instead. Beside her.
 
-She steals his pickles.
+She gives him a look, and before she can reach for his plate he tucks an arm around her and draws both chairs closer. The legs scrape. Shuna puts down the rice and goes straight back for two more bowls.
+
+“Here,” he says, and kisses her when she leans back to find out what he wants. ᴹ
+
+Yuka stays tucked under his chin until Ori comes with the empty notebook and asks if there's room. Mau shifts over. Yuka lifts the edge of the tablecloth for Ori's knees. The notebook goes down between their plates, and while Ori is deciding what to write on the first page, Yuka steals his pickles.
 
 **End of Volume 85.**

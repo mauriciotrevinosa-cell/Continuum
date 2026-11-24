@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 20
 **Source episode:** S13E128
-**Continuity state:** B+444 ("43"). Shuna keeps her word from the morning of the feast: she teaches Mau the tray he burned, properly, now that he isn't watching the stairs. Yuka's caprice for the day is to sit on the counter and supervise, which mostly means eating whatever isn't nailed down, kissing him whenever he gets flour on his face ([PARA WORK]), and narrating his mistakes. Shuna is a strict teacher. The tray comes out right on the third try. Shuna says something small about how the house looks to her from the stove. Rem and Umaru come in halfway and Mau notices, for the first time with his own eyes, how Rem looks at Umaru; he files it away.
+**Continuity state:** B+444 ("43"). Shuna keeps her word from the morning of the feast: she teaches Mau the tray he burned, properly, now that he isn't watching the stairs. Yuka's caprice for the day is to sit on the counter and supervise, which mostly means eating whatever isn't nailed down, kissing him whenever he gets flour on his face, and narrating his mistakes. Shuna is a strict teacher. The tray comes out right on the third try. Shuna says something small about how the house looks to her from the stove. Rem and Umaru come in halfway and Mau notices, for the first time with his own eyes, how Rem looks at Umaru; he files it away.
 
 *When: B+444. "43." Under it, in Yuka's hand: "SUPERVISING". In Shuna's, very small, in the corner: "lesson 1".*
 
@@ -79,11 +79,13 @@ She slides down off the counter. She comes over, barefoot on the kitchen floor i
 
 Then she reaches up and wipes it off with her thumb.
 
-[PARA WORK: kiss here, where the flour was. Quick, pleased with herself. Then she goes back to the counter as if nothing happened. She will do this every time he gets flour on his face, which is often. Sin límite de palabras; no comprimas.]
+He turns his head into her thumb because he assumes she needs a better angle. She goes up on her toes and kisses the spot she just cleaned. It's quick enough that the bowl hasn't quite settled from where his wrist nudged it. By the time he turns back, she's already pulling herself onto the counter by the edge.
+
+He's still got a little flour at his hairline. He leaves it there.
 
 “Supervisors,” says Shuna, without looking round from the stove, “don't touch the cook.” ˢʰᵘ
 
-“I was removing a hazard,” says Yuka, climbing back onto the counter. ʸ
+“I was removing a hazard,” says Yuka, fishing a nut out of her bowl. ʸ
 
 Shuna doesn't answer. But Mau sees the side of her face, turned toward the stove, and the corner of her mouth.
 

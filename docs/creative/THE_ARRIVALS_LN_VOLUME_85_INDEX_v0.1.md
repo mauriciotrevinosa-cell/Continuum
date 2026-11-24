@@ -4,7 +4,7 @@
 **Volume:** 85
 **Season:** 13
 **Coverage:** S13E137–S13E150; B+460–487
-**Chapter files:** 28
+**Chapter files:** 29
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -38,18 +38,20 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 24 | S13E148 | Too Helpful | `THE_ARRIVALS_S13E148_LN_CHAPTER_02_TOO_HELPFUL_v0.1.md` |
 | 25 | S13E149 | Rika | `THE_ARRIVALS_S13E149_LN_CHAPTER_01_RIKA_v0.1.md` |
 | 26 | S13E149 | His Day | `THE_ARRIVALS_S13E149_LN_CHAPTER_02_HIS_DAY_v0.1.md` |
-| 27 | S13E150 | The Night Before | `THE_ARRIVALS_S13E150_LN_CHAPTER_01_THE_NIGHT_BEFORE_v0.1.md` |
-| 28 | S13E150 | Not Yet | `THE_ARRIVALS_S13E150_LN_CHAPTER_02_NOT_YET_v0.1.md` |
+| 27 | S13E149 | Where It Sits | `THE_ARRIVALS_S13E149_LN_CHAPTER_03_WHERE_IT_SITS_v0.1.md` |
+| 28 | S13E150 | The Night Before | `THE_ARRIVALS_S13E150_LN_CHAPTER_01_THE_NIGHT_BEFORE_v0.1.md` |
+| 29 | S13E150 | Not Yet | `THE_ARRIVALS_S13E150_LN_CHAPTER_02_NOT_YET_v0.1.md` |
 
 ## Notes
 
-- Direction: Mauri, 23 November 2026 (ideas for the forty-eight days; reconciliation; Gojo's rematch; ~50 chapters), saved word for word in `the_arrivals_story_board/S13_SIMURIANS_THEN_DEVILS_PLANNING_2026-11-21.md`. V84 #15–35 plus V85 #1–28 make 49 chapters for the forty-eight days, roughly one per day.
+- Direction: Mauri, 23 November 2026 (ideas for the forty-eight days; reconciliation; Gojo's rematch; ~50 chapters), saved word for word in `the_arrivals_story_board/S13_SIMURIANS_THEN_DEVILS_PLANNING_2026-11-21.md`. V84 #15–35 plus V85 #1–29 make 50 chapters for the forty-eight days, roughly one per day.
 - #1 Beatrice joins the Fort ("even against the library"). #6 the wheel undoes her contract; she stays by choice.
 - #2–5 Gojo's real rematch, Shoko's rules; both domains collapse as on Day 133 and the two Purples go into the sky. Draw, for style.
-- #9 *In Her Own Words*: Yuka ends the pause (V80 #6) on the porch step. She leads their reunion upstairs, and in the morning she ticks the last line of her list. #23 still has a kiss bracket.
+- #9 *In Her Own Words*: Yuka ends the pause on the porch and tells Mau what she wants. He sees the checked list while she keeps the last line to herself. At #23 she chooses to tell him what it said.
 - #11–13 expedition two: the REST HERE stone, Kamish's fire told at Ori's size, the valley of everyone's pears, Frieren's compass points home. EXPEDITION THREE is an arrow off the map.
 - Seeds, not resolved: #14 Dabura's hands trace the wheel (memory taken, hands missed; filed "for when he wants it"). #24 Cross's harmless questions add up to a map; nobody moves, everyone watches. #25 Noise begins studying what holds Rika.
 - #20 Frieren and Himmel: she won't wait to understand him this time. Nothing named. Flagged for Mauri to confirm the direction.
 - #21 Senku's satellite plan (fifteen to twenty years); the Fort has a seat on the launch committee.
 - DIO's count stays "still two" (#22): she has stopped counting, not owing.
-- #28: Yoru, at the hour, "not yet"; she promises not to kill anyone while she prepares "something better"; two weeks' warning ("thanks"); Asa takes the camping kit. The countdown notebook is finished.
+- #27 *Where It Sits* (B+485): Mai fits the clasp; Maki sees her pin put to use on the inside of Mau's cloak. The Fort gets a trial run of a rain shelter with Mau and Yuka.
+- #29: Yoru, at the hour, "not yet"; she promises not to kill anyone while she prepares "something better"; two weeks' warning ("thanks"); Asa takes the camping kit. The countdown notebook is finished.

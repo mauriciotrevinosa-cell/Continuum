@@ -65,5 +65,5 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 - #13 completes the clinic apology and the kiss beside the cot. Yuka asks Mau to reopen their direct channel, then reaches out herself. The intimate-scene pause continues.
 - Mau's open threads: Yoru (48 days left at #14; Halloween planned for later, not yet known to Mau), Gojo's real rematch, Yuka's long list, Cross as a friend.
 - #15–35 are the first part of the forty-eight days before Yoru (Mauri's ideas, planning doc), roughly one chapter per day, B+440–459: clingy Yuka reloaded, Cross (no centimetre; Beru's cry), thanks and contracts (Mai's listening clause; Maki's Construction; Rika's clock), Makima's second friend, Satella asks, seven rooms, DIO and Elmesia, Rem and Umaru.
-- [PARA WORK] brackets in #13, #16 (breakfast kisses) and #20 (flour kisses). The intimate-scene pause continues; Yuka lifts it in her own words in V85.
+- #16 and #20 show Mau and Yuka affectionate at breakfast and in Shuna's kitchen. Yuka ends the pause in her own words in V85 #9.
 - DIO's count stays at two: she keeps the letter lie as "a good lie" (#35).

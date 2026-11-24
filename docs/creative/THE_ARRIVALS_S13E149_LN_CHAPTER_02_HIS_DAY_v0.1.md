@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 26
 **Source episode:** S13E149
-**Continuity state:** B+484–485 ("3"–"2"). Yuka turns her own line around. Weeks ago she asked for one day where she was the only one he looked after. Now she organises the reverse: one day where he's the only one the house looks after. Ori runs it like a war. He isn't allowed to check on anyone, carry anything, cook anything, or fix anything. Ciel watches the lines. Everyone brings him something small: Shuna the bread he made, Mai a clasp, Maki her best pin, Beatrice a book about fruit, Dabura a perfect pear, Gojo sweets he doesn't share, Makima nothing, because she just sits with him. He tries to help three times and is stopped three times. At the end of the day he says thank you to the whole table and can't finish the sentence. Three days to Yoru. Nobody mentions it.
+**Continuity state:** B+484 ("3"). Yuka turns her own line around. Weeks ago she asked for one day where she was the only one he looked after. Now she organises the reverse: one day where he's the only one the house looks after. Ori runs it like a war. He isn't allowed to check on anyone, carry anything, cook anything, or fix anything. Ciel watches the lines. Everyone brings him something small: Shuna the bread he made, Mai a clasp, Maki her best pin, Beatrice a book about fruit, Dabura a perfect pear, Gojo sweets he doesn't share, Makima nothing, because she just sits with him. He tries to help three times and is stopped three times. At the end of the day he says thank you to the whole table and can't finish the sentence. Three days to Yoru. Nobody mentions it.
 
 *When: B+484. "3." Under it, in Yuka's hand: "HIS DAY". Ori has added: "(ORDERS: DAD DOES NOTHING)".*
 
@@ -163,7 +163,15 @@ Shuna brings out the food.
 
 He isn't allowed to serve himself. Yuka serves him. She sits on the arm of his chair instead of in her own, and puts food on his plate, and sets the pickles aside on her side of it herself, and steals them.
 
-He eats.
+He eats. Then he sets his chopsticks down and tugs gently on the hem of Yuka's hoodie. She looks down at his fingers, then at him.
+
+“Come off the arm,” he says. “I can only see one of your eyes from here.” ᴹ
+
+She swings her legs over and lands sideways against him, her heel catching briefly on the lower rung of the chair. He steadies her by the waist. The back of her neck is warm from the kitchen, and he kisses the spot where her hair has come loose. She turns into it at once, drops the pickle back on the plate, and puts one hand flat against his cheek so he can't go far.
+
+Ori glances down the table. “Dad is allowed to do that.” ᴼ
+
+“I should hope so,” says Yuka. She straightens only far enough to make room for his plate. ʸ
 
 Halfway through, he looks up.
 

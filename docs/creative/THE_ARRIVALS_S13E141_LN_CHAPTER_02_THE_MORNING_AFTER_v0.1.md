@@ -105,6 +105,16 @@ She looks at Yuka.
 
 Yuka looks back at her with a perfectly straight face, and eats a piece of cake.
 
+“Are *you* smiling because of pears?” asks Ori. ᴼ
+
+“I'm smiling because I woke up next to your dad.” ʸ
+
+It comes out clear enough for the far end of the table. Mau feels her ribs move under his arm as she says it. Ori has her mouth open on another question when Mau tips his head over and kisses Yuka's temple.
+
+“And I like the cake,” Yuka adds. She puts the next bite into Mau's mouth. “You can write both.” ʸ
+
+Ori writes neither. She has sixteen witnesses and a developing theory, and she knows better than to take a suspect's word for it.
+
 Ori's eyes narrow further.
 
 “It's not the pears,” she says. ᴼ

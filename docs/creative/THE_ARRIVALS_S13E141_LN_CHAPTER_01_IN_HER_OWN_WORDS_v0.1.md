@@ -27,13 +27,11 @@ He looks at her. He doesn't ask. He's learned not to ask. He just waits, with hi
 
 She takes the notebook out of the hoodie pocket.
 
-She opens it to the back. To the list. The long one. She turns it round so he can see. She holds it out.
+She opens it to the back. To the list. The long one. She's had her thumb on the last line since the kitchen. The one she left a space for on the first morning on the wet grass, and wrote yesterday in the workshop with jam on her fingers.
 
-She points to the last line. The one at the bottom. The one she left a space for on the first morning on the wet grass, and wrote yesterday, in the workshop, with jam on her fingers.
+She turns the book towards him. He can see the checked boxes all down the page. He can see the space under her thumb. When his eyes lift to hers, she nearly moves it. She's carried those words all the way from the workshop, and letting him read them would be easy.
 
-He looks at it.
-
-She watches him read it. She watches it go into him. She watches his face go very still.
+She keeps her thumb where it is. He looks at her face and goes very still.
 
 She's already decided she's going to say it out loud anyway. Writing it down isn't enough. Writing it down is still a little bit hiding.
 
@@ -43,7 +41,7 @@ She's already decided she's going to say it out loud anyway. Writing it down isn
 
 Her voice comes out steadier than she expected.
 
-“I asked for it,” she says. “Before the island. After the false alarm. I couldn't do the hoping anymore, not then. And you said okay. And you never asked me to end it. Not once. Not in three months. You held me every night and you never once made me guess whether you were waiting.” ʸ
+“I asked for it,” she says. “Before the island. After the false alarm. I couldn't do the hoping anymore, not then. And you said okay. And you never asked me to end it. Not once. Not in three months. You held me every night you could. I could fall asleep on you and know you'd still be glad I was there in the morning.” ʸ
 
 She takes a breath.
 
@@ -85,7 +83,7 @@ It doesn't frighten her.
 
 He looks at her a moment longer.
 
-Then he looks down at the notebook in her other hand, still open at the last line. He reaches out and closes it. Gently. With his thumb. And puts it back in the hoodie pocket for her, and his hand stays there, on the outside of the pocket, over the notebook, over her.
+Then he looks down at the notebook in her other hand, still open to the list. He reaches out and closes it. Gently. With his thumb. And puts it back in the hoodie pocket for her, and his hand stays there, on the outside of the pocket, over the notebook, over her.
 
 “Okay,” he says. ᴹ
 
@@ -109,7 +107,15 @@ She stops in the doorway.
 
 She looks at it. The bed. The window open a little. The lamp. The place on his pillow where the notebook was, once, with *53* in her hand.
 
-She turns round to look at him.
+She turns round to look at him. He's close enough to kiss, and she has just opened her mouth to say so when he bends and does it first. One hand at her back. The other wrapped around two of her fingers, the ones that are still in his. Her breath goes out through her nose in surprise. He comes up smiling, and she has to lean against the jamb for a moment.
+
+“That was for downstairs,” he says. ᴹ
+
+“I was there the whole time.” ʸ
+
+“I know. I was listening.” ᴹ
+
+She laughs, and the sound carries just far enough down the hall that they both look. There's nobody there. She wants to kiss him for looking, too.
 
 “Come in,” she says. ʸ
 
@@ -227,7 +233,7 @@ She starts to lift the one on his cheek. He brings his lower hand up between the
 
 He turns his face a little into her palm. “Both.” ᴹ
 
-She squeezes once. He presses back, hard enough to spread her fingers, and the answer draws her forward before she thinks to move.
+She squeezes once. He presses back, and when she leans in he has already lifted his face to meet her. For a moment all she can see is the crease at the corner of his eye. He's smiling in the middle of kissing her. She feels it before she sees it, and then she's smiling too, and they have to stop and try all over again.
 
 “Wait,” he says. “Say it again?” ᴹ
 

@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 34
 **Source episode:** S13E135
-**Continuity state:** B+457–458 ("30"–"29"). Umaru's banner goes up over the Fort: REM SAID IT. Rem tries to take it down and is outvoted by the entire Fort. Meanwhile Mau keeps his promise to DIO. He writes to Elmesia, carefully, not saying anything that isn't his to say: DIO would like to visit the garden again, with the plant, and would like it to be just the two of them this time, with Mau nearby only because he has to be. Elmesia's bird comes back the same afternoon. Yes. Tomorrow evening. DIO panics for a day and a half. Ciel helps her choose what to wear and is made to leave the room. Makima gives her advice nobody asked for. Ori lends her the little carved dragon for luck. Mau decides he can't be the only one there who knows anything about this, and asks Yuka to come.
+**Continuity state:** B+457–458 ("30"–"29"). Umaru's banner goes up over the Fort: REM SAID IT. Rem tries to take it down and is outvoted by the entire Fort. Meanwhile Mau keeps his promise to DIO. He writes to Elmesia, carefully, not saying anything that isn't his to say: DIO would like to visit the garden again, with the plant, and would like it to be just the two of them this time, with Mau bringing them through the Exchange and waiting upstairs. Elmesia's bird comes back the same afternoon. Yes. Tomorrow evening. DIO panics for a day and a half. Ciel helps her choose what to wear and is made to leave the room. Makima gives her advice nobody asked for. Ori lends her the little carved dragon for luck. Mau decides he can't be the only one there who knows anything about this, and asks Yuka to come.
 
 *When: B+457 and 458. "30", then "29". Beside "30" Umaru has stuck a small paper flag. It says REM.*
 
@@ -41,7 +41,7 @@ He's careful. He sits at the kitchen table with Ciel at his shoulder, inside, re
 
 *DIO would like to visit the garden again. With the plant. She'd like to see the place you said it might have a holiday.*
 
-*She'd like it to be just the two of you this time. I'll come, because I have to; she can't go that far from me. But I'll stay in the little room with the very good view, with the soldier, and you won't see me. Unless you need me.*
+*She'd like it to be just the two of you this time. I'll bring her through the Exchange. But I'll stay in the little room with the very good view, with the soldier, and you won't see me. Unless you need me.*
 
 *Tomorrow evening, if that suits you. Or whenever does.*
 

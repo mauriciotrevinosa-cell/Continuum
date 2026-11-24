@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 25
 **Source episode:** S13E149
-**Continuity state:** B+483 ("4"). Yuta asked Rika, as Mau told him to, two things: whether she'd let Noise make the snapshot (a save copy of her, held in a new weapon filled with all the CE Yuta has given her, that takes a killing blow in her place once and then has to be made again), and whether she'd rather live in a second ring or a blade. It took Rika three weeks to answer. Today she answers yes, on one condition: she wants to meet Noise first, properly, the way you meet someone before you let them look closely enough to copy you. Yuta brings her out in the yard, the full ten minutes now that the ring is stretched. Noise steps out as a shadow-outline to meet her after she asks for him by name. They look at each other. Rika asks what he is; Mau says Noise's words for him, since only Mau can hear him. She says she's something that stayed when it shouldn't have, too. She chooses a ring. Noise reads her pattern for the snapshot. Not finished yet; a beginning. Yuta cries a little and pretends he doesn't.
+**Continuity state:** B+483 ("4"). Yuta asked Rika, as Mau told him to, two things: whether she'd let Noise make the snapshot (a save copy of her, held in a new weapon filled with all the CE Yuta has given her, that takes a killing blow in her place once and then has to be made again), and whether she'd rather live in a second ring or a blade. It took Rika three weeks to answer. Today she answers yes, on one condition: she wants to meet Noise first, properly, the way you meet someone before you let them look closely enough to copy you. Yuta brings her out in the yard, the full ten minutes now that the ring is stretched. Noise steps out as a shadow-outline to meet her after she asks for him by name. They look at each other. Rika asks what he is; Mau says Noise's words for him, since only Mau can hear him. She says she's something that stayed when it shouldn't have, too. She chooses a second ring; Yuta's katana will be raised to the same high grade alongside it. Noise reads her pattern for the snapshot. Not finished yet; a beginning. Yuta cries a little and pretends he doesn't.
 
 *When: B+483. "4." Under it, in Yuta's hand: "Rika said yes". And under that, in a hand nobody has ever seen, very large and very round, as if made by fingers too big for the pencil: "HI NOISE".*
 
@@ -199,7 +199,7 @@ But Mau feels it. Through Noise. Something being read, closer than when he built
 
 *Well?* says Mau, inside. ᴹ
 
-*I have her*, says Noise. *The snapshot can be made now. Then the ring, with Mai. Then we move everything he's given her into it, you and me, and she's kept.* ᴺ
+*I have her*, says Noise. *The snapshot can be made now. Then the ring, with Mai. Then we move everything he's given her into it, you and me, and she's kept. And his katana goes on the bench beside it. Same grade. She'll want him to have something worthy of standing next to her.* ᴺ
 
 *How long?* ᴹ
 

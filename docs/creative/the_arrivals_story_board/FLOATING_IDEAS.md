@@ -496,3 +496,14 @@ Architect ending now selected: statues/fight -> pleased by Mau -> new Black Hear
 > fak ahora quiero que satella se acerque a mau como makima estoy llorando
 
 Semilla, sin escribir: después de V84 *How Did You Get So Close* (Satella ya es cercana: se sienta pegada a Mau en los tés, está en el Fort; Mau solo le paró el "I love you" porque sabía que no era cierto. Envidia lo de Makima: el cuarto, hablar con él adentro, acompañarlo; Makima le explica que acompañarlo es porque ella y Mau son uno y el cuerpo es de Noise; Satella entiende y pide el cuarto porque siente que no conviven, aunque la verdad es otra), que Satella llegue a ser amiga cercana de Mau, como Makima. Por desarrollar con Mauri cuando termine de leer.
+
+## Cross se venga; Maru tiene que balancear (Mauri, 24 nov 2026)
+
+Contexto: Mauri leyó la técnica de Maru (Harmony y Chaos, JJK Modulo) y dice que explica todo lo que pasó con Cross, Yuka y Mau.
+
+> neh el de que amru llego despues de un disparo es lo mismo de como gojo regreso despues de morir en shijuku
+
+> osea que tal ves maru en la otra vida vio a cross feliz a su modo con yuka entonces pudo ser el que medio forzo a yuka de una amnera a acercarse a cross y corss siendo cross empujo botones y por eso yuka andaba como perro rabioso entonces cuando ve el pushback de yuka el es el que actua como el innocente pq sabe que su hermano es el terco y a el lo venc omo el calmado entonces ve que amenazan a su hermano puede no decir nada por el fin de convivencia pero cuando cross busque su venganza maru tendra que balancear y primero ayudara a su hermano o al reves al principio decide no ayudarlo y luego termina ayudandolo y aqui podemos meter a los otros a yuki y a las naciones
+
+- Que Cross llegara aquí después del disparo NO es Harmony: es el mismo mecanismo con el que Gojo regresó después de morir en Shinjuku.
+- Semilla, sin escribir. Faltan por decidir: el orden de Maru (ayuda primero o se niega primero), el papel de Yuki y de las naciones, y si Mau o Yuka llegan a saber lo que hizo Maru en la otra vida.

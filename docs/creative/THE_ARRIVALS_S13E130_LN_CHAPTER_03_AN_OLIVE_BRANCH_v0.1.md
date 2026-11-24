@@ -25,7 +25,7 @@ So after supper he tells Yuka he's going to walk for a bit. Not far. Round the g
 
 He doesn't decide where to go.
 
-He walks out past the training posts and round the back of the house and along the edge of the orchard, where Kamish lies with his head at the old pear, and Kamish opens one eye and watches him pass and doesn't say anything. Past the workshop, dark. Past the Fort, with REM SAID IT on the roof in the dusk.
+He walks out past the training posts and round the back of the house and along the edge of the orchard, where Kamish lies with his head at the old pear, and Kamish opens one eye and watches him pass and doesn't say anything. Past the workshop, dark. Past the Fort, dark too, with Ori's flag hanging limp from the roof in the dusk.
 
 And then he's standing in front of the house gate.
 

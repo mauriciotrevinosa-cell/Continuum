@@ -57,7 +57,49 @@ It takes twenty minutes.
 
 It's pins. For Maki's first lesson tonight. Twelve of them, the simplest thing Mai knows how to make, and she's going to make them first, herself, as patterns, so that Maki has something to copy. She explains why pins: because a pin is one piece, no joins, nothing to come apart in the middle. Because it's small, so the cost is small. Because if Maki gets it wrong, nobody gets hurt, except possibly Maki's thumb.
 
-She explains the cost. Exactly. To the last fraction. How much CE each pin draws through the line. What it'll feel like in his body, when it lands, which is almost nothing now; the CE is as good as endless and his body has long since stopped noticing costs this small. Where, anyway. *Left thumb, probably. Like a breath of air on it. You'll only feel it if you're paying attention.*
+She explains the cost.
+
+Not the way it is now. The way she remembers it. She can't help it; she's talking about Construction, and Construction, for most of her life, meant her own body paying. So she tells him how much each pin draws, exactly, to the last fraction, and then she tells him what it'll feel like, and what she describes is what it used to feel like for her. The cold that starts in the fingertips. The ache behind the eyes after the third one. How after a whole day of making things she used to sit on the edge of her bed in that house and not be able to lift her arms. How it got worse the bigger the thing was. How she used to measure every single thing she made against what she had left.
+
+She's looking at the paper while she says it. Her voice is very flat.
+
+“Mai,” he says. ᴹ
+
+She stops.
+
+“It's not like that anymore,” he says gently. “Not for you. Not for me either. The CE doesn't run out. My body barely notices something this size. It's like air on my face.” ᴹ
+
+Mai looks at the paper for a moment longer.
+
+“I know,” she says. “I know that. I just—” ᴹᵃ
+
+“If you want to pay me for the pins,” he says, “you can get me something to drink instead.” ᴹ
+
+Mai blinks at him.
+
+Then, unexpectedly, the corner of her mouth goes.
+
+“Fine,” she says. “That's fair.” ᴹᵃ
+
+She puts the paper down on the step and starts to get up, already turning toward the kitchen.
+
+Mau holds up one hand. In the air in front of him, the Shop opens. The panel. The lists. He scrolls.
+
+“Tea,” he says. “Cold or hot. The fizzy one Yuka likes. The plum thing. Coffee, three kinds. Something called a *milkshake*, which Umaru says is a meal. Juice. That yoghurt drink Ori hates—” ᴹ
+
+Mai stops halfway to standing.
+
+She stares at the floating panel.
+
+“Oh,” she says. “I forget that.” ᴹᵃ
+
+“It's really convenient, isn't it?” says Mau. ᴹ
+
+Mai sits back down on the step. She looks at the panel for a long time. Then she points at something on it, without saying what, and Mau buys it, and it's in her hand, cold, with drops running down the outside.
+
+She holds it and doesn't drink it straight away.
+
+“Convenient,” she says, as if trying out the word, and then she drinks it, and goes back to explaining the pins.
 
 She explains why she's making twelve and not ten. Because Maki will lose two.
 
@@ -71,7 +113,7 @@ He doesn't say *it's fine*. He doesn't say *go ahead*. He doesn't say *you don't
 
 “You said no.” ᴹ
 
-“I said a pin. A spearhead is two hundred joins. She'd blow your arm off.” ᴹᵃ
+“I said a pin. A spearhead is two hundred joins. She'd take her own fingers off.” ᴹᵃ
 
 “Thank you,” he says. ᴹ
 

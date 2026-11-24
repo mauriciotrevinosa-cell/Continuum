@@ -109,9 +109,9 @@ Ori is staring at him.
 
 “So you're the treasure,” she says slowly. ᴼ
 
-“I'm the treasure supplier,” says Mau. ᴹ
+“I'm the vending citizen,” says Mau. “I have to supply.” ᴹ
 
-“That's the *same thing*,” says Ori, and turns round to the Fort, who are all standing behind her, and raises her spear, and the Fort screams.
+“The *official* vending citizen,” says Ori, and turns round to the Fort, who are all standing behind her, and raises her spear, and the Fort screams.
 
 * * *
 

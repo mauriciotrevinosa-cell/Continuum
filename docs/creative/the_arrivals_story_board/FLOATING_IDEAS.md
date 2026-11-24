@@ -489,3 +489,10 @@ Architect ending now selected: statues/fight -> pleased by Mau -> new Black Hear
   3. Una que Mau puede modificar y que se refresca cada vez que se completa.
 - **Escrito (Mauri, 24 nov):** no vino de una Purple ni de una Red Gate, sino de los Rulers como agradecimiento (V84 #23 *An Olive Branch*, #24 *Three Doors*). Ver CANON_TRAPS.
 - Antes: cuándo ocurre, por decidir con Mauri. En V84 #23, Ori entrena en la gate semanal solo "esta semana", la primera vez que Mau la pone a su tamaño.
+
+
+## Satella cerca de Mau, como Makima (Mauri, 24 nov 2026)
+
+> fak ahora quiero que satella se acerque a mau como makima estoy llorando
+
+Semilla, sin escribir: después de V84 *How Did You Get So Close* (Satella pide un cuarto adentro por primera vez en 400 años), que Satella llegue a ser amiga cercana de Mau, como Makima. Por desarrollar con Mauri cuando termine de leer.

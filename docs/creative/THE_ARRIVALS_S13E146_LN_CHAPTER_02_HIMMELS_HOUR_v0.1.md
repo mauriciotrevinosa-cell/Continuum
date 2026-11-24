@@ -113,6 +113,23 @@ She shakes her head.
 
 “I'm not going to,” she says. “I don't know what it is yet. What I feel. I'm still slow. I'm always slow. But I'm going to find out *with* you. Here. Now. Not after. Not in front of a statue.” ᶠ
 
+She glances down at Mau on the step below.
+
+“He offered something once,” she says. “A long time ago, near the start of all this. The elf route. Whether any of it could ever be shared with you. If we both wanted it.” ᶠ
+
+Himmel goes very still.
+
+“I told him not to hurry,” says Frieren. “I told him first I wanted to understand you. This you. What you want. What being here has meant to you. I knew so many things about you that I'd forgotten to ask you anything new.” ᶠ
+
+She turns her cup in her hands.
+
+“I'm still doing that,” she says. “I want the time to do it properly. Not to put it off. To use it. I'd like to know you before I know what I feel. Is that all right?” ᶠ
+
+Himmel looks at her for a long moment.
+
+“That's all I've ever wanted,” he says. “For you to want to know me.” ᴴⁱᵐ
+
+
 * * *
 
 Himmel doesn't say anything.

@@ -223,7 +223,7 @@ Nobody says anything.
 
 And then Milim screams.
 
-And then everybody screams. Umaru. Emilia. Pride, on Minerva's shoulders. Jin-Woo, standing with Suho held up in the air above his head so he can see. The banners waving. DIO, who has come out of Mau in her borrowed body to watch and didn't tell him, screaming louder than anyone. Dabura, on his feet, his huge hands raised over his head, roaring something in his own language that might be a blessing.
+And then everybody screams. Umaru. Emilia. Pride, on Minerva's shoulders. Jin-Woo, standing with Suho held up in the air above his head so he can see. The banners waving. DIO, who has come out of Mau in her own body to watch and didn't tell him, screaming louder than anyone. Dabura, on his feet, his huge hands raised over his head, roaring something in his own language that might be a blessing.
 
 And Ori.
 

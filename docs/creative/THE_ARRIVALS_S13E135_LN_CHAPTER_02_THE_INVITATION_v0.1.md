@@ -85,11 +85,11 @@ Yuka reads it twice and then has to sit down on the floor of the kitchen and lau
 
 DIO panics for a day and a half.
 
-Mau has seen DIO frightened before. Before the island. In the war. In the nights after the Trial, when she sat in the corridor of the little Inn outside his door because she didn't know how else to help.
+Mau has seen DIO frightened before. Before the island. In the war. In the nights after the Trial, when she sat in the corridor inside, outside his door, because she didn't know how else to help.
 
 He has never seen her like this.
 
-She doesn't sleep. She paces the corridor of the little Inn all night, past her own door and Satella's and the seven witches' and back, and Noise, who is trying to tidy up the spoons, has to keep stepping out of her way. She changes her mind about what to wear eleven times. She makes Ciel come into her room and help her choose, and then makes Ciel leave because Ciel is looking at her *like that*, and then makes Ciel come back because she can't decide.
+She doesn't sleep. She paces the corridor inside all night, past her own door and Satella's and the seven witches' and back, and Noise, who is trying to tidy up the spoons, has to keep stepping out of her way. She changes her mind about what to wear eleven times. She makes Ciel come into her room and help her choose, and then makes Ciel leave because Ciel is looking at her *like that*, and then makes Ciel come back because she can't decide.
 
 *I'm not looking at her like anything*, Ciel tells Mau, at three in the morning, offended. ᶜ
 
@@ -101,7 +101,7 @@ She doesn't sleep. She paces the corridor of the little Inn all night, past her 
 
 Makima gives DIO advice.
 
-Nobody asked her to. She comes and stands in DIO's doorway in the little Inn while DIO is holding up two dresses that look the same to everyone but DIO, and watches for a while, and then says:
+Nobody asked her to. She comes and stands in DIO's doorway inside while DIO is holding up two dresses that look the same to everyone but DIO, and watches for a while, and then says:
 
 “Say the plain thing.” ᴹᵏ
 

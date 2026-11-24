@@ -11,7 +11,7 @@
 
 DIO gives the dragon back at breakfast.
 
-She does it formally. She comes down in her borrowed body, which she has started doing every morning now, and walks the length of the kitchen to where Ori is sitting, and stops, and holds out the little carved dragon on her open palm.
+She does it formally. She comes down in her own body, which she has started doing every morning now, and walks the length of the kitchen to where Ori is sitting, and stops, and holds out the little carved dragon on her open palm.
 
 “Returned,” she says. “As agreed. A lend, not a give.” ᴰ
 

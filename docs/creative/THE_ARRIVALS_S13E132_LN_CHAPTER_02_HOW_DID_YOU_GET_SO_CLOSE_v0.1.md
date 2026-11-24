@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 28
 **Source episode:** S13E132
-**Continuity state:** B+452 ("35"). Satella comes to the north-wing step at dusk, where Makima sits, and asks the question she's carried for weeks: how did Makima get so close to him? She has lived in this house a long time and been loved here; but Makima, who hurt him, has a room inside him and holds his hand. It isn't hatred. It's envy, quiet and honest, the oldest thing Satella knows. Makima answers plainly: she hurt him, she was forgiven, she asked. "You've never asked." Satella has never asked anyone for anything. Makima takes her to Mau. Satella can't get the words out; Makima says them for her, then stops and makes her say the last part herself. Mau offers Satella a room in the little Inn inside him, for visiting, whenever she wants, as a guest. Satella says yes. She doesn't know that six other witches are listening at the north-wing window.
+**Continuity state:** B+452 ("35"). Satella comes to the north-wing step at dusk, where Makima sits, and asks the question she's carried for weeks: how did Makima get so close to him? She has lived in this house a long time and been loved here; but Makima, who hurt him, has a room inside him and holds his hand. It isn't hatred. It's envy, quiet and honest, the oldest thing Satella knows. Makima answers plainly: she hurt him, she was forgiven, she asked. "You've never asked." Satella has never asked anyone for anything. Makima takes her to Mau. Satella can't get the words out; Makima says them for her, then stops and makes her say the last part herself. Mau offers Satella a room inside him, off the inner corridor, for visiting, whenever she wants, as a guest. Satella says yes. She doesn't know that six other witches are listening at the north-wing window.
 
 *When: B+452. "35." Under it, in a handwriting nobody in the house recognises, very small and very neat: "asked". It is Satella's. She has never written in the notebook before.*
 
@@ -187,7 +187,7 @@ He doesn't make her wait.
 
 Satella stares at him.
 
-“There's a room,” he says. “In the little Inn. Inside. Next to DIO's. It's empty. It's been empty since the Inn was built. It's got a window; DIO wanted all of them to have windows, even though there's nothing outside them.” ᴹ
+“There's a room,” he says. “Inside. Off the corridor, past DIO's door. It's empty. It's always been empty. It's got a window; DIO wants every room in there to have one, even though there's nothing outside them.” ᴹ
 
 He shifts Yuka a little in his lap, carefully, so as not to wake her.
 

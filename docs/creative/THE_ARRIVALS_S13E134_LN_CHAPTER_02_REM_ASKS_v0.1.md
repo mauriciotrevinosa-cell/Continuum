@@ -205,4 +205,4 @@ He doesn't say anything. He just nods. Once.
 
 Rem takes a breath.
 
-And at the other end of the table, DIO, who has come down for breakfast in her borrowed body for the first time in a week, looks from Rem to Umaru and back again, and smiles into her tea like a cat that has found the cream.
+And at the other end of the table, DIO, who has come down for breakfast in her own body for the first time in a week, looks from Rem to Umaru and back again, and smiles into her tea like a cat that has found the cream.

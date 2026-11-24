@@ -113,7 +113,7 @@ She turns round to look at him.
 
 * * *
 
-[PARA WORK: the intimate scene, Yuka and Mau, their room, B+467. This is the end of the pause that began in V80 #6 after the false alarm, and Yuka chose it in her own words on the porch step. Tone: tender, unhurried, both of them a little shy and very sure; Yuka leading, because it's hers; Mau following her, the way he has for three months. Clingy Yuka reloaded. No fan service. Afterwards: the let go, both of them asleep, her hand in his shirt.]
+[PARA WORK: the intimate scene, Yuka and Mau, their room, B+467. This is the end of the pause that began in V80 #6 after the false alarm, and Yuka chose it in her own words on the porch step. Tone: tender, unhurried, both of them a little shy and very sure; Yuka leading, because it's hers; Mau following her, the way he has for three months. Clingy Yuka reloaded. No fan service. Afterwards: the let go, both of them asleep, her hand in his shirt. Sin límite de palabras; no comprimas.]
 
 * * *
 

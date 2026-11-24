@@ -41,7 +41,7 @@ Inside, Noise is standing in the corridor.
 
 Mau goes in to see. He doesn't mean to stay. He just wants to look.
 
-The corridor is longer than it was. Noise built it well. The old part, with DIO's door and Ashborn's that stays closed and the empty one that's Satella's now. And then the new part, seven doors, each one different, each one with something on it that wasn't there last night, because the witches have already been and claimed them.
+The corridor is longer than it was. Noise built it well. The old part, with DIO's door and Ashborn's that stays closed and the one that's Satella's now. And then the new part, seven doors, each one different, each one with something on it that wasn't there last night, because the witches have already been and claimed them.
 
 A small crown painted on one, slightly crooked. A plate nailed to another. A book wedged in the frame of the third. A bed visible through the fourth, which is already shut, and from behind which comes the sound of very slow breathing.
 
@@ -207,7 +207,7 @@ Noise looks at her from the corner.
 
 DIO arrives late.
 
-She comes out of her own door with her plant in its pot held against her chest, and stops in the corridor, and looks at the table.
+She comes out of her own door with her watering notebook held against her chest, and stops in the corridor, and looks at the table.
 
 Her table. Hers and Noise's and Ciel's. Full of witches.
 
@@ -217,19 +217,19 @@ It lasts about four minutes.
 
 He counts.
 
-For four minutes, DIO stands in the corridor with her plant and her chin up and a face like a thundercloud, watching Pride play the spoon game with Ciel and Echidna ask Noise about the walls.
+For four minutes, DIO stands in the corridor with her notebook and her chin up and a face like a thundercloud, watching Pride play the spoon game with Ciel and Echidna ask Noise about the walls.
 
 Then Satella, at the end of the table, looks up and sees her.
 
-“Is that the plant?” Satella says. ˢᵃ
+“Is that the notebook?” Satella says. “The one with the leaves?” ˢᵃ
 
 DIO goes still.
 
-“The one Elmesia's gardeners admired,” says Satella. “I heard about it. Everyone heard about it. May I see?” ˢᵃ
+“For the plant Elmesia's gardeners admired,” says Satella. “I heard about it. Everyone heard about it. May I see?” ˢᵃ
 
 DIO looks at her for a long moment.
 
-Then she comes to the table, and sits down next to Satella, and puts the plant down between them, and starts to explain. All of it. The light. The new leaves. The holiday it's going to have in Elmesia's garden. Satella listens to every word.
+Then she comes to the table, and sits down next to Satella, and opens the notebook between them, at the page with the newest leaf drawn in it, and starts to explain. All of it. The light. The new leaves. The holiday it's going to have in Elmesia's garden. Satella listens to every word.
 
 Four minutes. Mau counted.
 

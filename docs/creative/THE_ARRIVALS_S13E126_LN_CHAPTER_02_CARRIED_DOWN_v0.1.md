@@ -95,7 +95,7 @@ She doesn't get off his lap. Not once. She eats from every plate she can reach, 
 
 And every so often, for no reason he can see, in the middle of a mouthful, she just stops, and turns her face up, and looks at him.
 
-[PARA WORK: kisses through breakfast. Small, frequent, unashamed, in front of everyone; she kisses him in the middle of the table with cream on her mouth and doesn't care who sees. Clingy reloaded: she's making up for a week. Nothing beyond kisses; the pause continues.]
+[PARA WORK: kisses through breakfast. Small, frequent, unashamed, in front of everyone; she kisses him in the middle of the table with cream on her mouth and doesn't care who sees. Clingy reloaded: she's making up for a week. Nothing beyond kisses; the pause continues. Sin límite de palabras; no comprimas.]
 
 Milim makes a noise every time. Rimuru, beside her, puts a hand over her mouth every time.
 

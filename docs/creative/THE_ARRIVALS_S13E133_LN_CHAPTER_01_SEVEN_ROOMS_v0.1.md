@@ -251,7 +251,7 @@ Echidna smiles.
 
 That night, Noise builds seven rooms.
 
-Mau feels him do it. Lying in bed with Yuka asleep on his shoulder, he feels it happening inside: the little Inn growing, the corridor getting longer, seven new doors opening along it, one after another, next to Satella's. Each one with a window. DIO insists.
+Mau feels him do it. Lying in bed with Yuka asleep on his shoulder, he feels it happening inside: the corridor getting longer, seven new doors opening along it, one after another, next to Satella's. Each one with a window. DIO insists.
 
 He doesn't help. Noise doesn't want help. It's his.
 

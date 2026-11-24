@@ -79,7 +79,7 @@ She slides down off the counter. She comes over, barefoot on the kitchen floor i
 
 Then she reaches up and wipes it off with her thumb.
 
-[PARA WORK: kiss here, where the flour was. Quick, pleased with herself. Then she goes back to the counter as if nothing happened. She will do this every time he gets flour on his face, which is often.]
+[PARA WORK: kiss here, where the flour was. Quick, pleased with herself. Then she goes back to the counter as if nothing happened. She will do this every time he gets flour on his face, which is often. Sin límite de palabras; no comprimas.]
 
 “Supervisors,” says Shuna, without looking round from the stove, “don't touch the cook.” ˢʰᵘ
 

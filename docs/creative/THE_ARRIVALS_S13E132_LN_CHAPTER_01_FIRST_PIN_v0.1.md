@@ -135,7 +135,39 @@ Mai looks at him for a moment.
 
 “I will,” she says. “That's the clause.” ᴹᵃ
 
-And she goes back to explaining the pins.
+She looks down at the pin in her hand. Then, without looking up, very quickly, as if it might escape:
+
+“Thank you.” ᴹᵃ
+
+“If you want to thank me,” says Mau, “get me something to drink.” ᴹ
+
+Mai blinks at him. Then the corner of her mouth goes.
+
+“Fine,” she says. “That's fair.” ᴹᵃ
+
+She puts the notebook down on the step and starts to get up, already turning toward the kitchen.
+
+Mau holds up one hand. In the air in front of him, the Shop opens. The panel. The lists. He scrolls.
+
+“Tea,” he says. “Cold or hot. The fizzy one Yuka likes. The plum thing. Coffee, three kinds. Something called a *milkshake*, which Umaru says is a meal. Juice. That yoghurt drink Ori hates—” ᴹ
+
+Mai stops halfway to standing.
+
+She stares at the floating panel.
+
+“Oh,” she says. “I forget that.” ᴹᵃ
+
+“It's really convenient, isn't it?” says Mau. ᴹ
+
+Mai sits back down on the step. She looks at the panel for a long time. Then she points at something on it, without saying what, and Mau buys it, and it's in her hand, cold, with drops running down the outside.
+
+“That was supposed to be for *you*,” she says. ᴹᵃ
+
+“I know,” says Mau. He buys a second one. “Now it's for both of us.” ᴹ
+
+Mai holds hers and doesn't drink it straight away.
+
+“Convenient,” she says, as if trying out the word. Then she drinks it, and goes back to explaining the pins.
 
 She explains why she's making twelve and not ten. Because Maki will lose two.
 

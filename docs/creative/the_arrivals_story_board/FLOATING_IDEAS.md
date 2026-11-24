@@ -526,7 +526,9 @@ Corrección de Mauri (mismo día); manda sobre lo anterior:
 
 > y recuerda mau puede hacer mas grande o chica su sombra entonces so quiere en un punto podemos usar el domain expansion de chimera garden hacerlo en un simple domain al estilo de lo que hizo megumi en los culling games contra regi
 
+> que extendio su simple domain usando el resto de sombras dentro del gimnasio para hacer la ilusion de un domain expansion
+
 - Mau puede agrandar o achicar su sombra (por ejemplo, para que entren varias a la vez).
-- Semilla: en algún momento, Chimera Shadow Garden en versión sin barrera, como Megumi contra Reggie en el Culling Game: la sombra se extiende por el suelo.
+- Semilla: en algún momento, lo que hizo Megumi contra Reggie en el Culling Game: extender su simple domain usando las demás sombras del lugar (allá, las del gimnasio) para dar la ilusión de un Domain Expansion (Chimera Shadow Garden).
 - Por revisar antes de usarlo: en CANON_TRAPS, Chimera Shadow Garden aparece como Domain Expansion de Yuka (S7E34, S8E46). Falta confirmar si Mau también lo usa o si sería a través de ella.
 - A favor: sin barrera y sin sure hit no le rompe a Makima el cuerpo que sostiene Noise (ver "Dominios y Makima", 23 nov).

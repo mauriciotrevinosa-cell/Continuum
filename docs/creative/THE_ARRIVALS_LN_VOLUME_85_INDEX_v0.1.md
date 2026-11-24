@@ -46,7 +46,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 - Direction: Mauri, 23 November 2026 (ideas for the forty-eight days; reconciliation; Gojo's rematch; ~50 chapters), saved word for word in `the_arrivals_story_board/S13_SIMURIANS_THEN_DEVILS_PLANNING_2026-11-21.md`. V84 #15–35 plus V85 #1–28 make 49 chapters for the forty-eight days, roughly one per day.
 - #1 Beatrice joins the Fort ("even against the library"). #6 the wheel undoes her contract; she stays by choice.
 - #2–5 Gojo's real rematch, Shoko's rules; both domains collapse as on Day 133 and the two Purples go into the sky. Draw, for style.
-- #9 *In Her Own Words*: Yuka ends the pause (V80 #6) on the porch step. The intimate scene is a [PARA WORK] bracket. Other brackets: #23 (kisses).
+- #9 *In Her Own Words*: Yuka ends the pause (V80 #6) on the porch step. She leads their reunion upstairs, and in the morning she ticks the last line of her list. #23 still has a kiss bracket.
 - #11–13 expedition two: the REST HERE stone, Kamish's fire told at Ori's size, the valley of everyone's pears, Frieren's compass points home. EXPEDITION THREE is an arrow off the map.
 - Seeds, not resolved: #14 Dabura's hands trace the wheel (memory taken, hands missed; filed "for when he wants it"). #24 Cross's harmless questions add up to a map; nobody moves, everyone watches. #25 Noise begins studying what holds Rika.
 - #20 Frieren and Himmel: she won't wait to understand him this time. Nothing named. Flagged for Mauri to confirm the direction.

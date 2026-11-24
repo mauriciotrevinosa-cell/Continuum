@@ -171,6 +171,10 @@ Mai's mouth goes thin.
 
 “It's your body,” says Mai. “The cost lands on you. You should know.” ᴹᵃ
 
+“It costs me nothing,” he says. “You know that. The CE doesn't run out. The body barely notices. It's like air on my face.” ᴹ
+
+“You should *still* know,” says Mai. ᴹᵃ
+
 “I've been trying to make you stop,” he says. “For months. I keep telling you you don't have to. That I trust you. That it's fine.” ᴹ
 
 He hears the word. *Fine.* He lets it sit there.

@@ -199,7 +199,7 @@ They're already working on it. He can feel them at the table inside, heads toget
 
 It takes about five minutes.
 
-*The first one*, says Ciel at last. *The clock. We can do something. Not double. Close. We can stretch the five minutes to about ten, and cut the time it takes her to come back to about half. Through the ring. The cost lands on you, a little, every time she's out. Not much. You'd feel it.* ᶜ
+*The first one*, says Ciel at last. *The clock. We can do something. Not double. Close. We can stretch the five minutes to about ten, and cut the time it takes her to come back to about half. Through the ring. The cost lands on you every time she's out. You won't notice it. You have the CE to spare, and your body stopped feeling costs that size a long time ago.* ᶜ
 
 *And the second?* ᴹ
 

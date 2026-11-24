@@ -57,7 +57,7 @@ It takes twenty minutes.
 
 It's pins. For Maki's first lesson tonight. Twelve of them, the simplest thing Mai knows how to make, and she's going to make them first, herself, as patterns, so that Maki has something to copy. She explains why pins: because a pin is one piece, no joins, nothing to come apart in the middle. Because it's small, so the cost is small. Because if Maki gets it wrong, nobody gets hurt, except possibly Maki's thumb.
 
-She explains the cost. Exactly. To the last fraction. How much CE each pin draws through the line. What it'll feel like in his body, when it lands. Where. *Left thumb, probably. A pinch. Like a needle. It goes away in about a minute.*
+She explains the cost. Exactly. To the last fraction. How much CE each pin draws through the line. What it'll feel like in his body, when it lands, which is almost nothing now; the CE is as good as endless and his body has long since stopped noticing costs this small. Where, anyway. *Left thumb, probably. Like a breath of air on it. You'll only feel it if you're paying attention.*
 
 She explains why she's making twelve and not ten. Because Maki will lose two.
 
@@ -103,7 +103,7 @@ He waits.
 
 She doesn't finish it. She stands up very abruptly and brushes off her skirt.
 
-“Twelve pins,” she says. “This evening. Left thumb. You'll feel it.” ᴹᵃ
+“Twelve pins,” she says. “This evening. Left thumb. Pay attention, or you won't even feel it.” ᴹᵃ
 
 And she goes back across the yard to the workshop at a fast walk, and doesn't look back, and he sits on the step and watches her go.
 
@@ -131,7 +131,7 @@ Across the table, Mai eats her soup and doesn't look up, and looks extremely ple
 
 The first pin comes apart in Maki's hand.
 
-He's in the kitchen when it happens. He feels it: a flicker down the line, the beginning of a pinch in his left thumb, and then nothing. The construction starting, drawing a tiny thread of CE through him, and then falling apart before it finishes, and the CE coming back.
+He's in the kitchen when it happens. He feels it: a flicker down the line, the beginning of a touch on his left thumb, like air, and then nothing. The construction starting, drawing a tiny thread of CE through him, and then falling apart before it finishes, and the CE coming back.
 
 From the workshop, faintly, across the dark yard: “*It's GONE.*” ᴹᵃᵏ
 
@@ -141,13 +141,13 @@ The second pin comes apart.
 
 The third pin comes apart halfway and leaves a sort of bent wire, which Maki throws across the workshop.
 
-He feels every one. A flicker. A half-pinch. Nothing.
+He feels every one, because he's paying attention. A flicker. Half a breath. Nothing.
 
 Yuka, at the table beside him, watches his face.
 
 “Is that her?” she says. “Every time your thumb does that?” ʸ
 
-He looks down. His left thumb is twitching. He hadn't noticed.
+He looks down. His left thumb is twitching, very slightly, every time. He hadn't noticed.
 
 “Yes,” he says. ᴹ
 
@@ -181,15 +181,15 @@ The eleventh.
 
 He feels it start. The thread of CE, drawing through him, very thin. The construction catching. Holding. The shape closing round itself, all the way, one piece, no joins.
 
-And then the pinch. In his left thumb. Sharp. Small. Exactly like a needle.
+And then the touch. On his left thumb. So small it's barely there. Like a breath of air on the skin.
 
 It stays.
 
-He feels it land in his body and stay, the way Mai said it would. The cost. Paid.
+He feels it land and stay, the way Mai said it would. The cost. Paid. The smallest thing he's ever been charged.
 
 He laughs.
 
-Out loud. At the kitchen table. With his thumb stinging.
+Out loud. At the kitchen table. With his thumb tingling.
 
 Yuka looks at him.
 
@@ -215,9 +215,11 @@ And then something that sounds very much like two people hugging, which is not a
 
 Umaru starts clapping. Ori joins in. Then Rem, then Shuna at the stove, then Yuta at the end of the table, with his face doing something very soft. Yuka, still holding his hand, squeezes it.
 
-He sits there with the sting going out of his left thumb, slowly, the way Mai said, about a minute.
+He sits there with the tingle already gone from his left thumb.
 
-He's been charged for a great many things. Gates. Domains. Purple. Things that cost him pieces of his body that took weeks to grow back.
+He's been charged for a great many things, once. Gates. Domains. Purple. Things that cost him pieces of his body that took weeks to grow back. These days hardly anything costs him at all; the CE doesn't run out, and the body's grown past noticing most of it.
+
+This cost him nothing. A breath of air on his thumb.
 
 He's never been so glad to pay for anything in his life.
 

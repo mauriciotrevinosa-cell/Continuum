@@ -5,27 +5,29 @@
 **Volume:** 84
 **Reading order:** 23
 **Source episode:** S13E130
-**Continuity state:** B+447 ("40"). Ori's point of view. Ori and Beru come back from the house dungeon, the small one Frieren cleared for her to train in. On the path through the orchard, Cross is waiting. He wants to explain; he says he wants Ori to understand him. Ori tells him plainly: he nearly broke her family, and she doesn't want him near her. When he steps closer anyway, Beru uses his cry, the Solo Leveling one that roots people where they stand. Cross can't move. Beru picks Ori up and carries her to find Mau. Mau doesn't walk to the river this time. He listens to all of it, thanks Beru, and goes to find Maru instead, and asks him, very calmly, to keep his brother away from his daughter. Maru says he will.
+**Continuity state:** B+447 ("40"). Ori's point of view. Ori and Beru come back from the household weekly gate, set small for her by Mau and checked by Frieren, where she trains train in. On the path through the orchard, Cross is waiting. He wants to explain; he says he wants Ori to understand him. Ori tells him plainly: he nearly broke her family, and she doesn't want him near her. When he steps closer anyway, Beru uses his cry, the Solo Leveling one that roots people where they stand. Cross can't move. Beru picks Ori up and carries her to find Mau. Mau doesn't walk to the river this time. He listens to all of it, thanks Beru, and goes to find Maru instead, and asks him, very calmly, to keep his brother away from his daughter. Maru says he will.
 
 *When: B+447. "40." Ori wrote it herself, very large, and drew Beru beside it with his mouth open and lines coming out of it.*
 
-The house dungeon is Ori's now.
+The house gate has an Ori setting now.
 
-Not all of it. Just one. The small one at the back of the cellar that Frieren found three weeks ago and went through herself, twice, alone, with her staff, and came out and said, *That one. Ori can go in that one. With Beru. Not past the second door.*
+It's the only gate there is inside the protection. Nothing wild can open in here; the gate is the one DIO gave Dad, the one that changes every week, and Dad can tell it what he wants. Harder. Easier. Somewhere warm to rest. And since three weeks ago, one morning a week, *small enough for Ori*.
+
+Frieren checked it first. She went through it twice, alone, with her staff, the first time Dad set it that way, and came out and said, *That's fine. Ori can go in. With Beru. Not past the second door.*
 
 Ori has never gone past the second door.
 
-She's been in twelve times. She keeps count in her notebook, on a special page, with a map of every room. The first room has slimes, the small slow kind that Beru can step on. The second room has bats. The third room is behind the second door and she has never seen it and she has a drawing of what she thinks is in it, which is a dragon, which is probably wrong.
+She's been in twelve times. She keeps count in her notebook, on a special page, with a map of every room, a new map every week, because the gate changes. This week the first room has slimes, the small slow kind that Beru can step on. The second room has bats. The third room is behind the second door and she has never seen it and she has a drawing of what she thinks is in it, which is a dragon, which is probably wrong.
 
 Today she killed four slimes and a bat. The bat was mostly Beru. She's counting it anyway.
 
-She comes up the cellar stairs and out of the back of the house into the orchard with her explorer hat on and her wooden sword through her belt and Beru behind her, and she's telling him about the bat, how it went, how she'd have got it if it hadn't flown at her face, when she sees who's on the path.
+She comes out of the house gate and round the back of the house into the orchard with her explorer hat on and her wooden sword through her belt and Beru behind her, and she's telling him about the bat, how it went, how she'd have got it if it hadn't flown at her face, when she sees who's on the path.
 
 * * *
 
 It's Cross.
 
-He's standing under the old pear tree. Kamish's tree. Kamish isn't there; he's folded away in Dad's shadow today. Cross is just standing there by himself with his hands in his pockets, looking at the cellar door, like he was waiting for it to open.
+He's standing by the old pear tree. Kamish's tree. Kamish isn't there; he's folded away in Dad's shadow today. Cross is just standing there by himself with his hands in his pockets, looking at the cellar door, like he was waiting for it to open.
 
 Ori stops.
 
@@ -143,7 +145,7 @@ He'll be able to move soon. Jin-Woo said that too. It doesn't last.
 
 But it's long enough.
 
-She turns round and puts her face against Beru's chest plate, which is hard and cool and smells of the dungeon, and holds on to the edge of it with both hands.
+She turns round and puts her face against Beru's chest plate, which is hard and cool and smells of the gate, and holds on to the edge of it with both hands.
 
 “Thank you,” she says. ᴼ
 
@@ -161,7 +163,7 @@ His face is very quiet.
 
 Beru puts her down. Ori stands in front of Dad in her hat with her wooden sword through her belt and tells him.
 
-All of it. Properly. Like a report. The dungeon. The slimes and the bat. The cellar door. Cross under the tree. *I'd like you to understand.* What she said back. Him standing up. Him stepping forward after she'd told him not to. Beru's cry. The birds going silent. Cross frozen with his foot in the air.
+All of it. Properly. Like a report. The gate. The slimes and the bat. The way round the back of the house. Cross under the tree. *I'd like you to understand.* What she said back. Him standing up. Him stepping forward after she'd told him not to. Beru's cry. The birds going silent. Cross frozen with his foot in the air.
 
 Dad listens to all of it.
 
@@ -247,9 +249,9 @@ They walk back to the kitchen together.
 
 * * *
 
-That night, in her notebook, on the special page with the map of the dungeon, Ori draws a new thing.
+That night, in her notebook, on the special page with this week's map of the gate, Ori draws a new thing.
 
-Not in the dungeon. In the orchard. Under the pear tree. A stick figure, standing on one leg, frozen. With little lines round it to show it can't move.
+Not in the gate. In the orchard. Under the pear tree. A stick figure, standing on one leg, frozen. With little lines round it to show it can't move.
 
 And beside it, very large, a Beru. With his mouth open.
 

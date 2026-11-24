@@ -66,3 +66,19 @@ No requiere elevar todas a rango formal de general. Una unidad puede ser **útil
 5. **Registro:** capítulo/escena, unidad o clase, procedencia, capacidad vista, qué sigue hipotético y si el mismo cuerpo ya estaba contabilizado.
 
 **Fuentes:** `S8_DUNGEON_BODY_COLLECTION_AND_ORDINARY_RECRUITMENT_CREATOR_CORRECTION_2026-10-30.md`; `S8_VOLUME43_PRODUCTION_STATE_AND_CONTINUITY_2026-10-30.md`; `S7_MONARCH_ARC_COMPLETED_AND_CONTINUITY_HANDOFF_2026-10-27.md`; `S11_ACTUAL_PRODUCTION_STATE_2026-11-07.md`; `S12_ACTUAL_PRODUCTION_STATE_2026-11-09.md`; `S13_ACTUAL_PRODUCTION_STATE_2026-11-12.md`; V30#11/#62, V41#18, V43#32, V77#4, V78#33, V79#26/#28 y V80#13.
+
+
+## Propuestas de Claude para promover sombras (24 nov 2026), SIN APROBAR
+
+> Mauri: «luego vemos… no me gustaron todas tus ideas». **Nada de esto es canon ni está autorizado.** Es una lista para que Mauri escoja, descarte o cambie cuando quiera.
+
+Criterio propuesto: se promueve por lo que hacen, no por lo fuertes que son (como Stair, View y Pickles, V85 #17). El nombre lo pone quien se lo ganó; la voz solo llega con una evolución.
+
+1. **Dragón constructo del Arquitecto (V71)**, el que le abrió el abdomen a Mau. Lo tiene y nunca lo ha llamado. El día que lo saca y le pone nombre él mismo, eligiendo no esconder lo que lo lastimó. Kamish presente.
+2. **Los dos dragones de V43**, sin nombre: alumnos de Kamish y posibles monturas (para Yuka u Ori).
+3. **Roof y Corner** (nombrados por Ori): guardias de la Fort; Beru con celos profesionales.
+4. **Muster y Rampart**: tenientes de Bellion para el pueblo (obras, defensa, logística).
+5. **Reed (garza)**: mensajera, rival del pájaro de Elmesia.
+6. **Antonio** (la hormiga de Testarossa): señas; Ori aprende a hablarle.
+7. **Los dos Rime**: no fusionarlos; alguien de la casa rebautiza a uno.
+8. Con cuidado: **los Monarcas reales (Bestias y Hielo)**, cruzados con Jin-Woo y el arco de los Monarcas; y **el centinela de Ashborn**, sin apropiarse de Ashborn.

@@ -205,6 +205,24 @@ He takes off the apron.
 
 He stands at the bottom of the stairs, with the whole kitchen behind him going at it, and feels her heart down the line, still going, a little slower now, but still fast, still warm, still knocking.
 
+*When you come up*, says Yuka, down their line. ʸ
+
+He takes one step before he remembers he's under strict orders to stay at the bottom.
+
+*When I come up?* ᴹ
+
+There's a rustle from their room. He can picture her very clearly, knees up under the blanket, her face buried somewhere in his pillow.
+
+*Wake me up slowly. I want to have time to kiss you before you pick me up.* ʸ
+
+Mau puts his hand on the bottom of the banister.
+
+*I was going to kiss you first anyway.* ᴹ
+
+It goes very quiet at her end. After a second he feels the shaky little laugh again.
+
+*Good. I'm very asleep now.* ʸ
+
 *Twenty-two minutes*, says Ciel. ᶜ
 
 *I know.* ᴹ

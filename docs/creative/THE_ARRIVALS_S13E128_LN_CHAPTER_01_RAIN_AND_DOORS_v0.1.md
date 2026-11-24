@@ -45,6 +45,18 @@ She reaches over to the little shelf beside the window seat, the one with the tr
 
 “That,” she says. ʸ
 
+He opens the book over her knees. She's got her toes tucked away, but her fingers are cold from the walk over. He takes her hand in his and slips it under the blanket against his ribs. It warms slowly there, one knuckle at a time.
+
+“Do you want me to do voices?” he asks. ᴹ
+
+“I want the voice you use when it's just me.” ʸ
+
+Frieren turns the next page of her own book with great composure.
+
+Mau bends to kiss the top of Yuka's ear. “This one?” ᴹ
+
+Yuka pulls the blanket up over her smile. She makes him say the first sentence twice.
+
 * * *
 
 He reads.

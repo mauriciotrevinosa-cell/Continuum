@@ -203,4 +203,16 @@ Then she smiles. All the way. Even half asleep.
 
 “It's Elmesia. There'll be cakes.” ᴹ
 
-“Then yes,” says Yuka, and goes back to sleep.
+“Then yes,” says Yuka. ʸ
+
+She closes her eye again. He thinks she's gone back to sleep. A second later she reaches up with both hands, finds his face, and brings it down far enough to kiss him.
+
+“And at least one dance,” she says. ʸ
+
+“In the garden?” ᴹ
+
+“Somewhere nobody's waiting for you to say anything clever.” ʸ
+
+“I'll find somewhere.” ᴹ
+
+She takes this as settled. Her hands slide off his cheeks. He catches one before it goes back into his shirt and presses a kiss to her palm. She closes her fingers over it and is asleep before he can ask whether she wants him to bring the good shoes.

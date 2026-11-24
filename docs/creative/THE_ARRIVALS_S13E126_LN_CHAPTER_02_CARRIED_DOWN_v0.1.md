@@ -25,6 +25,20 @@ He doesn't laugh. He wants to. He holds it in his chest where it's warm, and goe
 
 * * *
 
+He sits on the edge of the bed. The mattress dips and she rolls an inch toward him, blanket and all.
+
+“Good morning,” he says, quietly enough that it's just for her. ᴹ
+
+One eye opens. “Very slowly,” she reminds him. ʸ
+
+He brushes her hair back and touches his mouth to her forehead first. Then her cheek, where the pillow has left a crease. She catches him by the collar before he can get any further and pulls him down to her mouth. There goes any hope of keeping her face straight. He feels the laugh against his lips and has to put a hand down on the mattress to keep from falling in after her.
+
+“I've got to get you downstairs eventually,” he says. ᴹ
+
+“I know. I'm practising sleeping.” ʸ
+
+She shuts her eyes again and lifts both arms for him.
+
 He slides one arm under her shoulders and one under her knees, the way you'd pick up someone who'd fallen asleep in a chair, and lifts.
 
 She weighs nothing. She never has. She comes up out of the bed with the blanket still half round her, and her head falls against his shoulder in a very good impression of sleep, and her hand, the one nearest him, comes up out of the hoodie sleeve and fists itself in the front of his shirt so hard he can feel her knuckles.
@@ -118,6 +132,26 @@ Yuka takes it.
 By the time Mau kisses Yuka's wrist on the way to taking a bite, Rimuru has started eating one-handed.
 
 Umaru, by the reject pile, has stopped eating and is just watching them with her chin in her hands and tears running down her face, and isn't doing anything about the tears, and has a fork in one hand that she's forgotten about.
+
+* * *
+
+Mau spots two of the little island cakes left by Rem's elbow. He reaches past Yuka for one, then stops.
+
+“Rem. Which of those has the lemon in it?” ᴹ
+
+“The one on the left.” Rem looks down at the plate and turns it half a circle. “Your left. Now.” ᴿᵉ
+
+He splits the cake on his left, checks the filling, and holds half to Yuka's mouth. She takes a bite. Her back straightens against his arm.
+
+“You could tell?” ʸ
+
+“You ate the lemon ones off my plate first. Every morning we ordered them.” ᴹ
+
+“I did give you one.” ʸ
+
+“It had a tooth mark in it.” ᴹ
+
+She takes a bite out of his half as well, leaving just such a mark. Mau looks down at it, eats the rest, and goes looking for one of the tarts Rem likes before Milim notices there's one left. Rem takes the plate from him when it comes round, still holding the piping cloth in her other hand. She has enough time to take one bite before Umaru notices what it is.
 
 * * *
 

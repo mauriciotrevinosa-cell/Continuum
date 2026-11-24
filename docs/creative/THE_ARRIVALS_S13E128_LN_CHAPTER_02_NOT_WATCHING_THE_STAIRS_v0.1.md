@@ -89,9 +89,21 @@ He's still got a little flour at his hairline. He leaves it there.
 
 Shuna doesn't answer. But Mau sees the side of her face, turned toward the stove, and the corner of her mouth.
 
-He gets flour on his face four more times before lunch.
+The next patch is on his nose. Yuka comes down from the counter and catches him trying to rub it off on his own.
 
-He's fairly sure at least two of them aren't accidents.
+“That's my job.” ʸ
+
+“I'm sorry,” he says, and takes her around the waist before she can get away. ᴹ
+
+She laughs into his mouth. He can feel the flour left behind on the tip of his nose when it brushes hers. Shuna sets the empty tin down between the two of them with a very decisive clank.
+
+“The next one gets to wash that.” ˢʰᵘ
+
+“I'll wash it,” Mau says. He kisses Yuka once more and reaches for the tin. ᴹ
+
+“I meant the next one *after* that,” says Shuna, after a moment. ˢʰᵘ
+
+Yuka gets herself out of his arms long enough to find a clean cloth for him. While he washes, she goes to the stove to ask Shuna what spice went in the fruit. She liked it, she says, and she'd like to get the next one right with him. When he turns back with the dripping tin, Shuna has put a bowl in Yuka's hands and is showing her how much to take between finger and thumb.
 
 * * *
 

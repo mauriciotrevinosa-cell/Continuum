@@ -207,7 +207,25 @@ Ori looks at Yuka. Yuka, with her eyes very bright, looks back.
 
 Ori considers this.
 
-“Good,” she says, with deep satisfaction, and puts her head back down on Mau's leg.
+“Good,” she says, with deep satisfaction, and puts her head back down on Mau's leg. ᴼ
+
+Yuka sits back on her hands. One of Ori's buckles is pressed into the soft part of her palm. Mau moves the boot a little and slips the folded napkin from the basket under it.
+
+“Luxury,” says Yuka. ʸ
+
+“I can do better than that.” ᴹ
+
+He takes a twist of paper from his coat, the extra sweets from town. Her eyes go straight to it.
+
+“That's mine,” she says. ʸ
+
+“I know whose it is.” ᴹ
+
+She leans across Ori just far enough to kiss him. He brings the sweet to her mouth after, once she's stopped smiling enough to take it. When Ori raises her nose at the crackle of the paper, Mau puts the bag where all three of them can reach.
+
+“Those are the sour ones,” Yuka warns her. ʸ
+
+Ori takes two.
 
 * * *
 

@@ -11,7 +11,19 @@
 
 Rem is in the kitchen before the sun.
 
-He knows she will be. He felt her come down the stairs while it was still dark, the way he feels everyone, and he got up, and left Yuka asleep with her face in his pillow, and came down.
+He felt her come down the stairs while it was still dark. He tried to get his arm out from under Yuka without waking her. Her fingers closed on his cuff as soon as he moved.
+
+“Are you coming back?” she asks. Her eyes are still shut. ʸ
+
+“I think Rem wants tea.” ᴹ
+
+Yuka opens one eye. It's too early for her to focus it very well. She finds the back of his neck by touch and pulls him down for a kiss that nearly takes him back to sleep.
+
+“Go,” she says, with her mouth still against his. “I'll keep your spot.” ʸ
+
+He tucks the warm edge of the blanket around her shoulder. She takes his pillow into her arms the moment his head clears it. In the hall he has to stop to find his sleeve, which she's managed to fold halfway back up to his elbow.
+
+Then he goes down.
 
 She's at the table with a cup of tea she hasn't drunk. In her plain dress. Hair still loose. Her hands round the cup.
 

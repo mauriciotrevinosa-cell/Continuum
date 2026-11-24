@@ -151,7 +151,9 @@ He looks down. His left thumb is twitching. He hadn't noticed.
 
 “Yes,” he says. ᴹ
 
-Yuka takes his left hand in both of hers and holds it, in her lap, under the table. Her thumb on his thumb.
+Yuka takes his left hand in both of hers. His wrist is a little high against the lip of the table, so she pushes her chair in and sets it across her lap. The next flicker jumps into her thumb. She rubs the place once.
+
+He could take his hand back. He turns it palm up instead, and when she slides her fingers between his he leans over and kisses the part in her hair. She tips against his upper arm with a pleased little sound. Across from them, Maki has put both elbows back on the bench. Mai is showing her how to keep from opening her fingers too soon.
 
 “Tell me when it works,” she says. ʸ
 

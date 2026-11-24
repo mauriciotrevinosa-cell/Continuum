@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 35
 **Source episode:** S13E136
-**Continuity state:** B+459 ("28"), evening. Yuka's point of view. Elmesia's garden, lit. DIO with the plant, the blue dress and Ori's lucky dragon; Elmesia waiting at the foot of the narrow stair. Mau meant to stay in the little room with the soldier; within ten minutes he's been fetched down to a bench between the two of them, because neither can get a sentence out, and he ends up as mediator. He fetches his expert. The expert, Yuka, sits on the bench, eats the cakes, laughs, and says, "You two can do it." They can't. In the end Mau says it for them, plainly, because nobody else will: DIO loves Elmesia, the romantic way, and Elmesia loves DIO, the same way. Both of them go red to the ears, which Yuka can see and Mau can't, because neither of them managed to say it to the other. Then they say it properly, to each other, without him. DIO tells Mau he still only owes her two; the letter lie is forgiven. Mau and Yuka go and sit under a tree to wait. Yuka puts her head on his chest; a let go; they both fall asleep. They're woken by DIO, alarmed, because it's very late and they should have been home hours ago.
+**Continuity state:** B+459 ("28"), evening. Yuka's point of view. Elmesia's garden, lit. DIO with the plant, the blue dress and Ori's lucky dragon; Elmesia waiting at the foot of the narrow stair. Mau meant to stay in the little room with the soldier; within ten minutes he's been fetched down to a bench between the two of them, because neither can get a sentence out, and he ends up as mediator. He fetches his expert. The expert, Yuka, sits on the bench, eats the cakes, laughs, and says, "You two can do it." They can't. In the end Mau says it for them, plainly, because nobody else will: DIO loves Elmesia, the romantic way, and Elmesia loves DIO, the same way. Both of them go red to the ears, which Yuka can see and Mau can't, because neither of them managed to say it to the other. Then they say it properly, to each other, without him. DIO tells Mau he still only owes her two; the letter lie is forgiven. Mau and Yuka take their promised dance by the pool and then sit under a tree to wait. Yuka puts her head on his chest; a let go; they both fall asleep. They're woken by DIO, alarmed, because it's very late and they should have been home hours ago.
 
 *When: B+459. Evening into night. "28." Under it, in Yuka's hand: "EXPERT". Underlined.*
 
@@ -247,7 +247,25 @@ Yuka doesn't look round.
 
 * * *
 
-She sits on the root of the tree. She pulls Mau down beside her. She puts the cake basket on her other side.
+She puts the cake basket down on the wide root of the tree and looks back. Mau is still standing there with his hand in hers.
+
+“We have a minute,” he says. ᴹ
+
+His feet are still turned toward the bench. A moment passes. No one comes to ask for him. He turns the rest of the way to her.
+
+“You owe me a dance,” she says. ʸ
+
+“I found somewhere.” He looks down at the strip of lawn between the root and the pool. “I was hoping you'd remember.” ᴹ
+
+He holds out his other hand. She gives him the one he already has, steps straight into him, and puts the free one on the back of his shoulder. For a few steps she follows the sound of the water against the edge of the pool. Then he takes a step that she's taken too, and her shoe comes down across his. He stops. She goes up on her toes and kisses him with one foot still pinning him where he is.
+
+“That's how you do it,” she says. ʸ
+
+“I had the step right. You went the same way.” ᴹ
+
+She kisses him again for arguing. He lets her have the next step, then takes one himself, the smallest one he can manage. She follows it with her cheek against his. By the time they reach the root again she has both arms over his shoulders and there hasn't been a recognizable step for quite a while.
+
+She sits on the root and pulls him down beside her.
 
 She leans against him. Then she shifts, and turns, and lies down with her back on the root and her head on his chest, the way she does on the couch, the way she did after the red gate, when he couldn't stop and she held him until he could.
 
@@ -279,11 +297,9 @@ And then she stops talking, because she's warm and he's warm and the lanterns ar
 
 “Let go,” she says. Very quietly. ʸ
 
-He knows what it means. He's known since the red gate. She means *stop holding everything up. Just for a bit. I've got you.*
+His arm slides lower around her. She reaches behind herself to make room for it and feels him settle into the space she's made.
 
-She feels him do it.
-
-She feels him let go. All of it. The lines, the soldiers, the house, the war, the forty-eight days, Yoru, Cross, everything. All of it going slack in him, under her ear, the way a held breath goes out.
+For a little while she plays with the edge of his cuff. He turns his palm over beneath her fingers and lets it lie there. His breath goes out warm against the top of her head. The next one takes longer to come.
 
 He falls asleep.
 

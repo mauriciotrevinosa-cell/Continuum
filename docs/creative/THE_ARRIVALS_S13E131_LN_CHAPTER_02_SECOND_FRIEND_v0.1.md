@@ -266,3 +266,21 @@ Then, under it, in small neat letters, she adds a new line. One that wasn't on t
 She doesn't tick that one. It isn't a thing you finish.
 
 She closes the notebook and goes in.
+
+Mau is at the stove holding a bowl so Shuna can pour. He's got his head bent to hear what she's saying about the bottom of the pot. Yuka waits until the bowl is on the counter, then goes right up behind him and puts her arms around his waist.
+
+“Hi,” she says into his back. ʸ
+
+He lays a hand over hers before he turns. “Hi. Do you want supper in a bowl or on a plate?” ᴹ
+
+“I want to stay here.” ʸ
+
+“You can stay here and still have supper.” ᴹ
+
+She tests this. He puts the bread board within reach. She takes a piece without moving her other arm, feeds him a corner, and then brings her hand right back where it was.
+
+She can see the north-wing step through the window. Makima has stayed to watch the last of the light. Yuka thinks she'll leave her to that and take her a bowl afterwards, when the quiet's had time to do its work.
+
+“Get me an extra one for later?” she asks. ʸ
+
+Mau puts a second bowl beside hers. When he turns around in her arms she tips her face up and he kisses her, all bread and still enough time before supper.

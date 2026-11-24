@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 17
 **Source episode:** S13E127
-**Continuity state:** B+441 ("46"). The first of the days he owes her. Yuka asks for one whole day in town, just the two of them, with one condition: he doesn't check on anyone. Not the soldiers, not the anchors, not the house. Ciel watches the lines for him and will only call if something is truly wrong. It is the hardest thing she has ever asked of him, and he says yes. Caprices: the stall with the hair ribbons, a fight over a hat, matching sweets, the river steps, a nap on a bench. Twice his hand goes to the lines without thinking and twice he takes it back. Ciel doesn't call once. At sunset Yuka ticks a line in the notebook: "One day where I'm the only one he's looking after." He never finds out which line it was.
+**Continuity state:** B+441 ("46"). The first of the days he owes her. Yuka asks for one whole day in town, just the two of them, with one condition: he doesn't check on anyone. Not the soldiers, not the anchors, not the house. Ciel watches the lines for him and will only call if something is truly wrong. It is the hardest thing she has ever asked of him, and he says yes. Caprices: the ribbon Mau ties in her hair, a hat big enough for two, sour sweets, the river steps, a nap on a bench. Twice his hand goes to the lines without thinking and twice he takes it back. Ciel doesn't call once. At sunset Yuka ticks a line in the notebook: "One day where I'm the only one he's looking after." He never finds out which line it was.
 
 *When: B+441. "46." Under it, in Yuka's hand: "TOWN." Underlined three times.*
 
@@ -97,11 +97,47 @@ A stall with hair ribbons. She makes him choose one. He can't see the colours. H
 
 “I can't see it,” he says. “I just thought it looked like you.” ᴹ
 
-She has to turn round and look at the next stall for a while after that, very hard, with her back to him.
+She turns round. There's a stall across from them selling hats. She gives it a very close look while Mau pays for the ribbon.
 
-A hat. An enormous one, with a brim the width of a cart wheel and something that might be fruit on it. She puts it on his head. He takes it off. She puts it back. They have an argument about it in the middle of the street that goes on for some time and that Yuka wins by the simple method of buying it and walking off, and he wears it for the rest of the day, and three separate people stop him to say they admire his hat.
+“Turn back a little,” he says. ᴹ
 
-Sweets. The kind with the twisted paper. She makes him buy two of every flavour, one for her and one for him, and then eats both of every flavour and gives him the papers.
+She turns just her head.
+
+“The other way. Let me put it on you.” ᴹ
+
+She backs into him at once and gives him her hair to hold. He gathers it at the nape, losing half of it on the first try. She tries to see over her shoulder and loses the other half for him.
+
+“Hold still,” he says, laughing. ᴹ
+
+“You have to kiss me while I wait.” ʸ
+
+He finds her cheek from behind and kisses it, then again, a little lower, when she tips her chin to make that easier. She holds perfectly still after that. By the time the bow is tied she has his other arm around her waist, right in the open street, and the stallkeeper has had to ask them twice whether they need their change.
+
+Yuka buys the largest hat across the way. It has a brim nearly the width of a cart wheel and a spray of something that might be fruit. She sets it on Mau's head with both hands.
+
+He looks up. He can see the hat. He can see her, leaning in under it. The rest of town has pretty much gone away.
+
+“This is a very impractical hat,” he tells her. ᴹ
+
+“I can still see you.” ʸ
+
+He pulls the brim down over the two of them and kisses her where nobody in the street can see. When he lets it up again she has one hand still clamped on the crown, as if he might get ideas about taking it off.
+
+“You can let go,” he says. “I'll wear it.” ᴹ
+
+He does. Three separate people stop him before lunch to say they admire it. He tells every one of them his wife picked it.
+
+At the sweet stall he gets two of every flavour in twisted paper. Yuka eats both of the first pair, puts the wrappers in his palm like this is his part of the arrangement, then goes to reach for the next one. He holds it an inch out of reach.
+
+“That one's sour,” he says. ᴹ
+
+“I know.” ʸ
+
+“You made a face last time.” ᴹ
+
+She attaches herself to his arm with both hands. “So watch me make it again.” ʸ
+
+He unwraps it for her. She makes exactly the face he remembers. He buys another little packet of those for later.
 
 The river steps. They sit on them in the sun and eat out of her basket. She's packed it with the best of yesterday's breakfast: the small round things from the island that survived, the honey cake, the good fish in bread. And a flask of tea. And, at the bottom, wrapped in a napkin folded into what is definitely a dragon, two of the small sharp pickles.
 

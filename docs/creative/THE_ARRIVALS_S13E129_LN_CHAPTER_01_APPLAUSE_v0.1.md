@@ -245,10 +245,20 @@ She sits down in hers, beside him. She puts the toast on his plate.
 
 “Eat that,” she says. “It's got jam on. You like jam.” ʸ
 
-He eats it.
+He takes a bite. Then he sees her plate. A few crumbs where the toast was. Her knife is still clean. She must have picked up the first piece she could reach when she saw him crossing the yard.
 
-She steals the pickles off his plate.
+He reaches for the bread, and her foot settles right on top of his.
 
-Under the table, very quietly, she puts her foot on his, and leaves it there, all through breakfast, as if to make sure he doesn't get up and walk anywhere again.
+“I'm staying,” he tells her. “I'm making you one.” ᴹ
 
-He doesn't.
+He puts the jam right out to the corners, where she likes it, and hands her the knife because she's got a very precise idea of where the cut should go. She cuts a corner off. He thinks she's going to eat it, but she puts it on his plate next to the piece he'd already started.
+
+“I can cut yours too, if your hands are still bad,” she says. ʸ
+
+He looks down. The knife in her hand is steady. His own fingers are only just starting to feel like fingers again. He sets a palm on the table, open, right beside her.
+
+“Could you?” ᴹ
+
+She does. He eats what she gives him. When he sets his hand down again, she kisses the side of it, between the thumb and the first finger, and goes back to her own breakfast like there are never going to be enough hours in a day to fit all the times she wants to do that.
+
+He leaves his foot there under hers. By the time Shuna comes round with another pot of tea, he has set aside all the pickles on the plate where she can reach them.

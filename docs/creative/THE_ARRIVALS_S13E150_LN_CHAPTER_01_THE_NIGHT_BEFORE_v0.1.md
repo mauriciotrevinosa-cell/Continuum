@@ -133,7 +133,13 @@ Maki and Yuta and Mai at the workshop. Yuta with the ring on, ten minutes ready.
 
 Dabura at the north edge, where he can see the hill road. *If she comes from there*, he says slowly, *she'll see a king picking pears.* Nobody understands what he means except Mau.
 
-Beru with Ori. Always Beru with Ori.
+Beru with Ori. Always Beru with Ori. And Lantern on the porch rail above her.
+
+Igris a step behind Yuka, where he always is.
+
+Bellion with the watch on the approaches, the legion's front rank at the edges of the grounds, the way he holds them whenever Mau isn't leading them himself.
+
+Kamish across the bottom of the orchard, keeping the house, the way he promised.
 
 Ori with her notebook, on the porch steps, *for the official record*.
 

@@ -45,6 +45,8 @@ Mau, Ori and Beru. That's what she said at the Fort, months ago, bargaining for 
 
 So this time it's just them.
 
+Just them and Lantern, who doesn't count, Ori says, because Lantern goes wherever Ori goes anyway. Mau asked her to, a long time ago, and never took it back. The small dragon flies low behind them all the way, the way she always does, close enough to reach Ori in a breath.
+
 Except Yuka.
 
 Yuka asked. Properly. Mau watched her do it, three nights ago, at supper. She went round the table to where Ori was sitting and crouched down beside her chair so their faces were level, not to look the same size, just to be close, and said: *I'd like to come on expedition two. If the commander allows it. I'll carry things. I'll do what I'm told.*

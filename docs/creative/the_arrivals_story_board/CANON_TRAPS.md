@@ -570,3 +570,11 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 - **Ori le dice "Mama" a Frieren, no a Yuka** (verificado en V82–V83, 23 nov 2026). A Mau le dice "Dad" ("Papa" fue la palabra de antes, S13E31). A Yuka la llama por su nombre. Un hermanito de Ori con Mau y Yuka es deseo de Yuka (V84 #12), no cambia esto.
 - **La pausa terminó en V85 #9** (B+467, *In Her Own Words*), con las palabras de Yuka en el escalón del porche. Yuka le muestra a Mau la lista marcada y le cuenta la última línea en V85 #23. La cercanía y los besos ya eran parte de la relación durante la pausa.
 - **Kamish es ENORME y habla** (Mauri, 24 nov 2026; canon: el Old Dragon del piso 70, V30, al que Lantern se le colgaba del cuello). Más largo que la casa. Echado, ocupa todo el fondo del huerto y sigue por el campo. El peral viejo es donde apoya la cabeza, no un árbol bajo el que cabe. Sentado es más alto que la casa. Cada ojo es como una rueda de carreta. Habla (ᴷ), con una voz que sale del suelo. No escribirlo como mascota del tamaño de un granero.
+- **Las sombras y sus puestos** (Mauri, 24 nov 2026):
+  - Las sombras **no duermen ni comen**. Si Mau ordena, cumplen, y la orden no tiene que ser en voz alta. Una orden sigue vigente hasta que Mau la quite.
+  - **Lantern sigue a Ori** siempre, porque Mau se lo pidió y nunca quitó la instrucción.
+  - **Igris cuida a Yuka**, un paso detrás de ella.
+  - **Bellion cuida la casa** y ayuda a liderar la legión cuando Mau no está al frente.
+  - **Kamish** tiene la promesa de cuidar la casa, lo que no le quita jugar con ellos.
+  - **Beru** está con Ori.
+  - No dejar que estas sombras "desaparezcan" de las escenas.

@@ -11,7 +11,7 @@
 
 The pears are ready.
 
-Shuna says so at breakfast. She's been watching the old tree for a week, the one Kamish sleeps under, and the long row along the orchard wall, going out every morning to squeeze one or two, very gently, and frown, and come back in. This morning she came back in and didn't frown.
+Shuna says so at breakfast. She's been watching the old tree for a week, the one Kamish rests his head beside, and the long row along the orchard wall, going out every morning to squeeze one or two, very gently, and frown, and come back in. This morning she came back in and didn't frown.
 
 “Today,” she says. ˢʰᵘ
 

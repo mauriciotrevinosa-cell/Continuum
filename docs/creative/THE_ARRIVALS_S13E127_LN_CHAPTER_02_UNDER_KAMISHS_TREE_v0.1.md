@@ -121,7 +121,7 @@ Then she holds it up in front of Kamish's nose.
 
 * * *
 
-Afterwards, when the animals have been distributed into Ori's satchel for delivery to the Fort and Beru has been sent to stand guard over the satchel and Kamish has gone back to sleep, Ori lies down on the grass between Mau and Yuka with her head on Mau's leg and her boots on Yuka's lap.
+Afterwards, when the animals have been distributed into Ori's satchel for delivery to the Fort and Beru has been sent to stand guard over the satchel and Kamish has closed his eyes again, keeping the house the way he keeps it, lying down, Ori lies down on the grass between Mau and Yuka with her head on Mau's leg and her boots on Yuka's lap.
 
 She's quiet for a while. Looking up at the pear leaves.
 

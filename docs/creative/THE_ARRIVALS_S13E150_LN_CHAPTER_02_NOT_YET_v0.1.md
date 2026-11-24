@@ -31,9 +31,11 @@ Dabura at the north edge, by the hill road, sitting on the wall with a pear in h
 
 The Fort on the roof of the Fort, under the REM SAID IT banner. The witches on their terrace. Senku by the training posts with something that hisses.
 
-Ori on the porch steps, with Beru behind her and her notebook open on her knees.
+Ori on the porch steps, with Beru behind her and Lantern on the rail above and her notebook open on her knees.
 
-And Mau in the middle of the yard. Makima at his right shoulder. Yuka at his left. A small carved dragon in his pocket.
+Bellion's front rank at the edges of the grounds. Kamish across the bottom of the orchard, keeping the house, his head up for once.
+
+And Mau in the middle of the yard. Makima at his right shoulder. Yuka at his left, and Igris a step behind her. A small carved dragon in his pocket.
 
 Everybody. Together. In daylight. Where she'll see them.
 

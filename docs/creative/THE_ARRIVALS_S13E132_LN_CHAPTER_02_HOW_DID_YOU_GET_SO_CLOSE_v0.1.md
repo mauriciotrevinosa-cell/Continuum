@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 30
 **Source episode:** S13E132
-**Continuity state:** B+452 ("35"). Satella comes to the north-wing step at dusk, where Makima sits, and asks the question she's carried for weeks: how did Makima get so close to him? She has lived in this house a long time and been loved here; but Makima, who hurt him, has a room inside him and holds his hand. It isn't hatred. It's envy, quiet and honest, the oldest thing Satella knows. Makima answers plainly: she hurt him, she was forgiven, she asked. "You've never asked." Satella has never asked anyone for anything. Makima takes her to Mau. Satella can't get the words out; Makima says them for her, then stops and makes her say the last part herself. Mau offers Satella a room inside him, off the inner corridor, for visiting, whenever she wants, as a guest. Satella says yes. She doesn't know that six other witches are listening at the north-wing window.
+**Continuity state:** B+452 ("35"). Satella comes to the north-wing step at dusk, where Makima sits, and asks the question she's carried for weeks: how did Makima get so close to him? Satella is already close to him: she sits pressed beside him at every tea, she's in the Fort, and the only thing he ever stopped was her old "I love you", because he knew it wasn't true. What she envies is Makima's: the room inside him, talking with him in there, going wherever he goes. Makima explains the going: she and Mau are really one; this body is Noise's, and she can't be far from him. It's a tether, not a privilege. Satella understands. What's left is the room, because she feels they never spend time together, though the truth is otherwise. Makima takes her to Mau. Satella can't get the words out; Makima says them for her, then stops and makes her say the last part herself. Mau offers Satella a room inside him, off the inner corridor, for visiting, whenever she wants, as a guest. Satella says yes. She doesn't know that six other witches are listening at the north-wing window.
 
 *When: B+452. "35." Under it, in a handwriting nobody in the house recognises, very small and very neat: "asked". It is Satella's. She has never written in the notebook before.*
 
@@ -67,15 +67,19 @@ She stops.
 
 “Yes,” says Makima. ᴹᵏ
 
-“And now,” says Satella, “you have a room. *Inside* him. You sit at his table and drink from his cup. You walk beside him into the dark. You hold his hand.” ˢᵃ
+“And now,” says Satella, “you have a room. *Inside* him. You sit at his table and drink from his cup and talk to him in there, where nobody else can hear. You walk beside him everywhere. Into the dark. To the north. You hold his hand.” ˢᵃ
 
 Her voice doesn't rise. It just gets very quiet.
 
-“I've been here since there was nothing here,” she says. “I've been loved here. I know I have. And I've never once been that close to anyone. Not him. Not anyone. And you were cruel, and you got there in a year.” ˢᵃ
+“I'm close to him,” she says. “I know I am. I sit beside him at every tea. Right beside him. Closer than the others like. I'm in the Fort; Ori pinned the badge on me herself. I see him every day.” ˢᵃ
 
 She looks down at her hands.
 
-“I want to know how,” she says. “That's all. I'm not asking you to give it to me. I just want to know how it's done.” ˢᵃ
+“I told him once that I loved him,” she says. “A long time ago. And he stopped me. Kindly. He said it wasn't true, and he was right, and I knew he was right while I was saying it. I don't want that. I never really wanted that.” ˢᵃ
+
+She lifts her head.
+
+“I want what you have,” she says. “The room. The talking, in there. Going where he goes. That's what I envy. Not him. That.” ˢᵃ
 
 * * *
 
@@ -83,49 +87,51 @@ Makima thinks about it for a long time.
 
 The light is almost gone. A lamp has come on in the window behind them, in Makima's own room.
 
-“I hurt him,” she says. ᴹᵏ
+“Walking beside him,” she says at last. ᴹᵏ
 
-Satella looks at her.
+Satella waits.
 
-“That's the first part,” says Makima. “I'm not proud of it. I'm telling you because you asked how, and that's how it started. I hurt him, and his wife, and a great many other people. And then I came to the outer post and asked for things, and he gave me some of them, and refused some, and set terms, and I kept them.” ᴹᵏ
-
-She folds her hands in her lap.
-
-“And then he thanked me,” she says. “For something small. When he had no reason to. And I didn't understand it. And I came back, and came back, and he kept setting terms, and I kept keeping them. And then he forgave me. Not all of it. Enough.” ᴹᵏ
+“You think I go with him because I've earned it,” says Makima. “Because I'm close. Because he lets me.” ᴹᵏ
 
 She turns her head and looks at Satella.
 
-“And then I asked,” she says. ᴹᵏ
+“I go with him because I can't not,” she says. “He and I are, really, one thing now. This body isn't mine. It's Noise's. He holds it in the world for me, and he can only hold it so far from Mau before I have to go back inside. I don't accompany him, Satella. I'm *in* him. When he goes north, I go north, because the rest of me is already there.” ᴹᵏ
 
-Satella goes still.
+Satella goes very still.
 
-“I asked to be near him,” says Makima. “Out loud. In words. *May I.* I asked to apologise to his wife. I asked to sit beside people. I asked to come into the house. I asked for everything I've got. Every single thing.” ᴹᵏ
-
-She lets that sit.
-
-“You've never asked,” she says. ᴹᵏ
+“The hand,” says Makima, more quietly. “That's real. That's friendship. But the walking beside him, everywhere, all the time? That isn't a privilege. That's a tether.” ᴹᵏ
 
 * * *
 
-Satella doesn't answer.
+Satella doesn't say anything for a long while.
 
-Makima watches her not answer. Watches it go into her. Watches her sit on the far end of the step with her hands clenched in her lap and her face very still, the way people's faces go still when someone says the true thing they've been walking round for years.
+Makima watches it go into her. Watches her turn it over. The thing she has been envying for weeks, seen from the other side.
 
-“Have you?” says Makima. ᴹᵏ
+“Oh,” says Satella at last. Very small. ˢᵃ
 
-“No,” says Satella. Barely a sound. ˢᵃ
+“Yes,” says Makima. ᴹᵏ
 
-“Not him. Not anyone.” ᴹᵏ
+Satella looks out at the yard.
 
-“No.” ˢᵃ
+“Then it's only the room,” she says slowly. “The table. The talking in there.” ˢᵃ
 
-“You stand in doorways,” says Makima. “You have a window onto the common room so you can see people without having to ask to be among them. You say *not yet* when people ask you things. You wait. For four hundred years, I think, you've waited for someone to come and give you what you envy, without you ever having to say you want it.” ᴹᵏ
+She folds her hands.
 
-Satella's face does something.
+“I feel as though we never spend any time together,” she says. “He and I. Outside, everyone has him. At tea, everyone's there. I sit right beside him and there are six others at the table and Pride is throwing something. I never get him to myself for a minute. And you have him all the time, in there.” ˢᵃ
 
-“Because if I ask,” she says, “they can say no.” ˢᵃ
+Makima looks at her.
 
-“Yes,” says Makima. “They can.” ᴹᵏ
+She could say: *you see him every single day. You sit pressed against his side at every tea. He asks after you. He counts you.* All of it true.
+
+She doesn't. It isn't what Satella needs to hear tonight.
+
+“Then ask him for the room,” she says. ᴹᵏ
+
+Satella's hands tighten in her lap.
+
+“Just like that,” she says. ˢᵃ
+
+“Just like that,” says Makima. “He'll say yes. He always says yes. But you have to ask it yourself.” ᴹᵏ
 
 She stands up.
 
@@ -137,9 +143,9 @@ Mau is in the common room with Yuka.
 
 It's late. Most of the house has gone up. He's on the couch with Yuka asleep in his lap, the way she falls asleep in his lap most nights now, and a book open on the arm of the couch that he isn't reading, and he looks up when Makima comes in with Satella behind her.
 
-He knows at once that something's happening. He can see it in Makima's face. And in Satella's, which he's never seen like this. Satella, who stays in doorways. Who never comes all the way into a room.
+He knows at once that something's happening. He can see it in Makima's face. And in Satella's, which he's never seen like this. Satella, who sits pressed against his side at every tea and has never once looked nervous about it.
 
-She's come all the way in.
+She looks nervous now.
 
 She's standing in the middle of the common room in the lamplight with her hands clenched at her sides, and she looks like she's about to be sick.
 
@@ -161,7 +167,7 @@ Satella's hands are shaking.
 
 Makima, beside her, sighs. Very softly.
 
-“She'd like to be closer to you,” says Makima. “The way I am. She's been envious of it for weeks. She's never asked anyone for anything in four hundred years, and she doesn't know how. She'd like a room. Inside. Like mine. To visit. She'd like—” ᴹᵏ
+“She'd like a room,” says Makima. “Inside. Like mine. She's been envious of it for weeks; she thinks the two of you never get any time together, and she'd like somewhere to talk to you where nobody's throwing spoons. She'd like mine. To visit. She'd like—” ᴹᵏ
 
 Makima stops.
 

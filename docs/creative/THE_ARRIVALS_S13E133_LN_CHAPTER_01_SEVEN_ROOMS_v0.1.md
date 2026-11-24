@@ -33,7 +33,7 @@ She unfolds the piece of paper.
 
 She looks up over the top of the paper at Satella, who doesn't look up from her cup.
 
-“We do not object to this,” says Echidna. “Let that be clear. We are delighted for her. She asked. She has never asked for anything in four hundred years. We are very proud.” ᴱᶜ
+“We do not object to this,” says Echidna. “Let that be clear. We are delighted for her. She asked. Out loud. In the common room. For a thing she wanted. We are very proud.” ᴱᶜ
 
 Satella's ears have gone a colour that Mau can't see but can guess at from the way Emilia is looking at them.
 

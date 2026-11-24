@@ -495,4 +495,4 @@ Architect ending now selected: statues/fight -> pleased by Mau -> new Black Hear
 
 > fak ahora quiero que satella se acerque a mau como makima estoy llorando
 
-Semilla, sin escribir: después de V84 *How Did You Get So Close* (Satella pide un cuarto adentro por primera vez en 400 años), que Satella llegue a ser amiga cercana de Mau, como Makima. Por desarrollar con Mauri cuando termine de leer.
+Semilla, sin escribir: después de V84 *How Did You Get So Close* (Satella ya es cercana: se sienta pegada a Mau en los tés, está en el Fort; Mau solo le paró el "I love you" porque sabía que no era cierto. Envidia lo de Makima: el cuarto, hablar con él adentro, acompañarlo; Makima le explica que acompañarlo es porque ella y Mau son uno y el cuerpo es de Noise; Satella entiende y pide el cuarto porque siente que no conviven, aunque la verdad es otra), que Satella llegue a ser amiga cercana de Mau, como Makima. Por desarrollar con Mauri cuando termine de leer.

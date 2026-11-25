@@ -123,7 +123,7 @@ Suho is standing in front of him, breathing hard, grass all over him, looking up
 
 “My turn?” says Mau. ᴹ
 
-“You never learned either,” says Suho. “Dad said. You fall *loads*. You fell over in the fight with Gojo, I saw. Twice. On your back.” ˢᵘ
+“You never learned either,” says Suho. “Dad said. You fall *loads*. You fell over in the orchard on pears day, I saw. Twice. On your back.” ˢᵘ
 
 Mau looks at Jin-Woo.
 

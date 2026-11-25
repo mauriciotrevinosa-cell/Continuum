@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 26 — Beru's Cry
+## Chapter 28 — Beru's Cry
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 26
+**Reading order:** 28
 **Source episode:** S13E130
-**Continuity state:** B+447 ("40"). Ori's point of view. Ori and Beru come back from her first run through the Fort's new door in the upgraded house gate (V84 #24–25), checked by Frieren. On the path through the orchard, Cross is waiting. He wants to explain; he says he wants Ori to understand him. Ori tells him plainly: he nearly broke her family, and she doesn't want him near her. When he steps closer anyway, Beru uses his cry, the Solo Leveling one that roots people where they stand. Cross can't move. Beru picks Ori up and carries her to find Mau. Mau doesn't walk to the river this time. He listens to all of it, thanks Beru, and goes to find Maru instead, and asks him, very calmly, to keep his brother away from his daughter. Maru says he will.
+**Continuity state:** B+449 ("38"). Ori's point of view. Ori and Beru come back from her first run through the Fort's new door in the upgraded house gate (V84 #26–27), checked by Frieren. On the path through the orchard, Cross is waiting. He wants to explain; he says he wants Ori to understand him. Ori tells him plainly: he nearly broke her family, and she doesn't want him near her. When he steps closer anyway, Beru uses his cry, the Solo Leveling one that roots people where they stand. Cross can't move. Beru picks Ori up and carries her to find Mau. Mau doesn't walk to the river this time. He listens to all of it, thanks Beru, and goes to find Maru instead, and asks him, very calmly, to keep his brother away from his daughter. Maru says he will.
 
-*When: B+447. "40." Ori wrote it herself, very large, and drew Beru beside it with his mouth open and lines coming out of it.*
+*When: B+449. "38." Ori wrote it herself, very large, and drew Beru beside it with his mouth open and lines coming out of it.*
 
 The middle door is Ori's.
 

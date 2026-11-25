@@ -5,9 +5,9 @@
 **Volume:** 85
 **Reading order:** 1
 **Source episode:** S13E137
-**Continuity state:** B+460 ("27"). DIO returns Ori's dragon at breakfast, with interest: a pressed flower from Elmesia's garden. Ori accepts the return formally. Then Ori turns her attention to the one person in the house who has been out of the library every day for six weeks without being made to: Beatrice. The Fort holds an emergency session on the roof under the REM SAID IT banner. Beatrice is summoned, protests that Betty is not a child, in fact, and is inducted anyway, with a paper badge, a carved animal (a small owl, borrowed from Umaru and then given), and the Fort oath, which now includes "even against Kamish" and "even against the library". Echidna watches from the north-wing step. Beatrice wears the badge to supper.
+**Continuity state:** B+462 ("25"). DIO returns Ori's dragon at breakfast, with interest: a pressed flower from Elmesia's garden. Ori accepts the return formally. Then Ori turns her attention to the one person in the house who has been out of the library every day for six weeks without being made to: Beatrice. The Fort holds an emergency session on the roof under the REM SAID IT banner. Beatrice is summoned, protests that Betty is not a child, in fact, and is inducted anyway, with a paper badge, a carved animal (a small owl, borrowed from Umaru and then given), and the Fort oath, which now includes "even against Kamish" and "even against the library". Echidna watches from the north-wing step. Beatrice wears the badge to supper.
 
-*When: B+460. "27." Under it, in Ori's hand: "NEW MEMBER". A small owl drawn beside it.*
+*When: B+462. "25." Under it, in Ori's hand: "NEW MEMBER". A small owl drawn beside it.*
 
 DIO gives the dragon back at breakfast.
 

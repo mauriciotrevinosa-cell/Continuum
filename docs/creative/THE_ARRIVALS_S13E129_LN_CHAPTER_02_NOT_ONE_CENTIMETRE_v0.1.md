@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 23 — Not One Centimetre
+## Chapter 25 — Not One Centimetre
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 23
+**Reading order:** 25
 **Source episode:** S13E129
-**Continuity state:** B+446 ("41"). Cross heard about the yard: Mau walking toward the river, and Yuka stopping him with toast in her hand. He comes to the workshop door in the morning, where Mau is helping Mai, and asks to be forgiven. Mau tells him the truth: the only reason Cross is still standing is what he did for Yuka once, in a corridor, when nobody else saw her. Otherwise Mau would already have sent him back. Cross can stay; he can live here, eat here, share rooms with everyone. In a group conversation they'll speak. But he isn't to greet Mau or address him otherwise, and Mau won't pretend he's fine with him. Cross accepts it too easily. Mau notices. Mai notices him noticing. Seed: Cross may one day try to win Mau the way Makima once tried to win people. Mau isn't going to give him a centimetre.
+**Continuity state:** B+448 ("39"). Cross heard about the yard: Mau walking toward the river, and Yuka stopping him with toast in her hand. He comes to the workshop door in the morning, where Mau is helping Mai, and asks to be forgiven. Mau tells him the truth: the only reason Cross is still standing is what he did for Yuka once, in a corridor, when nobody else saw her. Otherwise Mau would already have sent him back. Cross can stay; he can live here, eat here, share rooms with everyone. In a group conversation they'll speak. But he isn't to greet Mau or address him otherwise, and Mau won't pretend he's fine with him. Cross accepts it too easily. Mau notices. Mai notices him noticing. Seed: Cross may one day try to win Mau the way Makima once tried to win people. Mau isn't going to give him a centimetre.
 
-*When: B+446. "41." Mai's workshop, mid-morning. Mai wrote nothing in the notebook. Mai never writes in the notebook. She left a small pressed flower on the page instead.*
+*When: B+448. "39." Mai's workshop, mid-morning. Mai wrote nothing in the notebook. Mai never writes in the notebook. She left a small pressed flower on the page instead.*
 
 He's in the workshop when Cross comes.
 

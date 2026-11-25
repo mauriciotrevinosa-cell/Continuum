@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 35 — Rem Asks
+## Chapter 37 — Rem Asks
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 35
+**Reading order:** 37
 **Source episode:** S13E134
-**Continuity state:** B+456 ("31"). Early morning, the kitchen, before anyone else is up. Rem comes to Mau the way she always has: first. Before the date, before the festival, she came to him; she comes now. She wants to tell Umaru she loves her. Out loud. To her face. She has said it once, to Subaru, with Mau sitting there, but never to Umaru. She's afraid, and it's not the fear of a no. It's the old one: that saying it hands Umaru something that could be used to pull her, the way Subaru once used what she was only beginning to feel. Mau tells her Umaru isn't Subaru; Umaru drags her into things because she wants her there, not because she's owed. He doesn't plan it for her. He asks her where she'd want to say it. Rem knows at once: the Fort, on the roof, where Umaru goes to watch the stars and pretends she's looking for satellites. Tonight.
+**Continuity state:** B+458 ("29"). Early morning, the kitchen, before anyone else is up. Rem comes to Mau the way she always has: first. Before the date, before the festival, she came to him; she comes now. She wants to tell Umaru she loves her. Out loud. To her face. She has said it once, to Subaru, with Mau sitting there, but never to Umaru. She's afraid, and it's not the fear of a no. It's the old one: that saying it hands Umaru something that could be used to pull her, the way Subaru once used what she was only beginning to feel. Mau tells her Umaru isn't Subaru; Umaru drags her into things because she wants her there, not because she's owed. He doesn't plan it for her. He asks her where she'd want to say it. Rem knows at once: the Fort, on the roof, where Umaru goes to watch the stars and pretends she's looking for satellites. Tonight.
 
-*When: B+456. "31." Very early. The notebook is still on the kitchen table where Yuka left it last night. Rem doesn't touch it.*
+*When: B+458. "29." Very early. The notebook is still on the kitchen table where Yuka left it last night. Rem doesn't touch it.*
 
 Rem is in the kitchen before the sun.
 

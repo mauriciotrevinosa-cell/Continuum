@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 37 — The Invitation
+## Chapter 39 — The Invitation
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 37
+**Reading order:** 39
 **Source episode:** S13E135
-**Continuity state:** B+457–458 ("30"–"29"). Umaru's banner goes up over the Fort: REM SAID IT. Rem tries to take it down and is outvoted by the entire Fort. Meanwhile Mau keeps his promise to DIO. He writes to Elmesia, carefully, not saying anything that isn't his to say: DIO would like to visit the garden again, with the plant, and would like it to be just the two of them this time, with Mau bringing them through the Exchange and waiting upstairs. Elmesia's bird comes back the same afternoon. Yes. Tomorrow evening. DIO panics for a day and a half. Ciel helps her choose what to wear and is made to leave the room. Makima gives her advice nobody asked for. Ori lends her the little carved dragon for luck. Mau decides he can't be the only one there who knows anything about this, and asks Yuka to come.
+**Continuity state:** B+459–460 ("28"–"27"). Umaru's banner goes up over the Fort: REM SAID IT. Rem tries to take it down and is outvoted by the entire Fort. Meanwhile Mau keeps his promise to DIO. He writes to Elmesia, carefully, not saying anything that isn't his to say: DIO would like to visit the garden again, with the plant, and would like it to be just the two of them this time, with Mau bringing them through the Exchange and waiting upstairs. Elmesia's bird comes back the same afternoon. Yes. Tomorrow evening. DIO panics for a day and a half. Ciel helps her choose what to wear and is made to leave the room. Makima gives her advice nobody asked for. Ori lends her the little carved dragon for luck. Mau decides he can't be the only one there who knows anything about this, and asks Yuka to come.
 
-*When: B+457 and 458. "30", then "29". Beside "30" Umaru has stuck a small paper flag. It says REM.*
+*When: B+459 and 460. "28", then "27". Beside "28" Umaru has stuck a small paper flag. It says REM.*
 
 The banner goes up before breakfast.
 

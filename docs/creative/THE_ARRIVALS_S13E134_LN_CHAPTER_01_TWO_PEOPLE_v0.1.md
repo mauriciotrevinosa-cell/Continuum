@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 34 — Two People
+## Chapter 36 — Two People
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 34
+**Reading order:** 36
 **Source episode:** S13E134
-**Continuity state:** B+455 ("32"). DIO comes to Mau inside, late, with her watering notebook, after the witches have gone home for the second night. She wants to talk about Elmesia: how do you know what it is you feel? Mau explains as well as he can. Then she asks about Noise, because she always thought what she felt for Noise was that, and now she isn't sure. Mau helps her see she may have mixed them up, the way she mixed things up with Ori at the start, and reminds her what she was like before the island: like a schoolgirl, writing letters, checking the window for the bird. There are only two people she always wants to show what she's made: Mau and Elmesia. Ciel and Noise make a noise; Makima makes a smaller one. "Five, sorry. I counted you with me." DIO laughs. Then Mau admits this isn't the first time someone has asked him exactly this, and DIO works out from his face that there's a third pair in the house. She demands to know. He won't say. She guesses anyway. Mau agrees to help her with Elmesia.
+**Continuity state:** B+457 ("30"). DIO comes to Mau inside, late, with her watering notebook, after the witches have gone home for the second night. She wants to talk about Elmesia: how do you know what it is you feel? Mau explains as well as he can. Then she asks about Noise, because she always thought what she felt for Noise was that, and now she isn't sure. Mau helps her see she may have mixed them up, the way she mixed things up with Ori at the start, and reminds her what she was like before the island: like a schoolgirl, writing letters, checking the window for the bird. There are only two people she always wants to show what she's made: Mau and Elmesia. Ciel and Noise make a noise; Makima makes a smaller one. "Five, sorry. I counted you with me." DIO laughs. Then Mau admits this isn't the first time someone has asked him exactly this, and DIO works out from his face that there's a third pair in the house. She demands to know. He won't say. She guesses anyway. Mau agrees to help her with Elmesia.
 
-*When: B+455. "32." Late. The witches went home at dusk; Pride left a spoon on the table on purpose.*
+*When: B+457. "30." Late. The witches went home at dusk; Pride left a spoon on the table on purpose.*
 
 DIO comes to find him after the house has gone quiet.
 

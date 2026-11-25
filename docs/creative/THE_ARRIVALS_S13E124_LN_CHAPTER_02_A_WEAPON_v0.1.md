@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 13 — A Weapon
+## Chapter 15 — A Weapon
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 13
+**Reading order:** 15
 **Source episode:** S13E124
-**Continuity state:** B+438 ("49"), the same afternoon, between Mau's two trips; Yuka's point of view. Mau is home but inside, in DIO's room inside him; his body sits in the clinic chair with his eyes closed. Makima, whose body can't go far from his, is free in the house. Cross finds Yuka on the orchard wall and tries: Mau went to a queen this morning, came back, and still went to someone else instead of her; he and Maru are going north soon, and she doesn't have to wait in doorways. Yuka calls her wheel. It turns once over her head, ready to throw hands. She sets the limit: she's grateful for what he saw then, and always will be, but she sees now that he's using it as a weapon to pull her away from her husband, and she won't let it be used that way again, by him or by herself. Then she hears herself: she is as afraid of losing Mau as she was that day in the corridor, or more, because she had already imagined tomorrow with him, a family, a little brother or sister for Ori. Maru takes Cross away. Makima, who heard the wheel, comes and sits on the wall, and tells Yuka what Mau felt and how to help him properly. Mau gave Shoko leave for Yuka to know everything, so this is a legal grey area, and Makima chooses to stand in it.
+**Continuity state:** B+440 ("47"), the same afternoon, between Mau's two trips; Yuka's point of view. Mau is home but inside, in DIO's room inside him; his body sits in the clinic chair with his eyes closed. Makima, whose body can't go far from his, is free in the house. Cross finds Yuka on the orchard wall and tries: Mau went to a queen this morning, came back, and still went to someone else instead of her; he and Maru are going north soon, and she doesn't have to wait in doorways. Yuka calls her wheel. It turns once over her head, ready to throw hands. She sets the limit: she's grateful for what he saw then, and always will be, but she sees now that he's using it as a weapon to pull her away from her husband, and she won't let it be used that way again, by him or by herself. Then she hears herself: she is as afraid of losing Mau as she was that day in the corridor, or more, because she had already imagined tomorrow with him, a family, a little brother or sister for Ori. Maru takes Cross away. Makima, who heard the wheel, comes and sits on the wall, and tells Yuka what Mau felt and how to help him properly. Mau gave Shoko leave for Yuka to know everything, so this is a legal grey area, and Makima chooses to stand in it.
 
-*When: B+438. Mid-afternoon. Ori has drawn a bird beside "49".*
+*When: B+440. Mid-afternoon. Ori has drawn a bird beside "47".*
 
 The orchard wall was their place. Hers and Cross's.
 
@@ -57,7 +57,7 @@ He's quiet for a moment.
 
 It goes into her like a splinter.
 
-That's what's terrible. It goes in. Because she sat in a doorway all of yesterday afternoon. Because she did watch him walk past her to the clinic. Because some small frightened part of her, the part that said *you'd rather have her* in the yard, still believes it. Hears it and nods.
+That's what's terrible. It goes in. Because she sat in a doorway all afternoon when she brought him breakfast. Because she did watch him walk past her to the clinic. Because some small frightened part of her, the part that said *you'd rather have her* in the yard, still believes it. Hears it and nods.
 
 Cross sees it go in. She watches him see it.
 
@@ -147,7 +147,7 @@ She doesn't let it go. She can't, yet. But it stops.
 
 “Yuka—” ᶜʳ
 
-“I'm not going anywhere. I live here. I'm his wife. I sat in that doorway because I *chose* to, because I'm the one who got it wrong and I'm the one who has to come to him. Not because nobody would let me in. He'd let me in. He's been leaving the door open a hand's width for two days.” ʸ
+“I'm not going anywhere. I live here. I'm his wife. I sat in that doorway because I *chose* to, because I'm the one who got it wrong and I'm the one who has to come to him. Not because nobody would let me in. He'd let me in. He's been leaving the door open a hand's width for days.” ʸ
 
 She looks at Cross.
 

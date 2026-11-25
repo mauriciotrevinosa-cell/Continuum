@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 27 — Swallowed Words
+## Chapter 29 — Swallowed Words
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 27
+**Reading order:** 29
 **Source episode:** S13E130
-**Continuity state:** B+448 ("39"). Yuka told Yuta, Maki and Mai everything they did for her during the two weeks: Maki's "when has that ever meant fine", Mai's workshop mornings, Yuta sitting up with her. Mau asks the three of them to the workshop after supper and thanks them. He says he was wrong to swallow his words and he'll try not to do it again. Then he offers Mai a new contract. Everything stays the same: the cost of construction on his body, the CE his. But he gives up trying to stop her telling him everything she makes; instead it's written in: whenever she wants to create something, he'll listen, and pay attention. And the most important clause: he can't close her door, ever, because he trusts her blindly. Mai says she read his letter. Mai signs.
+**Continuity state:** B+450 ("37"). Yuka told Yuta, Maki and Mai everything they did for her during the two weeks: Maki's "when has that ever meant fine", Mai's workshop mornings, Yuta sitting up with her. Mau asks the three of them to the workshop after supper and thanks them. He says he was wrong to swallow his words and he'll try not to do it again. Then he offers Mai a new contract. Everything stays the same: the cost of construction on his body, the CE his. But he gives up trying to stop her telling him everything she makes; instead it's written in: whenever she wants to create something, he'll listen, and pay attention. And the most important clause: he can't close her door, ever, because he trusts her blindly. Mai says she read his letter. Mai signs.
 
-*When: B+448. "39." Under it, in Yuka's hand: "workshop (go)". It's an instruction, not a note.*
+*When: B+450. "37." Under it, in Yuka's hand: "workshop (go)". It's an instruction, not a note.*
 
 Yuka tells him after breakfast.
 

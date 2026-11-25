@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 32 — Seven Rooms
+## Chapter 34 — Seven Rooms
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 32
+**Reading order:** 34
 **Source episode:** S13E133
-**Continuity state:** B+453 ("34"). At breakfast the six other witches present a formal protest: if Satella gets a room inside, they want one each. Echidna argues it like a philosopher, Pride like a child, Daphne with her mouth full, Minerva angrily, Sekhmet asleep, Carmilla barely audibly. Mau, laughing, agrees: seven rooms. Inside, Noise hears it as more friends. Mau tells him it'll be his job to entertain them. Noise asks how, and Mau reminds him how clingy DIO and Ciel were when they first arrived; Noise reconsiders. Then he sees seven innocent faces through Mau's eyes, and both of them know it won't stay quiet for long, and they accept. Yuka asks why he lets so many people live inside him. "I'm giving Noise options." Ciel makes the most offended sound possible: "How *dare* you." Mau laughs until he has to put his cup down. The witches explain they only want the rooms to visit sometimes, and to be with Satella too; they'll be outside most of the time, as always.
+**Continuity state:** B+455 ("32"). At breakfast the six other witches present a formal protest: if Satella gets a room inside, they want one each. Echidna argues it like a philosopher, Pride like a child, Daphne with her mouth full, Minerva angrily, Sekhmet asleep, Carmilla barely audibly. Mau, laughing, agrees: seven rooms. Inside, Noise hears it as more friends. Mau tells him it'll be his job to entertain them. Noise asks how, and Mau reminds him how clingy DIO and Ciel were when they first arrived; Noise reconsiders. Then he sees seven innocent faces through Mau's eyes, and both of them know it won't stay quiet for long, and they accept. Yuka asks why he lets so many people live inside him. "I'm giving Noise options." Ciel makes the most offended sound possible: "How *dare* you." Mau laughs until he has to put his cup down. The witches explain they only want the rooms to visit sometimes, and to be with Satella too; they'll be outside most of the time, as always.
 
-*When: B+453. "34." Under it, in seven different handwritings, seven small marks, as if the witches had signed a petition. One of them is a drawing of a sleeping face.*
+*When: B+455. "32." Under it, in seven different handwritings, seven small marks, as if the witches had signed a petition. One of them is a drawing of a sleeping face.*
 
 They come to breakfast the way they always come to meals in this house: all of them. It's a family table, and everyone sits at it unless they're out doing something, and that was the rule long before Shuna. Now there's Shuna, and nobody in any world says no to Shuna.
 

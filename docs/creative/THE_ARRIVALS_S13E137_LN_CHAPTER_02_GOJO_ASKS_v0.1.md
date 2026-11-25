@@ -5,9 +5,9 @@
 **Volume:** 85
 **Reading order:** 2
 **Source episode:** S13E137
-**Continuity state:** B+461 ("26"). Mau buys Beatrice her own owl in town in the morning; Beatrice says it is acceptable, in fact, and gives Umaru's back to Umaru. In the afternoon Gojo finds Mau on the porch and asks, without a joke, for the real one: not training, not forty seconds, not an excuse to read him. A fight. All of it. Because he wants it, and because they both can now. Mau says yes, after Yoru: when nothing is counting down and he can do it properly. Gojo groans and instead takes his turn on the house gate tomorrow, asking for it turned all the way up so the gate reads all of him. Shoko will be at the door. Ori appoints herself scorekeeper. The house treats it like a festival anyway.
+**Continuity state:** B+463 ("24"). Mau buys Beatrice her own owl in town in the morning; Beatrice says it is acceptable, in fact, and gives Umaru's back to Umaru. In the afternoon Gojo finds Mau on the porch and asks, without a joke, for the real one: not training, not forty seconds, not an excuse to read him. A fight. All of it. Because he wants it, and because they both can now. Mau says yes, after Yoru: when nothing is counting down and he can do it properly. Gojo groans and instead takes his turn on the house gate tomorrow, asking for it turned all the way up so the gate reads all of him. Shoko will be at the door. Ori appoints herself scorekeeper. The house treats it like a festival anyway.
 
-*When: B+461. "26." Under it, in Gojo's hand, enormous: "GATE TOMORROW!!!" Shoko has crossed out two of the exclamation marks.*
+*When: B+463. "24." Under it, in Gojo's hand, enormous: "GATE TOMORROW!!!" Shoko has crossed out two of the exclamation marks.*
 
 Gojo doesn't make a joke.
 

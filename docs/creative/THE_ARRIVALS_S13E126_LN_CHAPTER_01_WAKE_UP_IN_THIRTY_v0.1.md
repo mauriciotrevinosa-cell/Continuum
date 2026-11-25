@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 16 — Wake Up in Thirty
+## Chapter 18 — Wake Up in Thirty
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 16
+**Reading order:** 18
 **Source episode:** S13E126
-**Continuity state:** B+440 ("47"), morning. Yuka's point of view, then Mau's. She wakes alone in their bed and, for one terrible moment, thinks the last two days were a dream: the clinic chair, "don't steal my apology", the line opening. She runs downstairs in the hoodie. In the kitchen, Mau has bought out half the Shop's food and is making even more desserts with Shuna, Rem, Emilia and Umaru; not all of them survive Shuna's review. He says he thought she'd sleep later; he had a surprise ready and was going to carry her down. Yuka says nothing at all, turns round and goes back upstairs. From the landing: "I'm waking up in thirty." Through the open line, Mau feels her heart going a thousand miles an hour.
+**Continuity state:** B+442 ("45"), morning. Yuka's point of view, then Mau's. She wakes alone in their bed and, for one terrible moment, thinks the last two days were a dream: the clinic chair, "don't steal my apology", the line opening. She runs downstairs in the hoodie. In the kitchen, Mau has bought out half the Shop's food and is making even more desserts with Shuna, Rem, Emilia and Umaru; not all of them survive Shuna's review. He says he thought she'd sleep later; he had a surprise ready and was going to carry her down. Yuka says nothing at all, turns round and goes back upstairs. From the landing: "I'm waking up in thirty." Through the open line, Mau feels her heart going a thousand miles an hour.
 
-*When: B+440. Early. "47" in the notebook. Nobody has written it yet. The notebook is on the kitchen table under a bowl of whipped cream.*
+*When: B+442. Early. "45" in the notebook. Nobody has written it yet. The notebook is on the kitchen table under a bowl of whipped cream.*
 
 The bed is empty.
 
@@ -27,7 +27,7 @@ All of it.
 
 Or none of it.
 
-Because she's dreamed it before. That's the thing. Every night for a week in Ori's bed, with Ori's feet in her back, she dreamed some version of it: walking into the clinic and finding him awake, saying the right thing, him turning to her. And every morning she woke up, and the dream went, and he was still in the clinic and she was still in the wrong bed.
+Because she's dreamed it before. That's the thing. Night after night in Ori's bed, with Ori's feet in her back, she dreamed some version of it: walking into the clinic and finding him awake, saying the right thing, him turning to her. And every morning she woke up, and the dream went, and he was still in the clinic and she was still in the wrong bed.
 
 She sits up.
 
@@ -141,7 +141,7 @@ The line. Open since the night before last, open the way he threw it open in the
 
 It's going a thousand miles an hour.
 
-Not frightened. He knows what frightened feels like down that line. He felt it for a week. This isn't that. This is something so fast and so warm and so completely out of control that it's knocking against him like a bird against glass, and under it, very faintly, so faintly he almost misses it, he can hear her.
+Not frightened. He knows what frightened feels like down that line. He remembers the first days after Cross came. This isn't that. This is something so fast and so warm and so completely out of control that it's knocking against him like a bird against glass, and under it, very faintly, so faintly he almost misses it, he can hear her.
 
 Laughing. Into a pillow. Or crying. Or both.
 

@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 18 — Nobody Else Today
+## Chapter 20 — Nobody Else Today
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 18
+**Reading order:** 20
 **Source episode:** S13E127
-**Continuity state:** B+441 ("46"). Mau and Yuka go to town together. Mau asks Ciel to handle routine watch reports while he's out and tells Yuka what he's asking for. They come home by the river after spending time at the ribbon stall and trying the food on the market street. Mau asks Yuka to stay when he begins to tire. They stop in to give Mai material for riding gear. Ori and the others are in the yard when they get back.
+**Continuity state:** B+443 ("44"). Mau and Yuka go to town together. Mau asks Ciel to handle routine watch reports while he's out and tells Yuka what he's asking for. They come home by the river after spending time at the ribbon stall and trying the food on the market street. Mau asks Yuka to stay when he begins to tire. They stop in to give Mai material for riding gear. Ori and the others are in the yard when they get back.
 
-*When: B+441. A day in town and the walk back.*
+*When: B+443. A day in town and the walk back.*
 
 Yuka goes into the workshop for a piece of string and comes out with a basket.
 

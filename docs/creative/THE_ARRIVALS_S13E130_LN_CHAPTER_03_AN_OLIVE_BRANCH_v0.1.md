@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 24 — An Olive Branch
+## Chapter 26 — An Olive Branch
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 24
+**Reading order:** 26
 **Source episode:** S13E130
-**Continuity state:** B+446 ("41"), evening. After the morning in Mai's workshop, when he told Cross not a centimetre and Cross accepted too easily, Mau goes for a walk to clear his head. His feet take him past the house gate. For the first time, the gate shows him an option it has never shown: an upgrade. No Purple Gate, no Red Gate, nothing to clear. He looks closer, thinking he'll see the reward, and the gate takes him in. Not a trap. A room, a table, tea: the Rulers. They thank him. He has kept the agreement not to let DIO try to take back her post; they know he has let her walk outside the protection, to Elmesia's garden, and they didn't intervene, because they could see she wasn't trying anything. This is their olive branch. For an hour they ask him nothing about power, only about DIO, Ori and Yuka: how they are, how he feels. They offer to help him keep that door in him closed. He declines: he wants to get past it himself, and he has learned the hard way what happens when something inside him is altered. The Rulers laugh: that's why he has a wife. "Good point." He comes out alarmed at how long he's been gone. Yuka and Rimuru are standing at the gate with a face that says "where did you go". He explains. The upgrade is real: three doors. What they're for is next chapter.
+**Continuity state:** B+448 ("39"), evening. After the morning in Mai's workshop, when he told Cross not a centimetre and Cross accepted too easily, Mau goes for a walk to clear his head. His feet take him past the house gate. For the first time, the gate shows him an option it has never shown: an upgrade. No Purple Gate, no Red Gate, nothing to clear. He looks closer, thinking he'll see the reward, and the gate takes him in. Not a trap. A room, a table, tea: the Rulers. They thank him. He has kept the agreement not to let DIO try to take back her post; they know he has let her walk outside the protection, to Elmesia's garden, and they didn't intervene, because they could see she wasn't trying anything. This is their olive branch. For an hour they ask him nothing about power, only about DIO, Ori and Yuka: how they are, how he feels. They offer to help him keep that door in him closed. He declines: he wants to get past it himself, and he has learned the hard way what happens when something inside him is altered. The Rulers laugh: that's why he has a wife. "Good point." He comes out alarmed at how long he's been gone. Yuka and Rimuru are standing at the gate with a face that says "where did you go". He explains. The upgrade is real: three doors. What they're for is next chapter.
 
-*When: B+446. Evening, after supper. The notebook says "41". Under it, in Rimuru's hand, very neat and very cross: "Mau: missing 1h 04m. Gate."*
+*When: B+448. Evening, after supper. The notebook says "39". Under it, in Rimuru's hand, very neat and very cross: "Mau: missing 1h 04m. Gate."*
 
 He needs to walk.
 

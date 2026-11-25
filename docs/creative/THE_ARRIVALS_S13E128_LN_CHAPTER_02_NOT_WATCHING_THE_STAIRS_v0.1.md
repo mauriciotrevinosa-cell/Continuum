@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 21 — Not Watching the Stairs
+## Chapter 23 — Not Watching the Stairs
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 21
+**Reading order:** 23
 **Source episode:** S13E128
-**Continuity state:** B+444 ("43"). Shuna keeps her word from the morning of the feast: she teaches Mau the tray he burned, properly, now that he isn't watching the stairs. Yuka's caprice for the day is to sit on the counter and supervise, which mostly means eating whatever isn't nailed down, kissing him whenever he gets flour on his face, and narrating his mistakes. Shuna is a strict teacher. The tray comes out right on the third try. Shuna joins them to eat and asks him to take a turn on the rota with her when he has time. Rem and Umaru come in halfway and Mau notices, for the first time with his own eyes, how Rem looks at Umaru; he files it away.
+**Continuity state:** B+446 ("41"). Shuna keeps her word from the morning of the feast: she teaches Mau the tray he burned, properly, now that he isn't watching the stairs. Yuka's caprice for the day is to sit on the counter and supervise, which mostly means eating whatever isn't nailed down, kissing him whenever he gets flour on his face, and narrating his mistakes. Shuna is a strict teacher. The tray comes out right on the third try. Shuna joins them to eat and asks him to take a turn on the rota with her when he has time. Rem and Umaru come in halfway and Mau notices, for the first time with his own eyes, how Rem looks at Umaru; he files it away.
 
-*When: B+444. "43." Under it, in Yuka's hand: "SUPERVISING". In Shuna's, very small, in the corner: "lesson 1".*
+*When: B+446. "41." Under it, in Yuka's hand: "SUPERVISING". In Shuna's, very small, in the corner: "lesson 1".*
 
 “Again,” says Shuna. ˢʰᵘ
 

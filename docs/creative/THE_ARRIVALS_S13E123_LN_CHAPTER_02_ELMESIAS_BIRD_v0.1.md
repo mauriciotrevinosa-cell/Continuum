@@ -1,15 +1,15 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 11 — Elmesia's Bird
+## Chapter 13 — Elmesia's Bird
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 11
+**Reading order:** 13
 **Source episode:** S13E123
-**Continuity state:** B+438 ("49"), morning to early afternoon. Breakfast in the kitchen; Yuka and Mau sit together. She passes him the jam when she notices he can't reach it. Elmesia's bird, sleek and grey and unimpressed by everyone, lands on the table with a letter for Mau: she would like to talk to him, alone, about something that isn't a crisis. DIO, inside, notices the letter doesn't mention her. This time Mau tells Yuka where he's going and when he'll be back, out loud, before he goes. "Come back." "I will." He crosses by Exchange to the soldier anchor Elmesia has carried since V75. In her study, Elmesia asks what he thinks about DIO, and how she can know what DIO feels: whether it's really her DIO wants to be near, or only gratitude for being treated with respect. Mau tells her what he knows: DIO never learned the difference between kinds of love; respect can look like romance to her; she'll want to argue for things she wants. In answering, he hears his own week. He asks when to bring DIO. Elmesia: in a couple of hours, after supper.
+**Continuity state:** B+440 ("47"), morning to early afternoon. Breakfast in the kitchen; Yuka and Mau sit together. She passes him the jam when she notices he can't reach it. Elmesia's bird, sleek and grey and unimpressed by everyone, lands on the table with a letter for Mau: she would like to talk to him, alone, about something that isn't a crisis. DIO, inside, notices the letter doesn't mention her. This time Mau tells Yuka where he's going and when he'll be back, out loud, before he goes. "Come back." "I will." He crosses by Exchange to the soldier anchor Elmesia has carried since V75. In her study, Elmesia asks what he thinks about DIO, and how she can know what DIO feels: whether it's really her DIO wants to be near, or only gratitude for being treated with respect. Mau tells her what he knows: DIO never learned the difference between kinds of love; respect can look like romance to her; she'll want to argue for things she wants. In answering, he hears his own week. He asks when to bring DIO. Elmesia: in a couple of hours, after supper.
 
-*When: B+438. Breakfast. "49" in the notebook. The notebook is on the kitchen table, beside Yuka's bowl, where anyone can see it.*
+*When: B+440. Breakfast. "47" in the notebook. The notebook is on the kitchen table, beside Yuka's bowl, where anyone can see it.*
 
-At breakfast Yuka sets the jam down next to Mau because she's watched him try to reach past the teapot twice. He offers her some with the knife. She tilts the toast toward him and waits while he puts on a little more than he put on his own.
+Yuka comes and sits with him as she'd said she would. She sets the jam down next to Mau because she's watched him try to reach past the teapot twice. He offers her some with the knife. She tilts the toast toward him and waits while he puts on a little more than he put on his own.
 
 He still doesn't look at her while she does it. He isn't ready for what his face would do. But he moves his bowl an inch closer to her side, so she doesn't have to reach so far.
 
@@ -81,7 +81,7 @@ And she withdraws, not far, just to her room off the shared space inside him, an
 
 *I don't know that it is.* ᴹ
 
-Ciel gives him the look she gives him when he's being deliberately slow, which is an expression she has perfected in the last two days now that she's allowed to make it out loud.
+Ciel gives him the look she gives him when he's being deliberately slow, which is an expression she has perfected in the last few days now that she's allowed to make it out loud.
 
 *Mau*, she says. *What else would Elmesia want to talk to you about, alone, that isn't a crisis?* ᶜ
 
@@ -91,7 +91,7 @@ He doesn't have an answer to that.
 
 He doesn't go straight away.
 
-That's the thing he notices about himself, standing in the kitchen with the letter in his hand. A week ago he would have gone. He'd have put the letter in his pocket and stood up and been halfway to the Exchange before anyone had finished their tea, and if anyone asked later he'd have said *I left a note*, and he wouldn't have.
+That's the thing he notices about himself, standing in the kitchen with the letter in his hand. Before the clinic, he would have gone. He'd have put the letter in his pocket and stood up and been halfway to the Exchange before anyone had finished their tea, and if anyone asked later he'd have said *I left a note*, and he wouldn't have.
 
 He doesn't go.
 
@@ -115,7 +115,7 @@ He stops. He doesn't know what else there is.
 
 Yuka puts her cup down very slowly.
 
-He watches her face. He watches her understand what he's doing. She lowers the letter and looks at him again. A week ago, when he left for the gate, there hadn’t even been a note. This time he’s still here, waiting to hear what she has to say. He watches something go through her eyes that makes them go bright, and watches her decide not to let it out, not here, not yet.
+He watches her face. He watches her understand what he's doing. She lowers the letter and looks at him again. When he left for the gate, there hadn’t even been a note. This time he’s still here, waiting to hear what she has to say. He watches something go through her eyes that makes them go bright, and watches her decide not to let it out, not here, not yet.
 
 “Okay,” she says. ʸ
 
@@ -193,7 +193,7 @@ Her hands are very still on the cup.
 
 He thinks about it for a long time.
 
-He thinks about DIO in the corridor mouth last night, going over the little leaf she had drawn in her watering notebook. *Plants need watching, if one wants them to understand that one is still there.*
+He thinks about DIO in the corridor mouth at the end of their talk, going over the little leaf she had drawn in her watering notebook. *Plants need watching, if one wants them to understand that one is still there.*
 
 “She doesn't know the difference,” he says. “You're right about that. She never learned it.” ᴹ
 
@@ -221,7 +221,7 @@ He takes a moment. He wants to get it right.
 
 “When she's grateful,” he says, “she's very polite. She thanks people. She does what they ask. She doesn't want to be any trouble. She's like that with Rimuru, and with Frieren. She's like that with most of the house. She's careful, because she's afraid of being sent away.” ᴹ
 
-He thinks about last night again. *You owe me. Something large.* *Don't say okay like that. Like you'll just give it. I want to have to argue for it.*
+He thinks about what DIO said at the clinic. *You owe me. Something large.* *Don't say okay like that. Like you'll just give it. I want to have to argue for it.*
 
 “When it's real,” he says, “she argues. She sulks. She says *you owe me*. She wants to have to fight for it, because if she has to fight for it, it means she's allowed to want it. She doesn't sulk at people she's only grateful to. She sulks at people she's sure won't leave.” ᴹ
 

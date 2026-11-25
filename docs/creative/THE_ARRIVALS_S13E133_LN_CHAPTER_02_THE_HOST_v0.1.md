@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 33 — The Host
+## Chapter 35 — The Host
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 33
+**Reading order:** 35
 **Source episode:** S13E133
-**Continuity state:** B+454 ("33"). The witches' first visit inside. All seven arrive at tea time the way DIO does: they step into Mau's shadow on the porch and he connects their way in, body and all (only Makima, a construction Noise holds, has to stay near; the witches are real, so they can go in), through the doors Noise built. Noise hosts. It goes about as well as everyone expected: Pride wants a game; Daphne wants to know where the food is (there is none; there is only the cup, and the cup is always warm); Minerva is angry about the chairs; Echidna asks Noise what he is; Sekhmet finds the bed in her room and is not seen again; Carmilla sits in the corner and Noise doesn't notice her until she speaks. Ciel, still offended, refuses to help at first and then can't bear it and helps. DIO arrives late with her plant and is jealous for exactly four minutes. Satella sits at the table among her sisters and drinks from the cup. Noise, at the end, says it was the best day he's had. Mau, outside, can barely walk straight from the noise in his head, and is happy.
+**Continuity state:** B+456 ("31"). The witches' first visit inside. All seven arrive at tea time the way DIO does: they step into Mau's shadow on the porch and he connects their way in, body and all (only Makima, a construction Noise holds, has to stay near; the witches are real, so they can go in), through the doors Noise built. Noise hosts. It goes about as well as everyone expected: Pride wants a game; Daphne wants to know where the food is (there is none; there is only the cup, and the cup is always warm); Minerva is angry about the chairs; Echidna asks Noise what he is; Sekhmet finds the bed in her room and is not seen again; Carmilla sits in the corner and Noise doesn't notice her until she speaks. Ciel, still offended, refuses to help at first and then can't bear it and helps. DIO arrives late with her plant and is jealous for exactly four minutes. Satella sits at the table among her sisters and drinks from the cup. Noise, at the end, says it was the best day he's had. Mau, outside, can barely walk straight from the noise in his head, and is happy.
 
-*When: B+454. "33." Under it, in Ori's hand: "MAU HAS A HEADACHE (GOOD KIND)".*
+*When: B+456. "31." Under it, in Ori's hand: "MAU HAS A HEADACHE (GOOD KIND)".*
 
 They come at tea time.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85 Index v0.1
 
-**Status:** LN PRODUCTION DRAFT — complete volume: the rest of the forty-eight days before Yoru (B+460–487), ending with "not yet".
+**Status:** LN PRODUCTION DRAFT — complete volume: the rest of the countdown before Yoru (B+462–487), ending with "not yet".
 **Volume:** 85
 **Season:** 13
-**Coverage:** S13E137–S13E150; B+460–487
+**Coverage:** S13E137–S13E150; B+462–487
 **Chapter files:** 27
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.

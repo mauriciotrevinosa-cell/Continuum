@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 17 — Carried Down
+## Chapter 19 — Carried Down
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 17
+**Reading order:** 19
 **Source episode:** S13E126
-**Continuity state:** B+440 ("47"), thirty minutes later. Mau goes up. Yuka is in bed with her eyes shut very hard, pretending to be asleep, and failing because she can't stop smiling. He carries her down the stairs the way he said he would. She opens her eyes in the kitchen to everything on the table and the whole house pretending not to watch. Clingy Yuka, reloaded: she won't let go of him, sits in his lap through breakfast, feeds him, and steals from every plate in reach. She kisses him through breakfast, and he gives as good as he gets. She writes "47" in the notebook in whipped cream and then in pencil. The house eats the rejects. Nothing about the last two weeks is said; it doesn't need to be today.
+**Continuity state:** B+442 ("45"), thirty minutes later. Mau goes up. Yuka is in bed with her eyes shut very hard, pretending to be asleep, and failing because she can't stop smiling. He carries her down the stairs the way he said he would. She opens her eyes in the kitchen to everything on the table and the whole house pretending not to watch. Clingy Yuka, reloaded: she won't let go of him, sits in his lap through breakfast, feeds him, and steals from every plate in reach. She kisses him through breakfast, and he gives as good as he gets. She writes "45" in the notebook in whipped cream and then in pencil. The house eats the rejects. Nothing about the last two weeks is said; it doesn't need to be today.
 
-*When: B+440. Twenty-nine minutes after "I'm waking up in thirty". Umaru counted.*
+*When: B+442. Twenty-nine minutes after "I'm waking up in thirty". Umaru counted.*
 
 She's pretending to be asleep.
 
@@ -167,7 +167,7 @@ Then she dips her finger in the cream and draws, very carefully, on the page, a 
 
 She looks at it with great satisfaction.
 
-Then she takes the pencil from the spine and writes it properly underneath, small and neat, the way she writes things she means to keep. *47*.
+Then she takes the pencil from the spine and writes it properly underneath, small and neat, the way she writes things she means to keep. *45*.
 
 And under that, after a moment, something else he can't see, because she tilts the page away from him and covers it with her hand.
 

@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 36 — Satellites
+## Chapter 38 — Satellites
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 36
+**Reading order:** 38
 **Source episode:** S13E135
-**Continuity state:** B+456 night into B+457 ("31" → "30"). Rem's point of view. The Fort roof, a clear night. Umaru on her back on the blanket, pointing at stars she says might be satellites. Rem lies down beside her. She tells her, plainly: I love you. Umaru goes silent for the first time anyone can remember; then she sits up and says, in a very small voice, that Rem has never said it, not once in all their time together; then she bursts into tears and says it back: she has loved Rem since the first racing tournament and never said the words because she was afraid Rem would feel she owed her words in return, after Subaru. Neither of them was ever going to pull. They lie back down. Umaru points at a star and says that one's a satellite; Rem, for the first time, says, "Yes. I see it." In the morning Rem comes down to the kitchen before the sun and tells Mau. Umaru is already making a banner.
+**Continuity state:** B+458 night into B+459 ("29" → "28"). Rem's point of view. The Fort roof, a clear night. Umaru on her back on the blanket, pointing at stars she says might be satellites. Rem lies down beside her. She tells her, plainly: I love you. Umaru goes silent for the first time anyone can remember; then she sits up and says, in a very small voice, that Rem has never said it, not once in all their time together; then she bursts into tears and says it back: she has loved Rem since the first racing tournament and never said the words because she was afraid Rem would feel she owed her words in return, after Subaru. Neither of them was ever going to pull. They lie back down. Umaru points at a star and says that one's a satellite; Rem, for the first time, says, "Yes. I see it." In the morning Rem comes down to the kitchen before the sun and tells Mau. Umaru is already making a banner.
 
-*When: B+456. Night, clear. Not a cloud. Ciel was right.*
+*When: B+458. Night, clear. Not a cloud. Ciel was right.*
 
 Mau and Yuka sit where the ladder starts, as both of them asked. They'd watched Umaru get to the top and looked up again when Rem got there. From that far down they can see a corner of the spare blanket over the edge. Rem keeps one hand on it long enough to know she can get back down if she needs to, then pulls it the rest of the way up with her.
 

@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 31 — How Did You Get So Close
+## Chapter 33 — How Did You Get So Close
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 31
+**Reading order:** 33
 **Source episode:** S13E132
-**Continuity state:** B+452 ("35"). Satella comes to the north-wing step at dusk, where Makima sits, and asks the question she's carried for weeks: how did Makima get so close to him? Satella is already close to him: she sits pressed beside him at every tea, she's in the Fort, and the only thing he ever stopped was her old "I love you", because he knew it wasn't true. What she envies is Makima's: the room inside him, talking with him in there, going wherever he goes. Makima explains the going: she and Mau are really one; this body is Noise's, and she can't be far from him. It's a tether, not a privilege. Satella understands. What's left is the room, because she feels they never spend time together, though the truth is otherwise. Makima takes her to Mau. Satella can't get the words out; Makima says them for her, then stops and makes her say the last part herself. Mau offers Satella a room inside him, off the inner corridor, for visiting, whenever she wants, as a guest. Satella says yes. She doesn't know that six other witches are listening at the north-wing window.
+**Continuity state:** B+454 ("33"). Satella comes to the north-wing step at dusk, where Makima sits, and asks the question she's carried for weeks: how did Makima get so close to him? Satella is already close to him: she sits pressed beside him at every tea, she's in the Fort, and the only thing he ever stopped was her old "I love you", because he knew it wasn't true. What she envies is Makima's: the room inside him, talking with him in there, going wherever he goes. Makima explains the going: she and Mau are really one; this body is Noise's, and she can't be far from him. It's a tether, not a privilege. Satella understands. What's left is the room, because she feels they never spend time together, though the truth is otherwise. Makima takes her to Mau. Satella can't get the words out; Makima says them for her, then stops and makes her say the last part herself. Mau offers Satella a room inside him, off the inner corridor, for visiting, whenever she wants, as a guest. Satella says yes. She doesn't know that six other witches are listening at the north-wing window.
 
-*When: B+452. "35." Under it, in a handwriting nobody in the house recognises, very small and very neat: "asked". It is Satella's. She has never written in the notebook before.*
+*When: B+454. "33." Under it, in a handwriting nobody in the house recognises, very small and very neat: "asked". It is Satella's. She has never written in the notebook before.*
 
 Satella comes at dusk.
 

@@ -23,7 +23,7 @@ Across the table, at the far end, in her usual place, Echidna goes very still.
 
 “Today?” says Mau. ᴹ
 
-“Betty has thought about it,” says Beatrice. “Since the oath. Four days. Betty is a Fort member now. Betty took an oath, even against the library.” ᴮᵉᵃ
+“Betty has thought about it,” says Beatrice. “Since the oath. Two days. Betty is a Fort member now. Betty took an oath, even against the library.” ᴮᵉᵃ
 
 She puts her toast down.
 
@@ -93,7 +93,7 @@ She looks at him steadily.
 
 He thinks about it.
 
-He thinks about a year in the Trial, practising goodbye. About a week in the clinic, with the door open a hand's width, waiting to see whose feet would come up the step.
+He thinks about a year in the Trial, practising goodbye. About the nights in the clinic, with the door open a hand's width, waiting to see whose feet would come up the step.
 
 “I've carried it before,” he says. ᴹ
 

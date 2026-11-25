@@ -31,7 +31,7 @@ It's fast.
 
 He's never cleared anything this fast. Not the birthday gate with Beru. Not the quarry. He goes through the first floor like it isn't there. Things come out of the walls and he's already moved. Things drop from the ceiling and the daggers are already where they'll land. He doesn't open anything big. He doesn't need to. Blue the size of a fist, Shrine in single lines, Authority to move things out of his way, the new body doing what he tells it before he's finished telling it.
 
-The currency falls where things die. Small grey discs. He sweeps them into the shadow without looking.
+When the dark under his feet closes over a dropped core, he can hear the scrape it makes against the rock. Noise checks the inventory on its way past. Ciel gets the floor count up before he asks for it.
 
 Floor two. Floor three.
 
@@ -115,7 +115,7 @@ He stands up.
 
 She doesn't move.
 
-“You wanted me here to stop you doing something stupid,” she says. “This is the stupid thing. I'm stopping you.” ᴹᵏ
+“You said you came here to clear it,” she says. “You cleared it. Tell me what you want badly enough to open this, and I'll listen.” ᴹᵏ
 
 He looks at her for a long time.
 
@@ -129,7 +129,7 @@ After a moment, Makima sits down too. Beside him. Not touching. The way she sat 
 
 He doesn't ask what.
 
-“Through the thread,” she says. “The distress. I've been feeling it all day. All week. You're very loud. You've been loud since the gate, since he walked through it and said *you're alive* to her.” ᴹᵏ
+“On seven I felt your ribs tighten before the ceiling started moving,” she says. “I thought it was the stone. Then I felt it again when you heard water running down into the floor. It was the same thing as on the wall, only you were still walking.” ᴹᵏ
 
 She looks at her hands.
 
@@ -153,7 +153,7 @@ He looks at the remains of the beetle.
 
 He breathes out.
 
-“And now there's Cross,” he says. “Who saw her before I did. At the worst. And she looks at him like—I don't know what she looks at him like. I've never seen that face. And she said *before you*. And she wants to talk to me about *something*.” ᴹ
+“I like him better than I thought I would,” Mau says. He can hear how unlikely that sounds, from him, today. “I'm glad she had somebody with her back then. I meant it when I told him so. Then I think about how I sat beside her last night and tried to work out what she could possibly want me to give back.” ᴹ
 
 His hand has gone to his pocket. He doesn't notice.
 
@@ -171,7 +171,9 @@ He laughs. It isn't a very good laugh.
 
 She pauses.
 
-“But I'm not the one who can tell you that,” she says. “You won't believe it from me. You won't believe it from Gojo, or Shoko, or Ori with her pickles. The only person you'd believe it from is her.” ᴹᵏ
+“Would you believe it if I went on telling you?” she asks. ᴹᵏ
+
+His fingers have folded round the note in his pocket. He lets go of it. “I'd want to hear it from her.” ᴹ
 
 She turns her head and looks at him.
 
@@ -213,15 +215,13 @@ They sit there like that, on the floor of the guardian's chamber, among the piec
 
 Makima looks at their hands.
 
-“That's twice now,” she says. “The wall, and here.” ᴹᵏ
+“At the wall I could sit,” says Makima. “I knew how to do that. Today you asked me to move and I had to choose what would happen if I did.” ᴹᵏ
 
-“Yes.” ᴹ
+“Do you wish you'd moved?” ᴹ
 
-“I think that's what friends are for,” she says, carefully, like someone trying a word in a language she's still learning. “Standing in the way. When the other one's about to do something stupid.” ᴹᵏ
+She thinks about it. “I wish there were fewer legs round the place we sat down.” ᴹᵏ
 
-“Yes,” says Mau. ᴹ
-
-“Good,” says Makima. “I wanted to check.” ᴹᵏ
+He looks at the remains of the beetle. By the time he looks back at her she's looking at them too, trying to arrange her mouth as if she hadn't said anything funny. It gives him one good breath all on its own.
 
 Before they leave, Ciel records the unopened seal and its position. Mau marks it on their map for a later survey with the house. The ordinary exit is still available; he takes it rather than breaking a second way deeper. Once they are both outside, the cleared gate closes.
 

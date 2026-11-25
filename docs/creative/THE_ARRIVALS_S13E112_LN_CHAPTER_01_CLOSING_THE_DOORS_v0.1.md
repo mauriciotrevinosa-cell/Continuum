@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 17
 **Source episode:** S13E112
-**Continuity state:** B+431 ("56"), before dawn. Mau closes his direct personal relays and the external contract access, including Yuka’s borrowed techniques/Exchange and Mai’s supply. Contracts remain intact. The shadow watch and its existing protection orders continue; Ciel’s independent communications and emergency reports remain available. Ciel/Noise ask him not to isolate them too, and he agrees. Makima accompanies him outside; DIO returns to her room inside Mau after the argument. Mau leaves without a note.
+**Continuity state:** B+431 ("56"), before dawn. Mau closes his direct personal relays and the external contract access, including Yuka’s borrowed techniques/Exchange and Mai’s supply. Contracts remain intact. The shadow watch and its existing protection orders continue; Ciel’s independent communications and emergency reports remain available. Ciel/Noise ask him not to isolate them too, and he agrees. Makima accompanies him outside; DIO returns to her room inside Mau after the argument. Mau remembers he offered to make Shoko tea and asks Ciel to relay that he won't be there. He leaves without a note for Yuka.
 
 *When: B+431. The hour before dawn. Yuka hasn't written today's number yet. She's asleep, on his side of the bed, with her hand on his pillow.*
 
@@ -215,7 +215,7 @@ She crosses the room. She stops in front of him. She doesn't take his hand. Not 
 
 “No.” ᴹ
 
-“But I'll be there,” she says. “And if you try to do something stupid in there, I'll stop you. Like the wall.” ᴹᵏ
+“But I'll be there,” she says. “If you start holding your breath again and don't realise, I'll tell you.” ᴹᵏ
 
 He nods.
 
@@ -235,7 +235,15 @@ He sits on the stair in the silence and waits to feel the relief he closed the d
 
 It doesn't come.
 
-He stands up anyway.
+He stands up anyway. There's a spoon and the tea Shoko likes on the kitchen shelf, behind the one Gojo uses. He can see the rim of the tin from the stairs. He told her he'd make it this morning.
+
+*Will you tell Shoko I won't be in for tea?* he asks Ciel. ᴹ
+
+*I can tell her where we'll be, if she asks.* ᶜ
+
+*Yes.* ᴹ
+
+He could have Ciel say the same to Yuka. He lets the moment to ask go and stands there long enough to know he's let it go.
 
 He doesn't go upstairs.
 

@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 19
 **Source episode:** S13E113
-**Continuity state:** B+431 ("56"), Yuka viewpoint, parallel to the clear. Her borrowed techniques/Exchange and direct link to Mau are closed. Ciel’s own channel still works and supplies the gate location and his safe status. Yuka hears the request for distance as rejection; Cross helps steady her. The house is not collectively hiding Mau’s whereabouts. Yuka chooses to wait on the porch and sees both return.
+**Continuity state:** B+431 ("56"), Yuka viewpoint, parallel to the clear. Her borrowed techniques/Exchange and direct link to Mau are closed. Ciel’s own channel still works and supplies the gate location and his safe status. Yuka hears the request for distance as rejection; Cross helps steady her, then uses the story of her near miss in the training gate to frame her fear as something Mau decided to do to her. Shoko knows Mau cancelled their tea. Ciel and Gojo freely pass on his location and condition. Yuka chooses to wait on the porch and sees both return.
 
 *When: B+431. Morning to late afternoon. When she woke, the bed was cold on his side; she didn't think anything of it. She wrote "56" and a small sun.*
 
@@ -13,7 +13,7 @@ The bed is empty when she wakes up.
 
 She doesn't think anything of it. He gets up early sometimes. He goes down to sit on the porch with his tea before anyone else is awake, or he goes to help Shuna with the bread, or he's in the yard with Beru. She reaches over and his side of the sheet is cold, which means he's been gone a while, and she thinks: *he couldn't sleep again*.
 
-She thinks: *tonight*. *I'll tell him tonight.* *Properly*. *About the corridor. The way Shoko said*.
+She thinks she'll go down to make tea with him. She could ask him to take his out to the steps before the kitchen fills up.
 
 She gets up. She finds the notebook on the windowsill, open to yesterday's page.
 
@@ -187,21 +187,37 @@ He doesn't ask what's wrong. He saw her face change. He saw her reach for someth
 
 He stays there, crouched on the grass in front of her with his hands on her shoulders, until she stops shaking.
 
-She doesn't lean into him.
-
-She'll remember that later and hold onto it, the way she'll hold onto *I didn't go to Cross after the workshop*. She doesn't lean into him. She doesn't put her face in his shoulder. She sits on the grass and breathes, and lets him hold her still, and when the shaking stops she takes his hands off her shoulders, gently, and stands up.
+When the shaking stops she takes his hands off her shoulders, gently, and stands up. She has grass stains on her palms. Cross waits while she gets the biggest pieces off.
 
 “Thank you,” she says. ʸ
 
 Her voice is very small.
 
-“Where is he?” says Cross. ᶜʳ
+“Did something happen to him?” Cross asks. ᶜʳ
 
-She doesn't know.
+“He's at a gate,” she says. “He shut the part that lets me reach him. Ciel can still hear me.” ʸ
 
-She goes to find out.
+“Could he do that the last time you went into a gate?” ᶜʳ
 
-Nobody has spoken to Mau himself. Shuna heard that he went out early. Frieren knows he is at a gate, and offers to go with Yuka if she wants to meet him outside it. Gojo has the position from Ciel, but no invitation from Mau.
+She knows which time he means. She's told him about all sorts of foolish little runs since he got here, and now both of them can only think of one. She rubs the heel of her hand down her thigh.
+
+“The things he lent me he can close off. My shadows are mine. And he put Infinity on me that day himself.” ʸ
+
+“I know. You said he was already doing something else when he did it. That you knew he'd get to you.” ᶜʳ
+
+“Yes.” ʸ
+
+Cross turns a little so he can look at the house. She thinks for a moment that he's going to suggest they go inside.
+
+“I hope he remembers what it's like on your side of it,” he says. ᶜʳ
+
+“He might just need a minute.” ʸ
+
+“Did he ask you for one?” ᶜʳ
+
+She can't answer that. She pulls the hem of her shirt down. She'd walked out here without putting shoes on. She goes back to get them and to ask who saw him leave.
+
+Nobody has spoken to Mau himself. Shoko had a message about the tea he'd promised her. Frieren knows he is at a gate and offers to go with Yuka if she wants to meet him outside it. Gojo has the position from Ciel and shows Yuka on the map.
 
 “He's safe at the moment,” he tells her. “That doesn't make leaving without a word all right.” ᴳ
 
@@ -211,11 +227,13 @@ She asks about Makima.
 
 “Lady Makima,” Beru says. “They took the hill road together.” ᴮᵉ
 
+Yuka looks back at the place where she was sitting on the grass. She wants, very badly, to walk away before Cross comes back and sees her still standing here. She waits until she can ask Beru if he'd take a message to Mau if she had one. He tells her he can try through Ciel.
+
 She had asked where he was. Now she knows. It does nothing to tell her why he has shut her out.
 
 Yuka stands in the middle of the yard and doesn't let herself think about that.
 
-She tells Frieren she will wait here. Then she waits on the porch all afternoon.
+She tells Beru she'll wait to say it herself. When Frieren comes back to ask, she tells her she'll stay here and wait on the porch.
 
 In the old chair. His chair. With her knees drawn up and her arms round them and the notebook in her lap, closed, and the north road and the hill road and the orchard path all in front of her, all empty.
 
@@ -223,23 +241,13 @@ Ori comes and sits on the step below her for a while. She doesn't say anything. 
 
 After a while, she gets up and goes inside.
 
-When she comes back she has a plate. With bread on it, and two of the small sharp pickles, the ones Ori hates.
+When she comes back she has a mug of tea. She brings it out without a saucer because she needs both hands to keep it level on the steps.
 
-She puts the plate in Yuka's lap. She looks at her very seriously.
+“Will you tell me when he's back?” Ori asks. ᴼ
 
-Then she goes back inside.
+“Yes,” Yuka says. ʸ
 
-Yuka looks at the pickles.
-
-She doesn't understand. Then, slowly, she does.
-
-*Ori's been eating pickles*, Maki said. *Last night. She hates them. A child noticed.*
-
-She looks at the plate in her lap.
-
-She doesn't eat them.
-
-She holds the plate, and looks at the empty roads, and waits.
+Ori waits long enough to see her take the mug. She goes inside by the screen door, which catches on the mat. Yuka sets the mug down to get up and help. By then Ori has reached down and straightened the mat herself. Yuka puts her palms round the mug again, and after a while she can tell it has gone cold.
 
 The sun goes round to the west.
 
@@ -249,7 +257,7 @@ At the very edge of the hill road, where it comes out of the trees, two shapes.
 
 One of them is walking a step behind the other.
 
-She's on her feet before she knows it, the plate sliding off her lap and the pickles going everywhere. She's halfway down the porch steps.
+She's on her feet before she knows it, the mug going over against the leg of the chair. She's halfway down the porch steps.
 
 Then she sees who the second shape is.
 

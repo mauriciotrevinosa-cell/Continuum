@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 21
 **Source episode:** S13E114
-**Continuity state:** B+431 night to B+432 night. Ori chooses to sleep beside Mau while Yuka stays in Ori’s room with Frieren. Makima prevents a premature solitary departure; Mau says he wants to return. Mai confronts the unannounced supply cut and he restores that resource path separately on B432, leaving his personal relays closed. Shuna, Rimuru and Frieren actively offer food, conversation and support. One third of the saved allocation remains spent; two thirds stay available until the duel.
+**Continuity state:** B+431 night to B+432 night. Ori chooses to sleep beside Mau while Yuka stays in Ori’s room with Frieren. Makima prevents a premature solitary departure; Mau says he wants to return. Bocchi takes him to see her family briefly before the duel. Mai confronts the unannounced supply cut and he restores that resource path separately on B432, leaving his personal relays closed. Shuna, Rimuru and Frieren actively offer food, conversation and support. One third of the saved allocation remains spent; two thirds stay available until the duel.
 
 *When: B+431, late night, to B+432, night. Nobody wrote a number in the notebook on B+432. It lies open on the windowsill to "56".*
 
@@ -69,7 +69,7 @@ He opens the back door.
 
 Makima is sitting on the porch steps.
 
-In her own body, in the dark, with her hands folded in her lap, facing the yard. Waiting.
+In the body Noise made for her, with her hands folded in her lap, facing the yard. Waiting.
 
 She doesn't turn round.
 
@@ -87,11 +87,9 @@ He comes down the steps. He stops beside her.
 
 She still doesn't look up. She's looking at the yard. At the dark shape of the training posts. At the orchard beyond, where Yuka went.
 
-“This is three,” she says. ᴹᵏ
+“If you go now, Ori wakes up and you're gone,” she says. ᴹᵏ
 
-He doesn't say anything.
-
-“The wall,” she says. “The dungeon. And here.” ᴹᵏ
+He grips the door. A draught is coming in along the frame. He had checked there was enough blanket over Ori's shoulder and never once pictured her waking up without him there.
 
 “I have to go.” ᴹ
 
@@ -109,7 +107,7 @@ She finally turns her head and looks up at him.
 
 He looks at the dark yard.
 
-“That's the stupid thing,” she says. “I'm stopping you.” ᴹᵏ
+“Then come in for a minute,” she says. “You can be angry at me for asking.” ᴹᵏ
 
 He stands there a long time.
 
@@ -157,7 +155,7 @@ He looks away.
 
 He doesn't look again.
 
-The house moves round them like water round two stones.
+He hears Momo come in from the yard, ask after Mai's level, get the answer and come up the stairs with it in her hands. She makes room for the two of them to pass before she starts telling Mai what she's done with the vent. For a few minutes he can listen to that. The next time he looks up, the orchard window is in shade.
 
 At lunch Shuna brings a bowl to the workshop. She makes him put the beam down before she leaves it in his hands.
 
@@ -221,13 +219,25 @@ He's quiet for a moment.
 
 “You'll know when,” says Jin-Woo, and goes. ᴶʷ
 
-At dinner, she doesn't come.
+Bocchi finds him shaking sawdust out of his sleeve and asks if he wants to come with her for ten minutes. She holds up a cable. Her father found it in a drawer and now her whole family wants to argue about what it used to plug into.
 
-Ori sits in the chair beside him. She moves it six inches closer. She eats the pickles. She makes the face.
+“Do you need me to tell you?” he asks. ᴹ
 
-He watches her eat them.
+“I want to see what he'll say when you tell him,” Bocchi says.
 
-He breaks the bread and gives her the larger end. She pushes a piece back into his fingers. This time he eats it.
+He goes. Futari has got two completely different plugs lined up on the floor and decided that one of them belongs to a kettle. She announces this with enough certainty that he gives the plug another look. By the time Bocchi's dad digs out the matching plug, Mau is on the carpet with Futari trying to get the two of them to identify the sound of the stupidest appliance in the house without looking. Bocchi's mother wins from the hallway. Mau stays another ten minutes. When he leaves, Bocchi walks him to the door and makes him promise to come back when they have pie. He asks if her dad knows about the pie yet. She says that's what she's going to tell him now.
+
+At dinner, Yuka doesn't come.
+
+Ori sits beside him with a piece of bread. She puts it in his hand and asks if he can come say goodbye before he leaves in the morning. She wants to see him before he goes over the hill.
+
+“I'd like that,” he says. “I'll come find you.” ᴹ
+
+“Did you save a place for Yuka up there?” ᴼ
+
+“I did,” he says. ᴹ
+
+He breaks the bread and gives Ori the larger end. She pushes a piece back into his fingers. This time he eats it.
 
 That night, alone in the bedroom, he opens the page.
 

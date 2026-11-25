@@ -127,6 +127,10 @@ Her voice has gone very quiet. Worse than loud.
 
 “That's not—” ᴹ
 
+“I had to hear it from Beru,” Yuka says, quieter still. “Shoko got a message about her tea. Even she got a message.” ʸ
+
+He could say there was only one person he couldn't bear to leave a message for. He'd have to tell her why.
+
 “I let her in,” says Yuka. ʸ
 
 Her voice breaks.
@@ -209,7 +213,7 @@ He thinks: *I knew*.
 
 He thinks it very clearly. Very calmly. In the voice he gave Gojo the numbers in.
 
-He knew. He knew from the gate, from *you're alive*. He knew from the corridor, from *before you*. He knew from the chair she didn't sit in, and the plate she didn't steal from, and the something she wanted to talk about.
+He goes back looking for the evidence and finds it everywhere. The chair she didn't sit in. The day he could have asked her to stay in bed with him. The pause after she told him she wanted to talk. He can still put a hand where she was lying when she said it.
 
 He knew, and he got out of the way, the way he got out of Frieren's way when Fern came. Before she had to ask. So it wouldn't hurt when she did.
 
@@ -239,7 +243,7 @@ Ori is in the doorway with her hand in Frieren's sleeve.
 
 She lets go of the sleeve.
 
-She comes down the porch steps, past the plate on the ground and the pickles scattered round it, across the yard, to her father. She doesn't say anything. She takes his other hand.
+She comes down the porch steps, past the mug on its side by the step, across the yard, to her father. She doesn't say anything. She takes his other hand.
 
 He stands in the yard in the last of the light, with Makima's hand in one of his and Ori's in the other, and the orchard empty in front of him where Yuka went.
 

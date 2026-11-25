@@ -19,11 +19,11 @@ The table goes quiet.
 
 Mau puts his cup down.
 
-Across the table, at the far end, where she's come to breakfast for the third time this week, Echidna goes very still.
+Across the table, at the far end, in her usual place, Echidna goes very still.
 
 “Today?” says Mau. ᴹ
 
-“Betty has thought about it,” says Beatrice. “For some weeks. Betty is a Fort member now. Betty took an oath, even against the library.” ᴮᵉᵃ
+“Betty has thought about it,” says Beatrice. “Since the oath. Four days. Betty is a Fort member now. Betty took an oath, even against the library.” ᴮᵉᵃ
 
 She puts her toast down.
 
@@ -55,7 +55,7 @@ Mau goes in last.
 
 Echidna doesn't get up.
 
-She lifts one hand and points. At Beatrice. At the space round her. And Mau looks, with the Six Eyes, the way he looked in this room three weeks ago.
+She lifts one hand and points. At Beatrice. At the space round her. And Mau looks, with the Six Eyes, the way he looked in this room six weeks ago, the night Beatrice found it.
 
 There it is. The binding. Old, wound round Beatrice and running back into the shelves, and then bending, and running to the chair by the lamp, and lying there slack. Like a rope tied off to a post that was supposed to fall down and didn't.
 
@@ -133,7 +133,7 @@ Echidna makes a sound.
 
 Mau has never heard Echidna make a sound like it. A small, sharp intake of breath. The sound of someone watching the thing they have wanted to see for a very, very long time.
 
-*It turns at what hurts*, Mau said, three weeks ago. *And learns its shape.*
+*It turns at what hurts*, Mau said once. *And learns its shape.*
 
 It turns.
 
@@ -203,7 +203,7 @@ And her face isn't doing the thing he expected. The sharp, total, delighted inte
 
 It's doing something else.
 
-Something he's only seen on it once before. Three weeks ago. When Beatrice walked out of this library holding Yuka's hand, and Echidna was left looking at the empty doorway.
+Something he's only seen on it once before. Six weeks ago. When Beatrice walked out of this library holding Yuka's hand, and Echidna was left looking at the empty doorway.
 
 He doesn't have a word for it.
 

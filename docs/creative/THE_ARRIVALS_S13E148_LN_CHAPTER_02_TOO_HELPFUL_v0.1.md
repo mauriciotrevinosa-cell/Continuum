@@ -11,7 +11,7 @@
 
 Ciel tells him in the morning.
 
-She said she would. *Just an eye. Tell me if anything changes. Not a report. Tell me.* Three weeks ago, in Mai's workshop, after Cross walked away across the yard and didn't look back.
+She said she would. *Just an eye. Tell me if anything changes. Not a report. Tell me.* Five weeks ago, in Mai's workshop, after Cross walked away across the yard and didn't look back.
 
 She's been watching since. Quietly. The way she watches everything. And this morning, while he's sitting at the table inside before breakfast, the way he does every morning now, she puts her hands flat on the wood and says:
 

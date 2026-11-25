@@ -237,7 +237,7 @@ Yuka looks at Satella for a long moment. Then she smiles, sleepily, all the way.
 
 None of them see the inner window.
 
-Satella's window. The one Wakana built into the wall of her room in the north wing because she asked for it, so that even from her room she could see the common room. Her room is empty tonight; Satella is in the common room for once. And behind her window, in the dark, pressed close together, absolutely silent, are six faces.
+Satella's window. The one Wakana built into the wall of her room in the north wing because she asked for it, so that even from her room she could see the common room. Her room is empty tonight; Satella is down in the common room. And behind her window, in the dark, pressed close together, absolutely silent, are six faces.
 
 Echidna, with a book under her arm and an expression of intense interest.
 

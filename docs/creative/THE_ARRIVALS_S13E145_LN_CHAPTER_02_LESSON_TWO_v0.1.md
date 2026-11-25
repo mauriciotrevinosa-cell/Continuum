@@ -159,7 +159,7 @@ He tells her the truth.
 
 Shuna looks at him.
 
-“Every morning,” he says. “For three weeks. Since lesson one. From the table.” ᴹ
+“Every morning,” he says. “For four weeks. Since lesson one. From the table.” ᴹ
 
 He looks at the bread.
 

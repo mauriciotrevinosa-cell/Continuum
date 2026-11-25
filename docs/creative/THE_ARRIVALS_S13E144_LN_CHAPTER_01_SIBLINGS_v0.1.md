@@ -15,7 +15,7 @@ Not bad strange. Loud strange. Yuka noticed it the day he arrived and hasn't sto
 
 Except her.
 
-He's never once been alone with her. Not in five weeks. Every time she's come into a room where he is, he's found a reason to be talking to someone else. Every time she's gone looking for him, he's been somewhere else.
+He's never once been alone with her. Not in nearly eight weeks. Every time she's come into a room where he is, he's found a reason to be talking to someone else. Every time she's gone looking for him, he's been somewhere else.
 
 She's been too busy to push. The distance. Cross. The two weeks. The clinic. The reconciliation. The forty-eight days. She hasn't had room for her brother.
 
@@ -31,7 +31,7 @@ She walks onto the training ground and picks up the other staff from the rack, a
 
 He stops.
 
-He looks at her. His face does the thing it's been doing for five weeks: opens up into the big cheerful Tsurugi grin, ready to say something loud and funny.
+He looks at her. His face does the thing it's been doing for nearly eight weeks: opens up into the big cheerful Tsurugi grin, ready to say something loud and funny.
 
 “Don't,” says Yuka. ʸ
 

@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 1
 **Source episode:** S13E137
-**Continuity state:** B+460 ("27"). DIO returns Ori's dragon at breakfast, with interest: a pressed flower from Elmesia's garden. Ori accepts the return formally. Then Ori turns her attention to the one person in the house who has been out of the library every day for three weeks without being made to: Beatrice. The Fort holds an emergency session on the roof under the REM SAID IT banner. Beatrice is summoned, protests that Betty is not a child, in fact, and is inducted anyway, with a paper badge, a carved animal (a small owl, borrowed from Umaru and then given), and the Fort oath, which now includes "even against Kamish" and "even against the library". Echidna watches from the north-wing step. Beatrice wears the badge to supper.
+**Continuity state:** B+460 ("27"). DIO returns Ori's dragon at breakfast, with interest: a pressed flower from Elmesia's garden. Ori accepts the return formally. Then Ori turns her attention to the one person in the house who has been out of the library every day for six weeks without being made to: Beatrice. The Fort holds an emergency session on the roof under the REM SAID IT banner. Beatrice is summoned, protests that Betty is not a child, in fact, and is inducted anyway, with a paper badge, a carved animal (a small owl, borrowed from Umaru and then given), and the Fort oath, which now includes "even against Kamish" and "even against the library". Echidna watches from the north-wing step. Beatrice wears the badge to supper.
 
 *When: B+460. "27." Under it, in Ori's hand: "NEW MEMBER". A small owl drawn beside it.*
 
@@ -49,7 +49,7 @@ Mau can see it. She has the face she gets when she's planning: eyes narrowed, ch
 
 At Beatrice.
 
-Beatrice is at breakfast. Beatrice is at breakfast every day now. For three weeks, since the night in the library when Mau made his small rule and she called it a terrible rule, she has come out every single day. To breakfast. To supper. To Frieren's window seat. To the rug in Frieren's room on rain days. To the kitchen, once, to tell Shuna that the bread was acceptable, in fact.
+Beatrice is at breakfast. Beatrice is at breakfast every day now. For six weeks, since the night in the library when Mau made his small rule and she called it a terrible rule, she has come out every single day. To breakfast. To supper. To Frieren's window seat. To the rug in Frieren's room on rain days. To the kitchen, once, to tell Shuna that the bread was acceptable, in fact.
 
 Nobody has had to come and fetch her. Not once.
 
@@ -73,7 +73,7 @@ Mau watches from the porch with Yuka. Most of the house watches from the porch. 
 
 There's a murmur.
 
-“The candidate,” says Ori, “has been observed. For three weeks. The candidate has come out of the library every day without being fetched. The candidate shared a difficult book about mushrooms with a Fort member during a rain day. The candidate argued with Echidna and won.” ᴼ
+“The candidate,” says Ori, “has been observed. For six weeks. The candidate has come out of the library every day without being fetched. The candidate shared a difficult book about mushrooms with a Fort member during a rain day. The candidate argued with Echidna and won.” ᴼ
 
 “Partly won,” says Rem. ᴿᵉ
 
@@ -199,7 +199,7 @@ Beatrice wears the badge to supper.
 
 Nobody mentions it.
 
-She sits in her place beside Frieren, very upright, with the badge on her dress, and eats her soup, and tells Shuna the bread is acceptable, in fact, and argues with Echidna, who has come to supper for once, about a word.
+She sits in her place beside Frieren, very upright, with the badge on her dress, and eats her soup, and tells Shuna the bread is acceptable, in fact, and argues with Echidna, across the table, about a word.
 
 Halfway through, Mau catches her touching it. The badge. Just with one finger. Checking it's still there.
 

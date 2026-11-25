@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 24 — His Day
+## Chapter 23 — His Day
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 24
+**Reading order:** 23
 **Source episode:** S13E149
 **Continuity state:** B+484 ("3"). Yuka turns her own line around. Weeks ago she asked for one day where she was the only one he looked after. Now she organises the reverse: one day where he's the only one the house looks after. Ori runs it like a war. He isn't allowed to check on anyone, carry anything, cook anything, or fix anything. Ciel watches the lines. Everyone brings him something small: Shuna the bread he made, Mai a clasp, Maki her best pin, Beatrice a book about fruit, Dabura a perfect pear, Gojo sweets he doesn't share, Makima nothing, because she just sits with him. He tries to help three times and is stopped three times. At the end of the day he says thank you to the whole table and can't finish the sentence. Three days to Yoru. Nobody mentions it.
 

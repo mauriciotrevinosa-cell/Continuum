@@ -638,4 +638,4 @@ B+446 #22 Cross pide perdón · 447 #23 el grito de Beru · 448 #24 gracias a Yu
 
 ### Hecho (23 nov 2026)
 
-Los 48 días quedaron escritos: V84 #15–35 y V85 #1–27 (48 capítulos; la revancha con Gojo se movió a después de Yoru y quedó guardada en future_drafts). V85 #25 ocupa el B+485 con el broche de Mai, el alfiler de Maki y la prueba del refugio del Fort. El V85 cierra en B+487 con el "Not yet" de Yoru: dos semanas de aviso, "gracias". El chicawow quedó en el V85 #9, no en el #38 que se había dicho antes, porque los números cambiaron al partir en dos volúmenes.
+Los 48 días quedaron escritos: V84 #15–35 y V85 #1–26 (47 capítulos; la revancha con Gojo se movió a después de Yoru y quedó guardada en future_drafts, junto con *Good Strange*). V85 #24 ocupa el B+485 con el broche de Mai, el alfiler de Maki y la prueba del refugio del Fort. El V85 cierra en B+487 con el "Not yet" de Yoru: dos semanas de aviso, "gracias". El chicawow quedó en el V85 #9, no en el #38 que se había dicho antes, porque los números cambiaron al partir en dos volúmenes.

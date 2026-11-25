@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 7 — In Her Own Words
+## Chapter 6 — In Her Own Words
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 7
+**Reading order:** 6
 **Source episode:** S13E141
 **Continuity state:** B+467 ("20"), evening into night. Yuka's point of view. She doesn't plan a setting. She doesn't ask anyone. After supper, on the porch step, with the house going in behind them, she gives him the notebook open at the last line of the long list, the one she wrote yesterday, and then says it out loud anyway, in her own words, plainly: that the breather is over, because she's decided it is; that she isn't frightened of hoping anymore; that she wants him. She tells him she noticed he never once asked, and that's part of why. Mau, who has waited three months without making her guess, asks one thing: is she sure? She is. They go upstairs. Yuka leads their reunion, asks to hear what Mau wants, and holds him until they both fall asleep. In the morning she ticks the last line of the list. The pause that began in V80 #6 ends here, in Yuka's own words.
 

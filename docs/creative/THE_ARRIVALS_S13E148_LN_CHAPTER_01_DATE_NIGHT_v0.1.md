@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 21 — Date Night
+## Chapter 20 — Date Night
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 21
+**Reading order:** 20
 **Source episode:** S13E148
 **Continuity state:** B+481 ("6"). Mau asks Yuka out. Properly. For the first time since before the island he plans something himself and doesn't ask anyone how. He takes her back to the valley of everyone's pears, by Exchange to Kamish's shadow on the far rim, at sunset, with a blanket and a basket Shuna packed without asking questions. The terrible wild pears. The stream. The stars, which are enough. He tells her something plainly, as she taught him: that for two weeks he was afraid she'd go, and now he isn't, and the difference is that she told him the truth when it was ugly. She tells him the last line of the long list. He'd already guessed. They stay under the trees, kissing and listening to the stream. They don't go home until it's very late.
 

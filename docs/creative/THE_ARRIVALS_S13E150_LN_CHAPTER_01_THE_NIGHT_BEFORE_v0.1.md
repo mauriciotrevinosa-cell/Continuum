@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 26 — The Night Before
+## Chapter 25 — The Night Before
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 26
+**Reading order:** 25
 **Source episode:** S13E150
 **Continuity state:** B+486 ("1"). The last day of the ninety. This time the house isn't sitting round the kitchen table in silence with the plates untouched. Mau tells everyone, at supper, plainly, what he thinks will happen and what he'll do: he'll go to meet Yoru at the hour, not alone, with the house knowing where; he'll ask her for time; he won't fight unless she makes him. Gojo asks to come; Mau says yes, this time, to the edge of the yard. Shoko asks to come; yes. The house decides together, out loud, who stands where. Then, instead of nobody sleeping, everybody does. Mau and Yuka on the porch for an hour first. She tells him she's not afraid. He tells her he isn't either, and it's true.
 

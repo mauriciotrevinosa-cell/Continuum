@@ -11,3 +11,10 @@ What to fix when the rematch is written:
 - Gojo has his full kit back. No "something taken on Day 133", no "what he isn't anymore".
 - Burnout is not the only way out: there are ways to switch off or cancel (simple domain can cancel a technique; both know it). Don't write both at the extreme with no off switch.
 - Write the fight itself, beat by beat. Never "they did the same thing again and again".
+
+## Also parked: *Good Strange* (was V85 #3)
+
+> No pero viven en cuartos separados por ordenes de Shoko te voy a hacer re leer todo y que tomes notas
+> Sino quita el cap tmb
+
+Gojo and Shoko live in the same house, in **separate rooms by Shoko's orders**, and have already kissed. The draft got this wrong (first as a slow beginning, then as sharing a room). Reread their canon and take notes before rewriting it.

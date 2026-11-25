@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 10 — Where the Maps Stop
+## Chapter 9 — Where the Maps Stop
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 10
+**Reading order:** 9
 **Source episode:** S13E142
 **Continuity state:** B+469 afternoon into the night of B+470 ("18" → "17"). Past the ruins, down into the basin. Ori stops at the black scorch in the middle where Kamish's fire landed and asks what happened here. Mau tells her the real one, at her size. Then on, past the far rim, into country nobody in the house has walked: a long falling valley with a stream, and at the bottom of it a stand of old pear trees gone wild, heavy with small hard fruit. Ori names it on her map. They camp under the trees. Yuka keeps her word and sleeps in the tent, with Ori on one side and Mau on the other. Before sleep, Ori asks Yuka what a satellite is, because Umaru won't stop talking about them, and Yuka tells her, and Ori decides to look for one. She doesn't find one. She finds the stars, which are enough.
 

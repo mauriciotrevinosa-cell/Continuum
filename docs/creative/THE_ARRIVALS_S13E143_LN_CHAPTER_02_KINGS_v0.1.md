@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 12 — Kings
+## Chapter 11 — Kings
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 12
+**Reading order:** 11
 **Source episode:** S13E143
 **Continuity state:** B+471 ("16"). Dabura asks Mau to sit with him on the orchard wall in the evening. He wants to know what a king is in this world, since everyone keeps calling Mau one and Mau keeps saying he isn't. They talk about it, slowly, the way Dabura talks. Dabura says on the mountain a king was the one nobody could beat; here it seems to be the one who picks pears with everyone. Then, while they talk, Dabura's hands do something on their own: the fingers of his right hand trace a shape on the stone of the wall, over and over, eight lines from a centre. He doesn't notice. Mau does. It is the wheel. Dabura has no memory of the wheel; his body does. Seed only: the Rulers took his memory and missed his hands. Mau doesn't tell him. Ciel files it.
 

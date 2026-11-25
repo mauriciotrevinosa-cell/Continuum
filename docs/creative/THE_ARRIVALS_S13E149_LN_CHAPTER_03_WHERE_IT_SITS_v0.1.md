@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 25 — Where It Sits
+## Chapter 24 — Where It Sits
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 25
+**Reading order:** 24
 **Source episode:** S13E149
 **Continuity state:** B+485 ("2"), between Mau's day off and the house's supper discussion tomorrow. Mai fits the clasp she gave Mau, using Maki's pin to test the fold of his cloak. A passing shower sends Mau, Yuka and the Fort under a canvas that the Fort tests as a shelter for future expeditions. The clasp is ordinary metalwork and the canvas stays at the Fort. Ori's carved dragon is still on loan to Mau.
 

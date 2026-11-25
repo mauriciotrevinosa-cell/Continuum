@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 9 — Expedition Two
+## Chapter 8 — Expedition Two
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 9
+**Reading order:** 8
 **Source episode:** S13E142
 **Continuity state:** B+469 ("18"). Ori has been planning expedition two since the river picnic in V83: past the ruins, past the ridge, into the country where the maps stop. Two days and a night this time, with the tent. The party is the one she promised: Mau, Ori and Beru. Yuka comes because it's Mau, and because she asks Ori properly, and Ori grants it. Kamish scouts overhead. DIO and Makima stay inside once they're past Makima's reach. Frieren doesn't come; she gives Ori a compass that only points home. They pack. Ori's checklist runs to three pages. They leave at dawn and reach the ruins by noon, where Ori leaves a pear on the stone that says REST HERE. WE DID.
 

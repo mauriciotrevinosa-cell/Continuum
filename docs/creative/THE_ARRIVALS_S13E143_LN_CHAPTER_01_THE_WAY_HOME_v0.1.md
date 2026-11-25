@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 11 — The Way Home
+## Chapter 10 — The Way Home
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 11
+**Reading order:** 10
 **Source episode:** S13E143
 **Continuity state:** B+470 ("17"). Morning in the valley of everyone's pears. Ori follows the stream down to where the valley opens and sees, far off, more hills and no end; she decides that's for expedition three. Beru finds a stone with a hole worn through it by water and gives it to Ori, who gives it back, because it's his find. The way home, by the compass. At the ruins, the three pears on the REST HERE stone are gone, and there are small tracks in the dust round the stone. Ori decides something was hungry. Makima steps back out at the ridge. They come down the hill road at dusk and the whole house is on the porch. Ori reports to the Fort with her map. She gives Frieren her compass back. Frieren asks where it pointed. "At you. The whole time."
 

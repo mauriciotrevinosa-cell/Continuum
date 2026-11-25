@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 6 — The Long List
+## Chapter 5 — The Long List
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 6
+**Reading order:** 5
 **Source episode:** S13E140
 **Continuity state:** B+466 ("21"). Yuka's point of view. The morning workshop with Mai, while Maki makes her nineteenth pin. Yuka has been thinking since the pear harvest. She asked for a breather after the false alarm before the island, close to three months ago, and Mau never once asked her to end it; he held her, and waited, and didn't make her guess. Now she has looked round the orchard at everyone she loves, at Rem and Umaru, at DIO writing letters on her knee, at Gojo up a ladder with Shoko at the bottom, and she has understood, all the way down, that she gets to stay. And she has said out loud that she let herself want a tomorrow with him. She tells Mai she thinks she's ready. Mai, who can't bear talking about this, listens anyway, and says the only useful thing: then tell him, in your own words, not his, and not the house's. Yuka writes the last line of the long list.
 

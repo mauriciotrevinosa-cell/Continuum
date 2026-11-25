@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 13 — Siblings
+## Chapter 12 — Siblings
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 13
+**Reading order:** 12
 **Source episode:** S13E144
 **Continuity state:** B+472 ("15"). Yuka's point of view. Tsurugi has been strange with her since the gate: loud, delighted, full of stories, and never once alone with her. Today she corners him in the yard and asks why. He tells her: when she disappeared he was the one who got Grandpa's ring, and everyone said he deserved it more, and he let them, and he has never forgiven himself. Yuka tells him she knew, and she was angry for years, and she isn't now. Maru, passing, stops and tells them about his own brother: that Cross is quiet these days, helpful, too helpful, and that Maru doesn't know whether it's real. Two sets of siblings on the training ground. Tsurugi and Yuka spar after, the way they used to as children, and she wins, and he lets her think he let her.
 

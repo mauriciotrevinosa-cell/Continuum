@@ -5,9 +5,51 @@
 **Volume:** 85
 **Reading order:** 11
 **Source episode:** S13E143
-**Continuity state:** B+471 ("16"). Dabura asks Mau to sit with him on the orchard wall in the evening. He wants to know what a king is in this world, since everyone keeps calling Mau one and Mau keeps saying he isn't. They talk about it, slowly, the way Dabura talks. Dabura says on the mountain a king was the one nobody could beat; here it seems to be the one who picks pears with everyone. Then, while they talk, Dabura's hands do something on their own: the fingers of his right hand trace a shape on the stone of the wall, over and over, eight lines from a centre. He doesn't notice. Mau does. It is the wheel. Dabura has no memory of the wheel; his body does. Seed only: the Rulers took his memory and missed his hands. Mau doesn't tell him. Ciel files it.
+**Continuity state:** B+471 ("16"). The first families from the north come down to the ford. Mau, Yuka, Rimuru, Maru, Tsurugi and Dabura help them get to the house. Their needs give Dabura a reason to ask Mau to sit with him on the orchard wall in the evening. He wants to know what a king is in this world, since everyone keeps calling Mau one and Mau keeps saying he isn't. They talk about it, slowly, the way Dabura talks. Dabura says on the mountain a king was the one nobody could beat; here it seems to be the one who picks pears with everyone. Then, while they talk, Dabura's hands do something on their own: the fingers of his right hand trace a shape on the stone of the wall, over and over, eight lines from a centre. He doesn't notice. Mau does. It is the wheel. Dabura has no memory of the wheel; his body does. Seed only: the Rulers took his memory and missed his hands. Mau doesn't tell him. Ciel files it.
 
 *When: B+471. "16." Dabura has drawn something beside it, in the clumsy careful hand of someone who learned to write very recently: a pear.*
+
+One of the carts breaks a handle going down the bank. Yuka hears the driver ask his daughter to jump while the wheel is still moving. She puts a hand out to brace the cart before she lifts the girl down. There's a woman sitting in the back with a bundle against either foot. She has been sitting exactly like that since they started across.
+
+“Can you step this way?” Yuka asks her. ʸ
+
+“I can if you take the one on the left first.” ᵃᵗᵗ
+
+The bundle on the left is heavier than it should be. When she sets it down she hears something shift inside.
+
+“Tools,” says the woman. “My daughter was going to be the one who carried them, but they gave me the seat and in the end it was easier to stay where I was.” ᵃᵗᵗ
+
+The girl runs over and puts both hands on the bundle. She asks where it's going. Tsurugi offers to get it to the other side if she'll show him what she has to do to pick it up.
+
+Mau comes down the bank with Rimuru. They have brought a piece of wood for the broken handle, cut wide enough to take a bolt through it. When he gets to the cart he looks along the axle and then at Yuka. She can tell he's thinking about moving the whole thing at once. She asks the driver where he wants the cart when he has it back, and the driver picks the flat stretch on the near bank so he can walk under it without slipping.
+
+“Could you take the other side while he does that?” Yuka asks Mau. ʸ
+
+He takes it. He does one side, and the woman helps find a place for the girl to sit until the cart can be moved. They get clear of the water before it gets a chance to carry off the loose knot at the end of the guide rope. Mau gets the knot around the post again with one pull. Yuka presses her palm to his back so he knows she's there while the people above them start walking the cart up the hill.
+
+Someone farther out asks Maru where they're supposed to go tonight. The woman says she'd like to see how far the village is before she puts her tools down. Maru tells her how far and who said there was room. He asks whether she wants to get that far tonight. She asks if a man who came down on an earlier cart found the place he said he'd be looking for. Rimuru has a short list, written by the people who came through, with names of places beside the ones who wanted to leave word. He brings it over for her to see.
+
+Dabura has been standing where the road comes up. He steps back from the edge to let the first cart go by. There's another one coming behind it, still on the other bank, with a wheel gone so low that water is coming over its rim.
+
+The girl with the tools points. “Can you lift that end?” she asks. ᵃᵗᵗ
+
+Dabura looks at Maru. Maru has a length of rope in his hands and is looking for a place to put it around the axle without pinching it.
+
+“I can lift it,” Dabura says. ᴰᵇ
+
+The girl tells him when. He carries that end while Tsurugi and the driver keep the other one high enough to turn. At the top of the bank he still has his hands on it. The girl rubs the dirt off her own hands and tells him it's all right. He puts it down.
+
+Yuka waits with Mau until the other side clears. She's got water in one boot and a dry place at the top of the other where the water didn't come up. Mau kneels to undo the wet one before she has to walk up the hill in it. She gets it off, shakes the water out, and takes his hand to get back up. From there she can see Dabura go over to where the people from the first cart are still deciding whether to take all their bags inside.
+
+“Did he ask somebody where the next one was coming from?” she asks. ʸ
+
+“I think he's waiting to be asked if he wants to go with them.” ᴹ
+
+She gets her foot back into her boot. Then she puts his hand back around hers. “Want to see if there's room for two more at supper?” ʸ
+
+He does. They walk up behind the carts at the speed of the people who got out of them.
+
+* * *
 
 Dabura asks him to the orchard wall in the evening.
 
@@ -35,7 +77,7 @@ Mau doesn't either. He's learned that with Dabura. You wait. The words come up s
 
 Mau waits.
 
-“Everyone calls you that,” says Dabura. “Tsurugi. The small one with the spear. The ant. The dragon, when he speaks. *King*.” ᴰᵇ
+“Everyone calls you that,” says Dabura. “Tsurugi. The small one with the notebook. The ant. The dragon, when he speaks. *King*.” ᴰᵇ
 
 “I'm not,” says Mau. ᴹ
 

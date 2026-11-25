@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 15
 **Source episode:** S13E145
-**Continuity state:** B+475 ("12"). Shuna said lesson two was next week, and to bring the supervisor. It is nearly four weeks later; there was a war, and a reconciliation, and a great deal else. Shuna doesn't mention it. Today it's bread: the house loaf, which Shuna has made every morning since the inn was an inn. Yuka supervises from the counter, as before, and is a worse supervisor than ever because she keeps getting off the counter to stand behind him with her arms round his waist. Shuna allows it, within limits. The bread comes out right on the first try. Shuna is suspicious. Mau admits he's been watching her make it every morning for three weeks, from the table, on purpose. Shuna says that's the lesson.
+**Continuity state:** B+475 ("12"). Shuna and Mau arranged a turn with the bread after finishing the fruit tray. They moved it around other people's turns and put it down for this morning. They make the house loaf. Yuka supervises from the counter, as before, and is a worse supervisor than ever because she keeps getting off the counter to stand behind him with her arms round his waist. Shuna allows it, within limits. The bread comes out right on the first try. Shuna is surprised that it comes out right. Mau has been learning what to watch for from several people who make the loaf on different days. Shuna asks him to taste it and decide what they should try next time.
 
 *When: B+475. "12." Under it, in Shuna's small corner hand: "lesson 2". Beside that, in Yuka's: "SUPERVISING (better)".*
 
@@ -13,7 +13,7 @@
 
 She puts the apron in his hands. His own. The one she cut for him for lesson one.
 
-“The house loaf,” she says. “The one I make every morning. You've eaten it every day since you came here. You've never once watched me make it.” ˢʰᵘ
+“The house loaf,” she says. “Maki likes to do the last fold twice. Rem leaves hers alone after she puts it down. You'll probably have something to tell me about both of them by lunch.” ˢʰᵘ
 
 He opens his mouth.
 
@@ -21,15 +21,7 @@ He opens his mouth.
 
 * * *
 
-It was supposed to be the week after lesson one.
-
-*Lesson two is next week. Bring the supervisor.* That's what she said. Nearly four weeks ago. On a day when he'd burned two trays and got the third one right, and she'd told him what the house looks like from the stove.
-
-Then the week after was the yard, and the river, and Cross. And the week after that was the workshop, and the pins, and the seven rooms. And then the garden, and Gojo's gate, and the pears, and the expedition.
-
-Shuna didn't mention it. Not once. She went on making the bread every morning, and the soup every night, and the plates for everyone, and didn't say *you were supposed to come back*.
-
-This morning she just came and found him after breakfast with the apron, and said *bread*.
+They kept moving their turn because one of them wanted to use the oven for something else. This morning Shuna came down with her sewing already put away. Mau got up when he saw the apron. Yuka got up when she saw him.
 
 * * *
 
@@ -129,7 +121,7 @@ Shuna nods, as if that's the answer to something.
 
 The bread comes out right.
 
-First try. He takes it out of the oven and puts it on the board and it's exactly the bread. The house loaf. The one that's been on the table every morning since the inn was an inn. Round. High. The crust cracked across the top in the pattern Shuna's always is.
+First try. He takes it out of the oven and puts it on the board and it's exactly the bread. The house loaf. The one they keep coming back to even when someone means to bring something different. Round. High. The crust cracked across the top in the pattern Shuna's always is.
 
 Shuna looks at it.
 
@@ -145,7 +137,7 @@ She looks at it for a long time. She picks it up. She knocks on the bottom with 
 
 Shuna narrows her eyes.
 
-“Nobody gets my bread on the first try,” she says. “Rem took a month. Umaru never got it. Senku made a machine and the machine never got it.” ˢʰᵘ
+“It sounds like mine,” she says. “And it sat on the board the whole time while you let her hold you. How long have you been doing this when I wasn't here?” ˢʰᵘ
 
 He doesn't say anything.
 
@@ -159,15 +151,9 @@ He tells her the truth.
 
 Shuna looks at him.
 
-“Every morning,” he says. “For four weeks. Since lesson one. From the table.” ᴹ
+“I've helped Rem get it out before the bottom caught. Did the first fold one morning when you were looking for the other tin. And Maki showed me which corner Ori always asks her to cut.” ᴹ
 
-He looks at the bread.
-
-“You said you never see anyone's face from the stove,” he says. “Only their backs. Going out the door. So I started sitting at the end of the table in the mornings, facing the stove. Where you could see me. And while I was sitting there, I watched you make it. Every day.” ᴹ
-
-He shrugs, a little, with Yuka still holding on round his waist.
-
-“I didn't mean to learn it,” he says. “I just wanted you to see a face in the mornings. And then I'd watched you do it twenty times.” ᴹ
+He puts the loaf on its side. The last part has caught where it took him too long to turn it. “You know what you're looking for while you make it,” he says. “I wanted to know what you could see.” ᴹ
 
 * * *
 
@@ -175,21 +161,13 @@ Shuna doesn't say anything for a long time.
 
 She stands at the end of the table with her hand on the edge of the bread board, looking at him.
 
-Then she turns round, very fast, to the stove. And stands there with her back to them, and her hand comes up to her face, the way it did the morning of the feast.
+Shuna goes to get the knife they use for the crust. She gives it to Mau. He makes two cuts and she picks the piece from between them while it's still warm.
 
-“That's the lesson,” she says. To the stove. Her voice not quite steady. ˢʰᵘ
+“I think it would like longer next time,” she says. “Before you put it in. Let it rise while you sit down.” ˢʰᵘ
 
-Mau waits.
+“That's what I tried to tell him,” Yuka says, still holding on. “He said you'd tell.” ʸ
 
-“Lesson two,” says Shuna. “It was never the bread. Any fool can make bread. The lesson is you have to watch. Every day. The same thing, every day, until you know it in your hands without knowing you know it.” ˢʰᵘ
-
-She takes a breath.
-
-“That's all cooking is,” she says. “Watching someone. Every day. Long enough to know what they need before they ask.” ˢʰᵘ
-
-She doesn't turn round.
-
-“You passed,” she says. ˢʰᵘ
+“I am telling,” Shuna says. She tastes her piece. “Sit down next time. Both of you.” ˢʰᵘ
 
 * * *
 
@@ -211,7 +189,7 @@ Ori considers it.
 
 “It tastes like Shuna's,” she says. “But it tastes like someone was happy making it.” ᴼ
 
-Shuna, at the stove, puts down her ladle.
+Shuna puts her own slice down long enough to cut Ori another piece.
 
 Yuka, beside him, puts her face in his shoulder and doesn't say anything for a while.
 

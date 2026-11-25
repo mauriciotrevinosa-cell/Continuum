@@ -177,13 +177,13 @@ And under that, after a moment, something else he can't see, because she tilts t
 
 “You wrote something.” ᴹ
 
-“It's on the list.” She closes the notebook, cream and all. “You'll find out.” ʸ
+“It's for tomorrow.” She closes the notebook before the cream can get over both pages. “Can we go to town after breakfast? Take the way by the river back?” ʸ
 
-“When?” ᴹ
+“Anything you particularly want to get?” ᴹ
 
 She looks at him over the top of the notebook. Her eyes are very bright, and her face is flushed, and there's cream at the corner of her mouth, and she's the only colour in the room, the only colour in the world, and she's looking at him like he's something she nearly lost and got back and intends never to put down again.
 
-“When you do it,” she says. ʸ
+“A ribbon,” she says. “You're going to have to help me with it.” ʸ
 
 * * *
 

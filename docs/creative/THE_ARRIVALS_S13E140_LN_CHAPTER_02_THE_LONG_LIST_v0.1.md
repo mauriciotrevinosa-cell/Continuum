@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 5 — The Long List
+## Chapter 5 — Jam on Her Hands
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
 **Reading order:** 5
 **Source episode:** S13E140
-**Continuity state:** B+466 ("21"). Yuka's point of view. The morning workshop with Mai, while Maki makes her nineteenth pin. Yuka has been thinking since the pear harvest. She asked for a breather after the false alarm before the island, close to three months ago, and Mau never once asked her to end it; he held her, and waited, and didn't make her guess. Now she has looked round the orchard at everyone she loves, at Rem and Umaru, at DIO writing letters on her knee, at Gojo up a ladder with Shoko at the bottom, and she has understood, all the way down, that she gets to stay. And she has said out loud that she let herself want a tomorrow with him. She tells Mai she thinks she's ready. Mai, who can't bear talking about this, listens anyway, and says the only useful thing: then tell him, in your own words, not his, and not the house's. Yuka writes the last line of the long list.
+**Continuity state:** B+466 ("21"). Yuka's point of view. The morning workshop with Mai, while Maki makes her nineteenth pin. Yuka has been thinking since the pear harvest. She asked for a breather after the false alarm before the island, close to three months ago, and Mau never once asked her to end it; he held her, and waited, and didn't make her guess. Now she has looked round the orchard at everyone she loves, at Rem and Umaru, at DIO writing letters on her knee, at Gojo up a ladder with Shoko at the bottom, and she has understood, all the way down, that she gets to stay. And she has said out loud that she let herself want a tomorrow with him. She tells Mai she thinks she's ready. Mai, who can't bear talking about this, listens anyway, and says the only useful thing: then tell him, in your own words, not his, and not the house's. Mai reminds her she'll have her own chance to say it to Mau. Yuka helps Mai work on the riding gear before joining Maki.
 
-*When: B+466. "21." Under it, in Yuka's hand, nothing. She's saving the space.*
+*When: B+466. A morning in Mai's workshop, after the pear harvest.*
 
 Maki's nineteenth pin comes apart in her hand.
 
@@ -135,29 +135,31 @@ Then she turns round again, very fast, and picks up the file, and starts filing 
 
 * * *
 
-Yuka sits in the corner with her bread and jam.
+Yuka sits in the corner with her bread and jam. There is a dent on the bench where Mai put down the edge of a buckle and leaned on it trying to make it take a straighter turn. Yuka runs the side of her thumb along the dent and thinks about how much she'd like to hear Mau come up the steps. He'd see the jam on her hand and get her something to wipe it off before he asked what she was doing here.
 
-*In your own words.*
+“Do you ever know before you ask?” Yuka says. ʸ
 
-She takes the notebook out of the hoodie pocket. She opens it to the back. To the list. The long one. Seven lines, the first morning. More since. Breakfast. Stay. Cross. Tell him plainly. Thank Makima. One day where I'm the only one he's looking after. Makima, friend, with no tick, because it isn't a thing you finish.
+The file stops. It takes Mai a second to decide which of them Yuka's asking about.
 
-There's one line left at the bottom she's never written.
+“I knew what I wanted,” she says. “I still needed to know if Momo would say yes.” ᴹᵃ
 
-She knew it was there. From the first morning on the wet grass. She just didn't know how to write it. She left the space.
+Yuka looks at the buckle. “Did she?” ʸ
 
-She writes it now.
+“She asked me why I'd spent a morning making two sets of gear if I meant to fly alone.” ᴹᵃ
 
-Small. Neat. The way she writes everything she means to keep.
+Yuka can hear the bit of the answer Mai is choosing to leave out. She sets down the bread and goes to look for a cloth.
 
-She looks at it for a long time.
+“What does that one need?” she asks, coming back with it. ʸ
 
-Then she closes the notebook, and puts her hand flat on the cover, the way she did last night after supper, as if keeping something in.
+“Hold it straight. Good. Now turn it round for me.” ᴹᵃ
+
+She does. Mai has her start with exactly the piece she thinks she'll get wrong, and stays where she can see her do it. By the time Yuka finds the jam again she's got another strip of fabric looped over her wrist so Momo can see what they changed. She wipes her hand before she touches it. She thinks she can ask Mau to come and sit with her whenever she wants to tell him. That part she'd be able to say right now.
 
 * * *
 
 Maki comes back in from her air.
 
-She looks at Yuka in the corner with her hand on the notebook. She looks at Mai at her bench, filing something into dust. She doesn't ask.
+She looks at Yuka in the corner with the strap looped round her wrist. She looks at Mai at her bench, filing something into dust. She doesn't ask.
 
 She sits down at her own bench and picks up a fresh pin.
 

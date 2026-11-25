@@ -7,11 +7,11 @@
 **Source episode:** S13E121
 **Continuity state:** B+435, around noon. Yuka's point of view. She saw him come back and walk past her, straight to the clinic, and it frightened her more than the war did. When she knocks, all she is told at first is that he needs to sleep. Then she asks. Shoko, who promised, tells her the truth in the herb room behind the clinic, with Mau's permission and in Mau's words: everything he had closed, the panic behind the wall, the empty place at the quarry, the room with Frieren in the other life, the Trial. Yuka remembers what she said the morning before the Final Trial ("If you won't let me be with you when it hurts, I don't know how to stay in this"), which he heard as leaving. He spent ~368 local days inside working out how to say goodbye; for her it was one day. She already knew all this; what lands now is that she did it again. Then, in the yard, she took the thing he fears most and said it to him. Nothing is forgiven or fixed in this chapter. Ori asks too, and gets the truth at her size. Ori stays with Mau and Shoko. Yuka goes to talk to the house.
 
-*When: B+435. Around noon. On the page under "52" there are seven lines in Yuka's handwriting. She has crossed out the fourth.*
+*When: B+435. Around noon. The notebook still holds the messages she and Ori wrote down while Mau was away.*
 
 He walked past her.
 
-That's the thing Yuka can't get past. Not the war. She'd been afraid of the war all morning, sitting on the grass with the notebook, listening to Rimuru read the reports out loud from the porch: *at the ridge*, *plan set*, *expected duration: short*. Nobody believed the last one. She didn't believe it. She sat there and wrote her list and crossed things out and wrote them again and waited for the report that would say something had gone wrong.
+That's the thing Yuka can't get past. Not the war. She'd been afraid of the war all morning, sitting on the grass with the notebook, listening to Rimuru read the reports out loud from the porch: *at the ridge*, *plan set*, *expected duration: short*. Nobody believed the last one. She didn't believe it. She wrote down where he was when Rimuru told her, and waited for the report that would say something had gone wrong.
 
 It didn't come. *Done*, Rimuru read. And then, a few minutes later, very quietly, *on the hill road*.
 
@@ -203,9 +203,7 @@ She turns back.
 
 Yuka looks down at the notebook in her lap.
 
-The page with *52* at the top. And under it, the seven lines in her own handwriting. The fourth one crossed out.
-
-She looks at the list for a long time.
+The paper has gone thin under one of the place names. Ori had pressed hard trying to get it right. Yuka smooths that bit out with her thumb. Ori had known where he was all morning and still came straight to the door to ask after him herself.
 
 * * *
 
@@ -273,7 +271,7 @@ That's the old thing. The knocking at the door. Standing there so that the first
 
 Not this time.
 
-She looks down at the notebook. At the list.
+She leaves the notebook shut in her lap until she can stand up without holding on to it.
 
 Then she turns round and goes out onto the step.
 

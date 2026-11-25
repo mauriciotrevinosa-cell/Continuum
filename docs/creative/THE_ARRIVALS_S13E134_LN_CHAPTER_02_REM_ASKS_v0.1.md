@@ -187,9 +187,13 @@ She picks up her tea, at last, and drinks it, although it's cold.
 
 “Will you—” she starts. ᴿᵉ
 
-“I won't be there,” he says. “Nobody will. It's yours.” ᴹ
+Mau waits. Rem folds her hands one over the other.
 
-“I know,” says Rem. “I was going to ask—afterwards. Will you be in the kitchen? In the morning? Before the sun?” ᴿᵉ
+“Could you be close?” she asks. “I'll see if she wants anyone out there. I just want to know where you are in case I get halfway up and have to come all the way back down again.” ᴿᵉ
+
+“I can be there,” he says. “Do you want Yuka there, too?” ᴹ
+
+“Yes. The two of you can go and sit where the ladder starts.” Rem lets her fingers go loose. “And afterwards. Will you be in the kitchen? In the morning? Before the sun?” ᴿᵉ
 
 He looks at her.
 
@@ -259,7 +263,9 @@ Umaru blinks.
 
 “That's not *advice*,” says Umaru. “That's just what I *do*.” ᵁ
 
-“I know,” says Mau. “Do it tonight.” ᴹ
+“If you want to,” says Mau. “And if you'd like me to come as far as the ladder, tell me. I can bring Yuka.” ᴹ
+
+Umaru spends a little while picking a thread off her sleeve. “I'd like her to come,” she says. “You can sit next to her and be quiet until I get up there.” ᵁ
 
 Umaru looks at him with deep suspicion.
 

@@ -213,7 +213,9 @@ He thinks: *I knew*.
 
 He thinks it very clearly. Very calmly. In the voice he gave Gojo the numbers in.
 
-He goes back looking for the evidence and finds it everywhere. The chair she didn't sit in. The day he could have asked her to stay in bed with him. The pause after she told him she wanted to talk. He can still put a hand where she was lying when she said it.
+The band on her hand moves when she turns it to go. He notices the small line of light on one edge and remembers getting it stuck halfway over her knuckle the day he put it on. She helped him with the last part before he'd had time to decide there was anything to be embarrassed about. He'd remembered that before without it hurting.
+
+She said she'd tell him when she was angry. He said he'd tell her when he needed her. He can still hear his own voice getting through that part in front of everyone. Right now there is one person who needs to hear it and he can't get it out.
 
 He knew, and he got out of the way, the way he got out of Frieren's way when Fern came. Before she had to ask. So it wouldn't hurt when she did.
 

@@ -5,89 +5,49 @@
 **Volume:** 84
 **Reading order:** 17
 **Source episode:** S13E127
-**Continuity state:** B+441 ("46"). The first of the days he owes her. Yuka asks for one whole day in town, just the two of them, with one condition: he doesn't check on anyone. Not the soldiers, not the anchors, not the house. Ciel watches the lines for him and will only call if something is truly wrong. It is the hardest thing she has ever asked of him, and he says yes. Caprices: the ribbon Mau ties in her hair, a hat big enough for two, sour sweets, the river steps, a nap on a bench. Twice his hand goes to the lines without thinking and twice he takes it back. Ciel doesn't call once. At sunset Yuka ticks a line in the notebook: "One day where I'm the only one he's looking after." He never finds out which line it was.
+**Continuity state:** B+441 ("46"). Mau and Yuka go to town together. Mau asks Ciel to handle routine watch reports while he's out and tells Yuka what he's asking for. They come home by the river after spending time at the ribbon stall and trying the food on the market street. Mau asks Yuka to stay when he begins to tire. They stop in to give Mai material for riding gear. Ori and the others are in the yard when they get back.
 
-*When: B+441. "46." Under it, in Yuka's hand: "TOWN." Underlined three times.*
+*When: B+441. A day in town and the walk back.*
 
-“One condition,” says Yuka. ʸ
+Yuka goes into the workshop for a piece of string and comes out with a basket.
 
-They're on the porch. It's early. She's dressed to go out, not in the hoodie for once but in the dress with the small flowers, the one he can't see the colour of and has never once been able to stop looking at, and her hair is up, and she's holding a basket she has packed herself and won't let him look in.
+“Mai wants me to get something wide enough to sew through,” she tells Mau. “For something she says Momo will be able to take off one-handed. I want to buy something pretty while I'm there. Come with me?” ʸ
 
-“Anything,” he says. ᴹ
+He's on the step, trying to work out how much breakfast he can have without putting his cup down. She says it as if it's all right whether he has the morning open or not. He has the morning open. There's a whole hour before anyone was going to ask him a question and he has already started finding ways to give it away.
 
-“You haven't heard it yet.” ʸ
+“Yes,” he says. “Let me do one thing first.” ᴹ
 
-“Anything,” he says again. ᴹ
+She takes the cup from him so he can do it. He sits long enough to ask Ciel if Bellion has the watch through supper. The men who were out last night are starting to come in. Ciel has put their route on the board for Rimuru. There'll be messages over the river because Maru told them he was sending two wagons as far as the old ford. Mau can picture them waiting where the wheel ruts cross. He tries to decide whether the next thing he needs to do is see it.
 
-She looks at him. Her mouth does the thing.
+*Will you take those messages until I'm back?* he asks. ᴹ
 
-“You don't check on anyone,” she says. “All day. Not the soldiers. Not the anchors. Not the house. Not Ori. Not Jin-Woo's family on the road. Not Mai's line. Nobody.” ʸ
+*Yes. Do you want me to talk to Bellion directly?* ᶜ
 
-He goes still.
+*Please. If something has to come to me, call me.* ᴹ
 
-“Ciel can watch,” she says, quickly, before he can say anything. “I asked her. She'll watch all of them for you. She'll call if something's actually wrong. *Actually* wrong. Not *someone sneezed*. And if she doesn't call, you don't look.” ʸ
+Ciel agrees. He feels the part of his attention that was going to look down every line stand there for another second before he brings it back. Yuka has set the cup where he can get it. She's looking under the basket for a thin ribbon to tie round the handle before she takes it through the market.
 
-She holds the basket a little tighter.
+“I asked Ciel to take the watch reports,” he says. ᴹ
 
-“One day,” she says. “Where I'm the only one you're looking after.” ʸ
+She looks up. “Is it a good morning for it?” ʸ
 
-* * *
+“I don't know. I want to go with you anyway.” ᴹ
 
-He doesn't answer straight away.
-
-It's not that he doesn't want to. He wants to more than almost anything. It's that he doesn't know if he can.
-
-He's never done it. Not once. Not since the first soldier stood up out of the ground and knelt. Every hour of every day, asleep and awake, there's a part of him running along the lines: six thousand and more of them, out of him into the shadows, into the anchors in people's shadows, into the house, out along the roads. Checking. Not on purpose. It's like breathing. It's like the way your hand goes to your pocket to check your keys are still there.
-
-He doesn't know what he'd be without it.
-
-*I've got them*, says Ciel. Inside, very quietly. *I promise. If anything happens, anything, I'll call. You'll know before it's finished happening.* ᶜ
-
-*You've never done it alone.* ᴹ
-
-*I've never been asked*, says Ciel. *I'm being asked now.* ᶜ
-
-He looks at Yuka on the porch in the dress he can't see, with the basket he can't look in, waiting.
-
-“Yes,” he says. ᴹ
+Yuka leaves the ribbon untied and sits down next to him with the basket on both their knees. She rests her chin on his shoulder. There's just enough of his tea left for another swallow. She doesn't move until he takes it.
 
 * * *
 
-The first time his hand goes to the lines, they haven't even reached the bottom of the hill road.
+The material Mai wants is at the back of a shop that sells harness and straps in lengths. The woman who runs it has some scraps tucked by the window for repairs. Yuka puts one between her teeth long enough to see whether it will take the mark and then remembers that the woman is looking at her.
 
-He doesn't notice it happening. He's walking beside her, and she's telling him about something Umaru said at breakfast, and somewhere in the back of him his attention just slides off sideways, down the nearest line, the way it always does, toward the house. Toward the soldier at the foot of Ori's stairs. Just to check.
+“That's for a rider's shoulder,” the woman tells her. “If you want something that pulls tighter in the air, try that one.” ᵃᵗᵗ
 
-He catches it halfway.
+Yuka gets Mau to hold the two ends while she twists it. She asks what he thinks. He tells her the smaller one feels better across the hand. She wants to know which one he'd look for if the buckle went round behind him when he had to undo it. He closes his eyes and finds the other one first. Yuka buys both and writes down what she noticed on the back of the paper the woman uses to wrap them.
 
-He stops walking.
+“Mai's going to ask,” she says. “I'd get halfway through telling her and find out I'd given her the wrong one.” ʸ
 
-Yuka stops too, and looks at him.
+They can see the ribbon stall across the road. She has a look at it out the door and then down at him, standing there with both straps tucked under his arm. She takes those away from him and puts them in inventory through his hand when he opens it for her. Then she holds on to his thumb and pulls him out into the light.
 
-“You were going to,” she says. ʸ
-
-It isn't an accusation. She's watching his face very carefully.
-
-“I was going to,” he admits. ᴹ
-
-“Did you?” ʸ
-
-He thinks about it. He pulls his attention back, out of the line, the whole length of it, and folds it up, and puts it away, the way you'd put away something you'd picked up without meaning to.
-
-“No,” he says. ᴹ
-
-She looks at him a moment longer. Then she reaches out and takes his hand, the one that went for the line, and holds it in both of hers, as if to keep it busy.
-
-“Good,” she says. ʸ
-
-They walk on.
-
-* * *
-
-The town is full of things she wants.
-
-She wants all of them. That's the thing he learns, by about midmorning. She's always been like this, a little, but today it's as if somebody has taken the lid off. She stops at every stall. She picks things up. She holds them out to him, and asks him, and doesn't wait for the answer, and buys them, or makes him buy them, or puts them down and moves on to the next thing she wants.
-
-A stall with hair ribbons. She makes him choose one. He can't see the colours. He chooses by the feel of the cloth, and the shape, and the way the light moves on it, and holds it up, and she looks at it and goes quiet.
+At the stall she asks him to choose one. He rubs two between his fingers. The first has stiff ends. The second catches for less than a breath on the place the bandage used to go. He holds it up. Yuka looks at it and goes quieter than he expects.
 
 “That's the colour of my eyes,” she says. ʸ
 
@@ -95,132 +55,100 @@ A stall with hair ribbons. She makes him choose one. He can't see the colours. H
 
 “You didn't know.” ʸ
 
-“I can't see it,” he says. “I just thought it looked like you.” ᴹ
+“I thought it suited you.” ᴹ
 
-She turns round. There's a stall across from them selling hats. She gives it a very close look while Mau pays for the ribbon.
+She turns her back to him and puts her hair in his hand. He doesn't know what he's doing until she reaches back and puts the ribbon where his fingers can find it without losing the hair. The next time he tries, she dips her head too early and he loses the part he's already tied. She asks what he's waiting for. He tells her a kiss would give him a second to remember which end he had, and she tilts her chin so he can get one from where he's standing.
 
-“Turn back a little,” he says. ᴹ
+He gets the knot in at last. The woman at the stall has wrapped the hairs that got caught in her counter clasp around a reel so she can get them out again without pulling them.
 
-She turns just her head.
+“Do you want your change?” she asks. ᵃᵗᵗ
 
-“The other way. Let me put it on you.” ᴹ
+Yuka looks back at Mau. “Do we?” ʸ
 
-She backs into him at once and gives him her hair to hold. He gathers it at the nape, losing half of it on the first try. She tries to see over her shoulder and loses the other half for him.
-
-“Hold still,” he says, laughing. ᴹ
-
-“You have to kiss me while I wait.” ʸ
-
-He finds her cheek from behind and kisses it, then again, a little lower, when she tips her chin to make that easier. She holds perfectly still after that. By the time the bow is tied she has his other arm around her waist, right in the open street, and the stallkeeper has had to ask them twice whether they need their change.
-
-Yuka buys the largest hat across the way. It has a brim nearly the width of a cart wheel and a spray of something that might be fruit. She sets it on Mau's head with both hands.
-
-He looks up. He can see the hat. He can see her, leaning in under it. The rest of town has pretty much gone away.
-
-“This is a very impractical hat,” he tells her. ᴹ
-
-“I can still see you.” ʸ
-
-He pulls the brim down over the two of them and kisses her where nobody in the street can see. When he lets it up again she has one hand still clamped on the crown, as if he might get ideas about taking it off.
-
-“You can let go,” he says. “I'll wear it.” ᴹ
-
-He does. Three separate people stop him before lunch to say they admire it. He tells every one of them his wife picked it.
-
-At the sweet stall he gets two of every flavour in twisted paper. Yuka eats both of the first pair, puts the wrappers in his palm like this is his part of the arrangement, then goes to reach for the next one. He holds it an inch out of reach.
-
-“That one's sour,” he says. ᴹ
-
-“I know.” ʸ
-
-“You made a face last time.” ᴹ
-
-She attaches herself to his arm with both hands. “So watch me make it again.” ʸ
-
-He unwraps it for her. She makes exactly the face he remembers. He buys another little packet of those for later.
-
-The river steps. They sit on them in the sun and eat out of her basket. She's packed it with the best of yesterday's breakfast: the small round things from the island that survived, the honey cake, the good fish in bread. And a flask of tea. And, at the bottom, wrapped in a napkin folded into what is definitely a dragon, two of the small sharp pickles.
-
-He looks at them.
-
-“Ori packed those,” says Yuka. “She said it wouldn't be right without them.” ʸ
-
-He doesn't move them to her side. He doesn't need to. She takes them both before he can.
+The stall across the road has hats. They spend the change on a very small one for Ori. Yuka sends him back to ask the price of another, almost big enough to put both hats under. Yuka tries the larger one on him, and the first thing he does when he realises how far down it will go is pull it over both their faces and kiss her again. He keeps it on because two stalls down there are three people with something to say about it, and it's making Yuka laugh too hard to argue with him about which sweet is sourest.
 
 * * *
 
-The second time his hand goes to the lines, it's worse.
+The little hat keeps trying to get out of the basket. At the last stall before the food, Yuka turns it upside down and has the man put the little animals she's bought in it. There's a dragon carved sitting up like a dog. Neither of them can get a whole word out about it in front of the man who made it. They make it three stalls farther down before Yuka turns to Mau and says, “Kamish could do it if he wanted to.” ʸ
 
-They're on a bench by the river after lunch, and she's fallen asleep against his shoulder in the sun, with the hat over both their faces to keep the light off, and it's very quiet, and there's nothing for him to do. And when there's nothing for him to do, the old thing comes.
+The woman at the end of the street cuts the flatbread into four and asks if they want both plates. Yuka tells her one will do. Mau knows before he sits down that he's going to eat one end of a piece and give up the other.
 
-His attention slides out. Down every line at once. To the house. To the road. To the clinic. To Mai. To Makima in the north wing and Jin-Woo's family and the soldier with the view in Elmesia's little room and Ori, Ori, Ori, *where is Ori*—
+She pulls the bench closer when he sits. “Tell me what the first bite's like,” she says. ʸ
 
-He stops it.
+He takes it. There's a little smoke in the sauce, and the bread is hot enough that he has to turn it over once. He tells her the bit nearest her has got cheese all the way to the edge. She eats where he bit in instead. He notices and has another bite from her side when she turns to get the cups. They get to the last piece without speaking to the people at the next table. No one expects him to know which table they're at or when they'll go.
 
-It's harder this time. It's like stopping a horse that's already running. He feels it drag at him, the whole weight of six thousand lines and the habit of a lifetime, and he holds it, and holds it, and then pulls it back, all of it, line by line, and folds it away.
+Further down the street a wagon rattles over the stones. He looks up before he knows why. In another place it would have been the sound of somebody getting home and stopping outside to unload. Here it's a man on the way through, with the wooden rims of his wheels half dry where he crossed water. Mau can see the part that knocks every time it comes round. He has a second of wanting to find out which way the wagon went before he sets down the piece of food he hasn't eaten.
 
-His heart is going very fast.
+“Do you want this other half?” Yuka asks. ʸ
 
-*It's all right*, says Ciel. *Everyone's all right. Ori's in the orchard with Beru and Kamish. She's teaching Kamish to sit. It isn't going well. Nobody is in any danger except Kamish's dignity.* ᶜ
+“After a minute.” ᴹ
 
-*You said you wouldn't tell me unless it was wrong.* ᴹ
+She doesn't move the plate. He puts his hand flat beside it. There's a little grain from the bread under the heel of that hand. He rubs it away and picks it off the bench before he can forget the bench is here.
 
-*I said I wouldn't call*, says Ciel. *I didn't say I wouldn't tell you when you asked.* ᶜ
+“I'm tired,” he says. ᴹ
 
-*I didn't ask.* ᴹ
+Yuka is halfway to pulling the basket up under the table. She puts it back down. “Do you want to go home?” ʸ
 
-*Your heart did*, says Ciel. *Very loudly. Go back to sleep. She's asleep on you. That's your job today.* ᶜ
+“I want to be here. Somewhere I can put my head down for a bit.” ᴹ
 
-He breathes out.
+“River?” ʸ
 
-Yuka stirs against his shoulder. Under the hat, she mumbles something.
-
-“You were going to,” she says, half asleep. ʸ
-
-“I didn't,” he says. ᴹ
-
-“I know.” She settles again. “I felt you not.” ʸ
-
-He sits very still on the bench in the sun, with the river going by and the hat over both their faces and his wife asleep on his shoulder, and doesn't check on anyone.
-
-It's the strangest feeling. Like standing at the top of a cliff. Like the first step out onto ice.
-
-After a while, he falls asleep too.
+He nods. She holds the last piece while he settles up and eats a small bite of it before she gives it back to him in the street, where he has to keep the hat up with the other hand.
 
 * * *
 
-Ciel doesn't call once.
+The steps near the river are warm enough to sit on. They go past them to a bench with a back high enough for the hat to rest on. Yuka sets the basket by their feet. She gets one leg up beside him and folds the hem of her skirt underneath it.
 
-Not all day. Not when they wake up on the bench with the sun gone round and the hat fallen off. Not when Yuka drags him to a stall that sells nothing but small carved animals and makes him find one for every person in the Fort. Not when they walk back up the hill road in the evening, slowly, with her hand in his and the hat on his head and the basket empty and full of small carved animals.
+He starts to find a way to lean against the back of the bench. She passes an arm behind his head from the other side.
 
-Not once.
+“You can put it here,” she says. ʸ
 
-At the top of the hill road, where the house comes into sight, he stops.
+He turns so his cheek comes to rest against her chest. For the first breath he lifts his shoulder without knowing he's done it. Yuka feels the space and fits her arm underneath. He lets it go. The brim catches on her elbow. She puts the hat on the basket instead, so he can stay where he is without holding anything up.
 
-He looks at the house. Lit up in every window. Ori on the porch with Beru, waving both arms. Smoke from the kitchen chimney. Everything exactly where it should be.
+It's busy across the water. On this side there is a bird under the bench trying to make up its mind about the bit of paper at their feet. Yuka has a hand flat between his shoulders. She keeps it there when he goes heavier against her.
 
-He didn't check once. And it's all still there.
+“Will you stay where you are if I go to sleep?” he asks. ᴹ
 
-He doesn't know what to do with that. He holds it in his chest, the way he held the laugh this morning.
+“I put you here,” she says. ʸ
 
-Beside him, Yuka has the notebook out. She's standing in the last of the light with the pencil in her hand, looking down at the list.
-
-She makes a tick.
-
-He doesn't see which line. She tilts the page away from him, the way she did at breakfast. But he sees her face while she does it. Very quiet. Very satisfied. A little wet at the eyes.
-
-“Which one was that?” he says. ᴹ
-
-She closes the notebook and puts it in the basket with the carved animals.
-
-“You'll never know,” she says. ʸ
-
-And she pulls the hat down over his eyes and runs the rest of the way down the hill to Ori, laughing.
+He laughs once against her and can't remember to lift his head again. A few minutes later she feels the rest of his weight come down.
 
 * * *
 
-*One day where I'm the only one he's looking after.*
+He wakes when Yuka puts the hat on him.
 
-That's what the line says. He never finds out.
+She has got one of the ribbon ends caught between them. He lifts his head far enough to pull it out. She asks him to sit still while she checks whether the knot held. It did. He can see it moving above her shoulder.
 
-Tonight, he only knows that he didn't look, and nothing broke.
+“Did Ciel call?” he asks. ᴹ
+
+“No. The man selling sweet chestnuts came by twice. I asked him if he'd save some for us on the way back.” She puts the basket back between her feet. “You slept most of an hour.” ʸ
+
+He sits up. She gets the paper parcel and gives him the last of the sweet from the market. It's warm from her hand and sour enough to make him put the heel of his thumb in his mouth for a second. She laughs when she realises she's made him make her face.
+
+They're getting up when Ciel passes him word that both of the wagons made it back. She says the northern bank will want a look tomorrow. He asks Bellion whether somebody can leave a mark by the bend before they go back. Bellion says it's done. Mau tells Yuka what the message was. She's putting her arm through his and looking for a route that lets her keep the hat between them all the way up the street.
+
+* * *
+
+He takes the basket on the last part of the road. Ori meets them at the gate with Pillow taking up more of the path than she thinks he is. Lantern pokes his head out beside her and tries to get a piece of the paper that's sticking over the edge. Mau gives Ori the small hat before Lantern can eat it.
+
+She puts it on him instead. It stays briefly, almost in the place it should.
+
+“Mine?” Ori says. ᴼ
+
+“Yours,” says Yuka. “We've got something to leave with Mai. Walk with us?” ʸ
+
+Ori takes Yuka's other hand and directs them straight up the steps to the workshop. Momo is in the doorway, trying to make a shoulder strap stay where she put it. When Mai sees the basket she clears a place on the bench and tells Mau to give her his hand for a minute. Momo has to hold her own strap up with one elbow. Mau lifts it for her while Mai tests the two buckles.
+
+“Which of you asked for it?” Yuka says. ʸ
+
+“Ask her,” says Mai, without looking up. ᴹᵃ
+
+Momo takes the strap out of Mau's hand. She tries the new buckle without taking her left hand off her broom. It comes apart on the first pull. She looks at Mai. “That's the one. I can get that off in the saddle.” ᴹᵒ
+
+Mai's head goes very slightly up. “When you get in the saddle.” ᴹᵃ
+
+“You asked me.” ᴹᵒ
+
+“I did.” ᴹᵃ
+
+Yuka finds Mau's hand again. She had wondered what they'd do with the whole afternoon once they'd bought the things they came for. She remembers waking him with the hat still in her hand and the little line the bench had put into his sleeve. She watches Mai turn the buckle over, reach out with it, and let Momo be the one to show her where it goes.

@@ -153,13 +153,7 @@ Nobody says anything.
 
 Not a word. The whole table goes on being ordinary at the top of its voice. But Mau can feel it, all round him, like warmth from a fire. Umaru has her hands pressed flat on the table and is staring very hard at Milim. Mai, across the table, has put down her spoon and is looking at the ceiling with her jaw set, blinking a great deal. Shuna has turned round to the stove and isn't doing anything at it.
 
-And at the far end, beside the empty chair where he nearly sat, Ori has stopped eating altogether.
-
-She's watching them. Her pencil is in her hand.
-
-She opens her notebook under the edge of the table, where she thinks nobody can see, and makes a very small, very careful mark. A tick.
-
-Then she closes the notebook. She's got the whole wrapper off hers and is deciding what to do with it.
+At the far end, beside the empty chair where he nearly sat, Ori leans over to tell Frieren something. It makes Frieren look down the table. She looks away a little too fast, which means Ori knows she saw. Mau watches their daughter get the whole wrapper off her own dumpling and try to put it on Beru's spoon without turning round.
 
 * * *
 

@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 6
 **Source episode:** S13E141
-**Continuity state:** B+467 ("20"), evening into night. Yuka's point of view. She doesn't plan a setting. She doesn't ask anyone. After supper, on the porch step, with the house going in behind them, she gives him the notebook open at the last line of the long list, the one she wrote yesterday, and then says it out loud anyway, in her own words, plainly: that the breather is over, because she's decided it is; that she isn't frightened of hoping anymore; that she wants him. She tells him she noticed he never once asked, and that's part of why. Mau, who has waited three months without making her guess, asks one thing: is she sure? She is. They go upstairs. Yuka leads their reunion, asks to hear what Mau wants, and holds him until they both fall asleep. In the morning she ticks the last line of the list. The pause that began in V80 #6 ends here, in Yuka's own words.
+**Continuity state:** B+467 ("20"), evening into night. Yuka's point of view. She doesn't plan a setting. She doesn't ask anyone. After supper, on the porch step, with the house going in behind them, she asks him to sit with her, and tells him plainly: that the breather is over, because she's decided it is; that she isn't frightened of hoping anymore; that she wants him. She tells him she noticed he never once asked, and that's part of why. Mau, who has waited three months without making her guess, asks one thing: is she sure? She is. They go upstairs. Yuka leads their reunion, asks to hear what Mau wants, and holds him until they both fall asleep. The pause that began in V80 #6 ends here, in Yuka's own words.
 
 *When: B+467. "20." Under it, in Yuka's hand, one word, written very small and then gone over twice so that it's darker than everything else on the page: "mine".*
 
@@ -25,13 +25,11 @@ He sits.
 
 He looks at her. He doesn't ask. He's learned not to ask. He just waits, with his hand in hers, the way he's waited every night for three months.
 
-She takes the notebook out of the hoodie pocket.
+She puts her feet on the step below so she can turn and face him. The house has been loud all evening. Even here she can hear a chair scrape that means someone else has a reason to get up. She had thought she'd be grateful if someone came out at exactly the wrong moment and gave her a reason to wait. As soon as she looks at him she finds she wants the whole minute for herself.
 
-She opens it to the back. To the list. The long one. She's had her thumb on the last line since the kitchen. The one she left a space for on the first morning on the wet grass, and wrote yesterday in the workshop with jam on her fingers.
+“Will you stay a little longer?” she asks. ʸ
 
-She turns the book towards him. He can see the checked boxes all down the page. He can see the space under her thumb. When his eyes lift to hers, she nearly moves it. She's carried those words all the way from the workshop, and letting him read them would be easy.
-
-She keeps her thumb where it is. He looks at her face and goes very still.
+He moves his cup behind them. The two of them fit on the step without any space for it now. That's fine with her. She was going to have to find a place to put her hand. She puts it on his knee.
 
 She's already decided she's going to say it out loud anyway. Writing it down isn't enough. Writing it down is still a little bit hiding.
 
@@ -83,7 +81,7 @@ It doesn't frighten her.
 
 He looks at her a moment longer.
 
-Then he looks down at the notebook in her other hand, still open to the list. He reaches out and closes it. Gently. With his thumb. And puts it back in the hoodie pocket for her, and his hand stays there, on the outside of the pocket, over the notebook, over her.
+He turns his hand over beside hers. She takes it, and then she has to let go to put both arms round him.
 
 “Okay,” he says. ᴹ
 
@@ -285,14 +283,4 @@ Her fingers find the back of his shirt. She takes a little of the cloth in her h
 
 * * *
 
-In the morning, she writes it in the notebook.
-
-Under *20*. Under the word she wrote the night before and went over twice. In the space she'd saved at the bottom of the long list, beside the last line, she makes a tick.
-
-Then she looks at the list. All of it. Every line. Every tick.
-
-She closes the notebook.
-
-She doesn't need the list anymore.
-
-She puts it under her pillow anyway. Some things you keep.
+In the morning she hears him breathe in and listens to the rest of it. The room is brightening one narrow strip at a time across the bed. She could put her hand out in it to see where the light starts. She puts it back across his waist and waits for him to wake up.

@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 1
 **Source episode:** S13E119
-**Continuity state:** B+435, dawn into early morning ("52"). Mau walks north with Makima at his side; Noise and Ciel are with him inside, and DIO stays by Ashborn's protected space. His whole army stays folded in his shadow; the plan doesn't need it. He left Beru on the porch on purpose, for Ori. On the hill road Makima tells him plainly to kill them. Mau says no. Makima explains how devils work: one that dies on Earth goes to Hell, and one that dies in Hell is born again on Earth, remembering nothing: not the house, not him. So it isn't really killing. Mau asks what else there is. Makima: they're fears with bodies, concepts; there isn't much else to do. Mau doesn't forget Yuka's "Okay". Ciel reports to Rimuru: technical only.
+**Continuity state:** B+435, dawn into early morning ("52"). Mau walks north with Makima at his side; Noise and Ciel are with him inside, and DIO stays by Ashborn's protected space. The legion stays folded in his shadow; the plan doesn't need it. Kamish is the exception when they get to the basin. He left Beru on the porch on purpose, for Ori. On the hill road Makima tells him plainly to kill them. Mau says no. Makima explains how devils work: one that dies on Earth goes to Hell, and one that dies in Hell is born again on Earth, remembering nothing: not the house, not him. So it isn't really killing. Mau asks what else there is. Makima: they're fears with bodies, concepts; there isn't much else to do. Mau doesn't forget Yuka's "Okay". Ciel reports to Rimuru: technical only.
 
 *When: B+435. Dawn, and the first hour after it. Yuka wrote "52" on the porch and then, under it, something that isn't a number.*
 
@@ -25,7 +25,7 @@ DIO isn't at the table. She's taken a chair near the door to Ashborn's protected
 
 And under all of it, under the table and the cups and the scout images, folded down into the dark where the shadow goes when he isn't using it, the army.
 
-Six thousand and more. Igris. Kamish. The ones he brought up out of the gates, rank on rank. All of them quiet, all of them waiting, the way they've waited every day since the first one stood up out of the ground and knelt.
+Igris, with the companies that know this work. Deep behind him, the ranks added in gates Mau has never had reason to name aloud. There are more ways to answer the sight in front of him than there are people at the table.
 
 He doesn't call them.
 

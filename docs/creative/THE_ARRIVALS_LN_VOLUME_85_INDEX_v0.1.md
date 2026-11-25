@@ -16,7 +16,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 2 | S13E137 | Gojo Asks | `THE_ARRIVALS_S13E137_LN_CHAPTER_02_GOJO_ASKS_v0.1.md` |
 | 3 | S13E139 | The Knot | `THE_ARRIVALS_S13E139_LN_CHAPTER_02_THE_KNOT_v0.1.md` |
 | 4 | S13E140 | Pears | `THE_ARRIVALS_S13E140_LN_CHAPTER_01_PEARS_v0.1.md` |
-| 5 | S13E140 | The Long List | `THE_ARRIVALS_S13E140_LN_CHAPTER_02_THE_LONG_LIST_v0.1.md` |
+| 5 | S13E140 | Jam on Her Hands | `THE_ARRIVALS_S13E140_LN_CHAPTER_02_THE_LONG_LIST_v0.1.md` |
 | 6 | S13E141 | In Her Own Words | `THE_ARRIVALS_S13E141_LN_CHAPTER_01_IN_HER_OWN_WORDS_v0.1.md` |
 | 7 | S13E141 | The Morning After | `THE_ARRIVALS_S13E141_LN_CHAPTER_02_THE_MORNING_AFTER_v0.1.md` |
 | 8 | S13E142 | Expedition Two | `THE_ARRIVALS_S13E142_LN_CHAPTER_01_EXPEDITION_TWO_v0.1.md` |
@@ -47,7 +47,7 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 - Direction: Mauri, 23 November 2026 (ideas for the forty-eight days; reconciliation; Gojo's rematch; ~50 chapters), saved word for word in `the_arrivals_story_board/S13_SIMURIANS_THEN_DEVILS_PLANNING_2026-11-21.md`.
 - **Gojo's rematch moved to after Yoru** (Mauri, 24 November 2026): the fight chapters *For Real* and *Two Purples* were taken out of reading order and parked in `the_arrivals_story_board/future_drafts/gojo_rematch_claude_2026-11-24/` with Mauri's notes. #2 Gojo asks; Mau says yes, after Yoru; Gojo takes his turn on the house gate turned all the way up. *Good Strange* (Shoko, the morning after) was also parked there until Gojo and Shoko's canon is reread (they live in the same house, in separate rooms by Shoko's orders).
 - #1 Beatrice joins the Fort ("even against the library"). #3 the wheel undoes her contract; she stays by choice.
-- #6 *In Her Own Words*: Yuka ends the pause on the porch and tells Mau what she wants. He sees the checked list while she keeps the last line to herself. At #20 she chooses to tell him what it said.
+- #6 *In Her Own Words*: Yuka asks Mau to stay on the porch and tells him what she wants. At #21 they talk more about the future they're making together.
 - #8–10 expedition two: the REST HERE stone, Kamish's fire told at Ori's size, the valley of everyone's pears. Ori brings her own compass, originally found by Gojo and given to her by Frieren. EXPEDITION THREE is an arrow off the map.
 - Seeds, not resolved: #11 Dabura's hands trace the wheel (memory taken, hands missed; filed "for when he wants it"). #22 Cross's harmless questions add up to a map; nobody moves, everyone watches. #23 Rika chooses a second ring (Yuta's katana raised to high grade alongside); Noise reads her for the snapshot (a save copy that dies in her place once, then must be remade).
 - #18 Frieren and Himmel: she wants time to know him; the elf route recalled. Confirmed by Mauri.

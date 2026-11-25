@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 32
 **Source episode:** S13E118
-**Continuity state:** B+435 before dawn ("52"; notebook from B434 says "53"). After scout confirmation the house places Gojo at the return route and Bellion’s watch on approaches while Mau goes forward with only his internal participants. Reports remain open through Ciel/Rimuru, private conversations closed. DIO stays inside and is not an extra combatant; Ashborn’s protected space remains closed. Frieren knows the aftermath of the selected replay, not a memory secretly broadcast to her. Yuka’s apology is interrupted by the surge; Mau’s line about Makima is meant as reassurance but hurts her. They leave hand in hand as friends. Yuka starts her list; S13 continues into the next arc.
+**Continuity state:** B+435 before dawn ("52"; notebook from B434 says "53"). After scout confirmation the house places Gojo at the return route and Bellion’s watch on approaches while Mau goes forward with only his internal participants. Reports remain open through Ciel/Rimuru, private conversations closed. DIO stays inside and is not an extra combatant; Ashborn’s protected space remains closed. Frieren knows the aftermath of the selected replay, not a memory secretly broadcast to her. Yuka’s apology is interrupted by the surge; Mau’s line about Makima is meant as reassurance but hurts her. They leave hand in hand as friends. Yuka and Ori wait together and write down news as it comes through Rimuru.
 
 *When: B+435. The hour before dawn. Nobody slept. The kitchen table is still set from dinner; Shuna hasn't cleared it, and nobody has asked her to.*
 
@@ -295,24 +295,14 @@ She writes:
 
 She looks at it.
 
-Then, under it, she starts writing something else.
+Under it she writes where Rimuru last said they were. She gets half a word into what she would have said if Mau hadn't had to leave and stops. It's something she'd have to say where he can hear how she means it. She rests the point of the pencil on the paper and waits for Rimuru to read the next message.
 
-Not a number.
+Ori comes down the steps and sits beside her. The grass soaks straight through the knee of her trousers. Yuka takes one side of the shirt she's wearing and fits it over that knee so Ori has something warmer against it. It's Mau's. Ori puts her hand on it until Rimuru calls from the porch again.
 
-A list.
+“Can I write where he is now?” Ori asks. ᴼ
 
-Her hand isn't shaking anymore. It's very steady. She writes the first line, and the second, and the third. Small, neat letters, the way she writes everything she means to keep.
+Yuka gives her the pencil. She puts an arm round Ori, who murmurs the name of the place once so she can get it right.
 
-Nobody on the porch can see what it says.
-
-Ori, holding Frieren's sleeve, watches her write it, and after a while, very quietly, lets go of the sleeve, and goes down the steps, and across the wet grass, and sits down beside her.
-
-Yuka doesn't look up. She moves the notebook slightly, so Ori can see.
-
-Ori reads it.
-
-She nods, very seriously, like a general receiving a plan.
-
-And they sit there together in the middle of the yard as the sun comes up over the hills, writing, while to the north, past the ridge, past the ruins, past everything, something old and hungry comes through into the world, and turns toward the only man it was ever looking for.
+They wait for the next message together, while to the north, past the ridge and the ruins, something old and hungry comes through into the world.
 
 **End of Volume 83.**

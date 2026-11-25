@@ -7,7 +7,7 @@
 **Source episode:** S13E122
 **Continuity state:** B+437 ("50"), morning to late afternoon. Yuka's point of view. She is afraid, and she knows she's the one who got it wrong, so she has to be the one who stands in front. She puts on her battle armour: the anthracite and papaya McLaren hoodie. She doesn't go into the clinic. She helps Shuna make Mau's breakfast and lets Ori carry it in. Breakfast in the clinic: Mau, Ori, Shoko, Gojo, Frieren, and Makima, whom Mau calls through the bond to come and eat and tell her part. Yuka, on the clinic step with the window open, hears Makima tell the war: the Stop, the three seconds he trusted her with. It hurts, and it's also the thing Yuka asked him for: he accepts help now. Mau goes back to sleep. All afternoon Yuka moves a little closer, one step at a time, and doesn't go in. Ori notices.
 
-*When: B+437. "50" in the notebook, in Yuka's hand, written at dawn at the kitchen table. Under it, the list. The fourth line is still crossed out. There is a fifth line now with a tick beside it: "breakfast".*
+*When: B+437. "50" in the notebook, in Yuka's hand, written at dawn at the kitchen table. She helped Shuna with his breakfast before the rest of the house came down.*
 
 The hoodie is a decision.
 

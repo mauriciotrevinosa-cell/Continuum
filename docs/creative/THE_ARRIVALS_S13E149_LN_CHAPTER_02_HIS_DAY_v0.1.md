@@ -5,238 +5,146 @@
 **Volume:** 85
 **Reading order:** 24
 **Source episode:** S13E149
-**Continuity state:** B+484 ("3"). Yuka turns her own line around. Weeks ago she asked for one day where she was the only one he looked after. Now she organises the reverse: one day where he's the only one the house looks after. Ori runs it like a war. He isn't allowed to check on anyone, carry anything, cook anything, or fix anything. Ciel watches the lines. Everyone brings him something small: Shuna the bread he made, Mai a clasp, Maki her best pin, Beatrice a book about fruit, Dabura a perfect pear, Gojo sweets he doesn't share, Makima nothing, because she just sits with him. He tries to help three times and is stopped three times. At the end of the day he says thank you to the whole table and can't finish the sentence. Three days to Yoru. Nobody mentions it.
+**Continuity state:** B+484. Yuka and Ori make room for Mau to spend a day at home with company and without taking the watch. Mai asks him and Kaisel for a short flight with Momo, using the harness made with the straps from town. Three days remain on the contract. Ori lends Mau her carved dragon.
 
-*When: B+484. "3." Under it, in Yuka's hand: "HIS DAY". Ori has added: "(ORDERS: DAD DOES NOTHING)".*
+*When: B+484, before breakfast.*
 
-“One day,” says Yuka. ʸ
+Yuka has his sleeve trapped under her hip. Mau pulls it once to let her know he's awake. She pulls it back, hard enough that he rolls all the way over into her.
 
-He's still in bed. She's sitting on him. It's very early.
+“Have you already talked to Ciel?” ʸ
 
-“One day,” she says again, “where you're the only one anybody looks after.” ʸ
+“Good morning to you too.” ᴹ
 
-He looks up at her.
+“Good morning. Have you already talked to Ciel?” ʸ
 
-“That's your line,” he says. “From the list. The town.” ᴹ
+He kisses her. She lets him finish, then puts her thumb under his chin and waits. He met Bellion before bed. His eyes are still half shut and he's already thinking he ought to find out whether all the carts made it past the ford overnight.
 
-“I know it's my line,” says Yuka. “I'm turning it round. It's yours today. You don't check on anyone. You don't carry anything. You don't fix anything. You don't cook anything. You don't help anyone with anything. Everybody else does everything, and you sit there and let them.” ʸ
+*The last one got through before dawn,* says Ciel. *Rimuru has the report.* ᶜ
 
-He opens his mouth.
+“You asked her,” he says. ᴹ
 
-“Ciel's got the lines,” says Yuka. “I asked her. She's very pleased. And Ori's in charge.” ʸ
+“I asked her to take it until supper. She said she'd do it while you slept, and that I should really see if I could get you to sleep past sunrise for once.” ʸ
 
-“*Ori's* in charge?” ᴹ
+Outside the shutters, somebody is trying to carry a stack of plates through the back door without making two of them touch. Mau listens to the run of careful little steps and the large crash at the end.
 
-“Ori's been planning it for four days,” says Yuka. “There's a map.” ʸ
+“Ori?” ᴹ
 
-* * *
+“Probably. She's drawing you a map.” ʸ
 
-There is a map.
+“Of my own house?” ᴹ
 
-Ori presents it at breakfast, standing on her chair. It's a map of the house, with every room drawn, and arrows, and times, and in every room a small stick figure with a crown on its head sitting in a chair, doing nothing.
+“She told me she'd like it very much if you acted surprised.” ʸ
 
-“Orders,” says Ori. ᴼ
+He looks down at his sleeve. Yuka hasn't moved a millimeter. He could ask about the plates. He could also put his head back down and find out what she's doing with the hand she's just managed to slip under his shoulder.
 
-The table goes quiet.
+“Can the map wait for a bit?” ᴹ
 
-“Dad does nothing,” says Ori. “All day. That's the main order. If you see Dad doing something, you stop him. If Dad tries to carry something, you take it. If Dad tries to fix something, you sit on him. If Dad tries to check on anybody, you tell Ciel and Ciel tells him off.” ᴼ
-
-*I will*, says Ciel, inside, with relish. ᶜ
-
-“Everybody brings Dad one thing,” says Ori. “Something small. Something you made or found or picked. That's the second order.” ᴼ
-
-She looks round the table.
-
-“Any questions?” ᴼ
-
-“What if he gets bored?” says Umaru. ᵁ
-
-Ori considers this.
-
-“Then he can be bored,” she says. “Being bored is allowed. It's still doing nothing.” ᴼ
+She frees enough of his sleeve to let him get his elbow around her.
 
 * * *
 
-He tries to help three times.
+At breakfast Ori spreads the map over the table and anchors all four corners with cups. The large shape on the porch is a chair. Mau knows because there is an arrow pointing at it that says *chair*.
 
-The first time is breakfast. Shuna comes to clear his plate and he picks it up to hand it to her, and Milim, beside him, takes the plate out of his hand so fast it whistles, and hands it to Shuna herself, and looks at him very sternly.
+“That's yours. The room behind you is still yours too. You don't have to go out this way if you don't want to.” She follows a path around the outside of the house with a finger. “But this is where I think you should eat your bread. It gets sun.” ᴼ
 
-“*Orders*,” says Milim. ᴹⁱ
+“Can I eat toast in the chair?” ᴹ
 
-The second time is mid-morning. He's on the porch, where Ori has placed him, in a chair with a cushion and a blanket, and Senku comes past with an armful of copper wire and drops a coil, and Mau is out of the chair to pick it up before he's thought about it.
+“Provided you don't toast it.” ᴼ
 
-Beru picks him up.
+At the far end of the table, Gojo quietly pushes his own plate toward Shuna. Milim catches him before the plate clears his elbow.
 
-Not the wire. Mau. Bodily, from behind, under the arms, and puts him back in the chair, and stands beside it with his arms folded until Mau stops looking at the wire.
+“Draw your own map.” ᴹⁱ
 
-The third time is the worst. The third time is Ori.
+Ori tells Mau she has Pickles working with her in the yard. He looks for the soldier near the wall. It steps out when Ori calls, the small dent on its head visible as it mirrors her salute with the wrong arm.
 
-She's in the yard with Pickles, the small dented soldier, teaching it to salute. Pickles is still very bad at it. And Ori trips over a root and falls, not badly, just onto her hands in the grass, and Mau is on his feet and halfway down the porch steps before he knows he's moving.
+“See?” says Ori. She changes arms too. “Now we're both doing it right.” ᴼ
 
-And stops.
-
-Because Ori is already getting up. On her own. And Pickles has gone down on one knee beside her and is holding out one shadow-hand, very carefully, the way it was taught. And Ori takes it, and gets up, and brushes off her knees.
-
-And turns round and looks at Mau, halfway down the steps.
-
-“*Orders*,” she says. ᴼ
-
-He goes back to his chair.
-
-*That was a good one*, says Ciel. *I didn't even have to tell you off.* ᶜ
-
-*She got up by herself*, says Mau. ᴹ
-
-*Yes*, says Ciel. *They all do, now. That's what you've been teaching them.* ᶜ
+By the time Mau finishes his toast, the map has become the place where Shuna writes *third loaf out at noon* because it's the nearest piece of paper. Yuka turns a cup over so the others can write underneath it. Then she steals the last bite of his toast while he's still watching Ori teach Pickles to turn around.
 
 * * *
 
-They bring him things.
+Mai finds him on the porch with a plate between him and Yuka. Shuna brought the warm heel of the loaf and sat long enough to eat the first buttered piece herself. The piece Yuka's tearing off now has both their teeth marks in it.
 
-All day. One at a time. Nobody arranged an order, but it falls into one anyway, the way things in this house do.
+“Before you tell me nobody's allowed to ask you for anything,” says Mai, “would you like to watch something?” ᴹᵃ
 
-Shuna comes first. With bread. The house loaf. *His* house loaf, the one he made in lesson two, which she's apparently been making the same way every morning since. She puts it on the arm of his chair and doesn't say anything and goes back to the kitchen.
+Behind her, Momo has the harness over one shoulder. There's a red strip running the length of the new seat, folded over at the joins. Mau held the strip by both ends for Yuka at the market. He can still remember the twist she put in it while they tried to work out which way it would pull. He can see how much of it she ended up cutting away.
 
-Mai comes with a clasp. Small. Silver, Yuka says later, which he can't see. For his cloak. She doesn't explain it. She puts it in his hand, and goes, and then comes back two minutes later and explains every part of it, the joins and the cost and why the pin is set at that angle, for twenty minutes, while he listens to every word.
+“We hung it up in the workshop,” says Mai. “It carried me. It carried her. It carried her and the entire bin of scrap she insisted was the same weight as you.” ᴹᵃ
 
-Maki brings a pin. Her best one. The thirty-first. Perfectly straight, with a round head. She drops it in his lap without a word and walks away very fast, and Mai, in the workshop door, watches her go with her hand over her mouth.
+“It was approximately his weight.” ᴹᵒ
 
-Beatrice brings a book. About fruit. *For reference*, she says. *In fact.*
+“It was full of the bits I hadn't sorted yet.” ᴹᵃ
 
-Dabura brings a pear.
+Momo lifts the harness high enough to hide her face. She lets it come back down a moment later. “Would Kaisel let us go as far as the big trees and back?” ᴹᵒ
 
-One. From the wild valley; Kamish flew him there and back at dawn. Small and hard and terrible. He's chosen it with tremendous care. He holds it out in his enormous hand.
+Mau looks at Yuka. She's already picking up their plate. “I want to see how they get up,” she says. ʸ
 
-“I picked it,” he says. ᴰᵇ
+They go as far as the grass. Kaisel comes out on the stretch far enough from the yard that a wing won't lift Ori's map off the table. He turns his head toward Mai at the sound of the metal, watches her unroll everything, and folds down until she can reach over him herself. She makes the first loop. Momo walks around to the other side to take the buckle.
 
-Mau takes it.
+“Tell me if it shifts when he stands,” says Mai to Mau. She could have asked him to do the whole thing in a second. He stays where she can see his hands and watches the seam. Kaisel rises a little. The hitch stays straight. ᴹᵃ
 
-“It's better than the ones you don't pick,” says Mau. ᴹ
+“It holds.” ᴹ
 
-Dabura looks at him for a long moment. Then something happens in his huge face that Mau thinks, on anyone else, would be a smile.
+Mai checks it anyway. Then she goes up. She sets her knees where she put the marks on the seat and reaches back without looking. For a second Momo stands at Kaisel's side staring up at that hand. Mau saw the same look in the workshop when the two of them tried the buckle together. This time Momo takes it with a small jump that swings her up all the way.
 
-* * *
+“Did you bring the broom?” asks Mai. ᴹᵃ
 
-Gojo brings sweets.
+“I left it by the stairs.” ᴹᵒ
 
-A whole bag. The good ones, the ones with the twisted paper. He sits down on the porch step at Mau's feet and opens the bag.
+“You can go get it.” ᴹᵃ
 
-And eats them.
+“I know.” Momo slips both arms around her. “We can go.” ᴹᵒ
 
-All of them. One after another. Without offering a single one.
+Kaisel walks out first. At the end of the yard, with room for both wings, he takes them up. Mai's yell at the first drop turns into a laugh so quickly that Yuka laughs too. Momo keeps her face turned into Mai's shoulder until they're clear of the roof, then twists to point out where the tops of the trees are already turning. Mau loses sight of them behind the ridge for the length of time it takes Yuka to put her heel beside his and glance up to see if he's going to put an arm around her. He does.
 
-“These are for me?” says Mau. ᴹ
-
-“They're for you to watch me eat,” says Gojo. “It's very relaxing. You'll see.” ᴳ
-
-It is, a bit.
-
-When the bag is empty, Gojo crumples it up and puts it in his pocket and stays where he is, on the step, leaning back against Mau's chair, with his blindfold up and his eyes closed in the sun.
-
-He doesn't say anything else for an hour. Neither does Mau.
+On the way back Mai asks for another loop. She's close enough that he hears her this time. Kaisel banks gently and carries them around.
 
 * * *
 
-Makima brings nothing.
+Mai brings him a clasp afterward. She puts it in his hand with the pin folded in so he can work out the hinge for himself. He opens it, closes it, opens it again.
 
-She comes in the afternoon, when the light is going long, and sits down on the porch beside his chair. Not close. Near. On the boards, with her knees together and her hands in her lap.
+“You used this join up front too.” ᴹ
 
-She doesn't bring anything. She doesn't say anything.
+“You saw that?” ᴹᵃ
 
-She just sits there.
+“I saw you open it from below, with one hand.” ᴹ
 
-After a while, without looking, she holds out her hand. Sideways. Palm to palm.
+“Oh, good.” Mai pulls a second chair up. “Then you can tell me if you think I could get the catch a little smaller. Momo thinks it'll catch her sleeve when she gets off.” ᴹᵃ
 
-He takes it.
+Momo drops onto the step, both elbows resting on the seat between them. “I said it *caught* my sleeve. I can show you the thread.” ᴹᵒ
 
-They sit like that until the light goes.
+She finds it. There follows a discussion between the two of them over just how old that snag might be. Mau keeps opening the clasp. It's a lovely thing to do while he listens. Maki comes by with a better look at the torn stitch, slips her thirty-first pin into his free hand and takes her time turning Momo's sleeve inside out so he can get a look at what she's given him before he has to say anything.
 
-* * *
+Across the yard Ori takes a shortcut over the roots with Pickles. She comes down on both palms. Mau is up before he hears her say she's fine. She gets one foot under herself and holds out her hand. The soldier kneels and offers its palm as she taught it. When Ori sees Mau on the stairs, she shows him both knees.
 
-At supper, Ori makes him sit at the head of the table.
+“Only grass,” she calls. “Come see if you want.” ᴼ
 
-He doesn't want to. He tries to sit in his chair, under the window, beside Yuka. Ori stands in front of him and points at the head of the table until he goes.
+He goes down. He helps pull a piece of bark out of her cuff and hears the rest of the instructions she's been giving Pickles. By the time they come back up together, Gojo has claimed Mau's seat. He is very comfortable, one ankle on the other knee, eating the sweets he brought specifically for Mau to watch him eat.
 
-Everyone's there. Everyone. The whole house, packed round the long table, and the witches at the end, and the Simurians, Dabura and Maru and Tsurugi, and Jin-Woo's family down from the south road. Even Cross, at the very far end, quiet, polite, saying nothing to Mau, as agreed.
+“Are there any left?” asks Ori. ᴼ
 
-Shuna brings out the food.
+“Two.” Gojo gives her both. ᴳ
 
-He isn't allowed to serve himself. Yuka serves him. She sits on the arm of his chair instead of in her own, and puts food on his plate, and sets the pickles aside on her side of it herself, and steals them.
-
-He eats. Then he sets his chopsticks down and tugs gently on the hem of Yuka's hoodie. She looks down at his fingers, then at him.
-
-“Come off the arm,” he says. “I can only see one of your eyes from here.” ᴹ
-
-She swings her legs over and lands sideways against him, her heel catching briefly on the lower rung of the chair. He steadies her by the waist. The back of her neck is warm from the kitchen, and he kisses the spot where her hair has come loose. She turns into it at once, drops the pickle back on the plate, and puts one hand flat against his cheek so he can't go far.
-
-Ori glances down the table. “Dad is allowed to do that.” ᴼ
-
-“I should hope so,” says Yuka. She straightens only far enough to make room for his plate. ʸ
-
-Halfway through, he looks up.
-
-At all of them. The whole table. Talking. Laughing. Arguing about something. Ori explaining the map to Emilia. Rem and Umaru, hands under the table. Gojo and Shoko, not looking at each other. DIO, writing a letter on her knee. Frieren and Himmel, side by side. Maki with her pin on her collar. Dabura with a pear.
-
-He puts his chopsticks down.
+She brings one to Mau. They sit on the step to eat them. Later, when Gojo leaves and the sun goes behind the roof, Makima comes out with a coat. She sets it across the empty chair, waits for him to get his arms in, and stays to watch the others come back from the yard.
 
 * * *
 
-“Thank you,” he says. ᴹ
+At supper the pear Dabura brought from the valley is too hard to cut. Shuna takes it out of Mau's hand and promises to poach it tomorrow if Dabura will show her where he found the tree.
 
-The table goes quiet.
+“With Kamish?” asks Dabura. ᴰᵇ
 
-He didn't mean to say it out loud. He meant to think it. It came out anyway.
+“Ask him before you go this time,” says Kamish, from beyond the open doors. ᴷ
 
-They're all looking at him.
+Mau's laugh comes out through his nose. Yuka puts an arm behind his back, laughing because he is, and leaves it there after he gets his breath. At the other end of the table Ori is explaining the map to Emilia, who would like to know if there's a rule about flying over it. In the middle of it all, Mau tries to thank them. He gets as far as the words *these past few weeks* and puts his hand over his face.
 
-“Thank you,” he says again. “All of you. For today. For—” ᴹ
-
-He stops.
-
-He tries again.
-
-“For all of it,” he says. “The two weeks. The clinic. The plates under cloths. The sign on the door. Standing round the clinic in a ring. The bread. The—” ᴹ
-
-He can't.
-
-He can feel it coming up. The whole of it. Every week of the last two months. Every one of them, at this table, who did something, small or large, while he was behind a door. Who carried it while he couldn't.
-
-He puts his hand over his face.
-
-He doesn't finish.
-
-* * *
-
-Nobody says anything.
-
-Then Yuka, on the arm of his chair, puts her hand on the back of his neck.
-
-And Ori, standing on her chair at the other end of the table, raises the folded piece of paper with her orders on it.
-
-“*Orders*,” she says. Quite gently. ᴼ
-
-Mau takes his hand away from his face.
-
-“Dad doesn't have to finish the sentence,” says Ori. “That's an order. We heard it. We heard the whole thing. Dad can stop now.” ᴼ
-
-She lowers the spear.
+He's still holding Yuka's other hand. She rubs her thumb over his knuckle once. Ori waits for a space in the noise.
 
 “Dad can just eat,” she says. ᴼ
 
-He looks at her.
+Somebody asks her how soon the pear will be ready. She tells them it belongs to Dad. Then she hears herself say it, looks at Mau, and adds, “Dad can share the pear.” ᴼ
 
-Then he picks up his chopsticks, and eats, and the table goes back to being loud. And under it, quietly, Yuka steals his pickles, and Makima, down the table, raises one hand very slightly, and he raises his back.
+“He'd better,” says Yuka. She's almost in his lap. He moves his plate to let her finish coming over. Tomorrow he wants to be in the kitchen to see what Shuna does with the fruit.
 
-* * *
+Tonight there's a carved dragon on his pillow. Under it, a piece torn from the edge of the map, with a line in Ori's handwriting.
 
-Three days.
-
-Nobody mentions it. Not once. Not at breakfast, not at supper. Three days until the hour on the four hundred and eighty-seventh day, when the contract signed at a table by the sea runs out.
-
-Nobody says Yoru's name.
-
-But that night, when he goes to bed, there's something on his pillow. Where the notebook used to be.
-
-A small carved dragon. Sitting.
-
-A lend, says a note in Ori's handwriting, folded twice underneath it. *Not a give. For luck. For the day.*
+*A lend. For luck. As long as you need.*

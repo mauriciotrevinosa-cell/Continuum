@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 21
 **Source episode:** S13E148
-**Continuity state:** B+481 ("6"). Mau asks Yuka out. Properly. For the first time since before the island he plans something himself and doesn't ask anyone how. He takes her back to the valley of everyone's pears, by Exchange to Kamish's shadow on the far rim, at sunset, with a blanket and a basket Shuna packed without asking questions. The terrible wild pears. The stream. The stars, which are enough. He tells her something plainly, as she taught him: that for two weeks he was afraid she'd go, and now he isn't, and the difference is that she told him the truth when it was ugly. She tells him the last line of the long list. He'd already guessed. They stay under the trees, kissing and listening to the stream. They don't go home until it's very late.
+**Continuity state:** B+481 ("6"). Mau asks Yuka out. Properly. For the first time since before the island he plans something himself and doesn't ask anyone how. He takes her back to the valley of everyone's pears, by Exchange to Kamish's shadow on the far rim, at sunset, with a blanket and a basket Shuna packed without asking questions. The terrible wild pears. The stream. The stars, which are enough. He tells her something plainly, as she taught him: that for two weeks he was afraid she'd go, and now he isn't, and the difference is that she told him the truth when it was ugly. She tells him that she wants all the days they can have. They talk about going back to the island and getting up early enough to beat the bird. They stay under the trees, kissing and listening to the stream. They don't go home until it's very late.
 
 *When: B+481. "6." Under it, in Mau's hand, which still almost never appears: "date". Yuka has underlined it three times and drawn a pear.*
 
@@ -205,45 +205,21 @@ She pulls him back up to kiss him properly. By the time she lets him look for it
 
 Much later, she lifts her head.
 
-“I'll tell you the last line,” she says. ʸ
+“When I asked you to stay on the porch, I was going to ask you a different thing.” She moves up against him before it occurs to her to explain. “I wanted to know if you were still thinking about what we were going to do together in a year.” ʸ
 
-He looks at her.
+“Were you?” he asks. ᴹ
 
-“Of the list,” says Yuka. “The long one. The one I wrote in the workshop with jam on my fingers. You saw all my ticks. I kept my thumb over the last line, and you let me.” ʸ
+“I was thinking about next week at first. Then the other day you said Ori was going to need a bigger coat before it got cold, and I started thinking farther than that again.” She reaches far enough to take the edge of his sleeve. “I want tomorrow with you. And the rest of them.” ʸ
 
-“I didn't.” ᴹ
+“I was thinking about the island,” he says. “One of these days we should get over there before the first bird wakes up.” ᴹ
 
-“I know you didn't. That's why I'm telling you.” ʸ
+“The bird's up before you, every time.” ʸ
 
-She takes a breath.
+“I'm going to ask you to get me up at a terrible hour for it.” ᴹ
 
-“*Tell him I want tomorrow*,” she says. “That was it. That was the last line. Not the night on the porch. Before that. The thing under it. *Tell him I want tomorrow. All of them. With him.*” ʸ
+She rests her chin against him. “That's one tomorrow.” ʸ
 
-She looks at him.
-
-“I told you,” she says. “On the porch. In my own words. But I never told you that's what the line said.” ʸ
-
-He doesn't say anything for a moment.
-
-“I know,” he says. ᴹ
-
-She blinks.
-
-“You *know*?” ʸ
-
-“I guessed,” he says. “The morning after. You put the notebook under your pillow and said you didn't need the list anymore. And I thought, there's only one line that would make someone stop needing a list.” ᴹ
-
-Yuka stares at him.
-
-Then she hits him on the arm. Not hard.
-
-“You *guessed*,” she says. ʸ
-
-“I guessed,” he agrees. ᴹ
-
-“And you didn't *say*.” ʸ
-
-“It was yours to say.” ᴹ
+“Yeah. I'll come up with more.” ᴹ
 
 She looks at him for a long, long time in the starlight.
 

@@ -165,11 +165,25 @@ She twists the paper closed. She could tell him about the look on Mau's face aft
 
 “I bought the right number.” ʸ
 
-She leaves him at the orchard and takes the last bun to the porch, just before lunch.
+At the orchard they find Ori standing on the wall with both arms out, walking the top of it. Beru is taking a step every time she does. His hands are behind his back. This looks as though it has taken a great deal of practice.
 
-Mau is on the porch.
+“How do I get down on the other side?” Ori asks. ᴼ
 
-He's in the old chair, with a cup of tea, watching Ori and Beru at the training posts. He looks up when she comes round the corner.
+“There’s a stone below your left foot,” says Cross. “Back up one step. I'll show you.” ᶜʳ
+
+He goes over just below her, sets his boot on the stone and holds it there so she can see it from above. She gives Beru a look. He keeps his hands behind him while she finds it herself.
+
+“We've been going all the way round,” she tells Cross when she's on the ground. “Are there more stones like this?” ᴼ
+
+“Three on this wall. I can show you the other ones later.” ᶜʳ
+
+Ori looks over at Yuka. “Did you have a good walk?” ᴼ
+
+“I did. I brought Mau a bun. You can have anything you find that fell out of the paper.” ʸ
+
+Ori puts her hand in. It comes out dusted with sugar. “It's a very small bun,” she tells Beru, and licks each finger in turn. ᴼ
+
+Cross walks with them as far as the training posts. By the time Yuka reaches the porch he has a stick in his hand and Ori has him drawing the wall in the dirt so she can put the three steps on her map. When Mau looks up from his tea, she holds the bun high to show him that at least one of her errands has arrived intact.
 
 She puts the parcel down on the arm of the chair and climbs into his lap. She gets one good breath with her face against his shoulder before he asks if the bun belongs to him or if it's holding his side of the chair.
 
@@ -181,23 +195,33 @@ He puts his arms around her. “How was the walk?” ᴹ
 
 “Good. More than I was expecting. I'll tell you tonight, okay?” ʸ
 
-She stays there for a long time.
+They split the bun. He gives her the half with the sugar still stuck to the top. She gives him the corner of that half in return. By lunch the paper has gone translucent on the arm of the chair and neither of them has gotten up to throw it away.
 
-She's clingy all evening.
+In the evening Shuna sends Mau to the kitchen ahead of her to cut carrots. Yuka follows him through the swing door with two spoons and no intention of using either of them.
 
-She knows she is. She doesn't care. She follows him to the kitchen and sits on the counter while he helps Shuna with the vegetables. She steals a piece of carrot off his board every time he cuts one. At dinner she drags her chair round to his side and puts her knee against his and eats half of everything off his plate. On the sofa afterward she lies across him like a blanket and refuses to move when Umaru wants to change the film.
+“It's unfair if you stand there with both hands occupied,” she tells him. ʸ
 
-Mau moves the carrots to her side of the board. She reaches for the next slice before it is ready; he lifts the knife away and gives her the piece with his other hand.
+He slides the first slice toward her without interrupting his work. She eats it. He slides the second one. The third one she goes after before it clears the knife, and he lifts the blade away until he can put the piece in her hand.
 
 “Predatory,” he says. ᴹ
 
 “Married.” ʸ
 
-At dinner he hooks his ankle behind hers. On the sofa he draws her back when she stretches to reach the blanket, getting it from inventory before she can stand. She kisses his chin in thanks and tucks it around them both.
+“Then take the good spoon and taste this for me.” ᴹ
 
-“You're blocking the subtitles,” Umaru says. ᵁ
+She lifts the pot lid with a cloth. It takes her a while to fish a piece of potato out without letting all the broth run through the spoon. Mau comes over to see what she's doing. He could get his own spoon out of her other hand, where it's still tucked between two fingers. Instead he waits for her to blow on it and hold it up to him.
 
-They move together, barely, until she can see. Yuka resettles with her face against Mau's shirt. He has laughed with her, caught her hand, brought her closer. She has no reason to think those things cost him anything tonight.
+“Tastes like it needs salt,” he says. ᴹ
+
+“Really?” She dips the same spoon and tries it. “I think you just wanted another bite.” ʸ
+
+“I was hoping you'd give me your opinion first.” ᴹ
+
+She puts her hip against his, reaches around him and turns the heat down the way Shuna taught them both. “Give us another minute,” she calls when she hears Shuna at the door. ʸ
+
+“What are you doing to my pot?” says Shuna. ˢʰᵘ
+
+“Nothing,” says Mau over Yuka's shoulder, and Yuka loses the argument with the spoon laughing.
 
 At bedtime, she's lying on his chest in the dark, drawing shapes on his arm.
 
@@ -237,7 +261,7 @@ She falls asleep a minute later.
 
 Mau stays awake after her breathing settles. His hand keeps moving on her back, slowly, steadily. Once she stirs and presses closer; he bends his mouth to her hair until she relaxes again.
 
-He thinks about being able to see her hands and knowing why they shook. About how grateful he is that someone was there who finally understood. From the way she'd told it yesterday, he'd thought Cross had simply kept her company until she could walk.
+He thinks about being able to see her hands and knowing why they shook. About how grateful he is that someone was there who finally understood. From the stories she'd told him before Cross arrived, he'd taken that dinner conversation for a kindness somebody might forget by morning.
 
 He can see now what it would have meant to lose her after that.
 

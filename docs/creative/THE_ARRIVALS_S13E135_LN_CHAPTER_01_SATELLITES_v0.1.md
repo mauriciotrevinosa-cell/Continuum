@@ -9,6 +9,8 @@
 
 *When: B+456. Night, clear. Not a cloud. Ciel was right.*
 
+Mau and Yuka sit where the ladder starts, as both of them asked. They'd watched Umaru get to the top and looked up again when Rem got there. From that far down they can see a corner of the spare blanket over the edge. Rem keeps one hand on it long enough to know she can get back down if she needs to, then pulls it the rest of the way up with her.
+
 Umaru is already on the roof when Rem comes up.
 
 She always is, on clear nights. Rem knew she would be. She climbs the ladder at the back of the Fort with the spare blanket over her shoulder, the way she has a hundred times, and puts her head up over the edge of the roof, and there's Umaru, flat on her back in the middle of the boards on her own blanket, with her hands behind her head and her dressing gown wrapped round her, looking up.
@@ -272,7 +274,7 @@ Mau drinks his tea.
 
 “It wasn't mine to tell,” says Mau. ᴹ
 
-“You just sent us both to the same roof.” ᴿᵉ
+“You and Yuka sat at the bottom of the same ladder for both of us,” says Rem. “I wasn't brave enough to ask how that had happened until this morning.” ᴿᵉ
 
 “It was going to be clear,” says Mau. ᴹ
 

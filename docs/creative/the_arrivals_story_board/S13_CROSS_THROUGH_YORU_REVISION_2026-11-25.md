@@ -2,6 +2,14 @@
 
 **Status:** Author-approved revision through V85's *Not Yet*. The original V83–V85 text remains available at commit `1c532107`. The reader continues to use the original chapter document IDs. V85 has one additional chapter, *Acceptable*, between *Fifty-Nine Seconds* and *Himmel's Hour*.
 
+## Second structural pass
+
+V83 opens with the homecoming as Yuka lives it, from Kaisel's approach through the first night, with Cross's prior knowledge and the household's activity crossing the reunion. Yuka and Mau start the arc with real affection. Cross's influence accumulates across the early chapters, the missed portion remains the first break, and Yuka's absence at Dabura's duel has consequences after he comes home. The memory of the wedding gives Mau's experience in the yard a second point of contact with what Yoru opened. The original passage remains in Git.
+
+After the clinic, what the family does for Mau carries forward. Umaru and Mau finish the movie. Makima and Yuka can play in the same room. Mau and Yuka choose a market trip together, where Mai and Momo start working on the harness they eventually try on Kaisel. The road conversation becomes an actual arrival at the northern ford, with Maru and Rimuru coordinating and the Simurians helping before the next kings' conversation. Shuna eats with the household and shares the kitchen rotation. Rem and Umaru, and DIO and Elmesia, ask for support and speak in their own words. The recovered mornings and evenings no longer follow a private tally that makes an apology, a date, and a decision about a family interchangeable.
+
+The chapter IDs and revised reading order stay in place. Optional ideas about taking off the ring and moving the Gojo rematch were left outside the revision. The announced visit still lands at the end of the ninety days.
+
 ## First reading batch
 
 V83 #7–9, starting with *The Road Home*. Cross already knows about the marriage from Tsurugi. Seeing Yuka healthy after the diagnosis still moves him. Yuka introduces Mau as her husband and wants him with her. She gives Mau the context for her promise to go somewhere with Cross that they can choose for themselves. Cross helps Ori with the banner, and Rimuru and Maru open a practical discussion about needs at the northern settlement. Cross raises Yuka's safety in front of the house. Yuka asks Mau to tell her the terms before fixing the meeting and wants a place at the duel. The first conversation about the duel continues after Cross leaves.

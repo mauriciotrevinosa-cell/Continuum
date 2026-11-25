@@ -5,210 +5,112 @@
 **Volume:** 85
 **Reading order:** 7
 **Source episode:** S13E141
-**Continuity state:** B+468 ("19"). They come down late. Nobody says anything. The whole house says nothing so loudly it rings. Yuka is clingier than she's ever been, and doesn't care who sees; Mau has stopped trying to make his face behave. Ori, who is not stupid, asks at the table why everyone is smiling at nothing, and is told by six people at once that it's the pears. Umaru has to leave the room. Shuna puts an extra cake on their plate without comment. Makima, on the north-wing step, raises one hand to Yuka, and Yuka raises one back. Gojo opens his mouth once and Shoko stands on his foot. In the afternoon the two of them fall asleep on the couch. Nobody wakes them.
+**Continuity state:** B+468 ("19"). Mau and Yuka come down late and find the kitchen in use. They spend the afternoon with Ori, Frieren, Pillow and Lantern in the common room. Ori recognises their happiness from being with them. The house has no account of their private night.
 
-*When: B+468. "19." Beside it, in Ori's hand: "WHY IS EVERYONE SMILING (INVESTIGATE)".*
+*When: B+468. Late morning through the afternoon.*
 
-They come down at eleven.
+Yuka does one of Mau's buttons for him on the landing. It had been in the wrong hole and it would have stayed that way if he'd gone down the stairs before he noticed. As soon as she's done, he puts a hand round her waist and draws her one step back up.
 
-Hand in hand. Yuka in the hoodie. Mau in a shirt he's buttoned wrong, which Yuka noticed on the stairs and decided not to tell him about.
+“What?” she says. ʸ
 
-The kitchen is full.
+She only gets the start of it out. He kisses her with one foot on the stair below. Then he comes up to where she is so he can do it again without leaning.
 
-It's never full at eleven. At eleven the house is out: in the workshop, the yard, the orchard, the Fort. At eleven the kitchen is Shuna and the bread and nobody else.
+“We have to go down eventually,” she tells him. ʸ
 
-This morning there are fifteen people in it, all very busy doing nothing.
+“There are at least two ways to get breakfast without going down.” ᴹ
 
-Rem and Umaru are at the table, shelling peas that don't need shelling. Fern is reading a book upside down. Milim is sitting on her hands. Stark is drinking a cup of tea he made forty minutes ago, which is cold. Gojo is on the windowsill, blindfold up, with his chin in his hand. Shoko is beside him, not looking at anything. Jin-Woo is at the end of the table with Suho, who is the only person in the room behaving normally, eating a roll.
+“Is one of them ordering me breakfast?” ʸ
 
-Every single one of them looks up when the door opens.
+“Yes.” ᴹ
 
-Every single one of them looks down again immediately.
-
-Nobody says anything.
+She puts another button in the wrong hole. This one he sees her do. “Come on. I want to see everybody.” ʸ
 
 * * *
 
-Mau has never heard a room be so quiet so loudly.
+The kitchen is in the middle of something.
 
-It rings. It actually rings. Fifteen people saying nothing with such enormous concentration that the air hums with it, like the moment after a bell's been struck.
+Rem has the oven open and one pan on the stovetop that needs somewhere to go. Shuna is at the table with Ori's jacket across her knees and a square of cloth pinned where the pocket had started coming away. She moves her tea for them without looking up. They wait two breaths in the doorway while Suho walks past with both arms around a bowl of pears.
 
-Yuka doesn't let go of his hand.
+“Did you leave any on the tree?” Yuka asks. ʸ
 
-She walks him to the table. She sits him down in his chair. She doesn't sit in hers. She sits in his lap, sideways, the way she does on the couch in the evenings, and puts her arm round his neck, and leans her head on his shoulder, and reaches past him for a roll.
+“These are the good ones,” Suho says. “They're not for cooking.” ˢᵘ
 
-At eleven in the morning. In the kitchen. In front of fifteen people.
+Rem turns round just far enough to ask him who told him the pears at the bottom of the bowl were his. He peers into it to see which ones she means. By the time he finds out, Ori has taken one out of the top and put it beside Shuna's cup.
 
-She doesn't care. He can feel her not caring, down the line. Warm and bright and settled, like a cat on a windowsill in the sun. She's done caring who sees. She's going to sit wherever she wants for the rest of her life.
+Mau moves the pan for Rem. Yuka keeps a hand in the back of his shirt and comes with him all the way to the table. There are two places clear where Shuna has moved her things. He takes the one farthest from the corner. She looks at the space left between him and the table, pulls his chair out just enough to get past it, and sits on his lap.
 
-Mau has stopped trying to make his face do anything.
+“Do you want the roll?” he asks. ᴹ
 
-He tried on the stairs. He gave up on the landing.
+“Do you want the roll?” ʸ
 
-* * *
+“Yes.” ᴹ
 
-Shuna puts a plate in front of them.
+“Good. I want that one, then.” ʸ
 
-Breakfast. Eggs. Fish the good way, skin on. Rice. The pear relish. And on the side, a small cake that wasn't on anyone else's plate. Honey and pear. The kind she makes for birthdays.
+He breaks it open. It's still just a little warm where the two sides were touching. He puts his end down as soon as he's had a bite so she can get to it. She points at the butter with the other end. It gives him a reason to hold her tighter when he has to reach.
 
-She doesn't say anything about it. She doesn't look at either of them. She puts the plate down and goes back to the stove.
+Umaru comes in behind Suho, who is telling her in great detail which pears do and do not make sense to cook. Umaru says it's a question of toppings. Rem gets both of them to move because the pan now has somewhere to go, and sets a little cake by their bowl when she comes around the table. Shuna has already got her own plate beside the jacket.
 
-Yuka looks at the cake.
+“Are you going to sit like that until lunch?” she asks Yuka. ˢʰᵘ
 
-She looks at Shuna's back.
+“If he wants.” ʸ
 
-“Thank you,” she says. ʸ
+Mau lifts the butter far enough to let Shuna reach it. “I think I have to stay available at least until she finishes the roll.” ᴹ
 
-Shuna doesn't turn round. But Mau sees her shoulders do something, and her hand go up to her face, quickly, and come down again.
+Yuka puts down the end she's holding.
 
-* * *
+“That's going to take a long time,” she says. ʸ
 
-Ori comes in at quarter past.
-
-She's been out in the orchard with Beru and Kamish, and she comes through the back door in her boots and her explorer jacket with mud on both knees, and stops in the doorway.
-
-She looks round the kitchen.
-
-At Rem and Umaru shelling peas. At Fern's upside-down book. At Gojo on the windowsill and Shoko beside him. At Yuka in Mau's lap with a cake.
-
-At everyone's faces.
-
-Her eyes narrow.
-
-She takes out her notebook. She writes something in it. She puts it away.
-
-Then she walks to the table, climbs onto her chair, puts her elbows on the table, and says, in her Fort voice, very clearly:
-
-“Why is everyone smiling at nothing?” ᴼ
+Shuna smiles at the pan in Rem's hand. She turns back to her own eggs while Yuka picks the roll up again. No one asks how late they were up. For a while Yuka is too busy asking Suho to come and show her how to tell which pears are worth eating whole.
 
 * * *
 
-Six people answer at once.
+Makima is coming around the yard with a book when they get as far as the porch. She has been trying to find out which of two plants beside the stairs DIO said could be left alone. She shows Yuka the page, then looks at the cover as if it's the first time she's noticed which book she brought.
 
-“The pears,” says Umaru. ᵁ
+Yuka makes room. “Sit here if you want. I have no idea which plant she meant, but one of them took all day yesterday to start doing something.” ʸ
 
-“It's the pears,” says Milim. ᴹⁱ
+“Which one?” asks Makima. ᴹᵏ
 
-“Pears,” says Stark, into his cold tea. ˢᵗ
+They go and find it before anybody can decide it would be easier to ask DIO. Mau has the door open for both of them when they get back. Makima comes in to get the string she thinks she can use to tie up one of the stems. Yuka goes on ahead with the book and drops it on the common-room table to keep their page open. In the time it takes Mau to turn round she has got herself across the corner of the sofa, with both hands open for him.
 
-“The harvest went very well,” says Fern, still holding her book upside down. ᶠᵉ
+He sits down in the space she's made. She had left a blanket from the day before on the back. Mau reaches round to get it and Pillow puts his trunk on the lower corner just as she gets the upper one free. The pull comes from both directions. She lets go of hers.
 
-“Excellent pears,” says Rem, very fast. ᴿᵉ
+“Apparently that's his,” says Mau. ᴹ
 
-“*Very* good pears,” says Gojo. ᴳ
+“Get another one.” ʸ
 
-Ori looks at each of them in turn.
+“Will he let me?” ᴹ
 
-She looks at the pear relish on the table, which nobody is smiling at.
-
-She looks at Yuka.
-
-Yuka looks back at her with a perfectly straight face, and eats a piece of cake.
-
-“Are *you* smiling because of pears?” asks Ori. ᴼ
-
-“I'm smiling because I woke up next to your dad.” ʸ
-
-It comes out clear enough for the far end of the table. Mau feels her ribs move under his arm as she says it. Ori has her mouth open on another question when Mau tips his head over and kisses Yuka's temple.
-
-“And I like the cake,” Yuka adds. She puts the next bite into Mau's mouth. “You can write both.” ʸ
-
-Ori writes neither. She has sixteen witnesses and a developing theory, and she knows better than to take a suspect's word for it.
-
-Ori's eyes narrow further.
-
-“It's not the pears,” she says. ᴼ
-
-Nobody says anything.
-
-Umaru puts down the peas, stands up very quickly, says “I need to check the—the thing,” and leaves the room. Through the open door, a moment later, they all hear her laughing so hard she has to hold on to the wall of the corridor.
-
-Ori watches her go.
-
-She takes out her notebook again. She writes something else. Underlines it.
-
-“I'm going to find out,” she says, darkly, to the room at large. ᴼ
-
-Then she takes a roll and goes back out to the orchard.
+Pillow takes hold of Mau's ankle with the end of his trunk. Yuka keeps him where he is with an arm around the back of his neck while he gets a second blanket out of inventory.
 
 * * *
 
-Gojo opens his mouth once.
+Ori finds them like that.
 
-Mau sees him do it. Gojo on the windowsill, looking at Mau with his blindfold up and his eyes doing something extremely pleased, and opening his mouth, and taking a breath, and getting about as far as “So—”
+She puts the repaired jacket on the arm of the sofa to see if she'll be able to get up without pushing anybody out of the way. Yuka lifts the blanket. Ori climbs up between the two of them and thinks she can get comfortable by putting both feet across Mau. It takes her a little while to get the whole length of herself to stay.
 
-Shoko stands on his foot.
+Lantern's head comes up at the foot of the sofa. He sniffs Ori's boot until she takes it off. She gets the other one off without wanting to move her legs and leaves both by Pillow's head. Pillow lifts his trunk to cover them.
 
-She doesn't look at him. She doesn't say anything. She just shifts her weight, very slightly, from one foot to the other, and the other one happens to be on Gojo's, and stays there.
+Frieren comes in carrying a book and stops at the arm of the sofa. She looks at the space left by Mau's knees. He raises one of them to let her sit sideways at the end. She puts a cushion under it after she's sat down, so he can leave it there. She opens the book and starts reading where she was, slowly enough that Ori can ask her what happened to the woman with the boat.
 
-Gojo closes his mouth.
+“I was reading to see what happened to her,” Frieren says. ᶠ
 
-He looks at Shoko.
+“Then I'll wait.” ᴼ
 
-Shoko looks at the ceiling.
+Ori waits for almost a page. She starts to ask again when she looks up and finds Yuka smiling. Mau is trying to lean sideways far enough to see the picture and laughing at himself because it means he has to go over the top of Ori to do it.
 
-Gojo doesn't say anything else all morning. But he grins at Mau from the windowsill until lunch, and Mau grins back, and neither of them needs a word.
+“Dad?” she asks. ᴼ
 
-* * *
+“Mm?” ᴹ
 
-Makima is on the north-wing step when they go out after breakfast.
+“Are you both happy?” ᴼ
 
-She's sitting the way she always sits. Knees together. Hands in her lap. Looking at the yard.
+Yuka's palm is warm against his cheek. He turns far enough into it to be able to see her and waits because at least one of them probably ought to answer.
 
-She sees them come out of the kitchen. Yuka still holding his hand. Yuka still in the hoodie, with cake crumbs on it.
+“I am,” she says. ʸ
 
-Makima looks at Yuka for a long moment.
+“Me too,” he says. ᴹ
 
-Then she raises one hand. Just slightly. The way she did on the orchard wall during the pear harvest.
+Ori thinks for a second and puts the whole weight of her shoulder against both of them. “That's what I thought.” ᴼ
 
-Yuka raises one back.
-
-That's all. Neither of them says anything. Neither of them needs to.
-
-Mau feels something go down the line from Yuka, warm, and something come back up it from Makima, through his own end, quieter, and the two of them meet somewhere in the middle of him. He doesn't know what it is. It isn't his.
-
-He doesn't ask.
-
-* * *
-
-They fall asleep on the couch in the afternoon.
-
-They don't mean to. They go into the common room after lunch to do nothing, and he sits on the couch, and she climbs on top of him, and pulls the blanket over them both, and puts her head on his chest, and says *you're badly arranged*, and he fixes it, and then neither of them remembers anything until the light goes long.
-
-Nobody wakes them.
-
-Several people come in. Mau will find out later; Ciel tells him. Umaru, to get a game controller, who sees them and backs out on tiptoe. Senku, looking for a book, who stands in the doorway for a long moment and then puts a second blanket over them and leaves. Ori, who comes in with her notebook to continue her investigation, and stops, and looks at them, and doesn't write anything.
-
-She sits down on the rug beside the couch instead.
-
-She stays there, with Beru folded up behind her, until they wake up.
-
-* * *
-
-When they wake, Ori is still there.
-
-She's lying on her stomach on the rug with her chin in her hands, looking at them.
-
-“I figured it out,” she says. ᴼ
-
-Yuka goes very still on Mau's chest.
-
-“What did you figure out?” says Mau, carefully. ᴹ
-
-Ori looks at them both with Frieren's eyes.
-
-“You're happy,” she says. “Both of you. The real one. Not *it's fine*. Happy.” ᴼ
-
-She sits up. She opens her notebook. She shows them the page.
-
-Under *WHY IS EVERYONE SMILING (INVESTIGATE)*, in her best handwriting, she has written:
-
-*BECAUSE DAD AND YUKA ARE HAPPY. (SOLVED.)*
-
-And a tick.
-
-Yuka puts her face in Mau's shirt and laughs until she cries.
-
-Ori looks satisfied.
-
-“That's what I thought,” she says, and closes the notebook, and goes to find Beru's other half of a sandwich.
+Frieren moves the book a little lower so Ori can see where the woman with the boat has turned up. Yuka finds Mau's hand under the blanket. He holds on to it and listens to Frieren read the next bit out loud.

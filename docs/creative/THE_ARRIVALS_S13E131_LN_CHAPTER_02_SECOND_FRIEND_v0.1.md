@@ -7,7 +7,7 @@
 **Source episode:** S13E131
 **Continuity state:** B+450 ("37"). Yuka's point of view. She finds Makima alone on the north-wing step at dusk, hugs her from behind, and doesn't let go: thank you for not letting him do something stupid when I hurt him. Makima: that's what friends are for. Yuka laughs and asks what they're doing, holding hands. Makima explains, plainly, without embarrassment: it isn't romance; it's how they tell each other we're here, we're friends, we can lean. She has no romantic feelings, not for anyone; what she wanted all her life without knowing the word was someone at her own level, someone who could stand level with her, and Mau showed her what that is. Yuka understands that what she feared, that Makima would replace her, was impossible from the start. She takes Makima's hand to try it. Then: he has two now, but if Yuka ever sees her try to kiss him the way Yoru tried, she'll send her straight to hell. Makima accepts the terms. Yuka tells her what Mau did for Rem. Makima thanks her. Makima's second friend.
 
-*When: B+450. "37." Under it, in Yuka's hand, a line from the list, ticked: "Thank Makima. Properly."*
+*When: B+450. "37." Yuka and Makima spend part of the afternoon together.*
 
 Makima is on the north-wing step at dusk.
 
@@ -253,19 +253,7 @@ Yuka holds on.
 
 * * *
 
-When Yuka goes in to supper, she takes the notebook out of the hoodie pocket and opens it on the porch steps, in the light from the kitchen window.
-
-*Thank Makima. Properly.*
-
-She ticks it.
-
-Then, under it, in small neat letters, she adds a new line. One that wasn't on the list on the first morning on the wet grass, because she didn't know, then, that it could be.
-
-*Makima. Friend.*
-
-She doesn't tick that one. It isn't a thing you finish.
-
-She closes the notebook and goes in.
+When Yuka gets to the kitchen, she looks back through the window. She'd spent a long time deciding which questions she could ask Makima without getting an answer she wasn't ready to hear. Now there's the much smaller question of whether to bring her soup and sit out there with her a little longer.
 
 Mau is at the stove holding a bowl so Shuna can pour. He's got his head bent to hear what she's saying about the bottom of the pot. Yuka waits until the bowl is on the counter, then goes right up behind him and puts her arms around his waist.
 

@@ -315,15 +315,11 @@ He opens his eyes in the dark.
 
 He doesn't say anything. He holds her a little tighter.
 
-“Tell you the rest another day,” she mumbles. “It's a long list.” ʸ
+“Ask me again tomorrow,” she says. “I think I have more to tell you when I've slept.” ʸ
 
-“I know,” he says. “I saw the notebook.” ᴹ
+“Tomorrow,” he says. ᴹ
 
-“You *read* it?” ʸ
-
-“No.” ᴹ
-
-“Good.” ʸ
+Her grip loosens on his shirt. He has a thumb free to move the hair tickling the corner of her mouth. She waits for him to do it with her eyes already shut.
 
 And she's asleep.
 

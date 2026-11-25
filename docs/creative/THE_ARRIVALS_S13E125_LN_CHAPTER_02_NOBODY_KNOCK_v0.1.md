@@ -5,276 +5,146 @@
 **Volume:** 84
 **Reading order:** 14
 **Source episode:** S13E125
-**Continuity state:** B+439 ("48"). A day of doing nothing. Mau and Yuka come downstairs late, together, and take the couch in the common room and watch films all day. The house is so afraid of breaking it that it tiptoes. Umaru shushes people in the corridor. Gojo leaves snacks on the side table and backs out. The Fort posts a sign on the door: DO NOT DISTURB — FORT ORDERS. Rimuru keeps Milim out for six hours. In the late afternoon Milim breaks through with a game, Rimuru apologising behind her, and asks if they want to play. Mau and Yuka look at each other and say yes. Within twenty minutes the whole house is in the common room and it's a tournament. Yuka cheats openly. Ori makes the last tick of the day in her notebook. The volume goes on from here; the reconciliation is begun, not finished.
+**Continuity state:** B+439 ("48"). The morning after the apology. Mau asks Umaru to finish the film they started before the argument. Yuka stays with him. The household comes through the common room throughout the day. Milim brings a castle game. Yuka makes room for Makima at the table during play. The excitement briefly unsettles Mau, who asks for a moment where Yuka can hear him. They choose to go back to the game.
 
-*When: B+439. "48." Under it, in Yuka's hand, a single word: "nothing". Under that, in Ori's hand: "(GOOD)".*
+*When: B+439. Late breakfast, a film, and Milim's game.*
 
-They come down late.
+Yuka catches his sleeve when he starts to get out of bed.
 
-It's past ten when he wakes, and she's still asleep against his shoulder in the hoodie with her hand fisted in his shirt, and he doesn't move for another hour because he doesn't want to be the one who ends it. Then she wakes up, and looks at him from very close with one eye open, and says *what time is it*, and he says *late*, and she says *good*, and goes back to sleep for another twenty minutes.
+She has her eyes closed. The hand on his sleeve is inside her own, with only three fingers showing. He rests his hand on it. She keeps holding on, but her fingers get loose enough for him to turn over.
 
-When they finally come down, the kitchen is empty.
+“Where were you going?” she asks. ʸ
 
-Not empty like abandoned. Empty like cleared. Someone has left two plates on the table under cloths, side by side, with two cups and a pot of tea under a cosy to keep it warm. Rice. Eggs. Fish, the good way, with the skin left on. A little dish of pickles.
+“I thought you might want breakfast.” ᴹ
 
-No note. Nobody in the doorway. Nobody at all.
+She opens one eye. “I do.” ʸ
 
-From somewhere in the house, very faintly, the sound of Umaru saying *shhhhhh* to someone.
-
-Yuka looks at the two plates. Then at him.
-
-“They're hiding,” she says. ʸ
-
-“They're being careful,” says Mau. ᴹ
-
-“They're *hiding*,” says Yuka. “From us. In our own house.” ʸ
-
-She sits down at her plate. He sits down at his. He moves the pickles to her side without thinking. She steals them without thinking.
-
-Then she stops, with one halfway to her mouth, and looks at it. And looks at him. And her face does the thing that might be a smile someday, except this time it gets all the way.
+He has time to get one foot over the side of the bed before she pulls at his cuff again. He turns back for the rest of it. She kisses him in the space between trying to explain what she meant and remembering she can just pull him nearer.
 
 * * *
 
-They don't decide to spend the day on the couch.
+They eat downstairs late enough that Shuna is already making something else. There are eggs for them under a lid and two cups somebody set out before she had to ask. Yuka moves the eggs into the middle and cuts one in half. Mau waits to see if she'll give him the smaller piece. She does, then holds out her fork with a piece of the bigger one on it so he won't be able to say how much bigger.
 
-They just go to the common room after breakfast, and there's the couch, and there's the new screen, and there's a stack of films beside it that somebody has very obviously arranged in the night, with a note on top in Umaru's handwriting: *SUGGESTIONS (NO PRESSURE)*. The first one on the stack is the one about the alien that Okarun loves. The second is a racing film.
+Shuna slides the oven door shut and asks if they can leave the common room free a little before supper. Milim wants a table wide enough to put a castle on.
 
-Yuka picks up the stack and looks through it.
+“Has she made a real one again?” Mau asks. ᴹ
 
-“They thought about this,” she says. ʸ
+“It's a game,” says Shuna, after the small pause she'd want if anyone else had asked. “She said she wanted to play it with the two of you. I told her to ask the two of you.” ˢʰᵘ
 
-“They thought about it a lot,” says Mau. ᴹ
+Yuka looks over at him. He'd thought much farther ahead, last night. What he'd say today if the first thing one of them wanted was to be alone. What he'd do tomorrow if Yuka had a reason to go somewhere he couldn't follow. It hadn't occurred to him the first thing they'd be asked together would be whether they wanted to play a game with Milim.
 
-There's a blanket folded on the arm of the couch. The cushions have been plumped. The lamp has been moved so it won't glare on the screen.
+“Tell her to ask us,” says Yuka. ʸ
 
-Yuka puts the racing film on.
+Shuna puts a pan down beside the stove. “That's what I told her.” ˢʰᵘ
 
-She sits down on the couch. Then she looks at him, standing there, and holds out her hand.
+There is a plate to take back when they're done. Mau gets up with it and finds Rem in the doorway, asking if anybody has seen Umaru. She has one of the two cans of soda Umaru left in the common room and means to find out if the second one belongs to anyone.
 
-He takes it, and sits, and she climbs on top of him the way she always used to, as if he's a piece of furniture provided for the purpose, and arranges the blanket over both of them, and puts her head under his chin.
+“Did she ever finish the film with the car?” Mau asks. ᴹ
 
-“You're badly arranged,” she says. ʸ
+Rem looks at him for a second. “She said it wasn't worth finishing when you got up before the good part.” ᴿᵉ
 
-He fixes it. All of it. The cushion behind his back, the blanket, the lamp, without getting up. She sighs and settles.
+“Get her,” he says. “I'll find out what that was.” ᴹ
 
-The film starts.
-
-* * *
-
-The house tiptoes.
-
-He can hear them. All day. Feet in the corridor, very careful, going past the door and not stopping. Voices dropped to whispers. Someone, it sounds like Stark, sneezing and being immediately and furiously shushed by about four people at once.
-
-Around noon the door opens a crack. Gojo slides in sideways with a tray of snacks: the small cakes, two bowls of something fried, a bottle of the fizzy drink Yuka likes. He puts it down on the side table without a word, gives them a double thumbs-up with his blindfold pushed up and his whole face doing something very soft, and backs out again on tiptoe, which Mau has never in his life seen Gojo do.
-
-The door closes.
-
-Yuka looks at the snacks. Then at the door.
-
-“He tiptoed,” she says. ʸ
-
-“He tiptoed,” Mau confirms. ᴹ
-
-“Gojo Satoru tiptoed out of a room.” ʸ
-
-“I saw it.” ᴹ
-
-“Nobody's going to believe us.” ʸ
-
-At one, there's a sound of something being pinned to the outside of the door. A small sound, like a drawing pin going into wood, and then several more, and then whispering.
-
-Yuka wriggles out from under the blanket, goes to the door, opens it a crack, and looks out.
-
-She comes back with her hand over her mouth, shaking.
-
-“What?” says Mau. ᴹ
-
-“There's a sign,” she says. ʸ
-
-“What does it say?” ᴹ
-
-She can't tell him. She's laughing too hard. She gets back under the blanket and puts her face in his chest and shakes, and he has to ask Ciel.
-
-*DO NOT DISTURB*, reads Ciel, through the eyes of a soldier in the corridor. *FORT ORDERS. VIOLATORS WILL BE FED TO KAMISH. (NOT REALLY.) (BUT MAYBE.)* ᶜ
-
-Under it, apparently, there's a drawing. Two stick figures on a couch, one on top of the other. A dragon guarding the door. A small figure in an explorer's hat standing beside the dragon with a spear, looking very stern.
-
-*Ori*, says Mau. ᴹ
-
-*Ori*, Ciel confirms. *With Beru. And Umaru. And Emilia, who is apparently now a Fort member and took it very seriously.* ᶜ
+Yuka takes the other plate to Shuna and comes up beside him with the kettle. She waits for him to offer to take it, puts it into his hands, and walks with both her arms through his out of the kitchen.
 
 * * *
 
-Rimuru keeps Milim out for six hours.
+They're halfway to the end of the second chase before Umaru tries to pause it. Yuka has got both of Mau's hands under the blanket and refuses to let him help her find the control.
 
-Mau knows this because he can hear it. Every hour or so, from the far end of the corridor, Milim's voice rising — *I just want to SEE them* — and Rimuru's voice, very patient, very firm — *later, Milim* — and then the sound of a small extremely powerful person being carried bodily somewhere else.
+“You know why that car makes that noise, right?” says Umaru. ᵁ
 
-At two: *But they'd LIKE a game!* — *Later.*
+“Yes,” says Mau. “You told me.” ᴹ
 
-At three: *I'm not going to DO anything, I just want to look through the—* — *Later, Milim.*
+“I told you why it would make the noise on the flat. That is a completely different noise.” ᵁ
 
-At four, a long pause, and then Rimuru's voice, slightly strained: *Where did you get that?* and Milim's, triumphant and muffled, as if she's holding something in her teeth.
+Rem has the control under her leg. She looks at Mau over the top of the sofa. “You asked her to finish it. She has been waiting.” ᴿᵉ
 
-Yuka, three films in, lifts her head off his chest.
+Umaru hears her. She protests and forgets to take the control while Rem is reaching past it to get her soda. The car goes round a corner so fast that all four of them lean slightly, as if it needs their help to stay level. Yuka lifts her head off his shoulder long enough to say that the car has only three wheels left and she doesn't understand why they're expected to take this seriously. Umaru looks from the screen to Yuka and puts her fingers up to count. It has, in fact, only three wheels left.
 
-“How long do you think he can hold her?” she says. ʸ
+By the end, they're arguing about whether anyone ever bought the horn. Nobody notices Gojo come in with a bowl until he starts eating out of it from behind the sofa. Yuka turns enough to see him and tells him if he intends to stay he should put the bowl where she can reach it. He gives her two of the pieces in his other hand. She takes those and the bowl.
 
-“He's the strongest diplomat in the world,” says Mau. ᴹ
-
-“That's not an answer.” ʸ
-
-“About another forty minutes,” says Mau. ᴹ
-
-It's thirty-five.
+People come through for things. Ori comes for a pencil and stays until the credits because she wants to know who got the car. Beru holds the basket she was using for all the paper in the room. Rem takes her soda back to the other end of the couch. Mau fits himself against the corner where Yuka wants him and stops holding his arm up under her neck when she feels him doing it and tells him the cushion will take it.
 
 * * *
 
-The door bursts open at five.
+Milim brings the castle box after lunch.
 
-Milim stands in it with a game in both arms: a big flat box with a picture of a castle on the lid and about a thousand pieces inside, rattling. Behind her, Rimuru has one hand on the back of her collar and the other over his own face.
+She stops just inside the door. The lid isn't on properly and it clicks against a piece inside every time she breathes. She has a hand clamped down on it, and a bruise on one knee from where she fell coming in through the window instead of going round to the door.
 
-“Sorry,” says Rimuru, through his hand. “Sorry. I tried. She went through the *window*.” ᴿ
+“Rimuru said you'd probably say yes,” she says. “Would you?” ᴹⁱ
 
-Milim isn't sorry.
+Yuka looks up from under Mau's chin. “What are we saying yes to?” ʸ
 
-She marches into the room with the box held out in front of her, and stops in front of the couch, and looks at the two of them, Yuka on top of Mau under the blanket with the third film paused on the screen behind them, and her face does something that makes Mau's chest hurt.
+“You build a castle. Then somebody takes it apart.” ᴹⁱ
 
-She's been crying. He can see it. Milim has been crying. Mau had been so sure everyone knew she could knock that it never occurred to him she might have been afraid to.
+“Who?” says Mau. ᴹ
 
-“Do you want to play?” she says. Very loud. Her voice wobbling on it. “It's a new one. Rimuru got it. It's about castles. You build a castle and then you knock down everyone else's. I haven't played it yet. I was *waiting*.” ᴹⁱ
+Milim thinks about it and looks a little happier than she did in the doorway. “Depends if they're good at it.” ᴹⁱ
 
-The room is very quiet.
+He moves enough to put a foot on the ground. Yuka comes out from under the blanket and starts making space on the floor. Milim sits down in the middle of it before they have room to open the box. She's been saving three of the bigger wooden pieces on one side for Mau and has written M on the paper underneath them. Yuka asks how they're supposed to know that's which M. Milim looks at the board, picks up all three pieces and tells them the first round will be decided by whoever gets one out of her hand.
 
-Behind Milim, in the corridor, Mau can see them. All of them. Crowded in the doorway, peering round the frame, not coming in. Umaru with both hands over her mouth. Ori in front with her spear, which is a broom handle. Beru behind her, folded down so his head fits under the lintel. Fern and Stark. Mai with her arms folded. Shuna with a cloth. Gojo at the back, blindfold up, very still. Frieren, holding a cup of tea, with no expression whatsoever.
+By the time Rimuru comes in to see whether they need help, Yuka is holding one of the pieces under her knee and blaming Mau. There is a clear space left in one corner of the board. Makima has come to the sill to see what made Milim shout. Yuka sees her look at the space and slides a pile of unused pieces toward it.
 
-All of them waiting. All of them afraid it's going to break.
+“Do you want in?” she asks. ʸ
 
-Mau looks at Yuka.
+Makima looks at Mau before she looks at the pieces. “I don't know the rules.” ᴹᵏ
 
-Yuka looks at him.
+“Neither does he,” Yuka says. “He thinks they're on the back of the board.” ʸ
 
-He sees her see it, too. All of them in the doorway. All of them who tiptoed and shushed and pinned up signs and left plates under cloths and carried Milim out of the corridor eight times. All of them who stood in a ring round the clinic. All of them who were frightened and wanted to be near them anyway.
+“I am still prepared to check,” says Mau. ᴹ
 
-“Yes,” says Yuka. ʸ
+Makima takes one of the pieces. Milim tells her it has to stand on something. Makima looks closely at the place Yuka made for her, takes away the piece beside it and builds the foundation across both spaces. Yuka opens her mouth to say the other place was hers. Then she starts building her own tower on top of it. By the time DIO pulls up a stool there are three people claiming to have planned the same castle. DIO puts one of her pieces in a cup intended for the loose dice, tips the cup over and calls the result a garden.
 
-“Yes,” says Mau. ᴹ
-
-Milim sets the box down so quickly that its lid jumps. Then she looks at the couch instead of opening it.
-
-“I thought you might want another hour,” she says. ᴹⁱ
-
-Yuka lifts the end of the blanket. “You could’ve asked me.” ʸ
-
-“I was told there were orders.” ᴹⁱ
-
-From the doorway, Ori lowers the broom handle. Rimuru looks at the ceiling with the air of someone waiting to be thanked for six hours of work.
-
-Milim touches Mau’s sleeve. She leaves her hand there until he puts his hand over it.
-
-“I was waiting to play with both of you,” she tells him. ᴹⁱ
-
-He sits forward. Yuka lets the blanket slide off them and makes room on the floor by the box.
-
-“Show us how,” he says. ᴹ
-
-“I don’t know how.” Milim snatches up the lid. “That’s why I waited.” ᴹⁱ
-
-Rimuru takes the rules out of the box before she can throw them aside. This turns out to be the last useful thing anyone does with them.
+Ori gets as far as writing down Milim's first two points. At the first crash she stops trying to keep score. She draws the tower that survived it instead. Lantern pokes his head out of her shadow to see where the sound came from. He makes a copy of it with his tail. Milim holds both hands up and shouts that it can't possibly count if the rules are going to allow dragons.
 
 * * *
 
-It takes twenty minutes for it to be a tournament.
+Mau feels the floor go out from under the sound.
 
-It starts with Milim and the two of them on the floor around the box. Then Ori comes in, because somebody has to keep score, and Ori is the only one qualified. Then Umaru, because she can't bear to watch a game without being in it. Then Rimuru, *to make sure Milim doesn't cheat*. Then Senku, *to check the rules are internally consistent*. Then Emilia, who doesn't understand the rules at all and is having the time of her life. Then Stark, and Fern to stop him losing too badly, and Maki and Yuta, and Mai, who says she's only watching and is building a castle within five minutes.
+For a piece of a breath it's the sound of something far too heavy coming through a wall. The colours don't help. Most of them never do. Yuka's sleeve against his knee gives him something to look at. The real floor is flat against the heel of his hand. He lifts it and puts it down again before he can bear to look up.
 
-Then everyone.
+Someone could tell him it's only the board. He knows that part.
 
-The whole common room, packed, people on the floor and the arms of the couch and the windowsill. Shuna bringing in food. Gojo cheating so openly it becomes a running joke. Frieren building an extremely slow, extremely beautiful castle in the corner that nobody dares knock down. Satella in the doorway, not quite coming in; Emilia gets up and goes and fetches her, and Satella sits down on the very edge of the circle with her hands in her lap, and builds one small tower, and doesn't let anyone see her face.
+“Yuka,” he says. ᴹ
 
-DIO steps out of Mau halfway through and announces she has been *watching from inside* and has *notes on strategy*, and builds a castle in the shape of a plant pot.
+She's reaching for a piece on the far side of his leg. She stops before she gets it.
 
-Makima sits on the windowsill and doesn't play, and watches, and when Milim knocks down Gojo's castle with a single flick she laughs out loud, a real one, and the whole room turns to look at her, and she puts her hand over her mouth, and doesn't take it back.
+“Can I sit with you for a minute?” he asks. ᴹ
 
-Mau opens the view of the board to Ciel and Noise. The first time Yuka walks off with one of his towers, he hears Noise laugh.
+She puts the piece back where she found it. They get to the sofa without asking anyone to stop the game. Gojo has started explaining why Milim can still be responsible for the sound if three other things hit the board first. She stays to explain it to him personally. Rem moves a cup so Mau has somewhere to put his hand.
 
-*You could’ve warned me*, Mau tells him. ᴹ
+He sits. Yuka sits next to him and lets him decide how to get against her. He turns and puts his head down where she'd normally put hers. One of her arms comes up behind his neck. He has just enough weight on his own elbow to keep from settling. She puts her palm there and waits for him to move it.
 
-*I'm with her this round.* ᴺ
+“Do you want to go upstairs?” she asks. ʸ
 
-Ciel asks if she's allowed to switch sides too. Mau moves his remaining towers out of Yuka's reach.
+“I like it here,” he says, after a second. ᴹ
 
-* * *
+“Okay.” ʸ
 
-Yuka cheats.
+That's all she says for a while. He can hear the board still going and people moving pieces around it. When he opens his eyes she's got one knee up against his side and a wooden tower on the corner of the sofa, within a little way of his hand. Somebody must have sent it over. It has a sprig of something stuck to the top to make it look important.
 
-Openly. Shamelessly. The way she cheated at the racing tournament, the way she cheats at everything. She builds her castle in the corner of Mau's territory while he's looking the other way. She knocks down Umaru's tower and blames Milim. She steals a whole wall from Senku while he's explaining load-bearing structures to Emilia, and when Senku notices, she looks at him with enormous innocent eyes and says *what wall?*
+“Is that mine?” he asks. ᴹ
 
-Mau lets her.
+“Milim said you have to keep it safe while she's gone.” ʸ
 
-He lets her steal three of his towers. He lets her knock down his gate. He sits on the floor of the common room with his back against the couch and watches her do it, the only colour in a room full of people he loves, laughing in her too-big hoodie with her hair coming loose and her sleeves pushed up and her face lit from the inside, bright enough to draw Milim's grin from across the board.
+He listens. She's still in the room. She's loudly explaining how moving on her hands and knees under the table ought to constitute going somewhere.
 
-She catches him watching.
+He puts two fingers around the tower. “You can tell her I'm going to move it back when I'm ready.” ᴹ
 
-She stops in the middle of stealing his fourth tower and looks at him.
-
-“What?” she says. ʸ
-
-“Nothing,” he says. ᴹ
-
-“You're *looking*.” ʸ
-
-“I'm allowed to look.” ᴹ
-
-She goes a little pink. He can see it, because she's the only thing he can see that colour.
-
-Then she steals the tower anyway.
+Yuka stays where she is. “I'll move things out of your way.” ʸ
 
 * * *
 
-Ori keeps score.
+When he goes back to the floor she makes good on it. She clears half the space in front of her, shifts her castle two inches, asks Makima before stealing the roof and leaves enough room for him to put the tower down where he wants it. He puts it on her side before she can ask which of them it belongs to now.
 
-She sits on the arm of the couch with her notebook and her pencil and a broom-handle spear across her knees, and writes down every castle, every tower, every knocked-down wall, in columns, very neatly. She disqualifies Gojo four times. She disqualifies Yuka twice, for cheating, and then reinstates her both times, for style.
+She looks at him. He's already taken a piece of her bread from the plate Shuna set down while Milim was explaining the rules to Rimuru a third time.
 
-At the end of the night, when Milim has been declared the winner on the grounds that she knocked down everybody else's castle including her own by accident, and the room is full of laughing and arguing and Shuna threatening to put everyone to bed, Ori closes the scoring page.
+“I'm allowed,” he says. ᴹ
 
-She turns to a different page.
+“You are,” she says. ʸ
 
-Mau sees her do it. He doesn't think anyone else does. She turns back to a page near the front, where she started a little list of her own after she sat with Yuka on the grass the morning he went north. He's never read it. He doesn't read it now.
+Her hand goes to his back as she leans over him for something on the far side of the board. It stays when she finds what she wants. Across from them, Milim can't fit her next piece in anywhere without reaching past two people. She pushes herself up, hands on the floor, and knocks over a whole side of her own castle with her sleeve.
 
-But he sees her take her pencil and make one more tick.
+The sound is made of wood this time. Mau hears it coming and gets one upright piece under his palm. Yuka has another. Milim looks from one of them to the other and tells them they could have caught the lot if they'd stopped looking at each other for one second.
 
-A big one. Underlined. With a small drawing next to it of two stick figures on a couch.
-
-Then she closes the notebook, and slides off the arm of the couch, and goes and climbs onto Beru's back, and falls asleep there in the middle of the room in about four seconds, with her spear still in her hand.
-
-* * *
-
-Much later, when the room has emptied and the castles are back in the box and the lamps are low, Yuka is asleep again. On the couch. On top of him. In the hoodie.
-
-He lies there and looks at the ceiling.
-
-It isn't finished. He knows that. Neither of them is stupid enough to think it is. There are things they haven't said yet. There's the long list in her notebook, which he hasn't read. There's Cross, who apparently came to supper and sat at the far end of the table and was very quiet and was, Ciel says, *polite*, which Mau will have to think about another day. There's Yoru. Forty-eight days until the agreement comes due. There's Gojo, who still wants his real rematch.
-
-There's the room he goes back to, sometimes, without meaning to. It'll still be there tomorrow. It's always going to be there.
-
-But he knows the way out of it now. It's this way. Down the stairs, across the yard, through the clinic door, into the chair on the other side of the cot.
-
-To her. First.
-
-*You're doing it again*, says Ciel. ᶜ
-
-*Doing what?* ᴹ
-
-*Thinking instead of sleeping.* ᶜ
-
-*It's a nice thing to think about.* ᴹ
-
-A pause.
-
-*Yes*, says Ciel. *It is. Think about it asleep.* ᶜ
-
-He closes his eyes.
-
-On his chest, Yuka mumbles something in her sleep. He doesn't catch it. It sounds like *stay*.
-
-He does.
+Mau's laughing before he can come up with anything to say to that. Yuka offers Milim the piece she saved and sits close enough to him that he has to hold the board steady for both of them.

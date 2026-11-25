@@ -7,7 +7,7 @@
 **Source episode:** S13E124
 **Continuity state:** B+438 ("49"), the same afternoon, between Mau's two trips; Yuka's point of view. Mau is home but inside, in DIO's room inside him; his body sits in the clinic chair with his eyes closed. Makima, whose body can't go far from his, is free in the house. Cross finds Yuka on the orchard wall and tries: Mau went to a queen this morning, came back, and still went to someone else instead of her; he and Maru are going north soon, and she doesn't have to wait in doorways. Yuka calls her wheel. It turns once over her head, ready to throw hands. She sets the limit: she's grateful for what he saw then, and always will be, but she sees now that he's using it as a weapon to pull her away from her husband, and she won't let it be used that way again, by him or by herself. Then she hears herself: she is as afraid of losing Mau as she was that day in the corridor, or more, because she had already imagined tomorrow with him, a family, a little brother or sister for Ori. Maru takes Cross away. Makima, who heard the wheel, comes and sits on the wall, and tells Yuka what Mau felt and how to help him properly. Mau gave Shoko leave for Yuka to know everything, so this is a legal grey area, and Makima chooses to stand in it.
 
-*When: B+438. Mid-afternoon. In the notebook, beside "49" and Ori's small bird, two lines of the list are ticked: *breakfast* and *stay*.*
+*When: B+438. Mid-afternoon. Ori has drawn a bird beside "49".*
 
 The orchard wall was their place. Hers and Cross's.
 
@@ -299,18 +299,12 @@ She hesitates. Then:
 
 She goes.
 
-Yuka stays on the wall a little longer. She takes the notebook out of the hoodie pocket. The list. Seven lines, and the fourth one crossed out. Two ticks so far, *breakfast* and *stay*.
+Yuka follows as far as the porch. She sees Mau pull out a chair for DIO so there will be room for the pot when she comes in. There's a place for Yuka, too. He sees her looking and reaches for the empty cup beside it. She goes in before he can decide whether to set it out for her.
 
-She takes the pencil from the spine.
+“Will you come and find me afterwards?” she asks. “When DIO's home. I'll be awake.” ʸ
 
-Beside the line that says *Cross*, she makes a tick.
+He has both hands on the cup. He looks at her before he puts it down.
 
-Then she looks at the fourth line. The one she crossed out on the first morning, sitting on the wet grass, because she didn't think she'd ever be brave enough.
+“Can I have supper with you first?” he asks. ᴹ
 
-She rubs out the line through it. Carefully. With the end of the pencil. Until she can read it again.
-
-*Tell him plainly. The ugly part too.*
-
-Under it, small, she adds a new line in pencil: *Don't let him carry it.*
-
-She puts the notebook back in her pocket, and gets down off the wall, and goes in to supper.
+“Yes,” she says. “I wanted to ask you that, too.” ʸ

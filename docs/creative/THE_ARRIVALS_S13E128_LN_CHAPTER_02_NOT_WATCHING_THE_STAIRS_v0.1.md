@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 20
 **Source episode:** S13E128
-**Continuity state:** B+444 ("43"). Shuna keeps her word from the morning of the feast: she teaches Mau the tray he burned, properly, now that he isn't watching the stairs. Yuka's caprice for the day is to sit on the counter and supervise, which mostly means eating whatever isn't nailed down, kissing him whenever he gets flour on his face, and narrating his mistakes. Shuna is a strict teacher. The tray comes out right on the third try. Shuna says something small about how the house looks to her from the stove. Rem and Umaru come in halfway and Mau notices, for the first time with his own eyes, how Rem looks at Umaru; he files it away.
+**Continuity state:** B+444 ("43"). Shuna keeps her word from the morning of the feast: she teaches Mau the tray he burned, properly, now that he isn't watching the stairs. Yuka's caprice for the day is to sit on the counter and supervise, which mostly means eating whatever isn't nailed down, kissing him whenever he gets flour on his face, and narrating his mistakes. Shuna is a strict teacher. The tray comes out right on the third try. Shuna joins them to eat and asks him to take a turn on the rota with her when he has time. Rem and Umaru come in halfway and Mau notices, for the first time with his own eyes, how Rem looks at Umaru; he files it away.
 
 *When: B+444. "43." Under it, in Yuka's hand: "SUPERVISING". In Shuna's, very small, in the corner: "lesson 1".*
 
@@ -29,7 +29,7 @@ The one Shuna judged first, before anything else, and sent to the reject pile wi
 
 *I'll teach you that one properly*, she said. *Another day. When you're not watching the stairs.*
 
-He thought she'd forgotten. Shuna doesn't forget things. She came and found him after breakfast this morning with an apron in her hands, his own this time, not hers, cut for his size and folded neatly, and said, “Today,” and that was that.
+He checked with her at supper when their turn would fit. Rem had already taken the morning, which left them enough time to get the oven while it was still hot. Shuna came to find him after breakfast with an apron in her hands, his own this time, cut for his size and folded neatly.
 
 Yuka followed them into the kitchen.
 
@@ -169,23 +169,25 @@ He takes it.
 
 She doesn't let go of it straight away.
 
-“You know what the house looks like,” she says, “from the stove?” ˢʰᵘ
+Shuna has cut a corner for herself. She brings it round the table and sits next to him. Yuka shuffles sideways on the counter so the three of them are nearly facing each other.
 
-He looks at her.
+“I put your name down for bread with me,” Shuna says. “You can write it out again if the day doesn't work.” ˢʰᵘ
 
-“Everyone's back,” says Shuna. “All day. All the time. That's what I see. Everyone's back, going in and out of that door. Going to the gate. Going to the quarry. Going north. And I stand here and make the food, and keep it warm, and wait to see whose back comes in again.” ˢʰᵘ
+“Is there a reason you're putting me down next to yours instead of Rem's?” ᴹ
 
-She lets go of the piece of tray.
+“Rem would eat the underside of the loaf while you were putting the good side out.” ˢʰᵘ
 
-“That week,” she says, “I made your plate every night. And every night I put it on the table. And every night you didn't come in. And I put it under a cloth and left it, because the plate's how I say it. That's all I've got. The plate.” ˢʰᵘ
+From beside the oven, where she is comparing crumbs on two pieces, Rem tells her that is what happens when a person finds out where the good part is. Shuna goes on eating hers until she can speak again.
 
-He doesn't say anything. He can't.
+“I missed you at the table sometimes,” she says. “I remember when you came in with Makima and Yuta and said your head hurt. You don't have to sit with me if you need to be somewhere quiet. But I'd like to do this again if you enjoyed it.” ˢʰᵘ
 
-“Today you came in the front,” says Shuna. “And stood at my stove. And burned two trays. And I got to see your face the whole time instead of your back.” ˢʰᵘ
+“I did,” he says. “I'll find the day with you when we've eaten.” ᴹ
 
-She turns back to the stove.
+“Bring the supervisor.” ˢʰᵘ
 
-“Lesson two is next week,” she says. “Bring the supervisor.” ˢʰᵘ
+Yuka looks down from the counter. “Is there anything left for me if I'm supervising two people now?” ʸ
+
+Shuna gives her the good half of what's left on her plate.
 
 * * *
 
@@ -203,4 +205,4 @@ She looks at him.
 
 He doesn't say anything about being a supervisor, or a hazard, or the cook. He just leaves his thumb there, on the side of her face, for a moment longer than he needs to.
 
-Behind them, very quietly, Umaru says, “*Oh*,” and Rem puts a hand over Umaru's mouth, and Shuna, at the stove, doesn't turn round.
+Behind them, very quietly, Umaru says, “*Oh*,” and Rem offers her the end off her piece so she'll stop watching. Shuna reaches past him for the cloth before any more flour gets on the table.

@@ -273,7 +273,7 @@ He unfolds it.
 
 *You don't have to say what the other part is. But you can if you want. I'm good at listening. Mama says so.*
 
-*Also I will eat the pickles. Every day. Until someone else does.*
+*Also next time it should be something I like. I thought that over.*
 
 *Ori.*
 

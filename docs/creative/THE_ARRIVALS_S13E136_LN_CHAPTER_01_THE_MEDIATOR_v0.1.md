@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 37
 **Source episode:** S13E136
-**Continuity state:** B+459 ("28"), evening. Yuka's point of view. Elmesia's garden, lit. DIO with the plant, the blue dress and Ori's lucky dragon; Elmesia waiting at the foot of the narrow stair. Mau meant to stay in the little room with the soldier; within ten minutes he's been fetched down to a bench between the two of them, because neither can get a sentence out, and he ends up as mediator. He fetches his expert. The expert, Yuka, sits on the bench, eats the cakes, laughs, and says, "You two can do it." They can't. In the end Mau says it for them, plainly, because nobody else will: DIO loves Elmesia, the romantic way, and Elmesia loves DIO, the same way. Both of them go red to the ears, which Yuka can see and Mau can't, because neither of them managed to say it to the other. Then they say it properly, to each other, without him. DIO tells Mau he still only owes her two; the letter lie is forgiven. Mau and Yuka take their promised dance by the pool and then sit under a tree to wait. Yuka puts her head on his chest; a let go; they both fall asleep. They're woken by DIO, alarmed, because it's very late and they should have been home hours ago.
+**Continuity state:** B+459 ("28"), evening. Yuka's point of view. Elmesia's garden, lit. DIO with the plant, the blue dress and Ori's lucky dragon; Elmesia waiting at the foot of the narrow stair. Mau meant to stay in the little room with the soldier; within ten minutes he's been fetched down to a bench between the two of them, because neither can get a sentence out, and he ends up as mediator. He fetches his expert. The expert, Yuka, sits on the bench, eats the cakes, laughs, and says, "You two can do it." They can't. Mau asks what they want him to help with. Each gives him one small thing they are ready to have the other hear. They get far enough to ask each other the rest. Yuka and Mau leave them room to answer. DIO tells Mau he still only owes her two; the letter lie is forgiven. Mau and Yuka take their promised dance by the pool and then sit under a tree to wait. Mau settles against Yuka, and they both fall asleep. They're woken by DIO, alarmed, because it's very late and they should have been home hours ago.
 
 *When: B+459. Evening into night. "28." Under it, in Yuka's hand: "EXPERT". Underlined.*
 
@@ -163,69 +163,47 @@ She stops eating.
 
 DIO looks up.
 
-“Elmesia,” says Mau. ᴹ
+“Elmesia,” he says. ᴹ
 
-Elmesia looks up.
+Elmesia looks up too. Yuka can see her shoulders go down a little. Both of them have come here with something they can only get as far as telling him. He caught himself in the middle of trying to put it right and stays there long enough to see what happens if he asks instead.
 
-Mau looks at them both. Very calmly. In the lantern light. The way he looked at Satella in the common room, waiting for her to ask. The way he looked at Rem across the kitchen table, before the sun.
+“Do you want help with the first sentence?” he asks. ᴹ
 
-“I'm going to say it,” he says. “Because nobody else is going to, and the cakes are going to run out.” ᴹ
+“Yes,” says Elmesia. ᴱˡ
 
-Neither of them moves.
+DIO opens her mouth. She seems surprised by how quickly the other answer came. “Help. With the first one,” she says. ᴰ
 
-“DIO loves you,” Mau says to Elmesia. ᴹ
+“Which part?” ᴹ
 
-Plainly. The plain thing. Not the clever thing.
+DIO shifts the small dragon from one hand into the other. “You can tell her why I wanted to come again.” ᴰ
 
-“Not the friend way,” he says. “The other way. The big way. She wants you happy *with her*. Not anywhere. Here. In this garden. Reading her letters and looking at her plant. She worked it out four nights ago at my table, and she's been too frightened to say it ever since.” ᴹ
+“Because you wanted to see her,” he says. ᴹ
 
-He turns to DIO.
+“Yes.” DIO sits very still. “I wanted to see you,” she says to Elmesia. “I knew where the plant was going to sit before I left home.” ᴰ
 
-“And Elmesia loves you,” he says. ᴹ
+Elmesia puts a finger against the rim of the pot. She's looking at DIO now. It's an improvement until Mau looks at her again and she suddenly finds a loose thread on the shawl that needs her attention.
 
-DIO goes completely still.
+“Will you tell her the thing about the bird?” she asks him. ᴱˡ
 
-“The same way,” says Mau. “She told me. The first morning I came here. Before you'd even met in the garden. She looks at the window for the bird on the days it's due. She didn't put your name on the first letter because she didn't want you to know she was asking about you. She was afraid you only liked her because she was kind to you, and you'd never had much kindness, and you wouldn't know the difference.” ᴹ
+“Are you going to tell her when you started doing it?” ᴹ
 
-He stops.
+“That part I'll tell her.” ᴱˡ
 
-“There,” he says. “That's it. That's what both of you have been trying to say for an hour. Now you don't have to.” ᴹ
+He nods. “She gets up to look for the bird,” he says to DIO. “On the days she's expecting your letter.” ᴹ
 
-* * *
+DIO looks up. For a moment Elmesia can still hear the fountain without anything to compete with it.
 
-They go red.
+“Do you *really*?” DIO asks. ᴰ
 
-Both of them. At exactly the same moment. Yuka sees it, because Yuka can see colour, and Mau can't, and she'll tell him afterwards because he'll want to know.
+“I started the second week,” says Elmesia. “It hasn't been getting in before breakfast. I've been getting up anyway.” ᴱˡ
 
-It starts at DIO's collar and goes up. All the way up. Her neck, her jaw, her cheeks, the tips of her ears. Red. Bright red. Red the way the hoodie is papaya, impossible to miss.
+Yuka tries to leave half a cake on the plate. She picks it up again so she can laugh into something. When she turns back both of them have gone red to the ears, and Mau has managed not to notice a single part of it.
 
-And on the other side of Yuka, at exactly the same time, Elmesia. The same. Red from her collar to the tips of her ears, which are long, and which go red all the way along, like lanterns being lit one after another down a path.
+“Would you like us to stay?” he asks. ᴹ
 
-Neither of them says anything.
+DIO looks at Elmesia. Then at Yuka. “I'd like the other half of that cake to stay.” ᴰ
 
-They're not looking at each other. They're looking at Mau. Both of them. With identical expressions of absolute, scalding horror. Because he said it. Out loud. In front of everyone. In front of *Yuka*. The thing they'd both been holding in their mouths for an hour, for a week, for six months, and couldn't say. He just said it. Both halves. Like reading a shopping list.
-
-Yuka puts her face in Mau's coat, where he's standing right in front of her, and shakes.
-
-* * *
-
-“You,” says DIO. To Mau. In a strangled voice. ᴰ
-
-“Yes,” says Mau. ᴹ
-
-“You *said* it.” ᴰ
-
-“Yes.” ᴹ
-
-“You weren't *supposed* to say it. *I* was supposed to say it. That was the *point*.” ᴰ
-
-“You weren't saying it,” says Mau. “Neither of you was saying it. I waited an hour.” ᴹ
-
-DIO opens her mouth to argue.
-
-And then she stops. And turns her head. Slowly. Across Yuka, across the plant, to the other end of the bench.
-
-Where Elmesia is sitting, red to the ears, looking back at her.
+Yuka puts it straight in her hand. DIO only has a moment to turn it over before Elmesia puts her other hand out, palm up on the bench. DIO looks down at it and gives it the hand with the dragon in it. Elmesia moves closer to hold both.
 
 * * *
 
@@ -267,15 +245,15 @@ She kisses him again for arguing. He lets her have the next step, then takes one
 
 She sits on the root and pulls him down beside her.
 
-She leans against him. Then she shifts, and turns, and lies down with her back on the root and her head on his chest, the way she does on the couch, the way she did after the red gate, when he couldn't stop and she held him until he could.
+She leans against him. He rests his chin on her hair, lifts it, and stays with his head up until she turns round to see what he's doing. She draws him down against her before he can think how to sit. He gets an arm behind her and puts his cheek against her chest.
 
 He puts his arm round her.
 
-“You said it,” she says. Into his chest. ʸ
+“You got them looking at each other,” she says, against his hair. ʸ
 
 “I know.” ᴹ
 
-“Both halves. Out loud. In front of them.” ʸ
+“It only took the plant, the bird, and half a cake.” ʸ
 
 “I know.” ᴹ
 
@@ -283,7 +261,7 @@ He puts his arm round her.
 
 “I know.” ᴹ
 
-She laughs. Into his chest. She can feel his heart under her ear.
+She laughs. It makes him lift his head, then put it down again.
 
 “They went red,” she says. “Both of them. All the way up. Elmesia's ears. You should have seen.” ʸ
 
@@ -293,17 +271,17 @@ So she tells him. What red is. What it looked like. How it went up Elmesia's ear
 
 He listens to all of it.
 
-And then she stops talking, because she's warm and he's warm and the lanterns are moving very slowly on the pool and his heart is going under her ear, steady, steady.
+She stops halfway through telling him where Elmesia was looking. His body has gone quiet against hers. The lanterns are still moving across the pool.
 
 “Let go,” she says. Very quietly. ʸ
 
-His arm slides lower around her. She reaches behind herself to make room for it and feels him settle into the space she's made.
+His arm slides lower around her. She moves her knee so he can turn in and feels him put the full weight of his shoulder into the place she made for it.
 
 For a little while she plays with the edge of his cuff. He turns his palm over beneath her fingers and lets it lie there. His breath goes out warm against the top of her head. The next one takes longer to come.
 
 He falls asleep.
 
-She falls asleep a minute after, with her head on his chest and her hand in his shirt.
+She falls asleep after him, sitting with his head still against her, her hand closed at the back of his neck.
 
 * * *
 
@@ -321,7 +299,7 @@ Behind her, a little way off, Elmesia, holding a shawl, looking at the sky.
 
 “Do you know what *time* it is?” says DIO. ᴰ
 
-Mau sits up, slowly, with Yuka still on his chest.
+Mau sits up slowly. Yuka keeps hold of his cuff until he gets his feet under him.
 
 “No,” he says. ᴹ
 

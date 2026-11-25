@@ -72,7 +72,7 @@ No requiere elevar todas a rango formal de general. Una unidad puede ser **útil
 
 > Mauri: «luego vemos… no me gustaron todas tus ideas». **Nada de esto es canon ni está autorizado.** Es una lista para que Mauri escoja, descarte o cambie cuando quiera.
 
-Criterio propuesto: se promueve por lo que hacen, no por lo fuertes que son (como Stair, View y Pickles, V85 #17). El nombre lo pone quien se lo ganó; la voz solo llega con una evolución.
+Criterio propuesto: se promueve por lo que hacen, no por lo fuertes que son (como Stair, View y Pickles, V85 #15). El nombre lo pone quien se lo ganó; la voz solo llega con una evolución.
 
 1. **Dragón constructo del Arquitecto (V71)**, el que le abrió el abdomen a Mau. Lo tiene y nunca lo ha llamado. El día que lo saca y le pone nombre él mismo, eligiendo no esconder lo que lo lastimó. Kamish presente.
 2. **Los dos dragones de V43**, sin nombre: alumnos de Kamish y posibles monturas (para Yuka u Ori).

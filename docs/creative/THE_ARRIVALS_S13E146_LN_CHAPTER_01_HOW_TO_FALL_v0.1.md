@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 19 — How to Fall
+## Chapter 17 — How to Fall
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 19
+**Reading order:** 17
 **Source episode:** S13E146
 **Continuity state:** B+476 ("11"). The falling lessons with Suho, which Mau left in the middle when Mai came with her paper, have gone on without him: Jin-Woo and Suho, every morning, in the yard. Today Suho lands on his shoulder for the first time and wants to show Mau. Jin-Woo, watching, tells Mau something he's never said: that he taught his son to fall first because he himself never learned, in his world; he only learned to get up, over and over, alone, and it nearly killed him. Hae-In brings tea. Jin-Woo's mother and Jin-Ah watch from the porch of their house on the south road. Mau learns to fall too, properly, from a small boy, and is very bad at it, and everyone enjoys this enormously.
 

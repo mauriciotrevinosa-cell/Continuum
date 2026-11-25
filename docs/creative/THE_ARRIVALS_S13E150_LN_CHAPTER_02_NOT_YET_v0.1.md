@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 29 — Not Yet
+## Chapter 27 — Not Yet
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1 (end of volume)
 **Volume:** 85
-**Reading order:** 29
+**Reading order:** 27
 **Source episode:** S13E150
 **Continuity state:** B+487 ("0"), the hour. The ninety days end. Yoru comes in Asa's body to the edge of the grounds and finds the whole house standing in the yard, exactly as drawn in Rimuru's notebook. She says: not yet. She promised him something better than the basin, and something better takes longer. Being, she says, so very generous, she won't kill anyone while she prepares it. In exchange she wants one answer: why didn't he enjoy the fight with the devils? He tells her the truth: he hadn't slept in days, he'd just come from a fight where he did smile, the devils were irritating, and all he wanted was to go home and sleep. Yoru says nothing. She'll give the house warning, and rules, in good time; he asks for a month; she offers two weeks; he starts to say something and she says one word other than "thanks" and it's one week; he says "thanks." Asa surfaces to say hello and goodbye. Mau offers her a camping kit, a change of clothes and food, in case she has nowhere. Asa says they have a place, but it's far away; if the offer stands, she'll take it. Yoru, grudgingly: "Asa told me to say thanks." They go. The countdown in the notebook ends. The house goes in to lunch.
 

@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 10 — The Morning After
+## Chapter 8 — The Morning After
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 10
+**Reading order:** 8
 **Source episode:** S13E141
 **Continuity state:** B+468 ("19"). They come down late. Nobody says anything. The whole house says nothing so loudly it rings. Yuka is clingier than she's ever been, and doesn't care who sees; Mau has stopped trying to make his face behave. Ori, who is not stupid, asks at the table why everyone is smiling at nothing, and is told by six people at once that it's the pears. Umaru has to leave the room. Shuna puts an extra cake on their plate without comment. Makima, on the north-wing step, raises one hand to Yuka, and Yuka raises one back. Gojo opens his mouth once and Shoko stands on his foot. In the afternoon the two of them fall asleep on the couch. Nobody wakes them.
 

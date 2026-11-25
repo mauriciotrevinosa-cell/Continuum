@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 6 — The Knot
+## Chapter 4 — The Knot
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 6
+**Reading order:** 4
 **Source episode:** S13E139
 **Continuity state:** B+464 ("23"). Beatrice asks. Not because she must; because she's a Fort member now and has decided she'd like to be one without a contract under it. In the library, with Echidna in the chair by the lamp and Frieren in the doorway as witness, Echidna shows Mau where the knot was tied, four hundred years ago. Mau takes its weight onto himself, the way he carries Makima's rule. It hurts: the specific ache of having to wait for someone who may never come. The wheel turns once. Then a second time. On the second turn the knot can't hold him, and with nothing left to hold, it comes undone. Beatrice feels it go. Echidna, who wanted to know whether it was possible, now knows, and her face shows something that isn't curiosity at all. The library doesn't close. Beatrice is still standing in it.
 

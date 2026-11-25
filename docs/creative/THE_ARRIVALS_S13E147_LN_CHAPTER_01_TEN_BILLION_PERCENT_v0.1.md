@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 21 — Ten Billion Percent
+## Chapter 19 — Ten Billion Percent
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 21
+**Reading order:** 19
 **Source episode:** S13E147
 **Continuity state:** B+478 ("9"). Senku has heard about the satellite. Everybody has: Umaru's banner, Ori's investigation, "there aren't any satellites here". Senku, who once left the table annoyed by an infinite cup with a finite spout, has been annoyed about this too, quietly, for three weeks. At supper he puts a sheet of paper on the table in front of Umaru and Rem: a plan. Not a satellite; not yet. A telescope first, then a rocket that goes up and comes down, then one that goes up and doesn't. Ten years, maybe twenty. "There aren't any satellites here," he says, "yet." Umaru cries. Rem doesn't let go of her hand. Ori asks to be on the team. Senku says the Fort can have a seat on the launch committee. Mau says the inventory can supply whatever the Shop has. Senku says that's cheating, and accepts.
 

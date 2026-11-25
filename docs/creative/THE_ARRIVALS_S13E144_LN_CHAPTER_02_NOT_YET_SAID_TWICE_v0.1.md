@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 16 — Not Yet, Said Twice
+## Chapter 14 — Not Yet, Said Twice
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 16
+**Reading order:** 14
 **Source episode:** S13E144
 **Continuity state:** B+473 ("14"). Emilia's point of view. Emilia has had tea with Satella every week since she arrived, and every week asked one question, and every week Satella has said "not yet" to the hard ones. Today Emilia sees Satella at the inside table through Mau, laughing at Pride's spoon game, and feels something she doesn't have a name for and Puck does: envy. Small, sharp, ordinary. She's the half-elf who was feared her whole life for looking like Satella, and now she's jealous of the people Satella laughs with. She tells Satella so, at tea, plainly. Satella goes very still and then says, for the first time, not "not yet" but "thank you for telling me." The seed of Satella's own envy, spoken by someone else. Satella asks Emilia if she would like to see the room inside Mau some day. Emilia says yes.
 

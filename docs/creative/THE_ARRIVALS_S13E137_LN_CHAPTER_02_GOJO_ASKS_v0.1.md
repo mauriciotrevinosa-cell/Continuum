@@ -5,9 +5,9 @@
 **Volume:** 85
 **Reading order:** 2
 **Source episode:** S13E137
-**Continuity state:** B+461 ("26"). Mau buys Beatrice her own owl in town in the morning; Beatrice says it is acceptable, in fact, and gives Umaru's back to Umaru. In the afternoon Gojo finds Mau on the porch and asks, without a joke, for the real one: not training, not forty seconds, not an excuse to read him. A fight. All of it. Because he wants it, and because they both can now. Mau says yes. They set the rules together, with Shoko and Ciel: no army, no shadows, no Purple fired at each other; Shoko and Ciel can each call it; Frieren will put a barrier round the old quarry field. Tomorrow at dawn. Ori appoints herself scorekeeper. The house treats it like a festival.
+**Continuity state:** B+461 ("26"). Mau buys Beatrice her own owl in town in the morning; Beatrice says it is acceptable, in fact, and gives Umaru's back to Umaru. In the afternoon Gojo finds Mau on the porch and asks, without a joke, for the real one: not training, not forty seconds, not an excuse to read him. A fight. All of it. Because he wants it, and because they both can now. Mau says yes, after Yoru: when nothing is counting down and he can do it properly. Gojo groans and instead takes his turn on the house gate tomorrow, asking for it turned all the way up so the gate reads all of him. Shoko will be at the door. Ori appoints herself scorekeeper. The house treats it like a festival anyway.
 
-*When: B+461. "26." Under it, in Gojo's hand, enormous: "TOMORROW!!!" Shoko has crossed out two of the exclamation marks.*
+*When: B+461. "26." Under it, in Gojo's hand, enormous: "GATE TOMORROW!!!" Shoko has crossed out two of the exclamation marks.*
 
 Gojo doesn't make a joke.
 
@@ -27,7 +27,7 @@ Mau doesn't say anything at first.
 
 He knows what Gojo means. He's known for a long time. Since the yard, months ago, the training round. *Another round*, Gojo called it then. Forty seconds. An excuse, really. A way to get close enough to read Mau's face while his fists were busy.
 
-And before that, a long time before that. The first fight. Day 133. The two of them in a field with Purple in their hands, both of them, the same technique pointing at the same moment, and neither of them firing, because Rika broke Mau's hands apart and Maki stopped Gojo, and then the world reached in and took something from Gojo that he's never talked about since.
+And before that, a long time before that. The first fight. Day 133. The two of them in a field with Purple in their hands, both of them, the same technique pointing at the same moment, and neither of them firing, because Rika broke Mau's hands apart and Maki stopped Gojo, and then the world reached in and took things from both of them, for a while. Gojo has all of his back now. Every bit.
 
 They never finished it.
 
@@ -35,7 +35,7 @@ They never finished it.
 
 He turns his head and looks at Mau with those eyes.
 
-“A fight,” he says. “All of it. Because I want it. Because you can now. Because I can, still, just about. And because I've been watching you fight everyone else for a year and I'm *jealous*.” ᴳ
+“A fight,” he says. “All of it. Because I want it. Because you can now. Because I've got everything back. And because I've been watching you fight everyone else for a year and I'm *jealous*.” ᴳ
 
 * * *
 
@@ -63,87 +63,63 @@ Then the grin comes back, all the way, and he claps Mau on the shoulder hard eno
 
 * * *
 
-They set the rules with Shoko.
+“After Yoru,” says Mau. ᴹ
 
-That's Gojo's idea, which surprises everyone. He goes and fetches her from the clinic himself and sits her down at the kitchen table, and Mau sits across from them, and Ciel, at Mau's insistence, speaks out loud through him so everyone can hear.
+Gojo's hand stops on his shoulder.
 
-“No army,” says Shoko. “No shadows. It's you and him. One on one.” ˢʰ
+“After,” says Mau. “When nobody's counting days on the stairs. When I'm not waiting for anything. I want to do it with nothing else in my head. All of it. Properly. Not squeezed in between.” ᴹ
 
-“Fine,” says Mau. ᴹ
+Gojo looks at him for a long moment.
 
-“Fine,” says Gojo. ᴳ
+Then he groans, enormously, and falls backwards onto the porch boards with his arms flung out.
 
-“No Purple at each other,” says Shoko. ˢʰ
+“*Twenty-six days*,” he says, to the porch roof. ᴳ
 
-They both look at her.
+“Twenty-six,” says Mau. ᴹ
 
-“I mean it,” says Shoko. “I've heard about Day 133. From both of you. Separately. Both of you with it in your hands, pointed at each other. I am not having that in my week. You can make it. You can't fire it at each other. Not once.” ˢʰ
+“You're cruel. You know that? You're a cruel man.” ᴳ
 
-There's a pause.
+“Yes.” ᴹ
 
-“Fine,” says Gojo, more slowly. ᴳ
+Gojo lies there a while longer. Then he sits up.
 
-“Fine,” says Mau. ᴹ
+“Fine,” he says. “Then I'm taking my turn at the gate tomorrow. Shuna's rota says it's mine anyway.” ᴳ
 
-“Domains,” says Ciel. “His compression strain from the quarry is fully healed. If he opens one, I'll be watching the brain refresh. If it falls behind, I call it.” ᶜ
+“It is,” says Mau. ᴹ
 
-“And so do I,” says Shoko. “Either of us can stop it. Any time. For any reason. No arguing.” ˢʰ
+“And I want it turned all the way up,” says Gojo. “The gate reads who goes in, doesn't it. So let it read me. Everything. No holding back. Let's see what it builds when it gets all of me.” ᴳ
 
-She looks at Gojo.
+Mau thinks about the gate. DIO's gift, three doors now, the one that changes every week and reads whoever walks through it and builds itself to fit.
 
-“That goes for you too,” she says. “If I say stop, you stop. I don't care how much fun you're having.” ˢʰ
+He's never seen it read all of Gojo.
 
-Gojo looks at her for a long moment.
+Nobody has.
 
-“If you say stop,” he says, quite seriously, “I'll stop.” ᴳ
-
-Shoko looks back at him.
-
-Something passes between them that Mau doesn't entirely follow and isn't meant to.
-
-“Good,” says Shoko. ˢʰ
+“All right,” he says. ᴹ
 
 * * *
 
-Frieren agrees to put up a barrier.
+Shoko hears about it before supper.
 
-The old quarry field, past the orchard and over the hill. Not the quarry itself, where Mau fought Dabura; the flat ground beside it, wide and empty, where nothing grows and nobody goes. Frieren walks out there in the evening with her staff and stands in the middle of it for a while, looking at the ground, and then walks the edge of it, slowly, all the way round, and Mau feels the barrier go up behind her as she walks, fine and strong and very old.
+She doesn't say anything. She just goes to the clinic, and comes back with her bag, and puts it down by the board beside the gate, ready, and goes back to helping Shuna with the rice.
 
-“That will hold,” she says, when she comes back. ᶠ
+“I'll be at the door,” she says, to nobody, over her shoulder. ˢʰ
 
-“Against both of us?” says Mau. ᴹ
-
-Frieren looks at him.
-
-“Against both of you,” she says, “if you keep to Shoko's rules. If you don't, it won't matter what holds.” ᶠ
+Gojo, at the table, goes quiet for a moment. Then the grin comes back.
 
 * * *
 
 Ori appoints herself scorekeeper.
 
-Nobody asks her to. She comes down to supper with her notebook already open to a fresh page, ruled into two columns, and at the top of one column she's written GOJO and at the top of the other she's written DAD, and underneath, in smaller letters, POINTS FOR: STYLE, NOT DYING, DOING WHAT SHOKO SAYS.
+Nobody asks her to. She simply appears at supper with her notebook and a new page ruled into columns: *TIME*, *THINGS BROKEN*, *STYLE*, and *CAME OUT (Y/N)*.
 
-“How do you get a point for not dying?” says Gojo, reading it upside down. ᴳ
+“How do you get a point for coming out?” says Gojo, reading it upside down. ᴳ
 
-“By not dying,” says Ori. ᴼ
+“You come out,” says Ori. ᴼ
 
 “That's fair,” says Gojo. ᴳ
 
-“Style is worth more,” says Ori. “Doing what Shoko says is worth the most.” ᴼ
-
-“Why the most?” ᴳ
-
-Ori looks at him over the top of the notebook with Frieren's eyes.
-
-“Because it's the hardest,” she says. ᴼ
-
-Shoko, at the end of the table, laughs into her soup.
-
-* * *
-
-The house treats it like a festival.
-
-By the end of supper there's a plan. Shuna's making food to carry out to the hill: rolls, the honey cake, the small round things from the island, a whole basket of the fried things Gojo likes. Umaru's making a banner. Milim wants to make a second banner, for the other side. Emilia wants to know if there'll be music. Senku says he'll bring a chair.
+The house treats it like a festival anyway. Shuna starts on a basket of the fried things Gojo likes, for after. Umaru makes a sign for the gate. Milim says she's going in with him, and Shuna says it's Gojo's turn, and Milim's comes round like everyone's, and Milim sulks for exactly as long as it takes Shuna to put a fried thing in her hand.
 
 Yuka, beside Mau, has her chin in her hands and is watching him with an expression he can't read.
 
@@ -151,15 +127,15 @@ Yuka, beside Mau, has her chin in her hands and is watching him with an expressi
 
 He looks at her.
 
-“The fight,” she says. “You want it. I can tell. Your face is doing the thing.” ʸ
+“The fight,” she says. “The real one. You want it. I can tell. Your face is doing the thing.” ʸ
 
 He puts his hand up to his face. It is doing a thing.
 
-“Yes,” he says. “I do.” ᴹ
+“Yes,” he says. “I do. After.” ᴹ
 
 Yuka nods slowly.
 
-“Good,” she says. “Yoru wanted you to enjoy one. You didn't. Enjoy this one.” ʸ
+“Good,” she says. “Yoru wanted you to enjoy one. You didn't. Enjoy that one.” ʸ
 
 She steals his pickles.
 

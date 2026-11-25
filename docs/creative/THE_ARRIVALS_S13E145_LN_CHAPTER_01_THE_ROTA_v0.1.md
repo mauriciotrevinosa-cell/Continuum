@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 17 — The Rota
+## Chapter 15 — The Rota
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 17
+**Reading order:** 15
 **Source episode:** S13E145
 **Continuity state:** B+474 ("13"). Ciel was right: the soldiers all want the little room with the very good view in Elmesia's palace. There has been a quiet, determined petition in the shadow for three weeks. Mau, with Ciel and Noise, finally sits down and goes through the legion properly, the review he's been putting off for months: who's there, who has a name, who has been standing at the back since the first gates without one. He sets a rota for the room. And he gives names, at last, to the ones who've earned them and never asked: the soldier who stood guard at the foot of Ori's stairs every night of the two weeks; the one who has held the window in Elmesia's room since the first visit. Igris, consulted, approves. Ori is allowed to help choose one name and chooses badly and wonderfully.
 

@@ -1,11 +1,11 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 5 — Good Strange
+## Chapter 3 — Good Strange
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 5
+**Reading order:** 3
 **Source episode:** S13E139
-**Continuity state:** B+463 ("24"). Shoko's point of view. The morning after the rematch. Gojo comes to the clinic with nothing wrong, the way Mau does, and sits on the end of the cot. She checks the scrape anyway. He tells her the thing he didn't say on the field: that for an hour yesterday he forgot about Day 133 and the nerf and what he isn't anymore, and just played; and that the reason he could was that she was standing on the edge and he knew she'd call it if it went wrong. He's never trusted anyone to stop him before. Shoko doesn't make it easy for him. She says it's still slow. He says slow is good. She lets him stay for tea. Neither of them uses the word. Mau, passing the window, doesn't look in.
+**Continuity state:** B+463 ("24"). Shoko's point of view. The morning after Gojo's turn on the house gate, turned all the way up. Gojo comes to the clinic with nothing wrong, the way Mau does, and sits on the end of the cot. She checks the scrape anyway. He tells her the thing he didn't say at the door: that for an hour yesterday he forgot about being the strongest, about holding back, and just played; and that the reason he could was that she was sitting on the step by the door and he knew she'd be there if it went wrong. He's never trusted anyone to stop him before. Shoko doesn't make it easy for him. She says it's still slow. He says slow is good. She lets him stay for tea. Neither of them uses the word. Mau, passing the window, doesn't look in.
 
 *When: B+463. "24." Under it, in Shoko's hand, which is very small and very neat and almost never appears in the notebook: "clinic, 1 visitor, nothing wrong".*
 
@@ -31,7 +31,7 @@ He's terrible at it. He always has been. He puts too much leaf in and leaves it 
 
 She checks the scrape while it's brewing.
 
-She doesn't ask. She just crosses the clinic and takes his chin in her hand and turns his face to the window to look at it. It's healed already. Mostly. A faint line along his cheekbone, where the dust and the ground took the skin off. He's let his RCT do most of it and left the last little bit, she can tell. Left it on purpose.
+She doesn't ask. She just crosses the clinic and takes his chin in her hand and turns his face to the window to look at it. It's healed already. Mostly. A faint line along his cheekbone, where something in the gate took the skin off. He's let his RCT do most of it and left the last little bit, she can tell. Left it on purpose.
 
 “You left that,” she says. ˢʰ
 
@@ -47,7 +47,7 @@ She goes back to the cupboard.
 
 She doesn't turn round.
 
-“Yesterday,” he says. “In the field. For about an hour. I forgot.” ᴳ
+“Yesterday,” he says. “In the gate. For about an hour. I forgot.” ᴳ
 
 “Forgot what?” ˢʰ
 
@@ -55,7 +55,7 @@ She doesn't turn round.
 
 He's quiet for a moment. She hears him turn the cup in his hands.
 
-“Day 133,” he says. “What it took. What I'm not, anymore. I think about it every day. Every single day, Shoko. When I wake up. When I put the blindfold on. When I see him do something I used to be able to do, and do it better than I ever—” ᴳ
+“Being the strongest,” he says. “Holding back. I think about it every day. Every single day, Shoko. Since I was a kid. When I wake up. When I put the blindfold on. Every fight, every training round, every time I touch anything, there's a part of me measuring how much is too much. How much would break it.” ᴳ
 
 He stops.
 
@@ -73,7 +73,7 @@ A pause.
 
 She hears him look for the word.
 
-“Playing,” he says. “I was playing. Like when we were young. Before any of it. Before I had to be the strongest. Before it meant anything. Just—running about in a field with someone who could keep up, laughing.” ᴳ
+“Playing,” he says. “I was playing. Like when we were young. Before any of it. Before I had to be the strongest. Before it meant anything. Just—running about in a place that could keep up, laughing. I told it to read all of me, Shoko. And it did. And it built something that could take it. I didn't have to measure anything.” ᴳ
 
 He puts the cup down.
 
@@ -93,7 +93,7 @@ Not grinning. Not performing. Just looking at her.
 
 She doesn't answer.
 
-“Because you were on the edge,” says Gojo. “Standing. Arms folded. And I knew, the whole time, that if it went wrong, if I went too far, if he went too far, if anything happened, you'd say *stop*. And I'd stop. And it'd be all right.” ᴳ
+“Because you were at the door,” says Gojo. “Sitting on the step. Arms folded. Bag beside you. And I knew, the whole time, that if it went wrong, if I went too far, if anything happened, you'd be there when I came out. And it'd be all right.” ᴳ
 
 He looks at her.
 
@@ -107,11 +107,11 @@ He looks down at his hands.
 
 Shoko doesn't say anything for a long time.
 
-She thinks about the field. Standing on the barrier's edge with her arms folded. Watching him come at Mau from three directions at once, laughing. Watching the domains go up. Watching them both burn out and come at each other with their fists. Watching them both bring their hands up, with *that* forming between their palms, pointed at each other, the way it was on Day 133, and her whole body going cold, her mouth opening, the word right there—
+She thinks about the step. An hour on it, with her arms folded and her bag at her feet, listening to the gate shake. The whole house pretending not to listen. Ori beside her with the notebook, writing down every boom. Twice the ground jumped. Once something on the other side of the door made a sound she has no name for, and her hand went to the bag, and stayed there.
 
-And then them turning. Together. Up.
+And then the door opening, and him walking out, dusty and bleeding from one cheek and laughing so hard he had to hold the frame.
 
-She didn't have to say it.
+She didn't have to go in.
 
 He didn't make her.
 
@@ -121,7 +121,7 @@ He didn't make her.
 
 He looks up.
 
-“This,” says Shoko. “Whatever this is. It's still slow. I'm not going to make it fast because you had a good day in a field and said something nice in my clinic.” ˢʰ
+“This,” says Shoko. “Whatever this is. It's still slow. I'm not going to make it fast because you had a good day in a gate and said something nice in my clinic.” ˢʰ
 
 She folds her arms.
 

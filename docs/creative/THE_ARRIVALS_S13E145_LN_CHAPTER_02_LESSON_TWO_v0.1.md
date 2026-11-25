@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 18 — Lesson Two
+## Chapter 16 — Lesson Two
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 18
+**Reading order:** 16
 **Source episode:** S13E145
 **Continuity state:** B+475 ("12"). Shuna said lesson two was next week, and to bring the supervisor. It is nearly four weeks later; there was a war, and a reconciliation, and a great deal else. Shuna doesn't mention it. Today it's bread: the house loaf, which Shuna has made every morning since the inn was an inn. Yuka supervises from the counter, as before, and is a worse supervisor than ever because she keeps getting off the counter to stand behind him with her arms round his waist. Shuna allows it, within limits. The bread comes out right on the first try. Shuna is suspicious. Mau admits he's been watching her make it every morning for three weeks, from the table, on purpose. Shuna says that's the lesson.
 
@@ -25,7 +25,7 @@ It was supposed to be the week after lesson one.
 
 *Lesson two is next week. Bring the supervisor.* That's what she said. Nearly four weeks ago. On a day when he'd burned two trays and got the third one right, and she'd told him what the house looks like from the stove.
 
-Then the week after was the yard, and the river, and Cross. And the week after that was the workshop, and the pins, and the seven rooms. And then the garden, and the rematch, and the pears, and the expedition.
+Then the week after was the yard, and the river, and Cross. And the week after that was the workshop, and the pins, and the seven rooms. And then the garden, and Gojo's gate, and the pears, and the expedition.
 
 Shuna didn't mention it. Not once. She went on making the bread every morning, and the soup every night, and the plates for everyone, and didn't say *you were supposed to come back*.
 

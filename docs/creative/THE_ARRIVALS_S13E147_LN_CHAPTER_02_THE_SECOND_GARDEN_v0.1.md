@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 22 — The Second Garden
+## Chapter 20 — The Second Garden
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 22
+**Reading order:** 20
 **Source episode:** S13E147
 **Continuity state:** B+479–480 ("8"–"7"). DIO's second visit to Elmesia, the first since they said it. DIO takes the plant from the Guest Inn windowsill for its holiday in the sheltered corner of the palace garden. Mau brings them through the Exchange; Yuka comes for the company and the cakes. This time nobody needs a mediator. Mau and Yuka sit in the little room with the very good view, with View, who keeps the room between rota weeks and has to share his window. They watch DIO and Elmesia plant it together in the lit garden below, and argue about how deep, and laugh. DIO comes up the stair at the end with dirt on her hands and a face Mau can't see the colour of but can guess. She tells him she isn't counting the debts anymore. Then she says: still two.
 

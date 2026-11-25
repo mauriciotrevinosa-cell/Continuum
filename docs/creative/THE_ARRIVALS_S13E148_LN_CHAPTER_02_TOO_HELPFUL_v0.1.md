@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 24 — Too Helpful
+## Chapter 22 — Too Helpful
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 24
+**Reading order:** 22
 **Source episode:** S13E148
 **Continuity state:** B+482 ("5"). Ciel tells Mau what she's seen, as promised: not a report, a telling. Cross has kept every term. He hasn't spoken Mau's name. He hasn't gone near Ori. He has been helpful: to Shuna, to Mai, to Senku, to the witches. Too helpful, Maru said. Today Ciel noticed something else: Cross has been asking people small questions. Harmless ones. Where Mau goes in the mornings. Which nights he sleeps in the clinic. How far Makima can walk. When the house goes quiet. None of it is forbidden. All of it is a map. Mau doesn't confront him; there's nothing to confront. He tells Yuka, plainly. He tells Maru. He tells Makima, who listens with an expression Mau has seen once before, on her own face, in another life, at the outer post. "He's learning," Makima says. "Slowly. The way I did." Seed only. Nobody moves yet. Everyone watches.
 

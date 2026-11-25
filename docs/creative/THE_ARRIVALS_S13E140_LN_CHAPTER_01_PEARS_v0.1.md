@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 7 — Pears
+## Chapter 5 — Pears
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 7
+**Reading order:** 5
 **Source episode:** S13E140
 **Continuity state:** B+465 ("22"). The old pear tree is ready, and so is half the orchard. The whole house picks. Kamish is asked to lower the high branches and does it very carefully; Milim is asked not to shake the trees and does; Beru carries the baskets; the witches sit under the trees and are handed pears; Dabura discovers fruit picking and takes it extremely seriously. Ori runs the operation like a war. Beatrice opens the Fort's new library door, as promised, and fills the bottom shelf with books about fruit. Yuka spends the afternoon on Mau's shoulders reaching the top branches, and stops halfway through to look round at the orchard, at all of them, and goes quiet in a way he notices. She doesn't say anything yet. That evening there are pears in everything.
 
@@ -21,7 +21,7 @@ And Ori stands up on her chair.
 
 Ori runs it like a war.
 
-Mau has seen her run the Fort, and the expedition, and the scoring at the rematch. He's never seen her like this. She has a map of the orchard, drawn in the night apparently, with every tree numbered and a plan for every row. She has the house divided into units. She has a whistle, borrowed from somewhere, which she blows at the start of each phase and which makes Kamish jump every time.
+Mau has seen her run the Fort, and the expedition, and the scoring at Gojo's gate. He's never seen her like this. She has a map of the orchard, drawn in the night apparently, with every tree numbered and a plan for every row. She has the house divided into units. She has a whistle, borrowed from somewhere, which she blows at the start of each phase and which makes Kamish jump every time.
 
 “Unit One,” she says, standing on her crate at the edge of the orchard with her notebook. “Low branches. Rem, Umaru, Emilia, Satella.” ᴼ
 

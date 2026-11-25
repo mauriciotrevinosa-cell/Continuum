@@ -56,6 +56,10 @@ El **total actual de ficción es mayor** por el crecimiento normal fuera de cám
 
 **Nota de separación:** Ashborn real es huésped voluntario que desea privacidad (en el Inn o en Mau), no es sombra comandada ni comodín para el ejército. DIO, Ciel, Noise y shikigamis nativos de Mau/Yuka tampoco se suman a Arise. No mezclar la legión de Jin-Woo con la de Mau.
 
+## Uso en las puertas de V85
+
+En *Fifty-Nine Seconds* (V85#16), Mau incorpora sombras ordinarias compatibles de la tercera puerta y sus soldados transportan núcleos y equipo al salir. No hay cifra exacta. En *Acceptable* (V85#17), el dragón carece de patrón persistente de sombra, así que no se incorpora a la legión. Las escamas se conservan como botín. Stair, View y Pickles son asignaciones identificadas del ejército en *The Rota*, no nuevas voces confirmadas ni cambios de rango.
+
 ## Criterios para promover de legión a «sombras útiles»
 
 No requiere elevar todas a rango formal de general. Una unidad puede ser **útil y especial por función** sin cambiar su clase del sistema. Orden de evaluación:

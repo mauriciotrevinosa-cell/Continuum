@@ -1,184 +1,150 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 16 — How to Fall
+## Chapter 16 — Fifty-Nine Seconds
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
 **Reading order:** 16
 **Source episode:** S13E146
-**Continuity state:** B+476 ("11"). The falling lessons with Suho, which Mau left in the middle when Mai came with her paper, have gone on without him: Jin-Woo and Suho, every morning, in the yard. Today Suho lands on his shoulder for the first time and wants to show Mau. Jin-Woo, watching, tells Mau something he's never said: that he taught his son to fall first because he himself never learned, in his world; he only learned to get up, over and over, alone, and it nearly killed him. Hae-In brings tea. Jin-Woo's mother and Jin-Ah watch from the porch of their house on the south road. Mau learns to fall too, properly, from a small boy, and is very bad at it, and everyone enjoys this enormously.
+**Continuity state:** B+476 ("11"). Mau and Milim take their turn through the right-hand house door. They split the floor and come back in under a minute, with new shadows and physical drops. They are both disappointed and ask for a better challenge. The Fort door's safety rules remain separate. At supper Suho shows Mau what he learned from Jin-Woo, and Mau and Yuka talk about the next run.
 
-*When: B+476. "11." Under it, in a child's enormous capitals: "I FELL RIGHT". Suho's.*
+*When: B+476. After breakfast at the house gate, then supper.*
 
-Suho lands on his shoulder.
+Milim is at the right-hand door before anybody comes to let her through it.
 
-Mau sees it from the porch. He's sitting with Yuka in the morning sun, not doing anything, and across the yard on the training ground Jin-Woo is saying *again* for what must be the hundredth time this week, and Suho runs, and jumps, and comes down, and instead of trying to land on his feet the way he has every single morning for three weeks, he tucks his chin and turns his body and comes down on the round of his shoulder and rolls.
+She's drawn a line in the dirt from the threshold to the boards. Mau finds her standing on one side of the line with both hands behind her back. Shuna is on the other side, eating the piece of toast she didn't finish at breakfast.
 
-All the way over. Onto his back. Onto his feet.
+“You can come closer,” Shuna tells him. “She's decided it would be worse if she crossed by accident.” ˢʰᵘ
 
-He stands there in the middle of the training ground with grass in his hair, looking astonished.
+“It's my turn,” says Milim. “I waited for everybody.” ᴹⁱ
 
-Then he turns round and looks straight at the porch.
+“You did,” says Mau. ᴹ
 
-“*Mau!*” he shouts. ˢᵘ
+Milim looks pleasantly surprised. She uncrosses her fingers behind her back. “I thought you were going to say something about the time I tried to go with Gojo.” ᴹⁱ
 
-* * *
+“You didn't get all the way through.” ᴹ
 
-Mau was supposed to be helping.
+“Exactly.” ᴹⁱ
 
-That was the plan, three weeks ago. Jin-Woo asked him. *Before anybody in my family learns to throw a punch, they learn to hit the ground without breaking anything. You've hit the ground more than anyone in this house. Help me.*
+The panel has read who they are before he opens it. It offers a branching floor under a stone hill. Ori has stopped on her way to the middle door with Chloe. She leans over to see what made Milim take a pencil out of her pocket. Milim puts a short mark through the middle of the drawing.
 
-And Mau helped for about twenty minutes, and then Mai came across the yard with her paper, and he went to sit on the step with her, and listened, and didn't come back.
+“You do that half,” she tells Mau. “I get this half. If one of us gets to the end early they can come over and see what the other one has left.” ᴹⁱ
 
-He felt bad about it. He meant to go back. Then the week happened. Then the next one.
+Mau looks at the map. The two lines meet at the room marked for the floor's guardian.
 
-Jin-Woo didn't mention it. He just kept going. Every morning. In the yard. With Suho. *Again.* *Again.* *Shoulder, not head.* *Again.*
+“Is the big one yours or mine?” he asks. ᴹ
 
-And now Suho is standing in the middle of the training ground with grass in his hair, shouting Mau's name.
+“Whichever of us gets there first.” ᴹⁱ
 
-Mau gets up.
+Chloe leans close to Ori and whispers, loud enough for both of them to hear, “How long do you think they'll be?” ᶜʰ
 
-* * *
+Ori has a sealed paper bag under one arm. It's the first supply drop for her group through the middle door. Pillow has put the end of his trunk over it to keep her from slipping off with the bag before he can see what she's brought.
 
-“Did you *see*?” says Suho. ˢᵘ
+“Long enough for us to eat this,” she says. ᴼ
 
-“I saw,” says Mau. ᴹ
-
-“I landed on my *shoulder*.” ˢᵘ
-
-“You did.” ᴹ
-
-“Dad said I'd do it one day and I *did*.” ˢᵘ
-
-He turns round and looks at his father with an expression of such pure, total triumph that Mau has to look at the ground for a moment.
-
-Jin-Woo is standing at the edge of the training ground with his arms folded. He isn't smiling. Jin-Woo doesn't smile much. But his face is doing something it doesn't usually do.
-
-“Again,” he says. ᴶʷ
-
-Suho runs, and jumps, and lands on his shoulder, and rolls.
+Mau opens the right-hand door. Shuna turns the little timer on the shelf. Milim waits until his heel is over the threshold and goes in after him.
 
 * * *
 
-Jin-Woo comes and stands beside Mau while Suho does it six more times.
+The first thing in Mau's half is a bridge across an underground stream. There are four flattened shapes clinging to the bottom of the bridge, with enough reach to pull a person through it while continuing to hold on. He can see all four sets of hands in the water.
 
-He doesn't say anything for a while. They watch Suho run and jump and fall and roll and get up, over and over, getting faster, getting cockier, shouting *watch* every time even though they're both already watching.
+He puts Sky under his feet and crosses level with the top of the arch. It takes him less time to go over than it takes the first one to come out after him. He has a dagger in his hand by the far ledge. He lets the creature pull itself over the lip and catches it with the back edge of the blade, turning it enough to clear the bank before the others reach him.
 
-“Do you know why I taught him that first?” says Jin-Woo. ᴶʷ
+Something far to his left goes off like a door being kicked in by somebody the size of Kamish.
 
-Mau looks at him.
+He calls up a line for the bridge and gives the order to take everything that drops. The new shapes join the ones going back for the cores. His own shadow is still moving when Ciel marks a clear path to the guardian.
 
-“Before punching,” says Jin-Woo. “Before anything. Falling.” ᴶʷ
+On the other side of the hill a grate comes out of the wall and rolls past him.
 
-He doesn't wait for an answer.
+Milim comes out behind it. There's a streak of dust under her nose. She's grinning.
 
-“Because I never learned,” he says. ᴶʷ
+“Did you get here first?” she asks. ᴹⁱ
 
-* * *
+“I got to the grate first.” ᴹ
 
-He doesn't talk about his world much. Mau knows that. Nobody knows much about what Jin-Woo was before he came here, except what everyone in his world knew: the weakest hunter. The one who kept going into gates he shouldn't have survived. The one who kept surviving. And then the system, and the shadows, and everything after.
+“That's my grate.” ᴹⁱ
 
-“I never learned to fall,” says Jin-Woo. “Nobody taught me. I just fell. Over and over. In every gate. Everything that could hit me hit me. And I didn't know how to land. So I'd break something, and lie there, and then I'd have to get up.” ᴶʷ
+It has come to a stop over two of the den entrances. Mau takes in the other den, the high wall between them, and something in it about the size of a small bear with a row of eyes just above the shoulders. It lunges toward Milim. She catches it round the middle and turns it. He has a clear line to the seam in the shell. He takes it before it can get its feet back under it.
 
-He watches his son roll across the grass.
+They both stop.
 
-“That's all I learned,” he says. “Getting up. Over and over. Alone. With something broken. Because there wasn't anyone else to do it.” ᴶʷ
+There is a piece of stone still coming down from the wall where the grate came out.
 
-He's quiet for a moment.
+“Was that the one?” asks Milim. ᴹⁱ
 
-“It nearly killed me,” he says. “More than once. Not the gates. The getting up. Doing it alone. Thinking that was all there was.” ᴶʷ
+A clear notice opens above the exit.
 
-Mau doesn't say anything.
+> **[Clear time: 00:59.]**
+>
+> **[Clear completed sooner than forecast. Party record updated.]**
 
-He thinks about the Trial. About a year of getting up alone with something broken. About a quarry, in pieces, with someone who could have finished him and didn't get the chance.
+“What does that mean?” she asks. ᴹⁱ
 
-He thinks Jin-Woo knows that. He thinks that's why Jin-Woo is telling him.
+“It thought we'd take longer.” ᴹ
 
-“So I taught him to fall first,” says Jin-Woo. “Properly. So that when he gets knocked down, and he will, he knows how to land without breaking. And then he doesn't have to get up alone. Because he'll still be whole enough to let someone help him.” ᴶʷ
+“So did *I*.” ᴹⁱ
 
-* * *
+He'd put a bottle of water in inventory before coming in. He hasn't felt the need to take it out.
 
-Hae-In brings tea.
+They wait at the exit while the legion finishes the ordinary work. Some come in through the bridge with two boxes held between them. Others have to turn sideways at the threshold with long spears that came down in one piece. The new ones go with an established rank, following the soldier at the front. Mau watches them all get through before he follows Milim outside.
 
-She comes across the yard from the south road, from the house the family has there now, with a tray. Four cups. She doesn't ask if they want it. She puts it down on the edge of the training ground and hands one to Jin-Woo, and one to Mau, and keeps one, and puts the fourth one aside for Suho, who has no intention of stopping long enough to drink it.
+Shuna is setting down the last bite of toast. Ori is still trying to get the knot undone on her bag.
 
-She stands beside her husband and watches her son.
+“Did you forget something?” Ori asks. ᴼ
 
-“He landed it,” says Jin-Woo. ᴶʷ
+“A dungeon, apparently,” says Mau. ᴹ
 
-“I saw,” says Hae-In. “Your mother saw. Jin-Ah saw. Half the south road saw. He's been shouting about it.” ᴴᶦ
+Milim turns back to the board. “We've got all morning! Put something else in there.” ᴹⁱ
 
-Jin-Woo almost smiles.
+The board clears the floor plan. Ciel reads the next three lines before the rest of them can get close enough.
 
-On the porch of the house on the south road, a long way off, Mau can see two figures. An older woman in a chair. A younger one standing beside her. Jin-Woo's mother and sister. Watching. The younger one waves.
+> **[Higher combat range available for this party.]**
+>
+> **[Right-hand door only. Confirm together before entry.]**
+>
+> **[Earliest preparation complete: tomorrow morning.]**
 
-Jin-Woo lifts his hand. Just slightly. Back.
+Shuna puts one forefinger over the second line. “That's the one I'm looking at,” she says. “Tomorrow, and this door. I've got three Fort groups who are supposed to be able to come back with every finger they went in with.” ˢʰᵘ
 
-* * *
+Mau confirms from his side. The board asks Milim separately and she puts her hand flat against it. She presses hard enough that he can hear the wood give a little.
 
-“Your turn,” says Suho. ˢᵘ
+“You'd better make it good,” she says. ᴹⁱ
 
-Mau looks down.
-
-Suho is standing in front of him, breathing hard, grass all over him, looking up with the expression of a small boy who has just mastered something and wants very badly to watch an adult fail at it.
-
-“My turn?” says Mau. ᴹ
-
-“You never learned either,” says Suho. “Dad said. You fall *loads*. You fell over in the orchard on pears day, I saw. Twice. On your back.” ˢᵘ
-
-Mau looks at Jin-Woo.
-
-Jin-Woo is looking at the sky with tremendous innocence.
-
-“I'll teach you,” says Suho. “I'm good at it now.” ˢᵘ
+The board gives no answer. Shuna reaches up and wipes the dust from under Milim's nose with the back of a napkin.
 
 * * *
 
-Mau is very bad at it.
+Suho is waiting at the table for a chance to tell somebody what he did in the yard.
 
-It turns out that a body with three hundred old levels' worth of points in it, with Infinity that comes up on its own and RCT that never stops, does not want to fall over on purpose. Every time he runs and jumps and tries to come down on his shoulder, something in him catches him first. His feet find the ground. His balance corrects. Once, the Infinity actually comes up, and he hangs in the air a hand's width off the grass for a full second before it lets him down.
+He makes it as far as the soup. Then he asks Mau if he wants to see him land on his shoulder. Hae-In moves her bowl, very quickly, to the middle of the table. Jin-Woo keeps eating.
 
-Suho finds this the funniest thing that has ever happened.
+“Where do you want to do it?” Mau asks. ᴹ
 
-“You're doing it *wrong*,” he says, delighted. “You have to *let go*. You have to let yourself fall.” ˢᵘ
+“Here?” ˢᵘ
 
-“I'm trying,” says Mau. ᴹ
+“Out by the mats after dinner,” says Jin-Woo. ᴶʷ
 
-“You're not. You're *holding on*. Dad says you can tell. Your shoulders go up.” ˢᵘ
+“He did it three times,” Hae-In says. She looks down at the bowl she moved. “Four if you count the one where you nearly landed on your dad's foot.” ᴴᵃᵉ
 
-Mau's shoulders are up.
+“That was a turn.” ˢᵘ
 
-He makes them come down.
+Jin-Ah wants to see the turn. Suho draws it with his finger on the table until Shuna says it looks suspiciously like a way of measuring how much space he'll need. Everyone makes him finish his soup.
 
-He runs, and jumps, and doesn't catch himself. He lets himself go. He lets the ground come up. He tucks his chin and turns his body, the way Suho showed him, the way Jin-Woo showed Suho.
+Yuka has been holding a piece of flatbread under Mau's elbow. By the time he realises it's there, she's already eaten one end. He tears off the other before moving his arm. She looks at the missing bite and then up at him.
 
-And lands. On his shoulder. And rolls. Badly. All the way over. Onto his back. And stops, lying in the grass, looking at the sky.
+“I thought you were making room for it,” she says. ʸ
 
-He doesn't get up straight away.
+“I was.” He puts half of what's left back on her plate. “There wasn't enough room for all of it.” ᴹ
 
-* * *
+She takes his wrist and keeps his hand on her side of the table when he goes to get it back. Suho is telling Hae-In what he wants to try after they've all seen him fall. Milim is reminding Shuna very loudly that the time tomorrow belongs to her and Mau.
 
-Suho's face appears above him.
+“Are you going to enjoy the second one?” Yuka asks. ʸ
 
-“That was *terrible*,” says Suho. ˢᵘ
+He thinks about it. “Depends if it goes longer than the first.” ᴹ
 
-“I know,” says Mau. ᴹ
+“Tell me when you know what they've given you.” ʸ
 
-“But you didn't catch yourself.” ˢᵘ
+“I will.” ᴹ
 
-“No.” ᴹ
+It comes out simply. He doesn't have to put anything down to say it. When she lifts her hand he turns his palm up, and she keeps him there until Suho has got as far as asking them both to come outside.
 
-“You let go.” ˢᵘ
-
-“Yes.” ᴹ
-
-Suho considers him seriously.
-
-“Good,” he says, in exactly his father's voice. “Again.” ˢᵘ
-
-From the porch, Mau hears Yuka laughing so hard she has to hold on to the post.
-
-And above him, beside his son, Jin-Woo holds out a hand.
-
-Mau looks at it.
-
-Then he takes it, and lets himself be pulled up.
+They both go. Suho turns over onto his feet on the first try and looks at Mau before he even checks where his father is standing. Mau is clapping by then. Yuka has her hand in the back of his shirt and has to let go to clap too.

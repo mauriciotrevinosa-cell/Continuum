@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 17 — Himmel's Hour
+## Chapter 18 — Himmel's Hour
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 17
+**Reading order:** 18
 **Source episode:** S13E146
 **Continuity state:** B+477 ("10"). Frieren and Himmel. Himmel keeps an hour every evening on the porch by choice (canon since S5), and Frieren has started, these last weeks, to sit through it with him. Mau finds them there at dusk and is asked, unusually, to stay. Frieren has something to say, and she's learning from the house to say things plainly. She tells Himmel what she told Mau on the Day Between: that she thought there'd be time to understand him later, and was wrong, and it took ten years and a funeral. Himmel, who is here, now, alive in this house in a way he wasn't in her world, says he knows; he always knew she'd get there. She says she isn't going to wait this time to understand him; she'll find out with him, here. He says then he'll keep his hour. Nothing is named; it starts, slowly, the way Frieren does everything. Mau leaves them to it. Ori, watching from the window, writes nothing in her notebook and draws two figures on a porch.
 

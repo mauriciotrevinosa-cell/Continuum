@@ -1,6 +1,6 @@
 # S13 — Cross through Yoru revision
 
-**Status:** Author-approved revision in progress. The original V83–V85 text remains available at commit `1c532107`. Existing indexes record the previous draft's chronology. Check the revised chapter headers for any changes and reconcile the indexes as each section is completed.
+**Status:** Author-approved revision through V85's *Not Yet*. The original V83–V85 text remains available at commit `1c532107`. The reader continues to use the original chapter document IDs. V85 has one additional chapter, *Acceptable*, between *Fifty-Nine Seconds* and *Himmel's Hour*.
 
 ## First reading batch
 
@@ -12,7 +12,14 @@ B+419–434 remain the date anchors. Chapters 7–12 establish the reunion and C
 
 Yuka dresses for Dabura on B+433, lets Cross persuade her to stay home, and hears about the fight from Ciel. Ori reminds her of what she promised. Mau fights with the spot on the ridge still empty. Tsurugi apologizes once he sees Mau afterward. Shuna had put the original plate away for that night and cleaned it the following morning; Yuka brings a fresh one after the fight. Mau says he loves her before she leaves the room. They are still apart. Yuka begins to own what she said to Makima but remains hurt about the closed connection. The duel mechanics are preserved.
 
-## Subsequent scenes
+## V84–V85 revised through the visit
+
+- V84 keeps the devils encounter and the house's help. Shoko hears about the panic and empty seat. Mau relives the unanswered call at the old inn Trial bridge; Ciel and Noise are with him in the present. Yuka sees what she let Cross do with the story of the training gate. The apology echoes what Mau told her after Dabura and preserves the slower return to ordinary life.
+- The Rulers' tea opens a path to further trust. DIO's plant had only visited in its pot at that point. The second door is always safe, regardless of who enters. The right-hand door hosts both Milim runs. The first adds uncounted ordinary recruits and physical loot; the second dragon cannot be extracted. No new skill or dragon is added to Mau.
+- Ori keeps the compass Gojo found and Frieren gave her. It is hers, as is her sword. The Fort discussion includes Umaru, Agott, Chloe and members outside the expedition party. Lantern travels with Ori and Pillow stays with the household. Maru and Rimuru's northern crossing is an ongoing project; Tsurugi helps and later addresses the ring and Cross with Yuka. Gojo's full rematch remains for after the eventual conflict with Yoru.
+- B+487 remains the end of the agreed ninety days, at the late-afternoon signing hour. Yoru's promise and advance warning preserve room for the Simurians and the house. Asa speaks to Mau before they leave.
+
+## Approved revision notes
 
 - Keep the first plate and empty chair in *The Portion*. Mau leaves and has a panic attack out of Yuka's view. Makima stays with him. Their growing friendship gives Cross something real to use against the marriage. Yuka's ordinary affection remains visible in the days before the argument.
 - Keep the house intervention, the wild dungeon with Makima, and the argument in the yard. Give Yuka time after the argument. Explore whether Cross talks her out of attending the duel and let Ori have her own response to a broken promise. Keep Dabura's duel, the consequences of Tsurugi's introduction, and the encounter with the devils with Mau, Makima and speaking Kamish. Leave room for the Simurians after the duel.

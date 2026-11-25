@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 85
-## Chapter 21 — Too Helpful
+## Chapter 22 — Too Helpful
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 85
-**Reading order:** 21
+**Reading order:** 22
 **Source episode:** S13E148
 **Continuity state:** B+482 ("5"). Ciel tells Mau what she's seen, as promised: not a report, a telling. Cross has kept every term. He hasn't spoken Mau's name. He hasn't gone near Ori. He has been helpful: to Shuna, to Mai, to Senku, to the witches. Too helpful, Maru said. Today Ciel noticed something else: Cross has been asking people small questions. Harmless ones. Where Mau goes in the mornings. Which nights he sleeps in the clinic. How far Makima can walk. When the house goes quiet. None of it is forbidden. All of it is a map. Mau doesn't confront him; there's nothing to confront. He tells Yuka, plainly. He tells Maru. He tells Makima, who listens with an expression Mau has seen once before, on her own face, in another life, at the outer post. "He's learning," Makima says. "Slowly. The way I did." Seed only. Nobody moves yet. Everyone watches.
 
@@ -125,7 +125,13 @@ She takes his hand.
 
 He tells Maru.
 
-At the river, where Maru goes in the afternoons to sit by himself. He tells him what Ciel saw.
+At the river, where Maru and Tsurugi are up to their ankles in water trying to get a peg into the bank. The shallow run they've been using for wagons has lost another piece in the last rain. The first new timbers arrived that morning. Nobody trusts them enough yet to carry loaded carts.
+
+Yuka goes down the bank to see what they're doing. She's spent enough time following Tsurugi down worse riverbeds that she takes the two steps to the bottom without looking where he put his feet. The bank goes out a little under the second step. Mau starts to put a hand out and she puts hers back for him, eyes still on the peg. He goes down after her.
+
+They spend some of the afternoon feeding the guide rope across to Tsurugi and helping the man on the far side get the boards in the order he wants. He brought one of the wagons through the first time the water rose and says there must be a way to leave enough room for people on foot. Maru goes to see how wide the cart is at the axle. By the time he's back, Yuka has got a stick and is showing the two of them how far somebody would have to step down to let a wheel go past them. They look for a place to build a ledge, and settle on asking Rimuru if it can go on the new drawing.
+
+When the rope is tight enough to leave, Mau asks Maru to stay. Yuka picks up the wet reel and goes up to help Tsurugi fit it under his arm. Mau waits until the two of them have started back together. Then he tells Maru what Ciel saw.
 
 Maru doesn't say anything for a long time. He sits on the bank with his hands loose between his knees, looking at the water.
 

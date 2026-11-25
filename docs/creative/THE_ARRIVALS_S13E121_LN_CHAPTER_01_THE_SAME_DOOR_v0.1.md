@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 5
 **Source episode:** S13E121
-**Continuity state:** B+435, around noon. Yuka's point of view. She saw him come back and walk past her, straight to the clinic, and it frightened her more than the war did. When she knocks, all she is told at first is that he needs to sleep. Then she asks. Shoko, who promised, tells her the truth in the herb room behind the clinic, with Mau's permission and in Mau's words: everything he had closed, the plate, Cross, "before you", the room with Frieren in the other life, the Trial. Yuka remembers what she said the morning before the Final Trial ("If you won't let me be with you when it hurts, I don't know how to stay in this"), which he heard as leaving. He spent ~368 local days inside working out how to say goodbye; for her it was one day. She already knew all this; what lands now is that she did it again. Then, in the yard, she took the thing he fears most and said it to him. Nothing is forgiven or fixed in this chapter. Ori asks too, and gets the truth at her size. Ori stays with Mau and Shoko. Yuka goes to talk to the house.
+**Continuity state:** B+435, around noon. Yuka's point of view. She saw him come back and walk past her, straight to the clinic, and it frightened her more than the war did. When she knocks, all she is told at first is that he needs to sleep. Then she asks. Shoko, who promised, tells her the truth in the herb room behind the clinic, with Mau's permission and in Mau's words: everything he had closed, the panic behind the wall, the empty place at the quarry, the room with Frieren in the other life, the Trial. Yuka remembers what she said the morning before the Final Trial ("If you won't let me be with you when it hurts, I don't know how to stay in this"), which he heard as leaving. He spent ~368 local days inside working out how to say goodbye; for her it was one day. She already knew all this; what lands now is that she did it again. Then, in the yard, she took the thing he fears most and said it to him. Nothing is forgiven or fixed in this chapter. Ori asks too, and gets the truth at her size. Ori stays with Mau and Shoko. Yuka goes to talk to the house.
 
 *When: B+435. Around noon. On the page under "52" there are seven lines in Yuka's handwriting. She has crossed out the fourth.*
 
@@ -109,7 +109,13 @@ That he shut the personal relays and the access the contracts gave them because 
 
 She tells her about the plate. That he saw it. That he'd been setting her portion aside on her side of his plate at every meal, the small sharp pickles he pretends not to like, and that the day she didn't reach over and steal them, he noticed, and didn't say anything, and kept setting them aside anyway.
 
-She tells her about Cross. About *you're alive*, at the gate. About the face Yuka made then, that Mau had never seen on her. About *before you*.
+She tells her what happened on the other side of the wall the night of the walk. That he went out to sit down for a minute and thought he wouldn't be able to get up again. That he remembers the grass caught in a crack between two stones better than he remembers the hand that got him as far as the ground.
+
+Yuka touches her own fingers to her wrist under the notebook. He pulled the blanket over her feet when he came back in. She'd told him about the lake until the words started coming out on the wrong breath, because that was the part of the day she'd wanted to share with him. She hadn't asked where he'd been.
+
+“He asked me if I'd remembered he saved the seat,” she says. “At the quarry. I said yes. I didn't know how to tell him why I'd stayed home.” ʸ
+
+“I don't think he knew how to tell you what it felt like to see it empty, either,” says Shoko. ˢʰ
 
 She tells her about the room with Frieren. In the other life, the one this Frieren doesn't remember. The cup on the windowsill. The clothes. The books. How he moved himself out of the room when Fern came, before anyone could ask, so that it wouldn't hurt when they did. How it came back to him at the wall with Makima and hasn't stopped coming back.
 

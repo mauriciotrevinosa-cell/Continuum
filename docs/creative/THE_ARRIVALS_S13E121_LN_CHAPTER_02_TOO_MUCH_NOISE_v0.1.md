@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 6
 **Source episode:** S13E121
-**Continuity state:** B+436 night into the small hours of B+437 ("51"). Mau has slept for more than a full day. He wakes in the dark of the clinic with no idea what time it is, and finds Ori curled up asleep in the corner of the cot against his legs. He is starving. He gets up very carefully, finds the plate Shuna left covered on the clinic table, and eats. Shoko comes in because she heard noise. "Sorry. Did I make too much noise?" "No. I gave you something to sleep, and I was keeping an eye on you." She stays while he finishes. He goes back to sleep holding Ori, who says in her sleep that there'll be no more pickles and she'll eat less of the Fort reserves. Nothing else is resolved.
+**Continuity state:** B+436 night into the small hours of B+437 ("51"). Mau has slept for more than a full day. He wakes in the dark of the clinic with no idea what time it is, and finds Ori curled up asleep in the corner of the cot against his legs. The sound of the blanket brings back the old inn Trial bridge, where Ciel could not answer him. This time Mau asks Ciel and Noise to stay with him. He is starving. He gets up very carefully, finds the plate Shuna left covered on the clinic table, and eats. Shoko comes in because she heard noise. "Sorry. Did I make too much noise?" "No. I gave you something to sleep, and I was keeping an eye on you." She stays while he finishes. He goes back to sleep holding Ori, who says in her sleep that there'll be no more pickles and she'll eat less of the Fort reserves. Nothing else is resolved.
 
 *When: B+436, very late, or B+437, very early. He doesn't know which. The notebook on the clinic windowsill, which somebody brought in and left there, says "51".*
 
@@ -46,6 +46,52 @@ He flexes his fingers against the blanket. The bandages are still on, but under 
 *Since yesterday afternoon*, says Ciel. *She went home for supper because Shoko made her, and came back. Shoko made her go to bed. She came back again. Shoko stopped making her.* ᶜ
 
 He looks at the small sleeping shape across his shins.
+
+When he shifted his legs, the blanket made a noise like the reeds against the bank of the river.
+
+The memory arrives with a bank underneath it. There's a place where the ground slopes and he's picked it because it lets him lie down without getting water in his boots. He puts his coat under his head. The collar is wet. Every time he turns his head he gets a piece of cold cloth against the same part of his neck.
+
+He mended a wheel before he got here. His hands have splinters in them. The man held up the axle, asked what he owed him and told him about the bridge when Mau asked for the road. He could have ridden with him a little farther. He wanted the road that led away from the inn, and the man was going the other way.
+
+Something moves upstream. He waits until he works out it's in the water. It makes a second sound, smaller, and leaves him the quiet it came out of.
+
+*Ciel?* ᴹ
+
+He doesn't mean to say it so quietly. There is no one here to wake up.
+
+He knows what the place lets through, which has always seemed like a pretty good reason to stop expecting an answer. He listens anyway. He would take an assessment of the bridge. The weight limit of the bridge. He'd let her be right about the repairs for the rest of his life.
+
+He watches the gap between the two nearest trees and keeps thinking the next breath will come with her voice just ahead of it.
+
+The gap goes on being the distance between two trees.
+
+In the morning he'll check under the bridge and over it and all along the banks. He has already decided. He's going to lie here long enough to sleep, if he can, and when he gets up he'll have something to do. He moves the collar out from under his neck. In the time it takes the cloth to cool off again he thinks of all the ways she could say his name.
+
+He'd take the one she used when he was being an idiot.
+
+* * *
+
+Ori makes a little sound against his leg. The cloth under his neck is the pillow on Shoko's cot. When he tries to move, he can feel the pillowcase and the bandages and the chill of the river at once. Then the chill starts to go.
+
+*Ciel*, he says again, because the answer she gave him the first time was thirty-eight hours and there is one part of him that still needs to hear something else. ᴹ
+
+*I'm here, Mau.* ᶜ
+
+He turns one hand palm up on the blanket. The fingers will close now without pulling at anything.
+
+*That was the bridge*, he tells her. ᴹ
+
+There's a little pause. *From what you showed Yoru.* ᶜ
+
+*Yes.* ᴹ
+
+Noise hasn't spoken. He feels the familiar easing in the back of his head as Noise brings the new sense down to what they'll need in this room. He can still feel where Ori's entire weight settles on his leg. He can't hear the river anymore.
+
+*Can you both stay till I get up?* he asks them. ᴹ
+
+*Here*, says Noise. ᴺ
+
+The bandages are warm under his palm. He thinks of what it might have been like to have that voice at the river. There was a long time in another place when it was Noise he was calling for, before either of them knew what to tell the other one. He squeezes his fingers against the blanket, and he can feel both of them there while he lets go.
 
 *Beru?* ᴹ
 
@@ -89,11 +135,11 @@ Of course there is. There's always a plate. Shuna wouldn't let a man sleep thirt
 
 He sits down at the table. He lifts the cloth.
 
-Cold rice. Cold fish, the good kind, the kind Shuna makes when someone's been ill. A pile of pickled vegetables. Bread. Two of the small hard cakes Rem makes that keep for days. All of it cold. All of it, at this moment, the most beautiful thing he's ever seen.
+Cold rice. Cold fish, the good kind, the kind Shuna makes when someone's been ill. A spoonful of greens with sesame. Bread. Two of the small hard cakes Rem makes that keep for days. All of it cold. All of it, at this moment, the most beautiful thing he's ever seen.
 
 He eats.
 
-He tries to eat quietly. He really does. He uses his fingers for the fish, so the fork won't scrape. He tears the bread instead of cutting it. But he's very hungry, and his hands are clumsy in the bandages, and the cup knocks against the jug when he pours, and the chair creaks every time he leans forward, and somewhere in the middle of the second cake he knocks the lid of the pickle jar off the edge of the table and it goes rolling, round and round on its rim, across the whole floor of the clinic, very loudly, for a very long time, until it hits the leg of the cupboard and falls over with a clatter.
+He tries to eat quietly. He really does. He uses his fingers for the fish, so the fork won't scrape. He tears the bread instead of cutting it. But he's very hungry, and his hands are clumsy in the bandages, and the cup knocks against the jug when he pours, and the chair creaks every time he leans forward, and somewhere in the middle of the second cake he knocks the tin lid off the edge of the table and it goes rolling, round and round on its rim, across the whole floor of the clinic, very loudly, for a very long time, until it hits the leg of the cupboard and falls over with a clatter.
 
 He freezes.
 

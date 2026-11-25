@@ -81,11 +81,11 @@ Ciel unfolds her hands.
 
 She puts them flat on the table. She looks at them. For a long time she doesn't say anything.
 
-“I read your heart rate to Rimuru,” she says. “Every twenty minutes. For six days. He wrote it down in his notebook, and he read it out to the porch, and they all looked at the numbers, and Yuka looked at the numbers.” ᶜ
+“I could send Rimuru a number when your heart rate went up,” she says. “I couldn't ask if you could still tell which room you were in. I wanted to ask. More times than you'd like.” ᶜ
 
 Her voice is very level. Ciel's voice is always level. That's what makes it so hard to hear what's under it.
 
-“And you wouldn't talk to me,” she says. “I was the one who could see it. All of it. What the numbers meant. Why they were going up. I could feel you sitting on the edge of the bed in the dark at three in the morning, and I had to tell Rimuru *heart rate elevated, repair keeping pace*, because that was what I was allowed to say.” ᶜ
+“And you wouldn't talk to me,” she says. “At the wall I heard you try to call for me. The other night, at the clinic, you got the whole name out. You thought there'd be a river when you opened your eyes. I don't want to have to guess what you see and hope you'll remember you can tell me.” ᶜ
 
 She lifts her head and looks at him.
 

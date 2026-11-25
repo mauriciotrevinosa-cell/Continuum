@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 8
 **Source episode:** S13E122
-**Continuity state:** B+437 ("50"), supper. Mau's point of view. He wakes for the bell and walks to the kitchen on his own legs for the first time in two days. His chair at the long table is beside Yuka's, as it always is. He stops behind it and thinks about taking the empty one at the far end, beside Ori, so she won't have to sit next to him. Yuka, in the hoodie, says, "Stay." He sits. He sets the small sharp pickles aside on her side of his plate, the way he always has, without thinking. After a long moment she reaches over and takes them. Her first small step. Nobody at the table says a word. Nothing is talked about yet.
+**Continuity state:** B+437 ("50"), supper. Mau's point of view. He wakes for the bell and walks to the kitchen on his own legs for the first time in two days. His chair at the long table is beside Yuka's, as it always is. He stops behind it and thinks about taking the empty one at the far end, beside Ori, so she won't have to sit next to him. Yuka, in the hoodie, says, "Stay." He sits. When he can't get the dumpling wrapper apart with his bandaged fingers, Yuka offers to split it. They each take a piece and share a little of the meal without trying to settle anything yet. Nobody at the table says a word. Nothing is talked about yet.
 
 *When: B+437. Supper. Shuna rang the bell twice, the second time very gently, toward the clinic.*
 
@@ -21,11 +21,11 @@ The light through the curtain has gone long and low.
 
 He lies there for a moment.
 
-He thinks about the tray. About Ori carrying it across the yard this morning, step by careful step, with Beru hovering. About the fish done the good way. The plum paste. The pickles on the side.
+He thinks about the tray. About Ori carrying it across the yard this morning, step by careful step, with Beru hovering. About the fish done the good way. The plum paste in a little dish with a chip on the bottom.
 
 He knows who made that tray. He knew the moment he lifted the cloth. Shuna makes the fish the good way, but she cuts the skin off. Yuka leaves it on, because he likes it crisp. She's the only one who knows that, because she's the only one who's ever watched him eat closely enough to notice.
 
-He didn't say anything this morning. He couldn't. He just ate it, all of it, and set the pickles aside on the edge of the bowl where they always go, and Ori watched him do it with her general's face and didn't say anything either.
+He didn't say anything this morning. He couldn't. He just ate it, all of it, including the skin, which the cloth had kept warm. Ori watched him do it with her general's face and didn't say anything either.
 
 *I'll walk*, he says. ᴹ
 
@@ -131,43 +131,21 @@ Neither of them says anything else.
 
 Shuna puts a bowl in front of him.
 
-Rice. The stew she makes with the root vegetables. Bread. And on the side, in a little dish of their own, the small sharp pickles.
+The dumplings at the bottom stick together where the steam has softened the wrappers. He lifts one, finds it's two, and sets the whole thing down on the flat edge of the bowl. He takes his chopsticks in his left hand to try and get them apart. The corner of the bandage catches and lifts.
 
-He looks at them.
+Yuka sees. She looks at his hand until he puts it down.
 
-He doesn't think about it. That's the thing. Afterwards, lying in the dark, he'll try to remember deciding to do it, and he won't be able to, because he didn't decide. His hands just do what they've done at every meal for as long as anyone can remember. He picks up his chopsticks. He picks up the pickles from the little dish, one by one, the small sharp ones he likes and pretends not to. And he sets them aside, in a little pile, on her side of his bowl.
+“Can I?” she asks. ʸ
 
-Where she can reach.
-
-He realises what he's done when he's finished. He looks at the little pile, sitting there on the edge of his bowl, on her side. Waiting.
-
-The way they've been waiting at every meal for a week, while she didn't reach over. While she sat at the other end of the table. While she didn't come to supper at all.
-
-He puts his chopsticks down.
-
-He doesn't move the pickles back. He doesn't eat them himself. He doesn't know what to do. He just sits there, very still, with his hands in his lap, looking at the small grey pile on the edge of the bowl.
+He could get them apart. He could get the bandage off and show her the hand has already closed. He turns the bowl a little and gives her the good angle. She takes the corner of the wrapper between her chopsticks and lifts the little edge that sticks out. The seam comes apart all at once. She puts the larger piece back in his broth.
 
 * * *
 
-It takes a long time.
+After a moment he puts the smaller one on her plate with the spoon. He remembers while he's still holding it that she's the one who got it open. It would be fair to give her the big one. She already has the other one between her chopsticks. He sees the steam catch her by surprise and she has to put a hand in front of her mouth.
 
-Long enough that he thinks she isn't going to. Long enough that Umaru finishes her explanation, and Milim gets free of Rimuru and is recaptured, and Gojo asks for the bread twice. Long enough that he picks up his own chopsticks again, and starts to eat his rice, slowly, so his hands have something to do.
+“Hot?” he asks. ᴹ
 
-Then, out of the corner of his eye, he sees her hand move.
-
-Out of the too-long sleeve. Across the small space between her bowl and his. Shaking a little. She doesn't hide that either.
-
-She takes one.
-
-Just one. The smallest. She picks it up off his bowl the way she has a thousand times before. The thing they had. The thing she stopped doing.
-
-She puts it in her mouth.
-
-She makes the face. The one she always makes, because they're very sharp and she doesn't actually like them very much and never has. The one Ori learned from her, and makes too.
-
-And she reaches over and takes another.
-
-He doesn't look at her. He can't. If he looks at her he doesn't know what his face will do. He keeps his eyes on his rice and eats it, very slowly, one grain at a time, while beside him his wife steals the pickles off his plate one by one until the little pile is gone.
+She nods. She lets it cool again in her spoon. When she tries it this time, she turns the dish in his direction so he can take another if he wants. He does. He can get this one out with the spoon, and he waits until she's finished her first bite before he tries it.
 
 * * *
 
@@ -181,7 +159,7 @@ She's watching them. Her pencil is in her hand.
 
 She opens her notebook under the edge of the table, where she thinks nobody can see, and makes a very small, very careful mark. A tick.
 
-Then she closes the notebook and goes back to her supper as if nothing has happened, and makes the face at her own pickles, the one she learned from Yuka.
+Then she closes the notebook. She's got the whole wrapper off hers and is deciding what to do with it.
 
 * * *
 
@@ -207,7 +185,7 @@ Then she goes. Up the stairs, toward Ori's room. Not their room. He hears her fe
 
 He sits at the table with the empty edge of his bowl in front of him.
 
-All six pickles. Gone.
+The broth's gone cloudy where the dumpling came open. He finishes that, too.
 
 * * *
 

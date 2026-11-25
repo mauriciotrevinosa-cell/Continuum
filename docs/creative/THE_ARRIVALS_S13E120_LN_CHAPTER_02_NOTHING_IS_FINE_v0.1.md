@@ -69,7 +69,7 @@ She's not running. She's not moving at all. She's looking at him the way you loo
 
 He looks at her.
 
-And something in him that he has been holding very carefully, all morning, all night, all of the last week, since the yard and *before you* and the plate and the closed door and the yard again this morning and *okay*, goes.
+And something in him that he has been holding very carefully, all morning, all night, all of the last week, through the panic at the wall and the empty place at the quarry and the way she said *okay* this morning, goes.
 
 Not all at once. Not dramatically. It just stops being held. The way your hand opens when you fall asleep holding something.
 
@@ -153,7 +153,15 @@ Most of it she knows. That's the strange part. He can see her knowing it as he s
 
 He tells her anyway. All of it. Not in order. Not one thing and then the next, the careful way he tells things when he's decided what they mean. All of it at once, in one pile, the way you empty a bag onto a table because you can't carry it another step.
 
-The plate. Cross at the gate, *you're alive*, and the face Yuka made that he'd never seen on her. *Before you.* *I want to talk to you about something*, in the dark, and going still under it. The cup on the windowsill in the other life. The clothes. The books. The wall with Makima, and how it all came back there and hasn't stopped coming back.
+He starts with the cup on the windowsill in the other life and ends up telling her about the piece of grass in the crack in the wall. About being able to see it and not being able to feel either hand. He talks about it as if he'd gone out to sit down because the air inside was close. Shoko has stopped cleaning his hand by the time he gets to Makima finding him.
+
+“That happens again,” she says, “will you come here?” ˢʰ
+
+“I was across the yard. It's not far.” ᴹ
+
+“You're telling me you couldn't get a breath or feel your hand. You don't have to decide how far it is. You can ask someone to get me.” She opens the cloth where it was folded in her palm. “What happened after that?” ˢʰ
+
+He tells her about the seat at the quarry. He gets as far as sitting down in it himself. There's something awfully hard to say about having left a place for someone and then sitting in it with your feet on the rocks, checking where all the blood had dried while you waited until you could walk home.
 
 “I know,” Shoko says, now and then. Not to stop him. Just so he knows she's still there. ˢʰ
 
@@ -171,9 +179,11 @@ Shoko's hands have slowed down on his palm.
 
 He looks at his hands in hers.
 
-“I thought we were—” he says. ᴹ
+“I told her I loved her after the quarry,” he says. “That came out. I don't know why that part was easy.” ᴹ
 
-He can't find the word.
+“Because it was true,” says Shoko. “You've probably known how to say that one for a long time.” ˢʰ
+
+He tries to turn his hand over. She gets there before he can.
 
 “And then in the yard,” he says, “four days ago. She said *you'd rather have her. When it's bad you go to her.*” ᴹ
 

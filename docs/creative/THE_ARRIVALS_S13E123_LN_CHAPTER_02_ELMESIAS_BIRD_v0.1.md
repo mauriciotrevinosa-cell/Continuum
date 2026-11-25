@@ -5,13 +5,11 @@
 **Volume:** 84
 **Reading order:** 10
 **Source episode:** S13E123
-**Continuity state:** B+438 ("49"), morning to early afternoon. Breakfast in the kitchen; Yuka beside him; she steals the pickles again, and it's still careful. Elmesia's bird, sleek and grey and unimpressed by everyone, lands on the table with a letter for Mau: she would like to talk to him, alone, about something that isn't a crisis. DIO, inside, notices the letter doesn't mention her. This time Mau tells Yuka where he's going and when he'll be back, out loud, before he goes. "Come back." "I will." He crosses by Exchange to the soldier anchor Elmesia has carried since V75. In her study, Elmesia asks what he thinks about DIO, and how she can know what DIO feels: whether it's really her DIO wants to be near, or only gratitude for being treated with respect. Mau tells her what he knows: DIO never learned the difference between kinds of love; respect can look like romance to her; she'll want to argue for things she wants. In answering, he hears his own week. He asks when to bring DIO. Elmesia: in a couple of hours, after supper.
+**Continuity state:** B+438 ("49"), morning to early afternoon. Breakfast in the kitchen; Yuka and Mau sit together. She passes him the jam when she notices he can't reach it. Elmesia's bird, sleek and grey and unimpressed by everyone, lands on the table with a letter for Mau: she would like to talk to him, alone, about something that isn't a crisis. DIO, inside, notices the letter doesn't mention her. This time Mau tells Yuka where he's going and when he'll be back, out loud, before he goes. "Come back." "I will." He crosses by Exchange to the soldier anchor Elmesia has carried since V75. In her study, Elmesia asks what he thinks about DIO, and how she can know what DIO feels: whether it's really her DIO wants to be near, or only gratitude for being treated with respect. Mau tells her what he knows: DIO never learned the difference between kinds of love; respect can look like romance to her; she'll want to argue for things she wants. In answering, he hears his own week. He asks when to bring DIO. Elmesia: in a couple of hours, after supper.
 
 *When: B+438. Breakfast. "49" in the notebook. The notebook is on the kitchen table, beside Yuka's bowl, where anyone can see it.*
 
-She steals the pickles again at breakfast.
-
-It's still careful. Everything is still careful. She sits down beside him without asking, the way she did last night, in the hoodie, and he sets them aside without deciding to, and after a while her hand comes out of the sleeve and takes one. Then another. She makes the face.
+At breakfast Yuka sets the jam down next to Mau because she's watched him try to reach past the teapot twice. He offers her some with the knife. She tilts the toast toward him and waits while he puts on a little more than he put on his own.
 
 He still doesn't look at her while she does it. He isn't ready for what his face would do. But he moves his bowl an inch closer to her side, so she doesn't have to reach so far.
 

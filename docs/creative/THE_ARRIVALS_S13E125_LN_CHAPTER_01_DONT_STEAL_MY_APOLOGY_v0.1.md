@@ -109,7 +109,9 @@ She takes a breath.
 
 She puts the notebook down on her knees and looks at him.
 
-“I’m sorry, Mau. I’m sorry I made you think I wanted you gone. I want you here.” ʸ
+“I'm sorry, Mau. I'm sorry I made you think I wanted you gone. I want you here.” ʸ
+
+She twists the notebook so he can see the flat of it and then leaves it alone. “When you told me you loved me, after the quarry, my first thought was that I could go straight back to you and you'd hold me. I needed to be able to do this part, too. I don't want you to have to give up the hurt before I've even asked where it is.” ʸ
 
 * * *
 
@@ -181,7 +183,7 @@ He takes a breath.
 
 He doesn't know how to say it better than that, so he tries to say it plainly. The way Makima said Yuka would need. The way Yuka just did.
 
-“The room with Frieren,” he says. “In the other life. Cross at the gate. *Before you*. And the Trial, and the guest room, and all the things I practised. None of it was what was happening. It was what had happened. Before. To someone I used to be. And I let it walk in and sit down and tell me what was happening now.” ᴹ
+“The room with Frieren,” he says. “In the other life. And the Trial, and the things I practised saying to you so you'd understand I wasn't going to ask you to stay. None of it was what was happening. It was what had happened. Before. To someone I used to be. And I let it walk in and sit down and tell me what was happening now.” ᴹ
 
 He looks at his hands.
 

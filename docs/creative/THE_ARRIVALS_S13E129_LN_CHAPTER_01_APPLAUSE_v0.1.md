@@ -73,7 +73,7 @@ She tells him anyway.
 
 * * *
 
-She tells him about *before you*. He knew about that.
+She tells him about putting her boots on that morning and taking them straight off again. He knew she'd stayed home. This part she hadn't told him.
 
 She tells him about *you just stopped being anywhere*. He knew that too.
 

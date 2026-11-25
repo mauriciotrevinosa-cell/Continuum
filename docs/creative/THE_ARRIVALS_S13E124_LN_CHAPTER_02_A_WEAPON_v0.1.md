@@ -111,7 +111,7 @@ Cross's face does something.
 
 He goes still.
 
-“You're using it,” she says again, and her voice shakes now, and she lets it. “You're taking the one thing you gave me that nobody else could, and you're using it like a knife. To get between me and my husband. Every time you say *before you*. Every time you say *you just stopped being anywhere*. Every time you stand at the edge of a room I'm in and look at him. You're using it to make me think he can't see me the way you did.” ʸ
+“You're using it,” she says again, and her voice shakes now, and she lets it. “You're taking the one thing you gave me that nobody else could, and you're using it like a knife. To get between me and my husband. I told you I knew he'd try to get to me in the gate. You turned that into a reason I ought to wait to be asked before I went to him. He'd already saved me a place. It was sitting right there and you had me wondering if I'd imagined it.” ʸ
 
 The wheel hangs above her. Cross has backed up. She can say the rest without taking another step.
 

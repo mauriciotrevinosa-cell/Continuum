@@ -139,7 +139,7 @@ DIO looks at him. She closes the notebook with both hands, carefully keeping her
 
 Supper is careful again.
 
-Yuka sits beside him. The pickles go to her side of the bowl. She takes them, one at a time, a little faster than last night. Ori ticks something in her notebook under the table. The whole house is still being ordinary at the top of its voice.
+Yuka sits beside him. When he asks whether he can put the bread between them, she moves both their cups to make it fit. Ori tries to put one of the pieces up on its end and the whole pile slides towards Mau. Yuka catches it before it lands in his lap. She looks at him with both hands full of bread and tells him she did it on purpose.
 
 When he's finished, he turns to her.
 

@@ -139,6 +139,8 @@ Mau lights the fire with a small spell. The first one Frieren ever taught him th
 
 They eat the good pears from home, and Shuna's rolls, and the honey cake, and a pot of something Yuka makes over the fire that is mostly rice and mostly burnt and which Ori declares the best thing she's ever eaten.
 
+Makima comes out when Ori calls for supper. She tries the part stuck to the bottom because Yuka says that's where the good bit is. Kamish opens one eye to ask whether the second rope was for the tent or to hold the pot to the fire. Ori tells him both, and he keeps his eye open long enough to see whether she can say it without laughing. Lantern puts his chin on the corner of the spare blanket and she sets Makima's cup there before he takes up the rest of it.
+
 The stars come out.
 
 * * *
@@ -197,7 +199,7 @@ None of them do.
 
 After a while, she stops looking for satellites. He feels the moment it happens. Something in her goes soft and wide. She stops checking. She just looks.
 
-At the stars. All of them. More than anyone could ever count, crowding the slice of sky, so thick and bright in the dark valley where nobody has ever been that they look like something spilled.
+At the stars. All of them. More than anyone could ever count, crowding the slice of sky, so thick and bright in the dark valley she'd only just put on her map that they look like something spilled.
 
 “They're enough,” says Ori. Very quietly. Almost asleep. ᴼ
 

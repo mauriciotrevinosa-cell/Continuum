@@ -65,7 +65,7 @@ Three strikes. Emergency.
 
 Every member comes running. Umaru in her dressing gown. Milim, very fast. Emilia, with Puck on her shoulder. Rem, who is now officially a member, because Umaru inducted her at midnight on the roof two nights ago and the vote was unanimous. Beru, who was already there.
 
-And Ori, on her crate, with her spear and her notebook.
+And Ori, on her crate, with her sword belted on and her notebook.
 
 Mau watches from the porch with Yuka. Most of the house watches from the porch. Fort emergencies are rare and generally worth seeing.
 
@@ -79,7 +79,7 @@ There's a murmur.
 
 “Partly won,” Ori agrees. “The candidate is very good at doors.” ᴼ
 
-She lifts her spear and points it at the kitchen door, where Beatrice has just come out onto the step with a book under her arm, and has stopped dead at the sight of the entire Fort turned round to look at her.
+She points across the yard at the kitchen door, where Beatrice has just come out onto the step with a book under her arm, and has stopped dead at the sight of the entire Fort turned round to look at her.
 
 “The candidate,” says Ori, “is Beatrice.” ᴼ
 
@@ -115,7 +115,7 @@ The silence of someone who's been asked what they want and has never once in the
 
 The Fort erupts.
 
-Milim screams. Umaru screams. Emilia claps. Puck, on her shoulder, does a small somersault. Beru makes the sound. Rem, smiling, comes down off the Fort steps and holds out her hand to help Beatrice up.
+Milim screams. Umaru declares the vote carried over the noise. Chloe and Emilia clap. Puck, on her shoulder, does a small somersault. Beru makes the sound. Rem, smiling, comes down off the Fort steps and holds out her hand to help Beatrice up.
 
 Beatrice looks at the hand. Then she takes it, as if entirely by her own decision, and lets herself be brought up onto the roof.
 

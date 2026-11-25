@@ -23,7 +23,7 @@ Rem sees it at the same time as everyone else, because she's at the table with h
 
 She's outvoted.
 
-The entire Fort is waiting for her on the roof. Ori, Milim, Emilia, Umaru, Beru. Ori has her spear. The vote is held on the spot. It is five to one. Beru votes twice and nobody objects.
+Umaru calls the vote from the roof. Agott gets far enough into the opposition's case to demand an end date. Chloe, sitting with the rest of the Fort on the steps, wants to know if the writing will wash out of their sheets. Ori argues to keep the banner through supper. There are enough hands in the air that Rem gives up trying to count them.
 
 The banner stays.
 

@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 8
 **Source episode:** S13E142
-**Continuity state:** B+469 ("18"). Ori has been planning expedition two since the river picnic in V83: past the ruins, past the ridge, into the country where the maps stop. Two days and a night this time, with the tent. The party is the one she promised: Mau, Ori and Beru. Yuka comes because it's Mau, and because she asks Ori properly, and Ori grants it. Kamish scouts overhead. DIO and Makima stay inside once they're past Makima's reach. Frieren doesn't come; she gives Ori a compass that only points home. They pack. Ori's checklist runs to three pages. They leave at dawn and reach the ruins by noon, where Ori leaves a pear on the stone that says REST HERE. WE DID.
+**Continuity state:** B+469 ("18"). Ori has been planning expedition two since the river picnic in V83: past the ruins, past the ridge, into the country where the maps stop. Two days and a night this time, with the tent. Mau, Ori and Beru make the trip with Yuka and welcome company. Kamish scouts overhead and Lantern walks with Ori. Frieren chooses to stay for a delivery from the north; Makima walks with them and goes inside by choice at the ridge. Ori brings her own compass, which Gojo found in a dungeon and Frieren passed to her. They pack. Ori's checklist runs to three pages. They leave at dawn and reach the ruins by noon, where Ori leaves a pear on the stone that says REST HERE. WE DID.
 
 *When: B+469. "18." Under it, in Ori's hand: "EXPEDITION TWO (DAY 1)". A drawing of a tent.*
 
@@ -41,15 +41,13 @@ Ori looks at him.
 
 The party is the one she promised.
 
-Mau, Ori and Beru. That's what she said at the Fort, months ago, bargaining for the matching clothes: a real expedition, the three of them, somewhere nobody had been. The first one turned into eight people and a picnic, because Frieren came, and then Fern, and then Stark, and then Himmel. Ori didn't mind. Ori never minds. But she said, on the way home, very quietly, with her head on Beru's shoulder: *next time it's just us.*
-
-So this time it's just them.
+Mau, Ori and Beru. That's what she said at the Fort, months ago, bargaining for the matching clothes: a real expedition, the three of them, with a tent and somewhere she hadn't put on her map. The first one turned into eight people and a picnic. On the way home she asked Beru what else they'd have found if they'd brought food for two days. This time she has packed food for two days and left space for everyone else's things.
 
 Just them and Lantern, who doesn't count, Ori says, because Lantern lives in her shadow anyway. The dragon Dad gave her. She named him once, in a life she doesn't remember, and Dad does. He doesn't need to walk behind her to be there.
 
-Except Yuka.
+Yuka's in the party, too.
 
-Yuka asked. Properly. Mau watched her do it, three nights ago, at supper. She went round the table to where Ori was sitting and crouched down beside her chair so their faces were level, not to look the same size, just to be close, and said: *I'd like to come on expedition two. If the commander allows it. I'll carry things. I'll do what I'm told.*
+Yuka asked if she could help carry things. Mau watched her do it, three nights ago, at supper. She went round the table to where Ori was sitting and crouched down beside her chair so their faces were level, not to look the same size, just to be close, and said: *I'd like to come on expedition two. If the commander allows it. I'll carry things. I'll do what I'm told.*
 
 Ori considered this for a long time.
 
@@ -67,43 +65,19 @@ Ori held out her hand. Yuka shook it.
 
 * * *
 
-Frieren doesn't come.
+Ori goes to find Frieren with her compass and one of the spare straps Mai gave her. The strap has a little buckle. Ori needs someone to hold it steady while she threads the cord through it.
 
-She says so the night before. She comes into Ori's room while Ori is packing her satchel for the fourth time, and sits on the end of the bed, and watches for a while.
+“Do you want to come with us?” she asks. ᴼ
 
-“You don't want me,” she says. ᶠ
+“I would. Rimuru wants another pair of eyes on a drawing Maru's bringing tomorrow. I promised I'd come see it.” Frieren keeps the buckle steady while Ori gets the cord through. “Bring me something back if you find a good rock. A small rock, please.” ᶠ
 
-Ori stops packing.
+Ori pulls until the strap holds. The compass drops into her palm. A little dent catches against her thumb, already there when Gojo found it in the dungeon. He gave it to Frieren first. Frieren had thought about taking it on the road herself and then she'd handed it to Ori. It's been Ori's since.
 
-“I do want you,” she says. “I always want you. I just—” ᴼ
+“Still pointing here?” Frieren asks. ᶠ
 
-“You want it to be yours,” says Frieren. ᶠ
+Ori steps sideways and watches the needle follow. “At you.” ᴼ
 
-Ori looks at her.
-
-“Yes,” she says, very small. ᴼ
-
-Frieren nods, as if this is the most reasonable thing in the world.
-
-Then she reaches into the pocket of her robe and takes something out, and holds it out on her palm.
-
-A compass. Small. Old. The needle under the glass is very still.
-
-“It doesn't point north,” says Frieren. “It's an old spell. I made it a long time ago, for someone who was always getting lost. It points home. Wherever home is for the person holding it.” ᶠ
-
-Ori takes it. She looks at the needle.
-
-It's pointing at Frieren.
-
-Ori looks up.
-
-Frieren doesn't say anything. But her face does something small and soft, and she reaches out and fixes the collar of Ori's explorer jacket, which doesn't need fixing.
-
-“Bring it back,” she says. “It's a lend.” ᶠ
-
-“Not a give,” says Ori. ᴼ
-
-“Not a give,” Frieren agrees. ᶠ
+Frieren touches the strap where Ori's threaded it. “That'll hold,” she says. ᶠ
 
 * * *
 
@@ -111,7 +85,7 @@ They leave at dawn.
 
 The house comes out to the porch to see them go, the way it does. Not because it's dangerous; it isn't. Kamish is going, folded into the sky overhead, and Mau's shadow is going, and Mau is going, and nothing in this part of the world is going to get past any of those. The house comes out because it's an expedition, and Ori is leading it, and that's worth getting up for.
 
-Ori goes first. Not on Beru's shoulder this time. On her own feet, in her boots, with her satchel and her map and her spear and Frieren's compass on a string round her neck, walking very fast up the hill road with Beru a step behind her like a shadow with wings.
+Ori goes first. Not on Beru's shoulder this time. On her own feet, in her boots, with her satchel and her map and her sword in its sheath and her compass on its cord, walking very fast up the hill road with Beru a step behind her like a shadow with wings.
 
 Then Yuka, in the hoodie, with a bag of her own she wouldn't let Mau put in the shadow.
 
@@ -125,11 +99,13 @@ Ori turns round and goes on.
 
 Makima goes inside at the ridge.
 
-She can't come further. Her body, outside, can only go so far from him before Noise has to stop holding it in the world, and the ridge is the edge of that. She walks with them that far, at Mau's right shoulder, the way she always walks, and at the top of the ridge she stops.
+She walks with them at Mau's right shoulder until they stop above the ruins. At the top of the ridge she asks Noise if he'll finish the game they left set up inside. He says yes. It gives her a moment to ask Ori if she can come back out for supper if they have somewhere to sit.
 
 “Tomorrow night,” she says. ᴹᵏ
 
-“Tomorrow night,” Mau agrees. ᴹ
+“We'll be home tomorrow night,” Mau agrees. “Ori can tell you when supper is.” ᴹ
+
+“Whenever we want it,” says Ori, which gives her some room if the walk takes longer than she expects. ᴼ
 
 She looks at Yuka.
 
@@ -145,9 +121,9 @@ Beru looks at the place where Makima was.
 
 Ori looks at Beru.
 
-“It's still us,” she says. “That's still the party. Makima's in Dad. That counts.” ᴼ
+“I forgot to put down how many cups,” says Ori. “But I put down an extra blanket, so Makima can have the good part of that.” ᴼ
 
-Beru seems satisfied with this.
+Lantern noses up out of her shadow when she goes to get the notebook. Ori stops long enough to scratch a place against the side of his jaw. The place has been bothering him since she went down the stone steps. He walks with his chin level with her knee for the rest of the hill.
 
 * * *
 
@@ -163,9 +139,9 @@ Ori stops in front of it.
 
 She hasn't been back since the first expedition. Mau knows that. She's drawn it a hundred times since, in her notebook, from memory. But she hasn't been back. Too far. Too much happening.
 
-She stands in front of the stone for a long time with her map in one hand and her spear in the other.
+She stands in front of the stone for a long time with her map in one hand and her sword in the other.
 
-Then she puts down the spear.
+Then she sets down the sheathed sword.
 
 She opens her satchel. She takes out three pears. The ones for leaving.
 
@@ -191,6 +167,6 @@ Yuka has her hand over her mouth.
 
 Beru, behind Ori, has gone very still in the particular way he goes still when he's trying not to cry and failing.
 
-Ori picks up her spear again. She looks at the compass round her neck: still pointing back, south, the way they came, toward the house. She looks at her map. She looks at the ridge beyond the ruins, and the country past it, where the maps stop.
+Ori picks up her sword again. She looks at the compass round her neck: still pointing back, south, the way they came, toward the house. She looks at her map. She looks at the ridge beyond the ruins, and the country past it, where the maps stop.
 
 “Lunch,” she says, briskly, in her Fort voice. “Then we go on.” ᴼ

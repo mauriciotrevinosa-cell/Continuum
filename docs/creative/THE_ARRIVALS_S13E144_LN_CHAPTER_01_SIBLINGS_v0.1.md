@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 12
 **Source episode:** S13E144
-**Continuity state:** B+472 ("15"). Yuka's point of view. Tsurugi has been strange with her since the gate: loud, delighted, full of stories, and never once alone with her. Today she corners him in the yard and asks why. He tells her: when she disappeared he was the one who got Grandpa's ring, and everyone said he deserved it more, and he let them, and he has never forgiven himself. Yuka tells him she knew, and she was angry for years, and she isn't now. Maru, passing, stops and tells them about his own brother: that Cross is quiet these days, helpful, too helpful, and that Maru doesn't know whether it's real. Two sets of siblings on the training ground. Tsurugi and Yuka spar after, the way they used to as children, and she wins, and he lets her think he let her.
+**Continuity state:** B+472 ("15"). Yuka's point of view. Tsurugi has been strange with her since the gate: loud, delighted, full of stories, and never once alone with her. Today she corners him in the yard and asks why. He tells her: their family gave him Grandpa's ring before she disappeared, and everyone said he deserved it more, and he let them, and he has never forgiven himself. Yuka tells him she knew, and she was angry for years, and she isn't now. Maru, passing, stops and tells them about his own brother: that Cross is quiet these days, helpful, too helpful, and that Maru doesn't know whether it's real. Two sets of siblings on the training ground. Tsurugi and Yuka spar after, the way they used to as children, and she wins, and he lets her think he let her.
 
 *When: B+472. "15." Under it, in Yuka's hand: "Tsurugi (finally)".*
 
@@ -17,7 +17,7 @@ Except her.
 
 He's never once been alone with her. Not in nearly eight weeks. Every time she's come into a room where he is, he's found a reason to be talking to someone else. Every time she's gone looking for him, he's been somewhere else.
 
-She's been too busy to push. The distance. Cross. The two weeks. The clinic. The reconciliation. The forty-eight days. She hasn't had room for her brother.
+She'd let him be after the quarry. He had apologized to Mau for talking Dabura up into a challenge, and helped Maru with the people coming down from the north. Every time she thought she could ask him about the rest he was doing something she knew somebody needed help with.
 
 She has room now.
 
@@ -56,6 +56,12 @@ He stands there with the staff in his hands and the grin gone and his face, unde
 He stops.
 
 He looks at the staff in his hands. He turns it round. He doesn't look at her.
+
+“I thought you were getting one person back.” He rubs his thumb along the worn end of the staff. “I knew Cross had looked for you. I didn't ask myself what he wanted when he came here. And after the fight I kept thinking I was the one who brought all of it to your door.” ᵀˢ
+
+Yuka puts her staff down. “You brought people home, Tsurugi. Cross decided what to do when he got here. So did I.” ʸ
+
+He looks up long enough to see she means it. Then his eyes drop to her hand.
 
 “The ring,” he says. ᵀˢ
 

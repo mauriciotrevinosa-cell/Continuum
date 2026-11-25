@@ -5,218 +5,104 @@
 **Volume:** 85
 **Reading order:** 14
 **Source episode:** S13E145
-**Continuity state:** B+474 ("13"). Ciel was right: the soldiers all want the little room with the very good view in Elmesia's palace. There has been a quiet, determined petition in the shadow for three weeks. Mau, with Ciel and Noise, finally sits down and goes through the legion properly, the review he's been putting off for months: who's there, who has a name, who has been standing at the back since the first gates without one. He sets a rota for the room. And he gives names, at last, to the ones who've earned them and never asked: the soldier who stood guard at the foot of Ori's stairs every night of the two weeks; the one who has held the window in Elmesia's room since the first visit. Igris, consulted, approves. Ori is allowed to help choose one name and chooses badly and wonderfully.
+**Continuity state:** B+474 ("13"). Mau and Bellion review assignments, recent gate arrivals and the northern approaches. View remains the window anchor at Elmesia's; the chair was never a posting the legion had asked for. Mau spends time with a few soldiers he has already seen in service. Ori helps name one. Ordinary soldiers remain silent and follow orders. No fixed total is asserted.
 
-*When: B+474. "13." Under it, in Mau's own hand, which almost never appears in the notebook: "the rota". Ori has added: "(AND NAMES)".*
+*When: B+474. A work morning and a little time on the porch before lunch.*
 
-Ciel brings it up at breakfast.
+Yuka finds him by the back door with his hand on the handle and his eyes shut.
 
-Inside. While he's eating. Very calmly, the way she brings up things she has been waiting to bring up for some time.
+She puts her arms around him from behind. He lets go of the handle to put one hand over hers. The door moves in the wind and comes back against his knuckles.
 
-*There's a petition*, she says. ᶜ
+“Going somewhere?” she asks. ʸ
 
-He stops chewing.
+“Bellion has the north watch ready for me to look at. I thought I'd do it here while it was warm.” ᴹ
 
-*In the shadow*, says Ciel. *For the room. The little one, in Elmesia's palace. With the view.* ᶜ
+“Come and sit down if you're going to stand there with your eyes closed.” ʸ
 
-*The soldier's room.* ᴹ
+He does. She doesn't have to unhook her arms; she walks him sideways to the bench and lets him find it with the back of his knees. By the time he sits she is getting cold feet under his leg as though this were what she'd come outside to do. He gives her half the blanket from the back of the bench. She pulls it up round his shoulders first.
 
-*The soldier's room*, Ciel agrees. *The soldier who has it is very happy. The other six thousand, six hundred and sixteen would like a turn. They have been very patient. They have been patient for three weeks. I think they are about to stop being patient.* ᶜ
+“Are we moving anybody at the river?” she asks. ʸ
 
-He thinks about the shadow. About the six thousand and more of them, standing in the dark at his feet, waiting. They don't speak. They don't complain. They don't ask for anything. They've never asked for anything, not since the first one stood up out of the ground and knelt.
+“Bellion wants a different rotation on the approach. They found a spot where the bank comes across the path.” ᴹ
 
-*How do they petition*, he says, *if they don't talk?* ᴹ
+“Tell me which one when you know. I'd like to show Ori before the next expedition.” ʸ
 
-*They look*, says Ciel. *At the door. All of them. All the time. It's very loud.* ᶜ
-
-* * *
-
-He goes inside after breakfast.
-
-Not to the table. Further. Down past the shared room, past the corridor and DIO's door and Satella's and the seven, down to where the shadow is. The place where the legion stands when it isn't standing anywhere else.
-
-He hasn't been down here properly in months.
-
-He's been meaning to. Since the Simurians came. Since before that. There's a list in his head that he's been carrying round since the island: *go through them*. Count them. Find out who's there. Who has a name. Who's been standing at the back since the first gates and never been looked at.
-
-He kept putting it off. There was always something else.
-
-There isn't, today.
-
-Ciel comes with him. And Noise, who has been coming more and more places lately, who stands beside Mau at the edge of the dark with his outline very still.
-
-And the legion looks at him.
-
-All of it. At once. Six thousand and more faces turning in the dark. Not one of them says anything. They've never said anything.
-
-But Ciel was right. It's very loud.
+He puts a hand on her hair and leaves it there in answer.
 
 * * *
 
-It takes all day.
+Bellion has brought the map as far as the edge of the shadow. He lays it out where Mau and Ciel can read it together and puts a glove over the corner that keeps rolling up.
 
-He goes through them. Properly. One by one, rank by rank, the way he should have done long ago. Ciel keeps the list. Noise, who remembers every single one of them because he remembers everything Mau has ever done, tells him where each one came from. Which gate. Which floor. Which fight.
+One group is at the ford and another farther north. There's a mark for the section where a wagon can't clear the water when it rises. The Simurians have asked to keep bringing people through on the low road while Rimuru and Maru work out somewhere to put a bridge. They need advance notice when the wagon route gets cut off.
 
-Igris isn't here. Igris is watching over Yuka, the post Mau gave him. Mau reaches along the line to him anyway, and feels him there: tall and still with his sword, the first of them with a name.
+“Two up the bank and two on the far side,” Mau says. “If it starts to go, put them where the driver can see them before they reach the bend.” ᴹ
 
-Kamish isn't here either. Kamish is lying along the bottom of the orchard with his head at the old pear, keeping the promise Mau asked of him: the house. He keeps it lying down, mostly. It still counts.
+Bellion shifts the marks. The unit assigned to the ford is already waiting at the front. At a word from Bellion the four go where they were told. The rest hold.
 
-Beru isn't here. Beru is upstairs, in the world, with Ori. And Lantern in her shadow: the dragon Mau gave her, because she named him once, in the other life.
+Noise points to a little section kept apart from the field assignments. Mau recognises entries from the most recent gate. Some already have posts. A handful are still being watched to see what tasks they take to. One shape down the list has enough of both arms left to carry a crate without insisting on putting it under the other arm. They've been giving it work with the supply line rather than a place up front.
 
-Bellion is at the front instead. He has the watch on the approaches and the legion when Mau isn't leading it, and he stands when Mau comes and gives him the count, all of it, in order, without being asked.
+“Good,” says Mau. “Can we check those against the older lists before we go on?” ᴹ
 
-And then the rest. The thousands. The ones without names.
+Ciel brings them up. The count on the first one ends before the two great dragons from the old gate were even put down. The later sheets have whole runs of ordinary soldiers that came in after that. He remembers pulling rows of them out of the dark and sending them to clear the route back while the rest of the group were still deciding what to keep out of the loot.
 
-* * *
+A name has a place on the roll. Most of them have a mark. Bellion can find either without counting a second time.
 
-He finds the soldier from the stairs about midday.
+“Which one have I got in the chair at Elmesia's?” Mau asks. ᴹ
 
-He doesn't recognise it at first. It's one of the ordinary ones. A shape in shadow-armour, with no name, standing in the middle of a rank in the middle of the dark.
+“Window post,” says Bellion. “Same one as last week.” ᴮˡ
 
-But Noise stops beside it.
+Mau checks the connection. The soldier is indeed in the chair, turned toward the window because the order was to keep the view clear. Elmesia took the back off a bigger chair so this one could sit in armour. Mau had thought, the first night, that it was enjoying the arrangement more than he was.
 
-*This one*, he says. ᴺ
+“Leave it there,” he says. “She knows which one to tell if she needs me.” ᴹ
 
-Mau looks at it.
+*Keep the chair, too?* asks Ciel. ᶜ
 
-*The two weeks*, says Noise. *When you were in the clinic and Yuka was in Ori's room. Igris was watching over Yuka, the way he always is. Beru was with Ori, and Lantern in her shadow. Every post you ever gave was kept. But nobody had a post at the foot of the stairs, between the two of them and the way down to you. This one went and stood there. Every night. Nobody told it to. Not out loud, not inside. It just went.* ᴺ
+Mau can hear the smile before he can see her face. *You can have a turn if you're the one submitting a request.* ᴹ
 
-Mau stands in front of the soldier for a long time.
+*I'd put it where the light's better.* ᶜ
 
-The soldier doesn't move. It doesn't look at him. It's looking straight ahead, the way they all do.
+*That would spoil the view.* ᴹ
 
-But something in the way it's standing has changed. Mau can feel it. The soldier knows he's looking. The soldier has been waiting, for weeks, for nobody, and now somebody has stopped in front of it.
+She leaves a small new note next to the mark. *View. Window anchor. Seat remains optional.*
 
-*It never asked*, says Noise. *None of them ask.* ᴺ
-
-“I know,” says Mau, out loud. ᴹ
-
-He puts his hand on the soldier's shoulder.
+Mau looks at the name. It will do.
 
 * * *
 
-He gives it a name.
+They spend a little longer on the stair watch. Bellion shows him which of his own soldiers took the post at the foot of the stairs the nights he kept going back to the clinic. Ori and Frieren had been using the stairs at different hours and Beru was kept with Ori. There was a gap between those two tasks. Bellion filled it. The soldier on that post has carried things to the clinic since and still checks the dark at the foot of the stairs before it goes back to the yard.
 
-He thinks about it for a long time first. Names matter. Igris has a name. Beru. Kamish. Names make them more themselves, Jin-Woo told him once. Not stronger. More *there*.
+“Stair,” says Mau. ᴹ
 
-He thinks about the foot of the stairs. About every night of the worst two weeks this house has had. About a soldier nobody asked, going and standing there anyway, in the dark, so a child could sleep.
+Bellion looks at him.
 
-“Stair,” he says. ᴹ
+“So I can ask you for the same one next time. That's all.” ᴹ
 
-The soldier goes very still.
-
-Then it goes down on one knee.
-
-Not the way they all kneel when he comes. Differently. Slower. As if it means it.
-
-*That's a terrible name*, says Ciel. ᶜ
-
-*It's a good name*, says Noise. ᴺ
-
-*It's a word for a thing you walk on.* ᶜ
-
-*It's a word for a thing that holds you up*, says Noise. ᴺ
-
-Ciel is quiet for a moment.
-
-*Fine*, she says. *It's a good name.* ᶜ
+The soldier kneels when he speaks to it. Mau puts a hand on its shoulder and tells it to carry on. It rises and goes back to its post exactly as it did the last time he gave it an order.
 
 * * *
 
-The soldier in Elmesia's room gets a name too.
+When he opens his eyes on the porch, Pillow has got his head sideways through the two gaps under the bench. There's nowhere to put the rest of him, and he looks prepared to keep trying anyway.
 
-It doesn't come down. It can't leave the window. Mau goes to it, instead, through the line, the way he'd go to an anchor, and finds it sitting in its chair in the little room at the top of the narrow stair, looking out at the city. The same way it's been looking for three weeks.
+Ori is kneeling in front of him. She has the heel of one hand round his muzzle, which is keeping his nose an inch from Mau's knee.
 
-It doesn't turn round.
+“He's waiting for you,” she says. ᴼ
 
-But it knows he's there.
+Yuka is still next to Mau, still with the blanket round both of them. She leans forward and frees the edge Pillow has pinned with his chin.
 
-“You've held this window since the first visit,” Mau says. ᴹ
+“Can we all go and sit somewhere there's room for him?” she asks. ʸ
 
-The soldier keeps looking at the city.
+They go as far as the lawn. Yuka sits down first, draws Mau against her and tells Ori she's got room on the other side if she wants it. Lantern comes out of Ori's shadow and puts both front feet on Pillow. Pillow raises his head just high enough to slide Lantern off again and settles it straight on Mau's leg. He doesn't seem inclined to move until someone changes plans completely.
 
-“You let DIO and Elmesia have their garden,” says Mau. “You never came down. You never interrupted. You sat here and watched the river and let them be.” ᴹ
+Ori asks about the watch on the river. Mau draws the turn over her map with the side of his finger. She makes him show her a second time, with the map turned the way it would be if she were carrying it down the road.
 
-The soldier doesn't move.
-
-“View,” says Mau. ᴹ
-
-The soldier turns its head.
-
-Just slightly. For the first time in three weeks. Away from the window, toward him.
-
-Then back to the city.
-
-But Mau feels it. Down the line. The same thing he felt from the soldier at the foot of the stairs. Something going through it that doesn't have a word, because soldiers don't have words. Something like a man being given a job he was dreading and finding out it comes with a name.
-
-* * *
-
-The rota takes an hour.
-
-Ciel draws it up. Noise helps. A week each, for the room with the view. In order, starting with the ones who've been standing at the back longest, the ones from the earliest gates, the ones nobody looked at. View keeps the room in between, so there's always someone there who knows how to sit by the window properly.
-
-The legion watches them do it.
-
-When it's finished, Ciel reads it out. Into the dark. All six thousand and more names in order, or numbers for the ones without, and the dates.
-
-Nobody cheers. Soldiers don't cheer.
-
-But the looking at the door stops.
-
-All at once. Like a held breath going out.
-
-*That's quieter*, says Ciel. ᶜ
-
-*Much*, says Mau. ᴹ
-
-* * *
-
-Ori is allowed to choose one name.
-
-He didn't plan it. She came and found him in the afternoon, on the porch, where his body was sitting with its eyes shut, and sat down beside him and waited until he came back out, and asked what he was doing.
-
-He told her.
-
-Ori looked at him for a long time.
-
-“Can I name one?” she said. ᴼ
-
-So he takes her down. Not really down. She can't go inside. But he can let her see, the way he let Noise see seven witches' faces, through his eyes. And she sits beside him on the porch with her eyes shut and her hand in his and looks at the legion in the dark.
-
-She chooses one at the back. A small one. Smaller than the others. With a dent in its helmet from some fight a long time ago.
-
-“That one,” she says. ᴼ
-
-“What do you want to call it?” says Mau. ᴹ
-
-Ori thinks about it very seriously for a long time.
+She asks if the soldier carrying the crates has a name. He lets her see it from the porch side of the yard, where two of them are moving Shuna's empty boxes. It has a dent in its helmet and a little bit of packing straw caught there.
 
 “Pickles,” she says. ᴼ
 
-* * *
+Yuka looks up. “Why?” ʸ
 
-Ciel makes the offended sound.
+“If I said Straw it would be confusing. See how much there is.” ᴼ
 
-The full one. The one from the seven rooms. *How dare you* in breath form.
+Mau writes it down between the supplies and the ford. Ori leans against his side to look at his handwriting. Her arm comes round his back. Yuka tightens hers a little lower so he doesn't have to hold himself up on that elbow.
 
-Noise, beside her, laughs.
-
-And from Yuka's shadow, all the way across the house, Igris speaks, through the line, in the dry level voice he uses for reports.
-
-*A fitting name, my king*, says Igris. *It is small, and it is sharp, and the child chose it.* ᴵᵍ
-
-And the small soldier with the dent in its helmet, at the very back of six thousand and more, goes down on one knee in the dark. Slowly. As if it means it.
-
-Ori opens her eyes.
-
-“Did it like it?” she says. ᴼ
-
-Mau looks at her.
-
-“Yes,” he says. “It likes it very much.” ᴹ
-
-Ori nods, satisfied, and writes it in her notebook. Under *13*. Under *the rota* and *(AND NAMES)*.
-
-*Stair. View. Pickles.*
-
-She draws a small helmet beside the last one. With a dent.
+He stays exactly where he is while Ori works out the next mark on the map.

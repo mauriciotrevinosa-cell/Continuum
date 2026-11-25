@@ -155,7 +155,7 @@ They sit like that until the light goes.
 
 At supper, Ori makes him sit at the head of the table.
 
-He doesn't want to. He tries to sit in his chair, under the window, beside Yuka. Ori stands in front of him with her spear and points at the head of the table until he goes.
+He doesn't want to. He tries to sit in his chair, under the window, beside Yuka. Ori stands in front of him and points at the head of the table until he goes.
 
 Everyone's there. Everyone. The whole house, packed round the long table, and the witches at the end, and the Simurians, Dabura and Maru and Tsurugi, and Jin-Woo's family down from the south road. Even Cross, at the very far end, quiet, polite, saying nothing to Mau, as agreed.
 
@@ -211,7 +211,7 @@ Nobody says anything.
 
 Then Yuka, on the arm of his chair, puts her hand on the back of his neck.
 
-And Ori, standing on her chair at the other end of the table, raises her spear.
+And Ori, standing on her chair at the other end of the table, raises the folded piece of paper with her orders on it.
 
 “*Orders*,” she says. Quite gently. ᴼ
 

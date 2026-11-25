@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 10
 **Source episode:** S13E143
-**Continuity state:** B+470 ("17"). Morning in the valley of everyone's pears. Ori follows the stream down to where the valley opens and sees, far off, more hills and no end; she decides that's for expedition three. Beru finds a stone with a hole worn through it by water and gives it to Ori, who gives it back, because it's his find. The way home, by the compass. At the ruins, the three pears on the REST HERE stone are gone, and there are small tracks in the dust round the stone. Ori decides something was hungry. Makima steps back out at the ridge. They come down the hill road at dusk and the whole house is on the porch. Ori reports to the Fort with her map. She gives Frieren her compass back. Frieren asks where it pointed. "At you. The whole time."
+**Continuity state:** B+470 ("17"). Morning in the valley of everyone's pears. Ori follows the stream down to where the valley opens and sees, far off, more hills and no end; she decides that's for expedition three. Beru finds a stone with a hole worn through it by water and gives it to Ori, who gives it back, because it's his find. The way home, by the compass. At the ruins, the three pears on the REST HERE stone are gone, and there are small tracks in the dust round the stone. Ori decides something was hungry. Makima steps back out at the ridge. They come down the hill road at dusk and the whole house is on the porch. Ori reports to the Fort with her map. She shows Frieren the compass and a rock she picked out for her. Frieren asks where the compass pointed. "At you. The whole time."
 
 *When: B+470. "17". Ori drew the valley beside it, very small, with an arrow going off the edge of the page and the words "EXPEDITION THREE".*
 
@@ -27,7 +27,7 @@ Kamish, apparently, does not sit.
 
 Ori follows the stream.
 
-After breakfast, which is cold pears and colder rolls and the last of the honey cake, she packs her satchel and takes her map and her spear and walks down the stream away from the camp, out from under the wild pear trees, to where the valley opens out.
+After breakfast, which is cold pears and colder rolls and the last of the honey cake, she packs her satchel and takes her map and her sword and walks down the stream away from the camp, out from under the wild pear trees, to where the valley opens out.
 
 Mau and Yuka follow. Beru goes in front of her, a few steps, the way he always does now when there's somewhere new.
 
@@ -89,9 +89,7 @@ Then he puts it somewhere about his person, beside the terrible pear he's been c
 
 * * *
 
-The compass brings them home.
-
-Ori holds it the whole way. She doesn't look at the map once. She just holds the compass out in front of her on its string, walking very fast, and follows the needle. Up the valley. Over the far rim. Across the basin, past the black ring, where she stops for a moment and looks at it, and then goes on. Up the near rim. To the ridge.
+Ori checks the needle at the fork and the map again above the basin. The needle can tell her which way the house is. It would send her straight down a bank Beru would have to carry her up again. She checks where she marked the safe way round it and leads them up the far side to the ridge.
 
 The ruins.
 
@@ -167,19 +165,17 @@ She stops. Just for a second. Then she runs.
 
 She reports to the Fort first. That's the rule. Fort business before anything.
 
-She stands on her crate in the yard in the last of the light with her muddy knees and her map unfolded, and reports, and the Fort listens: Umaru and Milim and Emilia and Rem and Beatrice with her owl, and Beru, who was there, listening to it all again as if for the first time.
+She stands on her crate in the yard in the last of the light with her muddy knees and her map unfolded, and reports, and the Fort listens. Chloe passes the map down to where Agott can see it. Beru, who was there, listens all over again as if for the first time.
 
 At the end, she folds up the map.
 
 Then she gets down off the crate and goes across the yard to the porch steps, where Frieren is still standing.
 
-She takes the compass off the string round her neck. She holds it out.
+Ori holds the compass up by its strap for Frieren to see. The glass has fogged a little on the climb. She digs in her other pocket for a flat stone with a vein of white through it and puts that in Frieren's hand.
 
-“Returned,” she says. “It's a lend.” ᴼ
+“That one's for you,” she says. ᴼ
 
-Frieren takes it.
-
-She doesn't look at the needle. She looks at Ori.
+Frieren turns the stone over once, looking at the line that goes all the way through.
 
 “Where did it point?” she says. ᶠ
 
@@ -191,14 +187,10 @@ Frieren doesn't say anything.
 
 She crouches down, slowly, so their faces are level, and takes Ori's face in both hands, very gently, the way you'd hold something you'd found after a long time looking.
 
-Then she lets go, and stands up, and puts the compass in the pocket of her robe.
+Then she lets go, and stands up, and puts the stone in the pocket of her robe.
 
 “Supper,” she says. ᶠ
 
 Ori goes in to supper.
 
-Frieren stays on the step a moment longer. Mau, coming up behind with Yuka, sees her take the compass back out of her pocket and look at it, in the light from the kitchen window.
-
-He doesn't see where the needle's pointing.
-
-He doesn't need to.
+Frieren stays on the step a moment longer. She takes the stone out of her pocket again and sets it on the wall beside where she normally puts her cup. Mau holds the door while she gets it turned so the white part catches the kitchen light.

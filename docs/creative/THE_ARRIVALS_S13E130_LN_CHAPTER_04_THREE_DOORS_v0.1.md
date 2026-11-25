@@ -67,7 +67,7 @@ The old weekly gate. The one Mau can tell what he wants, once a week, when it ch
 
 The middle door is the Fort's.
 
-Ori says so, before anyone else can. She steps out in front of the crowd with her spear and points it at the paper flag that says FORT, and looks round at everybody with an expression that dares anyone to disagree.
+Ori says so, before anyone else can. She steps out in front of the crowd with her sword in its sheath and points at the paper flag that says FORT, and looks round at everybody with an expression that dares anyone to disagree.
 
 Nobody disagrees.
 
@@ -111,7 +111,7 @@ Ori is staring at him.
 
 “I'm the vending citizen,” says Mau. “I have to supply.” ᴹ
 
-“The *official* vending citizen,” says Ori, and turns round to the Fort, who are all standing behind her, and raises her spear, and the Fort screams.
+“The *official* vending citizen,” says Ori, and turns round to the Fort, who are all standing behind her, and raises the paper flag, and the Fort screams.
 
 * * *
 

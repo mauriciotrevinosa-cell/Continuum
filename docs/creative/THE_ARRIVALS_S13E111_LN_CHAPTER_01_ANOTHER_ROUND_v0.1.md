@@ -5,9 +5,9 @@
 **Volume:** 83
 **Reading order:** 15
 **Source episode:** S13E111
-**Continuity state:** B+430 ("57"). Gojo calls in the rematch. For the controlled drill, both selectively admit the partner’s physical training contact while hostile techniques still meet Infinity. Gojo finds Mau’s right guard late when his attention drifts; distraction does not switch neutral Infinity off. Mau answers emotional questions with technical explanations. Gojo stays with him after the drill, then tells Shoko what he actually saw. Shoko invites Mau to come to the clinic before supper; he promises to see her in the morning and follows through on the errand he set out to do.
+**Continuity state:** B+429 ("58"). Gojo calls in the rematch. For the controlled drill, both selectively admit the partner’s physical training contact while hostile techniques still meet Infinity. Gojo finds Mau’s right guard late when his attention drifts; distraction does not switch neutral Infinity off. Mau answers emotional questions with technical explanations. Gojo stays with him after the drill, then tells Shoko what he actually saw. Shoko invites Mau to come to the clinic before supper; he promises to see her in the morning and follows through on the errand he set out to do.
 
-*When: B+430. Mid-morning to noon, on the open ground past the river. Yuka wrote "57". She was in the yard with Cross when Mau and Gojo left; she waved.*
+*When: B+429. Early afternoon, on the open ground past the river. Yuka wrote "58". She was in the yard with Cross when Mau and Gojo left; she waved.*
 
 “Another round,” says Gojo. ᴳ
 

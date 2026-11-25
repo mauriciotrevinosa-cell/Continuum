@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 29 — The Plate Under the Cloth
+## Chapter 31 — The Plate Under the Cloth
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 29
+**Reading order:** 31
 **Source episode:** S13E117
 **Continuity state:** B+433, Yuka viewpoint. Cross talks her out of going to the quarry after she has put her boots on. Ciel relays what she can about the duel. Ori tells Yuka she saw Mau waiting at the steps and reminds her what she promised. Shuna tells Yuka what she saw on the night of the walk and helps her set aside something fresh for Mau. He says he loves her when she turns to give him space. They remain hurt and apart that night.
 

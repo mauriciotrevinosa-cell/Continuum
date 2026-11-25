@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 24 — You'll Know When
+## Chapter 26 — You'll Know When
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 24
+**Reading order:** 26
 **Source episode:** S13E115
 **Continuity state:** B+433, pause. Mau spends the remaining two thirds using the previously planned proportions; the old-scale reference is 300 levels, not an invented exact stat total. Twenty-four days since the first allocation, eleven seconds for the physical change now; no instant mastery, repaired finger/eye history or erased old scars. Both hearts checked. Extra processing headroom lets Noise finish the copied light’s aiming calibration.
 

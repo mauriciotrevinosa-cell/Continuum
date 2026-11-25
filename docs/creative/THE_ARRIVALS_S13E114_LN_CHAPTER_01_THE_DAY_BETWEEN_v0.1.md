@@ -5,9 +5,9 @@
 **Volume:** 83
 **Reading order:** 21
 **Source episode:** S13E114
-**Continuity state:** B+431 night to B+432 night. Ori chooses to sleep beside Mau while Yuka stays in Ori’s room with Frieren. Makima prevents a premature solitary departure; Mau says he wants to return. Bocchi takes him to see her family briefly before the duel. Mai confronts the unannounced supply cut and he restores that resource path separately on B432, leaving his personal relays closed. Shuna, Rimuru and Frieren actively offer food, conversation and support. One third of the saved allocation remains spent; two thirds stay available until the duel.
+**Continuity state:** B+430 night to B+431 late morning. Ori sleeps beside Mau by choice. Yuka stays with Frieren in Ori's room. Makima asks Mau to stay home until the duel. At the workshop the next morning, Mai confronts the unannounced cut and they restore the supply on its own with Ciel. The personal lines stay closed.
 
-*When: B+431, late night, to B+432, night. Nobody wrote a number in the notebook on B+432. It lies open on the windowsill to "56".*
+*When: B+430, late night, into B+431, after breakfast. The notebook is still open to "57".*
 
 She doesn't come to bed.
 
@@ -61,7 +61,7 @@ He does it carefully, so as not to wake her. He tucks the blanket round her. He 
 
 He knows what he's going to do.
 
-The quarry. Now. Tonight. Not the day after tomorrow at dawn, the way Maru said. Now, while it's dark, while everyone's asleep, while nobody can follow him. He'll go to the quarry and wait there, and when Dabura comes, early or on time, he'll be there, alone, and he'll do it, and it'll be done.
+The quarry. Now. Tonight. Not three mornings from now at dawn, the way Maru said. Now, while it's dark, while everyone's asleep, while nobody can follow him. He'll go to the quarry and wait there, and when Dabura comes, early or on time, he'll be there, alone, and he'll do it, and it'll be done.
 
 He doesn't need anyone. He doesn't want anyone. He closed the doors so nothing would reach him, and nothing will.
 
@@ -93,7 +93,7 @@ He grips the door. A draught is coming in along the frame. He had checked there 
 
 “I have to go.” ᴹ
 
-“You have to go tomorrow,” says Makima. “At dawn. With Gojo and Frieren and Jin-Woo watching from the ridge. With the house knowing where you are. Not now. Not in the dark. Not alone, a day early, so you can stand in a quarry by yourself and wait for someone to come and kill you.” ᴹᵏ
+“You go in two days,” says Makima. “At dawn. With Gojo and Frieren and Jin-Woo watching from the ridge. With the house knowing where you are. Not now. Not in the dark. Not alone, two days early, so you can stand in a quarry by yourself and wait for someone to come and kill you.” ᴹᵏ
 
 He looks at her.
 
@@ -121,7 +121,7 @@ He doesn't make a sound.
 
 Makima doesn't say anything. She doesn't touch him. She just stays, a friend on a step, while the sky starts very slowly going grey over the hills.
 
-B+432 is very long.
+He gets as far as breakfast on B+431.
 
 He spends it in the workshop with Mai. He doesn't decide to; he just goes there, after breakfast, which he doesn't eat, and Mai looks at him and gives him a beam for the storage rack she's adding beneath the new floor. He holds it while she checks the dry joint. She has not started her Construction yet.
 
@@ -154,113 +154,3 @@ She's very still.
 He looks away.
 
 He doesn't look again.
-
-He hears Momo come in from the yard, ask after Mai's level, get the answer and come up the stairs with it in her hands. She makes room for the two of them to pass before she starts telling Mai what she's done with the vent. For a few minutes he can listen to that. The next time he looks up, the orchard window is in shade.
-
-At lunch Shuna brings a bowl to the workshop. She makes him put the beam down before she leaves it in his hands.
-
-“Three mouthfuls while it's warm,” she says. “Mai can wait three mouthfuls.” ˢᵘ
-
-Mai agrees without looking up. He manages some of it.
-
-Rimuru comes to the doorway afterward.
-
-“Ciel can still reach me,” he says. “I know you closed your part. If you want to talk out loud, I'm here too.” ᴿ
-
-Mau nods. Rimuru stays a little longer, asks about tomorrow's route, and only then goes back to the house.
-
-Frieren comes in the afternoon.
-
-She stands in the workshop doorway and looks at him for a long time, holding the beam for Mai. She has the look on her face she had in the yard last night. Like she's watching something she understood too late.
-
-“The quarry,” she says. ᶠ
-
-“Tomorrow. At dawn.” ᴹ
-
-Frieren nods.
-
-“I'll be on the ridge,” she says. “With Gojo. And Jin-Woo.” ᶠ
-
-“You don't have to.” ᴹ
-
-“I know,” says Frieren. ᶠ
-
-She doesn't go. She stands there a moment longer.
-
-“Mau,” she says. ᶠ
-
-He waits.
-
-“I thought there would be time,” says Frieren. “With Himmel. I thought I could understand him later, when it was convenient. So I didn't ask. I let him be kind and I was kind back and neither of us said anything.” ᶠ
-
-He goes very still.
-
-“It took me ten years and a funeral to find out what I'd missed,” says Frieren. “I don't want it to take you that long.” ᶠ
-
-She goes.
-
-Gojo prepares by not preparing.
-
-He sits on the wall all afternoon with a bag of sweets, eating them, watching the north road, saying nothing to anyone. At one point Milim asks him if he's going to fight too, and he says *no, I'm going to watch, it's going to be the best fight I've seen since I came here*, and grins, and doesn't mean the grin.
-
-Jin-Woo prepares by going to the training posts and standing there, for an hour, completely still, with his eyes closed. When he opens them, he comes to the workshop, and stands in the doorway the way Frieren did.
-
-“He'll get bored,” he says. ᴶʷ
-
-Mau looks at him.
-
-“Maru said he gets bored easily,” says Jin-Woo. “If you make him bored, he'll make a mistake. If you make him interested, he'll stop being careless.” ᴶʷ
-
-He's quiet for a moment.
-
-“You've got two thirds left,” he says. ᴶʷ
-
-“I know.” ᴹ
-
-“You'll know when,” says Jin-Woo, and goes. ᴶʷ
-
-Bocchi finds him shaking sawdust out of his sleeve and asks if he wants to come with her for ten minutes. She holds up a cable. Her father found it in a drawer and now her whole family wants to argue about what it used to plug into.
-
-“Do you need me to tell you?” he asks. ᴹ
-
-“I want to see what he'll say when you tell him,” Bocchi says.
-
-He goes. Futari has got two completely different plugs lined up on the floor and decided that one of them belongs to a kettle. She announces this with enough certainty that he gives the plug another look. By the time Bocchi's dad digs out the matching plug, Mau is on the carpet with Futari trying to get the two of them to identify the sound of the stupidest appliance in the house without looking. Bocchi's mother wins from the hallway. Mau stays another ten minutes. When he leaves, Bocchi walks him to the door and makes him promise to come back when they have pie. He asks if her dad knows about the pie yet. She says that's what she's going to tell him now.
-
-At dinner, Yuka doesn't come.
-
-Ori sits beside him with a piece of bread. She puts it in his hand and asks if he can come say goodbye before he leaves in the morning. She wants to see him before he goes over the hill.
-
-“I'd like that,” he says. “I'll come find you.” ᴹ
-
-“Did you save a place for Yuka up there?” ᴼ
-
-“I did,” he says. ᴹ
-
-He breaks the bread and gives Ori the larger end. She pushes a piece back into his fingers. This time he eats it.
-
-That night, alone in the bedroom, he opens the page.
-
-The stat page. The name at the top. The level. The fields: *Strength. Speed. Endurance. Perception.* Each raised by part of the first allocation. One third of the saved pool spent; two thirds still waiting.
-
-And the box at the bottom.
-
-> **[Unallocated points remaining: two thirds of the accumulated total.]**
-
-He looks at it for a long time.
-
-Ori is asleep on Yuka's pillow again. She came in without a word, at the same hour as last night, and climbed in, and was asleep in minutes. He sits on the edge of the bed beside her in the dark, with the page open in front of him, and the box at the bottom.
-
-*You'll know when.*
-
-He closes the page.
-
-He doesn't spend anything.
-
-He lies down beside his daughter, with his boots off this time, and closes his eyes, and doesn't sleep.
-
-On the windowsill, the notebook lies open.
-
-Nobody has written in it today.
-
-The last number on the page is still *56*.

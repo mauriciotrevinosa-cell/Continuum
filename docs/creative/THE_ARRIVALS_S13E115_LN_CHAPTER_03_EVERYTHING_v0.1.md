@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 25 — Everything
+## Chapter 27 — Everything
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 25
+**Reading order:** 27
 **Source episode:** S13E115
 **Continuity state:** B+433, the middle of the fight. Mau is all the way there, and Dabura is hard enough to kill that Mau can stop holding back: infinite mana from the Black Heart, cursed energy his techniques barely move, every point in his body, RCT always on. He still has one body to direct it through. He runs two innate techniques at once, which he has been practising for months (Infinity holding while Shrine cuts); he doesn't fire everything at once. Blue and Red are two applications of Limitless. The strain of two is real but the constant brain RCT keeps him whole; three or more is where it truly costs. He opens with Zoltraak by the hundred. It works once. The second time, Dabura is already moving before the lines leave Mau's hand. The third time, he answers it. Blue and Red at once throws him across the quarry; the next time he goes *between* them. Evolved Shrine from every angle cuts him in a hundred places; the next time he's learned where the cuts won't be. Noise is the first to name it: Dabura adapts. Each answer works once, then Dabura has it. Like something taught him to. On the ridge, Frieren and Gojo stop bickering. The chapter ends with Mau understanding the shape of the fight: he has more than Dabura, but Dabura learns faster than Mau can repeat himself. So Mau will have to stop repeating himself.
 

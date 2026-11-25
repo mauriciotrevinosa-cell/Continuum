@@ -4,7 +4,7 @@
 **Volume:** 83
 **Season:** 13
 **Coverage:** S13E104–; home, then the Simurian arc
-**Chapter files:** 32
+**Chapter files:** 34
 
 Counts describe the manuscript; they are not quotas. Source IDs remain stable when reading order changes.
 
@@ -33,19 +33,23 @@ Counts describe the manuscript; they are not quotas. Source IDs remain stable wh
 | 19 | S13E113 | The Door Is Closed | `THE_ARRIVALS_S13E113_LN_CHAPTER_01_THE_DOOR_IS_CLOSED_v0.1.md` |
 | 20 | S13E113 | Every Dungeon | `THE_ARRIVALS_S13E113_LN_CHAPTER_02_EVERY_DUNGEON_v0.1.md` |
 | 21 | S13E114 | The Day Between | `THE_ARRIVALS_S13E114_LN_CHAPTER_01_THE_DAY_BETWEEN_v0.1.md` |
-| 22 | S13E114 | Nothing There | `THE_ARRIVALS_S13E114_LN_CHAPTER_02_NOTHING_THERE_v0.1.md` |
-| 23 | S13E115 | Forty Seconds | `THE_ARRIVALS_S13E115_LN_CHAPTER_01_FORTY_SECONDS_v0.1.md` |
-| 24 | S13E115 | You'll Know When | `THE_ARRIVALS_S13E115_LN_CHAPTER_02_YOULL_KNOW_WHEN_v0.1.md` |
-| 25 | S13E115 | Everything | `THE_ARRIVALS_S13E115_LN_CHAPTER_03_EVERYTHING_v0.1.md` |
-| 26 | S13E115 | Nothing Twice | `THE_ARRIVALS_S13E115_LN_CHAPTER_04_NOTHING_TWICE_v0.1.md` |
-| 27 | S13E116 | The Wheel | `THE_ARRIVALS_S13E116_LN_CHAPTER_01_THE_WHEEL_v0.1.md` |
-| 28 | S13E116 | The King Is Real | `THE_ARRIVALS_S13E116_LN_CHAPTER_02_THE_KING_IS_REAL_v0.1.md` |
-| 29 | S13E117 | The Plate Under the Cloth | `THE_ARRIVALS_S13E117_LN_CHAPTER_01_THE_PLATE_UNDER_THE_CLOTH_v0.1.md` |
-| 30 | S13E117 | Can I Speak? | `THE_ARRIVALS_S13E117_LN_CHAPTER_02_CAN_I_SPEAK_v0.1.md` |
-| 31 | S13E118 | A Test | `THE_ARRIVALS_S13E118_LN_CHAPTER_01_A_TEST_v0.1.md` |
-| 32 | S13E118 | Not Going Alone | `THE_ARRIVALS_S13E118_LN_CHAPTER_02_NOT_GOING_ALONE_v0.1.md` |
+| 22 | S13E114 | Come Ask Me | `THE_ARRIVALS_S13E114_LN_CHAPTER_03_COME_ASK_ME_v0.1.md` |
+| 23 | S13E114 | A Place to Look | `THE_ARRIVALS_S13E114_LN_CHAPTER_04_A_PLACE_TO_LOOK_v0.1.md` |
+| 24 | S13E114 | Nothing There | `THE_ARRIVALS_S13E114_LN_CHAPTER_02_NOTHING_THERE_v0.1.md` |
+| 25 | S13E115 | Forty Seconds | `THE_ARRIVALS_S13E115_LN_CHAPTER_01_FORTY_SECONDS_v0.1.md` |
+| 26 | S13E115 | You'll Know When | `THE_ARRIVALS_S13E115_LN_CHAPTER_02_YOULL_KNOW_WHEN_v0.1.md` |
+| 27 | S13E115 | Everything | `THE_ARRIVALS_S13E115_LN_CHAPTER_03_EVERYTHING_v0.1.md` |
+| 28 | S13E115 | Nothing Twice | `THE_ARRIVALS_S13E115_LN_CHAPTER_04_NOTHING_TWICE_v0.1.md` |
+| 29 | S13E116 | The Wheel | `THE_ARRIVALS_S13E116_LN_CHAPTER_01_THE_WHEEL_v0.1.md` |
+| 30 | S13E116 | The King Is Real | `THE_ARRIVALS_S13E116_LN_CHAPTER_02_THE_KING_IS_REAL_v0.1.md` |
+| 31 | S13E117 | The Plate Under the Cloth | `THE_ARRIVALS_S13E117_LN_CHAPTER_01_THE_PLATE_UNDER_THE_CLOTH_v0.1.md` |
+| 32 | S13E117 | Can I Speak? | `THE_ARRIVALS_S13E117_LN_CHAPTER_02_CAN_I_SPEAK_v0.1.md` |
+| 33 | S13E118 | A Test | `THE_ARRIVALS_S13E118_LN_CHAPTER_01_A_TEST_v0.1.md` |
+| 34 | S13E118 | Not Going Alone | `THE_ARRIVALS_S13E118_LN_CHAPTER_02_NOT_GOING_ALONE_v0.1.md` |
 
 ## Notes
+
+- **Current manuscript:** the yard argument is on B+430, Mai restores her supply with Mau and Ciel on B+431, and Dabura still arrives at dawn on B+433. #22 and #23 show the active disagreement on the two days before the duel. #31 is Yuka's absence and the return, #32 is her apology to Makima and the interrupted supper, and #33–34 are the warning and the departure. Historical notes below preserve their dates and numbering from the drafts they describe.
 
 - Current Cross-through-Yoru revision starts at #7. See `the_arrivals_story_board/S13_CROSS_THROUGH_YORU_REVISION_2026-11-25.md` for the revised sequence. Its continuity supersedes the earlier draft notes below where they differ.
 

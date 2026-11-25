@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 26 — Nothing Twice
+## Chapter 28 — Nothing Twice
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 26
+**Reading order:** 28
 **Source episode:** S13E115
 **Continuity state:** B+433. Mau answers an opponent who adapts by never doing the same thing twice. Every exchange is a new combination: Dabura's own stolen light ("That's mine." "It was."), the katana with Rika, whole, out for the first time in a real fight, Authority on the quarry itself, Bang, Sky. And once, Frieren's first and most useless spell, the one that makes flowers bloom, opened under Dabura's feet, so that his body wastes a whole adaptation on something harmless while the real strike comes from behind. Frieren, on the ridge, has never been prouder. Dabura stops adapting in time and starts getting hit. He bleeds, closes, and laughs: "Finally something that doesn't break!" Mau understands him exactly. Pushed past everything his body knows, Dabura opens the domain he's never opened.
 

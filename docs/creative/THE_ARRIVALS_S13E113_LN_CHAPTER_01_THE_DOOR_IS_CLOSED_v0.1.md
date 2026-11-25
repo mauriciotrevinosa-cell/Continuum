@@ -5,9 +5,9 @@
 **Volume:** 83
 **Reading order:** 19
 **Source episode:** S13E113
-**Continuity state:** B+431 ("56"), Yuka viewpoint, parallel to the clear. Her borrowed techniques/Exchange and direct link to Mau are closed. Ciel’s own channel still works and supplies the gate location and his safe status. Yuka hears the request for distance as rejection; Cross helps steady her, then uses the story of her near miss in the training gate to frame her fear as something Mau decided to do to her. Shoko knows Mau cancelled their tea. Ciel and Gojo freely pass on his location and condition. Yuka chooses to wait on the porch and sees both return.
+**Continuity state:** B+430 ("57"), Yuka viewpoint, parallel to the clear. Her borrowed techniques/Exchange and direct link to Mau are closed. Ciel’s own channel still works and supplies the gate location and his safe status. Yuka hears the request for distance as rejection; Cross helps steady her, then uses the story of her near miss in the training gate to frame her fear as something Mau decided to do to her. Shoko knows Mau cancelled their tea. Ciel and Gojo freely pass on his location and condition. Yuka chooses to wait on the porch and sees both return.
 
-*When: B+431. Morning to late afternoon. When she woke, the bed was cold on his side; she didn't think anything of it. She wrote "56" and a small sun.*
+*When: B+430. Morning to late afternoon. When she woke, the bed was cold on his side; she didn't think anything of it. She wrote "57" and a small sun.*
 
 The bed is empty when she wakes up.
 
@@ -17,11 +17,11 @@ She thinks she'll go down to make tea with him. She could ask him to take his ou
 
 She gets up. She finds the notebook on the windowsill, open to yesterday's page.
 
-*57.*
+*58.*
 
 That's strange. He usually leaves it open to a blank page for her. She turns to the next one and writes the number, and draws a small sun beside it, because it's a nice morning.
 
-*56.*
+*57.*
 
 She goes downstairs.
 

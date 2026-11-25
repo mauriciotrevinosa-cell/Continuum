@@ -43,7 +43,7 @@ Nobody answers. Not unkindly. They're waiting for the rest.
 
 So he gives them the rest.
 
-“Six days ago,” he says, “before dawn, I closed everything. The relays. The contracts. Yuka's techniques. Mai's supply. I closed them all, and I didn't tell anyone first, and I didn't leave a note. And when you asked me—” ᴹ
+“Seven days ago,” he says, “before dawn, I closed everything. The relays. The contracts. Yuka's techniques. Mai's supply. I closed them all, and I didn't tell anyone first, and I didn't leave a note. And when you asked me—” ᴹ
 
 He looks at Ciel. Then at Noise.
 
@@ -253,7 +253,7 @@ He's lying on the clinic cot in the dark. The lamp is low. The house is asleep. 
 
 There's one more door.
 
-He finds it the way he found them all, six days ago, in the dark before dawn. The line. Thin and steady, running out of him across the yard toward Mai. He closed this one. He reopened the supply the next day, when she came and stood in front of him with her arms folded and asked him why. But not the line. Not her. He left that closed.
+He finds it the way he found them all, seven days ago, in the dark before dawn. The line. Thin and steady, running out of him across the yard toward Mai. He closed this one. He reopened the supply the next day, when she came and stood in front of him with her arms folded and asked him why. But not the line. Not her. He left that closed.
 
 He opens it.
 
@@ -293,7 +293,7 @@ He doesn't fall asleep straight away. He lies there in the dark with his eyes op
 
 And one that's still closed.
 
-He doesn't touch it. He lies there and feels where it is, the way you feel where a door is in a dark house that you know very well. Across the yard. Up the stairs. In Ori's room. A line he closed six days ago before dawn, without a note, and hasn't opened.
+He doesn't touch it. He lies there and feels where it is, the way you feel where a door is in a dark house that you know very well. Across the yard. Up the stairs. In Ori's room. A line he closed seven days ago before dawn, without a note, and hasn't opened.
 
 Not tonight.
 

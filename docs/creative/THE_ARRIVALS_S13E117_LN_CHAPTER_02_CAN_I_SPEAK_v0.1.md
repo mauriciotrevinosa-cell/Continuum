@@ -1,19 +1,19 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 30 — Can I Speak?
+## Chapter 32 — Can I Speak?
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 30
+**Reading order:** 32
 **Source episode:** S13E117
 **Continuity state:** B+434 ("53"). Yuka apologises to Makima, then Mai/Maki. She recognises she used the accusation to hurt and wants to rebuild trust with Makima. Her hurt about Mau shutting the door remains. She plans to begin reconnecting at dinner and talk after. Ori voluntarily gives her the seat. Yoru’s arrival interrupts before the first stolen pickle. No absolute claims that Yuka never cooks/sets tables, Maki never hugs Yuta or Beru is never loud.
 
-*When: B+434. Before dawn to dinner. Yuka writes "53" by lamplight: B+434, the day after the fight. The last written count was "56" on B+431.*
+*When: B+434. Before dawn to dinner. Yuka writes "53" by lamplight: B+434, the day after the fight. The last written count was "57" on B+430.*
 
 She writes the number before dawn.
 
 She does it by the lamp, on the windowsill, in a room with only her in it. He slept in Ori's room last night; she heard Ori take him there, very firmly, the way Ori does things. She didn't go after them.
 
-She counts back. Fifty-six, the last one she wrote. Then fifty-five on the day after the yard. Fifty-four on the day of the fight, yesterday. Today is fifty-three.
+She counts back. Fifty-seven, the last one she wrote. Then fifty-six and fifty-five, the two days she left blank. Fifty-four on the day of the fight, yesterday. Today is fifty-three.
 
 She turns to a new page.
 
@@ -169,19 +169,27 @@ She takes a breath.
 
 “I want one minute where I can sit by him and say what I did before I ask for anything,” she says. ʸ
 
-He's busy all day.
+Dabura's knees don't fit under the long table. By midday Rimuru has asked for two chairs, a bench and finally for somebody to take the table extension out so they can push one of the legs farther down. Yuka can carry the extension. She goes in backward with Shizue calling where the table ends and meets Ori going the other way with a stack of cups at her chin.
 
-She knew he would be. Dabura is at the house now, with Maru, and Rimuru has set up the long table for talks again, and Mau is at the head of it because everyone looks at him. All day. In the common room, with the doors closed, with Dabura's huge laugh coming through the walls every so often, and Rimuru's calm voice, and Mau's, very level, saying things she can't make out.
+Mau has his palm down near the edge of the table. He moves it when Yuka comes through so she can lower her end. A thin strip of cloth has come out over his wrist. He's put his cuff back over it before he says thank you.
 
-She doesn't go in.
+Dabura gets the bench farther away with one enormous foot. He looks at Mau across the width of the table. “When would you have stopped, if I hadn't?” ᴰᵇ
 
-She can't feel him. The door is still closed. She reaches for it once, around noon, very gently, the way you'd put your hand on a door to feel if anyone's on the other side.
+Mau breathes in. Maru has stopped taking the extension from Yuka. It hangs between everybody for a second, as if they all have to stand where they started until they've heard the answer.
 
-Still closed.
+“When you asked me to,” says Mau. ᴹ
 
-She takes her hand away.
+Dabura looks down at the extra length of wood and lifts his end of it himself. Yuka takes two cups from Ori and sets them where Shizue points. One of them is the cup Mau held when he came home yesterday. She wants five minutes with him. She can have five minutes if she asks him to get up in the middle of the conversation and come out. He would still get up for her.
 
-She waits for dinner.
+Mau lifts his eyes. For a second she's looking at him with no idea what expression he's seeing. Ori puts the last cup in her hand. She brings it round to Mau's side of the table and sets it beside him. When her finger hits the handle the contact is loud enough for him to hear. He slides the cup closer.
+
+Rimuru asks whether the offer about the road still stands, and Maru says it does. There is a patch on one of the wagon covers at the ford, he tells them. It took all morning to finish, but when they came to set off the woman who made it wanted to know who was coming back for the next load. Mau asks him how long she wants to stay there. Yuka realises he'll spend as long as they need talking about one woman with a piece of canvas. She used to like that about him. It was why she could ask him for anything.
+
+She wants to be angry about the line for another minute. There's still something in her that wants to feel whether he needs her before she'll go and say she needs him. She stops reaching for it when she notices what she's doing.
+
+Shizue catches the swinging door for her on the way out. “Can you ask Shuna if there's enough for five when they're done?” ˢʰⁱ
+
+“There'll be enough,” says Yuka. She goes to find out what she can do before they all come out again.
 
 The plan is very small.
 
@@ -231,7 +239,7 @@ Frieren, beside her, puts a hand on her head.
 
 Mau comes in last.
 
-He looks tired. More tired than she's ever seen him. The fight yesterday; the talks today; two nights of not sleeping. His body is whole and new and stronger than it's ever been and he looks like he could lie down on the kitchen floor and not get up.
+He looks tired. More tired than she's ever seen him. The fight yesterday; the talks today; another night of not sleeping. His body is whole and new and stronger than it's ever been and he looks like he could lie down on the kitchen floor and not get up.
 
 He goes to the head of the table.
 

@@ -1,13 +1,13 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 22 — Nothing There
+## Chapter 24 — Nothing There
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 22
+**Reading order:** 24
 **Source episode:** S13E114
 **Continuity state:** B+433 dawn, the scouted quarry. The house has checked the ground and approaches. Mau says goodbye to Ori before he leaves. He sees the place reserved for Yuka empty and expressly allows Yoru to observe from the far rim. Direct observation reads Dabura’s active RCT and engraved technique/barrier patterns; it does not show an unviewed memory of Mahoraga. Mau deliberately unfolds a large chosen CE/mana output, not an impossible literal total of infinite mana. Makima stays nearby; the duel begins.
 
-*When: B+433. Dawn. Nobody wrote in the notebook again. It's still open to "56" on the windowsill of an empty room.*
+*When: B+433. Dawn. Nobody wrote in the notebook again. It's still open to "57" on the windowsill of an empty room.*
 
 He said goodbye to Ori on the steps before he left. She had her socks on and one shoe. She held the other shoe against her chest while she asked if he had everything.
 

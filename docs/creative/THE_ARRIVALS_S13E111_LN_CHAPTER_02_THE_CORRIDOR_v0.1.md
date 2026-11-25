@@ -5,9 +5,9 @@
 **Volume:** 83
 **Reading order:** 16
 **Source episode:** S13E111
-**Continuity state:** B+430, evening. Yuka's point of view. Shoko asks her to the clinic with nothing wrong, the way Mau goes. Not a lecture: Shoko talks to her the way a mother would. She tells her what Gojo saw (without numbers): Mau answering the question next to the question, and touching a note from Ori in his pocket. Shoko doesn't call Cross anything. She asks Yuka what she wanted from a second walk with Cross. Yuka talks about wanting one day she could spend with him while both of them were well. Shoko tells her it's possible for that day to be good and still leave Mau needing something from her. She asks what their next conversation could sound like. Yuka, about twenty-one, has wanted to be more grown-up for a long time. She half hears it. She decides she'll talk to Mau properly, tomorrow, when there's a moment. There isn't one.
+**Continuity state:** B+429, evening. Yuka's point of view. Shoko asks her to the clinic with nothing wrong, the way Mau goes. Not a lecture: Shoko talks to her the way a mother would. She tells her what Gojo saw (without numbers): Mau answering the question next to the question, and touching a note from Ori in his pocket. Shoko doesn't call Cross anything. She asks Yuka what she wanted from a second walk with Cross. Yuka talks about wanting one day she could spend with him while both of them were well. Shoko tells her it's possible for that day to be good and still leave Mau needing something from her. She asks what their next conversation could sound like. Yuka, about twenty-one, has wanted to be more grown-up for a long time. She half hears it. She decides she'll talk to Mau properly, tomorrow, when there's a moment. There isn't one.
 
-*When: B+430. After dinner, in the clinic, with the lamp lit. Yuka chose to sit beside Mau at dinner. Ori stayed in her own seat by Frieren.*
+*When: B+429. After dinner, in the clinic, with the lamp lit. Yuka chose to sit beside Mau at dinner. Ori stayed in her own seat by Frieren.*
 
 Shoko asks her after dinner.
 

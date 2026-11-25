@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 23 — Forty Seconds
+## Chapter 25 — Forty Seconds
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 23
+**Reading order:** 25
 **Source episode:** S13E115
 **Continuity state:** B+433, first phase. Light meets Infinity. Dabura’s intent attacks the active CE operation locally; this is the first real interruption, not a pre-existing gap that admits attacks because Mau needs air. The late physical right guard identified in Gojo’s controlled drill costs him. Noise has read the engraved pattern but is calibrating release/aim before firing near observers. Wounds heal while control and processing remain costly.
 

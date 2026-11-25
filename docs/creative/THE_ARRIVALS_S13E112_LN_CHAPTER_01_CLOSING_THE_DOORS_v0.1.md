@@ -5,9 +5,9 @@
 **Volume:** 83
 **Reading order:** 17
 **Source episode:** S13E112
-**Continuity state:** B+431 ("56"), before dawn. Mau closes his direct personal relays and the external contract access, including Yuka’s borrowed techniques/Exchange and Mai’s supply. Contracts remain intact. The shadow watch and its existing protection orders continue; Ciel’s independent communications and emergency reports remain available. Ciel/Noise ask him not to isolate them too, and he agrees. Makima accompanies him outside; DIO returns to her room inside Mau after the argument. Mau remembers he offered to make Shoko tea and asks Ciel to relay that he won't be there. He leaves without a note for Yuka.
+**Continuity state:** B+430 ("57"), before dawn. Mau closes his direct personal relays and the external contract access, including Yuka’s borrowed techniques/Exchange and Mai’s supply. Contracts remain intact. The shadow watch and its existing protection orders continue; Ciel’s independent communications and emergency reports remain available. Ciel/Noise ask him not to isolate them too, and he agrees. Makima accompanies him outside; DIO returns to her room inside Mau after the argument. Mau remembers he offered to make Shoko tea and asks Ciel to relay that he won't be there. He leaves without a note for Yuka.
 
-*When: B+431. The hour before dawn. Yuka hasn't written today's number yet. She's asleep, on his side of the bed, with her hand on his pillow.*
+*When: B+430. The hour before dawn. Yuka hasn't written today's number yet. She's asleep, on his side of the bed, with her hand on his pillow.*
 
 He goes to the room.
 
@@ -269,4 +269,4 @@ Her hand is on his pillow. The sheet beside her is going cold.
 
 On the windowsill, the notebook is open to yesterday's page.
 
-*57.*
+*58.*

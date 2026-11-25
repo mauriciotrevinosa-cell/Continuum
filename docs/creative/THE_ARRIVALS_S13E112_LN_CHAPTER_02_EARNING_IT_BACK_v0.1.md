@@ -5,9 +5,9 @@
 **Volume:** 83
 **Reading order:** 18
 **Source episode:** S13E112
-**Continuity state:** B+431, dawn to late afternoon. Mau and Makima clear a wild gate without changing the house gate’s separate rules. The clear credits his balance; physical floor drops go to inventory. He wants to break an optional deeper seal; Makima stops him. He says he fears being replaced. They record the seal for a later planned survey and leave through the ordinary exit; the cleared gate closes. They return wealthy, tired and still emotionally unsettled.
+**Continuity state:** B+430, dawn to late afternoon. Mau and Makima clear a wild gate without changing the house gate’s separate rules. The clear credits his balance; physical floor drops go to inventory. He wants to break an optional deeper seal; Makima stops him. He says he fears being replaced. They record the seal for a later planned survey and leave through the ordinary exit; the cleared gate closes. They return wealthy, tired and still emotionally unsettled.
 
-*When: B+431. From first light in the hills to the late afternoon, when the light goes long. At the house, the notebook now says "56", in Yuka's hand; she wrote it when she woke up and found the bed empty.*
+*When: B+430. From first light in the hills to the late afternoon, when the light goes long. At the house, the notebook now says "57", in Yuka's hand; she wrote it when she woke up and found the bed empty.*
 
 The dungeon is in a fold of the hills, a long way past the ruins.
 

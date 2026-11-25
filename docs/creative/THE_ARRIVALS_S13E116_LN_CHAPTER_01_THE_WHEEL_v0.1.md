@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 83
-## Chapter 27 — The Wheel
+## Chapter 29 — The Wheel
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 83
-**Reading order:** 27
+**Reading order:** 29
 **Source episode:** S13E116
 **Continuity state:** B+433, climax. Dabura's domain has one rule: no shadows (light from everywhere; the legion, the Exchange anchors and Rika are cut off while it stands). Noise withdraws Makima’s body before closure as a precaution; shared life remains vulnerable, inside is not categorical soul immunity. She helps restore the interrupted right-side flow with Mau’s consent, not by controlling his choices. Mau contests the domain using the reconstructed spatial boundary, his Monarch shadow territory and embedded Shrine targeting. The targeting rule, not extra energy or compression alone, supplies the bounded sure-hit. Three-pattern compression now succeeds briefly with monitored brain RCT and a stop condition; previous training was a failure, and S9 succeeded for one strip/step only. Mau holds his own remaining territory until the finish. Dabura’s domain collapse burns out his light; he attacks physically. The actual wheel prompts an unanticipated recognition, not a free completed adaptation. Mau pins him with the prepared copied light and refuses to kill. Mau’s own burnout follows dismissal in #28.
 

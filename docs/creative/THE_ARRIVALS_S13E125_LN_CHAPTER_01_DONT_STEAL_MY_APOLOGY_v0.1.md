@@ -233,7 +233,7 @@ He knows which one. He's known all night. He felt it last night, lying here in t
 
 He doesn't answer with words.
 
-He finds it. The line. Thin and bright and closed, running from him to her across the little space between the cot and the chair, a hand's width, less. He closed it nine days ago before dawn without a note.
+He finds it. The line. Thin and bright and closed, running from him to her across the little space between the cot and the chair, a hand's width, less. He closed it ten days ago before dawn without a note.
 
 He opens it.
 

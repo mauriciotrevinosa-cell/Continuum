@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 11
 **Source episode:** S13E109
-**Continuity state:** B+424 ("63"). Mau asks Maru everything he knows about Dabura, and Noise, who has been quietly obsessed since the night on the porch, asks through Mau far more questions than are polite. Light that is a technique, and the thing under it that has no word. Gojo comes to listen and joins in. By the end Mau and Noise are openly delighted by a man who wants to kill them, and Yuka calls it a fan club. Mau agrees to meet Dabura, on his terms, at the quarry where he fought Sukuna. Then, at dinner, in front of everyone, Cross asks Yuka to walk with him tomorrow, to see the country he crossed looking for her. She says yes. Mau says it's fine. It's the first "it's fine" of the arc, and nobody but Makima notices it.
+**Continuity state:** B+424 ("63"). Mau asks Maru everything he knows about Dabura, and Noise, who has been quietly obsessed since the night on the porch, asks through Mau far more questions than are polite. Light that is a technique, and the thing under it that has no word. Gojo comes to listen and joins in. By the end Mau and Noise are openly delighted by a man who wants to kill them, and Yuka calls it a fan club. Mau agrees to meet Dabura, on his terms, at the quarry where he fought Sukuna. Yuka reiterates that she wants to be at the duel. At dinner Cross invites her to see the northern ridge where he stopped on the way to the house, a place that still reminds him of looking for her in their old world. Mau had hoped for a quiet day together; he says it's fine, and only Makima catches what it costs him.
 
 *When: B+424. Afternoon on the back porch with Maru, then dinner. Yuka wrote "63" and a question mark, because Mau had told her he'd be asking Maru about Dabura.*
 
@@ -151,6 +151,8 @@ Gojo shrugs, and eats another sweet.
 
 “I'd worry more if he'd stopped asking questions,” Gojo says. “I still want answers before he walks in.” ᴳ
 
+Mau looks down at the steps. Yuka has the notebook open to the page they worked on at the table. She finds a line with her finger, lifts her eyes to his and nods.
+
 “The quarry,” says Mau. ᴹ
 
 Maru turns back to him.
@@ -207,13 +209,15 @@ Then she does sit in his lap. Heavily. All at once. And puts her forehead agains
 
 “I know.” ᴹ
 
-“Every dungeon.” ʸ
-
-“It's not a—” ᴹ
-
-“*Mau*.” ʸ
+“I meant what I said at the table,” she tells him. “Save me somewhere to sit. I know what the quarry looks like from the wall. And I meant every dungeon, too.” ʸ
 
 “Every dungeon,” he agrees. ᴹ
+
+“Good. Now it's in the minutes.” ʸ
+
+“I'll save it.” ᴹ
+
+She kisses him once, lifts her head as if she has one more thing to say, then does it again. It's him who smiles first. She forgives the interruption.
 
 Cross asks at dinner.
 
@@ -227,11 +231,11 @@ Yuka looks up from her plate.
 
 “Walk where?” she says. ʸ
 
-“North,” says Cross. “The road we came down. There's a ridge a few hours up where you can see all the way to the lake. Before I heard about this house, I sat there thinking I'd never find out what had happened to you. I want to show you.” ᶜʳ
+“North,” says Cross. “The road we came down. There's a ridge a few hours up where you can see all the way to the lake. I sat there for a while on the way here. I knew I'd see you, but I'd spent so long thinking I wouldn't that it took me a while to get back up.” ᶜʳ
 
 He says it flatly, the way he says everything. But his hands are flat on the table again, and they aren't quite still.
 
-“I walked all of it before I knew you were here,” he says. “I want you to see it.” ᶜʳ
+“I wanted to see it again on the way back,” he says. “I thought this time you might go with me.” ᶜʳ
 
 Yuka hesitates.
 
@@ -245,7 +249,7 @@ Mau looks at her.
 
 He looks at Cross, across the table, with his hands not quite still.
 
-He thinks about the orchard wall. About *before you*. About lying awake until morning.
+He'd been looking forward to making her stay in bed long enough for him to go get them breakfast for once. It hadn't gotten as far as an offer. Across the table, Cross puts his fork down without taking a bite.
 
 “Nothing fixed,” he says. Then, “It's fine.” ᴹ
 

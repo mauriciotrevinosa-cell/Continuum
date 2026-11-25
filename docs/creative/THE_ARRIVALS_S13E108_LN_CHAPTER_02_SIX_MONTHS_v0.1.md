@@ -5,35 +5,23 @@
 **Volume:** 83
 **Reading order:** 10
 **Source episode:** S13E108
-**Continuity state:** B+422 ("65"). Yuka's point of view. Cross asks to talk to her alone, and she says yes without thinking about it. They sit on the orchard wall. He tells her what happened after she vanished: he looked for her; he was shot by a sorcerer while the talks were collapsing and nearly died; he thought she'd died of the tumour somewhere alone. She tells him the truth as canon has it: the operation worked, the tumour came out, and then the coin found her and brought her here. He's the only person in this world who saw her when she was dying and frightened and pretending not to be. She feels something she doesn't have a name for (being *seen*, from before Mau) and decides it's just an old friend. She goes back to Mau and is extra clingy all evening. Mau, who didn't listen, asks nothing, and she doesn't notice that he doesn't. No romance from Yuka; the feeling is Cross's.
+**Continuity state:** B+422 ("65"). Yuka's point of view. Yuka follows through on the walk she promised Cross. They visit the village and stop at the orchard wall on their way back. He tells her what happened after she vanished: he looked for her; he was shot by a sorcerer while the talks were collapsing and nearly died; he thought she'd died of the tumour somewhere alone. She tells him the truth as canon has it: the operation worked, the tumour came out, and then the coin found her and brought her here. He's the only person in this world who saw her when she was dying and frightened and pretending not to be. She tells him about the harder training gate and remembers how Mau held her afterward. Cross asks about who decided to go in, a question she takes at face value. At home she asks Mau to listen while she tells him about Cross's search. Mau listens and holds her; part of what she says stays with him after she sleeps.
 
-*When: B+422. Late morning on the orchard wall, then the evening. Yuka wrote "65" and drew a small dragon beside it, for no reason, because she was in a good mood.*
+*When: B+422. Early walk to the village, back by lunch, then evening. Yuka wrote “65” and drew a small dragon beside it.*
 
-He asks her at breakfast.
+Cross is waiting on the porch when she comes down with her tea. He picked the right morning. The fog has lifted from the road and a man is carrying a tray of buns out from the bakery when they get down to the village.
 
-Not in front of everyone. He waits until she gets up to take her plate to the sink, and he gets up too, with his own plate, which he hasn't touched, and stands beside her at the sink, a little too close, the way he always used to stand, because nobody had ever taught him how far away people liked you to be.
+Yuka buys three. Cross lifts his hands before she can give him one.
 
-“Can we talk,” he says. ᶜʳ
+“I have money.” ᶜʳ
 
-Not a question. Cross never asked questions. He just said things and waited to see what happened.
+“I have the buns.” She breaks a corner off the first one and tastes it. “You can buy my terrible breakfast next time.” ʸ
 
-She looks at him.
+He accepts a bun. He waits until the man has got the tray onto the counter before he asks the price, then goes and buys one more, all on his own, as if it were an exercise she'd set him. The man asks him what he wants inside it. Cross looks at her. She tells him to try the red bean.
 
-He's taller than she remembers. Or maybe she's shorter. It's been years for her; she doesn't know how long it's been for him. His face is the same, though. Hard and closed and not very good at hiding anything, which he thinks he is.
+* * *
 
-“Sure,” she says. ʸ
-
-She doesn't think about it. Why would she? It's Cross.
-
-She puts her plate down. She looks back across the kitchen to where Mau is sitting, still at the table, with Ori beside him explaining something about the next expedition. He's listening to Ori. He looks up when Yuka looks at him, and she smiles at him, and he smiles back.
-
-“I'll be back in a bit,” she tells him across the room. ʸ
-
-“Okay,” says Mau. ᴹ
-
-She goes out with Cross.
-
-They sit on the orchard wall.
+They stop at the orchard wall on the way back.
 
 It's the same wall where Mau sat with Yuta, the night after the ring. Old stone, warm in the sun, with the two old trees behind it and the oval of light between them, humming quietly again now, back to the shape she gave it. Something warm in it, somewhere.
 
@@ -43,9 +31,9 @@ For a while he doesn't say anything. He looks at the trees. At the oval. At the 
 
 “You're alive,” he says. ᶜʳ
 
-“You said that when you arrived.” ʸ
+“You said I could stand up.” ʸ
 
-“I'm still saying it.” ᶜʳ
+“I'd been practicing what to say if you couldn't.” ᶜʳ
 
 He picks at the moss on the wall with one long finger.
 
@@ -119,9 +107,7 @@ Cross doesn't say anything for a long time.
 
 He looks at her. Really looks. At her face, her hair, which has grown back long, her hands. As if he's checking. As if he's making sure every part of her is still there.
 
-She lets him. She doesn't know why. Nobody looks at her like that. Except—
-
-No. Mau looks at her like that. But differently. Mau looks at her like she's the only colour in the world, which she is, to him. Cross looks at her like she's a ghost that turned out to be real.
+She lets him take a minute. She can think of a dozen things to say about what her life is like now. None of them are quite as useful as the fact that she ate half a hot bun on the way up the hill and left him to keep up.
 
 “You were so scared,” Cross says. ᶜʳ
 
@@ -133,19 +119,13 @@ He looks away.
 
 “I didn't know what a tumour was,” he says. “But I knew what your hands were doing.” ᶜʳ
 
-Something happens in her chest.
+She remembers the door. In her mind it has always been the kind that opens when you lean on it. Now she can see the little silver catch and her own hand trying twice to turn it. She'd thought he'd been looking for the stairs.
 
-She doesn't know what it is. She doesn't have a word for it.
+“You remember that?” she asks. ʸ
 
-It isn't love. She knows what love is now. Love is Mau carrying her down the stairs when she can walk. Love is the plate with her portion on her side. Love is a tent and a lamp and *it's ugly* and *both*.
+“I remember being too slow to open it for you.” ᶜʳ
 
-This is something else.
-
-This is being *seen*. From before. From when she was the most frightened she'd ever been in her life and pretending not to be, and nobody saw it, nobody at all, not her brother, not anyone (her grandparents had been gone for years by then), nobody, except a boy from another planet who didn't know what a hospital was and sat in a plastic chair with his knees up round his ears.
-
-Nobody has ever seen her like that. From then. Mau never saw her then. Mau didn't know her then. Mau has seen her frightened since, a hundred times, but never *that* frightened. Never when it was her who was dying.
-
-Cross saw.
+“You got it in the end.” ʸ
 
 She looks at him. At his hard closed face, looking at the trees.
 
@@ -161,29 +141,45 @@ But his face does something she's never seen it do. It opens. Just slightly. Jus
 
 Then it closes again, and he looks at the trees.
 
-She goes back to the house just before lunch.
+Cross points at a notch on the wall as they get down. It's wide enough for three of her fingers.
 
-She feels light. That's the strange thing. She feels light and warm and a little bit wrung out, the way you feel after you cry, except she didn't cry. She walks up through the orchard with the sun on her back, and she decides, on the way, what the feeling is.
+“Tsurugi said you and Mau fought something in a gate. He said there were three of you. I mostly remember the part where he said you were fine.” ᶜʳ
 
-*An old friend.* That's all. Someone from before. Someone who knew her when. She's allowed to be glad an old friend is alive. The house has made room for people from everyone's before; she has watched Mau sit through reunions without making anyone explain the whole history first. She can tell him hers too.
+“Oh, sure. I was fine once we got home.” ʸ
 
-That's all it is.
+“What about while you were there?” ᶜʳ
 
-She's very sure.
+She looks down at her thumb, rolling the crumbs at the bottom of the paper into a corner. It comes back in an ugly little piece. A breath that ought to have gone all the way in. The sound of the air moving where there was nowhere to move to.
+
+“I thought I might die,” she says. “Yuta got the thing off me. Mau put up Infinity for me while he already had something else running. He was next to me the first second he could be.” ʸ
+
+Cross stops walking. “Was going in your idea?” ᶜʳ
+
+“I wanted to lead. I saw an opening and went before Yuta was ready. I should've waited for him.” ʸ
+
+She twists the paper closed. She could tell him about the look on Mau's face afterward, the way she'd kept her hands round his neck even after they'd sat down because she was still working out what to do with all the relief. That part she wants to keep for the two of them.
+
+“For the record,” she tells Cross, “I'm planning to do a great many boring things now that I get to.” ʸ
+
+“Like buy the wrong number of buns,” he says. ᶜʳ
+
+“I bought the right number.” ʸ
+
+She leaves him at the orchard and takes the last bun to the porch, just before lunch.
 
 Mau is on the porch.
 
 He's in the old chair, with a cup of tea, watching Ori and Beru at the training posts. He looks up when she comes round the corner.
 
-He doesn't ask.
-
-She notices that later. Much later. She doesn't notice it now. Now she just sees him, and the warm wrung-out feeling in her chest goes somewhere and turns into something else, something she *does* have a word for, and she walks straight up the porch steps and climbs into his lap and puts her arms round his neck and her face in his shoulder and holds on.
+She puts the parcel down on the arm of the chair and climbs into his lap. She gets one good breath with her face against his shoulder before he asks if the bun belongs to him or if it's holding his side of the chair.
 
 “Hi,” he says. ᴹ
 
-“Hi,” she says, into his shoulder. ʸ
+“Hi,” she says into his shoulder. “It's yours. Can I have a bite?” ʸ
 
-He puts his arms round her. He doesn't ask.
+He puts his arms around her. “How was the walk?” ᴹ
+
+“Good. More than I was expecting. I'll tell you tonight, okay?” ʸ
 
 She stays there for a long time.
 
@@ -219,13 +215,15 @@ Mau's hand stops moving on her back for a second. Then starts again.
 
 She waits a moment before continuing. His hand is moving again, and she takes the small nod beneath her cheek as an invitation to go on.
 
-“He was the only one who came to the hospital,” she says. “Before. When they told me. I never told you that.” ʸ
+“You know when I told you he talked to me about dinner till I could stand up?” she asks. “He remembers my hands shaking at the door. I didn't even know he could see them. I was working so hard to keep them still.” ʸ
 
-“No,” says Mau. ᴹ
+Mau puts his hand over the one moving on his arm. Waits until she turns it over.
 
-“He saw me really scared,” she says. “The worst. Before you.” ʸ
+“Did you get to tell him what it meant to you?” he asks. ᴹ
 
-Mau doesn't say anything.
+“Yes.” It comes out on the same breath as a yawn. “And I got to walk home afterward. That was nice.” ʸ
+
+His thumb strokes the side of hers.
 
 She yawns. She settles her head more comfortably on his chest. She's warm and full and sleepy and happy, and she has an old friend back, and her husband's hand is on her back, and everything is fine.
 
@@ -239,8 +237,8 @@ She falls asleep a minute later.
 
 Mau stays awake after her breathing settles. His hand keeps moving on her back, slowly, steadily. Once she stirs and presses closer; he bends his mouth to her hair until she relaxes again.
 
-She doesn't see his face.
+He thinks about being able to see her hands and knowing why they shook. About how grateful he is that someone was there who finally understood. From the way she'd told it yesterday, he'd thought Cross had simply kept her company until she could walk.
 
-*Before you.*
+He can see now what it would have meant to lose her after that.
 
-He lies there until morning.
+He kisses the crown of her head again, even though she isn't awake to feel it.

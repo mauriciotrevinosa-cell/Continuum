@@ -5,17 +5,19 @@
 **Volume:** 85
 **Reading order:** 3
 **Source episode:** S13E139
-**Continuity state:** B+463 ("24"). Shoko's point of view. The morning after Gojo's turn on the house gate, turned all the way up. Gojo comes to the clinic with nothing wrong, the way Mau does, and sits on the end of the cot. She checks the scrape anyway. He tells her the thing he didn't say at the door: that for an hour yesterday he forgot about being the strongest, about holding back, and just played; and that the reason he could was that she was sitting on the step by the door and he knew she'd be there if it went wrong. He's never trusted anyone to stop him before. Shoko doesn't make it easy for him. She says it's still slow. He says slow is good. She lets him stay for tea. Neither of them uses the word. Mau, passing the window, doesn't look in.
+**Continuity state:** B+463 ("24"). Shoko's point of view. The morning after Gojo's turn on the house gate, turned all the way up. Gojo comes to the clinic with nothing wrong, the way Mau does, and sits on the end of the cot. She checks the scrape anyway. He tells her the thing he didn't say at the door: that for an hour yesterday he forgot about being the strongest, about holding back, and just played; and that the reason he could was that she was sitting on the step by the door and he knew she'd be there if it went wrong. He's never trusted anyone to be there before. They already live together; they've already kissed; what's new is him saying a thing like this out loud, in daylight, without a joke. Shoko asks why here and not at home last night. Because here is where she works, and he wanted to say it where she's most herself. She kisses the scrape he left for her. Mau, passing the window, doesn't look in.
 
 *When: B+463. "24." Under it, in Shoko's hand, which is very small and very neat and almost never appears in the notebook: "clinic, 1 visitor, nothing wrong".*
 
 He comes in the morning with nothing wrong.
 
-Shoko knows he's coming before he knocks. She knows the sound of his feet on the clinic step. She's known it for a long time. Longer than this world. Since a different step, in a different school, when they were young and stupid and he used to come and sit on the end of the infirmary cot with nothing wrong, too.
+He was gone from their room when she woke, which isn't like him; he sleeps like a cat in a sunbeam and has to be prised out of the blankets. His side of the bed was cold. His blindfold was gone from the hook.
 
-He knocks anyway. He never used to knock.
+Shoko knows he's coming before he reaches the door. She knows the sound of his feet on the clinic step. She's known it for a long time. Longer than this world. Since a different step, in a different school, when they were young and stupid and he used to come and sit on the end of the infirmary cot with nothing wrong, too.
 
-“It's open,” she says. ˢʰ
+He knocks. He never knocks.
+
+“It's open,” she says. “It's always open. You live here.” ˢʰ
 
 He comes in. He doesn't say anything. He looks round the clinic the way Mau does, as if checking it's still there, and then he sits down on the end of the cot.
 
@@ -117,11 +119,19 @@ He didn't make her.
 
 * * *
 
-“It's still slow,” she says. ˢʰ
+“You could have said that at home,” she says. ˢʰ
 
 He looks up.
 
-“This,” says Shoko. “Whatever this is. It's still slow. I'm not going to make it fast because you had a good day in a gate and said something nice in my clinic.” ˢʰ
+“Last night,” says Shoko. “You came to bed smelling of the gate and fell asleep on my arm. You could have said it then.” ˢʰ
+
+“I know,” says Gojo. ᴳ
+
+“So why here?” ˢʰ
+
+He looks round the clinic. The cupboard. The cot. The kettle. Her coat on the hook, her name on nothing, and her everywhere.
+
+“Because this is where you are most you,” he says. “I wanted to say it where you are most you.” ᴳ
 
 She folds her arms.
 
@@ -133,19 +143,19 @@ Her voice doesn't change. It never does.
 
 She looks at him.
 
-“So it's slow,” she says. “Because I'm not doing it the way we did everything before. Fast. Stupid. Without talking. I'm doing it slow, so I can see it.” ˢʰ
+“So I share a room with you,” she says, “and a bed, and a kettle, and I still have to find out the important things by reading your face across a clinic. I'm not doing it the way we did everything before. Not saying it. Grinning instead. I want it said, so I can see it.” ˢʰ
 
 Gojo looks at her for a long moment.
 
-“Slow is good,” he says. ᴳ
+“I'm saying it,” he says. ᴳ
 
-“Is it?” ˢʰ
+“You are.” ˢʰ
 
-“Slow is—” He stops. He tries again. “I've never done anything slowly in my life. I don't know how. I'm terrible at it. I keep wanting to rush.” ᴳ
+“I'm terrible at it.” He turns the cup in his hands. “I keep wanting to make a joke instead. I can feel it. Right there. A really good one.” ᴳ
 
 He looks down at the cup of terrible tea.
 
-“But I'd rather do it slow with you,” he says, “than fast with anyone else. And I'd rather you could see it.” ᴳ
+“But I'd rather say it badly to you,” he says, “than well to anyone else. And I'd rather you could see it.” ᴳ
 
 * * *
 
@@ -155,7 +165,9 @@ She thinks about saying several things. Clever things. Dry things. The things sh
 
 She doesn't say any of them.
 
-She pulls the stool over with her foot, and sits down on it, in front of the cot. Close. Not touching.
+She crosses the clinic, and takes his chin in her hand again, and turns his face to the window, and kisses the faint line on his cheekbone he left there for her.
+
+Then she pulls the stool over with her foot, and sits down on it, in front of the cot. Close.
 
 She picks up her own cup of his terrible tea.
 
@@ -163,7 +175,7 @@ She picks up her own cup of his terrible tea.
 
 He drinks his tea.
 
-They sit there in the clinic in the morning light, not saying anything. Not touching. Just there.
+They sit there in the clinic in the morning light, not saying anything. Her knee against his. Just there.
 
 After a while, without looking at him, she reaches out and fixes the collar of his shirt, which is folded wrong, the way it's always folded wrong, the way it was folded wrong when he was fifteen.
 

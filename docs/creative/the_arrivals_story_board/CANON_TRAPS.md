@@ -629,3 +629,4 @@ Mau conserva el entorno en grises; Yuka sigue siendo la excepción en color. V35
 - Gojo ya recuperó su bag completo. No escribir que Day 133 "le quitó algo" para siempre ni "lo que ya no es".
 - El burnout no es la única salida: hay maneras de apagar o cancelar (simple domain para cancelar una técnica; los dos lo saben).
 - La revancha de verdad va después de Yoru. Mientras, en V85 "Gojo hizo su gate". Borrador viejo en future_drafts/gojo_rematch_claude_2026-11-24.
+- **Gojo y Shoko viven juntos y ya se han besado** (Mauri, 24 nov 2026: "ya sabes que en si viven juntos y hasta ya se han dado un beso shoko y gojo"). Comparten cuarto. No escribirlos como algo que apenas empieza "lento" ni con "ninguno dice la palabra".

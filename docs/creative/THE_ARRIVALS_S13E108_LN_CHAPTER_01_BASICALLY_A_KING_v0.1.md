@@ -191,7 +191,7 @@ The table goes very quiet.
 
 Yuka has stopped writing.
 
-“We have a plan for the house,” Yuka says. “I'll show you where to go in the morning if you want.” ʸ
+“We have a plan for the house,” Yuka says. “I'll show you where to go in the morning if you want. Is there a plan for the people still on your side of the river?” ʸ
 
 “You're on it somewhere, I hope,” says Cross. ᶜʳ
 
@@ -199,7 +199,7 @@ She looks up. There is a little smile left over in her face from Tsurugi's story
 
 “Of course I am,” she says. ʸ
 
-She writes the river crossing in the margin of the notebook.
+She writes the river crossing in the margin of the notebook. When she turns it far enough for Maru to see where she's drawn the closest house, he puts a small dot on the other side and tells her there's a family there that won't go until the carts are ready. Cross looks at the dot. He has been to that house too. He says there is someone who will know whether the road is dry and gives Rimuru a name.
 
 Mau's arm tightens round her waist. Just slightly. He doesn't decide to.
 

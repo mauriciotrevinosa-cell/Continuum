@@ -5,9 +5,13 @@
 **Volume:** 83
 **Reading order:** 8
 **Source episode:** S13E107
-**Continuity state:** B+420 ("67"). The day after the arrival. Subaru asks Mau to sit with him while he talks to Rem and Ram, because he doesn't trust himself not to run. He apologises properly. Rem forgives him with her whole heart. Ram forgives him too, and tells him plainly that forgiving isn't the same as fixed: the damage to what was between them is permanent, and he'll have to live next to the crack. He accepts it. Emilia has tea with Satella, with Yuka and Mau carrying the cups; Satella answers what she can and says "not yet" to the rest. Beatrice inspects the house's "library" (Frieren's shelves, Senku's notebooks, the grimoire Frieren keeps for Mau) and moves in among Frieren's books without asking. Echidna, coming across from the witches' side of the town to return a book, finds her in Frieren's window seat: they knew each other in their own world and lived together until Echidna died. Echidna takes her to the room with no name, behind whose door her library has always been; Beatrice uses Door Crossing to open it onto doors all over the house. At sunset Mau, with the Six Eyes, sees her old keeper's contract gone slack: it was made for a world where Echidna was dead. Echidna only laughs. Mau calls the wheel (just the shape, still): it learns from inside, and might learn the knot if he carries its weight; he has never tried it on something not his own. Echidna, delighted, wants to know whether it's possible; they leave it for later. Mau wonders if *that person* isn't a person but a place, a house that will want her, and if she has already found it. Beatrice will think about it. Meanwhile, his smaller rule: she doesn't wait inside; she eats with everyone and comes out every day. The Fort inducts Emilia as a member with Ori presiding. The library can move, with known access doors available by arrangement. Yuka tells Mau a piece of what Cross meant to her on the day of the diagnosis. Cross helps Ori with the Fort banner. Yuka tells Mau she hadn't expected to get to show Cross this part of her life.
+**Continuity state:** B+420 ("67"). The day after the arrival. Subaru asks Mau to sit with him while he talks to Rem and Ram, because he doesn't trust himself not to run. He apologises properly. Rem forgives him with her whole heart. Ram forgives him too, and tells him plainly that forgiving isn't the same as fixed: the damage to what was between them is permanent, and he'll have to live next to the crack. He accepts it. Emilia has tea with Satella, with Yuka and Mau carrying the cups; Satella answers what she can and says "not yet" to the rest. Beatrice inspects the house's "library" (Frieren's shelves, Senku's notebooks, the grimoire Frieren keeps for Mau) and moves in among Frieren's books without asking. Echidna, coming across from the witches' side of the town to return a book, finds her in Frieren's window seat: they knew each other in their own world and lived together until Echidna died. Echidna takes her to the room with no name, behind whose door her library has always been; Beatrice uses Door Crossing to open it onto doors all over the house. At sunset Mau, with the Six Eyes, sees her old keeper's contract gone slack: it was made for a world where Echidna was dead. Echidna only laughs. Mau calls the wheel (just the shape, still): it learns from inside, and might learn the knot if he carries its weight; he has never tried it on something not his own. Echidna, delighted, wants to know whether it's possible; they leave it for later. Mau wonders if *that person* isn't a person but a place, a house that will want her, and if she has already found it. Beatrice will think about it. He and Beatrice arrange an access point at the hall door so Ori can find her when the library moves. Beatrice chooses whether to answer. The Fort inducts Emilia as a member with Ori presiding. The library can move, with known access doors available by arrangement. Yuka tells Mau a piece of what Cross meant to her on the day of the diagnosis. Cross helps Ori with the Fort banner. Yuka tells Mau she hadn't expected to get to show Cross this part of her life.
 
 *When: B+420. Morning to evening. Yuka wrote "67". Subaru has been awake since before dawn, sitting on the back steps.*
+
+Mau brings Tsurugi's buckle down before breakfast. The repair is ugly enough to last, if Tsurugi can work out which part of it to push. There is a strip of bright cloth in the serving bowl Yuka turned over to hold the screws while he worked. He picks it up to keep it from going into the bread.
+
+From the back door, Rem asks if he can carry a second cup out with him. She's put out the one Subaru used yesterday. There's tea in it already.
 
 Subaru is on the back steps when Mau comes down.
 
@@ -173,9 +177,21 @@ Subaru laughs, a cracked, wet sound.
 
 “No,” he says. “I didn't.” ˢᵇ
 
-Emilia has tea with Satella in the afternoon.
+Mau leaves him to get up when his legs will let him. Outside, Yuka is trying to get Tsurugi's buckle to work with her fingers alone. She thinks she's got it until she hears him come out, looks up, and gets the strap caught in her thumb.
 
-Emilia finds Yuka in the kitchen and asks whether Satella meant the offer of tea. Yuka goes to ask Satella, comes back with a yes, and puts a tray in Mau's hands.
+“Come here,” she tells him. “I was supposed to do this without asking you.” ʸ
+
+“Who gave you that idea?” ᴹ
+
+“My brother. He bets I can't.” ʸ
+
+Mau looks both ways. No Tsurugi. He slips the cloth around the loose end to keep it from pulling back through and lets her tighten the buckle herself. She leaves the pack out by the steps and pushes herself up close to his shoulder.
+
+“Did it go all right?” she asks. ʸ
+
+“They heard each other.” He has to think about whether there's more he can say. “I don't think it was meant to go any farther than that today.” ᴹ
+
+Yuka puts a palm at the base of his neck and stands there a little longer than it takes to open the kitchen door. Then Emilia comes in with the empty cup from yesterday and asks, very quietly, whether Satella meant the offer of tea. Yuka goes to ask. She comes back with a yes, and puts a tray in Mau's hands.
 
 “You're carrying the pot.” ʸ
 
@@ -265,7 +281,7 @@ On the lawn, the blanket finally holds. Maru gives the rope an experimental tug.
 
 “I think I do.” ʸ
 
-Yuka doesn't notice. She's already turned back to the tea, and to Satella, and to Emilia, and she's tucked herself more firmly against Mau's side, and she's smiling.
+Mau moves his cup when Yuka tucks herself closer. Up on the porch Emilia has asked if she can bring her own cup tomorrow. Satella offers to leave the door on the latch, so she can knock if she wants to. From Yuka's place on the steps it looks like Emilia has to put both feet down before she can say she'd like that.
 
 Beatrice finds the library at four in the afternoon.
 

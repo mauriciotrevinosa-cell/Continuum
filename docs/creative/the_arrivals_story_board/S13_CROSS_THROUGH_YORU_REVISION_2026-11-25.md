@@ -6,6 +6,12 @@
 
 V83 #7–9, starting with *The Road Home*. Cross already knows about the marriage from Tsurugi. Seeing Yuka healthy after the diagnosis still moves him. Yuka introduces Mau as her husband and wants him with her. She gives Mau the context for her promise to go somewhere with Cross that they can choose for themselves. Cross helps Ori with the banner, and Rimuru and Maru open a practical discussion about needs at the northern settlement. Cross raises Yuka's safety in front of the house. Yuka asks Mau to tell her the terms before fixing the meeting and wants a place at the duel. The first conversation about the duel continues after Cross leaves.
 
+## V83 revised through the ending
+
+B+419–434 remain the date anchors. Chapters 7–12 establish the reunion and Cross's use of Yuka's account of the training gate. *The Portion* is the first missed plate and the private panic attack. The other dinners vary. Rem, Umaru, Bocchi, Shuna, Gojo and Shoko offer company or practical support before the clinic.
+
+Yuka dresses for Dabura on B+433, lets Cross persuade her to stay home, and hears about the fight from Ciel. Ori reminds her of what she promised. Mau fights with the spot on the ridge still empty. Tsurugi apologizes once he sees Mau afterward. Shuna had put the original plate away for that night and cleaned it the following morning; Yuka brings a fresh one after the fight. Mau says he loves her before she leaves the room. They are still apart. Yuka begins to own what she said to Makima but remains hurt about the closed connection. The duel mechanics are preserved.
+
 ## Subsequent scenes
 
 - Keep the first plate and empty chair in *The Portion*. Mau leaves and has a panic attack out of Yuka's view. Makima stays with him. Their growing friendship gives Cross something real to use against the marriage. Yuka's ordinary affection remains visible in the days before the argument.

@@ -187,7 +187,7 @@ She stops.
 
 She's trying. He can see her trying. Every word coming up out of her slowly, the way his do now. The ugly thing. The way they promised.
 
-“The plate,” she says. “I saw the plate. Shuna kept it. I—” ʸ
+“Shuna told me about your plate,” she says. “I knew where you'd be sitting at the quarry and I still—” ʸ
 
 Behind him, Makima says, very quietly, inside: *They're moving. Faster. Now.* ᴹᵏ
 

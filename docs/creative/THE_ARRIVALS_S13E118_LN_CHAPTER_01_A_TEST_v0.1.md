@@ -199,7 +199,7 @@ At Asa's body with Yoru's eyes. At the scar across the face. At the hands claspe
 
 He thinks about the north. The empty country past the ridge. *REST HERE. WE DID.* The cave where Ori's map says *expedition 1*.
 
-He thinks about Ori at the river. Yuka on the ridge. Jin-Woo's family on the road to the house. The protection ends long before those roads do.
+He thinks about Ori at the river. Yuka in the yard with the notebook. Jin-Woo's family on the road to the house. The protection ends long before those roads do.
 
 He thinks about the inn. The yard. Everyone dead.
 

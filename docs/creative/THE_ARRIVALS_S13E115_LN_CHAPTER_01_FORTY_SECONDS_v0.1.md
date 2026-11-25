@@ -7,7 +7,7 @@
 **Source episode:** S13E115
 **Continuity state:** B+433, first phase. Light meets Infinity. Dabura’s intent attacks the active CE operation locally; this is the first real interruption, not a pre-existing gap that admits attacks because Mau needs air. The late physical right guard identified in Gojo’s controlled drill costs him. Noise has read the engraved pattern but is calibrating release/aim before firing near observers. Wounds heal while control and processing remain costly.
 
-*When: B+433. The first minutes. On the ridge, Yuka has both hands over her mouth now.*
+*When: B+433. The first minutes. The spectators have fallen silent on the ridge.*
 
 The first one doesn't touch him.
 
@@ -285,13 +285,9 @@ He stands ten paces off, light quiet in him, looking down at Mau on one knee on 
 
 He isn't smiling.
 
-On the ridge, Yuka makes a sound.
+Gojo has stood up on the ridge. The bag of sweets goes over on the rock, and the first of them rolls into the space Mau asked Frieren to leave. It catches his eye because for a second there's something moving where Yuka would be.
 
-He can't hear it. He's too far, and the door's closed. But he looks up, because he can't not, because he always looks up, and she's standing on the edge of the quarry with both hands over her mouth, and her whole body is leaning forward, toward him, like someone about to step off a cliff.
-
-Cross has his hand on her arm.
-
-Holding her back.
+It's still empty.
 
 Mau looks away.
 

@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 28
 **Source episode:** S13E116
-**Continuity state:** B+433, just after. Dabura on his back, asking why not. Mau's answer is short and true: he once stood in this quarry in pieces, and someone could have finished him and didn't get the chance, and he'd rather Dabura got up. Dabura gets up. "The king is real." He'll talk, through Maru, because a king who won and didn't kill is worth talking to. He asks about the wheel; Mau tells him he doesn't remember a fight his body does, and Dabura goes quiet. On the far rim, Yoru stands, looks down at Mau for a long moment, and leaves; the contract still holds. The ridge comes down: Gojo, Frieren, Jin-Woo, Maru, Tsurugi. Mau's body is whole and wrecked with tiredness, and Makima is still at his right shoulder, holding the handshake. He doesn't look for Yuka. He knows exactly where she is.
+**Continuity state:** B+433, just after. Dabura on his back, asking why not. Mau's answer is short and true: he once stood in this quarry in pieces, and someone could have finished him and didn't get the chance, and he'd rather Dabura got up. Dabura gets up. "The king is real." He'll talk, through Maru, because a king who won and didn't kill is worth talking to. He asks about the wheel; Mau tells him he doesn't remember a fight his body does, and Dabura goes quiet. On the far rim, Yoru stands, looks down at Mau for a long moment, and leaves; the contract still holds. The ridge comes down: Gojo, Frieren, Jin-Woo, Maru, Tsurugi. Mau's body is whole and wrecked with tiredness, and Makima is still at his right shoulder, holding the handshake. He still remembers the place he saved for Yuka. Tsurugi sees what it cost him to fight and tries to talk to Mau about the introduction that brought Dabura here.
 
 *When: B+433. Late morning going on noon. The quarry is carved from rim to floor in long smooth grooves where the light passed.*
 
@@ -239,16 +239,24 @@ She hasn't left. She hasn't said anything since the domain broke. But her hand i
 
 *Any time*, says Noise. Very tired. Very proud. ᴺ
 
-He doesn't look for Yuka.
+Tsurugi comes down the last stretch of the quarry at a run. He stops right in front of Mau, where he can see all the places in Mau's shirt the light went through. He had been shouting something from the top. Whatever it was, he can't get it out now.
 
-He knows exactly where she is. He doesn't need the eyes or the sense or the door. He knows the way you know where your own heart is.
+“Can you get up the hill?” he asks. ᵀˢ
 
-She's on the ridge. She didn't come down with the others.
+“I can. Slowly.” ᴹ
 
-He doesn't look up.
+Tsurugi ducks in under his other arm. When Mau looks over, Tsurugi is watching his feet and waiting for him to decide which of them goes first.
 
-He holds Makima's hand, and listens to Gojo describe the fight back to him for the third time, and to Tsurugi, who has arrived on the quarry floor and is explaining to Dabura that he *told* him, and he doesn't look up at the ridge.
+“I told him all that because I wanted him to understand what we'd got here,” Tsurugi says. “I thought if he heard about you he'd want to see the house. I didn't think he'd do this just to see if he could beat you.” ᵀˢ
 
-Not once.
+Mau puts his weight on the first shelf of stone. He can't manage an answer and the step on the same breath, so he takes the step. Tsurugi stays with him.
 
-He can feel her looking at him the whole time.
+“I'm sorry,” Tsurugi says. ᵀˢ
+
+“I heard you.” Mau checks that he's balanced before he lifts his other foot. “I'd like to talk about it when I can get up a flight of stairs.” ᴹ
+
+By the time they get to the place on the ridge, Mau can feel what each step was worth. Somewhere below, Gojo has started talking to Dabura about the eye. He hears Maru ask whether the two of them would like to resume that conversation in a chair.
+
+“You can put me down here,” Mau tells Tsurugi. ᴹ
+
+The rock is warm on top now. He gives Makima his hand again when she comes up beside him, and sits in the place he'd saved.

@@ -5,9 +5,15 @@
 **Volume:** 83
 **Reading order:** 22
 **Source episode:** S13E114
-**Continuity state:** B+433 dawn, the scouted quarry. The house has checked the ground and approaches. Mau expressly allows Yoru to observe from the far rim. Direct observation reads Dabura’s active RCT and engraved technique/barrier patterns; it does not show an unviewed memory of Mahoraga. Mau deliberately unfolds a large chosen CE/mana output, not an impossible literal total of infinite mana. Makima stays nearby; the duel begins.
+**Continuity state:** B+433 dawn, the scouted quarry. The house has checked the ground and approaches. Mau says goodbye to Ori before he leaves. He sees the place reserved for Yuka empty and expressly allows Yoru to observe from the far rim. Direct observation reads Dabura’s active RCT and engraved technique/barrier patterns; it does not show an unviewed memory of Mahoraga. Mau deliberately unfolds a large chosen CE/mana output, not an impossible literal total of infinite mana. Makima stays nearby; the duel begins.
 
 *When: B+433. Dawn. Nobody wrote in the notebook again. It's still open to "56" on the windowsill of an empty room.*
+
+He said goodbye to Ori on the steps before he left. She had her socks on and one shoe. She held the other shoe against her chest while she asked if he had everything.
+
+He told her yes, and left with her still sitting there holding it.
+
+* * *
 
 The quarry hasn't changed.
 
@@ -27,27 +33,13 @@ They're on the ridge.
 
 He can see them against the sky: small dark shapes on the lip of the quarry, high up, where Gojo said they'd be. Gojo himself, sitting on a rock with his legs crossed and his blindfold off, eating something. Frieren beside him, standing, staff in hand. Jin-Woo, very still, a little apart. Maru, upright as always. Tsurugi, who asked to come and wouldn't be told no.
 
-And further along the ridge, a little apart from the others, two more.
+The next shelf of rock is low enough to sit on and gives a view of the whole floor. He asked Frieren yesterday if that place was inside the approach the scouts had cleared. It is. Gojo has put his sweets on the ground on the other side of him so there's room.
 
-He doesn't need the eyes. He doesn't need the sense; it's turned down so low it's almost off, and the private link is closed. He'd know her anywhere. Against any sky.
+*I want to be there when you look up*, she said.
 
-The only colour in the world, standing on the edge of the quarry with her arms wrapped round herself.
+He looks a little farther along the ridge, in case she wanted to stand somewhere different. There is a section of pale rock where the grass goes right up to the edge. He's looking straight at it when he realises that for a moment he hoped she'd come late on purpose, so he'd have a reason to watch the path.
 
-Cross beside her.
-
-She came.
-
-He doesn't know what to do with that. He stands on the quarry floor and looks up at her, and she looks down at him, and neither of them moves.
-
-*From now on, I'm coming with you. Even if I do nothing.*
-
-She said that at another quarry, a long time ago. Before the Rulers. Before the gate.
-
-She came.
-
-And she's standing next to Cross.
-
-He looks away.
+He puts both feet on the quarry floor and looks at Makima.
 
 Makima is at his shoulder.
 
@@ -152,8 +144,6 @@ He looks up at the ridge. At Tsurugi.
 On the ridge, Tsurugi has gone pale.
 
 On the ridge, Frieren has gone very still.
-
-On the ridge, Yuka has put her hand over her mouth.
 
 On the quarry floor, Mau stands with his hands at his sides.
 

@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 30
 **Source episode:** S13E117
-**Continuity state:** B+434 ("53"). Yuka apologises to Makima, then Mai/Maki. She still trusts Makima and recognises she used the accusation to hurt. She plans to begin reconnecting at dinner and talk after. Ori voluntarily gives her the seat. Yoru’s arrival interrupts before the first stolen pickle. No absolute claims that Yuka never cooks/sets tables, Maki never hugs Yuta or Beru is never loud.
+**Continuity state:** B+434 ("53"). Yuka apologises to Makima, then Mai/Maki. She recognises she used the accusation to hurt and wants to rebuild trust with Makima. Her hurt about Mau shutting the door remains. She plans to begin reconnecting at dinner and talk after. Ori voluntarily gives her the seat. Yoru’s arrival interrupts before the first stolen pickle. No absolute claims that Yuka never cooks/sets tables, Maki never hugs Yuta or Beru is never loud.
 
 *When: B+434. Before dawn to dinner. Yuka writes "53" by lamplight: B+434, the day after the fight. The last written count was "56" on B+431.*
 
@@ -25,7 +25,7 @@ She looks at it for a long time. Then she closes the notebook and puts it on his
 
 Makima is on the porch steps.
 
-At the bottom, where she always is, in her own body, with her hands folded in her lap. She's been there since before light. Yuka saw her from the landing window when she came to find the lamp. No voice announced where Makima was; she was simply there, waiting beneath the porch light.
+At the bottom, in the body Noise made for her, with her hands folded in her lap. She's been there since before light. Yuka saw her from the landing window when she came to find the lamp. No voice announced where Makima was; she was simply there, waiting beneath the porch light.
 
 Yuka comes down the steps.
 
@@ -67,11 +67,9 @@ Her voice is small. She makes it go on anyway.
 
 She looks at her hands.
 
-“You didn't do anything,” she says. “You sat with him. You stopped him walking off into the dark. You stopped him in the dungeon, I think. Ciel didn't say, but I think so. And on the ridge, I saw—” ʸ
+“Ciel said you were holding something for him from inside,” she says. “When the domain came up I was here, trying to cut an apple in half. I still had the knife in my hand. I kept asking her what was happening, and she told me he'd stopped going down because you were there.” ʸ
 
-She stops.
-
-“In that domain,” she says. “You helped him put the flow back. From inside. Ciel told me what you were doing.” ʸ
+“She could have said he was getting up,” Makima says. “I wanted him to stay down until he could feel his hand again.” ᴹᵏ
 
 Makima doesn't say anything.
 
@@ -79,7 +77,7 @@ Makima doesn't say anything.
 
 She looks up.
 
-“I'm sorry,” she says. “I still trust you. I never stopped. I just said I had.” ʸ
+“I'm sorry,” she says. “I want to trust you. I hate that I said it like the choice was all mine and I could just take it away to hurt him.” ʸ
 
 Makima looks at her for a long time.
 
@@ -139,13 +137,13 @@ Neither of them says anything.
 
 Yuka stands at the top of the stairs. In the light from the windows Momo said should be bigger.
 
-“You were right,” she says. ʸ
+“I didn't go,” she says. “Yesterday. I had my boots on and I let Cross talk me out of it.” ʸ
 
 Mai puts down her tool.
 
-“All of you,” says Yuka. “I didn't see it. I didn't want to see it. I said you were wrong and I walked out, and you were right, and I'm sorry.” ʸ
+“It was still my choice,” she says. “I know it was. At the time it felt like the only way I wasn't going to embarrass myself. And then he came home and wanted to know if I'd remembered he'd saved me a place.” ʸ
 
-She doesn't say *but*. She doesn't say *I didn't know*. She doesn't say anything else at all.
+She's saying it all without looking at either of them. She makes herself look up for the next part. “I'm still angry he left without telling me before the gate. I thought I had to stop being angry before I could go talk to him. I think I was using that as another reason to wait.” ʸ
 
 Maki looks at her granddaughter for a long time.
 
@@ -169,7 +167,7 @@ Mai frowns.
 
 She takes a breath.
 
-“I don't want him to have to say it,” she says. “I want to show him I already know.” ʸ
+“I want one minute where I can sit by him and say what I did before I ask for anything,” she says. ʸ
 
 He's busy all day.
 
@@ -187,7 +185,7 @@ She waits for dinner.
 
 The plan is very small.
 
-She thought about it all night, sitting on the kitchen floor, then lying alone in their bed. She thought about grand things. Letters. Speeches. Going into the common room in the middle of the talks and saying it in front of everyone.
+She thought about it all night with the curtains open on his side of the room. She thought about grand things. Letters. Speeches. Going into the common room in the middle of the talks and saying it in front of everyone.
 
 None of it was right.
 
@@ -215,7 +213,7 @@ She moved it six inches closer. Then six more. Then she sat in it, to check, and
 
 Ori is sitting in it when the others come in.
 
-Of course she is. She's been sitting in it every night. Since the walk. Since the plate. Because she wanted to sit with him.
+Of course she is. She sat there the night they had the map out. And last night she found the courage to ask him upstairs when Yuka couldn't finish a sentence.
 
 She's swinging her legs. She's waiting for her father.
 
@@ -255,7 +253,7 @@ She doesn't say anything. She sits in her chair, six inches closer, and her knee
 
 He doesn't look at her.
 
-She doesn't look at him either. She looks at his plate. Shuna's stew. The bread. And on the near side, the side nearest Yuka, without either of them having said a word, the small sharp pickles. Set aside in a neat little pile. The way his hands always do it.
+She doesn't look at him either. She looks at his plate. Crisp potatoes with rough edges. Mau has split the last one down the middle. The good half sits beside the rim nearest her.
 
 Waiting.
 
@@ -291,7 +289,7 @@ And then, from the gate, out of the dark, a voice she's only heard once, at a ta
 
 Yuka looks at her hand.
 
-A few inches from his plate. Reaching. The pickles in their little pile, on her side, waiting.
+A few inches from his plate. Reaching. Half a potato with salt on the skin, on her side of the plate.
 
 She didn't reach them.
 

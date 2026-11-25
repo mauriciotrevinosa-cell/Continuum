@@ -17,13 +17,13 @@ He's whole. The RCT closed every hole. The new wounds in his side, shoulder, arm
 
 He isn't.
 
-Dabura is right. He knows Dabura is right. He's been somewhere else since the first exchange. Since before. Since the road, and the gate, and *you're alive*.
+Dabura is right. He knows Dabura is right. He's been somewhere else since the first exchange. Since before. Since he saw the chair at dinner and thought it would be better if he stood up.
 
 He looks up at the ridge again.
 
 He can't help it.
 
-She's still there. Both hands over her mouth. Cross's hand on her arm.
+Tsurugi's standing so close to the edge that Gojo has put a hand flat against his chest. It takes Mau a second to remember what Tsurugi actually told this man about him. The strongest here. Basically a king.
 
 *Mau*, says Ciel. ᶜ
 
@@ -51,13 +51,7 @@ He looks at Dabura.
 
 Dabura is looking back at him, with that almost-disappointed face. Waiting. Not attacking. Giving him a moment, the way you'd give a moment to someone who's dropped something.
 
-He looks at the ridge.
-
-At Yuka.
-
-He doesn't know when.
-
-He doesn't know anything. He doesn't know what the something was that she wanted to talk about. He doesn't know if she's on the ridge because she promised or because Cross is there. He doesn't know if the door he closed will ever open again, or if he'll want it to, or if she'll want him to.
+He looks back at the empty place. He doesn't know what she wanted to talk about. He gave her so many chances to wake up beside him and say it and never once asked her while both of them were awake. He can't fix that by standing here and waiting for her to come over the hill.
 
 He doesn't know anything at all.
 

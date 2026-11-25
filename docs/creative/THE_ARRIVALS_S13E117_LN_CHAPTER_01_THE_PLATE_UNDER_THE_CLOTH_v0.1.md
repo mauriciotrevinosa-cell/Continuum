@@ -5,256 +5,210 @@
 **Volume:** 83
 **Reading order:** 29
 **Source episode:** S13E117
-**Continuity state:** B+433, Yuka viewpoint. Ciel reports the domain work through her independent channel. Yuka understands her accusation against Makima was unfair, recognises Cross exploiting her distress and takes back her arm. She goes home before the quarry party; the rest of the household has not vanished. Shuna supplies the B425 meal kept cold, now eight days old, and speaks with her. Yuka wants to reach Mau first, then hear his part, not substitute knowing his plate for knowing every feeling.
+**Continuity state:** B+433, Yuka viewpoint. Cross talks her out of going to the quarry after she has put her boots on. Ciel relays what she can about the duel. Ori tells Yuka she saw Mau waiting at the steps and reminds her what she promised. Shuna tells Yuka what she saw on the night of the walk and helps her set aside something fresh for Mau. He says he loves her when she turns to give him space. They remain hurt and apart that night.
 
-*When: B+433. The fight seen from the ridge, then the afternoon and night. Nobody wrote in the notebook today either.*
+*When: B+433. While Mau is on his way to the quarry, through the first evening after the duel.*
 
-She saw all of it.
+Her second boot is on when Cross comes to the back door.
 
-From the ridge. From the edge of the quarry, where she stood with both hands over her mouth for an hour and Cross's hand on her arm.
+She has to put her heel down hard to get it in. He's got his coat on already. She'd thought he might want to see what Dabura could do, so she'd left the latch up for him.
 
-She saw Dabura laugh. *There's nothing there.* She saw Mau let it all go, the way Frieren must have taught him, and the whole quarry fill, and Dabura step back.
+“Did he ask you to come?” Cross says. ᶜʳ
 
-She saw the light. She saw the holes. She saw every one of them close, two seconds, three, four, and she saw him go down on one knee, and she stepped forward, and Cross held her arm.
+“I told him I would.” She gets the lace through the last eyelet. “He said he'd save me a place.” ʸ
 
-She saw him spend the points. Kneeling on the quarry floor making a sound she's never heard him make. She stepped forward again. Cross held her again.
+“When?” ᶜʳ
 
-She saw him put Dabura through a wall.
+She looks up. The question comes without any special weight on it. The way he might ask when someone said it'd rain.
 
-And then the world went white.
+“At dinner. Before.” ʸ
 
-She couldn't see inside the domain.
+“Do you think he'd say the same today?” ᶜʳ
 
-Nobody could. It was just light, a dome of it on the quarry floor, pure and blinding, with Mau inside it and Dabura inside it and nothing to look at but white.
+“I want to find out when I get there.” ʸ
 
-She couldn't feel him either. The door was closed. She stood on the ridge and reached for him anyway, with everything, through the contract and the link and the place where he always is, and there was nothing. A shut door. Light on the other side.
+Cross puts his shoulder to the frame. There's enough room to pass him. She gets the lace round her finger and leaves it there, half tied.
 
-*Ciel*, she said. *Ciel, please. What's happening. Is he—* ʸ
+“I heard you in the yard,” he says. “You asked him to tell you what he wanted. He went in a gate without telling you and shut off the one thing that lets you find him. We were standing in the grass and you still wanted to go after him. You told me the only reason you could get to your feet after the other gate was you knew he'd already come for you.” ᶜʳ
 
-*The domain's flooding everything*, said Ciel. Fast. Strained. *He's on one knee. Noise can't hold the input and build at the same time. The tap's closing from every direction. He—* ᶜ
+“I knew he'd *try*,” she says. ʸ
 
-A pause.
+Cross nods. “If you go up there today, you'll spend the whole fight wondering whether he's going to look. And then what are you supposed to do if he doesn't?” ᶜʳ
 
-*Makima's helping*, said Ciel. *We withdrew the body before closure. She's sharing the reconnection on the right. It still gets interrupted. It comes back sooner.* ᶜ
+“Look anyway.” ʸ
 
-She didn't understand.
+She means it when she says it. She pictures the face she would look down at across the quarry, and just as clearly she pictures him walking out of the house with Makima at his shoulder. She would have to stand where he put aside a place two days before he stopped wanting to hear her.
 
-*From inside*, she said. *How—* ʸ
+“You're allowed one morning where you wait to hear him ask for you,” says Cross. ᶜʳ
 
-*The way she held the weight in the gate*, said Ciel. *The same working place, with his consent. Keeping that part steady while we sort the rest.* ᶜ
+He picks up a glove someone left on the sill and sets it out of the wind. The line is clear all the way through the doorway and up the path.
 
-And then a stain of dark spread through the white from the inside, and the white cracked like ice, and the domain broke, and the quarry came back, and she saw them.
+Yuka pulls on the lace. With a little more force she could finish tying it.
 
-Mau, standing. Hands together. Blood on his mouth. Something dark folding back into him like a held breath.
+She loosens it instead.
 
-And at his right shoulder, with one hand on it, Makima.
+* * *
 
-Holding on.
+Shuna puts her in charge of peeling apples.
 
-She stood on the ridge and looked at them.
+There's a knife with a small handle that always turns in your palm at the wrong angle. Shuna has another one and offers it twice. Yuka keeps the first one. It gives her something to do with her left hand.
 
-At Makima, who had once tried to take Yuka's place by removing her, now doing the work Mau had trusted her to share. Holding the thin place on Mau's right side open from inside him, in the middle of a domain of light that could erase stone, with everything she had.
+From the kitchen she can hear Shizue taking names for a game outside. There is a brief dispute about whether Milim qualifies as a whole team even if nobody joins her. Someone asks Rimuru what the rule is. Rimuru says it depends which team has asked him.
 
-So he wouldn't die.
+Yuka takes the skin off the last apple in one length. She winds it round her finger and almost says Mau's name before she sees how quiet his end of the kitchen is. She'd have done it where he could see her and waited for him to pretend to be impressed.
 
-*Standing in the way.* She doesn't know where the words come from. They just arrive, the way true things do.
+*Ciel*, she asks. *Can you tell me how it's going? You don't have to ask him to talk to me.* ʸ
 
-She understands it now.
+There's a pause. She waits, still looking at the apple peel.
 
-*You'd rather have her.*
+*He's fighting. His right side is slower than it should be.* Ciel sounds as if she's also talking to someone else. *He can stand. He knows where he is.* ᶜ
 
-She said that. In the yard. Two nights ago.
+*What happened that you have to tell me that?* ʸ
 
-*When it's bad, you go to her. She sits with you on the steps. She goes where you go.*
+*He took a hit. It closed. I'll tell you if that changes.* ᶜ
 
-She said it like an accusation. Like it was something they were doing to her.
+Then Ciel goes quiet. She picks up the knife and starts halving the apples. She wishes she could go back to the boot. She can feel the lace rough round her finger, down to the little hard nub at the end. If she ran now she'd get there after the part she was afraid to see.
 
-She looks at Makima now, at Mau's shoulder, in the middle of the carved quarry. Makima, whose face crumpled in the yard like a dog that's been told off. Makima, who hid behind him.
+Ori comes for an apple piece. She takes one, changes her mind and takes two.
 
-Makima, who has only started learning what to do when someone chooses her company. Mau was the first. Yuka has seen the awkward attempts with DIO and Ciel too; she knew those small beginnings mattered before she threw her accusation at them.
+“Did you see him leave?” Yuka asks. ʸ
 
-Makima, who is his friend.
+“Dad came to say goodbye to me.” ᴼ
 
-That's all. That's all it ever was. A friend. Standing in the way.
+Yuka sets the knife down.
 
-And Yuka knew. That's the worst part. Standing in the yard, saying it, she *knew* it wasn't true. She said it anyway. Because it was the only thing she could find to throw that would hurt as much as the closed door.
+“I was sitting on the steps,” Ori goes on. “He looked up at the door when he got to the end of the path. I thought you were coming out with your boots on.” ᴼ
 
-The fight ends.
+“I was going to.” ʸ
 
-She sees it end. The wheel over Mau's head, turning once, and the sound of it coming up out of the earth, and Dabura frozen in the air. And then Mau over him, on one knee, with the light at his throat.
+Ori looks down at her two bits of apple. “You promised.” ᴼ
 
-And then the light going out.
+“He needed to be able to think about the fight. We'd said a lot of things in the yard.” ʸ
 
-And Mau's hand, held out. And Dabura taking it.
+Ori eats one of the apple pieces. It takes her a while. “I thought maybe he'd like to see you anyway,” she says. ᴼ
 
-She's moving before she knows it. Toward the edge. Toward the long tiers going down into the quarry. Toward him.
+She gives Yuka the second piece and goes back outside. Yuka wants to go after her. She hasn't got a better answer to offer if Ori asks her the same thing again.
 
-Cross's hand closes on her arm.
+By the time she takes the apple outside, Ori is sorting teams with Shizue. Two people put their hands up for Milim's team at once and Ori sends one of them over to the other side. Yuka watches from the step for a while. She eats the piece Ori gave her.
 
-“Don't,” says Cross. ᶜʳ
+* * *
 
-She stops.
+When the domain goes up, she knows because Ciel answers too fast.
 
-She looks at his hand on her arm. Then at his face.
+*The floor's gone. Noise is trying to hold the input. Mau's on one knee.* ᶜ
 
-He isn't looking at her. He's looking down into the quarry. At Mau, standing among the grooves, with Makima at his shoulder. At the rest of the ridge going down to him, Gojo first, half running.
+“What can I do?” Yuka asks. She's said it out loud. Only Shuna is there to hear it. ʸ
 
-“Don't go down there,” says Cross. ᶜʳ
+*Give me a moment.* ᶜ
 
-“Let go,” says Yuka. ʸ
+Yuka grips the edge of the counter. The apple peel is in the bowl with the cores. The water by the stove has just boiled. Ciel stays quiet for long enough that she works out what she'll say if the next thing Ciel tells her is to find Shoko.
 
-He doesn't.
+*Makima has the right side*, Ciel says. *From inside. Hold on.* ᶜ
 
-“Look at him,” says Cross. His voice is low. Flat. The way he says everything. “Look at them. He's got her. He doesn't need you. He closed the door on you, Yuka. He went to a dungeon with her and didn't tell you. He didn't look up at you once, the whole fight. You saw.” ᶜʳ
+Yuka holds on to the counter. She tries to remember what Mau had said about getting enough of the lost flow back to make a difference. She can't. He'd been talking to Gojo at dinner and she'd been close enough to put her hand on his knee. She remembers that she had wanted him to turn toward her. She can't remember what he said.
 
-His hand tightens.
+A little later Ciel tells her both men are alive.
 
-“You don't have to keep going to him,” he says. “You don't have to keep being the one who goes. Stay here. With me. I was there when it was bad. I'm still here.” ᶜʳ
+“Both?” Yuka asks, because she needs to hear the word again. ʸ
 
-She looks at him.
+*Both. Mau's up. He burned more than I wanted him to while we were closing it. I'll ask Shoko to look at him when we get back.* ᶜ
 
-At his hand on her arm. At his face, hard and closed and not very good at hiding anything, which he thinks he is.
+Yuka sits on the stool behind her. She had wanted Mau to ask her to come. She could have spent the morning asking whether he could get up, where he was bleeding, what she could take off his hands. She could have asked from the seat he saved.
 
-And she sees it.
+For a moment she is angry enough to get up and find Cross. He'd say the same thing he said at the door. She knows that because there's a part of her that would like him to say it again, now that Mau is alive and she can afford to be angry.
 
-She sees it the way Mai saw it, and Granny, and Grandpa, and Shoko, and Ori with her pickles. The way the whole house saw it and she didn't.
+Instead she asks Shuna when they should get a plate ready.
 
-He's *using* it.
+* * *
 
-The door. The dungeon. The way Mau didn't look up. All the hurt from the yard, and the grass, and the shaking. He's picking it up off the ground where she dropped it and handing it back to her, piece by piece, and saying *stay with me*.
+Yuka finds Cross by the pump, washing a little mud off his hands. He looks up when the handle stops squeaking.
 
-He's been doing it for days, she thinks. Standing close. Waiting at the posts. The walk to the ridge, so she could see *what he walked*. Holding her arm on the grass when the door closed, so she'd look at him instead of the house.
+“It's over,” she says. “They're both alive.” ʸ
 
-She didn't see it.
+He leans the handle all the way down with his forearm. “Good.” ᶜʳ
 
-She sees it now.
+She can't tell why it takes her a second to speak. Maybe she was waiting for him to ask who won. She didn't think to ask Ciel herself.
 
-“No,” she says. ʸ
+“I wish I'd gone,” she says. ʸ
 
-She takes her arm back.
+Cross straightens up. He has water dripping off one cuff. “Next time he'll know to ask you.” ᶜʳ
 
-Not hard. She doesn't shove him. She just takes it, the way she took his hands off her shoulders on the grass. Firmly. All of it.
+“He already knew he was saving me a place.” ʸ
 
-Cross looks at her.
+There is a short silence. He has heard her say it twice now. The second time she can hear herself, too.
 
-“You were there,” says Yuka. “In the corridor. You were. And I'm grateful. I'll always be grateful. You saw me when nobody else did.” ʸ
+“He still went with the other one,” he says. “Makima. Twice now, if she was with him at the quarry.” ᶜʳ
 
-She steps back.
+“She was,” Yuka says. ʸ
 
-“But you don't get to use that,” she says. “Not on him. Not to make me stay up here.” ʸ
+She can still feel her fingers gripping the counter while Ciel told her someone inside the domain had a hold on him. Standing right here in the yard, she can think of half a dozen things she'd have given in that moment for a person to be close enough to reach him. She'd have meant it, too. It comes as a shock to find the thought sitting right alongside how angry she still is that he'd gone.
 
-Her voice is shaking. She doesn't care.
+Cross lifts the handle for her. She hadn't come to wash her hands but she puts them under the water anyway. Her fingers are tacky from the apples. He pumps till she says she's done.
 
-“He's my *husband*,” she says. ʸ
+“Thanks,” she says. After a moment she adds, “I've got to go help Shuna.” ʸ
 
-Cross doesn't say anything.
+He steps out of the way. This time she goes past.
 
-His face does something. Too fast to read. Then it closes, hard, like a door.
+* * *
 
-He turns away. He looks down into the quarry. He doesn't look at her again.
+They start with bread and fish, because Mau can eat that straight away if he wants and it will keep if Shoko makes him sit with her first.
 
-She doesn't look at him either.
+“Where was I sitting the night I came back from the ridge?” Yuka asks. ʸ
 
-She looks at the quarry floor. At Mau, standing among the others, with Makima's hand in his, listening to Gojo, not looking up.
+“Other end of the table.” Shuna is cutting paper to go under the fish. “I could hear you from the stove.” ˢʰᵘ
 
-She takes a step toward the edge.
+“Mai said his plate was still there when he left.” ʸ
 
-And stops.
+“It was.”
 
-She can't go down.
+Shuna waits. Yuka looks down at the clean plate. There is a nick on the edge where it goes a little darker under the glaze. She can remember using the nick to turn the plate when Mau was keeping it out of her reach.
 
-Not like this. Not in front of everyone. Not to a man who won't look up at her, who closed a door on her, who stood in a yard while she said *I'll stop bothering you* and didn't say a word.
+“Did he eat afterward?” she asks. ʸ
 
-Not after what she said.
+“I put it away that night. I emptied it in the morning.” Shuna folds the paper once more before she puts it down. “He'd saved you the pickles. He moved them to the part of the plate you'd have been able to reach.” ˢʰᵘ
 
-She can feel him not looking at her. She knows he knows exactly where she is. He always knows. He's not looking on purpose.
+Yuka could repeat the joke to Shuna. She'd hear it now the way Mau must have heard it that night. She takes the small plate and gets a cloth to cover it.
 
-And she can't blame him.
+“Will you let me take him this?” she asks. ʸ
 
-She goes home.
+“Of course.” ˢʰᵘ
 
-Not with the others. Before them. Alone, down the back of the ridge and over the hills, the long way, fast, so she won't have to walk beside anyone.
+When Mau comes through the back door he holds it for Makima. She goes partway in and says something low to him, which makes him put both feet on the floor and stand there a moment longer than he meant to. His shirt has two holes she can see from here. A third one opens under his arm when he reaches for the door handle.
 
-The kitchen is almost empty when she gets there. The people who went to the quarry haven't returned yet; from the common room she can hear Umaru's game and someone asking for the volume to come down. Shuna is in the kitchen, alone, starting dinner for when they come back.
+Yuka steps forward with the plate.
 
-She looks up when Yuka comes in.
+“Are you hurt?” she asks. ʸ
 
-Shuna turns the heat down and sets the spoon aside.
+“My head hurts,” he says. ᴹ
 
-Yuka stands in the kitchen doorway.
+She'd been prepared for him to say fine. She nearly asks again out of sheer surprise. Instead she holds the plate closer until he can take it. His hands close around the sides of it. Makima moves a chair out and Mau sits down.
 
-“Mai said you kept the plate,” she says. ʸ
+“I was going to go,” Yuka says. ʸ
 
-Her voice is very small.
+Mau looks at the cloth over the plate. She sees him take one breath, and another. She wants him to ask why she didn't. When he speaks, she can hear what it costs him that he has to ask anything.
 
-Shuna looks at her for a long moment.
+“Did you remember I'd saved it?” ᴹ
 
-“I kept it cold,” she says. “I didn't know whether he'd come back for it. Then I couldn't bring myself to clear it.” ˢᵘ
+“Yes.” ʸ
 
-She brings a covered container from the cold cupboard and lifts out the plate. It is the same meal, kept aside since B+425, not the dinner Mau left two nights ago.
+He lifts the cloth. She wishes she could take the yes and put a whole sentence after it. That she'd decided he didn't want her near him. That she was still angry about the door and couldn't imagine standing up there with everybody asking why it was shut. That there was a part of her standing by the steps all morning, holding a boot by the heel.
 
-She lifts the cloth.
+Yuta comes in at the other door looking for Shoko. He sees them and waits there without asking them to move. Mau puts his hand flat on the table, and Yuka notices how hard he's working to keep his eyes open.
 
-It's a plate.
+“I'll leave you to eat,” she says. “I won't bother you again tonight.” ʸ
 
-His plate, from the night of the walk. Half a dinner, eight days old now, gone cold and dry. The stew, and the bread, and on the far edge, the edge nearest where her chair would have been, a small neat pile.
+She turns. She's almost made it out of the room.
 
-The pickles.
+“I love you,” says Mau. ᴹ
 
-The small sharp ones. The ones he likes and pretends not to. Set aside in a little pile on her side of his plate, the way they've been set aside at every meal for as long as anyone can remember. Waiting for her to reach over and steal them.
+There is a small thud behind her. He has put his cup down. It sounds as if he's only just worked out he was holding it.
 
-Untouched.
+She looks back. His hand is still round the cup and his eyes are on her. She could cross the room and be in his lap before she had to say anything. In the time it takes her to think that she remembers the lace round her finger at the back door. She wants to be able to tell him what happened between putting the boot on and deciding to take it off. The words she has right now are smaller.
 
-She sits down on the kitchen floor.
+“I love you, too,” she says. ʸ
 
-She doesn't mean to. Her legs just stop. She sits on the floor with her back against the cupboard and the plate in her lap.
+He nods. They both heard it.
 
-*Never*, he said. In the dark. In their bed. With her laughing into his shoulder. *Unless you stop stealing food off my plate. Then I'd be very disappointed.*
+She leaves him the room she'd offered him. By the foot of the stairs she has to put one palm against the wall. On the other side of it she hears him ask Yuta if he knows where Shoko is. His voice doesn't hold on the second time he says her name. Yuka stands there another minute, because he said her own words perfectly clearly and she doesn't know yet how to go upstairs and lie down without him.
 
-It was a joke.
-
-She laughed.
-
-She sat at the other end of the table, beside Cross, and ate her own dinner, and told the story about the log, and didn't steal anything. And he set them aside anyway. And waited. And she didn't come. And he got up, and left the plate exactly like this, and walked out into the dark, and she didn't even see him go.
-
-And Shuna kept it. Because she didn't know what else to do.
-
-And Ori ate the pickles. Every night. In Yuka's chair. Because someone had to.
-
-She doesn't cry.
-
-She thinks she will. She waits for it. She sits on the kitchen floor with the plate in her lap and Shuna standing over her, not saying anything, and she waits for it to come.
-
-It doesn't.
-
-Something else comes instead. Something harder. Colder. The thing that came up through her on the ridge when she looked at Cross's hand on her arm and saw.
-
-She knows what she did.
-
-All of it. The chair. The plate. The walk. The yard. *I had started to trust you.* *I'll stop bothering you.* She knows exactly what she did, and she knows she can't ask him to tell her. Because he will. If she asks him, he'll tell her the truth, the whole truth, the ugly thing. That's what they promised.
-
-She doesn't want to make him prove the hurt before she takes responsibility for her part. That cannot mean deciding she knows all of it either.
-
-She wants to reach him first. Then she will have to stay and hear what her reaching cannot answer.
-
-She looks up at Shuna.
-
-“Thank you,” she says. “For keeping it.” ʸ
-
-Shuna crouches down. She sets a fresh cup of water within reach, then rests a hand on Yuka's head.
-
-“He was saving you something,” she says. “He didn't tell me why he left. You'll have to hear his part from him.” ˢᵘ
-
-“I know.” Yuka has to start again. “I want to stop making him do all the reaching first.” ʸ
-
-Shuna stays crouched beside her until the kettle calls her back to the stove.
-
-Yuka sits on the floor with the plate in her lap.
-
-She doesn't throw it away.
-
-She covers it again, carefully, with the cloth. And she sits there, on the kitchen floor, as the light goes long outside, and the house starts filling up again with the voices of people coming back from the quarry, and she starts, very slowly, to think.
-
-Not about what to say.
-
-About what to do.
+Then she goes up and opens the curtains on his side of the room. The last of the light is still on the hills. Much later she hears Ori on the landing asking Mau if he wants to come to her room tonight. He asks if she has her pillow ready. Ori says she has two.

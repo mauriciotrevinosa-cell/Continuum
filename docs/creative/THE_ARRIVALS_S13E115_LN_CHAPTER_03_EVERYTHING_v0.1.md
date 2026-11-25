@@ -15,7 +15,7 @@ He's standing at the foot of the crack in the quarry wall, dust on his shoulders
 
 Mau looks at him across the quarry.
 
-He's here. All of him. For the first time since the road, since the gate, since *you're alive*, he isn't on the ridge. He's on the broken floor of the quarry with a point of stolen light in his palm and every point he ever saved in his bones, and the man in front of him is very, very hard to kill.
+He's here. All of him. For the first time all morning he isn't waiting for somebody to come over the ridge. He's on the broken floor of the quarry with a point of stolen light in his palm and every point he ever saved in his bones, and the man in front of him is very, very hard to kill.
 
 He's never fought anyone like that since Sukuna. Everything else, he's had to hold back. A body that couldn't take it. A reserve that would run dry. Something to protect.
 
@@ -202,8 +202,6 @@ Something goes over Dabura's face. Too fast. The edge-of-sleep look, the one the
 On the ridge, nobody is arguing.
 
 Frieren is very still. Gojo is sitting forward with both eyes open. Jin-Woo has closed his.
-
-Further along, apart from the others, Yuka has her hands pressed together against her mouth. Cross is beside her, saying something. She isn't listening.
 
 And on the far rim, so still she might be part of the rock, Yoru leans forward a little more.
 

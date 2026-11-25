@@ -195,8 +195,4 @@ She looks at him a moment longer.
 
 “All right,” she says. She doesn't ask why. ˢʰ
 
-He doesn't know how to explain it anyway. That he isn't ready to go up to the room where the notebook was on his pillow. That there's a conversation he has to have first, and it isn't with Yuka. Not yet.
-
-It's with the people who live in him.
-
-He has a lot to say to them, and they've waited long enough.
+He'd better get a change of clothes. She said stay at supper. He had wanted to. Now he has to make it past the turn in the stairs.

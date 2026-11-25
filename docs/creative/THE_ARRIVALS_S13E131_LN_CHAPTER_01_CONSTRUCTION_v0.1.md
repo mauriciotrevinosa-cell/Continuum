@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 27 — Construction
+## Chapter 28 — Construction
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 27
+**Reading order:** 28
 **Source episode:** S13E131
 **Continuity state:** B+449 ("38"). The workshop again, the next evening. Mau has spent the night, with Ciel and Noise, building the frame of a contract for Maki that can't break her Heavenly Restriction: her body, her strength and her speed stay exactly as they are; the CE and the cost are all his. What goes inside the frame he leaves to her. He lays out every technique he carries and asks which one she wants. Maki looks at her sister and chooses Construction. Mau has his own copy of Mai's technique, but he respects her, so he turns to Mai and asks; he doesn't need her approval, and they both know it. Mai, who has just heard her sister say she wants to be like her and spend time with her, will never admit what that does to her; she says it's a stupid idea and she'll allow it, and then explains to Maki how to word the request. Then Yuta asks for Rika: Noise and Ciel stretch her five minutes to about ten and halve the time it takes her to come back. For the fear that she could be broken for good, Noise, who has built Rika before, proposes a new weapon at the grade of Mau's and Rimuru's swords, a second ring or a katana, filled with all the CE Yuta has poured into Rika over the years. It holds a snapshot of her, a save copy. If the original breaks or is about to, the copy takes the damage in an instant swap and dies in her place; the original goes to smoke and needs time to come back out, like Copy, and the snapshot has to be made again. Noise adds that, while they're at it, they can bring Yuta's own katana up to the same high grade. Yuta says he'll ask Rika which she'd rather live in.
 

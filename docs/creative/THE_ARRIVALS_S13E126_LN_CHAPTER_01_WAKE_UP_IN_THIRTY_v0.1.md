@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 15 — Wake Up in Thirty
+## Chapter 16 — Wake Up in Thirty
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 15
+**Reading order:** 16
 **Source episode:** S13E126
 **Continuity state:** B+440 ("47"), morning. Yuka's point of view, then Mau's. She wakes alone in their bed and, for one terrible moment, thinks the last two days were a dream: the clinic chair, "don't steal my apology", the line opening. She runs downstairs in the hoodie. In the kitchen, Mau has bought out half the Shop's food and is making even more desserts with Shuna, Rem, Emilia and Umaru; not all of them survive Shuna's review. He says he thought she'd sleep later; he had a surprise ready and was going to carry her down. Yuka says nothing at all, turns round and goes back upstairs. From the landing: "I'm waking up in thirty." Through the open line, Mau feels her heart going a thousand miles an hour.
 

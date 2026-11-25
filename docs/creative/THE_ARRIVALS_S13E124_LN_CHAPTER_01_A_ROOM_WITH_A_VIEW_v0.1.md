@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 11 — A Room With a View
+## Chapter 12 — A Room With a View
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 11
+**Reading order:** 12
 **Source episode:** S13E124
 **Continuity state:** B+438 ("49"), afternoon into evening. Mau comes back from Elmesia's and knocks on the door of DIO's room inside him. She is down. He tells her a small lie to spare Elmesia: he misread the letter, and Elmesia had assumed DIO would come along inside him and step out when they arrived. DIO's face turns into Ori's face when Ori has misunderstood something and has just heard exactly what she wanted. Mau says sorry; DIO says that's two he owes her; he tells her Elmesia wants to see her plant. DIO picks up the pot from her other room at the Guest Inn before they leave. After supper at home (Yuka beside him; he tells her again where he's going) he crosses back. This time he arrives in a small room off Elmesia's garden and leaves a soldier there permanently, so that future arrivals don't frighten anyone. The room has a very good view. DIO and Elmesia walk the lit garden with the plant. Nobody names anything. Mau waits on a bench far enough away not to hear, with Ciel, who is allowed to tease him out loud now.
 

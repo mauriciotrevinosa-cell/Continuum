@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 19 — Rain and Doors
+## Chapter 20 — Rain and Doors
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 19
+**Reading order:** 20
 **Source episode:** S13E128
 **Continuity state:** B+443 ("44"). Rain all day. The house stays in. Mau and Yuka take the window seat in Frieren's room; Yuka in his lap with a blanket; he reads aloud from one of the translations by the window while Frieren reads her own book and Beatrice, keeping Mau's rule, is out of the library and on the floor with Ori and a pile of books. Since Beatrice opened Echidna's library onto doors all over the house, any door might be a shelf: Ori opens the linen cupboard and finds poetry. Echidna steps out of the pantry with a book and joins them uninvited. Beatrice and Echidna argue about a translation; it is the first time anyone has heard them argue, and it sounds like family. Nothing happens. That's the point.
 

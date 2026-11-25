@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 22 — Not One Centimetre
+## Chapter 23 — Not One Centimetre
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 22
+**Reading order:** 23
 **Source episode:** S13E129
 **Continuity state:** B+446 ("41"). Cross heard about the yard: Mau walking toward the river, and Yuka stopping him with toast in her hand. He comes to the workshop door in the morning, where Mau is helping Mai, and asks to be forgiven. Mau tells him the truth: the only reason Cross is still standing is what he did for Yuka once, in a corridor, when nobody else saw her. Otherwise Mau would already have sent him back. Cross can stay; he can live here, eat here, share rooms with everyone. In a group conversation they'll speak. But he isn't to greet Mau or address him otherwise, and Mau won't pretend he's fine with him. Cross accepts it too easily. Mau notices. Mai notices him noticing. Seed: Cross may one day try to win Mau the way Makima once tried to win people. Mau isn't going to give him a centimetre.
 

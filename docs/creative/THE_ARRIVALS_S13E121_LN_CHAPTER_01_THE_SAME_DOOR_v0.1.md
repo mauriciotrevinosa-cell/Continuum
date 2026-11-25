@@ -143,13 +143,13 @@ A day for her. A year for him.
 
 She knows all of that. She's known it for months.
 
-And four days ago she stood in the yard and did it again.
+And on the evening he came home from the gate she stood in the yard and did it again.
 
 “He came back,” Shoko says. “He opened up. He told me that too. He's been trying ever since. Every day. And he thought you were all right. He thought *we* were all right. And then.” ˢʰ
 
 She stops. She waits until Yuka takes her hands away from her face and looks at her.
 
-“And then in the yard,” says Shoko, “four days ago, you told him *you'd rather have her. When it's bad you go to her.*” ˢʰ
+“And then in the yard,” says Shoko, “you told him *you'd rather have her. When it's bad you go to her.*” ˢʰ
 
 Yuka can't breathe.
 

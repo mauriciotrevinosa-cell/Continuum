@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 14 — Nobody Knock
+## Chapter 15 — Nobody Knock
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 14
+**Reading order:** 15
 **Source episode:** S13E125
 **Continuity state:** B+439 ("48"). The morning after the apology. Mau asks Umaru to finish the film they started before the argument. Yuka stays with him. The household comes through the common room throughout the day. Milim brings a castle game. Yuka makes room for Makima at the table during play. The excitement briefly unsettles Mau, who asks for a moment where Yuka can hear him. They choose to go back to the game.
 

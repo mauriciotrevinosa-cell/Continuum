@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 21 — Applause
+## Chapter 22 — Applause
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 21
+**Reading order:** 22
 **Source episode:** S13E129
 **Continuity state:** B+445 ("42"). In the inner room, over the cup, Makima tells Mau, admiringly, about Yuka's wheel on the orchard wall: she is still applauding it. Mau didn't know. He asks. Makima decides he should hear it all. Yuka told her on the wall afterwards what Cross had been saying for two weeks, not only that day: that going back to Mau was stupid; that it was like getting the cancer diagnosis and deciding not to treat it, just because you were used to it. Something goes up in Mau like a rocket. He walks out of the clinic toward the river where Cross is. The air bends round him. He means it, for about forty seconds. Yuka stops him in the yard with her hand flat on his chest. The whole house is already in position, just in case: Gojo on the wall with his blindfold up, Maki with her staff, Jin-Woo at the gate, Beru at the orchard edge, Makima a step behind him. He stops. He doesn't go to the river. Yuka takes him back inside.
 

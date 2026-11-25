@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 18 — Under Kamish's Tree
+## Chapter 19 — Under Kamish's Tree
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 18
+**Reading order:** 19
 **Source episode:** S13E127
 **Continuity state:** B+442 ("45"). Mau keeps the "later" from the day he came back: he goes and lies under Kamish's tree in the orchard and lets Ori climb on the dragon and tell him he was good. Yuka comes with the carved animals from town for the Fort. Ori is still trying to teach Kamish to sit. Mau tells Ori what she said in her sleep, the Fort reserves and the pickles, and she is mortified. Under it is a real fear: that if she wanted too much, the family would break. Mau tells her that nothing she wants breaks them; the family nearly broke from the grown-ups not saying what they wanted. Ori decides to keep the Fort reserves. Kamish sits, once, by accident.
 

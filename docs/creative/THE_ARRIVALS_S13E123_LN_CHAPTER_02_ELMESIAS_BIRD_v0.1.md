@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 10 — Elmesia's Bird
+## Chapter 11 — Elmesia's Bird
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 10
+**Reading order:** 11
 **Source episode:** S13E123
 **Continuity state:** B+438 ("49"), morning to early afternoon. Breakfast in the kitchen; Yuka and Mau sit together. She passes him the jam when she notices he can't reach it. Elmesia's bird, sleek and grey and unimpressed by everyone, lands on the table with a letter for Mau: she would like to talk to him, alone, about something that isn't a crisis. DIO, inside, notices the letter doesn't mention her. This time Mau tells Yuka where he's going and when he'll be back, out loud, before he goes. "Come back." "I will." He crosses by Exchange to the soldier anchor Elmesia has carried since V75. In her study, Elmesia asks what he thinks about DIO, and how she can know what DIO feels: whether it's really her DIO wants to be near, or only gratitude for being treated with respect. Mau tells her what he knows: DIO never learned the difference between kinds of love; respect can look like romance to her; she'll want to argue for things she wants. In answering, he hears his own week. He asks when to bring DIO. Elmesia: in a couple of hours, after supper.
 

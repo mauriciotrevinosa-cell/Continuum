@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 24 — Three Doors
+## Chapter 25 — Three Doors
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 24
+**Reading order:** 25
 **Source episode:** S13E130
 **Continuity state:** B+447 ("40"), morning. Mau tells DIO first: the Rulers said thank you, for not trying. She goes very quiet and then says, "They noticed," and goes to water her plant. After breakfast the whole house goes to see the house gate, which now has three doors. The house decides what they're for. The first, the old weekly one Mau can adjust, stays for the house: supplies, cores for Mai, the warm place. The second becomes the Fort's: safe for children and for anyone who doesn't fight. The gate warns it can't give much loot, so Mau connects its rewards to his Shop and inventory and supplies it himself. The third Mau can modify, and it refreshes every time it's completed: for anyone who wants to scratch an itch. Gojo wants it solo, Jin-Woo wants it, Yuta and Maki want it together, and within ten minutes Shuna is in charge, with a rota, a time limit, and a rule that if you don't finish in time you lose your turn. The rules, set with Rimuru and Ciel: the Fort door and the third (unless Mau is the operator inside) can never turn Red; nobody can make them harder than set; the gate reads who comes in and won't become more than they can complete. The rest of the house stays safe.
 

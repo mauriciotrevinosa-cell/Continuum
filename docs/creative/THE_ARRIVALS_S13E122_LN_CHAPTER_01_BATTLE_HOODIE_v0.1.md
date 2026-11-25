@@ -223,7 +223,7 @@ And under the hurt, like a stone under water, something else. Something she can'
 
 *I wanted him to do that.*
 
-That's what she said. Over and over. For a long time. *Let us help you. Let me be with you when it hurts. Stop going alone. Stop deciding the answer before anyone else gets to say anything.* That's what she asked for, in the morning before the Trial, with her finger bleeding. That's what she was so angry about, in the yard, four days ago.
+That's what she said. Over and over. For a long time. *Let us help you. Let me be with you when it hurts. Stop going alone. Stop deciding the answer before anyone else gets to say anything.* That's what she asked for, in the morning before the Trial, with her finger bleeding. That's what she was so angry about, in the yard, before the quarry.
 
 He did it.
 
@@ -269,19 +269,51 @@ Makima stands there a moment longer. As if she's going to say something else. Th
 
 * * *
 
-She stays.
+Umaru brings her a plate at lunch. It has two pieces of bread and a dish of stew with a spoon sunk right down in it. There isn't a free hand to take the spoon out. Yuka takes the plate while Umaru gets her fingers away from the hot dish. Then she catches herself looking at the two pieces of bread to see which one she would have left for Mau.
 
-All morning. Into the afternoon. Shuna sends Umaru out with a plate for her at lunch, and she eats some of it. Mai comes and stands at the training posts with her arms crossed and looks at her for a long time, and then nods, once, and goes back to the workshop. Milim comes bounding across the yard to ask what she's doing and Rimuru catches her by the collar halfway and carries her off, still talking.
+“Eat here?” she asks. ʸ
 
-Yuka stays.
+“I ate on my way out.” Umaru sits on the bottom step anyway. After a moment she reaches over and takes the smaller piece. “I meant to ask you about the movie. Where's the one with the little car that goes through a shop window? He's going to watch it with me again when he's up.” ᵁ
 
-At noon she's at the end of the step, by the corner.
+Yuka can picture the car. She hasn't seen the shop window. She'd gone through the common room looking for her sweater and seen him watching it with Umaru, laughing. Cross was out by the training posts. She was already most of the way to the yard when Mau looked up to see who'd passed the sofa. At the time she'd been glad they'd both found something they wanted to do.
 
-At one she's moved to the middle of it. Not on purpose. She just shifted, at some point, to get out of the sun.
+“Ask Senku,” she says. “Can you tell me what happens to the car?” ʸ
 
-At two she's at the top of it, with her back against the doorframe.
+Umaru considers the bread in her hand. “I don't know. He left before I got that far.” ᵁ
 
-At three, without quite deciding to, she reaches up and pushes the door open a hand's width. Not to go in. Just so it isn't closed.
+They eat with their shoulders level on the step. When one of them gets to the bottom of the stew, she gives the other the spoon to see if it's as good cold. It isn't. Umaru takes the plate back empty.
+
+* * *
+
+Ori comes out to get some sun. She has the clinic blanket creased down one sleeve, and the end of a pencil is sticking up out of her collar. When she sees who's on the step she keeps going as far as the grass, where she sits and puts the pencil down next to her.
+
+Yuka comes and sits there too. She can see the side of Ori's face very well from here. She waits until Ori wants to show her which bit of the yard she's been trying to draw.
+
+“Where's this go?” Yuka asks. ʸ
+
+“That one was for you.” Ori picks up a card, about the width of her hand. “It's where you'd be standing if we'd gone to see Dad. I was going to draw where you could see him when he went past. Dad would've been able to see you, too.” ᴼ
+
+She puts the card face down on the grass. Yuka reaches over to hold the corner while Ori searches for the pencil that is no longer in her collar.
+
+“You can say it,” Yuka tells her. ʸ
+
+“I should've told you what side to stand on,” says Ori. “When you said he needed to think, I could've said he'd see you when he looked up. He wouldn't have to go looking for you.” ᴼ
+
+Yuka remembers the apple in her hand. Ori had given her the second piece and gone outside before either of them had anything left to say. She had a whole morning after that to put her boots back on.
+
+“You told me when you said I'd promised,” says Yuka. “I understood you. I didn't want to be wrong.” ʸ
+
+Ori puts a short line on the back of the card. “I thought if I got you out there he'd feel better.” ᴼ
+
+“He wanted me there,” says Yuka. “He'd asked me himself. You didn't have to make me listen.” ʸ
+
+“Can you tell him you were going to come?” asks Ori. ᴼ
+
+“I'll tell him why I didn't.” ʸ
+
+Ori looks at her long enough to see that there isn't another part coming. Then she pushes her feet out in front of her until they meet Yuka's on the grass. Yuka asks whether she can take her sock off and see what's caught in it. Ori leans into her knee so she can get at the heel. It turns out to be a burr with three little points. Yuka pulls it out without tipping Ori off her feet.
+
+They go back to the step together. Ori says she's going in to draw. Yuka opens the door for her far enough that the pencil won't catch on the frame, and sits down again at the top. She leaves it open the width of her hand.
 
 Through the gap she can see the end of the cot. His feet under the blanket. Ori sitting cross-legged beside them with her notebook, writing something very small and very serious. Beru in the corner.
 

@@ -185,7 +185,7 @@ He looks at his hands in hers.
 
 He tries to turn his hand over. She gets there before he can.
 
-“And then in the yard,” he says, “four days ago. She said *you'd rather have her. When it's bad you go to her.*” ᴹ
+“And then in the yard,” he says. “When I got home from the gate. She said *you'd rather have her. When it's bad you go to her.*” ᴹ
 
 He's very quiet now.
 

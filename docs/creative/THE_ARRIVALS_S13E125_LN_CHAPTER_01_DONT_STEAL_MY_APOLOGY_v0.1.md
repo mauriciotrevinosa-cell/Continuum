@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 13 — Don't Steal My Apology
+## Chapter 14 — Don't Steal My Apology
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 13
+**Reading order:** 14
 **Source episode:** S13E125
 **Continuity state:** B+438 late night into B+439 ("49" → "48"). Mau brings DIO home from Elmesia's garden; DIO takes her plant back to her room at the Guest Inn, humming. He goes to the clinic for the cot. Yuka is in the chair on the other side of it, the one Ori's map pointed to: NEXT EXPEDITION. The real talk. Yuka says it plainly. His reaction didn't come from nothing; it came from what she did, and it's the second time she's said something like that: the morning before the Trial, and the yard. She went for the worst thing she could find because she was sure he'd still be there to hear it, and that isn't all right. She learned that growing up isn't acting, and it isn't not crying; it's being honest and saying when you got it wrong. Mau tries to take part of it ("I closed the doors"); she stops him: "Don't steal my apology." They laugh together in the middle of the apology. Then he gives his own: he let things from the past carry him back to the old habit of getting out of the way, and he'll try to be better for her. She accepts it. She asks him to open her line. He does. They go upstairs to their own room and, at last, both of them sleep. They share a brief kiss beside the cot.
 
@@ -37,7 +37,7 @@ The stairs are right there. Their room is at the top. The notebook was on his pi
 
 He doesn't go up.
 
-He goes out across the yard to the clinic instead, the way he did last night, because he asked Shoko for the cot and she said *all right* and didn't ask why, and because he doesn't know yet how to climb those stairs.
+He goes out across the yard to the clinic instead, the way he did last night, because he asked Shoko for the cot and she said *all right* and didn't ask why, and because he can still feel the drawer going shut against his hand last night.
 
 The clinic door is open a hand's width.
 
@@ -89,7 +89,7 @@ He doesn't move.
 
 She looks down at the notebook.
 
-“And then four days ago,” she says, “in the yard, I did it again.” ʸ
+“And then when you came back from the gate,” she says, “I did it again.” ʸ
 
 Her voice cracks. She lets it. She keeps going.
 
@@ -105,7 +105,13 @@ Her hands are shaking on the notebook.
 
 She takes a breath.
 
-“That isn't all right,” she says. “It's not all right that I did it once, and it's worse that I did it twice. Your reaction this week, the doors, and the clinic, and walking past me in the yard, didn't come out of nowhere. It came out of what I did. I was the one who said it. You were the one who had to live with it.” ʸ
+“That isn't all right,” she says. “I heard it as soon as I said it. I still walked away. You let it go quiet last night for as long as I needed to tell you I took my boots off. I didn't give you that much time in the yard. I didn't give you any time at all.” ʸ
+
+His shirt has a button at the throat. He slept in it last night. He leaves his hand in his lap instead of putting it there. The run of sounds from the yard gets as far as her shoes across the dirt. This time she's still in the chair when he looks at her.
+
+He'd meant to leave her enough room that she'd only have to say it to him the one time. He sees the drawer again, all the way back to the lining at the bottom, his hand fixing the little crease. He'd been going to make that room for her, bit by bit, wherever she looked.
+
+She sees him turn his hand over. She waits while he looks at it. Then she puts the notebook down flat in her lap.
 
 She puts the notebook down on her knees and looks at him.
 
@@ -275,7 +281,7 @@ Together. Across the dark yard, past the training posts, past the orchard wall. 
 
 To their room.
 
-It's exactly as he left it. The bed made. The window open a little. On his pillow, the place where the notebook was, still slightly dented.
+The bed is made. The window is shut where Yuka pressed the catch with the flat of her hand. The drawer is still open just far enough for him to see the sock he put back in it last night.
 
 She stands in the doorway and looks at it.
 

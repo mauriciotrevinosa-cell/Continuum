@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 16 — Carried Down
+## Chapter 17 — Carried Down
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 16
+**Reading order:** 17
 **Source episode:** S13E126
 **Continuity state:** B+440 ("47"), thirty minutes later. Mau goes up. Yuka is in bed with her eyes shut very hard, pretending to be asleep, and failing because she can't stop smiling. He carries her down the stairs the way he said he would. She opens her eyes in the kitchen to everything on the table and the whole house pretending not to watch. Clingy Yuka, reloaded: she won't let go of him, sits in his lap through breakfast, feeds him, and steals from every plate in reach. She kisses him through breakfast, and he gives as good as he gets. She writes "47" in the notebook in whipped cream and then in pencil. The house eats the rejects. Nothing about the last two weeks is said; it doesn't need to be today.
 

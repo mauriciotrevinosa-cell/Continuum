@@ -10,6 +10,10 @@ After the clinic, what the family does for Mau carries forward. Umaru and Mau fi
 
 The chapter IDs and revised reading order stay in place. Optional ideas about taking off the ring and moving the Gojo rematch were left outside the revision. The announced visit still lands at the end of the ninety days.
 
+## Expanded clinic reconciliation
+
+V84 adds *Room for Her Things* after *Stay*. The chapter takes place the same evening. Mau goes up for a shirt and clears his drawer, having decided on his own that Yuka would be more comfortable if he stayed elsewhere. When Yuka catches him, he asks about the quarry and tells her he kept turning toward the place he saved. She owns her decision to take the boots off. He returns to the clinic with their personal line still closed, and his conversation with Ciel, Noise, DIO and Makima follows. The afternoon with Ori in *Battle Hoodie* gives Yuka a chance to hear what Ori thought she had to fix. Ori's map, Mau's shirt and the drawer carry through to the apology in #14. The dates and original document IDs stand.
+
 ## First reading batch
 
 V83 #7–9, starting with *The Road Home*. Cross already knows about the marriage from Tsurugi. Seeing Yuka healthy after the diagnosis still moves him. Yuka introduces Mau as her husband and wants him with her. She gives Mau the context for her promise to go somewhere with Cross that they can choose for themselves. Cross helps Ori with the banner, and Rimuru and Maru open a practical discussion about needs at the northern settlement. Cross raises Yuka's safety in front of the house. Yuka asks Mau to tell her the terms before fixing the meeting and wants a place at the duel. The first conversation about the duel continues after Cross leaves.

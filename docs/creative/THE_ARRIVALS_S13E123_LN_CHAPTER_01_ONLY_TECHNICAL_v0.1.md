@@ -1,9 +1,9 @@
 # The Arrivals — Light Novel — Volume 84
-## Chapter 9 — Only Technical
+## Chapter 10 — Only Technical
 
 **Status:** LN PRODUCTION DRAFT — S13 v0.1
 **Volume:** 84
-**Reading order:** 9
+**Reading order:** 10
 **Source episode:** S13E123
 **Continuity state:** B+437 night ("50"). The clinic bed again, by his own request. Mau goes into the inner room and sits at the table with Ciel, Noise and DIO; Makima comes and stands at the far end of the table. He apologises properly, all of it. Noise: "You didn't close us when we asked." Mau: no, but he asked them for technical reports only, as if they were instruments; that was wrong, his biggest mistake of the week, and he'll make it up to them. Ciel says what it was like to report his heart rate to Rimuru while he wouldn't speak to her. DIO, who withdrew inside, is still hurt and says he owes her something. Then Mau reopens Mai's personal line and, before he sleeps, writes her a letter: it wasn't that he thought she wouldn't respect his space; once he began to see the contracts and the lines that join them, he could feel every one of them pulling, and he couldn't think, and he had to put everything down. He leaves the letter for Shoko to take to the workshop in the morning.
 

@@ -133,7 +133,7 @@ Mau goes very still.
 
 “And?” ᴹ
 
-“And we didn't intervene,” they say. “We watched her. Carefully. The first time, we were ready to. Then we watched her plant a pot plant in a garden and argue with a queen about how deep to dig, and we understood that she wasn't trying anything at all. She was in love. People in love aren't usually plotting to take back the order of the world.” ᴿᵘ
+“And we didn't intervene,” they say. “We watched her. Carefully. The first time, we were ready to. Then we watched her carry a pot into a garden and ask a queen where it would get enough light, and we understood she was there to see her. She was in love. People in love aren't usually plotting to take back the order of the world.” ᴿᵘ
 
 Someone at the table laughs, very quietly.
 
@@ -173,7 +173,7 @@ They don't ask him for anything. Not power. Not information. Not his eyes or his
 
 They ask about DIO.
 
-How she is. Whether she's happy. What the plant is like. Whether the queen is good to her. They listen to the answers. One of them, when he describes DIO and Elmesia on their knees in the garden arguing about how deep to dig, puts a hand over their mouth.
+How she is. Whether she's happy. What the plant is like. Whether the queen is good to her. They listen to the answers. One of them, when he describes DIO and Elmesia walking all the way back across the lawn because DIO changed her mind about where she'd put the pot, puts a hand over their mouth.
 
 They ask about Ori.
 

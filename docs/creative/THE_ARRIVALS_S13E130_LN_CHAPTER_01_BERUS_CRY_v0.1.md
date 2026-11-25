@@ -17,7 +17,7 @@ The first door is the one there always was: Dad's, the weekly one, the one he ca
 
 And the middle one is for the Fort.
 
-Safe for children. Safe for people who don't fight. It reads who comes in and won't make itself harder than they can finish, and it can't turn red, not ever, not unless Dad is the one inside. The gate said it couldn't give much in the way of treasure, so Dad said it could take its treasure out of his Shop, and now it can.
+Safe for children. Safe for people who don't fight. It reads who comes in and won't make itself harder than they can finish, and it can't turn Red, even if Dad's there. If he wants something harder he has the door on the right. The gate said it couldn't give much in the way of treasure, so Dad said it could take its treasure out of his Shop, and now it can.
 
 Frieren checked it first anyway. She went through it before lunch, alone, with her staff, and came out and said, *That's fine. Ori can go in. With Beru. Not past the second door. Yet.*
 

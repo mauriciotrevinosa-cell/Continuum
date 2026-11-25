@@ -27,7 +27,7 @@ And Mai is standing at the edge of the training ground with her arms folded and 
 
 He knows what it is the moment he sees the paper.
 
-Last week he'd have said *in a minute*. He'd have finished with Suho, and then with Jin-Woo, and then gone to look at the split training post, and then remembered Mai, and gone to find her in the workshop, and said *go ahead, it's fine, you don't have to tell me*, and not looked at the paper.
+Last time Mai tried to tell him what she was going to make, he was holding a beam at the wrong angle and wanted her to go ahead before his shoulder slipped. He'd listened to the first line of the proposal and asked her if she had enough to start. She'd folded it up in front of him and said yes.
 
 He stops.
 
@@ -139,13 +139,11 @@ She looks down at the pin in her hand. Then, without looking up, very quickly, a
 
 “Thank you.” ᴹᵃ
 
-“If you want to thank me,” says Mau, “get me something to drink.” ᴹ
+“If you keep looking at me like that, I'm getting the good soda out and telling Momo it's for construction expenses.” ᴹ
 
 Mai blinks at him. Then the corner of her mouth goes.
 
-“Fine,” she says. “That's fair.” ᴹᵃ
-
-She puts the notebook down on the step and starts to get up, already turning toward the kitchen.
+“You better get two,” she says. “Three if Momo's working.” She puts the notebook on the step where both of them can see it.
 
 Mau holds up one hand. In the air in front of him, the Shop opens. The panel. The lists. He scrolls.
 
@@ -263,7 +261,7 @@ He looks down. His left thumb is twitching, very slightly, every time. He hadn't
 
 Yuka takes his left hand in both of hers. His wrist is a little high against the lip of the table, so she pushes her chair in and sets it across her lap. The next flicker jumps into her thumb. She rubs the place once.
 
-He could take his hand back. He turns it palm up instead, and when she slides her fingers between his he leans over and kisses the part in her hair. She tips against his upper arm with a pleased little sound. Across from them, Maki has put both elbows back on the bench. Mai is showing her how to keep from opening her fingers too soon.
+He could take his hand back. He turns it palm up instead, and when she slides her fingers between his he leans over and kisses the part in her hair. She tips against his upper arm with a pleased little sound. Through the open window, they hear Mai tell Maki to keep her fingers closed for another breath.
 
 “Tell me when it works,” she says. ʸ
 

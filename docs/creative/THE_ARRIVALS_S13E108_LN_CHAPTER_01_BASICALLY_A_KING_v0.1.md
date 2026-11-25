@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 9
 **Source episode:** S13E108
-**Continuity state:** B+421 ("66"). The first real talk with the Simurians, at the long table after dinner, with Rimuru as the house's diplomat and Mau at the head because everyone looks at him. Maru explains: his people came down from the sky in the north; most stayed where they landed; they want to live, not fight; but there's one who left. Dabura, the strongest of them, the one they call king. He's been honing himself alone on a mountain, and since Tsurugi's stories he's been asking about Mau. Tsurugi, delighted, retells his stories about Mau to the whole table, and Mau wants to sink through the floor. Yuka sits in Mau's lap through the whole negotiation and won't move. Cross says almost nothing; when he does, it's to Yuka. Maru asks Mau, formally, to meet Dabura before Dabura decides to come by himself. Mau agrees to think about it. The meeting ends with Yuka claiming a kiss and Cross watching from the doorway.
+**Continuity state:** B+421 ("66"). The first real talk with the Simurians, at the long table after dinner, with Rimuru as the house's diplomat and Mau at the head because everyone looks at him. Maru explains: his people came down from the sky in the north; most stayed where they landed; they want to live, not fight; but there's one who left. Dabura, the strongest of them, the one they call king. He's been honing himself alone on a mountain, and since Tsurugi's stories he's been asking about Mau. Tsurugi, delighted, retells his stories about Mau to the whole table, and Mau wants to sink through the floor. Yuka sits in Mau's lap through the whole negotiation and won't move. Cross uses the danger of an unplanned arrival to ask whether Yuka has a safe place in the house's plan. Rimuru opens a practical line of communication with the Simurian settlement. Maru asks Mau to meet Dabura before Dabura comes by himself. Mau agrees to consider it and promises to tell Yuka before fixing the terms. Cross asks her to walk with him in the morning.
 
 *When: B+421. After dinner, into the night. Yuka wrote "66" and, underneath, "TALKS", underlined, then crossed out and replaced with "TALKS (BORING)".*
 
@@ -49,7 +49,7 @@ Mau doesn't say anything. He puts one arm round her waist so she won't slide off
 
 Maru is looking at them with polite interest.
 
-Cross isn't looking at them at all. He's looking at the table. At his own hands, flat on the wood. His jaw is tight.
+Cross has moved his cup off the edge of a folded sheet of paper. Maru reaches for the paper twice before the discussion comes round to the north.
 
 “In my experience,” says Maru, carefully, “kings do not usually hold meetings with someone sitting on them.” ᴹᵃʳᵘ
 
@@ -69,9 +69,13 @@ He tells it slowly, choosing every word, the way he spoke at the gate. His peopl
 
 He looks at his brother.
 
-“Most of us,” he says again. ᴹᵃʳᵘ
+Cross unfolds the sheet. There is a river on it and a cluster of marks either side, some round and some square. Rimuru asks which mark is the crossing.
 
-Cross doesn't look up.
+“None yet,” Maru tells him. “There was ice when we came through. People still need to get back across with things that can't get wet.” ᴹᵃʳᵘ
+
+Rimuru draws a second sheet out of his notebook. “Put down where you'd want a bridge. And tell me who to ask about the river before we go making suggestions.” ᴿ
+
+While Maru makes the marks, Yuka reaches across Mau for the water and fills Maru's cup, then Cross's. She takes a sip out of Mau's before putting the jug back. He has a cup in each hand before he realises that she expects him to drink from both and tell her which one Shuna put lemon in.
 
 “And the one who isn't most of you,” says Rimuru. ᴿ
 
@@ -181,13 +185,21 @@ He looks up.
 
 Not at Mau. At Yuka.
 
-“He'll come,” Cross says. “And he won't care who's standing next to the king when he does.” ᶜʳ
+“He'll come,” Cross says. “Does everyone know where to go if he gets here first?” ᶜʳ
 
 The table goes very quiet.
 
 Yuka has stopped writing.
 
-She looks at Cross across the table, and something passes over her face that Mau can't read. Then she looks down at the notebook again, and writes something, and doesn't say anything.
+“We have a plan for the house,” Yuka says. “I'll show you where to go in the morning if you want.” ʸ
+
+“You're on it somewhere, I hope,” says Cross. ᶜʳ
+
+She looks up. There is a little smile left over in her face from Tsurugi's story about the dome. It goes away slowly, like she's trying to work out which part of the question was meant for her.
+
+“Of course I am,” she says. ʸ
+
+She writes the river crossing in the margin of the notebook.
 
 Mau's arm tightens round her waist. Just slightly. He doesn't decide to.
 
@@ -245,7 +257,7 @@ She's quiet for a moment.
 
 “It's not a dungeon.” ᴹ
 
-“It's a monster who wants to fight you,” says Yuka. “Same thing.” ʸ
+“Then there should be somewhere for me to sit,” says Yuka. “I want to be there when you look up.” ʸ
 
 She puts her arms round his neck.
 
@@ -275,16 +287,22 @@ She presses her mouth to his once more, briefly this time, then settles with her
 
 He holds her there. He has no particular wish for her to demonstrate it.
 
-Across the empty room, by the door, Cross has stopped.
+There's a knock on the frame. Cross is in the doorway, holding the folded map with Rimuru's second sheet sticking out of it. Mau feels Yuka lift her head. She stays where she is.
 
-Maru is already in the hall. Cross was following him. Now he's standing in the doorway with his hand on the frame, looking back.
+“Before breakfast?” Cross asks her. “To show me around. I thought we could take the road down to the village while it's quiet.” ᶜʳ
 
-At the head of the table. At Yuka with her arms round Mau's neck.
+“Sure. Come find me after I've had tea.” ʸ
 
-Mau sees him. Over her shoulder. He doesn't look away.
+“Somewhere we don't have to go,” says Cross. ᶜʳ
 
-Cross doesn't look away either.
+The smile she gives him takes a second. Mau knows where she got it. She told him herself, on the steps, yesterday. He turns his hand palm up on her knee, and by the time Cross says goodnight she's slipped her fingers through his.
 
-Then Cross turns, and goes out, and closes the door behind him, very quietly. Too quietly. The way you close a door when you want to slam it.
+When the door closes, Yuka shifts to get a proper look at him.
 
-Yuka, her face in Mau's neck, doesn't hear it at all.
+“You've been thinking about where you'd meet him since Maru said mountain.” ʸ
+
+“I've been thinking about it since you asked me to tell you first.” ᴹ
+
+“All right,” she says. “Tell me what you've got so far.” ʸ
+
+She retrieves the notebook. Neither of them gets up.

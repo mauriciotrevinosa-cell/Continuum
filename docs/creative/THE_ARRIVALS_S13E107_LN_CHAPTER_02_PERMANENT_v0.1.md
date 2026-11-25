@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 8
 **Source episode:** S13E107
-**Continuity state:** B+420 ("67"). The day after the arrival. Subaru asks Mau to sit with him while he talks to Rem and Ram, because he doesn't trust himself not to run. He apologises properly. Rem forgives him with her whole heart. Ram forgives him too, and tells him plainly that forgiving isn't the same as fixed: the damage to what was between them is permanent, and he'll have to live next to the crack. He accepts it. Emilia has tea with Satella, with Yuka and Mau carrying the cups; Satella answers what she can and says "not yet" to the rest. Beatrice inspects the house's "library" (Frieren's shelves, Senku's notebooks, the grimoire Frieren keeps for Mau) and moves in among Frieren's books without asking. Echidna, coming across from the witches' side of the town to return a book, finds her in Frieren's window seat: they knew each other in their own world and lived together until Echidna died. Echidna takes her to the room with no name, behind whose door her library has always been; Beatrice uses Door Crossing to open it onto doors all over the house. At sunset Mau, with the Six Eyes, sees her old keeper's contract gone slack: it was made for a world where Echidna was dead. Echidna only laughs. Mau calls the wheel (just the shape, still): it learns from inside, and might learn the knot if he carries its weight; he has never tried it on something not his own. Echidna, delighted, wants to know whether it's possible; they leave it for later. Mau wonders if *that person* isn't a person but a place, a house that will want her, and if she has already found it. Beatrice will think about it. Meanwhile, his smaller rule: she doesn't wait inside; she eats with everyone and comes out every day. In the afternoon the Fort inducts Emilia as a member, with Ori presiding. Cross is at the edge of every room Yuka is in.
+**Continuity state:** B+420 ("67"). The day after the arrival. Subaru asks Mau to sit with him while he talks to Rem and Ram, because he doesn't trust himself not to run. He apologises properly. Rem forgives him with her whole heart. Ram forgives him too, and tells him plainly that forgiving isn't the same as fixed: the damage to what was between them is permanent, and he'll have to live next to the crack. He accepts it. Emilia has tea with Satella, with Yuka and Mau carrying the cups; Satella answers what she can and says "not yet" to the rest. Beatrice inspects the house's "library" (Frieren's shelves, Senku's notebooks, the grimoire Frieren keeps for Mau) and moves in among Frieren's books without asking. Echidna, coming across from the witches' side of the town to return a book, finds her in Frieren's window seat: they knew each other in their own world and lived together until Echidna died. Echidna takes her to the room with no name, behind whose door her library has always been; Beatrice uses Door Crossing to open it onto doors all over the house. At sunset Mau, with the Six Eyes, sees her old keeper's contract gone slack: it was made for a world where Echidna was dead. Echidna only laughs. Mau calls the wheel (just the shape, still): it learns from inside, and might learn the knot if he carries its weight; he has never tried it on something not his own. Echidna, delighted, wants to know whether it's possible; they leave it for later. Mau wonders if *that person* isn't a person but a place, a house that will want her, and if she has already found it. Beatrice will think about it. Meanwhile, his smaller rule: she doesn't wait inside; she eats with everyone and comes out every day. The Fort inducts Emilia as a member with Ori presiding. The library can move, with known access doors available by arrangement. Yuka tells Mau a piece of what Cross meant to her on the day of the diagnosis. Cross helps Ori with the Fort banner. Yuka tells Mau she hadn't expected to get to show Cross this part of her life.
 
 *When: B+420. Morning to evening. Yuka wrote "67". Subaru has been awake since before dawn, sitting on the back steps.*
 
@@ -239,11 +239,31 @@ Yuka is quiet for a moment.
 
 “I want to be better at it,” she says. ʸ
 
-He looks down at her. She isn't looking at him. She's looking across the yard, toward the training posts, where Cross is standing alone with his arms crossed, not training, not doing anything, just standing in the sun.
+He looks down at her. She isn't looking at him. She's looking across the yard, toward the drying line, where Cross is standing with Maru, holding up the end of a wet blanket while Shuna shows them where they can hang it.
 
 Looking at the porch.
 
-Mau looks too. Cross looks away.
+A corner of the blanket slips. Cross puts his knee against the post and holds it up while Maru ties it. Yuka watches him reach to catch it a second time.
+
+“You remember that day I told you about? When they gave me the six months?” she asks. ʸ
+
+He sets his cup between his feet. He remembers.
+
+“I made him tell me what he was going to eat when he got home,” she says. “I didn't want to leave the building yet. We were halfway down the stairs and I just sat. I told him to keep talking until I could get up.” ʸ
+
+“What was he going to eat?” ᴹ
+
+“He didn't know. He still told me what he was going to do for dinner in incredible detail. I think he invented a whole fish.” ʸ
+
+She smiles for a breath. Then she turns her face into the join of Mau's neck and shoulder. He slides the forgotten cup a little farther from the step and puts his arm around her.
+
+“When we got outside I told him I'd pick somewhere good next time,” she says. “Somewhere we didn't have to go.” ʸ
+
+On the lawn, the blanket finally holds. Maru gives the rope an experimental tug. It's Cross who gets a face full of cold water when the fold comes loose. Yuka laughs against Mau's shoulder, which is as much warning as he gets before she lifts her face and kisses him.
+
+“Do you want to invite him somewhere?” he asks. ᴹ
+
+“I think I do.” ʸ
 
 Yuka doesn't notice. She's already turned back to the tea, and to Satella, and to Emilia, and she's tucked herself more firmly against Mau's side, and she's smiling.
 
@@ -403,7 +423,7 @@ Mau looks at the circle of books. At the small figure in the middle of it, the w
 
 That makes her look up. Suspicious.
 
-“This is your library,” he says. “Yours and Echidna's. Open it wherever you want. Every door in the town, if you like. But you're not its keeper.” ᴹ
+“This is your library,” he says. “Yours and Echidna's. Open it wherever you want. We can tell people which doors they can come knock on. But you're not its keeper.” ᴹ
 
 “Betty *is* its keeper,” she says. “Betty has always been its keeper, in fact. That is the contract. Until *that person* comes.” ᴮᵉᵃ
 
@@ -513,7 +533,7 @@ In the chair, Echidna has gone quiet too. She isn't looking at the place where t
 
 He waits.
 
-“You eat with us,” he says. “You come out every day. You go and annoy Frieren in her window seat. You let Umaru drag you into the Fort if she wants to, and she will. The library will still be here. It's not going anywhere. That's the point of it. It doesn't need you to stand guard.” ᴹ
+“There's a place for you at supper,” he says. “And next time Ori wants you, can she knock on the hall door even if you've moved the library? You can tell her to go away yourself.” ᴹ
 
 Beatrice looks at him for a long time.
 
@@ -549,7 +569,7 @@ The Fort inducts Emilia at sunset.
 
 Umaru has invited her to come and see the banner. Emilia is still asking what a Fort member actually does when Ori brings out the paper badge and asks if she would like one. She looks from the badge to the expectant faces and says yes.
 
-Ori presides. She stands on a crate in the yard in her explorer clothes, with the banner from the castle day held up behind her by Milim and Umaru, and the Fort girls in a row, and the rest of the house watching from the porch. Emilia stands in front of her, looking slightly bewildered, with Puck on her shoulder looking extremely amused.
+Ori presides. She stands on a crate in the yard in her explorer clothes, with the banner from the castle day held up behind her by Milim and Umaru, and Chloe and the others in a row, and the rest of the house watching from the porch. Emilia stands in front of her, looking slightly bewildered, with Puck on her shoulder looking extremely amused.
 
 “Do you,” says Ori, very seriously, “promise to defend the Fort?” ᴼ
 
@@ -583,20 +603,18 @@ She's laughing at Kamish. She's clapping for Emilia. She's leaning back against 
 
 He holds her and watches the yard.
 
-At the far end of it, by the posts, Cross is watching too.
+Near the posts, Cross is holding the end of the banner where Milim left it. When Ori goes back for it, he brings it over without letting it drag. She stops him halfway and makes him carry it higher, because otherwise it looks like they're surrendering.
 
-Not the induction. Not Emilia. Not Ori on her crate.
+Cross does as he's told. He has to go on holding it that high while Ori explains to him how it came to be the official banner. By the time she's got to Kamish's part, Kamish has raised his head from the grass.
 
-Yuka.
+“Tell him what I got in exchange for the castle,” says Kamish. ᴷᵃ
 
-He watches her laugh. He watches her lean back against Mau. He watches Mau's arms round her. And his face, in the long evening light, is very still, and very hard to read.
+“Ice cream,” says Ori. ᴼ
 
-Yuka doesn't see. She's turned her face up to say something to Mau, something about Kamish and the tunnel, and she's laughing so hard she can barely get it out.
+“Two,” says Kamish. ᴷᵃ
 
-He laughs with her. He kisses the top of her head.
+Yuka twists round on Mau's lap, laughing. He's laughing, too, mostly because he can already see Ori working out how to sell two ice creams as a victory for both parties.
 
-And over her head, across the yard, he meets Cross's eyes.
+“There wasn't a day I thought I'd get to show him all this,” Yuka says into his collar. ʸ
 
-Neither of them looks away for a long moment.
-
-Then Maru comes and stands beside his brother and says something quietly, and Cross turns, and goes inside.
+Mau can feel her smiling even after her voice goes unsteady. He turns his cheek into her hair and stays where he is until she's ready to go down and help Ori fold the banner.

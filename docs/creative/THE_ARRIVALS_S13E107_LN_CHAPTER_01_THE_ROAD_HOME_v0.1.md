@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 7
 **Source episode:** S13E107
-**Continuity state:** B+419 ("68"). Kaisel spots the travellers on the north road at dawn. The house goes out to the gate. Subaru, thinner and browner and grinning; Emilia beside him; Puck on her shoulder; Beatrice walking very fast in front so nobody can say she was waiting. Rem reaches Subaru first; Ram stops a few steps short (their real talk is next chapter). Mau, analysing Puck without meaning to, is told "you're looking at me rather a lot" and apologises. Beatrice demands the library. Emilia sees Satella in the doorway and nearly collapses; Satella, who has lived and been loved in this house a long time, stays very still and says only her name. Tsurugi and Yuka collide in the yard, sibling and rival: a shove, then a hug that lasts too long. Last at the gate, the twins: Maru, calm, who asks permission to cross; and Cross, who came to talk beside Maru but has been braced for rejection, sees Yuka over Tsurugi's shoulder and stops dead. "You're alive." Mau, at her side, watches her face change. No fight.
+**Continuity state:** B+419 ("68"). Kaisel spots the travellers on the north road at dawn. The house goes out to the gate. Subaru, thinner and browner and grinning; Emilia beside him; Puck on her shoulder; Beatrice walking very fast in front so nobody can say she was waiting. Rem reaches Subaru first; Ram stops a few steps short (their real talk is next chapter). Mau, analysing Puck without meaning to, is told "you're looking at me rather a lot" and apologises. Beatrice demands the library. Emilia sees Satella in the doorway and nearly collapses; Satella, who has lived and been loved in this house a long time, stays very still and says only her name. Tsurugi and Yuka collide in the yard, sibling and rival: a shove, then a hug that lasts too long. Last at the gate, the twins: Maru, calm, who asks permission to cross; and Cross, who came to talk beside Maru but has been braced for rejection, sees Yuka over Tsurugi's shoulder and stops dead. Cross already knew from Tsurugi that Yuka lives here and is married. Seeing her healthy still catches him off guard. Mau makes room for the reunion; Yuka introduces him herself and asks him to stay beside her when they go in.
 
 *When: B+419. Dawn to mid-morning. Yuka wrote "68" in the dark and didn't draw anything, because Kaisel had already come down into the yard and was making the sound he makes when there are people on the road.*
 
@@ -247,7 +247,7 @@ He takes a step forward. Another. Past his brother. To the gate.
 
 He stops there, a few paces from Yuka, and stares at her.
 
-“You're alive,” he says. ᶜʳ
+“You can stand like that,” he says. ᶜʳ
 
 Yuka goes very still.
 
@@ -257,11 +257,33 @@ Her answer takes a breath longer than Mau expects. Her shoulders stop moving. Wh
 
 Just his name. The way Satella said Emilia's. Carefully. Like setting something fragile down.
 
-“You were dying,” says Cross. His voice is rough. “Six months. You said six months. You made me go to the doctor with you and you said *six months* and then you were *gone*, and nobody knew where, and I thought—” ᶜʳ
+“Tsurugi told me you were all right,” says Cross. “I thought he meant you could still get around on good days.” His eyes go to her hands, to the way she has one wrapped round the strap of her brother's pack, bearing its whole weight without thinking. “You were dying,” he says. His voice is rough. “Six months. You said six months. You made me go to the doctor with you and you said *six months* and then you were *gone*, and nobody knew where, and I thought—” ᶜʳ
 
 He stops.
 
-“You're alive,” he says again. ᶜʳ
+“Look at you,” he says. ᶜʳ
+
+Yuka takes the pack off Tsurugi's shoulder. She sets it on the road with both hands and straightens up, slowly this time, as if showing someone a thing she has learned to do.
+
+“I can carry that all the way upstairs,” she says. ʸ
+
+“It's got rocks in it,” says Tsurugi. ᵀˢ
+
+“Well, now I'm not carrying it.” ʸ
+
+Cross laughs. It surprises him enough that he looks down at his feet. Yuka lets him have the second. Then she asks the first thing she has wanted to ask him since she saw him coming.
+
+“Did you go back for my coat?” ʸ
+
+“Yes.” ᶜʳ
+
+She closes her eyes. Mau remembers that coat. She told him about it a long time ago, after she had gone through a whole afternoon looking for a sweater she hadn't even brought to this world. She'd left it in the waiting room the day Cross went with her. She'd been cold, but by the time she remembered it she'd been halfway home.
+
+“I'm sorry,” she says. “I didn't know I was leaving.” ʸ
+
+Cross gets as far as opening his mouth. Whatever he meant to say first, he lets it go.
+
+“I know that now,” he says. ᶜʳ
 
 Mau doesn't move.
 
@@ -269,11 +291,9 @@ He stands at the gate where Yuka left him, with his hand still slightly open fro
 
 He watches it change.
 
-He knows every face she has. The fierce one, and the soft one, and the one she makes when she's about to steal something off his plate. The one from the tent with the lamp. The one from the orchard, when she couldn't speak.
+He can feel the warmth coming up her throat and count how fast her heart is beating. He can also remember how she sounded when she told him about the doctor and got to the part where they'd sent her out with an appointment card, as if she'd need a reminder to come back. She'd had someone beside her when she walked out.
 
-He doesn't know this one.
-
-It's open. That's the thing. Open in a way he's only seen it be for him. Surprised, and shaken, and something underneath that he can't read, that the eyes can't read, that the new sense can feel only as warmth coming up her throat, and her heartbeat, fast.
+Until this morning, Mau had only heard his name.
 
 She takes a step toward the gate.
 
@@ -281,27 +301,19 @@ Then she stops.
 
 She stops, and looks back over her shoulder, and finds Mau. And her face goes back to one he knows: a little pink, a little embarrassed, reaching for him.
 
-“Mau,” she says. “This is Cross. He's—I knew him. Before. When I was—” ʸ
+“Cross, this is Mau. My husband.” Her voice catches on that last word. She gets a small smile out of it anyway. “Mau, this is who I told you about. He went in with me.” ʸ
 
-“I know,” says Mau. ᴹ
+“I'm glad you had someone there,” Mau says. It's the first thing that comes to him. ᴹ
 
 She holds out her hand to him. He comes down the road and takes it, and she pulls him in against her side, the way she always does, and holds on.
 
-Cross looks at their hands.
+“Tsurugi told me about you on the road,” Cross says to Mau. “He said I'd know the king when I saw him.” ᶜʳ
 
-He looks at them for a long time.
+“He's going to be saying it all week if you let him,” says Yuka. ʸ
 
-Then he looks at Mau. Properly. For the first time. Up and down, the way Rem looked at Subaru: the scar through the shirt, the eyes, the way he stands.
+“Try Mau,” says Mau. ᴹ
 
-Whatever he's looking for, Mau can't tell if he finds it.
-
-“The king,” Cross says. ᶜʳ
-
-It isn't a compliment. It isn't an insult either. It's just a word, flat, like a stone put down on a table.
-
-“Mau,” says Mau. ᴹ
-
-Cross doesn't say anything else.
+Cross looks down at their hands. When he looks up again, he gets the name right.
 
 Behind them, Maru is still standing at the gate with his hands open, waiting for an answer.
 
@@ -309,8 +321,22 @@ Behind them, Maru is still standing at the gate with his hands open, waiting for
 
 Maru inclines his head.
 
-He comes through the gate. His brother comes after him, slowly, and doesn't look at Mau again.
+He comes through the gate. Cross bends and takes Tsurugi's pack before Tsurugi can get to it. There's a clatter from inside it.
 
-He looks at Yuka.
+“Those really are rocks,” says Cross. ᶜʳ
 
-The whole way to the house, he looks at Yuka, and Yuka holds Mau's hand and talks to Tsurugi about the road and laughs at something Subaru says and doesn't notice. And Mau, walking beside her with her hand in his, notices everything, and says nothing at all.
+“I told you,” Tsurugi says to Yuka, offended. ᵀˢ
+
+They go in at the speed of Emilia, who has got up from her chair and is stopping to look at things with Subaru. Yuka keeps hold of Mau until they reach the porch. Then she tugs him back one step so the others go on ahead.
+
+“Will you sit with us if we talk?” she asks. “I want to hear how he's been. I want you there, too.” ʸ
+
+“Of course.” ᴹ
+
+She puts her forehead against his shoulder for an instant, hard enough that he feels it clear through his shirt.
+
+“He actually went back for the coat.” ʸ
+
+Mau puts a hand on her back. Through the open doorway he sees Cross set down the pack and hold the door for Emilia. He's still looking for Yuka over the heads of the people coming inside. When he finds her, he lifts a hand and goes on in to help with the bags.
+
+Mau gives her another minute on the step. The tea can wait.

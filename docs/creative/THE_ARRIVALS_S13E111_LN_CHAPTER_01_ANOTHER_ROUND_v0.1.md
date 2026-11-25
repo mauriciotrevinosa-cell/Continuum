@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 15
 **Source episode:** S13E111
-**Continuity state:** B+430 ("57"). Gojo calls in the rematch. For the controlled drill, both selectively admit the partner’s physical training contact while hostile techniques still meet Infinity. Gojo finds Mau’s right guard late when his attention drifts; distraction does not switch neutral Infinity off. Mau answers emotional questions with technical explanations. Gojo tells Shoko, who is a mother figure to Mau and trusted by Yuka.
+**Continuity state:** B+430 ("57"). Gojo calls in the rematch. For the controlled drill, both selectively admit the partner’s physical training contact while hostile techniques still meet Infinity. Gojo finds Mau’s right guard late when his attention drifts; distraction does not switch neutral Infinity off. Mau answers emotional questions with technical explanations. Gojo stays with him after the drill, then tells Shoko what he actually saw. Shoko invites Mau to come to the clinic before supper; he promises to see her in the morning and follows through on the errand he set out to do.
 
 *When: B+430. Mid-morning to noon, on the open ground past the river. Yuka wrote "57". She was in the yard with Cross when Mau and Gojo left; she waved.*
 
@@ -15,7 +15,7 @@ He's at the kitchen door with his blindfold pushed up and his hands in his pocke
 
 “Now?” ᴹ
 
-“Shoko cleared you weeks ago. You never collected.” Gojo grins. “And you've got a Simurian coming who crosses valleys faster than sound. I'm doing you a favour. It's training.” ᴳ
+“I want to see what you do when somebody's already through your first move.” Gojo shoulders the door the rest of the way open. “You're meeting somebody who crosses valleys faster than sound. I've got an hour.” ᴳ
 
 Mau looks at him.
 
@@ -229,7 +229,7 @@ He lets go.
 
 He puts the blindfold back on.
 
-“Think about that,” he says. “With numbers, if you like.” ᴳ
+“Come to lunch when you're ready,” he says. “I'll be by the window. We can work out something for your right if you want.” ᴳ
 
 They walk back.
 
@@ -293,14 +293,22 @@ He goes to the door. He stops in it.
 
 And he goes.
 
-Shoko sits at her desk for a long time after he's gone.
+Shoko waits for Mau by the back steps. She has two oranges in her coat pocket and rolls one across the step when he comes round the house for his jacket. He stops it with his boot.
 
-She looks out of the window at the yard.
+“Will you sit with me before supper?” she asks. “I should have time around four.” ˢʰ
 
-Then she picks up her clipboard again, and doesn't write anything on it, and looks at Yuka laughing on the grass, and at the chart in the cabinet with *Mau Ieiri* on the front in two kinds of handwriting, and five sheets of names behind it.
+He bends down for the orange. “I'm taking Frieren's book back and going out with Fern to check the quarry path.” ᴹ
 
-She puts the clipboard down.
+“That's fine. We can go for a walk when you get back.” ˢʰ
 
-She takes out a cigarette she isn't going to light.
+For a breath she thinks he's going to say yes. He starts to peel the orange and hands her half with a strip of rind still holding the pieces together.
 
-She waits for the evening.
+“Tomorrow?” he asks. “I can make tea in the morning.” ᴹ
+
+“I'd like that.” She takes the orange. He waits while she gets one piece free. “Do you want me to go with you and Fern today?” ˢʰ
+
+He thinks about it, which is more than he did when she asked about sleep. “Stay here. You just put your tea down.” ᴹ
+
+He knows her too well. Her cup is still steaming inside. She eats the rest of the orange on the step before she goes back to it.
+
+She puts the half-peeled orange on a clean saucer on her desk. If he's back in time for supper, she'll see if she can get Yuka alone for tea.

@@ -5,9 +5,9 @@
 **Volume:** 83
 **Reading order:** 16
 **Source episode:** S13E111
-**Continuity state:** B+430, evening. Yuka's point of view. Shoko asks her to the clinic with nothing wrong, the way Mau goes. Not a lecture: Shoko talks to her the way a mother would. She tells her what Gojo saw (without numbers): Mau answering the question next to the question, and touching a note from Ori in his pocket. Shoko doesn't call Cross anything. She asks Yuka what Cross gives her that nobody else does. Yuka answers honestly: he saw her in the hospital corridor. Shoko says that's real, and that it's allowed, and that it isn't the same as what she has with Mau, and that Mau can't see the difference from where he's standing. Yuka, about twenty-one, has wanted to be more grown-up for a long time. She half hears it. She decides she'll talk to Mau properly, tomorrow, when there's a moment. There isn't one.
+**Continuity state:** B+430, evening. Yuka's point of view. Shoko asks her to the clinic with nothing wrong, the way Mau goes. Not a lecture: Shoko talks to her the way a mother would. She tells her what Gojo saw (without numbers): Mau answering the question next to the question, and touching a note from Ori in his pocket. Shoko doesn't call Cross anything. She asks Yuka what she wanted from a second walk with Cross. Yuka talks about wanting one day she could spend with him while both of them were well. Shoko tells her it's possible for that day to be good and still leave Mau needing something from her. She asks what their next conversation could sound like. Yuka, about twenty-one, has wanted to be more grown-up for a long time. She half hears it. She decides she'll talk to Mau properly, tomorrow, when there's a moment. There isn't one.
 
-*When: B+430. After dinner, in the clinic, with the lamp lit. Yuka sat beside Mau at dinner tonight; she didn't know why she chose to; Ori stayed in her own seat by Frieren, watching.*
+*When: B+430. After dinner, in the clinic, with the lamp lit. Yuka chose to sit beside Mau at dinner. Ori stayed in her own seat by Frieren.*
 
 Shoko asks her after dinner.
 
@@ -89,7 +89,7 @@ Her voice is small.
 
 She didn't mean to say it. It just comes out.
 
-“For Cross,” she says. “She said everyone can see it. Granny said it too. And Grandpa said—” ʸ
+“For Cross,” she says. “Then Granny asked if he was sleeping and I couldn't even say yes. And Grandpa had this look on his face—” ʸ
 
 She stops.
 
@@ -99,31 +99,23 @@ She stops again.
 
 Shoko doesn't say anything. She doesn't say *you are* or *you aren't*. She just waits, the way Mau waits, the way Ori waits.
 
-“I don't know what Cross is,” says Yuka finally. ʸ
+“I thought it was a good day,” says Yuka finally. “When we went to the ridge.” ʸ
 
-“Tell me,” says Shoko. “Not what he is. What he gives you. That nobody else does.” ˢʰ
+“What did you want out of it?” Shoko asks. ˢʰ
 
 Yuka looks at her.
 
-It's a strange question. Nobody else asked it. Mai said *swapping*. Granny said *a child noticed*. Grandpa said *we see both of you*. Nobody asked her what Cross gives her.
+She could tell Shoko the same story she told the table. The view, the log. The way they'd got there and sat down expecting to be tired and ended up going a little farther because the day was good. She has the uncomfortable feeling that Shoko would happily listen and still be waiting for an answer when she finished.
 
 She thinks about it.
 
 She thinks about it properly. Because it's Shoko. Because Shoko asked it like she actually wanted to know.
 
-“He saw me,” she says slowly. “In the corridor. At the hospital. Before.” ʸ
+“I wanted to do one whole thing with him without anybody getting bad news,” she says. “He did a lot of waiting with me, before.” ʸ
 
-Shoko waits.
+Shoko waits, too. Yuka puts her cup between both hands and tries again.
 
-“I was so scared,” says Yuka. “The most scared I've ever been. They'd just told me six months. And I couldn't tell anyone, because if I told Tsurugi he'd *know*, and if I told Granny it would be *real*. So I asked Cross. Because he didn't know what a hospital was. He didn't know what a tumour was. He wouldn't know enough to be sad.” ʸ
-
-Her hands are tight round the cup.
-
-“And I sat in the corridor and laughed and told him it was fine,” she says. “And my hands were shaking so much I couldn't open the door. And he saw. He didn't understand anything else. But he saw that.” ʸ
-
-She looks at Shoko.
-
-“Nobody else saw that,” she says. “Nobody. Mau didn't know me then. He's seen me scared since. But never like that. Never when it was *me*.” ʸ
+“At the clinic where they told me, there was a door with a little metal latch. I kept trying to turn it and my hands were shaking. It took him a minute, but he opened it. When we went up on the ridge he put his hand out once, at a steep bit. I went up on my own and waited for him at the top. I wanted to be the one waiting for him for a change.” ʸ
 
 Shoko is quiet for a long time.
 
@@ -133,7 +125,7 @@ Then she puts her cup down on the windowsill. She turns on the bed, so she's fac
 
 Yuka stares at her.
 
-“What he gave you,” says Shoko. “Being seen. At the worst moment. By someone who didn't flinch. That's real, Yuka. That's one of the realest things anyone can give anyone. I'm not going to tell you it isn't.” ˢʰ
+“Of course you'd want him to see you do that,” says Shoko. “He was your friend when getting up a flight of stairs meant something else entirely.” ˢʰ
 
 Yuka's eyes have gone hot.
 
@@ -151,13 +143,15 @@ She squeezes Yuka's hands.
 
 Yuka goes very still.
 
-“From where he's standing,” says Shoko, “his wife came home from a walk with a man who saw her at her worst. Before him. And sat with that man at dinner. And didn't sit with him. And didn't steal off his plate. And came to bed happy, and told him about her day, and the day was full of the other man.” ˢʰ
+“I saw you looking for him when you came in tonight,” says Shoko. “When was the last time he saw you do it?” ˢʰ
 
-Yuka's breath catches.
+Yuka thinks of walking out of the workshop and crossing straight to the porch. She hadn't told him then what she needed. She'd asked a question where it felt like the answer to both their afternoons depended on him saying fine. At the time she'd been glad he'd said it.
 
-“He doesn't know it's a different thing,” says Shoko. “How could he? You haven't told him. You haven't told *yourself*. And he's not asking. Because he's Mau, and he's got a very old habit of deciding that the kindest thing he can do for someone he loves is get out of the way.” ˢʰ
+“I told him about the hospital,” she says. “The night after we went to the village. He listened.” ʸ
 
-“He wouldn't,” says Yuka. ʸ
+“I'm glad you told him,” Shoko says. “I think he's had something to say since then and it hasn't come out.” ˢʰ
+
+“He wouldn't step away from me because of one bad dinner.” ʸ
 
 Her voice is barely there.
 
@@ -187,7 +181,7 @@ It's horrible.
 
 Shoko looks at her.
 
-“Talk to him,” she says. “Not *are you okay*. He'll say *fine*. Not *do you think I spend too much time with Cross*. He'll say *it's fine*. Tell him what you just told me. About the corridor. About what Cross gave you. About how it's a different thing.” ˢʰ
+“Talk to him,” she says. “Tell him where you were coming from when you asked if he minded. See what he would have said if he'd thought he could be difficult for a minute.” ˢʰ
 
 She puts her cup down.
 
@@ -195,11 +189,7 @@ She puts her cup down.
 
 Yuka nods.
 
-She does. She hears it. Some of it. The part about the corridor, and the part about *a different thing*, and the part about telling him.
-
-She doesn't hear all of it.
-
-She doesn't hear *he's not asking*. She doesn't hear *making himself smaller*. Or she hears them, but they go somewhere she can't look at yet, somewhere behind the warm wrung-out feeling Cross leaves in her chest, somewhere she's been not looking at for a week.
+She sees herself falling asleep against him after talking about the ridge. She can't think of anything he told her that night about his own day. He was awake when she stirred later, and he put the blanket back over her as if he'd been waiting to.
 
 “Okay,” she says. ʸ
 

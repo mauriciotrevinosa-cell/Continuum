@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 14
 **Source episode:** S13E110
-**Continuity state:** B+429 ("58"). Yuka's point of view. Mai corners her in the new upstairs workshop: she's swapping Mau for Cross, and everyone can see it. Maki, blunter, joins in; Yuta, gentler, tries to explain what the house is seeing (the chair, the plate Shuna kept, Ori eating pickles she hates). The house understands both of them: they also say Mau should have said something and is falling back into old habits, but when could anyone have sat him down? Yuka digs in: Cross is a friend, Mau said "it's fine", she's done nothing wrong. Her anger is terror, and also something else she won't name: feelings she never let herself have about being seen at her worst. She leaves and goes straight to Mau and clings to him; he asks nothing. She doesn't notice Ori's note in his pocket.
+**Continuity state:** B+429 ("58"). Yuka's point of view. Mai corners her in the new upstairs workshop: she's swapping Mau for Cross, and everyone can see it. Maki, blunter, joins in; Yuta, gentler, tries to explain what the house is seeing (the chair, the plate Shuna kept, Ori eating pickles she hates). Mai speaks as a friend of them both. Maki and Yuta have noticed different things, including an evening when Mau sat down with the others and repeatedly looked up for Yuka. They tell her Mau has been keeping things back and ask whether she and Mau have had a chance to hear each other. Yuka digs in: Cross is a friend, Mau said "it's fine", she's done nothing wrong. Her anger is terror, and also something else she won't name: feelings she never let herself have about being seen at her worst. She leaves and goes straight to Mau and clings to him; he asks nothing. She doesn't notice Ori's note in his pocket.
 
 *When: B+429. Mid-morning, upstairs in the finished second floor of the workshop. Yuka wrote "58" and nothing else; she was late, because Cross had asked to see the dogs again before breakfast.*
 
@@ -41,7 +41,7 @@ Yuka stares at her.
 
 “What?” ʸ
 
-“Mau. For Cross.” Mai says it flatly, the way she says *don't move* when she's building. “Everyone can see it. The whole house. You're swapping your husband for your old friend, and you can't see it, and he won't say anything, and I'm tired of watching.” ᴹᵃ
+“Mau. For Cross. That's what it looks like when I go downstairs lately.” Mai has a hand flat on her workbench. There is sawdust under the edge of it. “I know both of you. I've seen him give somebody room until he had nowhere left to sit. I thought you'd want me to say something before you got there.” ᴹᵃ
 
 For a moment, Yuka can't breathe.
 
@@ -53,7 +53,9 @@ Then she can, and it comes out as a laugh. A short, sharp, wrong-sounding laugh.
 
 “I'm not *swapping* anyone. Cross is my *friend*. He came all this way. He looked for me for *months*. I'm allowed to—I'm showing him the house. That's all. That's all it is.” ʸ
 
-“You sat with him at dinner,” says Mai. “Four dinners.” ᴹᵃ
+“Last night I thought you were going to bring that map down to his end of the table,” says Mai. “I made Momo move her things so you'd have the room.” ᴹᵃ
+
+Yuka remembers seeing Momo stand up with a roll of paper in one hand and a plate balanced on her wrist. She'd thought she was just going back for something. “We ended up explaining it to Rimuru. He was already there.” ʸ
 
 “Because he doesn't know anyone else—” ʸ
 
@@ -61,7 +63,7 @@ Then she can, and it comes out as a laugh. A short, sharp, wrong-sounding laugh.
 
 “That's not—” ʸ
 
-“And you didn't steal anything off Mau's plate,” says Mai. “Not once at those dinners.” ᴹᵃ
+“How long's it been since the two of you sat down to dinner together?” Mai asks. ᴹᵃ
 
 Yuka goes very still.
 
@@ -69,11 +71,11 @@ Yuka goes very still.
 
 Mai looks at her.
 
-“Everybody knows about that,” she says. “Everybody in this house has watched you steal off his plate for as long as anyone can remember. It's the most obvious thing in the world. And Shuna found his plate the night you came back from the walk, with your pickles set aside on your side, where they always are. Untouched. He'd left the table. You didn't see him go.” ᴹᵃ
+“I went down to ask if you'd help get the last boxes up here, the night you got back from the ridge. I waited long enough to hear about the log twice. Mau had already gone out and his dinner was still there. I know you didn't do it on purpose. But if he'd left the table to come upstairs with the boxes, would you even have seen him go?” ᴹᵃ
 
 Yuka opens her mouth.
 
-“She kept it,” says Mai. “The plate. Under a cloth. She didn't know what else to do with it.” ᴹᵃ
+Yuka goes back through the dinner in her head. She can see Milim leaning on the table because she wanted to know about the log. She can't see Mau getting up.
 
 There are footsteps on the new stairs.
 
@@ -91,21 +93,19 @@ Yuka looks from one of them to the other.
 
 “You *planned* this,” she says. ʸ
 
-“Nobody planned anything,” says Maki. “We just all saw the same thing at the same time and nobody else was going to say it.” ᴹᵃᵏ
+“Mai told me she was going to talk to you,” says Maki. “I wanted to ask you something, too.” ᴹᵃᵏ
 
 “Granny—” ʸ
 
-“Ori's been eating pickles,” says Maki. ᴹᵃᵏ
+“Did Ori say anything to you last night?” Maki asks. ᴹᵃᵏ
 
-Yuka stops.
+Yuka stops. “About what?” ʸ
 
-“Last night,” says Maki. “She left her place beside Frieren. She takes the chair beside him. Your chair. She moves it closer. And she eats the pickles off his plate. She hates them. She makes a face every time. She does it anyway.” ᴹᵃᵏ
+“She came over to sit with him. After dinner she asked me if I thought he was sleeping. She's not the one I'd expect to ask me that.” ᴹᵃᵏ
 
-Yuka didn't know that.
+“Was he?” ʸ
 
-She was at the other end of the table. She didn't see.
-
-“A child noticed he was sitting there alone,” says Maki. “Ori hates those pickles. She sat down and ate them anyway.” ᴹᵃᵏ
+“You'd be the person I'd ask.” ᴹᵃᵏ
 
 Yuka stands up.
 
@@ -129,7 +129,7 @@ They all look at him.
 
 He comes the rest of the way up. Slowly. He stands a little apart from his wife, nearer to his granddaughter.
 
-“I mean it,” says Yuta. “He's not blameless. He should have told you. He told you everything, after the gate. He promised. And now he's gone back to *it's fine* and putting things in his pocket and lying awake. We can all see that too. He's falling back into the old habits. The ones from before you.” ʸᵗ
+“I sat with him for a bit when Umaru put something on the other night,” says Yuta. “He was laughing. It was good to hear. Every time somebody came in he looked up to see if it was you. I asked about it and he offered me something to drink.” ʸᵗ
 
 Yuka stares at him.
 
@@ -137,7 +137,7 @@ Yuka stares at him.
 
 She opens her mouth.
 
-“You've spent most of your days catching Cross up,” says Yuta. “And you come to bed happy, and tell Mau about it, and fall asleep with him. I know you love that part. Does he get to tell you about his day too?” ʸᵗ
+“When you have him to yourself,” says Yuta, “what's the last thing he told you because *he* wanted you to hear it?” ʸᵗ
 
 “He could have—” ʸ
 
@@ -157,13 +157,7 @@ She doesn't know why she's shaking. She isn't frightened. There's nothing to be 
 
 Cross is her friend.
 
-Cross saw her in the corridor, with her hands shaking too much to open the door.
-
-Nobody else saw that. Nobody. Not Tsurugi. Not Granny or Grandpa, who had been gone for years by then. Not Mau, who didn't know her then, who has seen her frightened a hundred times since but never like that, never when she was the one dying.
-
-That's all it is. Someone who saw. She's allowed to have someone who saw.
-
-She's allowed.
+She remembers taking the extra bun up to the porch, how she'd got to tell Mau what Cross said and been glad he'd wanted to hear it. She wants to ask them how long they've been adding up all the minutes she spent with both of them. She knows it will come out cruel if she says it now.
 
 “You're wrong,” she says. ʸ
 
@@ -183,9 +177,7 @@ Yuta looks at her with that face.
 
 Yuka turns round, and goes down the new stairs, too fast, nearly missing the bottom one, and out of the workshop, and across the yard.
 
-She doesn't go to Cross.
-
-She'll remember that, later, and hold onto it. She doesn't go to Cross. She goes straight to the porch, where Mau is in the old chair with his tea, watching Ori and Beru at the posts, and she climbs into his lap without a word, and puts her arms round his neck, and her face in his shoulder, and holds on so tightly it must hurt.
+She goes straight to the porch. Mau is in the old chair with his tea, watching Ori and Beru at the posts. He sees her halfway across the yard and puts the tea down. She climbs into his lap without a word, puts her arms round his neck and holds on so tightly it must hurt.
 
 He puts his arms round her.
 
@@ -229,9 +221,7 @@ He has his other hand in his pocket.
 
 She doesn't notice that. She doesn't notice the shape of something folded under his fingers: a small square of paper, the kind Ori uses for notes, that she didn't see him fold this morning.
 
-She doesn't notice, either, across the yard by the training posts, Cross. Standing very still. Watching the porch.
-
-She closes her eyes.
+She takes his free hand and flattens it against the place at her back where she wants it. For a while he holds her exactly like that.
 
 On the windowsill upstairs, the notebook is open.
 

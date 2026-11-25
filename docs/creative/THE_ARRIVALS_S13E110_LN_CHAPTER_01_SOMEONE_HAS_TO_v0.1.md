@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 13
 **Source episode:** S13E110
-**Continuity state:** B+426–429 ("61"–"58"). Three days of the distance. By day Yuka is with Cross more and more: showing him the house, the orchard, the Fort, catching him up on years of her life, training with him in the yard because he's never seen Ten Shadows done properly. At night she is exactly as clingy as ever and believes everything is fine. Mau goes on as if nothing has changed. Ori notices before any adult says anything. At the third dinner, when Yuka is at the far end of the table again, Ori takes the empty chair beside her father, moves it six inches closer, and steals the pickles off his plate. Mau just enjoys it. She asks if everything is okay. "A lot in my head." "The duel?" "Partly." Ori leaves him a note under his cup the next morning.
+**Continuity state:** B+426–429 ("61"–"58"). Yuka trains with Cross and begins spending more of her days with him; her affection for Mau remains easy at bedtime. Mau follows through on cooking with Shuna. Rem asks him for help picking a song and Umaru keeps him for a movie. They make room for him without asking him to account for his feelings. Ori notices his empty chair and sits with him at a different dinner. She tries one of his pickles and Mau tells her she doesn't have to eat food she hates to keep him company. She asks if everything is okay. "A lot in my head." "The duel?" "Partly." Ori leaves him a note under his cup the next morning.
 
 *When: B+426 to the morning of B+429. Yuka writes "61", "60", "59" and then "58", one each morning.*
 
@@ -37,7 +37,7 @@ Then he asks to fight one.
 
 She lets him.
 
-Mau watches from the porch as the black dog goes for Cross and Cross meets it with his bare hands, long-limbed and wrong-jointed and very fast, and throws it, and it lands and turns and comes back, and Cross laughs: a short sharp bark of a laugh, the first one anyone in the house has heard from him.
+Mau watches from the porch as the black dog goes for Cross and Cross meets it with his bare hands, long-limbed and wrong-jointed and very fast, and throws it, and it lands and turns and comes back, and Cross laughs hard enough to lose his grip. The dog takes advantage of it.
 
 Yuka laughs too.
 
@@ -73,11 +73,69 @@ Everything is fine.
 
 She falls asleep. He lies awake.
 
-The second day is the same.
+The next day he's at the workshop when he smells dough warming near the stove. He takes the pencil from behind his ear and sets it next to Mai's level. She asks where he's going until she catches the smell too.
 
-The third day is the same.
+“Focaccia,” she says. “Bring a corner.” ᴹᵃ
 
-He goes on. That's what he's good at. He helps Mai finish the walls on the second floor. He goes through the next part of the grimoire with Frieren and Beatrice. Beatrice has put a finger over the word Frieren just read.
+“You know I promised to help make dinner. It's still at the stage where it isn't bread.” ᴹ
+
+“Then I can expect a *warm* corner.” ᴹᵃ
+
+In the kitchen, Shuna has the bowls laid out for the work she'd meant to do after putting the dough in. Mau washes his hands and asks how much of the afternoon she wants back.
+
+“What's the offer?” she says. ˢʰᵘ
+
+He puts a deep tray from the Shop on the counter. The paper over it smells of garlic and pepper. Shuna lifts a corner and looks underneath.
+
+“Is it good?” ˢʰᵘ
+
+“I was hoping you'd tell me. I thought we could keep the bread and do it in the same oven.” ᴹ
+
+There's chicken in the tray, already braised. Shuna puts a spoon into the sauce before he can find her a plate. She tastes it twice. Then she opens the icebox, pushes the covered bowl of cut peppers toward him, and asks him to put those in too.
+
+“Is that a yes?” ᴹ
+
+“Put the peppers in.” ˢʰᵘ
+
+He does. When she goes out to get rosemary, he keeps the oven door cracked with a folded cloth and watches for the edges to start catching. She's back with the rosemary and half the people she'd gone outside intending to eat with. They fit round the kitchen counter because there's no point in taking the bread to the table at the rate Mai is tearing it apart.
+
+Yuka has paint on her thumb from touching up the Fort sign. It gets on the handle of Mau's serving spoon when she takes it from him. He holds out his apron for her to wipe it off. She takes the apron strings and pulls him in first.
+
+“I was coming to get you,” she says. ʸ
+
+“For what?” ᴹ
+
+“I thought we'd all eat outside.” ʸ
+
+She has a piece of bread in her free hand. She splits it and gives him the end with the good crust. They get as far as the back step with their plates before Ori calls Yuka over to find a banner pole, and Mau gets up to make room for someone coming down the steps. By the time he sits again, it is three places farther along. He can see Yuka still tearing bits off the bread he gave her. He can't hear what she's saying.
+
+Rem sits down beside him with two folded pieces of paper on her plate.
+
+“Can you listen to something for me after dinner?” she asks. ᴿᵉ
+
+He lifts his plate to make room for the paper. She wants to know which of two arrangements she could ask the girls to try at the next practice. When they go to listen she gets him to sit with his eyes shut. He picks the one where he can hear the smaller voice all the way to the end. Rem plays that one again so he can tell her which bit lost him the first time.
+
+When he gets up to go, Umaru has his place on the other sofa covered in a blanket.
+
+“It's a very good movie,” she tells him, moving over just enough. ᵁ
+
+“Rem already told me it was terrible.” ᴹ
+
+“Rem doesn't have my commentary.” ᵁ
+
+He sits down. In the first ten minutes she tells him which man has stolen the car, stops it to show him what the car looked like before it was stolen, and asks if he can get her a soda while it's paused anyway. He produces two. The second makes her look at him with a gratifying amount of suspicion.
+
+“I'm having one,” he explains. ᴹ
+
+“I was going to give you one.” ᵁ
+
+“You were going to let me hear you open it.” ᴹ
+
+She hits play and makes it almost to the end of the car chase before asking him how much he thinks a good custom horn costs. From the other end of the sofa, Rem says she left the room to get away from this exact question. Mau slides her the second soda. She takes a sip and gives it back to him without looking away from the screen. Yuta comes in during the second chase and pulls up a chair. He takes the glass of water Mau offers without asking a second time who Mau was looking for at the door.
+
+* * *
+
+The day after, he goes through the next part of the grimoire with Frieren and Beatrice. Beatrice has put a finger over the word Frieren just read.
 
 “That means *return*, I suppose.” ᴮᵉᵃ
 
@@ -101,17 +159,15 @@ When Rimuru asks about the next talks, he gives him the date and the names. When
 
 He says *it's fine* when Shoko asks how he's sleeping.
 
-He says *it's fine* when Ciel, very quietly, says she's noticed he's stopped telling her things.
+Ciel asks if he wants her to keep the sense turned down when he comes in for dinner. He says he can manage. A minute later he asks her to keep it where Noise left it the other night. She does. He means to thank her aloud and only gets as far as thinking it.
 
-He doesn't notice he's saying it.
-
-Ori notices.
+Ori notices other things.
 
 He doesn't know when. That's the thing about Ori; you never know when she starts noticing. She doesn't say anything. She just watches. At breakfast. In the yard. At the long table. Her eyes going from her father to Yuka, at the far end, and back.
 
 On the third night, at dinner, Yuka sits at the far end again.
 
-Not on purpose. She came in late from the orchard with Cross and Maru, mid-conversation, something about Maru's people and how they build, and the far end was where the empty chairs were. She waves at Mau down the table. She blows him a kiss. She sits down and goes on talking.
+She comes in with Cross and Maru, comparing the places they'd considered for the river crossing. One of the drawings is already spread across the far end of the table. Yuka catches Mau's eye, blows him a kiss and goes over to stop Cross putting his wet cup on Rimuru's notes.
 
 The chair beside him is empty.
 
@@ -131,7 +187,7 @@ She sits.
 
 She looks at his plate.
 
-It's stew again, and the bread Shuna makes, and on the side nearest the chair, the little sharp pickles, set aside in a small pile. The way they always are.
+It's grilled fish, with a spoonful of rice and two of the little sharp pickles left at the bottom of the jar. He could have finished them while he was waiting for his fish. He moved them to the edge instead.
 
 Ori looks at the pickles.
 
@@ -145,9 +201,7 @@ She doesn't look at him. She takes another one.
 
 She doesn't even like them. He knows she doesn't. She makes a face every time Shuna puts them out. She's making the face now, very slightly, chewing, trying not to.
 
-She takes a third one.
-
-Something in his chest that has been held very tight for three days lets go, just a little, and he hears himself laugh. Not loudly. Not so anyone else at the table turns round. Just a breath, out through his nose. The first real one in three days.
+She reaches for the bread and eats half a slice standing up on the rung of her chair. He hears himself laugh. She has a hand held under her chin to stop him seeing her chew fast enough to get rid of the taste.
 
 Ori hears it. She looks up at him, finally. Pleased with herself.
 

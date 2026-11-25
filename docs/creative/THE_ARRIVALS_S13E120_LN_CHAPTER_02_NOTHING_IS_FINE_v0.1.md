@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 4
 **Source episode:** S13E120
-**Continuity state:** B+435, late morning. The house expected to wait all day. Ciel's report reaches Rimuru: done. Mau and Makima are back on the hill road before anyone has finished believing it. Gojo, at the return point, sees his face and doesn't joke. On the way down the weight lands all at once: the Purple, the compression two mornings ago, two nights without sleep, and the last thing he did. He doesn't go to the porch. He doesn't go to Yuka. Before he can think, he goes straight to the clinic. Makima sits on the clinic step; Noise holds her body there. Mau tells Shoko everything at once, the whole bundle together, though she already knows much of it: everything he had closed, Cross, the room with Frieren, and the Final Trial, when he heard Yuka's "If you won't let me be with you when it hurts, I don't know how to stay in this" as leaving and spent ~368 local days (one day outside) working out how to say goodbye. Shoko sees him nodding off, bandages his split palms, makes him drink water and gives him something to sleep properly. He holds her hand and asks how it's going with Gojo. Before he falls asleep he asks her: if Yuka or Ori ask, tell them the truth. Nothing of "it's fine". He sleeps holding Shoko's hand.
+**Continuity state:** B+435, late morning. The house expected to wait all day. Ciel's report reaches Rimuru: done. Mau and Makima are back on the hill road before anyone has finished believing it. Mau falls asleep against Makima on the road. She carries him as far as the return point, where Gojo takes his weight and helps him walk once he's awake. The weight of the Purple and the quarry's compression catches up with him after two nights without sleep. He doesn't go to the porch. He doesn't go to Yuka. Before he can think, he goes straight to the clinic. Makima sits on the clinic step; Noise holds her body there. Mau tells Shoko everything at once, the whole bundle together, though she already knows much of it: everything he had closed, Cross, the room with Frieren, and the Final Trial, when he heard Yuka's "If you won't let me be with you when it hurts, I don't know how to stay in this" as leaving and spent ~368 local days (one day outside) working out how to say goodbye. Shoko sees him nodding off, bandages his split palms, makes him drink water and gives him something to sleep properly. He holds her hand and asks how it's going with Gojo. Before he falls asleep he asks her: if Yuka or Ori ask, tell them the truth. Nothing of "it's fine". He sleeps holding Shoko's hand.
 
 *When: B+435. Late morning. Rimuru has read "Done" out loud twice, and the second time nobody laughed.*
 
@@ -33,21 +33,59 @@ Makima, beside him, has his elbow. Not his hand. His elbow, the way you'd hold s
 
 “You said that at the top.” ᴹᵏ
 
-He doesn't answer. He keeps walking.
+He keeps walking. For a while he can work out where to put his next foot from the way the gravel moves under the other one. Then the grass comes in across the road and gets both of them wet to the knee. He steps off it a little too quickly. Makima tightens her hand at his elbow before he can put a split palm down to catch himself.
+
+“How far to Gojo?” he asks. ᴹ
+
+“One bend. You can see the post from here.” ᴹᵏ
+
+He lifts his head. There's a fence post a little below them with an old rusted staple in it. The one at the turn has two staples. He can see the second one plainly the next time his eyes open.
+
+“Wait,” he says. ᴹ
+
+They stop. He has her sleeve between two fingers. He means to use it to keep from swaying while Ciel shows him where he is. Instead his forehead comes down against Makima's shoulder. His fingers let go of the sleeve in stages. By the time his hand falls he's asleep.
+
+His next memory is of her arm underneath his knees and the fence going past behind her.
 
 * * *
 
-Gojo is at the return point, at the bend in the road above the orchard, where he said he'd be.
+He comes round enough to feel the walking. Each step lifts him a little in her arms. He can feel the place his boot keeps knocking against her leg. He tries to pull it in. She shifts her arm so he can stop trying.
 
-He's standing with his arms folded and his blindfold up, and when he sees them come round the bend he unfolds his arms and doesn't move for a moment, as if he's checking that what he's seeing is real.
+“Did I fall?” he asks. ᴹ
 
-“That was fast,” he says. ᴳ
+“No. You fell asleep.” ᴹᵏ
 
-He says it lightly. He's ready to make it a joke. Mau can see the joke in him, sitting there, ready: *you could have at least made it look hard*, or *I had a whole speech prepared*, or something about the sweets.
+“How long have you been carrying me?” ᴹ
 
-Then Gojo looks at his face, and the joke goes away.
+“I've got about twelve steps left before he says something.” ᴹᵏ
 
-He doesn't say anything else. He just falls in on Mau's other side, the left, the bad side, close enough to catch him if he goes and far enough that it doesn't look like that's why he's there, and the three of them walk down through the orchard together.
+He turns his head. It takes her a little more than twelve. Gojo comes off the bank at the return point with his blindfold pushed up on his head and his mouth open. The first thing out of it is Mau's name. He says it again when he sees Mau's eyes are open, this time like a question.
+
+“I can get down,” says Mau. ᴹ
+
+Gojo puts a hand on his shoulder. “Hang on. How's she got you?” ᴳ
+
+Makima shows him with a small lift of the elbow under Mau's back. Gojo comes in from that side while she lowers him. His feet meet the road so gently he doesn't know he's standing until he can feel a stone through the worn place in his boot. Then he notices he's holding Gojo's forearm. Gojo has turned it so Mau can lean on the sleeve without having to close his fingers.
+
+“That's it,” says Gojo. He waits to feel how much of Mau's weight is on him. “Let me have the rest for a bit.” ᴳ
+
+It's a lot more than Mau would have said it was. Gojo takes it. Makima keeps her hand at Mau's other elbow and eases him forward when he moves.
+
+They go about as far as the first tree. Mau stops there. He knows where he is now. He used to hear the gate from here, before he could see anyone coming out to hold it for him. He's expecting a latch to lift. A shoe moving to make room for his. The sound gets tangled up with a boot he listened for at the quarry until he heard every other pair get there.
+
+“Take me to Shoko,” he says. ᴹ
+
+Gojo glances back down the path to the house. “All right. I'll go in with you if you want.” ᴳ
+
+“Just to the step.” ᴹ
+
+“Step it is.” ᴳ
+
+Mau takes another breath against his sleeve. “Could somebody tell Ori I'm coming home? Before she sees everybody run.” ᴹ
+
+*I'll ask Rimuru to go to her first*, says Ciel. ᶜ
+
+He lets her do it while he watches Gojo step over a root. He puts his own foot in the same place. Makima reaches over and moves the collar that got folded under his neck while he slept. When he turns to thank her she has her eyes on another root, one he hasn't seen yet. She waits for him to get across it.
 
 Kamish's tree is empty. The dragon is folded away in the dark. Mau can feel him there, warm and pleased with himself. He'll have to go and lie under the tree later and let Ori climb on him and tell him he was good.
 
@@ -57,7 +95,7 @@ Later.
 
 The house sees them before they reach the gate.
 
-He hears it before he sees it. Somebody on the porch shouting, then lots of somebodies, then feet. Then he's out from under the trees and there they all are, coming off the porch and across the yard, Rimuru at the front, Fern, Stark, Umaru with a dressing gown on over everything, Mai with her arms folded too tight. Frieren, not running, walking very fast with her staff. Beru at the top of the stairs by the door with Ori's hand in his claw, holding her back, because Ori is trying to come down the steps and Beru isn't letting her until it's safe.
+He hears it before he sees it. Somebody on the porch shouting, then lots of somebodies, then feet. Then he's out from under the trees and there they all are, coming off the porch and across the yard, Rimuru at the front, Fern, Stark, Umaru with a dressing gown on over everything, Mai with her arms folded too tight. Frieren, not running, walking very fast with her staff. Beru at the top of the stairs by the door, with Ori's hand in his claw. Rimuru told her he was coming, and she has both slippers on, which means somebody got her to stop long enough to put them on. She calls to him from the stairs. He lifts his hand far enough to show her he heard.
 
 And in the middle of the yard, on the grass, where he left her.
 
@@ -79,7 +117,7 @@ He can't go to her. Not like this. Not with his hands bleeding and his legs goin
 
 So he doesn't think.
 
-He turns left, past the training posts, away from the porch, away from the yard, away from the middle of the grass where his wife is standing in his shirt, and walks very steadily, with Makima at one elbow and Gojo a step behind, straight to the clinic door.
+He turns left, past the training posts and toward the clinic. His knee goes soft on the first step. Gojo takes him under the arm and keeps walking when Mau can walk again. At the door Mau has to look down to find the step he asked them to take him to.
 
 He doesn't look back.
 
@@ -91,7 +129,7 @@ Shoko is in the doorway.
 
 Of course she is. She was in the clinic doorway this morning when he left, with an unlit cigarette. She's in the doorway now, with the same cigarette, still unlit, and she looks at him coming across the yard, and then she looks past him, once, at the middle of the grass, and then back at him.
 
-She doesn't say anything. She steps aside.
+She holds the door. Gojo waits until Mau gets both feet across the sill. For a second Mau still has his sleeve. Gojo stays where he is until Mau is the one who lets go.
 
 He goes in.
 

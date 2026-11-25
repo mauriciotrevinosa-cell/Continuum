@@ -12,6 +12,8 @@ The chapter IDs and revised reading order stay in place. Optional ideas about ta
 
 ## Expanded clinic reconciliation
 
+After the basin at B+435, Mau falls asleep standing against Makima. She carries him to the bend where Gojo is stationed, and Gojo takes his weight when he asks to walk again. Mau asks for Shoko and asks Ciel to get word to Ori before the house comes out. Yuka sees Gojo support him across the yard; she hears the rest of what Mau wants her to know in the clinic.
+
 V84 adds *Room for Her Things* after *Stay*. The chapter takes place the same evening. Mau goes up for a shirt and clears his drawer, having decided on his own that Yuka would be more comfortable if he stayed elsewhere. When Yuka catches him, he asks about the quarry and tells her he kept turning toward the place he saved. She owns her decision to take the boots off. He returns to the clinic with their personal line still closed, and his conversation with Ciel, Noise, DIO and Makima follows. The afternoon with Ori in *Battle Hoodie* gives Yuka a chance to hear what Ori thought she had to fix. Ori's map, Mau's shirt and the drawer carry through to the apology in #14. The dates and original document IDs stand.
 
 ## First reading batch

@@ -19,7 +19,7 @@ And then he came out from under the trees with Makima at one elbow and Gojo at t
 
 He looked right at her. Across the whole yard. She saw his face. She saw something in it go, like a rope going slack.
 
-And then he turned left and walked past the training posts to the clinic and went in and the door closed.
+And then he turned left, past the training posts. When his knee gave, Gojo came up underneath his arm so fast it looked as if he knew exactly when it was going to happen. Yuka watched his feet until he got over the clinic step. He had Gojo's sleeve in his hand right up to the door.
 
 He didn't come to her. He didn't even try.
 

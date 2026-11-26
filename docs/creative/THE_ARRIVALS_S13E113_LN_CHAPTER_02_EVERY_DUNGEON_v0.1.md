@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 20
 **Source episode:** S13E113
-**Continuity state:** B+430, sunset, in the yard. The break. Yuka sees Makima walking a step behind Mau on the hill road, smells the dungeon on them, and understands where he's been all day: a dungeon, without telling her, with Makima, after she promised at the quarry to go with him into every one. She's furious and frightened. Mau starts to explain: he didn't want to bother her, she was with Cross. She hears "with Cross" and gets defensive before he can finish, and it turns into an attack. She says things she can't take back, and she brings up Makima: he'd rather have her; Yuka had *started to trust her*. Makima, stricken, takes a step and ends up half behind Mau, like Power behind Denji. That breaks Yuka. She says her last thing and walks off with Cross toward the orchard. Mau stands in the yard with the S1 belief confirmed: stepping away was the right thing, she has someone else. The house sees all of it. No physical fight.
+**Continuity state:** B+430, sunset, in the yard. The break. Yuka sees Makima walking a step behind Mau on the hill road, smells the dungeon on them, and understands where he's been all day: a dungeon, without telling her, with Makima, after she promised at the quarry to go with him into every one. She's furious and frightened. Mau starts to explain: he didn't want to bother her, she was with Cross. She hears "with Cross" and gets defensive before he can finish, and it turns into an attack. She says things she can't take back, and she brings up Makima: he'd rather have her; Yuka had *started to trust her*. Makima, stricken, takes a step and ends up half behind Mau, like Power behind Denji. That breaks Yuka. Mau says he loves her when she turns to leave. Yuka hears him, tells him she knows, and asks Cross to walk with her. Mau stands in the yard with the S1 belief confirmed: stepping away was the right thing, she has someone else. The house sees all of it. No physical fight.
 
 *When: B+430. Sunset. The light is going long across the yard. Most of the house is on the porch or at the windows, because Yuka has been waiting all afternoon and everyone knows it.*
 
@@ -189,17 +189,25 @@ She steps back.
 
 She turns round.
 
-She doesn't go up the steps. She doesn't go into the house. She goes across the yard, fast, toward the training posts. Toward Cross, standing there with his arms at his sides, watching.
+“I love you, Yuka.” ᴹ
 
-She doesn't stop when she reaches him.
+He hears his own voice and knows he's said it out loud because she stops. He hadn't gotten as far as thinking he would say her name. All of it has come out at the volume he'd use if she were standing close enough to hear him from the other side of their pillow.
 
-She walks past him, toward the orchard, toward the two old trees and the path beyond them. Shoko comes down a step.
+She looks back. He sees her lower her shoulders, as if she's known for a while that he would say it, and now she's heard him she can stop waiting.
+
+“I know you do, Mau,” she says. ʸ
+
+He waits for the rest in the time it takes her to turn back. He knows how quickly she usually says it. Sometimes he hasn't finished before she does.
+
+“Cross,” she says. “Will you walk with me?” ʸ
+
+She's looking at Cross when she asks. Mau sees him get one foot off the ground before she even starts across the yard. She leaves him room to come up beside her. Neither of them looks back to ask whether Mau has something else to say.
+
+Shoko comes down a step.
 
 “Stay on the grounds tonight,” she says. “We'll talk when you can hear it.” ˢʰ
 
-Yuka gives a sharp nod without turning round. And Cross looks at her going. And then looks at Mau, across the yard, for one long moment.
-
-And then turns, and follows her.
+Yuka gives a sharp nod without turning round. Cross catches up to her at the last training post. Mau can't hear what Cross says. He can hear Yuka answer him.
 
 Mau stands in the yard.
 

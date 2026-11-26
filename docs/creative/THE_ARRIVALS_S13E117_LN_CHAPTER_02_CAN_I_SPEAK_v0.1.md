@@ -169,7 +169,7 @@ She takes a breath.
 
 “I want one minute where I can sit by him and say what I did before I ask for anything,” she says. ʸ
 
-Dabura's knees don't fit under the long table. By midday Rimuru has asked for two chairs, a bench and finally for somebody to take the table extension out so they can push one of the legs farther down. Yuka can carry the extension. Before she takes her end, she fishes the band out of her pocket. She had it in her hand after Mau told her he loved her last night. She hadn't been able to do more than hold it. Now she works it past her knuckle. Her hand still shakes when she picks up her end of the table.
+Dabura's knees don't fit under the long table. By midday Rimuru has asked for two chairs, a bench and finally for somebody to take the table extension out so they can push one of the legs farther down. Yuka can carry the extension. Before she takes her end, she fishes the band out of her pocket. She had it in her hand after she finally told Mau she loved him back last night. She hadn't been able to do more than hold it. Now she works it past her knuckle. Her hand still shakes when she picks up her end of the table.
 
 She goes in backward with Shizue calling where the table ends and meets Ori going the other way with a stack of cups at her chin.
 

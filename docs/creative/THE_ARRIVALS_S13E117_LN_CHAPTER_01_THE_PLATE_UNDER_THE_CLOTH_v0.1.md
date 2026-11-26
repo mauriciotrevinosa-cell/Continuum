@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 31
 **Source episode:** S13E117
-**Continuity state:** B+433, Yuka viewpoint. Cross talks her out of going to the quarry after she has put her boots on. Ciel relays what she can about the duel. Ori tells Yuka she saw Mau waiting at the steps and reminds her what she promised. Shuna tells Yuka what she saw on the night of the walk and helps her set aside something fresh for Mau. He says he loves her when she turns to give him space. They remain hurt and apart that night.
+**Continuity state:** B+433, Yuka viewpoint. Cross talks her out of going to the quarry after she has put her boots on. Ciel relays what she can about the duel. Ori tells Yuka she saw Mau waiting at the steps and reminds her what she promised. Shuna tells Yuka what she saw on the night of the walk and helps her set aside something fresh for Mau. Yuka finally says she loves him back after what she left unanswered in the yard. They remain hurt and apart that night.
 
 *When: B+433. While Mau is on his way to the quarry, through the first evening after the duel.*
 
@@ -199,16 +199,14 @@ Yuta comes in at the other door looking for Shoko. He sees them and waits there 
 
 She turns. She's almost made it out of the room.
 
-“I love you,” says Mau. ᴹ
-
-There is a small thud behind her. He has put his cup down. It sounds as if he's only just worked out he was holding it.
-
-She looks back. His hand is still round the cup and his eyes are on her. She could cross the room and be in his lap before she had to say anything. In the time it takes her to think that she remembers the lace round her finger at the back door. She wants to be able to tell him what happened between putting the boot on and deciding to take it off. The words she has right now are smaller.
+The last time she said something like that to him he answered before she'd made it as far as the training posts. She stops with one hand on the frame. There is a small thud behind her. He has set his cup down. She has time to think he'll say it again. This time he doesn't.
 
 “I love you, too,” she says. ʸ
 
-He nods. They both heard it.
+She has to look back to say the last word. His hand is still round the cup. For a moment all he does is loosen his grip. Then he looks at her and nods.
 
-She leaves him the room she'd offered him. By the foot of the stairs she has to put one palm against the wall. On the other side of it she hears him ask Yuta if he knows where Shoko is. His voice doesn't hold on the second time he says her name. Yuka stands there another minute, because he said her own words perfectly clearly and she doesn't know yet how to go upstairs and lie down without him.
+It makes her want to sit in his lap so badly she has to keep hold of the frame. If she crossed the room now he might let her. He might do it because he's missed her as much as she's missed him. She still hasn't told him what happened between putting the boot on and deciding to take it off.
+
+She leaves him the room she'd offered him. By the foot of the stairs she has to put one palm against the wall. On the other side of it she hears him ask Yuta if he knows where Shoko is. His voice doesn't hold on the second time he says her name. She waits in the hall until she hears Yuta get up and go with him.
 
 Then she goes up and opens the curtains on his side of the room. The last of the light is still on the hills. Much later she hears Ori on the landing asking Mau if he wants to come to her room tonight. He asks if she has her pillow ready. Ori says she has two.

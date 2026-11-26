@@ -117,7 +117,7 @@ She puts the notebook down on her knees and looks at him.
 
 “I'm sorry, Mau. I'm sorry I made you think I wanted you gone. I want you here.” ʸ
 
-She twists the notebook so he can see the flat of it and then leaves it alone. “When you told me you loved me, after the quarry, my first thought was that I could go straight back to you and you'd hold me. I needed to be able to do this part, too. I don't want you to have to give up the hurt before I've even asked where it is.” ʸ
+She twists the notebook so he can see the flat of it and then leaves it alone. “I heard you in the yard,” she says. “I knew what you were waiting for and I answered something else. When I finally said it back after the quarry, I wanted to go straight to you and have you hold me. I needed to be able to do this part, too. I don't want you to have to give up the hurt before I've even asked where it is.” ʸ
 
 * * *
 

@@ -217,9 +217,13 @@ Shoko's hands have slowed down on his palm.
 
 He looks at his hands in hers.
 
-“I told her I loved her after the quarry,” he says. “That came out. I don't know why that part was easy.” ᴹ
+“I told her I loved her in the yard,” he says. “She said she knew. Then she asked Cross to go with her.” ᴹ
 
-“Because it was true,” says Shoko. “You've probably known how to say that one for a long time.” ˢʰ
+Shoko stops with the cloth folded across both her fingers. She waits for him to turn his other hand over himself.
+
+“After the duel, when she said it back, I heard that too,” he says. “I thought I'd be able to ask her to sit down if she said it. I could barely ask Yuta to get you.” ᴹ
+
+Shoko takes his other hand once he's got it open. “He heard you,” she says. “He came straight over.” ˢʰ
 
 He tries to turn his hand over. She gets there before he can.
 
@@ -245,7 +249,7 @@ And yesterday it was back on her finger. At the long table, carrying the extensi
 
 He opens his mouth to tell Shoko.
 
-Nothing comes. Not because there aren't words. He has the words. *She took her ring off in front of me.* Seven of them. He can't make them go in the air between him and Shoko, where they'd be true out loud, and Shoko would ask what it meant, and he'd have to find out whether he knows.
+Nothing comes. Not because there aren't words. He has the words. *She took her ring off in front of me.* Nine of them. He can't make them go in the air between him and Shoko, where they'd be true out loud, and Shoko would ask what it meant, and he'd have to find out whether he knows.
 
 He swallows it. It goes down like the rest of the things he swallows, and sits.
 

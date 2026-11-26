@@ -223,9 +223,27 @@ It comes out very quietly. Very level.
 
 He hears her stop.
 
-Yoru is watching all of it.
+Yoru looks past him at Yuka.
 
-Her eyes go past him, to the doorway, to Yuka. They stay there for a moment. Something moves in them. Interest. Pleased interest. The look of someone watching a piece move on a board exactly the way they thought it would.
+“Why are you all the way back there?” she asks. “By the sea you were practically in his lap.” ʷᵈ
+
+Yuka's fingers slip off the doorframe.
+
+“I kept expecting you at the quarry,” Yoru says. “Every time he looked up at that ledge, I thought, *oh, there she is*.” ʷᵈ
+
+For a second Mau can see the ledge from where he stood with Dabura across from him. There'd been a patch of pale stone at the lip. He'd picked it out before the first exchange so he could find her fast.
+
+Yoru turns the smile on him.
+
+“Beat me one day and I might consider marrying you. You wouldn't have had to look twice for me.” ʷᵈ
+
+“I'm married to Yuka.” ᴹ
+
+The answer is out before she can finish smiling. He keeps his eyes on Yoru. At the table he'd been so sure that when Yuka reached across him it was just for a piece of potato.
+
+Yoru watches the doorway for another beat.
+
+“When are they coming through?” Mau asks. ᴹ
 
 “Morning,” says Yoru. “They'll be through by morning. The ridge past your daughter's ruins. You'll feel them. You feel everything now.” ʷᵈ
 

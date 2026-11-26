@@ -405,7 +405,7 @@ He thinks about where she was standing when Yoru arrived. Exactly where she'd sa
 
 “I wanted to be there,” she says. ʸ
 
-She said she was sorry in the clinic. He can still hear what she left him standing with in the yard, and for a second he'd like to ask her if she knew then what she'd be sorry for. Ori's dragging a chair up to the table, and the sound makes him realise he's been waiting for someone to give him a reason to ask later. He takes Yuka's hand before it occurs to either of them to move it.
+She said she was sorry in the clinic. He can still hear what she left him standing with in the yard, and for a second he'd like to ask her if she would have put it back on even if he'd stopped coming to look for her. Ori's dragging a chair up to the table, and the sound makes him realise he's been waiting for someone to give him a reason to ask later. He takes Yuka's hand before it occurs to either of them to move it.
 
 He kisses the corner of her mouth when she leans back to see his face. She follows him up and gets a better one.
 

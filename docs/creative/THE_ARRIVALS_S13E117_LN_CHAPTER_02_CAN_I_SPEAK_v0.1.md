@@ -141,9 +141,19 @@ Yuka stands at the top of the stairs. In the light from the windows Momo said sh
 
 Mai puts down her tool.
 
-“It was still my choice,” she says. “I know it was. At the time it felt like the only way I wasn't going to embarrass myself. And then he came home and wanted to know if I'd remembered he'd saved me a place.” ʸ
+“It was still my choice,” she says. “I had his map under my hand. He'd come to find me himself, after I took my ring off. And I got to stand there with Cross and act like I was still waiting for him to ask.” ʸ
 
-She's saying it all without looking at either of them. She makes herself look up for the next part. “I'm still angry he left without telling me before the gate. I thought I had to stop being angry before I could go talk to him. I think I was using that as another reason to wait.” ʸ
+Mai looks down at Yuka's hand. Yuka takes the band out of her pocket before anybody asks. She holds it between her first finger and her thumb, in exactly the grip she used to get it off.
+
+“I keep getting as far as telling myself he left without telling me,” she says. “I'm still angry about the Gate. That makes it a very easy place to start. But I was looking at him when I did this. I waited till he saw me.” ʸ
+
+“Did you want to take it off for good?” asks Maki. ᴹᵃᵏ
+
+Yuka shakes her head. She's been able to answer that question all this time. It doesn't tell her what she meant to make him think.
+
+“I wanted him to ask me to put it back on,” she says. “Last night he came home and asked if I remembered the place instead. I said yes and then I let him sit there with that.” ʸ
+
+She loses her grip on it. Mai turns her palm up in time to catch it against the edge of the bench. She gives it back when Yuka puts her hand out. By then Yuka has had a chance to see what it looks like to have it in someone else's hand.
 
 Maki looks at her granddaughter for a long time.
 
@@ -157,19 +167,15 @@ Over Maki's shoulder, Mai is looking at her.
 
 “What are you going to do?” says Mai. ᴹᵃ
 
-Yuka thinks about it.
+Yuka thinks about it. “Ask if I can sit with him at supper. I keep thinking I'll see him alone somewhere and finally have an hour for all of it.” ʸ
 
-“Not talk,” she says. “Not first.” ʸ
+“How much time do you actually need?” asks Mai. ᴹᵃ
 
-Mai frowns.
+“I can start with a minute. I can tell him one true thing without making him tell me how much it hurt first.” ʸ
 
-“If I ask him,” says Yuka, “he'll tell me. Everything. What I did. The plate. The chair. All of it. He'll make himself say every ugly thing, because he promised.” ʸ
+She puts the band back in her pocket while she can still feel it in her palm.
 
-She takes a breath.
-
-“I want one minute where I can sit by him and say what I did before I ask for anything,” she says. ʸ
-
-Dabura's knees don't fit under the long table. By midday Rimuru has asked for two chairs, a bench and finally for somebody to take the table extension out so they can push one of the legs farther down. Yuka can carry the extension. Before she takes her end, she fishes the band out of her pocket. She had it in her hand after she finally told Mau she loved him back last night. She hadn't been able to do more than hold it. Now she works it past her knuckle. Her hand still shakes when she picks up her end of the table.
+Dabura's knees don't fit under the long table. By midday Rimuru has asked for two chairs, a bench and finally for somebody to take the table extension out so they can push one of the legs farther down. Yuka can carry the extension. Before she takes her end, she fishes the band out of her pocket. She had it in her hand after she finally told Mau she loved him back last night. She hadn't been able to do more than hold it. Now she works it past her knuckle because she still wants to be his wife. She's going to have to tell him that out loud. The band goes all the way down and looks exactly like it did before. She knows enough now to let him decide what he sees when he looks at it. Her hand still shakes when she picks up her end of the table.
 
 She goes in backward with Shizue calling where the table ends and meets Ori going the other way with a stack of cups at her chin.
 
@@ -203,11 +209,7 @@ What's right is small.
 
 Dinner. Her chair. Six inches closer. His plate.
 
-That's all. That's the whole plan. She'll sit beside him, where she always sat, and she'll reach over, the way she always reached, and she'll steal something off his plate. And he'll know. He'll know without her saying anything. Because it's theirs. Because it belonged to their ordinary dinners long before anyone else noticed its absence.
-
-And then, after, when he knows, she'll say it. The ugly thing. All of it.
-
-But first, the plate.
+She can start by sitting beside him. If he sets something off to one side of his plate, she wants to take it. She wants to be allowed to still do the small thing they used to do at dinner. It won't tell him why she took the band off. When they're done eating, she can ask for that minute.
 
 The talks end at dusk.
 

@@ -201,7 +201,13 @@ Mau looks at the cloth over the plate. She sees him take one breath, and another
 
 “Yes.” ʸ
 
-He lifts the cloth. She wishes she could take the yes and put a whole sentence after it. That she'd decided he didn't want her near him. That she was still angry about the door and couldn't imagine standing up there with everybody asking why it was shut. That there was a part of her standing by the steps all morning, holding a boot by the heel.
+He lifts the cloth. She can see where the edge of a cup put a round mark on that hand. The band on his finger breaks the line of it. She looks down before he can see her looking.
+
+She could tell him she was still angry about the Gate. She had the words ready when she was getting his plate. They'd have been an answer to why she hadn't wanted to go. He asked whether she remembered he saved a place.
+
+She had. She even remembers where he erased a line on the map so there'd be no chance she'd go up the wrong side. When he drew it for her, he'd already watched her take the ring off. She hadn't had to reach for him or do a single thing to make him come looking for her with it.
+
+If she starts with the Gate now, he'll sit there and let her tell him how hard he'd made it to come. He can hardly keep his eyes open and he'd still sit there for the whole thing. She keeps her hand on the cloth just long enough to see what it's touching, then lets the plate go.
 
 Yuta comes in at the other door looking for Shoko. He sees them and waits there without asking them to move. Mau puts his hand flat on the table, and Yuka notices how hard he's working to keep his eyes open.
 
@@ -219,4 +225,6 @@ It makes her want to sit in his lap so badly she has to keep hold of the frame. 
 
 She leaves him the room she'd offered him. By the foot of the stairs she has to put one palm against the wall. On the other side of it she hears him ask Yuta if he knows where Shoko is. His voice doesn't hold on the second time he says her name. She waits in the hall until she hears Yuta get up and go with him.
 
-Then she goes up and opens the curtains on his side of the room. The last of the light is still on the hills. Much later she hears Ori on the landing asking Mau if he wants to come to her room tonight. He asks if she has her pillow ready. Ori says she has two.
+Then she goes up and opens the curtains on his side of the room. The last of the light is still on the hills. She takes the ring out of her pocket. She could have had it on when he came through the back door. It matters to her now that he asked her about the place without her being able to show him anything on her hand.
+
+She sits on the edge of the bed with it closed in her palm. She can feel exactly where it would go if she put it on. She can't bear the thought of him coming upstairs and seeing that she'd done it while he ate, as if putting it back would tell him he could stop feeling whatever he'd felt when it came off. Much later she hears Ori on the landing asking Mau if he wants to come to her room tonight. He asks if she has her pillow ready. Ori says she has two.

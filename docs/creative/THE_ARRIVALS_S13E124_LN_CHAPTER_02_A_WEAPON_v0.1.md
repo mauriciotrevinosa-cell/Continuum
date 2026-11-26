@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 15
 **Source episode:** S13E124
-**Continuity state:** B+440 ("47"), the same afternoon, between Mau's two trips; Yuka's point of view. Mau is home but inside, in DIO's room inside him; his body sits in the clinic chair with his eyes closed. Makima, whose body can't go far from his, is free in the house. Cross finds Yuka on the orchard wall and tries: Mau went to a queen this morning, came back, and still went to someone else instead of her; he and Maru are going north soon, and she doesn't have to wait in doorways. Yuka calls her wheel. It turns once over her head, ready to throw hands. She sets the limit: she's grateful for what he saw then, and always will be, but she sees now that he's using it as a weapon to pull her away from her husband, and she won't let it be used that way again, by him or by herself. Then she hears herself: she is as afraid of losing Mau as she was that day in the corridor, or more, because she had already imagined tomorrow with him, a family, a little brother or sister for Ori. Maru takes Cross away. Makima, who heard the wheel, comes and sits on the wall, and tells Yuka what Mau felt and how to help him properly. Mau gave Shoko leave for Yuka to know everything, so this is a legal grey area, and Makima chooses to stand in it.
+**Continuity state:** B+440 ("47"), the same afternoon, between Mau's two trips; Yuka's point of view. Mau is home but inside, in DIO's room inside him; his body sits in the clinic chair with his eyes closed. Makima, whose body can't go far from his, is free in the house. Cross finds Yuka on the orchard wall and tries: Mau went to a queen this morning, came back, and still went to someone else instead of her; he and Maru are going north soon, and she doesn't have to wait in doorways. Yuka calls her wheel. It turns once over her head, ready to throw hands. She sets the limit: she's grateful for what he saw then, and always will be, but she sees now that he's using it as a weapon to pull her away from her husband, and she won't let it be used that way again, by him or by herself. She takes responsibility for removing her band in Mau's sight and staying away after he came to ask her himself. Maru takes Cross away. Makima, who heard the wheel, sits with Yuka on the wall and tells her about finding him during the panic attack before he left for the wild Gate. Mau gave Shoko leave for Yuka to know everything, so this is a legal grey area, and Makima chooses to stand in it.
 
 *When: B+440. Mid-afternoon. Ori has drawn a bird beside "47".*
 
@@ -133,35 +133,25 @@ The wheel hangs above her. Cross has backed up. She can say the rest without tak
 
 * * *
 
-She hears herself.
+“You'd already taken it off,” says Cross. His eyes drop to her hand. “I saw it was gone when you came out to move the chairs. I thought you'd made up your mind.” ᶜʳ
 
-That's what happens next. She doesn't expect it. She's standing in the orchard with the wheel turning over her head and Cross white-faced in front of her, and she's saying all of this to him, and somewhere in the middle of it she starts to *hear* it. Her own voice. What it's saying. What's under it.
+Her thumb comes up against the band. There's a place between it and Grandpa's where she can get the tip of her nail if she turns her hand just so. She'd done the turn before she knew if the band would come off cleanly. Once it caught, she had a whole breath she could have used to push it down again. She'd spent the breath making sure Mau was still watching.
 
-And what's under it is fear.
+“I wanted him to ask me to put it back on,” she says. She hasn't prepared for what it sounds like to tell the person she went to instead. “I wanted him to have to ask.” ʸ
 
-Not anger. She thought it was anger. She's been angry for days, at Cross and at Mau and at the closed door and at the plate and at herself, and she thought that was what this was. But it isn't. Underneath it, all the way down, it's the same thing she felt in the corridor with her hands shaking too much to open the door.
+“He'd gone. You had every reason to be angry.” ᶜʳ
 
-She's afraid.
+“He was standing by the cup asking me to talk.” ʸ
 
-She's afraid of losing him.
+Cross has his mouth open. She can hear what she used to say before he had to say it for her. *He went through the Gate without me.* She can still be angry about that tomorrow. She won't give him that sentence to say for her again.
 
-As much as she was afraid that day of dying. More. Because that day she was only afraid of losing herself, and she'd half made her peace with it. She hadn't made any plans. She hadn't let herself.
+“After he saw me do it, he came to the wall with the map,” she says. “After I stayed home with it, he came back and asked if I'd remembered where it was. He had to ask if I'd even thought about him that morning.” ʸ
 
-This time she had.
+She can see a little of the map coming out under the glove again. She had known all along how to get there. The only thing she'd been waiting for was for him to come down the hill and ask her to do the thing he'd already asked for. He was going up that same hill toward a man who could kill him. She hasn't let herself put those facts next to one another until now.
 
-She'd imagined it. All of it. Tomorrow with him. And the day after that. A house with their names on it in ink. Ori grown up and coming home to visit with her maps. Ori doing her overtime, her extra hours, being everyone's daughter and everyone's general, and then one day, one day, a smaller one. A little brother. A little sister. Someone for Ori to teach to make the face at the pickles.
+The wheel stops turning. She leaves it where it is. Across the yard she can see the clinic window, and a little corner of the blanket on the cot. She wants to open the curtain on his side of the bed again and have it actually mean he's coming upstairs. Before she can ask for that, she's going to have to tell him what she'd wanted him to see.
 
-She'd let herself want all of it. With him. And she'd nearly thrown it on the ground in the yard because a boy from her old life sat on a wall and told her a story about doorways.
-
-The wheel stops turning.
-
-She doesn't let it go. She can't, yet. But it stops.
-
-“I'm not going north,” she says. Very quietly. ʸ
-
-“Yuka—” ᶜʳ
-
-“I'm not going anywhere. I live here. I'm his wife. I sat in that doorway because I *chose* to, because I'm the one who got it wrong and I'm the one who has to come to him. Not because nobody would let me in. He'd let me in. He's been leaving the door open a hand's width for days.” ʸ
+“I'm staying here,” she tells Cross. “I meant it when I put the band back on. I owe Mau the part that says why I took it off.” ʸ
 
 She looks at Cross.
 
@@ -247,15 +237,49 @@ Yuka goes very still.
 
 “Tell me what you felt,” Yuka says. “Anything he told you in private can stay with you.” ʸ
 
-So Makima starts with what reached her through the bond.
+“The night you came back from the ridge,” says Makima, “do you remember where he was when you got in?” ᴹᵏ
 
-She tells her in her calm, precise voice, the report-voice, with nothing added and nothing left out. She tells her what it was like inside him in the yard, when Yuka said *you'd rather have her*. That it wasn't anger. That it wasn't even hurt, at first. That it was the floor going. That everything in him, every single thing, went very quiet, and then the quiet went down and down, like falling down a well, and at the bottom of it there was a room in an inn in another life with everyone dead in the yard.
+“At the table.” Yuka has to think about whether she saw him get up. “He came in later. I was on the sofa with Tsurugi.” ʸ
 
-“He thought he'd done it again,” says Makima. “Gone away from people. That's what you said, and he believed it. Not because it was true. Because it was the thing he was already most afraid was true.” ᴹᵏ
+Makima puts a palm flat on the wall between them. A little grass is growing in a seam right below it.
 
-Yuka has her hand over her mouth.
+“He had his hand here when I found him. Farther down, past the training posts. He could see his fingers on the stone. He couldn't feel them.” ᴹᵏ
 
-“And this morning,” Makima goes on, “in the kitchen, when you said *come back*, I felt that too.” ᴹᵏ
+Yuka looks at the place she's put her hand. Shoko said he remembered a piece of grass. She'd imagined him sitting out there cooling off, with a whole yard between him and the reason he'd needed air. She hadn't pictured him with both legs still trying to hold him up.
+
+“I felt it from across the house,” Makima says. “I had trouble taking a breath on the way over. By the time I got there he was pulling on his collar with two fingers and it was already loose. I sat down because I could see he'd have to. It took a while before he could let his weight come down.” ᴹᵏ
+
+Yuka has a hand up to her own throat by the time she thinks to take it away.
+
+“Was he ill?” ʸ
+
+“He was panicking.” Makima says it very plainly. “His body had taken him somewhere. He was trying to get back. I told him when one breath made it all the way out. That was how little there was to say to him for a while.” ᴹᵏ
+
+“Was he asking for me?” ʸ
+
+Makima looks out across the yard. “He thought you wouldn't notice if he stayed out.” ᴹᵏ
+
+They can see the common-room window from the part of the wall they're on. Yuka can remember Tsurugi's elbow on the cushion while she was telling him about the lake. When Mau came through the door, she held out both arms and he came. She had seen him lift one leg over hers before settling and never wondered why there was wet grass on his trousers.
+
+“That was the night of the walk,” she says. “I keep thinking it started when he went through the Gate.” ʸ
+
+“He'd been here that whole day,” says Makima. ᴹᵏ
+
+Yuka tries once to think of something to say about who was with him now. The person she'd put on the other side of the argument was the person who sat with him until he could go back inside. Makima hadn't been able to take a full breath of her own and she went out to find him anyway. Yuka had been waiting on the sofa for him to come prove he still wanted the place she'd kept warm.
+
+“He came in when he could walk,” she says. ʸ
+
+“Yes.” ᴹᵏ
+
+Yuka puts her thumb against her band again. She keeps it still this time.
+
+“I took it off in front of him, later,” she says. “I thought he knew it was something I could put back when I wanted to. I didn't think about him having to wake up the next morning and look for me anyway.” ʸ
+
+Makima looks at her hand and then at her. “I felt what happened in the yard when you told him he'd rather have me. Everything in him got quiet. I've been near him when he was angry. It felt like he'd stopped expecting an answer.” ᴹᵏ
+
+Yuka lets her hand come down onto the stone. She'd started by trying to make him afraid she'd go. By the time she decided she wanted to stay, she'd given him plenty of reasons to stop asking.
+
+“And this morning,” says Makima, “in the kitchen, when you said *come back*, I felt that too.” ᴹᵏ
 
 Yuka looks up.
 
@@ -297,7 +321,7 @@ She turns her head and looks at Yuka directly.
 
 * * *
 
-Yuka sits with that for a long time.
+Yuka sits with that for a long time. Before she goes in she has to think what she would say if he never asked about the ring. She'd still have to tell him why he saw her take it off. She doesn't know how long it would take her to be ready to hear the answer if it were the other way round.
 
 The sun moves. Across the yard, in the clinic, Mau opens his eyes. She sees him do it. He sits up in the chair and looks round the clinic as if he's checking where he is, and then he gets up, slowly, and goes out to the kitchen, toward the smell of supper.
 

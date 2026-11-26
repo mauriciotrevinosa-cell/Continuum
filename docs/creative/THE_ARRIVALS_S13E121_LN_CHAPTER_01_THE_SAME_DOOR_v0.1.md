@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 5
 **Source episode:** S13E121
-**Continuity state:** B+435, around noon. Yuka's point of view. She saw him come back and walk past her, straight to the clinic, and it frightened her more than the war did. When she knocks, all she is told at first is that he needs to sleep. Then she asks. Shoko, who promised, tells her the truth in the herb room behind the clinic, with Mau's permission and in Mau's words: everything he had closed, the panic behind the wall, the empty place at the quarry, the room with Frieren in the other life, the Trial. Yuka remembers what she said the morning before the Final Trial ("If you won't let me be with you when it hurts, I don't know how to stay in this"), which he heard as leaving. He spent ~368 local days inside working out how to say goodbye; for her it was one day. She already knew all this; what lands now is that she did it again. Then, in the yard, she took the thing he fears most and said it to him. Nothing is forgiven or fixed in this chapter. Ori asks too, and gets the truth at her size. Ori stays with Mau and Shoko. Yuka goes to talk to the house.
+**Continuity state:** B+435, around noon. Yuka's point of view. She saw him come back and walk past her, straight to the clinic, and it frightened her more than the war did. When she knocks, all she is told at first is that he needs to sleep. Then she asks. Shoko, who promised, tells her the truth in the herb room behind the clinic, with Mau's permission and in Mau's words: everything he had closed, the first evening he went out to the wall, the empty place at the quarry, the room with Frieren in the other life, the Trial. Yuka tells Shoko about taking off her wedding band. Mau did not tell Shoko about it. Yuka remembers what she said the morning before the Final Trial ("If you won't let me be with you when it hurts, I don't know how to stay in this"), which he heard as leaving. He spent ~368 local days inside working out how to say goodbye; for her it was one day. She already knew all this; what lands now is that she did it again. Then, in the yard, she took the thing he fears most and said it to him. Nothing is forgiven or fixed in this chapter. Ori asks too, and gets the truth at her size. Ori stays with Mau and Shoko. Yuka goes to talk to the house.
 
 *When: B+435. Around noon. The notebook still holds the messages she and Ori wrote down while Mau was away.*
 
@@ -107,15 +107,35 @@ She tells her about the doors.
 
 That he shut the personal relays and the access the contracts gave them because he thought he was getting out of the way. Mai had her supply back the next day. Yuka's own techniques were still hers. It was Mau she couldn't reach, and the things he'd offered to share with her. That he didn't do it to punish anyone. That he did it the way he does everything: so that whatever happened next wouldn't hurt anyone but him.
 
-She tells her about the plate. That he saw it. That he'd been setting her portion aside on her side of his plate at every meal, the small sharp pickles he pretends not to like, and that the day she didn't reach over and steal them, he noticed, and didn't say anything, and kept setting them aside anyway.
+She tells her about the plate. That he saw it. That he was still setting her portion aside when he stopped expecting to finish the meal with her. The night of the walk, he went out to sit by the wall. He remembers one piece of grass between the stones. He mentioned it twice without seeming to know he'd already told her.
 
-She tells her what happened on the other side of the wall the night of the walk. That he went out to sit down for a minute and thought he wouldn't be able to get up again. That he remembers the grass caught in a crack between two stones better than he remembers the hand that got him as far as the ground.
+“That's before the Gate,” Yuka says. ʸ
 
-Yuka touches her own fingers to her wrist under the notebook. He pulled the blanket over her feet when he came back in. She'd told him about the lake until the words started coming out on the wrong breath, because that was the part of the day she'd wanted to share with him. She hadn't asked where he'd been.
+“Yes,” says Shoko. ˢʰ
+
+Yuka touches her wrist under the notebook. He pulled the blanket over her feet when he came back in. She'd told him about the lake until the words started coming out on the wrong breath. She hadn't asked where he'd been.
+
+“Afterward,” she says, “after the Gate, I took the wedding band off in front of him.” ʸ
+
+Shoko's eyes go to her hand. “Did you?” ˢʰ
+
+“He didn't tell you.” ʸ
+
+“No.” ˢʰ
+
+The band is back on. It rests exactly beside the one from Grandpa. She traces the seam between them with her thumb. She was angry enough to take one off and still careful to leave the other where it belonged.
+
+“I knew where he was looking,” she says. “I waited for him to see. I thought he'd ask me what I was doing.” ʸ
 
 “He asked me if I'd remembered he saved the seat,” she says. “At the quarry. I said yes. I didn't know how to tell him why I'd stayed home.” ʸ
 
-“I don't think he knew how to tell you what it felt like to see it empty, either,” says Shoko. ˢʰ
+“Did he come to ask you before the fight?” asks Shoko. ˢʰ
+
+“The day after I took it off. He came to find me by the wall. He brought me a drawing of the way up.” ʸ
+
+Shoko gives her time to get the next words out. The notebook is resting on both Yuka's knees now. There's a map in it in Ori's hand, with little marks where they stopped to write down where Mau was. This isn't his. His is upstairs.
+
+“I was waiting for him to show me he still wanted me,” Yuka says. “He'd just done it. Then I went and waited for him to do it again.” ʸ
 
 She tells her about the room with Frieren. In the other life, the one this Frieren doesn't remember. The cup on the windowsill. The clothes. The books. How he moved himself out of the room when Fern came, before anyone could ask, so that it wouldn't hurt when they did. How it came back to him at the wall with Makima and hasn't stopped coming back.
 
@@ -171,23 +191,15 @@ Shoko doesn't say anything else. She doesn't need to. She sits beside Yuka on th
 
 Yuka cries the way she hasn't cried since the hospital. Not loudly. Not prettily. Hard and ugly and silent, with the notebook crushed against her stomach, until there's nothing left.
 
-The door. That's what she keeps coming back to.
+She had been trying to tell Shoko where everything started. The Gate. She can still get angry thinking of asking Beru where Mau was and finding out how many people knew before she did. She can tell somebody else that story and hear exactly where they'd start being angry on her behalf.
 
-He puts things behind a door so he can keep going. She's known that about him for as long as she's known him. She used to think it was the thing she had to fix. She used to stand in front of that door and knock, and knock, and get angry when it didn't open, and say things to make it open.
+She can also see his finger coming up to the place on the map. *Still is*, he'd said when she asked if it was where he wanted her. She can get that far without once putting Cross or the Gate into it. When she gets as far as telling herself she didn't go, she has to set the notebook down beside her so she can cry with both hands against her face.
 
-And every time it opened, there was more behind it. Things she put there.
+“He came home hurt,” she says when she can. “I told him I was going to go. Like that ought to be something he could have instead.” ʸ
 
-*I want to stop this.*
+Shoko waits. Yuka gets half a breath and has to get the next one too.
 
-*You'd rather have her.*
-
-*Okay.*
-
-The same door. Opened over and over. And every time it opened, she was the one standing on the other side of it with the worst thing she could find in her hand.
-
-“I knew,” she says at last. Her voice is wrecked. “About the year. He told me. I *knew*, and I thought it was over, and I—” ʸ
-
-“I know,” says Shoko. ˢʰ
+“I wanted him to look at me,” she says. “All that time. He was trying to.” ʸ
 
 “Is he going to—” ʸ
 
@@ -223,7 +235,7 @@ Shoko crouches down in front of the cot, so she's at Ori's height.
 
 Ori waits. She's very good at waiting for the real one.
 
-“He's been carrying some worries,” says Shoko. “For a while. Heavy ones. And a lot of things happened this week that he understood wrong. Things that looked like one thing and were really another. And then, on top of all that, he had to go and fight. And he did it, and he won, and now he's very, very tired, and he needs to sleep for a long time.” ˢʰ
+“He's been carrying some worries,” says Shoko. “For a while. Heavy ones. And a lot of things happened this week that hurt. Some of them he'd been afraid would happen for a very long time. And then, on top of all that, he had to go and fight. And he did it, and he won, and now he's very, very tired, and he needs to sleep for a long time.” ˢʰ
 
 Ori looks at Mau.
 

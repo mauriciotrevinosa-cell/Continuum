@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 16
 **Source episode:** S13E125
-**Continuity state:** B+440 late night into B+441 ("47" → "46"). Mau brings DIO home from Elmesia's garden; DIO takes her plant back to her room at the Guest Inn, humming. He goes to the clinic for the cot. Yuka is in the chair on the other side of it, the one Ori's map pointed to: NEXT EXPEDITION. The real talk. Yuka says it plainly. His reaction didn't come from nothing; it came from what she did, and it's the second time she's said something like that: the morning before the Trial, and the yard. She went for the worst thing she could find because she was sure he'd still be there to hear it, and that isn't all right. She learned that growing up isn't acting, and it isn't not crying; it's being honest and saying when you got it wrong. Mau tries to take part of it ("I closed the doors"); she stops him: "Don't steal my apology." They laugh together in the middle of the apology. Then he gives his own: he let things from the past carry him back to the old habit of getting out of the way, and he'll try to be better for her. She accepts it. She asks him to open her line. He does. They go upstairs to their own room and, at last, both of them sleep. They share a brief kiss beside the cot.
+**Continuity state:** B+440 late night into B+441 ("47" → "46"). Mau brings DIO home from Elmesia's garden; DIO takes her plant back to her room at the Guest Inn, humming. He goes to the clinic for the cot. Yuka is in the chair on the other side of it, the one Ori's map pointed to: NEXT EXPEDITION. The real talk. Yuka owns walking away with Cross, taking off her wedding band so Mau would see, and staying home from the quarry after Mau brought her the map himself. She tells Mau why she put the band back on. Mau forgives her and holds back the question of whether she would have put it back if he had stopped coming to find her. Mau tries to take part of it ("I closed the doors"); she stops him: "Don't steal my apology." They laugh together in the middle of the apology. Then he gives his own: he let things from the past carry him back to the old habit of getting out of the way, and he'll try to be better for her. She accepts it. She asks him to open her line. He does. They go upstairs to their own room and, at last, both of them sleep. They share a brief kiss beside the cot.
 
 *When: B+440, close to midnight. Ori's map is on the clinic windowsill, unfolded, held flat with a stone.*
 
@@ -77,35 +77,27 @@ He sits down on the edge of the cot. Across from her. Close enough to touch. He 
 
 She opens the notebook. She doesn't read from it. She just holds it open, as if it helps to have it there.
 
-“I said it twice,” she says. ʸ
+“I keep starting with the Gate,” she says. “I did it in the kitchen when you came back from the quarry. I did it with Shoko. I can tell that part in a way that makes somebody want to say of course I was angry.” ʸ
 
-Her voice is very steady. He can hear what it's costing her.
+He looks at her hands. Both of them are flat on the notebook. He can see which one she could put in her pocket if she needed a minute.
 
-“The morning before the Trial,” she says. “When I cut my finger. *If you won't let me be with you when it hurts, I don't know how to stay in this.* I meant *I can't keep doing this part*. You heard *I can't keep doing us*. I knew the second it came out of my mouth that you'd hear it like that. I knew. And I didn't take it back, because part of me *wanted* you to be frightened. I wanted you frightened enough to talk to me.” ʸ
+“I told you to go with Makima. You said you loved me. I said I knew and I asked Cross to come with me. I knew you'd wait for me to say it back. I knew what kind of thing I'd left you standing there with.” ʸ
 
-He doesn't move.
+Her voice has gone thin. She takes a breath and gets a little more of it.
 
-“And you went into the Trial,” she says, “and you were in there for a year with it. And you came back and told me. You told me about the guest room. About how you'd keep away when Ori visited. About practising goodbye for three hundred and sixty-eight days. And I heard it, and I stayed, and I thought that meant I'd understood.” ʸ
+“And in the morning you told me exactly where you were going. You asked me to stay for a minute. I took the band off while you watched. When it caught on my knuckle I could have stopped. I looked to see if you'd noticed and I kept going.” ʸ
 
-She looks down at the notebook.
+He moves one hand under his thigh. He didn't tell Shoko. She can't have brought it in with her from anybody's account of what happened to him. She's describing what she did from the other side of the cup. He'd never been able to work out where she was looking after the band caught.
 
-“And then when you came back from the gate,” she says, “I did it again.” ʸ
+“I wanted you to ask me to put it back on,” she says. “I wanted you to have to ask me to stay. I knew what you'd heard before the Trial, and how long you spent thinking I meant it. I still wanted you to think you might have to say something to keep me. I did that when you were standing right in front of me trying to talk.” ʸ
 
-Her voice cracks. She lets it. She keeps going.
+She pauses. He can hear a spoon go down in the house across the yard. Nothing else moves.
 
-“*You'd rather have her. When it's bad, you go to her.*” ʸ
+“The next day you came to find me again. You showed me where you'd see me when you looked up. I could still have gone. I even took the map down to where I was putting on my boots. I had to make myself believe I was still waiting for you to ask because I wanted a reason to stay angry.” ʸ
 
-She makes herself look up at him.
+She looks down at the notebook. The corner has curled up under her finger. She keeps talking while she gets it flat again.
 
-“I knew what you're most afraid of,” she says. “I know you better than anyone. I know about the inn. I know you went away from everyone so they'd be safe and they weren't. And I took that, the exact thing, and I turned it round, and I said it to your face. On purpose. I went for the worst thing I could find.” ʸ
-
-Her hands are shaking on the notebook.
-
-“And I did it because I was sure you'd still be there,” she says. “That's what I worked out today. I've never said anything like that to anyone else. Not Mai, not Cross, not anyone. Only you. Because I knew you'd stay and hear it. I *used* that. I used you staying as a reason it was safe to hurt you.” ʸ
-
-She takes a breath.
-
-“That isn't all right,” she says. “I heard it as soon as I said it. I still walked away. You let it go quiet the other night for as long as I needed to tell you I took my boots off. I didn't give you that much time in the yard. I didn't give you any time at all.” ʸ
+“When you came back, you asked if I'd remembered the place. I did. I remembered every part of it. I didn't have to see the fight to know what I'd made you look up and find.” ʸ
 
 His shirt has a button at the throat. It's the one he brought down from the drawer. He leaves his hand in his lap instead of putting it there. The run of sounds from the yard gets as far as her shoes across the dirt. This time she's still in the chair when he looks at her.
 
@@ -113,7 +105,7 @@ He'd meant to leave her enough room that she'd only have to say it to him the on
 
 She sees him turn his hand over. She waits while he looks at it. Then she puts the notebook down flat on her knees and looks at him.
 
-“I'm sorry, Mau. I'm sorry I made you think I wanted you gone. I want you here.” ʸ
+“I'm sorry, Mau. I'm sorry I did that to you. I put it back on because I want to be your wife. You've had to decide what that meant once already from looking at my hand. I want you here, with me. I want to hear what you were going to say when I walked away.” ʸ
 
 She twists the notebook so he can see the flat of it and then leaves it alone. “I heard you in the yard,” she says. “I knew what you were waiting for and I answered something else. When I finally said it back after the quarry, I wanted to go straight to you and have you hold me. I needed to be able to do this part, too. I don't want you to have to give up the hurt before I've even asked where it is.” ʸ
 
@@ -173,7 +165,7 @@ When it runs out, he wipes his eyes.
 
 She nods. She's still crying a little. She doesn't do anything about it. One hand is flat on the cover of the notebook. He can see the band against it.
 
-He has meant to ask her since she brought him the cup. He even worked out where to begin. *When you took it off, did you want me to see?* She says she knew what he was waiting for in the yard. She'd looked at him long enough to see it and then asked Cross to go with her. Now she's crying about it. He can't tell where in the days between those two things she started to feel sorry for him. He thinks it must have been before she found the empty drawer. He wants it to have been before.
+He had a question for her since she brought him the cup. *Did you want me to see?* She answered that one all by herself. He still wants to know if she would have put it back on if he hadn't come to look for her, or if he'd come home from the quarry and gone straight upstairs. The choices she made hurt him before she had to watch any of it happen. He can't tell when it began to matter to her in the way it matters to him. He thinks it must have been before she found the empty drawer. He wants it to have been before.
 
 She takes a breath. He can still hear it catch on the way in. In another minute she'd try to tell him what he wanted to hear without him having to ask. He can see her getting ready to. He can see exactly how much he wants to believe it.
 

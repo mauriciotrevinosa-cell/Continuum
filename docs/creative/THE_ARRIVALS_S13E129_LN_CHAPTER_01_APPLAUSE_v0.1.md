@@ -185,7 +185,7 @@ She looks up at him. Her face is very calm. Calmer than he's ever seen it.
 
 She takes a breath.
 
-“It's done,” she says. “I did it. It was mine to do, and I did it, and it's done.” ʸ
+“I told him where he stands with me,” she says. “I can do that again if he makes me. What I did to you still happened, and I still have to answer for it.” ʸ
 
 Her hand is still on his chest.
 

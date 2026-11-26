@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 15
 **Source episode:** S13E124
-**Continuity state:** B+440 ("47"), the same afternoon, between Mau's two trips; Yuka's point of view. Mau is home but inside, in DIO's room inside him; his body sits in the clinic chair with his eyes closed. Makima, whose body can't go far from his, is free in the house. Cross finds Yuka on the orchard wall and tries: Mau went to a queen this morning, came back, and still went to someone else instead of her; he and Maru are going north soon, and she doesn't have to wait in doorways. Yuka calls her wheel. It turns once over her head, ready to throw hands. She sets the limit: she's grateful for what he saw then, and always will be, but she sees now that he's using it as a weapon to pull her away from her husband, and she won't let it be used that way again, by him or by herself. She takes responsibility for removing her band in Mau's sight and staying away after he came to ask her himself. Maru takes Cross away. Makima, who heard the wheel, sits with Yuka on the wall and tells her about finding him during the panic attack before he left for the wild Gate. Mau gave Shoko leave for Yuka to know everything, so this is a legal grey area, and Makima chooses to stand in it.
+**Continuity state:** B+440 ("47"), the same afternoon, between Mau's two trips; Yuka's point of view. Mau is home but inside, in DIO's room inside him; his body sits in the clinic chair with his eyes closed. Makima, whose body can't go far from his, is free in the house. Cross finds Yuka on the orchard wall and tries: Mau went to a queen this morning, came back, and still went to someone else instead of her; he and Maru are going north soon, and she doesn't have to wait in doorways. Yuka calls her wheel. It turns once over her head, ready to throw hands. She sets the limit: she's grateful for what he saw then, and always will be, but she sees now that he's using it as a weapon to pull her away from her husband, and she won't let it be used that way again, by him or by herself. She takes responsibility for removing her band in Mau's sight and staying away after he came to ask her himself. Maru takes Cross away. Makima, who heard the wheel, sits with Yuka on the wall. They have already spoken about the panic attacks in V83. Here Makima tells Yuka what she felt in the yard and later when Yuka asked Mau to come back from Elmesia's. Mau gave Shoko leave for Yuka to know everything, so this is a legal grey area, and Makima chooses to stand in it.
 
 *When: B+440. Mid-afternoon. Ori has drawn a bird beside "47".*
 
@@ -227,9 +227,9 @@ Makima moves a little way. She leaves her hands on the stone.
 
 Yuka looks at her.
 
-“Shoko already told me,” she says. ʸ
+“You told me on the steps,” says Yuka. “What happened after dinner. I kept going back to the wall when I was trying to think what to say to Cross just now.” ʸ
 
-“Shoko told you what he said,” says Makima. “I'm going to tell you what he felt. That's different. I was inside it.” ᴹᵏ
+“I can tell you what I felt in the yard, too,” says Makima. ᴹᵏ
 
 Yuka goes very still.
 
@@ -237,47 +237,15 @@ Yuka goes very still.
 
 “Tell me what you felt,” Yuka says. “Anything he told you in private can stay with you.” ʸ
 
-“The night you came back from the ridge,” says Makima, “do you remember where he was when you got in?” ᴹᵏ
+“When you told him he'd rather have me,” says Makima, “everything in him got very quiet. I remember waiting for him to be angry. The whole of the yard was waiting for it. He'd already stopped expecting another answer.” ᴹᵏ
 
-“At the table.” Yuka has to think about whether she saw him get up. “He came in later. I was on the sofa with Tsurugi.” ʸ
+Yuka gets both feet up against the wall. The memory of the ring coming over her knuckle and the map folded under the glove has come up in that order so often now that she can see the time in between. He had to get through a whole night after she took it off. He still came to ask her himself.
 
-Makima puts a palm flat on the wall between them. A little grass is growing in a seam right below it.
+“Do you know what he thought I meant when I took it off?” she asks. ʸ
 
-“He had his hand here when I found him. Farther down, past the training posts. He could see his fingers on the stone. He couldn't feel them.” ᴹᵏ
+“No,” says Makima. She looks down at Yuka's hand, where the band is now. “I could feel how much it cost him to go looking for you. You'll have to let him tell you what he thought you'd say.” ᴹᵏ
 
-Yuka looks at the place she's put her hand. Shoko said he remembered a piece of grass. She'd imagined him sitting out there cooling off, with a whole yard between him and the reason he'd needed air. She hadn't pictured him with both legs still trying to hold him up.
-
-“I felt it from across the house,” Makima says. “I had trouble taking a breath on the way over. By the time I got there he was pulling on his collar with two fingers and it was already loose. I sat down because I could see he'd have to. It took a while before he could let his weight come down.” ᴹᵏ
-
-Yuka has a hand up to her own throat by the time she thinks to take it away.
-
-“Was he ill?” ʸ
-
-“He was panicking.” Makima says it very plainly. “His body had taken him somewhere. He was trying to get back. I told him when one breath made it all the way out. That was how little there was to say to him for a while.” ᴹᵏ
-
-“Was he asking for me?” ʸ
-
-Makima looks out across the yard. “He thought you wouldn't notice if he stayed out.” ᴹᵏ
-
-They can see the common-room window from the part of the wall they're on. Yuka can remember Tsurugi's elbow on the cushion while she was telling him about the lake. When Mau came through the door, she held out both arms and he came. She had seen him lift one leg over hers before settling and never wondered why there was wet grass on his trousers.
-
-“That was the night of the walk,” she says. “I keep thinking it started when he went through the Gate.” ʸ
-
-“He'd been here that whole day,” says Makima. ᴹᵏ
-
-Yuka tries once to think of something to say about who was with him now. The person she'd put on the other side of the argument was the person who sat with him until he could go back inside. Makima hadn't been able to take a full breath of her own and she went out to find him anyway. Yuka had been waiting on the sofa for him to come prove he still wanted the place she'd kept warm.
-
-“He came in when he could walk,” she says. ʸ
-
-“Yes.” ᴹᵏ
-
-Yuka puts her thumb against her band again. She keeps it still this time.
-
-“I took it off in front of him, later,” she says. “I thought he knew it was something I could put back when I wanted to. I didn't think about him having to wake up the next morning and look for me anyway.” ʸ
-
-Makima looks at her hand and then at her. “I felt what happened in the yard when you told him he'd rather have me. Everything in him got quiet. I've been near him when he was angry. It felt like he'd stopped expecting an answer.” ᴹᵏ
-
-Yuka lets her hand come down onto the stone. She'd started by trying to make him afraid she'd go. By the time she decided she wanted to stay, she'd given him plenty of reasons to stop asking.
+Yuka puts her hand flat on the stone. She hadn't let him tell her any of it then. She doesn't want him to have to ask her for the truth again.
 
 “And this morning,” says Makima, “in the kitchen, when you said *come back*, I felt that too.” ᴹᵏ
 

@@ -109,9 +109,9 @@ That he shut the personal relays and the access the contracts gave them because 
 
 She tells her about the plate. That he saw it. That he was still setting her portion aside when he stopped expecting to finish the meal with her. The night of the walk, he went out to sit by the wall. He remembers one piece of grass between the stones. He mentioned it twice without seeming to know he'd already told her.
 
-“That's before the Gate,” Yuka says. ʸ
+“Makima told me,” says Yuka. “She said he couldn't feel his hand.” ʸ
 
-“Yes,” says Shoko. ˢʰ
+“He told me about the grass first,” says Shoko. “He made it sound like he went out because it was too warm at the table.” ˢʰ
 
 Yuka touches her wrist under the notebook. He pulled the blanket over her feet when he came back in. She'd told him about the lake until the words started coming out on the wrong breath. She hadn't asked where he'd been.
 

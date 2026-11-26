@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 32
 **Source episode:** S13E117
-**Continuity state:** B+434 ("53"). Yuka apologises to Makima, then Mai/Maki. She recognises she used the accusation to hurt and wants to rebuild trust with Makima. Her hurt about Mau shutting the door remains. She plans to begin reconnecting at dinner and talk after. Ori voluntarily gives her the seat. Yoru’s arrival interrupts before the first stolen pickle. No absolute claims that Yuka never cooks/sets tables, Maki never hugs Yuta or Beru is never loud.
+**Continuity state:** B+434 ("53"). Yuka apologises to Makima for using her trust to hurt Mau. Makima tells her about finding Mau during the panic attack after the walk, before the wild Gate, and feeling his old injuries and memories return. Yuka then goes to Mai and Maki. Her hurt about Mau shutting the door remains. She plans to begin reconnecting at dinner and talk after. Ori voluntarily gives her the seat. Yoru’s arrival interrupts before the first stolen pickle. No absolute claims that Yuka never cooks/sets tables, Maki never hugs Yuta or Beru is never loud.
 
 *When: B+434. Before dawn to dinner. Yuka writes "53" by lamplight: B+434, the day after the fight. The last written count was "57" on B+430.*
 
@@ -129,7 +129,65 @@ She looks back at the yard.
 
 “And he closed her door,” she says. ᴹᵏ
 
-Yuka goes to the workshop next.
+“The Gate,” says Yuka. She looks down at her hands. “That's the thing I keep coming back to. If he'd told me where he was going, I could've asked him about all of it before he left.” ʸ
+
+Makima watches the yard come into the light. The grass beside the steps is wet enough to show where Yuka walked out last night and where somebody came back by the same way.
+
+“Do you remember where Mau was after dinner the night you and Cross walked up to the ridge?” she asks. ᴹᵏ
+
+“At the table.” Yuka looks up. “He came in later. I was telling Tsurugi about the lake.” ʸ
+
+“Behind that wall,” says Makima. She points past the training posts, to the bit that no one inside can see. “That's where he was.” ᴹᵏ
+
+Yuka follows her finger. She'd seen the grass on his trousers. She remembers thinking he'd sat in it and he was going to get the sofa damp if he came all the way up onto it. She held out her arms for him anyway.
+
+“He had a hand on the stone when I found him,” says Makima. “He could see it. He couldn't feel it. He was trying to pull his shirt away from his chest and the collar was already loose.” ᴹᵏ
+
+Yuka takes a breath and finds she's raised a hand to her own throat. She puts it in her lap.
+
+“Was he hurt?” ʸ
+
+“He was having a panic attack.” Makima doesn't change her voice for the words. “I felt it from across the house. By the time I reached him I could hardly get enough air to ask if I could stay. He nodded. A little later he let himself sit down.” ᴹᵏ
+
+“We were at the table,” Yuka says. ʸ
+
+“I know. Someone laughed inside. He'd nearly gotten one breath out and it caught again. I sat there until I could tell him one of them went all the way.” ᴹᵏ
+
+Yuka puts both feet on the step below her. She knows the sound Cross makes when he begins to laugh and somebody speaks at the same time. He'd laughed at the table. She'd been laughing with him. She can't tell from here which sound got as far as the wall.
+
+“What did he think was happening?” she asks. ʸ
+
+“I can tell you what I felt. His body was trying to hold something together under his ribs. That old pain came up as if it were happening again. He had both hands free when he sat down, and he still couldn't get them both off his knees for a while.” ᴹᵏ
+
+Yuka looks at the edge of the step under her shoes. Mau told her once what it was like to have to hold himself together with both hands. He'd told her lying on his back beside her with a pillow behind his head. She could put a hand over the place he meant and ask him if she was touching it. It had been possible to hear it then and know he was here and the pain was somewhere else.
+
+“Does that happen to him a lot?” ʸ
+
+“I felt it again the day before the quarry. By the pump. Shoko was with him by the time I went round.” ᴹᵏ
+
+The day before the quarry. He brought her the map that day. She has to put her elbows on her knees and bring her face down into her hands. She'd been able to picture where he went afterward. Down by the kitchen for something to drink. She'd thought he'd probably be glad of a reason to get away from her for a while.
+
+“Did he ask you to go get me?” she says into her hands. ʸ
+
+“No,” says Makima. “He thought you wouldn't notice if he stayed out.” ᴹᵏ
+
+Yuka can feel the step under her legs, all the way across. She can hear somebody inside set the kettle down. She wants to get up and go to him so badly that for a second her legs get ready before she can stop them. She wouldn't know what to say if he opened his eyes and asked why she was there.
+
+“He came when I held my arms out,” she says. “I remember that. I told him I'd found something I wanted to tell him about the lake. I never asked where he'd been.” ʸ
+
+Makima stays where she is. Yuka gets one hand down far enough to find the band in her pocket. She'd been holding it when she came out to apologise. She still knows which way it was turned before she has it out.
+
+She opens her hand. The band has left a little round mark in it.
+
+“That was before I took this off,” she says. ʸ
+
+Makima looks down at it. Then she looks out at the wall again. “It was before the Gate.” ᴹᵏ
+
+Yuka stays with her until she can take her elbows off her knees. Makima puts a hand on the step between them when Yuka starts to get up. Her hand is still there when Yuka has to sit down again.
+
+After a little while Shuna opens the back door to see where the light is coming in. Yuka gets the band back into her pocket. She puts her hand on the stone beside Makima's and leaves it there a minute. She still means what she said about wanting to trust her.
+
+Then she goes to find Mai and Maki.
 
 Mai is already there, upstairs, on the new floor, at her bench by the big window. Maki is with her, on a stool, with a cup of tea. They both look up when Yuka comes up the stairs.
 

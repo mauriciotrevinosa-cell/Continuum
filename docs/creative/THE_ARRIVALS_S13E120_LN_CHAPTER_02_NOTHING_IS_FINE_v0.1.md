@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 4
 **Source episode:** S13E120
-**Continuity state:** B+435, late morning. The house expected to wait all day. Ciel's report reaches Rimuru: done. Mau and Makima are back on the hill road before anyone has finished believing it. Mau falls asleep against Makima on the road. She carries him as far as the return point, where Gojo takes his weight and helps him walk once he's awake. The weight of the Purple and the quarry's compression catches up with him after two nights without sleep. He doesn't go to the porch. He doesn't go to Yuka. Before he can think, he goes straight to the clinic. Makima sits on the clinic step; Noise holds her body there. Mau tells Shoko everything at once, the whole bundle together, though she already knows much of it: everything he had closed, Cross, the room with Frieren, and the Final Trial, when he heard Yuka's "If you won't let me be with you when it hurts, I don't know how to stay in this" as leaving and spent ~368 local days (one day outside) working out how to say goodbye. Shoko sees him nodding off, bandages his split palms, makes him drink water and gives him something to sleep properly. He holds her hand and asks how it's going with Gojo. Before he falls asleep he asks her: if Yuka or Ori ask, tell them the truth. Nothing of "it's fine". He sleeps holding Shoko's hand.
+**Continuity state:** B+435, late morning. The house expected to wait all day. Ciel's report reaches Rimuru: done. Mau and Makima are back on the hill road before anyone has finished believing it. Mau falls asleep against Makima on the road. She carries him as far as the return point, where Gojo takes his weight and helps him walk once he's awake. The weight of the Purple and the quarry's compression catches up with him after two nights without sleep. He doesn't go to the porch. He doesn't go to Yuka. Before he can think, he goes straight to the clinic. Makima sits on the clinic step; Noise holds her body there. Mau tells Shoko everything at once, the whole bundle together, though she already knows much of it: everything he had closed, Cross, the room with Frieren, and the Final Trial, when he heard Yuka's "If you won't let me be with you when it hurts, I don't know how to stay in this" as leaving and spent ~368 local days (one day outside) working out how to say goodbye. Shoko sees him nodding off, bandages his split palms, makes him drink water and gives him something to sleep properly. He holds her hand and asks how it's going with Gojo. Before he falls asleep he asks her: if Yuka or Ori ask, tell them the truth. Nothing of "it's fine". He sleeps holding Shoko's hand. In the clinic he empties everything onto Shoko except one thing: the band coming off in the yard on B+431, which he has replayed for four days and still sees though it was back on her finger yesterday. He has the words and swallows them.
 
 *When: B+435. Late morning. Rimuru has read "Done" out loud twice, and the second time nobody laughed.*
 
@@ -232,6 +232,22 @@ He's very quiet now.
 He stops again.
 
 “She took the thing I'm most afraid of,” he says, “and turned it round, and said it to me. And she didn't even mean it. I know she didn't mean it. I know she was hurt and she was frightened and she said the worst thing she could find. I *know* that.” ᴹ
+
+He looks down at his hands in hers.
+
+There's one more thing in the pile. It's been sitting on top of everything else since the yard, and he's been walking round it for four days.
+
+He can see it now. He can see it any time he stops: by the table in the yard, the cup, her thumb going under the band. The place it stuck on her knuckle. The half a breath when she could have pushed it back down, and didn't, and slid her other thumb under it and kept going. Her fingers closing round it. Her hand going into the hoodie pocket.
+
+He's seen it a hundred times. He saw it in the dark at the quarry with his back against the rock. He saw it this morning on the road. He'll see it again tonight. It doesn't get smaller when he looks at it. It just plays again.
+
+And yesterday it was back on her finger. At the long table, carrying the extension in with Shizue. The band touched the handle of his cup, and he looked at it, sitting where it belongs, and he still watched it come off.
+
+He opens his mouth to tell Shoko.
+
+Nothing comes. Not because there aren't words. He has the words. *She took her ring off in front of me.* Seven of them. He can't make them go in the air between him and Shoko, where they'd be true out loud, and Shoko would ask what it meant, and he'd have to find out whether he knows.
+
+He swallows it. It goes down like the rest of the things he swallows, and sits.
 
 He looks up at Shoko.
 

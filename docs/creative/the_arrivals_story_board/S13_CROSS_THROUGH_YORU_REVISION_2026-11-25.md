@@ -12,7 +12,7 @@ The chapter IDs and revised reading order stay in place. Gojo's rematch remains 
 
 ## The wedding band and the visit from Yoru
 
-Yuka removes her wedding band in Mau's sight on B+431, after refusing to finish their conversation. She keeps the band in her pocket until B+434, when she puts it back on ahead of supper. Her grandfather's ring stays on and is the ring Tsurugi asks about later. In the clinic on B+440, Mau says “it's fine” and genuinely forgives her. He still swallows the question of whether she meant him to see her take the band off and what she meant by it. The wedding memory, their date and the evening before Yoru all carry this forward. By B+487 they are together and affectionate. The sight of the band coming off still comes back, and Mau hasn't talked to Yuka about it. This remains open beyond the visit.
+Yuka removes her wedding band in Mau's sight on B+431, after refusing to finish their conversation. She keeps the band in her pocket until B+434, when she puts it back on ahead of supper. Her grandfather's ring stays on and is the ring Tsurugi asks about later. On B+435, in Shoko's clinic, Mau tells her everything except the band: he has replayed it for four days, sees it come off even now that it's back on, and swallows the seven words. In the clinic on B+440, Mau says “it's fine” and genuinely forgives her. He still swallows the question of whether she meant him to see her take the band off and what she meant by it. The wedding memory, their date and the evening before Yoru all carry this forward. By B+487 they are together and affectionate. The sight of the band coming off still comes back, and Mau hasn't talked to Yuka about it. This remains open beyond the visit.
 
 ## Expanded clinic reconciliation
 

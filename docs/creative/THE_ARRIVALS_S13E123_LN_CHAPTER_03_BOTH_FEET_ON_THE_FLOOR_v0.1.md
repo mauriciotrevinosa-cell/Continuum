@@ -57,7 +57,7 @@ It's Mai coming forward with the rings. There was a crease in the cloth under th
 
 He can hear her voice. A moment earlier than the rings. *I promise to tell you when I'm angry. And when I'm afraid.*
 
-For a second it's the only thing he can hear. Then her hand turns, the same ring catches the light off the dirt in the yard, and she says *go with her*.
+For a second it's the only thing he can hear. Then her hand turns, the same ring catches the light off the dirt in the yard, and she says *go with her*. The next morning, she gets it over the same place where it caught at the wedding. He remembers lifting his hand while she did it, as if there might be something left for his hand to do.
 
 “I heard her,” he says, aloud in the clinic. ᴹ
 

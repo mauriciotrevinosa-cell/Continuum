@@ -169,7 +169,9 @@ She takes a breath.
 
 “I want one minute where I can sit by him and say what I did before I ask for anything,” she says. ʸ
 
-Dabura's knees don't fit under the long table. By midday Rimuru has asked for two chairs, a bench and finally for somebody to take the table extension out so they can push one of the legs farther down. Yuka can carry the extension. She goes in backward with Shizue calling where the table ends and meets Ori going the other way with a stack of cups at her chin.
+Dabura's knees don't fit under the long table. By midday Rimuru has asked for two chairs, a bench and finally for somebody to take the table extension out so they can push one of the legs farther down. Yuka can carry the extension. Before she takes her end, she fishes the band out of her pocket. She had it in her hand after Mau told her he loved her last night. She hadn't been able to do more than hold it. Now she works it past her knuckle. Her hand still shakes when she picks up her end of the table.
+
+She goes in backward with Shizue calling where the table ends and meets Ori going the other way with a stack of cups at her chin.
 
 Mau has his palm down near the edge of the table. He moves it when Yuka comes through so she can lower her end. A thin strip of cloth has come out over his wrist. He's put his cuff back over it before he says thank you.
 
@@ -181,7 +183,7 @@ Mau breathes in. Maru has stopped taking the extension from Yuka. It hangs betwe
 
 Dabura looks down at the extra length of wood and lifts his end of it himself. Yuka takes two cups from Ori and sets them where Shizue points. One of them is the cup Mau held when he came home yesterday. She wants five minutes with him. She can have five minutes if she asks him to get up in the middle of the conversation and come out. He would still get up for her.
 
-Mau lifts his eyes. For a second she's looking at him with no idea what expression he's seeing. Ori puts the last cup in her hand. She brings it round to Mau's side of the table and sets it beside him. When her finger hits the handle the contact is loud enough for him to hear. He slides the cup closer.
+Mau lifts his eyes. For a second she's looking at him with no idea what expression he's seeing. Ori puts the last cup in her hand. She brings it round to Mau's side of the table and sets it beside him. Her band touches the handle. Mau looks at it before he slides the cup closer. She waits for him to say something about it. Dabura puts a hand out for the only cup he can reach. Mau gives it to him.
 
 Rimuru asks whether the offer about the road still stands, and Maru says it does. There is a patch on one of the wagon covers at the ford, he tells them. It took all morning to finish, but when they came to set off the woman who made it wanted to know who was coming back for the next load. Mau asks him how long she wants to stay there. Yuka realises he'll spend as long as they need talking about one woman with a piece of canvas. She used to like that about him. It was why she could ask him for anything.
 

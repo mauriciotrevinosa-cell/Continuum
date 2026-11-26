@@ -63,7 +63,11 @@ She's sitting on the inside of the low wall with one of Ori's planks across her 
 
 She looks over at him. He has the map in his hand already. She braces the wood on the wall so it won't fall when she lets it go, and he has one wholly unreasonable second of hoping she'll ask him to sit before she takes the paper.
 
-She unfolds it against the wood. He points to the entrance without leaning on her knee. She has her finger on the exact spot from the first time she looks at it.
+She unfolds it against the wood. He points to the entrance without leaning on her knee. She has her finger on the exact spot from the first time she looks at it. Grandpa's ring catches on the edge of the paper. The space beside it is bare.
+
+Yesterday he watched her work the band over the knuckle. He keeps remembering the pause there, the moment when she could have pushed it back down. She moved her other thumb under it and kept going.
+
+He looks at the map to find out what he was about to tell her.
 
 “This was where you wanted me,” she says. ʸ
 

@@ -323,7 +323,9 @@ Mau stands at the edge of the grounds, where the protection ends, and watches he
 
 Makima, at his right shoulder, lets out a long slow breath.
 
-Yuka, at his left, takes his hand.
+Yuka, at his left, takes his hand. He had been looking at the road. He looks down in time to see her fingers move and for one breath he's watching for the band to come off again. She has it on. She was only reaching for him. His hand stays slack long enough for her to look up.
+
+“Here,” he says. He lifts his hand the rest of the way himself. ᴹ
 
 Gojo, at the orchard wall, says, to nobody in particular: “*Thanks*. She said *thanks*. Yoru. The War Devil. Said *thanks*.” ᴳ
 
@@ -339,7 +341,7 @@ She's been writing the whole time. Every word. For the official record. She look
 
 Then she opens it again, and turns to the front. To the page where Yuka wrote *90*, a long time ago, the night after the table by the sea, before the Simurians, before any of it. The first page of the countdown.
 
-She turns all the way through. Every page. Every number. *90. 89. 88.* All the way down. Past *53*, with no drawing. Past *52*, with a list under it. Past *47* in whipped cream. Past *25*, *DRAW (STYLE)*. Past *20*, *mine*. Past *4*, *HI NOISE*.
+She turns all the way through. Every page. Every number. *90. 89. 88.* All the way down. Past *53*, with no drawing. Past *52*, with Rimuru's reports under it. Past the trace of whipped cream on the page from the morning Mau carried Yuka downstairs. Past *25*, *DRAW (STYLE)*. Past *20*, *mine*. Past *4*, *HI NOISE*.
 
 To *0*.
 
@@ -373,13 +375,11 @@ Two weeks' warning. Whenever that is. Something better. Something that takes lon
 
 Not yet.
 
-*Are you afraid?* says Ciel, inside, very quietly. ᶜ
+*Do you think she'll give us the two weeks?* asks Ciel. ᶜ
 
-He checks. Under the ribs. Behind the doors.
+*I think she wants us to be there,* he says. *She'll have to tell us where to go.* ᴹ
 
-*No*, he says. ᴹ
-
-*Good*, says Ciel. ᶜ
+It's easier when the thing he's waiting for is something he can say out loud. Through the kitchen door he can hear Yuka asking Shuna about the rice.
 
 He takes the small carved dragon out of his pocket and looks at it. Sitting. Ori's. A lend, not a give.
 

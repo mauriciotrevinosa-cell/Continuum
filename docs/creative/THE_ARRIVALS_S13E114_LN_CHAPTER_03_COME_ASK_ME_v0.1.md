@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 22
 **Source episode:** S13E114
-**Continuity state:** B+431. Yuka and Mau see each other after the yard while the house arranges a river handoff. He has told the household where he's going and asks her whether she has time to talk. She defends having left with Cross. Maru and Rimuru continue the river work; Shuna and Maki keep care moving inside the house. Yuka's personal link stays closed. Dabura is due at dawn on B+433.
+**Continuity state:** B+431. Yuka and Mau see each other after the yard while the house arranges a river handoff. He has told the household where he's going and asks her whether she has time to talk. She defends having left with Cross and takes off her wedding band while Mau is still there. She keeps it with her. Her grandfather's ring stays on. Maru and Rimuru continue the river work; Shuna and Maki keep care moving inside the house. Yuka's personal link stays closed. Dabura is due at dawn on B+433.
 
 *When: B+431. After Mai starts on the rack beneath the workshop.*
 
@@ -91,7 +91,13 @@ Yuka knows how it would feel if the whole yard emptied and left them right here.
 
 “I don't want to talk right now,” she says. ʸ
 
-Mau turns to her. There is a beat where he keeps both feet where they are. His mouth barely moves when he says her name. She can still hear it when she puts her first foot on the porch step. She keeps going, into the kitchen.
+She puts the cup back down. Her wedding band clicks against the handle. She twists the band once with her thumb, and Mau's eyes go straight to the movement. She can feel him see it. She's angry enough to want him to see the rest.
+
+The band sticks where her finger widens. She works it over the joint. His hand comes away from his side, just a little. She remembers that he offered her that hand before she ever knew he had a ring for her. She gets the band off and closes her fingers around it. Grandpa's ring is still in its place.
+
+“Yuka,” he says. Just her name. He stays where he is. ᴹ
+
+She waits for him to ask if she means it. She'd have to tell him what *it* was, and right now the only thing she's sure of is that she wants the hand holding her ring out of his sight. She puts it in the pocket of her hoodie and takes the cup with her other hand. She's on the porch step before she thinks about whether he's still looking. She keeps going, into the kitchen.
 
 * * *
 
@@ -153,7 +159,7 @@ Yuka can hear that he means for her to think about it. It feels like being hande
 
 “Can we make one more round before we go in?” she asks. ʸ
 
-Cross takes the path away from the house. She walks beside him.
+Cross takes the path away from the house. She walks beside him, one thumb through the band in her pocket until it won't go any farther.
 
 * * *
 

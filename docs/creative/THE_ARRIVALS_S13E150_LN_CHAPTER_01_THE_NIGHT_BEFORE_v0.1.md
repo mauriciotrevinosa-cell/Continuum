@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 26
 **Source episode:** S13E150
-**Continuity state:** B+486 ("1"). The last day of the ninety. This time the house isn't sitting round the kitchen table in silence with the plates untouched. Mau tells everyone, at supper, plainly, what he thinks will happen and what he'll do: he'll go to meet Yoru at the hour, not alone, with the house knowing where; he'll ask her for time; he won't fight unless she makes him. Gojo asks to come; Mau says yes, this time, to the edge of the yard. Shoko asks to come; yes. The house decides together, out loud, who stands where. Then, instead of nobody sleeping, everybody does. Mau and Yuka on the porch for an hour first. She tells him she's not afraid. He tells her he isn't either, and it's true.
+**Continuity state:** B+486 ("1"). The last day of the ninety. This time the house isn't sitting round the kitchen table in silence with the plates untouched. Mau tells everyone, at supper, plainly, what he thinks will happen and what he'll do: he'll go to meet Yoru at the hour, not alone, with the house knowing where; he'll ask her for time; he won't fight unless she makes him. Gojo asks to come; Mau says yes, this time, to the edge of the yard. Shoko asks to come; yes. The house decides together, out loud, who stands where. Then, instead of nobody sleeping, everybody does. Mau and Yuka on the porch for an hour first. Yuka is ready to stand with him tomorrow. Mau answers honestly about facing Yoru. He keeps what still hurts about the wedding band to himself.
 
 *When: B+486. "1". Yuka wrote it at breakfast and drew a small sun next to it. Not a countdown anymore. Just a day.*
 
@@ -215,19 +215,17 @@ He doesn't say anything for a while.
 
 He looks at the yard. At the dark shape of the orchard wall, where Gojo will stand. At the place where the protection ends. At the hill road beyond it, going north, where he walked into the dark with Makima's hand in his and didn't look back.
 
-“I'm not afraid either,” he says. ᴹ
+“I'm ready for Yoru,” he says. ᴹ
 
-Yuka looks up at him.
+Yuka looks up at him, looking for the rest. There had been a rest. He lost it somewhere between the word *afraid* and her thumb stopping against his. He gets as far as taking another breath.
 
-He checks. He goes inside himself, the way he's learned to, and looks. Under the ribs. Behind the doors. In the room he goes back to, sometimes, without meaning to.
+She gives him the time. That ought to make it easier to ask. He's been waiting to be able to ask it so it would mean he wanted an answer and would be able to take whichever one she gave him. Now he has her here leaning against him and he can think of the answer he wants so clearly that he almost hears her say it.
 
-It's quiet in there.
+“Will you stand on my left tomorrow?” he asks. ᴹ
 
-“It's true,” he says. “I looked. I'm not.” ᴹ
+“Yes,” she says. She has a finger tucked between two of his. She doesn't move it when she puts her head back on his shoulder. “I'll be there.” ʸ
 
-Yuka puts her head back on his shoulder.
-
-“Good,” she says. ʸ
+He wants her there. He takes the rest of the breath sitting with her, while her ring gets warm between their hands.
 
 * * *
 
@@ -255,4 +253,4 @@ He puts the dragon back in his pocket.
 
 They go to bed.
 
-And for the first time before something like this, in either of his lives, he sleeps all night.
+He wakes once with his hand closed on the sheet. She's warm clear down to her feet. He puts his arm where she'd have to move it if she wanted to roll away, and she rolls toward it instead. After that he gets some sleep.

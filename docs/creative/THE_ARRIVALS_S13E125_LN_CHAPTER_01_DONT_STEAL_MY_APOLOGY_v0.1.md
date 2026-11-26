@@ -173,7 +173,19 @@ When it runs out, he wipes his eyes.
 
 “I heard it,” he says. “All of it. I heard it.” ᴹ
 
-She nods. She's still crying a little. She doesn't do anything about it.
+She nods. She's still crying a little. She doesn't do anything about it. One hand is flat on the cover of the notebook. He can see the band against it.
+
+He has meant to ask her since she brought him the cup. He even worked out where to begin. *When you took it off, did you want me to see?* He knows what he would ask second, and he doesn't know if he could bear for her to look at him while she answered.
+
+She takes a breath. He can still hear it catch on the way in.
+
+“It's fine,” he says. ᴹ
+
+She holds very still.
+
+“I forgive you,” he says. He wants her to hear that one clearly. “I want to come home with you.” ᴹ
+
+He means both. His eyes go back to her hand. There's still time to ask. He pulls his own hand out from under his knee and lets the question go by.
 
 “Can I give you mine?” he says. “Separately. Not instead of yours. Next to it.” ᴹ
 
@@ -205,7 +217,7 @@ He breathes out.
 
 *I am*, says Ciel, inside, very quietly. ᶜ
 
-“When I start wondering what you meant,” he says, “I’ll ask you. I should’ve asked you that night, before I spent it answering for you.” ᴹ
+“When I start wondering what you meant,” he says, “I’ll try to ask you. I should’ve asked you that night, before I spent it answering for you.” ᴹ
 
 * * *
 

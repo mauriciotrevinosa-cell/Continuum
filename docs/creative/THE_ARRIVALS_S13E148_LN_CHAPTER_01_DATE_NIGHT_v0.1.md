@@ -123,7 +123,7 @@ She turns her head.
 
 He doesn't look at her. He looks at the stars. It's easier.
 
-“For two weeks,” he says, “I was afraid you'd go.” ᴹ
+“All that time we were fighting,” he says, “I was afraid you'd go.” ᴹ
 
 She goes still beside him.
 
@@ -131,23 +131,19 @@ She goes still beside him.
 
 He breathes out.
 
-“And I'm not afraid now,” he says. ᴹ
+“I don't spend every night figuring out where I'd go anymore,” he says. ᴹ
 
-He turns his head and looks at her.
+She turns a little farther toward him. She's quiet enough for him to go on while he still knows what he wants to say.
 
-“And I've been trying to work out what the difference is,” he says. “Between then and now. What changed. Because you're the same. I'm the same. The house is the same.” ᴹ
+“You came to the clinic and said what you did. I heard you say you wanted me there. I had to hear it from you.” ᴹ
 
-She waits.
+He turns his head. Down by the edge of the blanket, her fingers come to rest against his. His thumb finds the band when he curls his hand around hers. For a second he sees her standing by the table in the yard with the cup under her other hand, looking up to see whether he'd noticed.
 
-“It's that you told me the truth,” he says. “When it was ugly. In the clinic. You sat in Ori's chair and you said *I said it twice, I went for the worst thing I could find, I used you staying as a reason it was safe to hurt you.* You didn't make it nice. You didn't make it smaller. You said the ugly thing, all of it, plainly.” ᴹ
+She comes closer, and he lets their hands lie flat between them.
 
-He looks at her face in the starlight. The only colour in the world, even in the dark.
+“I like knowing I'll see you in our room when I go upstairs,” he says. “That's what I wanted to tell you.” ᴹ
 
-“That's why I'm not afraid,” he says. “Because now I know you'll tell me. When it's ugly. You'll tell me. I don't have to guess anymore. I don't have to practise for it. If you ever wanted to go, you'd say so. To my face. And you haven't. So you're not going.” ᴹ
-
-He stops.
-
-“That's all,” he says. “That's what I wanted to tell you.” ᴹ
+She looks up at him. If she asks whether that's all, he thinks she might get an answer out of him. She turns her hand palm up so he can hold it properly. He does.
 
 * * *
 

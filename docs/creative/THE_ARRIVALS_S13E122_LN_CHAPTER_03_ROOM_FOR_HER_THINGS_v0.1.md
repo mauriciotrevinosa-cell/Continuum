@@ -77,7 +77,7 @@ The shirt drops. He bends to get it and she gets there first. She takes it by th
 
 He hears her. His hand stays flat against the wood. He wants to lean into her badly enough to have to look at where his feet are.
 
-She starts to put a hand out toward him. Halfway there she closes it. He can see the band on that hand. He's used to moving his own hand into the other half of the space.
+She starts to put a hand out toward him. Halfway there she closes it. The band's there. He looks right at it and still sees the finger she worked it off. It's the little turn she gave it when it stuck on her knuckle that keeps coming back. He could ask her about it right now. By the time her arm comes back down he still hasn't found a way to start.
 
 “Why didn't you come that morning?” he asks. ᴹ
 

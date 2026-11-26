@@ -8,7 +8,11 @@ V83 opens with the homecoming as Yuka lives it, from Kaisel's approach through t
 
 After the clinic, what the family does for Mau carries forward. Umaru and Mau finish the movie. Makima and Yuka can play in the same room. Mau and Yuka choose a market trip together, where Mai and Momo start working on the harness they eventually try on Kaisel. The road conversation becomes an actual arrival at the northern ford, with Maru and Rimuru coordinating and the Simurians helping before the next kings' conversation. Shuna eats with the household and shares the kitchen rotation. Rem and Umaru, and DIO and Elmesia, ask for support and speak in their own words. The recovered mornings and evenings no longer follow a private tally that makes an apology, a date, and a decision about a family interchangeable.
 
-The chapter IDs and revised reading order stay in place. Optional ideas about taking off the ring and moving the Gojo rematch were left outside the revision. The announced visit still lands at the end of the ninety days.
+The chapter IDs and revised reading order stay in place. Gojo's rematch remains for after the eventual conflict with Yoru. The announced visit still lands at the end of the ninety days.
+
+## The wedding band and the visit from Yoru
+
+Yuka removes her wedding band in Mau's sight on B+431, after refusing to finish their conversation. She keeps the band in her pocket until B+434, when she puts it back on ahead of supper. Her grandfather's ring stays on and is the ring Tsurugi asks about later. In the clinic on B+440, Mau says “it's fine” and genuinely forgives her. He still swallows the question of whether she meant him to see her take the band off and what she meant by it. The wedding memory, their date and the evening before Yoru all carry this forward. By B+487 they are together and affectionate. The sight of the band coming off still comes back, and Mau hasn't talked to Yuka about it. This remains open beyond the visit.
 
 ## Expanded clinic reconciliation
 

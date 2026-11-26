@@ -395,9 +395,19 @@ She looks up at him with a perfectly straight face and pats her lap.
 
 He sits in her chair instead. Beside her.
 
-She gives him a look, and before she can reach for his plate he tucks an arm around her and draws both chairs closer. The legs scrape. Shuna puts down the rice and goes straight back for two more bowls.
+She gives him a look as he tucks an arm around her and draws both chairs closer. The legs scrape. Shuna puts down the rice and goes straight back for two more bowls.
 
-“Here,” he says, and kisses her when she leans back to find out what he wants. ᴹ
+“You were looking at my hand outside,” says Yuka, low enough that Ori won't hear her from the door. ʸ
+
+He thinks about where she was standing when Yoru arrived. Exactly where she'd said she'd be. Out in the yard he could keep her whole hand in his without letting his mind go any farther back. Now he has to decide which part to tell her.
+
+“I was glad you were there,” he says. It's true. She hears it the way he means it and leaves her hand where he can reach it. ᴹ
+
+“I wanted to be there,” she says. ʸ
+
+She said she was sorry in the clinic. He can still hear what she left him standing with in the yard, and for a second he'd like to ask her if she knew then what she'd be sorry for. Ori's dragging a chair up to the table, and the sound makes him realise he's been waiting for someone to give him a reason to ask later. He takes Yuka's hand before it occurs to either of them to move it.
+
+He kisses the corner of her mouth when she leans back to see his face. She follows him up and gets a better one.
 
 Yuka stays tucked under his chin until Ori comes with the empty notebook and asks if there's room. Mau shifts over. Yuka lifts the edge of the tablecloth for Ori's knees. The notebook goes down between their plates, and while Ori is deciding what to write on the first page, Yuka steals his pickles.
 

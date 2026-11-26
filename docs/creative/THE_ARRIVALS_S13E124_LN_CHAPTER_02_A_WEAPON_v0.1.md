@@ -53,6 +53,16 @@ He's quiet for a moment.
 
 “It's just,” he says, “I keep noticing. He goes to everyone. The queen. The devil. The voices. The doctor; he went straight past you to the doctor, the other day, I saw it. He goes to all of them. And you sit in doorways.” ᶜʳ
 
+She has to take her hand out of her sleeve. It won't lie flat while it's folded in there.
+
+“I told him I loved him after the quarry,” she says. “I didn't say it back before. I wanted him to hear it.” ʸ
+
+Cross looks at her for a second. “Did you get to keep talking?” ᶜʳ
+
+“I left him his supper. He was so tired he couldn't hold a cup straight.” ʸ
+
+“And now you're working out how much of it you need to say again so he'll come upstairs.” He looks toward the chair. “He said it in the yard and he's barely had to say another thing to you about it since.” ᶜʳ
+
 * * *
 
 It goes into her like a splinter.
@@ -111,7 +121,11 @@ Cross's face does something.
 
 He goes still.
 
-“You're using it,” she says again, and her voice shakes now, and she lets it. “You're taking the one thing you gave me that nobody else could, and you're using it like a knife. To get between me and my husband. I told you I knew he'd try to get to me in the gate. You turned that into a reason I ought to wait to be asked before I went to him. He'd already saved me a place. It was sitting right there and you had me wondering if I'd imagined it.” ʸ
+“You're using it,” she says again, and her voice shakes now, and she lets it. “You're taking the one thing you gave me that nobody else could, and you're using it like a knife. To get between me and my husband. I had his map under my hand when you told me to wait to be asked. He'd already asked me. I told you he did. You made me listen to the last thing he could get out in the yard and hear it like he'd worked out a way to make me stay.” ʸ
+
+She swallows. He has his hands open beside him. She remembers that Mau had his at his sides that night. He hadn't even taken a step.
+
+“He couldn't get a whole word out for Shoko when he came home. I was in the hallway when he tried. How do you make that sound like something he did to me?” ʸ
 
 The wheel hangs above her. Cross has backed up. She can say the rest without taking another step.
 

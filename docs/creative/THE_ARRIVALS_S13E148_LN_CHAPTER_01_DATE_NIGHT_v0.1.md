@@ -137,13 +137,23 @@ She turns a little farther toward him. She's quiet enough for him to go on while
 
 “You came to the clinic and said what you did. I heard you say you wanted me there. I had to hear it from you.” ᴹ
 
-He turns his head. Down by the edge of the blanket, her fingers come to rest against his. His thumb finds the band when he curls his hand around hers. For a second he sees her standing by the table in the yard with the cup under her other hand, looking up to see whether he'd noticed.
+“I'm still glad I said it.” She turns her face toward him. “Do you want to tell me what you heard?” ʸ
 
-She comes closer, and he lets their hands lie flat between them.
+He's spent enough nights at this point thinking about what he heard. Once he starts he can't always stop in the clinic. Sometimes he gets all the way back to the yard before he remembers he was lying beside her. Here she's waited until he brought it up. The hand lying open on the blanket has been there long enough for him to take.
 
-“I like knowing I'll see you in our room when I go upstairs,” he says. “That's what I wanted to tell you.” ᴹ
+“I heard you wanted me home,” he says. ᴹ
 
-She looks up at him. If she asks whether that's all, he thinks she might get an answer out of him. She turns her hand palm up so he can hold it properly. He does.
+He could ask what she'd wanted him to do the first time he told her. He's still trying to decide which answer would be harder to hear. She says nothing for a moment. That's time he could use to ask. He lets it go by. Then he slides his hand under hers.
+
+“I like knowing I'll see you in our room when I go upstairs,” he says. “I wanted to tell you that.” ᴹ
+
+She presses her fingers to his palm. “I'm glad when you come to bed. Even if you're only coming up to steal the blanket back.” ʸ
+
+“You leave me an inch of it every night.” ᴹ
+
+“So you do notice.” ʸ
+
+He keeps his hand where it is when she laughs. This is the bit he can tell her tonight. He tells himself he can sit here with her for the length of a night without deciding when there'll be another one.
 
 * * *
 
@@ -153,13 +163,9 @@ She lies on the blanket under the terrible pear trees and looks at him, and he f
 
 Then she rolls over and puts her face in his shoulder.
 
-“That's the most you've ever said at once,” she says, muffled. ʸ
+“I'm glad you told me some of it,” she says, muffled. ʸ
 
-“I know.” ᴹ
-
-“Without me making you.” ʸ
-
-“I know.” ᴹ
+He puts his cheek against her hair. “I wanted to.” ᴹ
 
 “I'm going to cry.” ʸ
 

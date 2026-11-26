@@ -19,7 +19,7 @@ Their room. The window open a little. The morning coming in grey and early round
 
 And for one long, horrible moment, she doesn't know what's real.
 
-She was in the clinic. Wasn't she? In the chair Ori drew. She said it, all of it, plainly. *Don't steal my apology.* He laughed. He laughed, really laughed, for the first time in two weeks. And then the line opened, all at once, like a window thrown wide, and she felt him on the other end of it, all of him, and she cried, and he took her hand across the cot, and they came upstairs together, and she fell asleep with her face in his shoulder.
+She was in the clinic. Wasn't she? In the chair Ori drew. She said the part she had to say, plainly. *Don't steal my apology.* He laughed. He laughed, really laughed, with her sitting right there in front of him. And then the line opened, all at once, like a window thrown wide, and she felt him on the other end of it, all of him, and she cried, and he took her hand across the cot, and they came upstairs together, and she fell asleep with her face in his shoulder.
 
 And yesterday. The couch. The films. The sign on the door. Milim with the castle game. Stealing his towers.
 
@@ -201,9 +201,17 @@ Frieren, who comes in, looks at everything, says “Oh,” very softly, and sits
 
 Mau washes his face.
 
-He takes off the apron.
+He takes off the apron. There's flour on the way down the front of it where he caught one of the bowls against his chest. He starts folding it as if he's meant to stay here and make himself useful for another hour.
 
-He stands at the bottom of the stairs, with the whole kitchen behind him going at it, and feels her heart down the line, still going, a little slower now, but still fast, still warm, still knocking.
+“You got anything you want?” asks Shuna. She's pulled a clean plate out for him. ˢʰᵘ
+
+He looks at the table. He knows which thing will make Yuka stop in the middle of a kiss and come back to her plate. He knows it so well he's made three of them and put fruit on every one. For a while this morning that was as far as he could get thinking about her coming down. He was ready for her to be grateful. Standing here now with her laugh coming through the line, what he wants is for her to see him at the top of the stairs and put both arms up.
+
+“A corner of the burnt one,” he tells Shuna. ᴹ
+
+She puts a whole row of corners on his plate. He takes it to the stairs to tell Yuka what he's got. When he finds the beginning of what he really wants to ask, he lets it go. He'd been going to ask if she was this happy because she'd thought he was gone. She can come down to see him first. He wants a morning with her that's about being in the same room.
+
+He stands at the bottom of the stairs, with the kitchen going at it behind him, and feels her heart slow down a little on the other end of the line.
 
 *When you come up*, says Yuka, down their line. ʸ
 

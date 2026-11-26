@@ -111,9 +111,7 @@ His shirt has a button at the throat. It's the one he brought down from the draw
 
 He'd meant to leave her enough room that she'd only have to say it to him the one time. He sees the drawer again, all the way back to the lining at the bottom, his hand fixing the little crease. He'd been going to make that room for her, bit by bit, wherever she looked.
 
-She sees him turn his hand over. She waits while he looks at it. Then she puts the notebook down flat in her lap.
-
-She puts the notebook down on her knees and looks at him.
+She sees him turn his hand over. She waits while he looks at it. Then she puts the notebook down flat on her knees and looks at him.
 
 “I'm sorry, Mau. I'm sorry I made you think I wanted you gone. I want you here.” ʸ
 
@@ -175,17 +173,17 @@ When it runs out, he wipes his eyes.
 
 She nods. She's still crying a little. She doesn't do anything about it. One hand is flat on the cover of the notebook. He can see the band against it.
 
-He has meant to ask her since she brought him the cup. He even worked out where to begin. *When you took it off, did you want me to see?* He knows what he would ask second, and he doesn't know if he could bear for her to look at him while she answered.
+He has meant to ask her since she brought him the cup. He even worked out where to begin. *When you took it off, did you want me to see?* She says she knew what he was waiting for in the yard. She'd looked at him long enough to see it and then asked Cross to go with her. Now she's crying about it. He can't tell where in the days between those two things she started to feel sorry for him. He thinks it must have been before she found the empty drawer. He wants it to have been before.
 
-She takes a breath. He can still hear it catch on the way in.
+She takes a breath. He can still hear it catch on the way in. In another minute she'd try to tell him what he wanted to hear without him having to ask. He can see her getting ready to. He can see exactly how much he wants to believe it.
 
 “It's fine,” he says. ᴹ
 
-She holds very still.
+Her shoulders come down. He remembers her doing that in the yard, when he said he loved her and she knew which answer he was waiting for.
 
 “I forgive you,” he says. He wants her to hear that one clearly. “I want to come home with you.” ᴹ
 
-He means both. His eyes go back to her hand. There's still time to ask. He pulls his own hand out from under his knee and lets the question go by.
+He means both. His eyes go back to her hand. There's still time to ask. He puts his own hands on the cot and makes room for the other thing he came to tell her.
 
 “Can I give you mine?” he says. “Separately. Not instead of yours. Next to it.” ᴹ
 

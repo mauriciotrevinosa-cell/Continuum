@@ -15,17 +15,15 @@ She has to put her heel down hard to get it in. He's got his coat on already. Sh
 
 “Did he ask you to come?” Cross says. ᶜʳ
 
-“I told him I would.” She gets the lace through the last eyelet. “He said he'd save me a place.” ʸ
+“He asked yesterday. He drew me a map.” She gets the lace through the last eyelet. The map is folded on the sill, under the glove so it won't go out when the door opens. “I want to see him when he looks up.” ʸ
 
-“When?” ᶜʳ
+Cross glances at the underside of the glove. He doesn't touch it.
 
-She looks up. The question comes without any special weight on it. The way he might ask when someone said it'd rain.
+“Did you get to talk about anything else when he brought it?” ᶜʳ
 
-“At dinner. Before.” ʸ
+“He asked if I'd come even if we're still angry.” ʸ
 
-“Do you think he'd say the same today?” ᶜʳ
-
-“I want to find out when I get there.” ʸ
+The words sound kinder now than they did yesterday, when she had the chalk in one hand and could still see where he'd rubbed an extra line out of the map. She tightens her lace.
 
 Cross puts his shoulder to the frame. There's enough room to pass him. She gets the lace round her finger and leaves it there, half tied.
 
@@ -37,11 +35,23 @@ Cross nods. “If you go up there today, you'll spend the whole fight wondering 
 
 “Look anyway.” ʸ
 
-She means it when she says it. She pictures the face she would look down at across the quarry, and just as clearly she pictures him walking out of the house with Makima at his shoulder. She would have to stand where he put aside a place two days before he stopped wanting to hear her.
+She means it when she says it. She pictures the face she would look down at across the quarry, and just as clearly she pictures him walking out of the house with Makima at his shoulder. She would have to stand on the spot he'd marked himself and find out whether he could look up at her with Makima already beside him.
 
-“You're allowed one morning where you wait to hear him ask for you,” says Cross. ᶜʳ
+“Do you remember what he said when you walked away?” says Cross. ᶜʳ
 
-He picks up a glove someone left on the sill and sets it out of the wind. The line is clear all the way through the doorway and up the path.
+Her fingers go still. “He told me he loved me.” ʸ
+
+“Did it make you want to stay?” ᶜʳ
+
+Yes. She can feel precisely how far she'd turned before she decided she would say she knew, instead of what he wanted to hear. She's still waiting to feel as sure about that decision as she did when she made it.
+
+“If you go now,” says Cross, “everyone gets to see you in the place he left for you. He can tell himself it worked. You still haven't heard him say what changes when he gets home.” ᶜʳ
+
+“He could ask me there,” she says. ʸ
+
+“He could come ask you here.” ᶜʳ
+
+Cross puts the glove farther from the wind when it starts to lift, with the map still under it. He's left the path clear. She can see as far as the first turn, where the morning light goes from one side of the stones to the other. He asked her himself. She'd told Cross that as soon as he opened his mouth. Now she's trying to remember why it felt like she'd have to ask first.
 
 Yuka pulls on the lace. With a little more force she could finish tying it.
 

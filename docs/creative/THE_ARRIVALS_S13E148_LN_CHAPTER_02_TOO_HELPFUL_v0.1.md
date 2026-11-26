@@ -117,9 +117,13 @@ He looks at her.
 
 “You told me,” she says. “Not after. Not when it's too late. Now. When there's nothing to do yet.” ʸ
 
-She takes his hand.
+She takes his hand. “When he asked if you'd asked me to come to the quarry, I said yes. By the time I took the boot off I was waiting for you to ask again. Nothing you did changed while I was sitting there with him.” ʸ
 
-“I'll watch too,” she says. “I know what he sounds like when he's being kind. I'll know if it changes.” ʸ
+Mau looks at her. She got there without him having to ask. He wants to be able to put the last answer she gave him in the clinic next to this one and hear them both the same way. He leaves his hand where it is.
+
+“Tell me if he asks you something,” he says. ᴹ
+
+“I will.” She looks across the yard toward the workshop. “If it sounds kind, too. That's how it sounded the first time.” ʸ
 
 * * *
 

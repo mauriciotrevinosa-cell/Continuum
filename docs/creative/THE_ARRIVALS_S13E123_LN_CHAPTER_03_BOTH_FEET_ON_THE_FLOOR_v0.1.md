@@ -61,6 +61,8 @@ For a second it's the only thing he can hear. Then her hand turns, the same ring
 
 “I heard her,” he says, aloud in the clinic. ᴹ
 
+In the yard she'd said it that plainly too. *I know you do, Mau.* He can hear the space she left for Cross to answer.
+
 The memory is still there. Noise has found something real for him, and Mau can no longer see how he is meant to hold it without holding the other one. On the day she put the ring on him he could turn to her in front of the whole house. In the yard there had been nearly as many faces, and they'd all been close enough to hear her.
 
 “I thought if she told me when she was angry I'd hear what she actually wanted.” His breath goes halfway into that sentence and won't make it through the next one. He puts the heel of his hand up against his mouth. ᴹ

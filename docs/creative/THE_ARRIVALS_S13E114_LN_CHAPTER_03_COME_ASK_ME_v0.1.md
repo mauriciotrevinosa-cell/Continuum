@@ -153,9 +153,25 @@ Cross looks down at the cloth over his arm. “Did he let you tell him?” ᶜʳ
 
 She looks at him. “He usually just asks me what I think.” ʸ
 
-“Does he?” asks Cross. ᶜʳ
+“He said he loved you when you started to walk away,” says Cross. ᶜʳ
 
-Yuka can hear that he means for her to think about it. It feels like being handed a question she could answer any way she wanted. She doesn't tell him about Mau asking for the extra minute. She knows what it feels like to ask after Mau when he's late getting back. Tonight he's home and she has walked out again. If she goes up there with a story about what happened in the yard, he'll have one too. She isn't ready to hear where his starts.
+She looks out over the wall. She hadn't told him that. He'd been by the training posts. He could have heard both of them perfectly well.
+
+“He does,” she says. ʸ
+
+“I believe you.” The canvas slips down his arm. He catches it where the stitching is still good. “You'd been trying to get him to talk since he came through the gate. Then you turned to go and he knew exactly what would make you stop.” ᶜʳ
+
+She did stop. She can hear how much quieter he was than she'd expected. It had taken longer to look back because there'd been a second when she thought she heard it the way she usually heard it, down the line. She'd only known it was out loud when she saw him looking at her. Now she's remembering that with Cross standing there, rearranging his grip on the canvas like it was going to rain and he wanted to cover her.
+
+“He asked me to talk today,” she says. ʸ
+
+“Did he ask you about the gate?” ᶜʳ
+
+She tries to think back far enough to answer it. He told her where he was going. He asked for a minute. She said she didn't want one, and after she'd taken the band off he never got to ask her anything else.
+
+Cross pulls the torn edge of the canvas clear of the wall. “You wanted him to tell you where he went before he was already gone. You still get to want that.” ᶜʳ
+
+Her hand stops searching for somewhere to put itself. Of all the things he could have said it was the easiest one to agree with. Tonight Mau is home. If she takes the canvas back now he'll have his own story about what happened in the yard, and she'll have to hear more of it than the part Cross just gave her.
 
 “Can we make one more round before we go in?” she asks. ʸ
 

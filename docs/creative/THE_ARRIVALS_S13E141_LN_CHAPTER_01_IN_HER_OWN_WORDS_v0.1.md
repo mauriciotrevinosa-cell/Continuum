@@ -61,15 +61,13 @@ She doesn't make it softer. She doesn't make it clever. She says it the way Maki
 
 He doesn't say anything for a moment.
 
-She watches him not say anything. She can feel him, down the line. The line he threw open in the clinic, all at once, like a window. She can feel everything going through him, very fast, very warm, too much of it to name.
-
-And under it, the one thing.
+She watches him not say anything. She can feel him, down the line. The line he threw open in the clinic, all at once, like a window. She feels warmth come through the line, and then a moment where he sits very still. She keeps her hand on his knee. She gives him time to tell her what went through him in that moment, if he wants to.
 
 He asks it very quietly.
 
 “Are you sure?” ᴹ
 
-Not *do you mean it*. Not *are you ready*. He isn't asking her to prove anything. She can feel that. She can feel exactly what he's asking, the way she can feel his heart. He's asking because he's spent three months making sure she never had to guess about him, and he wants to make sure, once more, before anything, that she isn't guessing about herself.
+She thinks of all the nights he gave her enough room to want something for herself, and how much she'd hate to answer with anything she thinks he wants just to keep him close. He leaves his hand open on the step between them. She can give him an answer she chose before she sat down.
 
 She loves him so much it frightens her.
 

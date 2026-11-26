@@ -73,7 +73,15 @@ She tells him anyway.
 
 * * *
 
-She tells him about putting her boots on that morning and taking them straight off again. He knew she'd stayed home. This part she hadn't told him.
+She tells him about the folded map under the glove at the back door. He put it in Yuka's hands the day before the fight. He knows about the boots. She told him while he was standing in their room with his shirt half on the floor. He hadn't known she had the map ready to take with her.
+
+“He asked her what you said when she walked away,” says Makima. “She told him. Cross said if she went up there and stood where you'd asked her to, you'd get to believe saying that had worked. So she waited for you to ask her in some other way.” ᴹᵏ
+
+“What way?” ᴹ
+
+“She couldn't tell me.” ᴹᵏ
+
+He sits still long enough to hear Ciel set the cup down beside him. He'd been glad, for half a second, when Yuka looked back. He hadn't had enough thought left in him to ask her for anything.
 
 She tells him about *you just stopped being anywhere*. He knew that too.
 
@@ -250,6 +258,22 @@ He takes a bite. Then he sees her plate. A few crumbs where the toast was. Her k
 He reaches for the bread, and her foot settles right on top of his.
 
 “I'm staying,” he tells her. “I'm making you one.” ᴹ
+
+He gets the knife into the jam. He spreads it along one whole edge of the toast before it occurs to him that if he puts it down now she'll probably ask him what's wrong.
+
+“Did you think that was what I was doing?” he asks. ᴹ
+
+Yuka looks at the knife. He can see her work out which of the things Makima could have told him would make him look at her this way.
+
+“In the yard?” ʸ
+
+He nods.
+
+“I knew you meant it when you said it.” She moves her foot a little so his can stay where it is. “Then he asked me why you said it right then. I liked his reason. It meant I could be angry with you and stop thinking about what I'd done.” ʸ
+
+He finds a corner he hasn't reached yet. When she says she knows he meant it, he hears how much he wanted the rest of that answer the first time. He can think of three things to ask now. One of them is whether she'd have brought it up at breakfast if Makima hadn't told him first.
+
+“Thank you for telling me,” he says. ᴹ
 
 He puts the jam right out to the corners, where she likes it, and hands her the knife because she's got a very precise idea of where the cut should go. She cuts a corner off. He thinks she's going to eat it, but she puts it on his plate next to the piece he'd already started.
 

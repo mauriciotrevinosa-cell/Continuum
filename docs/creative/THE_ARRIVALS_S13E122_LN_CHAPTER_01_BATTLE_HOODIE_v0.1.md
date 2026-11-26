@@ -237,6 +237,10 @@ He just didn't think he could ask it of *her*. Not that morning. Not after the y
 
 She did that.
 
+She used to talk to Cross about how close Mau had gotten before she knew he was doing anything. How he could get her out of the way of a blow she hadn't seen. She told him about the gate because he was a friend. Somehow by the time Cross came to the back door on the morning of the duel, she was listening to him ask whether Mau only told her he loved her because she'd started to walk away.
+
+He hadn't even asked Makima to say *Stop* out loud in the basin. He had trusted her to know when. Yuka sits in the doorway and tries to remember a single word Mau asked her for in the yard, after he told her he loved her. She can remember one person asking somebody else to come with her.
+
 She puts her forehead against her knees and breathes, slow, in and out, through the thick soft fabric of the hoodie, until it stops feeling like she's going to come apart.
 
 * * *

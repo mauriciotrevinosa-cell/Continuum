@@ -79,11 +79,13 @@ He hears her. His hand stays flat against the wood. He wants to lean into her ba
 
 She starts to put a hand out toward him. Halfway there she closes it. The band's there. He looks right at it and still sees the finger she worked it off. It's the little turn she gave it when it stuck on her knuckle that keeps coming back. He could ask her about it right now. By the time her arm comes back down he still hasn't found a way to start.
 
-“Why didn't you come that morning?” he asks. ᴹ
+He keeps thinking of the plate between them. He'd waited for her to finish what she wanted to say about the boots. He could ask her to finish it now. She sees him looking at her and sits where she can put the clean socks down beside her.
 
-Her eyes come up to his. She has a sentence ready. He can see it in her face before she tries again.
+“I told you I put them on,” she says. “I never told you what I did after that.” ʸ
 
-“I put my boots on,” she says. “Cross said I could stay. I was angry, and I let him tell me you'd want me to. Then I took them off. It was me who took them off.” ʸ
+He's got his feet planted where they are. She keeps looking at him while she takes a breath.
+
+“Cross said I could stay. I was angry, and I let him tell me you'd want me to. Then I took them off. It was me who took them off.” ʸ
 
 He looks down at her socks. There were still wet footprints in the dirt by the foot of the quarry path when he came up behind Gojo. He had picked them out from where he was standing and looked up to see whether any of them had stopped on the patch he'd saved. He could tell who carried weight on the outside of a boot. He could tell that nobody had crossed between those two rocks.
 

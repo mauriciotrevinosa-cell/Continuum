@@ -145,7 +145,7 @@ Her thumb comes up against the band. There's a place between it and Grandpa's wh
 
 Cross has his mouth open. She can hear what she used to say before he had to say it for her. *He went through the Gate without me.* She can still be angry about that tomorrow. She won't give him that sentence to say for her again.
 
-“After he saw me do it, he came to the wall with the map,” she says. “After I stayed home with it, he came back and asked if I'd remembered where it was. He had to ask if I'd even thought about him that morning.” ʸ
+“After he saw me do it, he came to the wall with the map,” she says. “When he came home, I tried to tell him I'd put my boots on. He didn't ask me the rest. He thought I'd come down with his supper for Shuna.” ʸ
 
 She can see a little of the map coming out under the glove again. She had known all along how to get there. The only thing she'd been waiting for was for him to come down the hill and ask her to do the thing he'd already asked for. He was going up that same hill toward a man who could kill him. She hasn't let herself put those facts next to one another until now.
 

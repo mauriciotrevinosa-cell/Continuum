@@ -209,7 +209,7 @@ Mai looks down at Yuka's hand. Yuka takes the band out of her pocket before anyb
 
 Yuka shakes her head. She's been able to answer that question all this time. It doesn't tell her what she meant to make him think.
 
-“I wanted him to ask me to put it back on,” she says. “Last night he came home and asked if I remembered the place instead. I said yes and then I let him sit there with that.” ʸ
+“I wanted him to ask me to put it back on,” she says. “Last night I told him I'd put my boots on. He sat there until I was done. Then he asked me to thank Shuna for his dinner.” ʸ
 
 She loses her grip on it. Mai turns her palm up in time to catch it against the edge of the bench. She gives it back when Yuka puts her hand out. By then Yuka has had a chance to see what it looks like to have it in someone else's hand.
 

@@ -97,7 +97,7 @@ She pauses. He can hear a spoon go down in the house across the yard. Nothing el
 
 She looks down at the notebook. The corner has curled up under her finger. She keeps talking while she gets it flat again.
 
-“When you came back, you asked if I'd remembered the place. I did. I remembered every part of it. I didn't have to see the fight to know what I'd made you look up and find.” ʸ
+“When you came back, I told you I'd put my boots on. I was still waiting for you to ask me something. You thanked Shuna and you held onto Makima's hand. I left you sitting there with the part I still hadn't said. I remembered the place. Every line you drew. I knew what I'd made you look up and find.” ʸ
 
 His shirt has a button at the throat. It's the one he brought down from the drawer. He leaves his hand in his lap instead of putting it there. The run of sounds from the yard gets as far as her shoes across the dirt. This time she's still in the chair when he looks at her.
 

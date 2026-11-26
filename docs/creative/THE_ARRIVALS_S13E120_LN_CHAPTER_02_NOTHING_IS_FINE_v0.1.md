@@ -221,7 +221,7 @@ He looks at his hands in hers.
 
 Shoko stops with the cloth folded across both her fingers. She waits for him to turn his other hand over himself.
 
-“After the duel, when she said it back, I heard that too,” he says. “I thought I'd be able to ask her to sit down if she said it. I could barely ask Yuta to get you.” ᴹ
+“After the duel, when she said it back, I heard that too,” he says. “She brought a plate. I was sure Shuna had asked her. She'd put her boots on, she said. I couldn't ask for the rest of it. I could barely ask Yuta to get you.” ᴹ
 
 Shoko takes his other hand once he's got it open. “He heard you,” she says. “He came straight over.” ˢʰ
 

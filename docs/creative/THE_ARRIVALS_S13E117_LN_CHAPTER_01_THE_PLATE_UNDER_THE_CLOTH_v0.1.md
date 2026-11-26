@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 31
 **Source episode:** S13E117
-**Continuity state:** B+433, Yuka viewpoint. Cross talks her out of going to the quarry after she has put her boots on. Ciel relays what she can about the duel. Ori tells Yuka she saw Mau waiting at the steps and reminds her what she promised. Shuna tells Yuka what she saw on the night of the walk and helps her set aside something fresh for Mau. Yuka finally says she loves him back after what she left unanswered in the yard. They remain hurt and apart that night.
+**Continuity state:** B+433, Yuka viewpoint. Cross talks her out of going to the quarry after she has put her boots on. Ciel relays what she can about the duel. Ori tells Yuka she saw Mau waiting at the steps and reminds her what she promised. Shuna tells Yuka what she saw on the night of the walk and helps her set aside something fresh for Mau. Yuka offers the plate and says she had her boots on. Mau asks her to thank Shuna and takes Makima's hand when he needs to stay seated. Yuka finally says she loves him back. Mau believes the meal is a kindness she brought for Shuna and thinks of leaving. He asks Yuta to walk with him to Shoko. Ori invites him to her room later that night.
 
 *When: B+433. While Mau is on his way to the quarry, through the first evening after the duel.*
 
@@ -191,40 +191,68 @@ Yuka steps forward with the plate.
 
 “My head hurts,” he says. ᴹ
 
-She'd been prepared for him to say fine. She nearly asks again out of sheer surprise. Instead she holds the plate closer until he can take it. His hands close around the sides of it. Makima moves a chair out and Mau sits down.
+She'd been prepared for him to say fine. She holds the plate out closer. He looks for somewhere she can put it down. Makima moves a chair out and he sits. Yuka sets the plate in front of him with the edge of the cloth folded up the way he likes to find it when his fingers are cold.
 
-“I was going to go,” Yuka says. ʸ
+“I got as far as putting my boots on,” she says. ʸ
 
-Mau looks at the cloth over the plate. She sees him take one breath, and another. She wants him to ask why she didn't. When he speaks, she can hear what it costs him that he has to ask anything.
+His eyes move from the cloth to her. For a second she thinks he's going to ask where she'd got the idea she ought to stay home. There are things she has ready in case he does. The Gate. The line. How she'd thought he'd have enough people there. He waits a little while, looking at her as if there's a sentence he wants to let her finish even if he's heard it before.
 
-“Did you remember I'd saved it?” ᴹ
+“Tell Shuna thank you,” he says. ᴹ
 
-“Yes.” ʸ
+Yuka sets both hands on the table. She can see which ring he looked for. He moves his eyes away first. On the back of the chair there's a place where he'd set one hand to hold himself there before he sat down. He's feeling for it again.
 
-He lifts the cloth. She can see where the edge of a cup put a round mark on that hand. The band on his finger breaks the line of it. She looks down before he can see her looking.
+“I asked her if I could bring it,” Yuka says. ʸ
 
-She could tell him she was still angry about the Gate. She had the words ready when she was getting his plate. They'd have been an answer to why she hadn't wanted to go. He asked whether she remembered he saved a place.
+He moves the plate toward the middle of the table to give her room to put something else down. There isn't anything else in her hands.
 
-She had. She even remembers where he erased a line on the map so there'd be no chance she'd go up the wrong side. When he drew it for her, he'd already watched her take the ring off. She hadn't had to reach for him or do a single thing to make him come looking for her with it.
+“I'll have some in a minute,” he says. ᴹ
 
-If she starts with the Gate now, he'll sit there and let her tell him how hard he'd made it to come. He can hardly keep his eyes open and he'd still sit there for the whole thing. She keeps her hand on the cloth just long enough to see what it's touching, then lets the plate go.
+Makima is still standing at the side of his chair. He lifts the hand he was going to put on the chair back and reaches for hers. Makima turns her wrist so he won't have to reach quite as far. His fingers close. There's some of the quarry dust in the heel of that hand. Yuka can see it come away against Makima's thumb.
 
-Yuta comes in at the other door looking for Shoko. He sees them and waits there without asking them to move. Mau puts his hand flat on the table, and Yuka notices how hard he's working to keep his eyes open.
+She'd wanted to see him find her when he looked up. By the time he did look up, she'd left him with a place and no one in it. Now she's come down to ask after him where everybody can see her, and the person he wants to hold on to is the one who went with him.
 
-“I'll leave you to eat,” she says. “I won't bother you again tonight.” ʸ
+She doesn't know what he got to see before he had to look away from the ledge. She remembers how carefully he erased a line on her map so she'd know exactly which side to take. He did it the day after he watched her take the band off. There's a little pencil mark left where he went over the spot twice.
 
-She turns. She's almost made it out of the room.
+Yuta comes in at the other door looking for Shoko. He stays there when he sees Mau. Yuka has one hand still on the cloth over the plate. She lets it go.
 
-The last time she said something like that to him he answered before she'd made it as far as the training posts. She stops with one hand on the frame. There is a small thud behind her. He has set his cup down. She has time to think he'll say it again. This time he doesn't.
+“I'll leave you to eat,” she says. ʸ
+
+He's got his eyes on her face. She knows how fast he'd said it in the yard, before she had time to take more than a single step. She goes as far as the door on her own.
 
 “I love you, too,” she says. ʸ
 
-She has to look back to say the last word. His hand is still round the cup. For a moment all he does is loosen his grip. Then he looks at her and nods.
+The last word comes out while she's looking back at him. He gives her a small nod. He has her whole face in front of him and he's still holding Makima's hand when she lets go of the door.
 
-It makes her want to sit in his lap so badly she has to keep hold of the frame. If she crossed the room now he might let her. He might do it because he's missed her as much as she's missed him. She still hasn't told him what happened between putting the boot on and deciding to take it off.
+Upstairs she opens the curtains on his side of the room. She takes the band out of her pocket. She could have worn it down to dinner. The idea had been there while she was getting his plate and she put it off because she'd wanted him to see she could stand in front of him without it. She hadn't expected him to look away so quickly. She hadn't expected to want him to look back just as badly as she wanted him to ask.
 
-She leaves him the room she'd offered him. By the foot of the stairs she has to put one palm against the wall. On the other side of it she hears him ask Yuta if he knows where Shoko is. His voice doesn't hold on the second time he says her name. She waits in the hall until she hears Yuta get up and go with him.
+She sits on the edge of the bed with it closed in her palm. If she puts it back now, he'll see it when he comes up. She tries to work out what she'd be trying to tell him. In the yard she didn't say it. She made him watch.
 
-Then she goes up and opens the curtains on his side of the room. The last of the light is still on the hills. She takes the ring out of her pocket. She could have had it on when he came through the back door. It matters to her now that he asked her about the place without her being able to show him anything on her hand.
+* * *
 
-She sits on the edge of the bed with it closed in her palm. She can feel exactly where it would go if she put it on. She can't bear the thought of him coming upstairs and seeing that she'd done it while he ate, as if putting it back would tell him he could stop feeling whatever he'd felt when it came off. Much later she hears Ori on the landing asking Mau if he wants to come to her room tonight. He asks if she has her pillow ready. Ori says she has two.
+Downstairs Mau looks at the plate. Shuna always covers it this way if she's leaving it for him. He wonders if Yuka had already offered before Shuna asked. He can believe she would. She'd do something kind for him if she thought he was hurt.
+
+He looked up enough times at the quarry to know she'd never come while he'd had his head down. She knew the way up. He'd drawn it for her. By the time he came home he was sure she'd stopped wanting him there. Now he tries to put *I love you, too* beside that and finds he's only given himself another thing he can't ask her to explain.
+
+In the small hollow behind his thumb there is still the warmth of Makima's hand. He hasn't let go of it. He starts to say that he could go somewhere else for the night. If he tells her now, she could help him get out before Yuka needs to come back through and say goodnight. He has enough in inventory to stay somewhere well away from the house. He thinks of finding a room near enough that Ori could come by without anybody needing to tell her what happened.
+
+“Do you want me to stay?” Makima asks. ᴹᵏ
+
+He looks down at their hands. His grip has gone tight again. He loosens it before he answers.
+
+“For a minute,” he says. ᴹ
+
+She sits in the empty chair. He lifts the cloth with his free hand. It would have been easier if Shuna had left the plate on the counter. He could eat it without trying to make it mean Yuka wanted to see him.
+
+He puts the cloth down far enough away that it can't fall back on the food.
+
+“Yuta,” he says. The first part of Shoko's name goes out on a breath too thin to put the rest on it. He has to try again. ᴹ
+
+“I'll go get her,” says Yuta. He gets the door and stands with his hand on it. “Or I can walk you over.” ʸᵗ
+
+Mau keeps thinking of the way out of the yard by the training posts. There is a whole house beyond it he doesn't have an answer for. Right now he can tell Yuta he needs help getting down one step.
+
+“Walk with me,” he says. ᴹ
+
+He finishes the fish. Makima waits beside him until he puts his own hand flat on the table to get up.
+
+Much later Ori finds him on the landing. She asks him if he wants to sleep in her room. He asks if she has her pillow ready. She says she has two.

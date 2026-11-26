@@ -127,7 +127,7 @@ The band is back on. It rests exactly beside the one from Grandpa. She traces th
 
 “I knew where he was looking,” she says. “I waited for him to see. I thought he'd ask me what I was doing.” ʸ
 
-“He asked me if I'd remembered he saved the seat,” she says. “At the quarry. I said yes. I didn't know how to tell him why I'd stayed home.” ʸ
+“I told him I'd put my boots on,” she says. “I wanted him to ask why I took them off so I could tell him. He asked me to thank Shuna for the plate.” ʸ
 
 “Did he come to ask you before the fight?” asks Shoko. ˢʰ
 
@@ -195,7 +195,7 @@ She had been trying to tell Shoko where everything started. The Gate. She can st
 
 She can also see his finger coming up to the place on the map. *Still is*, he'd said when she asked if it was where he wanted her. She can get that far without once putting Cross or the Gate into it. When she gets as far as telling herself she didn't go, she has to set the notebook down beside her so she can cry with both hands against her face.
 
-“He came home hurt,” she says when she can. “I told him I was going to go. Like that ought to be something he could have instead.” ʸ
+“He came home hurt,” she says when she can. “I gave him the part where I put my boots on so he'd ask for the rest. He couldn't even ask for that much by then.” ʸ
 
 Shoko waits. Yuka gets half a breath and has to get the next one too.
 

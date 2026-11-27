@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 16
 **Source episode:** S13E125
-**Continuity state:** B+440 late night into B+441 ("47" → "46"). Mau brings DIO home from Elmesia's garden. He finds Yuka in the chair at the clinic. She takes responsibility for walking away, taking off her wedding band in his sight and staying away from the quarry. Mau says Yuka's line about regretting the marriage back to her so she can hear what still interrupts her reassurance. He says he loves her and wants to go upstairs with her. He asks if that can be his whole answer for tonight. The question about the band stays with him. He tells her a little about the attacks and makes a separate apology for closing her line. She asks him to open it. They kiss and sleep beside each other. The repair has begun.
+**Continuity state:** B+440 late night into B+441 ("47" → "46"). Mau brings DIO home from Elmesia's garden. He finds Yuka in the chair at the clinic. She takes responsibility for walking away, taking off her wedding band in his sight and staying away from the quarry. Mau quotes Yuka's words about regretting the marriage. He hears her when she says she wants him home and still hears what she said in the yard. He cannot tell which to believe yet. He says he loves her and wants to go upstairs with her. He asks if that can be his whole answer for tonight. The question about the band stays with him. He tells her a little about the attacks and makes a separate apology for closing her line. She asks him to open it. They kiss and sleep beside each other. The repair has begun.
 
 *When: B+440, close to midnight. Ori's map is on the clinic windowsill, unfolded, held flat with a stone.*
 
@@ -177,17 +177,15 @@ He had a question for her since she brought him the cup. *Did you want me to see
 
 She takes a breath. He can still hear it catch on the way in. He thinks he knows what she's getting ready to say. He knows how much he wants to hear it and how easily he could give her an answer she'd want in return.
 
-“Maybe I shouldn't have married you,” he says. ᴹ
+“You said, ‘Maybe I shouldn't have married you.’ In the yard.” ᴹ
 
-Her hand goes flat on the notebook. He hears it click where the band touches the cover. She looks at him the way he looked at her in the yard. The first time he said it back to himself it had sounded even worse than that.
+Her hand goes flat on the notebook. He hears the band click against the cover.
 
-“That's what I hear first,” he says. “Sometimes you say something like you want me to come upstairs and I hear it before I get to the end of what you just said.” ᴹ
+“I hear you now. You want to be my wife. You want me to come upstairs.” He has to take a breath between the two sounds of her voice. “I still hear what you said out there. It sounds just as much like you. I don't know which one to believe yet.” ᴹ
 
-She has to take her hand off the notebook to stop the sound this time. “I heard it for a second like it was something you'd just decided.” ʸ
+Her mouth opens. For a second he thinks she's going to say it again, louder this time, so it can get through. She looks down at the foot of the cot instead.
 
-“That's how I heard you in the yard.” ᴹ
-
-Yuka looks down at the foot of the cot. “I kept thinking I could come in and say I want to be your wife and you'd have it the next time you needed it.” She presses her lips together before she tries to say the next part. “All that time upstairs. I made it sound like I'd take it back in one breath.” ʸ
+“I wanted you to stop me,” she says. “I thought if I made it sound like I could leave, you'd finally tell me what you wanted.” Her hand lifts off the notebook. “And you came to find me the next morning anyway. You were already trying to tell me.” ʸ
 
 She gets both hands underneath the notebook and sets it down beside her.
 

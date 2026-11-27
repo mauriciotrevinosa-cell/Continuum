@@ -239,7 +239,7 @@ She studies his face a second. Then she takes her hand off the cot and puts it o
 
 “Like this?” ᴹᵏ
 
-He nods into her palm. She brings him forward until his cheek is against her chest. Her other arm goes round his shoulders. He stops with his mouth shut and his eyes open, still keeping most of his weight on the tips of his feet.
+He nods into her palm. She brings him forward until his cheek is against her chest. Her other arm goes round his shoulders. She rests her head against the top of his. He stops with his mouth shut and his eyes open, still keeping most of his weight on the tips of his feet.
 
 “I can't keep it up tonight,” he tells her. ᴹ
 
@@ -253,7 +253,7 @@ The rest of him follows so suddenly Makima has to tighten both arms to keep him 
 
 She'd thought she'd known everything that could come across the bond at once. She had been in him when he woke and couldn't feel the room. She'd felt him recognize Shoko's voice and wait for the part of a breath that would let him answer. She hadn't known how much of himself he was still holding up even then.
 
-She feels it go now. His arms close all the way round her waist. The breath he's been holding comes out against her shirt and takes the next one with it. He tries to get a word out round it. For a moment she thinks he needs her to answer something. Then she feels her shirt go wet against his cheek and he takes his face a little farther into it. He can't even do that without her feeling how badly he wanted not to cry where she could see him. She lowers her head far enough to put her cheek against his hair, and the next breath makes a sound too. He lets it.
+She feels it go now. His arms close all the way round her waist. The breath he's been holding comes out against her shirt and takes the next one with it. He tries to get a word out round it. For a moment she thinks he needs her to answer something. Then she feels her shirt go wet against his cheek and he takes his face a little farther into it. He can't even do that without her feeling how badly he wanted not to cry where she could see him. The next breath makes a sound too. He lets it.
 
 There was a time when she could spend a whole afternoon figuring out what she could take away from him so that the next time he wanted anything, he'd have to come to her. The first time he thanked her, she thought about it for days. She hadn't been able to make him say it again.
 
@@ -263,9 +263,15 @@ Now he has asked her for the thing she wanted him to ask for. She's never been c
 
 “Yes,” she says. ᴹᵏ
 
-He makes a little sound against her when she moves to give him more room. She settles. A while later his breath comes on its own. She can move her thumb across the back of his head without his hands closing harder on her.
+He makes a little sound against her when she moves to give him more room. She settles with her head still resting on his.
 
-He's asleep. She had been waiting to see if he would try to say something more to her. Sleep gets there before he can.
+“I love you,” he says into her shirt. ᴹ
+
+“I love you too,” says Makima. She hears the whole sentence only after it's out. ᴹᵏ
+
+His fingers loosen against her back. A while later his breath comes on its own. She can move her thumb across the back of his head without his hands closing harder on her.
+
+He's asleep.
 
 She stays with his weight against her through the last of the voices in the kitchen. Somebody laughs, once, out by the pump. He sleeps through it. When the noise at the far end of the yard begins to come closer, she gets one arm along his back and takes her knee off the cot. It gives her room to lower him without waking him. She gets his feet up, pulls the blanket to his shoulder and puts the empty cup on the sill so there'll be room when Shoko brings him another.
 

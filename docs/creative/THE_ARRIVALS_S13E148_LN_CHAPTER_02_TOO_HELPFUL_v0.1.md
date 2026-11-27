@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 22
 **Source episode:** S13E148
-**Continuity state:** B+482 ("5"). Ciel tells Mau what she's seen, as promised: not a report, a telling. Cross has kept every term. He hasn't spoken Mau's name. He hasn't gone near Ori. He has been helpful: to Shuna, to Mai, to Senku, to the witches. Too helpful, Maru said. Today Ciel noticed something else: Cross has been asking people small questions. Harmless ones. Where Mau goes in the mornings. Which nights he sleeps in the clinic. How far Makima can walk. When the house goes quiet. None of it is forbidden. All of it is a map. Mau doesn't confront him; there's nothing to confront. He tells Yuka, plainly. He tells Maru. He tells Makima, who listens with an expression Mau has seen once before, on her own face, in another life, at the outer post. "He's learning," Makima says. "Slowly. The way I did." Mau and the house have no proof yet and keep watching. The reader sees Cross writing to Yuuki, whose inquiries about Mau began after the fight with Sukuna.
+**Continuity state:** B+482 ("5"). Ciel tells Mau what she's seen, as promised: not a report, a telling. Cross has kept every term. He hasn't spoken Mau's name. He hasn't gone near Ori. He has been helpful: to Shuna, to Mai, to Senku, to the witches. Too helpful, Maru said. Today Ciel noticed something else: Cross has been asking people small questions. Harmless ones. Where Mau goes in the mornings. Which nights he sleeps in the clinic. How far Makima can walk. When the house goes quiet. None of it is forbidden. All of it is a map. Mau doesn't confront him; there's nothing to confront. He tells Yuka, plainly. He tells Maru. He tells Makima, who listens with an expression Mau has seen once before, on her own face, in another life, at the outer post. "He's learning," Makima says. "Slowly. The way I did." Mau and the house have no proof yet and keep watching. The reader sees Cross writing to Yuuki. Yuuki's inquiries about Mau began after Sukuna. He sees an opening after Cross reconnects with Yuka and notices Mau withdrawing, then suggests using Mau's habit of getting out of the way to push him farther out. What Cross uses from his history with Yuka is his choice.
 
 *When: B+482. "5." Nobody wrote anything under it. Ciel asked Mau not to.*
 
@@ -205,7 +205,13 @@ Yuuki's last note sits open beside him. Cross had told him he'd seen Mau walking
 
 *You can win the fight and still come home to an empty room,* he'd written on the back.
 
-He'd asked Cross the same sort of thing the first time they spoke about Yuka, before Cross had gone up the road to see her. Where would she go if she had something to tell her husband and wanted him by himself? Which part of the old life did she still tell the same way? That one Cross hadn't needed to answer. He'd known exactly which corridor he'd talk about when he saw her again.
+The first thing Cross wanted when he went up to the house was to see Yuka walk out to meet him. He'd been told she was alive and he hadn't quite believed it until he watched her lift Tsurugi's pack like nothing. Later, when she told him what had happened after the diagnosis, he brought up the corridor. She'd been surprised he remembered the door. That night he'd gone back over the whole conversation and couldn't remember when she'd last sounded that happy to see him.
+
+By the time he wrote to Yuuki about her, she'd already started to tell him what was wrong at home. He'd written about the supper she came back for after their walk. How her husband got up before anyone asked him to, and how Yuka went on talking beside him. He'd been hoping she'd do exactly that again. He left that part out.
+
+Yuuki had sent back one question. *If he already gets out of her way, how far do you think he'll go if he believes she wants him to?*
+
+Cross had wanted to answer that one. Afterward it got easier to hear what Yuka was afraid of and ask her a question that would let her go on being afraid. Yuuki had never heard her talk about that corridor. Cross knew exactly which part she couldn't finish, and when to let her stop.
 
 He writes that Makima can still reach Mau inside even if she isn't standing beside him. He starts a second line about the clinic. Then he puts the pencil down. Yuuki had asked if Yuka ever tried to go back to the orchard wall on her own. Cross can leave that place out of the next letter. He knows she'll come back there eventually, if he gives her enough time to miss it.
 

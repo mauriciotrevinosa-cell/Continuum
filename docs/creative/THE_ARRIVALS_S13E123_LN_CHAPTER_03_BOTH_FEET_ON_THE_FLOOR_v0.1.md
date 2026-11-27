@@ -107,7 +107,7 @@ He can see her through the gap. She pushes the door open with one hand. The othe
 
 “You can give me your hand if you need to put it somewhere,” she says. ᴹᵏ
 
-He puts it in hers. For a while he can only feel where his wrist rests on her fingers. She keeps her hand there while he gets the rest of it back. Inside, Noise hasn't moved away.
+He puts it in hers. At first all he can feel is her hand under his wrist. He works his fingers into the gaps as soon as he can feel them. Inside, Noise hasn't moved away.
 
 “I tried to look at something good,” he tells her. ᴹ
 
@@ -123,7 +123,7 @@ He calls for Shoko. His voice breaks on it and he tries again, loud enough this 
 
 “I'll stay.” ᴹᵏ
 
-Makima curls the tips of her fingers over his wrist. He can feel all four of them by the time Shoko's foot comes down on the step. Only then does he manage to look up at the door.
+Makima keeps her hand where he left it. Shoko's foot comes down on the step. Only then does he manage to look up at the door.
 
 “Mom?” ᴹ
 

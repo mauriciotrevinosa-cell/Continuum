@@ -109,9 +109,7 @@ She walks with them at Mau's right shoulder until they stop above the ruins. At 
 
 She looks at Yuka.
 
-Yuka holds out her hand. Not to shake. Palm to palm, thumb over the back, just for a moment.
-
-Makima takes it.
+Yuka holds out her hand. Makima takes it, closing her fingers when Yuka's thumb presses once across her knuckles.
 
 Then she lets go, and steps back, and is gone. Not gone. Inside. At the table. Mau feels her sit down there, beside Ciel, and Ciel say something to her, and Makima say something back.
 

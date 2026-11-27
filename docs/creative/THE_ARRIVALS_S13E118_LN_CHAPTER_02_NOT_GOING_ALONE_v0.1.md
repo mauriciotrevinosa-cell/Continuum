@@ -261,7 +261,7 @@ She holds out her hand.
 
 Sideways, where he can find it without having to move away from Yuka first.
 
-He takes it the way he did after the fight in the yard. His fingers go between hers. She waits for him to settle his thumb before she closes hers across it. The next time he takes a breath he can feel exactly where she is, even though he's still looking at the ground by Yuka's feet.
+His fingers slide between hers. He takes a breath, still looking at the ground by Yuka's feet.
 
 He doesn't look at Yuka's face as she watches them do it.
 

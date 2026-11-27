@@ -49,13 +49,13 @@ They stop. He has her sleeve between two fingers. He means to use it to keep fro
 
 “Yes.” ᴹᵏ
 
-He puts both arms round her and rests his forehead against her shoulder. There's a noise he's been keeping in since the first piece of stone came back under his feet that morning. He lets it out into the fabric. Makima feels him come down into the embrace and takes more of his weight without making him stand straight for it.
+He puts both arms round her and rests his forehead against her shoulder. There's a noise he's been keeping in since the first piece of stone came back under his feet that morning. He lets it out into the fabric. Her hand comes up between his shoulder blades. He can feel her shift one foot in the gravel as he leans harder.
 
 “I can't go another bend yet,” he says. ᴹ
 
 “Then don't.” ᴹᵏ
 
-He has spent the whole walk waiting until he can see the next place to put his foot. He leaves his last one where it is. She has a hand across his back. By the time his grip loosens, she's already holding him up on her own.
+He has spent the whole walk waiting until he can see the next place to put his foot. He leaves his last one where it is. By the time his grip loosens, she's already holding him up on her own.
 
 His next memory is of her arm underneath his knees and the fence going past behind her.
 

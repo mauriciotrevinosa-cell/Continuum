@@ -143,21 +143,9 @@ She looks at Yuka.
 
 “And then he thanked me,” she says. “When he had no reason to. And then he forgave me. In a way. Not all of it. He never pretended it was all. But enough to let me stand next to him. And I found out what it was. What I'd been looking for. It was a friend.” ᴹᵏ
 
-She turns her hand over again.
-
-“That's all I want from him,” she says. “That's all I've ever wanted. Someone at my level who holds my hand in the dark so we don't lose each other. I have it. It's more than I ever thought I'd get.” ᴹᵏ
-
 * * *
 
-Yuka sits very still on the step.
-
-She thinks about the yard. *You'd rather have her. When it's bad, you go to her.* She thinks about sitting on the wet grass watching them walk north hand in hand. She thinks about two weeks of being afraid of this woman. Of thinking she'd come into the house to take him. Of thinking that every time he went inside to the room with the table and the cup, Makima was there, and she wasn't, and that meant something.
-
-And all the time, the thing she was afraid of was impossible.
-
-Not unlikely. Not something Makima was resisting. *Impossible.* Makima doesn't have it to give. She never did. All she ever wanted was a friend, and she found one, and the friend was Yuka's husband, and that was never, not for one second, a door Yuka was standing on the wrong side of.
-
-She was afraid of a room that didn't exist.
+Yuka looks at the grass where she sat that morning and watched them go north. She'd looked at their hands and thought the next time Mau had a reason to reach for somebody, he wouldn't even think of her. All she could picture then was the two of them getting farther away. Now she keeps coming back to the second Makima told her about, when Mau reached behind him because he couldn't bear to turn round and see that nobody was there.
 
 She puts her face in her hands.
 
@@ -173,11 +161,7 @@ Makima looks at it.
 
 Makima looks at her for a long moment.
 
-Then she takes it. Palm to palm. Thumb over the back.
-
-It's very ordinary. That's the strange thing. Yuka was expecting it to feel like something. It feels like holding someone's hand. Makima's hand is cool and dry and quite small, and she holds on firmly, not hard, the way you'd hold a rail on a stair.
-
-*I'm here.*
+Makima presses her palm against hers. Her thumb comes to rest across Yuka's knuckles. Yuka hadn't realised how tightly she'd been holding her fingers together until she could let them rest.
 
 Yuka looks down at their hands.
 

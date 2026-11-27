@@ -253,7 +253,7 @@ Makima looks at his hand for a long time.
 
 Then she takes it.
 
-Not with her fingers through his. Not the way Yuka holds his hand. Palm to palm, thumb over the back of his hand, firm. The way you'd shake hands with someone on a deal you both meant. And then she doesn't let go. She keeps holding it, like that, between them on the wall, a friend's hand.
+She presses her palm against his and folds her thumb across the back of his hand. The stone is cold underneath both of them. After a while he can tell exactly where her hand is warm.
 
 “Before you, I'd never had one,” she says. ᴹᵏ
 
@@ -275,7 +275,7 @@ Her hand tightens, very slightly, on his.
 
 He doesn't say anything.
 
-He doesn't have to. He holds her hand, like that, a friend's handshake, on the wall at the bottom of the yard, and looks at the dark with her, and lets the house be loud behind them.
+He doesn't have to. He looks at the dark with her and lets the house be loud behind them.
 
 After a while, she says, still not looking at him:
 

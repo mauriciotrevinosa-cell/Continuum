@@ -119,7 +119,7 @@ Mai looks at the bit she's been working on for a whole second. Then she gets up 
 
 There are still two loose pegs on the clinic sill after supper. Yuka takes them back before Ori can ask if anyone has counted. She catches the door before it pushes all the way in and knocks on the frame.
 
-Makima is sitting on the low chair by the cot. Yuka can see one of her shoes where the lamplight falls across the floor. Mau's leaned forward so he can hold a bowl against both his knees. His hand is out to one side, empty. When he hears the knock she turns her palm up where he can find it. He closes his fingers around hers. It's done by the time he sees who knocked.
+Makima is sitting on the low chair by the cot. Yuka can see one of her shoes where the lamplight falls across the floor. Mau's leaned forward so he can hold a bowl against both his knees. His hand is out to one side, empty. When he hears the knock, his fingers slip between Makima's. It's done by the time he sees who knocked.
 
 Yuka feels the urge to take one step back. There's nobody behind her. She stays.
 
@@ -135,7 +135,7 @@ She goes round the cot. The stool drags on one foot, so she lifts it and carries
 
 “A little farther forward. Thanks.” ᴹ
 
-He gets the bowl onto it. Makima moves to take her hand away and he closes his fingers while he still has them round hers.
+He gets the bowl onto it. Makima starts to let go and he holds on.
 
 “Stay a bit?” he asks her. ᴹ
 

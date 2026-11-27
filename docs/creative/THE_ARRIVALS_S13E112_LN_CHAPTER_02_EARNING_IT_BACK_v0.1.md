@@ -251,7 +251,7 @@ After a while, he holds out his hand.
 
 Sideways. Without looking. The way he did on the wall.
 
-She takes it. Palm to palm. Thumb over the back of his hand. A friend's handshake, and then she doesn't let go.
+She takes it. He feels her thumb settle across his knuckles.
 
 They sit there like that, on the floor of the guardian's chamber, among the pieces of the beetle, with a sealed thing under them that neither of them is going to open, and say nothing for a long time.
 

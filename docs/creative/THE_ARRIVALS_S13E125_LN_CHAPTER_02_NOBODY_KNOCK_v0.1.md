@@ -145,6 +145,14 @@ She looks at him. He's already taken a piece of her bread from the plate Shuna s
 
 Her hand goes to his back as she leans over him for something on the far side of the board. It stays when she finds what she wants. Across from them, Milim can't fit her next piece in anywhere without reaching past two people. She pushes herself up, hands on the floor, and knocks over a whole side of her own castle with her sleeve.
 
-The sound is made of wood this time. Mau hears it coming and gets one upright piece under his palm. Yuka has another. Milim looks from one of them to the other and tells them they could have caught the lot if they'd stopped looking at each other for one second.
+The sound is made of wood this time. Mau hears it coming and gets one upright piece under his palm. Yuka has another. Makima lifts the roof off both pieces while they're still holding them and puts it on the only part left that is actually level.
+
+“Did we win?” she asks. ᴹᵏ
+
+“You'd have to ask Milim,” says Mau. “She put an M on our team.” ᴹ
+
+“There's certainly an M on it now.” Makima leans back far enough to let DIO see that she's stolen the best piece off her garden and put it on top. ᴹᵏ
+
+DIO takes it straight back. Mau digs around for something the same size and offers Makima a square piece with one end chewed. She takes it very seriously and puts it where the bite ought to show. Milim looks from one of them to the other and tells them they could have caught the lot if Mau and Yuka had stopped looking at each other for one second.
 
 Mau's laughing before he can come up with anything to say to that. Yuka offers Milim the piece she saved and sits close enough to him that he has to hold the board steady for both of them.

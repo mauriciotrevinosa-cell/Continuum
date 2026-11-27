@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 33
 **Source episode:** S13E118
-**Continuity state:** B+434 night. Yoru reports independently moving devils and tries to frame the danger as her test. The B397 pact explicitly bars arranged/proxy killing, weapons intended for covered killings, attacks on the household and withdrawable lethal instructions. Mau challenges that boundary. Yoru claims she sought later leverage and ordered no present attack, expected deterrence, told them to stop and failed; this is her account, not narrator certification. Ordinary independent devils may not be her proxies, but calling an arranged attack a test would not exempt it. Her presence does not override DIO’s ward; protected grounds retain their old footprint. Scout sight corroborates the openings. The mechanism of erased devils returning is unverified, not an established single hole at the house.
+**Continuity state:** B+434 night. Yoru reports independently moving devils and tries to frame the danger as her test. The B397 pact explicitly bars arranged/proxy killing, weapons intended for covered killings, attacks on the household and withdrawable lethal instructions. Mau challenges that boundary. Yoru claims she sought later leverage and ordered no present attack, expected deterrence, told them to stop and failed; this is her account, not narrator certification. Ordinary independent devils may not be her proxies, but calling an arranged attack a test would not exempt it. Her presence does not override DIO’s ward; protected grounds retain their old footprint. Scout sight corroborates the openings. The mechanism of erased devils returning is unverified, not an established single hole at the house. Makima tells Yoru the couple aren't separated, then uses a remark about marrying by proxy to draw Yoru's attention off Yuka. Mau states for himself that he's married to Yuka. Makima goes to Yuka afterward and explains what she was doing.
 
 *When: B+434. Night. The kitchen door is open behind Mau; dinner is on the table, untouched; the light from inside falls across the yard to the gate.*
 
@@ -237,15 +237,23 @@ Yoru turns the smile on him.
 
 “Beat me one day and I might consider marrying you. You wouldn't have had to look twice for me.” ʷᵈ
 
-“I'm married to Yuka.” ᴹ
+“They aren't separated,” says Makima. ᴹᵏ
 
-The answer is out before she can finish smiling. He keeps his eyes on Yoru. He can still hear how quietly Yuka said she shouldn't have married him. The words reached him from about where she's standing now.
+Yoru's eyes travel back to the porch. She nearly gets all the way to Yuka.
 
-On his side of the porch he can say exactly who he's married to. He doesn't ask her to say it with him.
+“And if any of the Horsemen were going to marry him, it would be me,” Makima adds. “By proxy, obviously.” ᴹᵏ
 
-Yoru watches the doorway for another beat.
+Yoru turns her whole head. “Since when do I need you to tell me who I can marry?” ʷᵈ
 
-“When are they coming through?” Mau asks. ᴹ
+“Why? Did you ask Asa first?” ᴹᵏ
+
+Yoru takes her eyes off the doorway. Something at the corner of her mouth tightens. Her sister is still standing at the bottom of the steps with her arms at her sides, waiting for a reply as if she'd meant to ask the question all night.
+
+“I'm married to Yuka,” says Mau. ᴹ
+
+He can say it while Yoru is looking elsewhere. He can still hear how quietly Yuka said she shouldn't have married him. The words reached him from about where she's standing now. He keeps his eyes in front of him. He doesn't need her to say it with him.
+
+“When are they coming through?” he asks. ᴹ
 
 “Morning,” says Yoru. “They'll be through by morning. The ridge past your daughter's ruins. You'll feel them. You feel everything now.” ʷᵈ
 
@@ -280,3 +288,45 @@ Behind him, in the doorway, Yuka is standing with her hand pressed against her c
 She heard all of it.
 
 She heard *not now*.
+
+* * *
+
+Rimuru asks for a lamp and a map and Mau goes back down the steps to meet him. Yuka gets their bowls out of the way before anyone has to ask. She stacks them too close together. The bottom one ends up making a wet ring on the inside of the top one and she has to pull them apart again.
+
+“Can I speak?” asks Makima. ᴹᵏ
+
+Yuka sets the bowl down. For a second there's no room on the counter to put the other one. Makima waits until she finds a place.
+
+“Yes.” ʸ
+
+“I didn't think you needed to hear anything about another wedding from me,” says Makima. “I said it because I could see where Yoru was looking. I told her you were married and she was still looking past me at you.” ᴹᵏ
+
+“You said we weren't separated.” ʸ
+
+“I did. I think she was waiting to hear how much trouble you'd have saying it yourself.” ᴹᵏ
+
+Yuka puts a little distance between the bowls so they won't pick up the same mark again. “And if you'd stopped there?” ʸ
+
+“She'd have tried something else. She didn't even have to look at him to tell you where he kept looking in that quarry. I wanted her to have a question for me instead.” ᴹᵏ
+
+“So you told her you'd marry him.” ʸ
+
+“I told her I'd have a better claim than she did. She'd spent all that time looking for a way to put herself on the other side of you. I know what it feels like when someone tells you they got there first.” ᴹᵏ
+
+“Did you mean it?” Yuka asks. ʸ
+
+Makima gives that question the time it takes to put both bowls right side up. “I want to keep the friend I have.” ᴹᵏ
+
+Yuka gets a corner of the cloth into the first bowl. She moves it round in a slow circle while she thinks about where she's heard Makima use that voice before.
+
+“You liked knowing she'd turn around,” Yuka says. ʸ
+
+“Yes.” After a moment Makima adds, “I saw your face when I said it. I didn't like that. I came in to tell you why instead of leaving you to ask him what I meant.” ᴹᵏ
+
+Yuka looks over at the map table. Mau is leaning in so Rimuru can see something he's drawn under the ridge. He told Yoru he was married to her. He'd said it without ever looking at her.
+
+“I was going to tell him that I put the band back on because I wanted to,” she says. “That's about as far as I got before she came.” ʸ
+
+Makima looks down at Yuka's hand. Then she looks up again. “I'd tell him that when you can.” ᴹᵏ
+
+Yuka dries both bowls and puts them back in the cupboard. After Makima goes back out she takes the notebook upstairs. She opens it to the number she wrote this morning. There are a lot of things she could get into the space under it and let Mau find on his pillow. There is still something she wants to have to say to his face.

@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 18
 **Source episode:** S13E112
-**Continuity state:** B+430, dawn to late afternoon. Mau and Makima clear a wild gate without changing the house gate’s separate rules. The clear credits his balance; physical floor drops go to inventory. He wants to break an optional deeper seal; Makima stops him. He says he fears being replaced. They record the seal for a later planned survey and leave through the ordinary exit; the cleared gate closes. They return wealthy, tired and still emotionally unsettled.
+**Continuity state:** B+430, dawn to late afternoon. Makima wants to explore the wild Gate with Mau and they agree she can ask him to stop. They clear it without changing the house Gate’s separate rules. The clear credits his balance; physical floor drops go to inventory. He wants to break an optional deeper seal; Makima stops him. He says he fears being replaced. They record the seal for a later planned survey and leave through the ordinary exit; the cleared gate closes. They return wealthy, tired and still emotionally unsettled.
 
 *When: B+430. From first light in the hills to the late afternoon, when the light goes long. At the house, the notebook now says "57", in Yuka's hand; she wrote it when she woke up and found the bed empty.*
 
@@ -41,7 +41,27 @@ Makima walks behind him through all of it.
 
 She doesn't do much. She can't go far from him; Noise holds her body, and Noise is busy. Once, on floor three, something comes at her from a side passage while he's in front, and she looks at it, just looks, and it stops. Not dead. Just stopped, the way a dog stops when someone it respects says *no*. He kills it on the way back past.
 
-She doesn't comment. Neither does he.
+He goes to step past it and sees her looking down. The thing had come out of a slot no wider than her arm. It's lying where it came out, a long piece of bone showing through a slit in the side.
+
+“I was going to tell you it had one foot facing back the way it came,” she says. ᴹᵏ
+
+Mau lowers the dagger. “I said you'd have to go faster.” ᴹ
+
+“I saw it first. You killed it first. I think that's two separate things.” ᴹᵏ
+
+He bends far enough to see the foot. It does turn the wrong way. He'd seen the joint and filed it away with all the things he hadn't needed to know to get them past the slot. She was waiting to see what he'd make of it.
+
+“It can probably go through there backwards,” he says. ᴹ
+
+“Can you?” ᴹᵏ
+
+“Probably.” ᴹ
+
+“Good. You can show me on the way out.” ᴹᵏ
+
+He walks past her. After a few steps he slows down so there's room for her to catch him. “I can show you. I'm choosing a better hole than that one.” ᴹ
+
+She comes up level with him as they get to the stairs. By the bottom she's describing two things she saw on the first floor that he's going to have to let her count too.
 
 Floor four has water.
 
@@ -51,11 +71,27 @@ Halfway across, he thinks about the drowned level in the Rulers' gate. Carrying 
 
 He goes faster.
 
+On six the staircase breaks halfway up and starts again at the next wall. Mau takes a step where there ought to be stone, turns on Sky and comes down the other way round on the first intact stair. He looks back to see whether Makima saw the turn.
+
+“Very good,” she says from below. “Can you show me where you expect me to put a foot?” ᴹᵏ
+
+He comes back without turning this time. He holds out a hand and steps from dry stone into the gap as easily as he'd cross a room to get a cup. She takes it, goes exactly where he goes, and steps down on the other side. When she sees how far they carried each other past the broken part she looks at him instead of looking back.
+
+“I liked doing that with you better than I liked watching it,” she says. ᴹᵏ
+
+He laughs on the last step. She keeps her hand in his until she has both feet down.
+
 Floor seven has the ceiling.
 
 It comes down while he's in the middle of the room, the whole thing, slow and then fast, stone grinding on stone. He doesn't run. He puts Infinity over himself and Makima and lets it come down on that, and holds it there, and walks out the far side with the ceiling resting on nothing above their heads.
 
-On the far side, Makima looks back at the room. The ceiling is lying on the floor now, where it dropped when he let go.
+On the far side, Makima looks back at the room. The ceiling is lying on the floor now, where it dropped when he let go. He has the sense of water climbing behind it, getting in above his boots. He listens for the direction of it until he hears his name the second time.
+
+“Is it still coming in?” he asks. ᴹ
+
+“There's no water on this floor.” Makima comes round where he can see her. “That's dry stone where you're standing.” ᴹᵏ
+
+He looks at the grit at the end of his boot. He moves his foot across it. It leaves the kind of mark feet make when the floor's been dry for years.
 
 “You didn't have to do that,” she says. ᴹᵏ
 
@@ -111,13 +147,23 @@ She's standing in front of him. Right in front of him, on the other side of his 
 
 “It's sealed. Something's down there. If I don't open it, someone else will find it eventually and—” ᴹ
 
-“Then someone else can find it,” says Makima. “With Gojo and Yuta and a plan and Shoko waiting at the top. Not you. Not today. Not while you're missing sleep and stopping in the middle of a fight to stare at nothing.” ᴹᵏ
+“Ciel, was this under the guardian on your survey?” Makima asks. ᴹᵏ
 
-He stands up.
+*No. I can see its outline from here. I don't have a classification.* ᶜ
 
-She doesn't move.
+He puts a little less weight on the palm that's on the floor. “I can take a look.” ᴹ
 
-“You said you came here to clear it,” she says. “You cleared it. Tell me what you want badly enough to open this, and I'll listen.” ᴹᵏ
+“On seven you had to turn and look at me after I said your name. Twice. Then you asked me if the water was still coming in. We'd already left it behind.” Her foot stays where she put it, over the first part of the outline. “I can come back with you to look at this. We'll bring Gojo and Yuta. We'll let Shoko know where we've gone. Today I want the minute you said I could ask for.” ᴹᵏ
+
+He stands up. She has to lift her head a little to see his face. The stone behind her foot is very cold. He can make out an uneven line in it where he'd need to put the first cut.
+
+“Would you move if I told you I'm good enough to kill it?” he asks. ᴹ
+
+“I think you probably are,” she says. “I watched you win all the way down here. You looked up to see if I'd caught what you did with the step on six. On the last floor you didn't even look when the exit opened.” ᴹᵏ
+
+His eyes go toward the ordinary exit, a thin place in the light behind the guardian. He remembers reading the notice. He can't remember whether he'd looked past it.
+
+“Stay with me for a minute,” she says. “I want to hear what you're going down there for.” ᴹᵏ
 
 He looks at her for a long time.
 
@@ -225,6 +271,16 @@ She thinks about it. “I wish there were fewer legs round the place we sat down
 
 He looks at the remains of the beetle. By the time he looks back at her she's looking at them too, trying to arrange her mouth as if she hadn't said anything funny. It gives him one good breath all on its own.
 
+He gets up far enough to see whether there's a part of the column she can have without getting her coat dirty. There isn't. He puts his other hand out and she takes it so he can help her up.
+
+“I did want to come,” she says. “You can ask me again when you want to go somewhere and you haven't got anything to clear.” ᴹᵏ
+
+He could say she only came because he'd already made up his mind. She had asked him to look at a foot on the third floor. He wonders how many things he'd have got to see if he'd gone as slowly as she wanted.
+
+“You could point something out before we go back,” he says. “On the road. Somewhere you want to stop.” ᴹ
+
+Makima straightens her cuff where it caught against the column. “I've already seen a place.” ᴹᵏ
+
 Before they leave, Ciel records the unopened seal and its position. Mau marks it on their map for a later survey with the house. The ordinary exit is still available; he takes it rather than breaking a second way deeper. Once they are both outside, the cleared gate closes.
 
 They come out in the late afternoon.
@@ -239,7 +295,13 @@ The light is long and gold over the hills. He can't see gold. He knows it's ther
 
 “I know, Ciel.” ᴹ
 
-They walk home over the hills, Makima a step behind him, his inventory carrying the floor drops, his balance higher by an amount he didn't need and didn't check.
+There's a flat place where the rain has gone down between the rocks and left the smaller stones on top of each other. Makima had walked past it in the morning. She stops there now and shows him a grasshopper on the tallest stone. It's turned so that it can see both of them. Mau crouches to look and it goes round to the side she was on before he moved.
+
+“It saw you first,” he says. ᴹ
+
+“Yes,” says Makima. She moves her foot and it comes back round. “I think we should count it.” ᴹᵏ
+
+They stay just long enough for it to jump. After that they walk home over the hills, his inventory carrying the floor drops, his balance higher by an amount he didn't need and didn't check. Makima falls a step behind him when they get to the narrow part of the path.
 
 He doesn't feel better.
 

@@ -155,6 +155,26 @@ She takes a bite out of his half as well, leaving just such a mark. Mau looks do
 
 * * *
 
+Makima gets a stool in near Mau's left elbow as Shuna starts clearing a space for the kettle. Yuka moves her feet far enough under the blanket to let it through. By the time Makima puts her cup down, Mau has already leaned forward to put a little cake on her plate.
+
+“Are you sure I haven't had one?” she asks. ᴹᵏ
+
+“You had the piece that came away in Rem's hand.” ᴹ
+
+“I was very generous with it. Ori had half.” ᴹᵏ
+
+“Then we both know you haven't had one.” ᴹ
+
+Yuka turns her head to see which plate he got it from. He's given Makima the one she asked Rem to bake a little longer so the bottom would go crisp.
+
+“Do you remember what everybody likes?” she asks him. ʸ
+
+“He doesn't remember it for people who look like they only want half a cake,” says Makima. ᴹᵏ
+
+Mau starts laughing. Yuka has a hand free and gets it to his chest before he can jostle the last whole bite off the end of the fork. Makima drinks her tea with a small, perfectly satisfied smile. On her way to the kitchen Shuna stops to find out what Yuka is laughing at too.
+
+* * *
+
 The notebook is under the bowl of cream.
 
 Yuka finds it halfway through breakfast, when she reaches for the cream and lifts the bowl and there it is, with a ring of cream on the cover. She picks it up. She opens it to the day's page.

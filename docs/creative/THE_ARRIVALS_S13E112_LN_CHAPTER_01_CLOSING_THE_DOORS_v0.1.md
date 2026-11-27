@@ -203,19 +203,23 @@ She knows it's not the money. He knows she knows. He's rich; the Shop is full; t
 
 “If you go far, I come inside or I come with you,” she says. “This body can't stay behind at the house.” ᴹᵏ
 
-“I know,” he says. “That's why I'm telling you.” ᴹ
+“I know. You can stay in here if you want.” He looks at the place across the table from her. “Would you come with me instead?” ᴹ
 
-She stands up.
+She gets up. “I was about to ask if I could.” ᴹᵏ
 
-“Then I'm coming,” says Makima. ᴹᵏ
+That gets him to look at her. She stands in front of him with her hands loose at her sides.
 
-She crosses the room. She stops in front of him. She doesn't take his hand. Not yet. She just looks at him, very close, the way she looked at him on the wall.
+“I want to see a Gate with you,” she says. “I get to see a lot through you. I want to be the one who gets to point something out first.” ᴹᵏ
 
-“I'm not going to talk you out of it,” she says. “You'd only go faster.” ᴹᵏ
+“You'll have to go a bit faster than me for that.” ᴹ
 
-“No.” ᴹ
+“Will I?” ᴹᵏ
 
-“But I'll be there,” she says. “If you start holding your breath again and don't realise, I'll tell you.” ᴹᵏ
+He nearly laughs. He'd thought he'd have to explain what he was going to do with himself before someone could say yes. Makima looks at him long enough to catch the little change in his mouth.
+
+“And if I tell you to stop for a minute, can I have the minute?” she asks. “You were standing up at the wall for a long time before you knew your legs were going. I felt it. I'd like to be able to say something before it gets that far today.” ᴹᵏ
+
+“If you ask me,” he says. ᴹ
 
 He nods.
 

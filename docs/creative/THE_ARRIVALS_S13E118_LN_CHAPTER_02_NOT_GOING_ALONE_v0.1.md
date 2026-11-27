@@ -159,6 +159,16 @@ DIO is inside with him. She comes out of her room long enough to wave to him in 
 
 *I know.* ᴹ
 
+She starts to walk with him and he looks round at the pace her feet are making.
+
+*Do you want to come out there with me?* he asks. *As far as the basin. You could stay inside when I cross the ridge.* ᴹ
+
+*I want to be where you can see me,* she says. *It helped on seven. I'd like you where I can see you, too.* ᴹᵏ
+
+He remembers her telling him where all that dry stone was as if she had nothing else she needed to look at. He also remembers her crouching by a rock on the way home to see how long a grasshopper would sit still for both of them.
+
+*Then stay where you are,* he says. *I can walk at that speed.* ᴹ
+
 He's halfway across the yard when Yuka says his name.
 
 He stops.

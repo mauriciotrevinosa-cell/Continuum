@@ -11,7 +11,7 @@
 
 Makima is on the north-wing step at dusk.
 
-She's always there at dusk. Yuka has noticed. Since the house was built, since the witches moved into the north wing and Makima got her key and her room at the end of it, she sits on the step outside her door at the end of every day, knees together, hands in her lap, and watches the light go.
+Yuka knows she likes that step at dusk. Since the witches moved into the north wing and Makima got a room at the end of it, she often comes out there after eating, sits with her hands in her lap, and watches the light go.
 
 She doesn't talk to anyone while she does it. Nobody's ever asked her why.
 
@@ -26,6 +26,8 @@ Since Makima told Mau about Cross, and Mau walked toward the river, and Makima w
 Yuka heard about that. Ciel told her. Ciel tells her things now, out loud.
 
 She has a line in the notebook about Makima. It's been there since the first morning on the wet grass.
+
+She'd written something before it and then rubbed it out. On the night at the gate she had thought she'd be up here trying to decide whether Makima really meant what she'd said about marrying Mau. Makima came to the kitchen herself. Yuka hadn't had to ask. And now some nights when the bread comes round, Yuka leaves a piece on the plate before it gets to Mau, because he's gotten in the habit of saving an end for Makima when she needs a minute to sit down.
 
 She walks up behind the step.
 

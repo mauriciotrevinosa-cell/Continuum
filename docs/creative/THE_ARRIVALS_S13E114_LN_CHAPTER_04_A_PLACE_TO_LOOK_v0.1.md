@@ -171,7 +171,19 @@ He goes. Futari has got two completely different plugs lined up on the floor and
 
 * * *
 
-At dinner Ori sits across from his chair, beside Frieren. She has a piece of bread she can't tear without pulling the whole loaf off the plate. He holds the other end while she gets it apart. She gives him half on the condition that he comes to find her before he goes over the hill.
+At dinner Ori sits across from his chair, beside Frieren. The seat at his right is clear. Makima comes round the other side with a bowl Shuna has given her and puts it down by an empty stool. He moves his cup in case she needs the space.
+
+“Is there anything in yours that looks like a bit of root?” she asks him. ᴹᵏ
+
+He checks. “Two. Are they bad?” ᴹ
+
+“I was hoping you had one to spare. I had two of mine before I was sure I liked it.” ᴹᵏ
+
+She shows him how many she's left for herself and Ori wants to see. Shuna comes past with the pot, looks into Makima's bowl and gives her the spoon so she can get as much of the root as she wants. Makima offers it to Ori when she's taken her own. Ori puts a piece aside for Frieren on the grounds that everybody should have one.
+
+The handle on the pot comes down against the table. Mau holds his fingers still beside his bowl. Makima puts her hand where they're resting and leaves it there until he puts his over it. She goes on telling Ori she's allowed to take more than one piece if she likes them. He lets go when Ori puts a plate down between them and wants help with the bread.
+
+She has a piece she can't tear without pulling the whole loaf off the plate. He holds the other end while she gets it apart. She gives him half on the condition that he comes to find her before he goes over the hill.
 
 “I'd like that,” he says. “I'll come find you.” ᴹ
 

@@ -27,13 +27,13 @@ She keeps count anyway, in her notebook, on a special page, with a map of every 
 
 Today she killed four slimes and a bat. The bat was mostly Beru. She's counting it anyway.
 
-She comes out of the house gate and round the back of the house into the orchard with her explorer hat on and her wooden sword through her belt and Beru behind her, and she's telling him about the bat, how it went, how she'd have got it if it hadn't flown at her face, when she sees who's on the path.
+She comes out of the house gate and round the back of the house into the orchard with her explorer hat on and her sword belted at her hip and Beru behind her, and she's telling him about the bat, how it went, how she'd have got it if it hadn't flown at her face, when she sees who's on the path.
 
 * * *
 
 It's Cross.
 
-He's standing by the old pear tree. Kamish's tree. Kamish isn't there; he's folded away in Dad's shadow today. Cross is just standing there by himself with his hands in his pockets, looking at the cellar door, like he was waiting for it to open.
+He's standing by the old pear tree. Kamish's tree. Kamish isn't there; he's folded away in Dad's shadow today. Cross is just standing there by himself with his hands in his pockets, looking down the path from the Gate, like he was waiting for somebody to come back.
 
 Ori stops.
 
@@ -167,7 +167,7 @@ He's sitting at the table with Yuka and a cup of tea, and he's already standing 
 
 His face is very quiet.
 
-Beru puts her down. Ori stands in front of Dad in her hat with her wooden sword through her belt and tells him.
+Beru puts her down. Ori stands in front of Dad with her hat still on and her sword in its sheath and tells him.
 
 All of it. Properly. Like a report. The gate. The slimes and the bat. The way round the back of the house. Cross under the tree. *I'd like you to understand.* What she said back. Him standing up. Him stepping forward after she'd told him not to. Beru's cry. The birds going silent. Cross frozen with his foot in the air.
 

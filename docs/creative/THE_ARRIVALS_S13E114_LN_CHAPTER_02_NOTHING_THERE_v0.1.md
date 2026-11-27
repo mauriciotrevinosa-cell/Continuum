@@ -253,7 +253,7 @@ He doesn't feel Yuka. The door's closed.
 
 He looks up, once, at the ridge.
 
-She's still there. Hand over her mouth. Eyes on him.
+The low shelf is still empty. From down here he can see the pale stone where he meant to find her.
 
 He looks back at Dabura.
 

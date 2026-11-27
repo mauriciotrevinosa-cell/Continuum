@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 32
 **Source episode:** S13E117
-**Continuity state:** B+434 ("53"). Yuka apologises to Makima for using her trust to hurt Mau. Makima tells her about finding Mau during the panic attack after the walk, before the wild Gate, and feeling his old injuries and memories return. She also tells Yuka how disoriented Mau was when he decided to go to the Gate. Maru's gesture at the table coincides with a familiar flash of certainty for Yuka. The cause is unconfirmed. Yuka then goes to Mai and Maki. Her hurt about Mau shutting the door remains. She plans to begin reconnecting at dinner and talk after. Ori voluntarily gives her the seat. Yoru’s arrival interrupts before the first stolen pickle. No absolute claims that Yuka never cooks/sets tables, Maki never hugs Yuta or Beru is never loud.
+**Continuity state:** B+434 ("53"). Yuka apologises to Makima for using her trust to hurt Mau. Makima tells her about finding Mau during the panic attack after the walk, before the wild Gate, and feeling his old injuries and memories return. She also tells Yuka how disoriented Mau was when he decided to go to the Gate. Maru's gesture at the table coincides with a familiar flash of certainty for Yuka. The cause is unconfirmed. Yuka then goes to Mai and Maki. Her hurt about Mau shutting the door remains. She plans to begin reconnecting at dinner and talk after. Ori voluntarily gives her the seat. Yoru’s arrival interrupts before Yuka can take the half potato Mau saved. No absolute claims that Yuka never cooks/sets tables, Maki never hugs Yuta or Beru is never loud.
 
 *When: B+434. Before dawn to dinner. Yuka writes "53" by lamplight: B+434, the day after the fight. The last written count was "57" on B+430.*
 
@@ -70,8 +70,6 @@ She looks at her hands.
 “Ciel said you were holding something for him from inside,” she says. “When the domain came up I was here, trying to cut an apple in half. I still had the knife in my hand. I kept asking her what was happening, and she told me he'd stopped going down because you were there.” ʸ
 
 “She could have said he was getting up,” Makima says. “I wanted him to stay down until he could feel his hand again.” ᴹᵏ
-
-Makima doesn't say anything.
 
 “You're his friend,” says Yuka. “That's all it ever was. I knew that. I knew it in the yard when I said it. I said it anyway. Because I wanted to throw something.” ʸ
 
@@ -375,7 +373,7 @@ Yuka's hand is still out over his plate.
 
 Mau stands up.
 
-His chair goes back. He's already moving. He doesn't look at her. He doesn't look at her hand, or the pickles, or the chair six inches closer. He goes to the kitchen door in three steps, and Makima is already rising from the bottom of the porch steps, and Gojo is already on his feet, and Dabura has stopped laughing.
+His chair goes back. He's already moving. He doesn't look at her. He doesn't look at her hand over the potato or the chair she pulled closer. He goes to the kitchen door in three steps, and Makima is already rising from the bottom of the porch steps, and Gojo is already on his feet, and Dabura has stopped laughing.
 
 Yuka's hand is still out over his plate.
 

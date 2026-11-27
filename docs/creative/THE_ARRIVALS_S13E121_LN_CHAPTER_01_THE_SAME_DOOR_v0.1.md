@@ -325,7 +325,7 @@ Mai takes the chair nearest her. She puts a cup beside the notebook before she s
 
 Yuka turns the page so she can see it. *Talk to him*, underlined twice. She's written *now* next to it and rubbed that out so many times the paper has started to go soft.
 
-“If you were tired enough to sleep through the whole house worrying,” says Shuna, “what would you want when you woke up?” ˢᵘ
+“If you were tired enough to sleep through the whole house worrying,” says Shuna, “what would you want when you woke up?” ˢʰᵘ
 
 Yuka thinks of the clinic. The water on the table. The pillow with his hair already pressed into it.
 

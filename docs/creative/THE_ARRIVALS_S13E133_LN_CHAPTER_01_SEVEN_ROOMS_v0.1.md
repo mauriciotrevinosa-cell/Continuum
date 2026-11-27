@@ -63,7 +63,7 @@ Minerva argues it angrily, the way Minerva argues everything, with her finger po
 
 Sekhmet doesn't argue. Sekhmet is asleep. At one point, without opening her eyes, she says, very slowly, “...a bed...”, and then nothing else. ˢᵉᵏ
 
-And Carmilla, from behind the doorframe, says something so quietly that nobody hears it, and when Echidna turns round and asks her to say it again, says it again, slightly louder, and it turns out to be: “...we'd like to be near Satella, too...” ᶜᵃ
+Carmilla says something from behind Minerva that nobody catches. Echidna turns, and Minerva moves her shoulder so Carmilla can be heard when she tries again. “...we'd like to be near Satella, too...” ᶜᵃ
 
 Satella puts her face in her hands.
 
@@ -95,7 +95,7 @@ He wipes his eyes.
 
 Inside, Noise has gone very still.
 
-Mau can feel him. At the table, in the little room with the cup. Not by the wall today; at the table, where he's been sitting more and more since the night he picked up the cup and held it out. He's been listening to all of it, through Mau. And Mau can feel what's going through him, slow and astonished and warm, like water filling a dry bed.
+Noise is at the table inside, with the cup between his hands. He has heard the whole argument through Mau. The cup stops halfway up when Mau tells them to ask him.
 
 *More friends*, says Noise. ᴺ
 

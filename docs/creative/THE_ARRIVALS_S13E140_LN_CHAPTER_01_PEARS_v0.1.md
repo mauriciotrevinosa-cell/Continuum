@@ -135,7 +135,7 @@ Beatrice puts her stack of books on the shelf above. All of them about fruit. Ho
 
 Ori looks at the books. She looks at Beatrice.
 
-She doesn't say anything. She just takes the whistle out of her mouth and gives Beatrice a very formal Fort salute, which involves the spear, and which Beatrice returns, very stiffly, with her owl.
+She takes the whistle out of her mouth, straightens and gives Beatrice a very formal Fort salute with two fingers at her temple. Beatrice returns it, very stiffly, with her owl.
 
 * * *
 

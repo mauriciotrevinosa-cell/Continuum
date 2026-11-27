@@ -23,7 +23,7 @@ Maki makes a noise like a kettle and starts again.
 
 Yuka, on her stool in the corner of the workshop with her knees drawn up and a bowl of Shuna's pear jam on a piece of bread, watches them and doesn't say anything.
 
-She comes every morning. She has done since the two weeks. Since the mornings she sat in this corner being horrible and not helping and Mai gave her things to hold and never asked. Now she comes because she likes it. Because the workshop smells of cloth and metal and something that's always slightly burnt, and Mai and Maki argue in short sharp sentences that are mostly love, and nobody expects her to do anything.
+She's started coming by on mornings when there's room at Mai's bench. She remembers asking Mai to eat with her after finding Mau's comb at Shoko's. Mai brought her work and made room for another plate. Now Yuka comes for the smell of cloth and metal and something that's always slightly burnt, and to hear Mai and Maki argue in short sharp sentences that are mostly love. Sometimes there really is something for her to hold.
 
 This morning she's thinking.
 

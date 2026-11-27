@@ -59,7 +59,7 @@ All of them. Standing in front of the gate in the morning sun, arguing, the way 
 
 The left door stays the house's.
 
-The old weekly gate. The one Mau can tell what he wants, once a week, when it changes. Harder or easier. Cores for Mai. Materials for Senku. Something warm in it, somewhere, a place to rest. That's what it's been for a long time and that's what it stays: the house's door, for supplies, for the ordinary Thursday run.
+The old weekly gate. The one Mau can tell what he wants, once a week, when it changes. Harder or easier. Cores for Mai. Materials for Senku. Something warm in it, somewhere, a place to rest. That's what it's been for a long time and that's what it stays: the house's door, where they get their supplies each week.
 
 “Agreed,” says Rimuru, writing. ᴿ
 
@@ -181,7 +181,7 @@ Mau looks at her finger.
 
 “Am I?” ᴹ
 
-“You are,” says Milim. “I've watched you go in every Thursday for a *year*. I've watched you go in with Yuka. I've watched Gojo get to fight you in a field. You're coming in with me, and we're going to break it, and then it's going to refresh, and we're going to break it *again*.” ᴹⁱ
+“You are,” says Milim. “I've watched you go in week after *week*. I've watched you go in with Yuka. I've watched Gojo get to fight you in a field. You're coming in with me, and we're going to break it, and then it's going to refresh, and we're going to break it *again*.” ᴹⁱ
 
 Mau looks at Rimuru. Rimuru looks at the sky.
 

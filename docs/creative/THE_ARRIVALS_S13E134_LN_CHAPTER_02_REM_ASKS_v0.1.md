@@ -137,9 +137,7 @@ He has it ready. A whole plan. It came to him while she was talking: where, when
 
 He stops.
 
-*Next time it'll be before*, Yuka said. On the porch step. *Not during. Before.*
-
-He doesn't lay it out.
+Rem hasn't told him where she'd want to be when she says it. He's already put her somewhere in his head. He keeps the plan to himself.
 
 “Where would you want to say it?” he asks instead. ᴹ
 

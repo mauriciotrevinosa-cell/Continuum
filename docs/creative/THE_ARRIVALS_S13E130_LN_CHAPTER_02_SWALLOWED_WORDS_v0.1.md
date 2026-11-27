@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 29
 **Source episode:** S13E130
-**Continuity state:** B+450 ("37"). Yuka told Yuta, Maki and Mai everything they did for her during the two weeks: Maki's "when has that ever meant fine", Mai's workshop mornings, Yuta sitting up with her. Mau asks the three of them to the workshop after supper and thanks them. He says he was wrong to swallow his words and he'll try not to do it again. Then he offers Mai a new contract. Everything stays the same: the cost of construction on his body, the CE his. But he gives up trying to stop her telling him everything she makes; instead it's written in: whenever she wants to create something, he'll listen, and pay attention. And the most important clause: he can't close her door, ever, because he trusts her blindly. Mai says she read his letter. Mai signs.
+**Continuity state:** B+450 ("37"). Yuka tells Mau how Maki pushed her to face what the band meant, how Mai helped her work out what she could say and stayed to eat with her, and what Yuta told her about walking Mau to Shoko after the quarry. Mau asks the three of them to the workshop after supper and thanks them. He says he was wrong to swallow his words and he'll try not to do it again. Then he offers Mai a new contract. Everything stays the same: the cost of construction on his body, the CE his. But he gives up trying to stop her telling him everything she makes; instead it's written in: whenever she wants to create something, he'll listen, and pay attention. And the most important clause: he can't close her door, ever, because he trusts her blindly. Mai says she read his letter. Mai signs.
 
 *When: B+450. "37." Under it, in Yuka's hand: "workshop (go)". It's an instruction, not a note.*
 
@@ -13,35 +13,25 @@ Yuka tells him after breakfast.
 
 She doesn't say it like a confession. She says it while she's stealing the pickles, with her mouth half full, as if it's the most ordinary thing in the world.
 
-“I told Maki and Yuta and Mai,” she says. “About the two weeks. What they did. For me.” ʸ
+“I talked to Maki and Yuta and Mai,” she says. “About when we weren't talking. There's a part I never told you.” ʸ
 
 He puts his chopsticks down.
 
-“What did they do?” ᴹ
+Yuka looks across the table. Maki is sitting with Yuta, showing him how much space there ought to be between his hands when he turns a staff. Mai has a drawing that might be a clasp beside her bowl, far enough from the rim that it won't get wet.
 
-Yuka looks at him. Then she looks across the table to where Maki is sitting with Yuta, arguing about something to do with a spear, and Mai is sitting at the end not eating, looking at a drawing of something that might be a clasp.
+“Maki saw you ask me to stay and talk,” says Yuka. “Later, she asked me if I'd wanted the band off for good. I kept starting with what happened at the Gate. She sat there until I'd answered what she'd actually asked.” ʸ
 
-“Maki found me on the porch the morning you closed the doors,” says Yuka. “When I'd said *it's fine*. She said *when has that ever meant fine*. And she sat with me. All morning. She didn't make me talk. She just sat.” ʸ
+She pushes a pickle back to his side of the plate without looking down.
 
-She takes another pickle.
+“Mai caught the band when I dropped it,” she says. “She gave it back and asked what I could do if you'd only give me a minute. Later, when I saw your comb at Shoko's, I told her I wanted you home. She told me you'd get a say in where you slept. Then I asked her to eat with me and she brought her work and sat with me.” ʸ
 
-“Mai let me come to the workshop every morning,” she says. “The whole two weeks. Even when I was horrible. Even when I didn't help. She'd give me something to hold and let me sit there and not talk. She never asked. Not once.” ʸ
+He remembers coming out to eat on Shuna's bench and being glad there was somewhere he could sit without having to tell anybody why he'd come.
 
-He's very still.
+“Grandpa told me what happened after I went upstairs with the band,” Yuka says. “You asked him to walk you to Shoko. I thought if I went back down I'd find you at the table. I didn't even know you could barely get her name out.” ʸ
 
-“And Yuta,” says Yuka, more quietly. “The night after the yard. When I said the worst thing. I couldn't sleep. I went down to the kitchen at three in the morning, and he was there. He'd heard me on the stairs. He made tea. He sat with me till it got light. He didn't say anything about you. Not one word. He just let me cry and kept refilling the cup.” ʸ
+“I remember asking him to walk with me,” says Mau. “I don't remember going across the yard.” ᴹ
 
-She puts the pickle down without eating it.
-
-“Grandpa,” she says. ʸ
-
-He looks across the table at Yuta, who is explaining something about the spear with both hands and has no idea he's being talked about.
-
-“I didn't know,” Mau says. ᴹ
-
-“No,” says Yuka. “You were in the clinic.” ʸ
-
-She doesn't say it unkindly. She says it like a fact. Then she picks up the pickle again and eats it, and makes the face, and wipes her fingers on his sleeve.
+Yuta is still holding his hands out where Maki put them, waiting for her to tell him which way to turn. Yuka picks up the pickle and eats it. She makes the face and wipes her fingers on Mau's sleeve.
 
 “You should go and say thank you,” she says. “Properly. All three. Tonight.” ʸ
 
@@ -67,29 +57,21 @@ He'd had something ready. A whole thing. He'd thought about it all afternoon. It
 
 It sounds very small in the workshop.
 
-“Yuka told me,” he says. “This morning. What you did. While I was—” ᴹ
-
-He stops. He makes himself not say *in the clinic*. Makes himself not soften it.
-
-“While I'd shut everyone out,” he says. ᴹ
+“Yuka told me this morning what you did while I was keeping most of it to myself,” he says. ᴹ
 
 Maki's eyebrows come down.
 
-“Maki,” he says. “The porch. *When has that ever meant fine.* You sat with her all morning.” ᴹ
+“You asked her about the band,” he tells her. “She was able to tell me about it at Shoko's. She didn't need me to say it first.” ᴹ
 
-Maki shrugs one shoulder.
+“She's my granddaughter,” says Maki. “I wanted her to know what she'd asked you to look at.” ᴹᵃᵏ
 
-“She's my granddaughter,” she says. “What was I going to do. Leave her on the porch?” ᴹᵃᵏ
-
-“Mai,” he says. “Every morning. For two weeks. You let her come here and you didn't ask.” ᴹ
+“Mai. You helped her figure out what to say and you made time when she asked you to sit with her.” ᴹ
 
 Mai doesn't say anything. She looks at the lamp.
 
-“Yuta,” he says. “Three in the morning. The tea.” ᴹ
+“And Yuta. Thanks for walking me to Shoko.” ᴹ
 
-Yuta looks down at his hands.
-
-“She was on the stairs,” he says. “I could hear her. I wasn't going to just lie there.” ʸᵗ
+Yuta looks down at his hands. “You told me what you needed,” he says. “I could do that.” ʸᵗ
 
 * * *
 
@@ -99,11 +81,11 @@ Mau takes a breath.
 
 They look at him.
 
-“I swallowed my words,” he says. “All of them. For two weeks. Everything I should have said to her, everything I should have said to you, to anyone. I just—swallowed it. Kept it down. Put it behind a door. And told myself that was the kind thing. That if I didn't say anything, nobody else had to carry it.” ᴹ
+“I swallowed my words,” he says. “A lot of things I should have told her. Things I could have told you. I thought if I kept them down, nobody else would have to carry them.” ᴹ
 
 He looks at his hands on the bench.
 
-“And you carried it anyway,” he says. “All of you. Her. You sat with her on the porch and made her tea and gave her things to hold, because I wouldn't. You did what I should have been doing. And I didn't even know.” ᴹ
+“By the time I could tell Shoko what had happened, you'd already been helping us get through the day. I was still trying to figure out whether I could ask for anything.” ᴹ
 
 He looks up.
 
@@ -129,7 +111,7 @@ He almost laughs.
 
 Yuta is smiling. Not his polite smile. The real one, the one that goes up into his eyes.
 
-“You're welcome,” he says. “For the tea. I'd do it again.” ʸᵗ
+“You're welcome,” he says. “If you ask me to walk with you again, I will.” ʸᵗ
 
 “I know you would.” ᴹ
 

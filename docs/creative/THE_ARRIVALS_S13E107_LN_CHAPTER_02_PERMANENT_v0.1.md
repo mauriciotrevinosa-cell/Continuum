@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 8
 **Source episode:** S13E107
-**Continuity state:** B+420 ("67"). The day after the arrival. Subaru asks Mau to sit with him while he talks to Rem and Ram, because he doesn't trust himself not to run. He apologises properly. Rem forgives him with her whole heart. Ram forgives him too, and tells him plainly that forgiving isn't the same as fixed: the damage to what was between them is permanent, and he'll have to live next to the crack. He accepts it. Emilia has tea with Satella, with Yuka and Mau carrying the cups; Satella answers what she can and says "not yet" to the rest. Beatrice inspects the house's "library" (Frieren's shelves, Senku's notebooks, the grimoire Frieren keeps for Mau) and moves in among Frieren's books without asking. Echidna, coming across from the witches' side of the town to return a book, finds her in Frieren's window seat: they knew each other in their own world and lived together until Echidna died. Echidna takes her to the room with no name, behind whose door her library has always been; Beatrice uses Door Crossing to open it onto doors all over the house. At sunset Mau, with the Six Eyes, sees her old keeper's contract gone slack: it was made for a world where Echidna was dead. Echidna only laughs. Mau calls the wheel (just the shape, still): it learns from inside, and might learn the knot if he carries its weight; he has never tried it on something not his own. Echidna, delighted, wants to know whether it's possible; they leave it for later. Mau wonders if *that person* isn't a person but a place, a house that will want her, and if she has already found it. Beatrice will think about it. He and Beatrice arrange an access point at the hall door so Ori can find her when the library moves. Beatrice chooses whether to answer. The Fort inducts Emilia as a member with Ori presiding. The library can move, with known access doors available by arrangement. Yuka tells Mau a piece of what Cross meant to her on the day of the diagnosis. Cross helps Ori with the Fort banner. Yuka tells Mau she hadn't expected to get to show Cross this part of her life.
+**Continuity state:** B+420 ("67"). The day after the arrival. Subaru asks Mau to sit with him while he talks to Rem and Ram, because he doesn't trust himself not to run. He apologises properly. Rem forgives him with her whole heart. Ram forgives him too, and tells him plainly that forgiving isn't the same as fixed: the damage to what was between them is permanent, and he'll have to live next to the crack. He accepts it. Emilia has tea with Satella, with Yuka and Mau carrying the cups; Satella answers what she can and says "not yet" to the rest. Beatrice inspects the house's "library" (Frieren's shelves, Senku's notebooks, the grimoire Frieren keeps for Mau) and moves in among Frieren's books without asking. Echidna, coming over from the north wing to return a book, finds her in Frieren's window seat: they knew each other in their own world and lived together until Echidna died. Echidna takes her to the room with no name, behind whose door her library has always been; Beatrice uses Door Crossing to open it onto doors all over the house. At sunset Mau, with the Six Eyes, sees her old keeper's contract gone slack: it was made for a world where Echidna was dead. Echidna only laughs. Mau calls the wheel (just the shape, still): it learns from inside, and might learn the knot if he carries its weight; he has never tried it on something not his own. Echidna, delighted, wants to know whether it's possible; they leave it for later. Mau wonders if *that person* isn't a person but a place, a house that will want her, and if she has already found it. Beatrice will think about it. He and Beatrice arrange an access point at the hall door so Ori can find her when the library moves. Beatrice chooses whether to answer. The Fort inducts Emilia as a member with Ori presiding. The library can move, with known access doors available by arrangement. Yuka tells Mau a piece of what Cross meant to her on the day of the diagnosis. Cross helps Ori with the Fort banner. Yuka tells Mau she hadn't expected to get to show Cross this part of her life.
 
 *When: B+420. Morning to evening. Yuka wrote "67". Subaru has been awake since before dawn, sitting on the back steps.*
 
@@ -319,7 +319,7 @@ Frieren watches her for a while. Then she goes back to her own book, and doesn't
 
 Mau and Yuka come up the stairs at five with the empty cups from Satella's tea.
 
-They are halfway along the corridor when someone knocks on Frieren's open door behind them. Mau turns. It's Echidna, in her long robe, with a book under her arm. She has walked over from the witches' side of the town, the way she does once a week, to return whatever she borrowed from Frieren last time and borrow something worse.
+They are halfway along the corridor when someone knocks on Frieren's open door behind them. Mau turns. It's Echidna, in her long robe, with a book under her arm. She's come over from the north wing to return what she borrowed from Frieren and find something worse.
 
 She steps into the doorway and says, “Frieren, the third chapter of this is wrong, and I want to tell you why—”
 
@@ -623,11 +623,11 @@ Near the posts, Cross is holding the end of the banner where Milim left it. When
 
 Cross does as he's told. He has to go on holding it that high while Ori explains to him how it came to be the official banner. By the time she's got to Kamish's part, Kamish has raised his head from the grass.
 
-“Tell him what I got in exchange for the castle,” says Kamish. ᴷᵃ
+“Tell him what I got in exchange for the castle,” says Kamish. ᴷ
 
 “Ice cream,” says Ori. ᴼ
 
-“Two,” says Kamish. ᴷᵃ
+“Two,” says Kamish. ᴷ
 
 Yuka twists round on Mau's lap, laughing. He's laughing, too, mostly because he can already see Ori working out how to sell two ice creams as a victory for both parties.
 

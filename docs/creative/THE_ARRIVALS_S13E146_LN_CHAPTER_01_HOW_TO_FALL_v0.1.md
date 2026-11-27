@@ -123,7 +123,7 @@ He makes it as far as the soup. Then he asks Mau if he wants to see him land on 
 
 “Out by the mats after dinner,” says Jin-Woo. ᴶʷ
 
-“He did it three times,” Hae-In says. She looks down at the bowl she moved. “Four if you count the one where you nearly landed on your dad's foot.” ᴴᵃᵉ
+“He did it three times,” Hae-In says. She looks down at the bowl she moved. “Four if you count the one where you nearly landed on your dad's foot.” ᴴᶦ
 
 “That was a turn.” ˢᵘ
 

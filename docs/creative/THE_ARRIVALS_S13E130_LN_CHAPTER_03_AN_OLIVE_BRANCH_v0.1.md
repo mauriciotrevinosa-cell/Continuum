@@ -51,7 +51,7 @@ An upgrade.
 
 He knows what that usually takes. Everybody does. Gates upgrade when something breaks them open. A Purple Gate. A Red Gate. Something that takes the walls down and puts them back stronger, and usually takes somebody's skin with it.
 
-Nothing's broken. Nobody's been in this week but him, on Thursday, the ordinary way.
+Nothing's broken. Nobody's been in this week but him, on the ordinary supply run.
 
 > **[Upgrade available. No clearance required.]**
 

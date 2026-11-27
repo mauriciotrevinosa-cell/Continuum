@@ -145,7 +145,7 @@ Noise is quiet for a long moment.
 
 Echidna waits.
 
-“He made me,” says Noise, “to stand in front of a door. And I stood there. For a long time. And then I wanted to be somewhere else. Here. At the table. That's all I know.” ᴺ
+“He made me,” says Noise, “to stand beside him. Inside. And I stood there. For a long time. And then I wanted to sit down. At the table. With people. That's all I know.” ᴺ
 
 Echidna looks at him for a long time with that sharp, total, delighted interest.
 
@@ -159,7 +159,7 @@ She's sitting at the far end of the table with her arms folded and her chin up, 
 
 *Options*, she says, to nobody. ᶜ
 
-Pride has invented a game. It involves the cup, three spoons, and a set of rules that change every time Noise appears to understand them. Daphne is still sitting very still, looking at the cup. Minerva is complaining about the light. Echidna is asking Noise a question about the walls.
+Pride has invented a game. It involves the cup, three spoons, and a set of rules that change every time Noise appears to understand them. Daphne is still sitting very still, looking at the cup. Minerva is complaining about the light. Echidna wants to know whether the cup would stay warm with nobody there to drink from it.
 
 And from the corner, very quietly, a voice says, “...is there more tea?” ᶜᵃ
 

@@ -171,7 +171,7 @@ She drinks her tea.
 
 Yuka sits on the bed by the window with her hands round her cup.
 
-She wants to cry. She doesn't. She's twenty-one. She's been wanting to be more grown-up for a long time now, for years, since before the island, since before the gate. Since before Mau, really. She's been wanting to be the kind of person who can hear something hard and sit with it and not run.
+She wants to cry. She doesn't. She's been wanting to be more grown-up for a long time now, for years, since before the island, since before the gate. Since before Mau, really. She's been wanting to be the kind of person who can hear something hard and sit with it and not run.
 
 She sits with it.
 

@@ -170,3 +170,25 @@ He thinks about it. There have been a lot of moments she could spend making hers
 She puts the pegs on the sill. He breaks the rest of the bread small enough to go straight into the bowl. He's quite methodical about it. She has time to say tomorrow once more before she goes. He's already told her to come.
 
 She goes back to the house and up to Ori's room, where Ori still has to be told that her feet should point toward her own end of the bed.
+
+* * *
+
+Makima takes the bowl when he finishes. At the washstand she tips a little water into it and turns it slowly to get the last of the soup off the side. She could do it a second time. She could dry the spoon separately.
+
+“Did you eat?” asks Mau. ᴹ
+
+She looks back. He's moved over on the cot so he can see her without turning his neck. Last night she had her cheek against the top of his head. All day she'd been able to remember the spot where the ends of his hair touched her mouth. She'd tried out the words quietly by the pump before she came in. *Could I hold you again?* She'd wondered if he might want it again on a night when he could get up and go anywhere he liked.
+
+The trouble was that he could tell her no.
+
+“I did,” she says. ᴹᵏ
+
+She sets the bowl down. Her hands have dried all except where the water ran under one cuff. She could ask now. She lifts her eyes and finds him setting the good end of the blanket out of the way, absently, to make a seat.
+
+“Come sit with me a little longer,” he says. “I want to tell you what Ori said while Frieren was holding the wash up.” ᴹ
+
+“Why she had to hold it so high?” ᴹᵏ
+
+“No. She'd seen two birds arguing down by the pump. I think we were supposed to know one of them personally.” ᴹ
+
+Makima sits. He's barely a sentence into it when she realises he already told her some of this on his way in. He stops at the same spot to search for the sound Ori made when she did the second bird. This time Makima remembers it before he does. He turns to look at her properly when she gets it right.

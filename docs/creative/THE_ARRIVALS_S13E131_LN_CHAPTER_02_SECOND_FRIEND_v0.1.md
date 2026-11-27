@@ -155,6 +155,16 @@ Yuka can hear the kitchen chairs from where they're sitting. Somebody has put on
 
 “I call him my friend.” Makima takes a breath. “I'm still finding out what it feels like to have one.” ᴹᵏ
 
+Yuka thinks of Shuna's oven. Mau had gone looking for Makima over a piece of crust, on a day when he could eat it himself and make as much noise in the kitchen as he wanted. Yuka had watched Makima pull up a chair at the end of the table. She hadn't known how long that would last once he was sleeping upstairs again. He's still making room there.
+
+“I think he likes telling you things first sometimes,” she says. “Even little ones. I can see when he's about to.” ʸ
+
+“Does that bother you?” ᴹᵏ
+
+“Sometimes I want to hear the little one too.” Yuka picks at a bit of grit on the step. “I can ask him to tell it twice.” ʸ
+
+Makima has a look on her face like she'd had more to say and needs a minute to find out what happened to it.
+
 * * *
 
 Yuka looks at the grass where she sat that morning and watched them go north. She'd looked at their hands and thought the next time Mau had a reason to reach for somebody, he wouldn't even think of her. All she could picture then was the two of them getting farther away. Now she keeps coming back to the second Makima told her about, when Mau reached behind him because he couldn't bear to turn round and see that nobody was there.

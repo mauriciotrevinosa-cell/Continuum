@@ -23,11 +23,17 @@ Mau puts his hand into the basket for it. Yuka catches the heel of his hand befo
 
 She takes half the crust without pulling the loaf out of its cloth. He holds the basket still while she does it. The last time they brought food out, he spent most of the trip thinking about what she'd meant when she said they'd go home together. This morning he gets to hear her argue over whether bread with nuts in it is still bread. The woman takes Yuka's side because the half that just got broken off is obviously cake.
 
-Maru is down by the water with Rimuru, trying to keep a peg from coming loose under the planks. The stream is up past the marks everybody agreed to use. Somebody is going to have to stand in it to get the ropes back under the first board. When Mau puts the basket down, Yuka gets to the bank beside him at the same time.
+Maru is down by the water with Rimuru, trying to keep a peg from coming loose under the planks. Ori finds it coming out on the near bank and puts her boot on it until Makima can pass her the block from the cart.
+
+“Can you hold this end for me?” Ori asks. “I want to see if it goes down any farther before we put the rope back.” ᴼ
+
+Makima takes the weight of the block and lets Ori get her fingers around the dry end of the rope. “Tell me when you want me to let go.” ᴹᵏ
+
+Ori tells her after she's found out she can pass the rope under without dragging the end into the water. It leaves the other end of the board to do. The stream is up past the marks everybody agreed to use. Somebody is going to have to stand in it to get the rope back under there. When Mau puts the basket down, Yuka gets to the bank beside him at the same time.
 
 “I'm not doing this in my shoes.” She pulls one heel out. “How much of that board can you hold if Rimuru lets it go?” ʸ
 
-“All of it. Can you guide the end by the bank?” ᴹ
+“All of it. Can you get the rope round Rimuru's end?” ᴹ
 
 “Don't move it till I tell you.” ʸ
 

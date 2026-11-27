@@ -95,7 +95,21 @@ He doesn't confront Cross. But he tells people.
 
 * * *
 
-He tells Yuka first.
+At breakfast Ori unwraps the little pear while Frieren unties the string around the stem of their leaf. Ori asks Makima which one she saw first.
+
+“The pear. It was in Yuka's hood all the way up the hill.” ᴹᵏ
+
+“I want that to count as camouflage,” says Yuka. ʸ
+
+Ori looks at Frieren. Frieren takes a sip of tea. “Mine was out in the open the whole time.” ᶠ
+
+Ori sets the little pear beside the leaf. “Then I think you both win. Can Lantern have the pear when I go out to tell him?” ᴼ
+
+“Ask him if he wants it,” says Mau. ᴹ
+
+Ori takes both things with her when she goes. Makima finishes her tea at his side and goes to open the door for Ori, who has the napkin between her teeth and needs both hands.
+
+Mau tells Yuka first.
 
 After breakfast, on the porch step, plainly. All of it. What Ciel saw. The questions. The map.
 

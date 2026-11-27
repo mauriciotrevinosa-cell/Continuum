@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 16
 **Source episode:** S13E125
-**Continuity state:** B+440 late night into B+441 ("47" → "46"). Mau brings DIO home from Elmesia's garden. He finds Yuka in the chair at the clinic. She takes responsibility for walking away, taking off her wedding band in his sight and staying away from the quarry. Mau nearly says "it's fine" and asks if wanting to come upstairs can be his whole answer for tonight. The question about the band stays with him. He tells her a little about the attacks and makes a separate apology for closing her line. She asks him to open it. They kiss and sleep beside each other. The repair has begun.
+**Continuity state:** B+440 late night into B+441 ("47" → "46"). Mau brings DIO home from Elmesia's garden. He finds Yuka in the chair at the clinic. She takes responsibility for walking away, taking off her wedding band in his sight and staying away from the quarry. Mau says Yuka's line about regretting the marriage back to her so she can hear what still interrupts her reassurance. He says he loves her and wants to go upstairs with her. He asks if that can be his whole answer for tonight. The question about the band stays with him. He tells her a little about the attacks and makes a separate apology for closing her line. She asks him to open it. They kiss and sleep beside each other. The repair has begun.
 
 *When: B+440, close to midnight. Ori's map is on the clinic windowsill, unfolded, held flat with a stone.*
 
@@ -175,15 +175,31 @@ She nods. She's still crying a little. She doesn't do anything about it. One han
 
 He had a question for her since she brought him the cup. *Did you want me to see?* She answered that one all by herself. He still wants to know if she would have put it back on if he hadn't come to look for her, or if he'd come home from the quarry and gone straight upstairs. The choices she made hurt him before she had to watch any of it happen. He can't tell when it began to matter to her in the way it matters to him. He thinks it must have been before she found the empty drawer. He wants it to have been before.
 
-She takes a breath. He can still hear it catch on the way in. In another minute she'd try to tell him what he wanted to hear without him having to ask. He can see her getting ready to. He can see exactly how much he wants to believe it.
+She takes a breath. He can still hear it catch on the way in. He thinks he knows what she's getting ready to say. He knows how much he wants to hear it and how easily he could give her an answer she'd want in return.
 
-“It's—” He hears how readily he could finish it. Her shoulders are already starting to come down. He remembers them doing that in the yard, when he said he loved her and she knew which answer he was waiting for. “I heard you. I want to come upstairs with you. Can that be all I answer tonight?” ᴹ
+“Maybe I shouldn't have married you,” he says. ᴹ
 
-Her thumb stops against the edge of the notebook. She looks down at it, moves her thumb off the ring, and looks back up.
+Her hand goes flat on the notebook. He hears it click where the band touches the cover. She looks at him the way he looked at her in the yard. The first time he said it back to himself it had sounded even worse than that.
 
-“Yes,” she says. ʸ
+“That's what I hear first,” he says. “Sometimes you say something like you want me to come upstairs and I hear it before I get to the end of what you just said.” ᴹ
 
-He'd thought he might have to give her something more for her to put the book aside. She sets it beside her on the chair all the same. A moment later she picks it up again, holding it by a corner this time. His eyes go back to her hand. The question is still there, and he can't get his mouth round it. He has one other thing he came to tell her. He puts both hands on the edge of the cot so he can feel where he's sitting.
+She has to take her hand off the notebook to stop the sound this time. “I heard it for a second like it was something you'd just decided.” ʸ
+
+“That's how I heard you in the yard.” ᴹ
+
+Yuka looks down at the foot of the cot. “I kept thinking I could come in and say I want to be your wife and you'd have it the next time you needed it.” She presses her lips together before she tries to say the next part. “All that time upstairs. I made it sound like I'd take it back in one breath.” ʸ
+
+She gets both hands underneath the notebook and sets it down beside her.
+
+“Do you want me to stay here with you for a while?” she asks. “I can sit right here.” ʸ
+
+He hadn't left enough room in his head for her to ask him that and let the answer be something as small as keeping her chair where it was. He looks at the space between the chair and the cot. He knows what his first answer would have been if she'd asked him to come straight home.
+
+“It's—” He hears how readily he could finish it. He stops long enough to look up. “I love you, Yuka. And I want to come upstairs with you. I don't know how I'm going to feel when I wake up. Can this be all I answer tonight?” ᴹ
+
+Her hands stay in her lap. “Yes,” she says. ʸ
+
+She leaves the book where she put it and stays in the chair. After a little while she picks it up by a corner to keep it from sliding off. His eyes go back to her hand. The question is still there, and he can't get his mouth round it. He has one other thing he came to tell her. He puts both hands on the edge of the cot so he can feel where he's sitting.
 
 “Can I give you mine?” he says. “Separately. Not instead of yours. Next to it.” ᴹ
 

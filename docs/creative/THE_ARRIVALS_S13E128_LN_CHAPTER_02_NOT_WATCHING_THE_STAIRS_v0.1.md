@@ -185,6 +185,20 @@ From beside the oven, where she is comparing crumbs on two pieces, Rem tells her
 
 “Bring the supervisor.” ˢʰᵘ
 
+Mau saves the crisp end before Umaru can see it. He balances it on the edge of the board, past the knife.
+
+*Makima?* ᴹ
+
+He's got the line before he remembers the other ways to ask. He can see her through the window, talking to Minerva near the pump. At the sound of him she glances toward the house. Mau taps the pane.
+
+She comes in with two cups, sets the green one down by his plate and leans over to see what he wanted. He reaches out for her while she's still looking at the board, as easily as if she'd been there all morning. She gives him her hand. Her fingers are warm from the cups.
+
+“Shuna let me have an oven,” he says. ᴹ
+
+“You really have to stop leading with that,” says Yuka, around a bite. ʸ
+
+Makima picks up the piece he set aside. He gives her his plate when the first crumbs drop, and she tips some back onto his side before she sits. Shuna puts a second mark by the bread lesson when Makima asks if she can come and try the next one.
+
 Yuka looks down from the counter. “Is there anything left for me if I'm supervising two people now?” ʸ
 
 Shuna gives her the good half of what's left on her plate.

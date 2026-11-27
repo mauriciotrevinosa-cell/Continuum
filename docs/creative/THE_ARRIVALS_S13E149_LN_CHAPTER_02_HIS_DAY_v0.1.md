@@ -59,6 +59,20 @@ Ori tells Mau she has Pickles working with her in the yard. He looks for the sol
 
 “See?” says Ori. She changes arms too. “Now we're both doing it right.” ᴼ
 
+Makima stops at the table to look while Ori gets Pickles to turn. Ori holds the corner down for her so she can see what lies under the cup.
+
+“Where are you eating your bread?” Ori asks. ᴼ
+
+“I'd like to sit out with you for a bit,” says Makima. ᴹᵏ
+
+Ori studies the map. “Then we need another chair. You can bring it from inside, but it can't go on the wet side of the step or two of its feet will be in the way when everybody comes down.” ᴼ
+
+“Can I bring my cup?” asks Makima. ᴹᵏ
+
+“Of course you can bring your cup. I said it's a day off. You can have as much tea as you want.” ᴼ
+
+Mau pushes the butter across so Makima can get a piece of toast before she goes anywhere. On the way out she asks him if he wants the chair beside his or far enough off that Ori can fit in between. He says Ori's going to need more room than that if she's bringing maps.
+
 By the time Mau finishes his toast, the map has become the place where Shuna writes *third loaf out at noon* because it's the nearest piece of paper. Yuka turns a cup over so the others can write underneath it. Then she steals the last bite of his toast while he's still watching Ori teach Pickles to turn around.
 
 * * *
@@ -125,7 +139,23 @@ He goes down. He helps pull a piece of bark out of her cuff and hears the rest o
 
 “Two.” Gojo gives her both. ᴳ
 
-She brings one to Mau. They sit on the step to eat them. Later, when Gojo leaves and the sun goes behind the roof, Makima comes out with a coat. She sets it across the empty chair, waits for him to get his arms in, and stays to watch the others come back from the yard.
+She brings one to Mau. They sit on the step to eat them. Later, when Gojo leaves and the sun goes behind the roof, Makima comes out with a coat. Mau puts an arm in without getting up and has to have her fish the collar out from under him. Ori has gone in with the map, to show Frieren where Pickles helped her up. Mau has an empty step on either side of him. He pats the one where the stone's still warm.
+
+They sit there while he does up two of the buttons. The third catches. Makima gets it through from her side, and keeps her hand on the front of the coat after she's finished. She tries to decide from the way he's sitting whether this would be a good time to ask. His eyes are on the tree where Ori caught her sleeve. He's telling her how Pickles knelt down to help before he even got to the grass.
+
+When he finishes she says, “Can I hold you for a minute?” ᴹᵏ
+
+He looks round. She holds her breath as he shifts his elbow. He plants it on his knee and turns until he's close enough to lean all the way into her.
+
+“Like this?” he asks. ᴹ
+
+“Yes.” ᴹᵏ
+
+He gets an arm round her too. She lays her cheek against his hair like she did in the clinic. The coat bunches at his shoulder. She starts to put it right, feels him sink farther against her, and gives up on the collar.
+
+“You can ask me again sometime,” he says. He stays where he is to say it. ᴹ
+
+In the yard Pickles still has a piece of grass caught at the elbow. Mau shows her which arm when Shuna comes out to call them in. Makima has to lift her cheek off his head to see it. She puts it back for the length of one more breath before they get up for supper.
 
 * * *
 

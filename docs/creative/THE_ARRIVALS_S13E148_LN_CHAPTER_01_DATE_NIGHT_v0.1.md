@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 21
 **Source episode:** S13E148
-**Continuity state:** B+481 ("6"). Mau asks Yuka out. Properly. For the first time since before the island he plans something himself and doesn't ask anyone how. He takes her back to the valley of everyone's pears, by Exchange to Kamish's shadow on the far rim, at sunset, with a blanket and a basket Shuna packed without asking questions. The terrible wild pears. The stream. The stars, which are enough. He tells her something plainly, as she taught him: that for two weeks he was afraid she'd go, and now he isn't, and the difference is that she told him the truth when it was ugly. She tells him that she wants all the days they can have. They talk about going back to the island and getting up early enough to beat the bird. They stay under the trees, kissing and listening to the stream. They don't go home until it's very late.
+**Continuity state:** B+481 ("6"). Mau asks Yuka out. Properly. For the first time since before the island he plans something himself and doesn't ask anyone how. He takes her back to the valley of everyone's pears, by Exchange to Kamish's shadow on the far rim, at sunset, with a blanket and a basket Shuna packed without asking questions. The terrible wild pears. The stream. The stars, which are enough. Mau invites Makima to share the view and supper from inside after checking with Yuka. Makima gives them privacy after supper until they're ready to go home. Ori and Frieren have their own evening plans; Ori sends a napkin for a keepsake. In private, Mau tells Yuka he hears that she wants him home even though he still remembers the fear that she'd leave. She tells him that she wants all the days they can have. They talk about going back to the island and getting up early enough to beat the bird. They stay under the trees, kissing and listening to the stream. They don't go home until it's very late.
 
 *When: B+481. "6." Under it, in Mau's hand, which still almost never appears: "date". Yuka has underlined it three times and drawn a pear.*
 
@@ -59,7 +59,43 @@ Shuna is at the sink with her back to him.
 
 “Ori folded the napkin,” she says, without turning round. ˢʰᵘ
 
+“Ori can hear you,” says Ori. ᴼ
+
+She comes round from the little table with another napkin in her hand, flat this time. She puts it over the bottle before anyone can ask.
+
+“That's for when you get back. You can put things in it that you didn't buy from the Shop.” ᴼ
+
+“What sort of things?” asks Mau. ᴹ
+
+“Something I can tell Lantern the story of. It doesn't have to be big. I want something to trade for what Mama finds on our walk.” She puts one corner back where it won't go in the pickles. “And leave some cake. I want cake with her after.” ᴼ
+
+He can do both. He puts a piece of cake aside while she's still close enough to check its size. She takes another plate down and slips a scrap with her name and Frieren's under the rim, with enough of it sticking out for Shuna to see.
+
 * * *
+
+Later he finds Makima in the kitchen, holding a plate for Shuna while she gets the last of the bread put away. When he's got the basket down from the table, she brings him the cloth that belongs on top.
+
+“I'll go to my room when you leave,” she says. ᴹᵏ
+
+He takes the cloth. “Would you stay at the table inside? I want to show you where we're going. Come have supper with us for a bit.” ᴹ
+
+Makima pauses with one end of the cloth still in her hand. “You told Shuna for two.” ᴹᵏ
+
+“I thought of it after I got the basket.” He folds the edge she's holding in toward the bread. “I'll ask Yuka.” ᴹ
+
+Yuka is already at the door with her cloak over one shoulder. He tells her he'd like Makima to see the place and sit with them for a while, then he waits.
+
+“Can she hear me too if I ask her something?” says Yuka. ʸ
+
+“If you both open the line.” ᴹ
+
+Yuka looks across at Makima. “Come for supper. I want him to show me what he planned and then I'd like a while with him.” ʸ
+
+“I'll come for supper,” says Makima. She lets go of the cloth. “Will you tell me when you reach the good part?” ᴹᵏ
+
+Yuka pulls the cloak round both shoulders. “He hasn't told me where it is. We can find it at the same time.” ʸ
+
+Makima is inside by the time the two of them get their shoes on. He finds her putting her cup down at the table by the time he and Yuka step into the yard.
 
 He takes her by Exchange.
 
@@ -101,15 +137,43 @@ She bites it. She makes the face.
 
 “*So* terrible,” she says, delighted, and eats the whole thing. ʸ
 
+*She ate it all?* asks Makima. ᴹᵏ
+
+Mau looks at the stem in Yuka's hand. He gives Makima the view of that much. *Every bit except this.* ᴹ
+
+*I can hear you,* says Yuka. She leans back far enough to see him around the branch. *I saved you both a good one.* ʸ
+
+He takes it. The skin feels like it ought to warn him. The first bite makes the hinge of his jaw hurt. He gives Makima a second to decide if she wants to know.
+
+*I'd like to try it,* she says. ᴹᵏ
+
+He lets her taste the second bite. It takes her long enough to answer that he goes to take another.
+
+*You can stop,* she says. *I felt it the first time.* ᴹᵏ
+
+*Apparently it gets better near the middle,* he says. ᴹ
+
+*Who told you that?* ᴹᵏ
+
+Yuka makes a noise and puts her hand over her mouth because it's the same lie she'd been about to tell him. Makima hears that too and laughs from the table inside. Mau gets half the way through the rest of the pear because he can make Yuka laugh harder if he keeps telling her it must be about to improve.
+
 * * *
 
 They eat Shuna's basket in the dusk.
 
 The bread. The fish. The cake. The bottle, which turns out to be something sweet and fizzy that Yuka likes and Mau doesn't and which she therefore drinks most of. The pickles, out of the jar with the dragon napkin, which Mau sets aside on her side of the blanket without thinking and she steals without thinking.
 
-The stars come out.
+The first star comes out while they're wrapping the last of the bread. Yuka points it out so Makima can see it with them. He has to turn his head twice before he's got the part of the sky she means.
 
-One by one, and then all at once, the way they did the night of the expedition. Thick and bright over the valley where nobody has ever been. More than anyone could count.
+*Is this a good part?* Makima asks. ᴹᵏ
+
+Yuka sits where she is with her chin up until she can find it again. *Yes. I'm glad you got to see it.* ʸ
+
+Mau leaves the view there a little longer. *Can we have a little while to ourselves now?* he asks. ᴹ
+
+*Of course.* She picks up her cup. *You owe Ori a thing for the napkin. Show me what you find on the way home.* ᴹᵏ
+
+He feels her go as far as her own room. Yuka puts the stopper back in their bottle. By the time he looks up again there are already more stars than he can count.
 
 Yuka lies back on the blanket and looks up.
 
@@ -253,6 +317,18 @@ Mau reaches behind his own neck. Nothing. Yuka touches the back of hers, and her
 
 “I was going to tell you at the bottom,” says Kamish. He closes his eye again. “You looked busy.” ᴷ
 
+Yuka holds the pear out for him. He spreads Ori's plain napkin over his palm and she puts it down in the middle. Halfway round the first fold, he thinks of the cup at the inner table.
+
+*We found something,* he tells Makima. ᴹ
+
+She comes far enough out of her room to see and opens their shared line again. *Tell Ori it was the only one we managed to bring all the way back.* ᴹᵏ
+
+*You can tell her at breakfast,* says Yuka. *She'll want everyone's testimony.* ʸ
+
 They step into Kamish's shadow, and the world folds round them like a coat, and they're home. In the yard. Under the stars. With the house dark and asleep and one lamp still lit in the kitchen window, where somebody left it for them.
 
 Shuna. Always Shuna.
+
+At the lamp there's a pear leaf tied to a piece of string. Ori has written *Mama found the first yellow one. Do I win?* on the back of the paper she left it on. The leaf is small enough to have come out of the orchard. Mau puts their pear beside it and has to hold the napkin down while Yuka writes underneath.
+
+*Ask Kamish where he found ours.*

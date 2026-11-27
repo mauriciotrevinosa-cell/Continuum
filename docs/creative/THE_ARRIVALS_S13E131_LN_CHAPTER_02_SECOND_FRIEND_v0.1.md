@@ -93,7 +93,7 @@ Makima looks at her.
 
 Makima waits.
 
-“You and him,” says Yuka. “On the road. In the yard. Palm to palm. Thumb over the back.” She makes herself keep going. “What is that? What are you doing?” ʸ
+“You and him,” says Yuka. “When you went north that morning. I kept looking at the way he put his fingers between yours.” She makes herself keep going. “What is that? What are you doing?” ʸ
 
 She's afraid of the answer. She's been afraid of it for two weeks. She watched him walk north into the dark with another woman's hand in his, and the fear came up in her so strong she sat down on the wet grass.
 
@@ -105,13 +105,23 @@ Makima doesn't look away. She doesn't look embarrassed, or careful, or sorry. Sh
 
 “Not that kind of talk,” says Makima. “The other kind.” ᴹᵏ
 
-She holds up her own hand and looks at it.
+She holds up her hand. She turns it so Yuka can see the palm.
 
-“When he takes my hand,” she says, “it isn't romantic. I know you know that. But I know you've been afraid it might be, because I would have been, if I were you. So I'll say it plainly, the way you said things to him. It isn't. Not on his side. Not on mine.” ᴹᵏ
+“At first it was like this. He held his out that night by the wall. In the Gate too. I'd put mine against it and he'd keep it there until we had something else to do.” ᴹᵏ
 
-She turns her hand over.
+“And in the yard?” Yuka asks. ʸ
 
-“It's a way of saying *I'm here*,” she says. “*We're friends. You can lean on me. I can lean on you.* That's all. When you go somewhere dark with someone, you hold on so you don't lose each other. That's what it's for. It's the most ordinary thing in the world. I just didn't know that, for a very long time.” ᴹᵏ
+“After we came back. After you walked away. I was still holding his shirt. He reached back and I thought he wanted me to let go of it.” Makima looks down at her hand. “He went looking for my fingers. I could feel him waiting for me to take my hand back as soon as he touched it. He was afraid I'd go too.” ᴹᵏ
+
+Yuka takes a breath. “But you're with him. Even if you go inside.” ʸ
+
+“I can't disappear out of him. He knew that then. I could still go to my room and shut the door. I think he needed to feel me choose to stay beside him.” ᴹᵏ
+
+Yuka can see the yard from the top step. There's a place where two people can go round the training posts abreast before one of them has to fall behind. She remembers hearing Cross catch up to her there.
+
+“Do you still take it like that?” she asks. ʸ
+
+“Sometimes we slide our fingers together. He can ask for me that way even when he can't say anything. Sometimes I reach first. There was a minute in the basin when I needed to know where he was too.” Makima turns her hand back over. “He's my friend, Yuka. If I'd seen it from where you were, I'd have wanted somebody to tell me why.” ᴹᵏ
 
 * * *
 
@@ -159,7 +169,7 @@ When Yuka takes her hands away from her face, she holds one of them out.
 
 Makima looks at it.
 
-“Show me,” says Yuka. ʸ
+“Show me the first one,” says Yuka. ʸ
 
 Makima looks at her for a long moment.
 

@@ -71,7 +71,7 @@ She stops.
 
 Makima remembers. Mau had been saving them until she came in, under the piece of bread he kept moving round his plate. They'd been sitting there another few minutes when he let his hand fall open next to hers.
 
-“And then he took your hand,” says Satella. “I was going to ask you about the onions. That's when I saw it.” ˢᵃ
+“And then he put his fingers between yours right there on the table,” says Satella. “You didn't even have to stop talking. I was going to ask you about the onions. That's when I saw it.” ˢᵃ
 
 She looks at Makima for a moment as if she hopes the thing she saw had a perfectly simple explanation. Makima had liked the onions. She'd liked sitting there while he held her hand. She can't think of a shorter way to tell her that.
 

@@ -259,15 +259,9 @@ She's come across the yard, quietly, the way Noise lets her move. She's at his r
 
 She holds out her hand.
 
-Not to Yuka. To him. Sideways, without looking, the way he held his out to her on the wall.
+Sideways, where he can find it without having to move away from Yuka first.
 
-He takes it.
-
-Palm to palm. Thumb over the back. A friend's handshake. Firm. And then neither of them lets go, because where they're going is very dark, and very far, and full of things that want him gone from the world, and you hold on to a friend's hand in a place like that so you don't lose each other.
-
-That's all it is.
-
-He knows that's all it is.
+He takes it the way he did after the fight in the yard. His fingers go between hers. She waits for him to settle his thumb before she closes hers across it. The next time he takes a breath he can feel exactly where she is, even though he's still looking at the ground by Yuka's feet.
 
 He doesn't look at Yuka's face as she watches them do it.
 

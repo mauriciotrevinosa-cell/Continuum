@@ -257,11 +257,11 @@ Behind him, Makima's hand is still on the back of his shirt.
 
 It's shaking.
 
-He reaches back without looking, and finds it, and takes it. Not the way Yuka holds his hand. Palm to palm, thumb over the back. A friend's handshake. The way he did on the wall.
+He reaches back without looking. His palm finds hers the way it did on the wall, but he can still feel the pull of her fingers on his shirt. He goes looking for those. She lets the cloth go and opens her hand all the way. He fits his fingers between hers before she can ask what he needs.
 
-He holds it.
+For a second he thinks she's going to step back. He can feel her inside him as clearly as he could in the Gate. He still holds on the way he'd hold on to someone he was afraid would be gone when he next turned round.
 
-He doesn't know who's holding whom up.
+Makima comes up beside him, close enough that he can put his arm down without losing her hand. He feels her fingers settle between his, one at a time. There's still a tremor in them. He doesn't know who's holding whom up.
 
 On the porch, nobody moves.
 

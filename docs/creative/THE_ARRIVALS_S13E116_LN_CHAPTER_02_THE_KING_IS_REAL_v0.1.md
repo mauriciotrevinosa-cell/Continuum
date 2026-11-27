@@ -227,7 +227,7 @@ And he's so tired he could lie down on the quarry floor where he once lay in pie
 
 Makima is still at his right shoulder.
 
-She hasn't left. She hasn't said anything since the domain broke. But her hand is still there, in his, palm to palm, thumb over the back, the friend's handshake. He doesn't remember taking it. He doesn't remember her taking his.
+She hasn't said anything since the domain broke. He doesn't remember taking her hand, but when he looks down his fingers are between hers. He can remember reaching back for her in the yard and finding the same places for them. He loosens his grip far enough to find out whether he's been hurting her. She closes her hand again where he leaves it.
 
 *Thank you*, he says, inside, through the thread. ᴹ
 

@@ -135,11 +135,11 @@ Noise slides the last scout image between himself and Ciel. His finger rests on 
 
 *Makima.* ᴹ
 
-She doesn't answer in words. She reaches over without looking and takes his hand again, the way she did in the yard, palm to palm, thumb over the back. A friend's hand.
+She reaches over without looking. She finds the spaces between his fingers. He's been standing with both hands open and for a second it takes him by surprise when he feels hers close.
 
 *Whenever you say*, she says. ᴹᵏ
 
-The dust gets into the crease at the base of his fingers. He rubs his thumb across it and gets the sudden, very precise feeling of trying to close a hand that ends short of where he's telling it to close. There'd been a moment across from Sukuna when his eyes could count his fingers better than he could. He'd tried his grip a second time because he couldn't believe it was lying to him.
+The dust gets into the crease at the base of his fingers. He brushes it away with his free thumb and gets the sudden, very precise feeling of trying to close a hand that ends short of where he's telling it to close. There'd been a moment across from Sukuna when his eyes could count his fingers better than he could. He'd tried his grip a second time because he couldn't believe it was lying to him.
 
 He makes himself look. There are his fingers. He can see the knuckle Makima's thumb rests against. He can see the thin place in the dust she made with her heel a moment ago. He counts those things and still has to ask.
 

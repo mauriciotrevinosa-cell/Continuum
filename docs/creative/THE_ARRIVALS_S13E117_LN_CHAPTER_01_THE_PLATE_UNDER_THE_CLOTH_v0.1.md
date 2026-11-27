@@ -223,7 +223,7 @@ He moves the plate toward the middle of the table to give her room to put someth
 
 “I'll have some in a minute,” he says. ᴹ
 
-Makima is still standing at the side of his chair. He lifts the hand he was going to put on the chair back and reaches for hers. Makima turns her wrist so he won't have to reach quite as far. His fingers close. There's some of the quarry dust in the heel of that hand. Yuka can see it come away against Makima's thumb.
+Makima is still standing at the side of his chair. He lifts the hand he was going to put on the chair back and reaches for hers. Makima turns her wrist so he won't have to reach quite as far. He puts his fingers between hers. There's some of the quarry dust in the heel of that hand. Yuka can see it come away against Makima's thumb.
 
 She'd wanted to see him find her when he looked up. By the time he did look up, she'd left him with a place and no one in it. Now she's come down to ask after him where everybody can see her, and the person he wants to hold on to is the one who went with him.
 

@@ -181,7 +181,7 @@ He checks. “Two. Are they bad?” ᴹ
 
 She shows him how many she's left for herself and Ori wants to see. Shuna comes past with the pot, looks into Makima's bowl and gives her the spoon so she can get as much of the root as she wants. Makima offers it to Ori when she's taken her own. Ori puts a piece aside for Frieren on the grounds that everybody should have one.
 
-The handle on the pot comes down against the table. Mau holds his fingers still beside his bowl. Makima puts her hand where they're resting and leaves it there until he puts his over it. She goes on telling Ori she's allowed to take more than one piece if she likes them. He lets go when Ori puts a plate down between them and wants help with the bread.
+The handle on the pot comes down against the table. Mau holds his fingers still beside his bowl. Makima puts her hand where they're resting. He has to feel past the edge of his bowl to find it. She parts her fingers for him and goes on telling Ori she's allowed to take more than one piece if she likes them. He lets go when Ori puts a plate down between them and wants help with the bread.
 
 She has a piece she can't tear without pulling the whole loaf off the plate. He holds the other end while she gets it apart. She gives him half on the condition that he comes to find her before he goes over the hill.
 

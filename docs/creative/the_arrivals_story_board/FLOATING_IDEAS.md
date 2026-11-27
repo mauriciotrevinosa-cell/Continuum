@@ -532,3 +532,13 @@ Corrección de Mauri (mismo día); manda sobre lo anterior:
 - Semilla: en algún momento, lo que hizo Megumi contra Reggie en el Culling Game: extender su simple domain usando las demás sombras del lugar (allá, las del gimnasio) para dar la ilusión de un Domain Expansion (Chimera Shadow Garden).
 - Por revisar antes de usarlo: en CANON_TRAPS, Chimera Shadow Garden aparece como Domain Expansion de Yuka (S7E34, S8E46). Falta confirmar si Mau también lo usa o si sería a través de ella.
 - A favor: sin barrera y sin sure hit no le rompe a Makima el cuerpo que sostiene Noise (ver "Dominios y Makima", 23 nov).
+
+## Yuka hizo verdad su propio miedo; el anillo en la guerra (Mauri, 26 nov 2026)
+
+> ese es el punto bueno en mi punto de vist pq el temor de yuka mau no fue el que lo hizo verdad yuka llevo a mau a un extremo que lo que ella temia ella lo hizo realidad pq si yuka hubiera hecho caso a maki mai y yuta al inicio nada de esto hubier pasado
+
+> si es que es un temor y en la guerra tal ves salga algo de ahi
+
+- Intencional: que Mau se apoye en Makima no es el patrón a evitar, es la consecuencia. Lo que Yuka temía ("you'd rather have her") lo hizo realidad ella misma al empujarlo al extremo; si hubiera escuchado a Maki, Mai y Yuta al principio, nada habría pasado.
+- La pregunta del anillo es un miedo de Mau; puede salir en la guerra con Yoru.
+- Propuesta de Claude (sin aprobar, falta confirmar el canon de Yoru): Yoru convierte cosas en armas y el arma es más fuerte entre más culpa siente la persona hacia esa cosa. La culpa de Yuka por la alianza la volvería un blanco perfecto para Yoru, y eso forzaría a sacar el tema en plena guerra.

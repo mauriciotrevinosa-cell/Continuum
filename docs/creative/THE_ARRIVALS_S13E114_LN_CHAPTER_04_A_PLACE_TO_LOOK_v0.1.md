@@ -21,7 +21,25 @@ He puts the warm bowls on his knee and sits on the top step. She puts one of the
 
 Maki passes them twice. The first time she's looking for a strap to mark where the quarry trail gets narrow. The second time Ori is with her, holding the folded end of it like it's in danger of being drafted for something else. Shuna has to move her legs to let them go by. She tells Ori to let her know if there's anything left over for a peg bag.
 
-Mau eats enough to give himself a reason to put the spoon down. He picks it up again while Shuna gets up and puts her hands out for the empty bowls. She takes those two downstairs. He takes the bottom one himself.
+Mau eats enough to give himself a reason to put the spoon down. Shuna puts her hand out and he gives her the spoon, with the other two bowls still stacked on his knee.
+
+“Yesterday you told me when you'd be at the ford,” she says. “I was asking if you'd eaten.” ˢʰᵘ
+
+“I know.” ᴹ
+
+“Did you hear me ask it?” ˢʰᵘ
+
+He looks at her. He'd been able to tell how much ground Maru wanted for the turn at the ford before they got there. He'd known how long it would take to come back after he finished. He tries to remember what Shuna had in her hand when she asked him about breakfast. He can remember where Yuka left her cup, where she stood next to it, how far she had to move her thumb for him to see what she was doing.
+
+“I thought you needed to know if I'd be back by lunch,” he says. ᴹ
+
+Shuna gives him the spoon again. He takes it. Somewhere below them somebody is cutting a roll in half with the bread knife that always makes a racket against the board.
+
+“Can I eat the rest down there?” he asks. ᴹ
+
+“You can have my end of the bench. I'm going to stand up as soon as the next batch is out.” ˢʰᵘ
+
+She gets up and puts her hands out for the empty bowls. She takes those two downstairs. He takes the bottom one himself and eats what's left at her end of the bench. Shuna comes back for her tea with flour under her wrist. He moves the cup within reach and she takes it without asking him what else he heard yesterday.
 
 * * *
 
@@ -39,7 +57,17 @@ Frieren follows his finger. “That bit?” ᶠ
 
 “Well inside the scouts,” says Jin-Woo. “Tell her where to go.” ᴶʷ
 
-Mau takes an extra piece of paper from by Rimuru's elbow. He draws the upper trail again. He marks the place and has gone as far as starting a second line from it before he realises he wants space to write something. Nothing he wants to say will fit in the gap he's left.
+Mau takes an extra piece of paper from by Rimuru's elbow. He draws the upper trail again. There are two ways to get onto the shelf. The shorter one goes over a broken stretch of stone where she might have to reach over her head to get up. He shades it out. The long way round takes her clear of the path they'll use to bring anybody back who can't walk.
+
+He puts a small square at the pale end of the shelf. For a second he's doing it at the breakfast table last week. He could call her over, tell her he's given her a very good seat, and find out she's found a better one where she can see what he's doing with his shoulders.
+
+Maki comes back for the rest of the cloth. She sees him draw the last little line and asks, “Do you want me to show her the way up?” ᴹᵃᵏ
+
+“If she asks.” He puts the point of the pencil down again. “I'd like to be the one who tells her where to look.” ᴹ
+
+“All right.” Maki gathers the cloth, folding the end so it can't catch in the door on its way out. “I'll tell Gojo to leave that part clear.” ᴹᵃᵏ
+
+He draws a second line out from the square and goes as far as writing *if* beside it. He could give her the long way up without making her tell him what the ring meant. He rubs the word out with the side of his hand and leaves the way up.
 
 Frieren stays after the others take the big map. She sees him folding the small one and puts the empty cup back on the page.
 

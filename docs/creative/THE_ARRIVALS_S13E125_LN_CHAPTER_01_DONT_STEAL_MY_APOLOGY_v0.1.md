@@ -93,7 +93,11 @@ Her voice has gone thin. She takes a breath and gets a little more of it.
 
 He moves one hand under his thigh. He didn't tell Shoko. She can't have brought it in with her from anybody's account of what happened to him. She's describing what she did from the other side of the cup. He'd never been able to work out where she was looking after the band caught.
 
-“I wanted you to ask me to put it back on,” she says. “I wanted you to have to ask me to stay. I knew what you'd heard before the Trial, and how long you spent thinking I meant it. I still wanted you to think you might have to say something to keep me. I did that when you were standing right in front of me trying to talk.” ʸ
+“I wanted you to ask me to put it back on,” she says. “Cross told me you knew I'd be there whenever you came back. He thought I should let you feel what it was like to have something to lose. I was at the rail when he said it. I looked straight at the band. The next day I made you watch me take it off.” ʸ
+
+Mau's thumb moves up against the seam in his trousers. Some part of him is trying to work out what he'd have said if he could have got more than her name out.
+
+“You already knew what it felt like,” Yuka says. “I knew because you'd told me. And you were standing right in front of me trying to talk when I decided you needed to feel it again.” ʸ
 
 She pauses. He can hear a spoon go down in the house across the yard. Nothing else moves.
 

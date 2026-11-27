@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 12
 **Source episode:** S13E123
-**Continuity state:** B+439 ("48"), before Elmesia's letter. A broken washing line brings Yuka and Mau into the same part of the yard. Shuna, Mai and Frieren help with the work. Yuka sees how readily Mau expects her to want him gone. Maki asks Yuka what she was trying to accomplish by taking off the band in his sight. Mau and Yuka still make a small plan for the following morning. Mau still sleeps at the clinic; Yuka stays with Ori, and their direct line remains closed.
+**Continuity state:** B+439 ("48"), before Elmesia's letter. A broken washing line brings Yuka and Mau into the same part of the yard. Shuna, Mai and Frieren help with the work. Yuka sees how readily Mau expects her to want him gone. Maki asks Yuka what she was trying to accomplish by taking off the band in his sight. Later, Mau asks Makima to stay while he eats. Yuka brings him the bread he asks for. She and Mau make a small plan for the following morning. Mau still sleeps at the clinic; Yuka stays with Ori, and their direct line remains closed.
 
 *When: B+439. The yard is still wet underneath yesterday's sun.*
 
@@ -123,9 +123,41 @@ Makima is sitting on the low chair by the cot. Yuka can see one of her shoes whe
 
 Yuka feels the urge to take one step back. There's nobody behind her. She stays.
 
-“Could we eat together tomorrow?” she asks. “Early. Before somebody needs your morning.” ʸ
+“I brought the pegs. Can I do anything while I'm in here?” ʸ
 
-Mau has to put the bowl down. Makima keeps still long enough for him to get it all the way onto the stool.
+Mau looks down at the bowl. The spoon has slipped far enough in that she can only see the end of the handle.
+
+“Could you put the stool on this side?” he asks. ᴹ
+
+She goes round the cot. The stool drags on one foot, so she lifts it and carries it the last little distance. She would have set it right against his leg. She can see him measuring where the bowl's going to go with the angle of his wrist.
+
+“Here?” she asks. ʸ
+
+“A little farther forward. Thanks.” ᴹ
+
+He gets the bowl onto it. Makima moves to take her hand away and he closes his fingers while he still has them round hers.
+
+“Stay a bit?” he asks her. ᴹ
+
+Makima settles back onto the chair. “Yes.” ᴹᵏ
+
+Yuka feels the edge of the peg in her palm. She knows the exact height at which she used to put her hand out and have Mau take it without checking whose it was. There'd been a whole afternoon on the island when she was the one who told Makima it was fine to hold his hand for a while. Tonight he asked for it in front of her, and it doesn't take either of them a second to understand him.
+
+She sets the pegs on the foot of the cot before she can let herself ask for that hand back. “There's bread in the kitchen. Do you want some?” ʸ
+
+“One edge piece if there's any left,” he says. ᴹ
+
+Shuna is scraping the board when Yuka goes in. She offers to put a little butter on the bread so he can eat it with the soup. Yuka nearly tells her she has to go right back. She waits while Shuna goes for the butter and takes the piece herself. When she sets the plate on the stool at the clinic, he turns his wrist to take it without letting the bowl move.
+
+“You found the good end,” he says. ᴹ
+
+“I asked Shuna.” ʸ
+
+He looks up. He's usually the person who saves the heel for Frieren. She can't tell if that's what he's just remembered. He breaks the bread with one hand, gets a little of it into the soup and eats. Yuka has time to decide if she's going to ask him while he's got a reason to want her to go.
+
+“Could we eat together tomorrow?” she asks. “Early.” ʸ
+
+Mau puts the bread down on the edge of the plate. Makima leaves her hand where it is.
 
 “At the table?” he asks. ᴹ
 
@@ -135,4 +167,6 @@ He thinks about it. There have been a lot of moments she could spend making hers
 
 “Come sit with me,” he says. ᴹ
 
-She puts the pegs on the sill. She tells him where they go, in case one of them drops and he wants to know what the sound was. He says he'll leave them where they are. She watches him take his bowl again. Then she goes back to the house and up to Ori's room, where Ori still has to be told that her feet should point toward her own end of the bed.
+She puts the pegs on the sill. He breaks the rest of the bread small enough to go straight into the bowl. He's quite methodical about it. She has time to say tomorrow once more before she goes. He's already told her to come.
+
+She goes back to the house and up to Ori's room, where Ori still has to be told that her feet should point toward her own end of the bed.

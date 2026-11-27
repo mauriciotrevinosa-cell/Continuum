@@ -25,7 +25,23 @@ Cross glances at the underside of the glove. He doesn't touch it.
 
 The words sound kinder now than they did yesterday, when she had the chalk in one hand and could still see where he'd rubbed an extra line out of the map. She tightens her lace.
 
-Cross puts his shoulder to the frame. There's enough room to pass him. She gets the lace round her finger and leaves it there, half tied.
+“Then he did ask you,” says Cross. He puts his shoulder to the frame and watches her go to finish the bow. “What did he say he'd do if you told him no?” ᶜʳ
+
+“Nothing. He'd go fight Dabura. He's been getting ready for days.” ʸ
+
+“Would he come back here?” ᶜʳ
+
+“Of course he'd come back here.” ʸ
+
+“To the room?” he asks. He looks at the map, and she has to remember which room they're talking about before she can answer.
+
+Yesterday there'd been time to tell Mau what she meant in the yard. They'd got as far as him asking her to come. She goes on thinking about the question Cross gave her until she's remembering the two shirts again, and that tiny pause before Mau said he could give her the room.
+
+“He was worried about me getting there,” she says. “He drew the way around where the rock's broken.” ʸ
+
+“I think he's worried about a lot of things,” says Cross. “If you say yes to this one, he'll have one less thing to ask you.” ᶜʳ
+
+There's enough room to pass him. She gets the lace round her finger and leaves it there, half tied.
 
 “I heard you in the yard,” he says. “You asked him to tell you what he wanted. He went in a gate without telling you and shut off the one thing that lets you find him. We were standing in the grass and you still wanted to go after him. You told me the only reason you could get to your feet after the other gate was you knew he'd already come for you.” ᶜʳ
 

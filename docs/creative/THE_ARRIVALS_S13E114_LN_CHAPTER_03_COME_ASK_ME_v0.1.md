@@ -93,7 +93,13 @@ Yuka knows how it would feel if the whole yard emptied and left them right here.
 
 She puts the cup back down. Her wedding band clicks against the handle. She twists the band once with her thumb, and Mau's eyes go straight to the movement. She can feel him see it. She's angry enough to want him to see the rest.
 
-The band sticks where her finger widens. She works it over the joint. His hand comes away from his side, just a little. She remembers that he offered her that hand before she ever knew he had a ring for her. She gets the band off and closes her fingers around it. Grandpa's ring is still in its place.
+The band sticks where her finger widens. She stops.
+
+He's still looking. She knows the point at which she could lower her hand and he would take it. He'd offered her his long before she knew he even had a ring for her. If she goes the other way he'll have to say what he wants. Last night he'd said he loved her and she'd made herself walk far enough that he couldn't say it a second time. She wants it now, while the part of him that knew she'd be there has to ask.
+
+She works the band over the joint. His hand comes away from his side, just a little. It's the part she knew would hurt him. She keeps looking until she sees it hurt and finds she'd had no idea how long he would stand there afterward.
+
+She closes her fingers around the band. Grandpa's ring is still in its place.
 
 “Yuka,” he says. Just her name. He stays where he is. ᴹ
 
@@ -129,7 +135,43 @@ Maki comes in with Ori. Ori has a piece of cloth from the bottom of one of the c
 
 “He was standing in front of you, Yuka.” ᴹᵃᵏ
 
-Yuka doesn't have a good answer for that. She takes the spoon Shuna leaves next to her and stirs the pot so nothing sticks. Across the kitchen, Ori is trying to see if a giraffe would fit upright on the flag. Before she finishes, Maki has to move both their cups.
+“I know where he was standing.” Yuka looks up fast enough to find Maki already looking at her. “I don't need you to tell me how much it should have meant that he finally asked. Cross heard what I said. Everybody else keeps telling me what Mau meant.” ʸ
+
+From the stove Shuna puts a hand on the board so Ori can see where to stop drawing. Ori sets her pencil down and slides the cloth far enough across the counter to stay beside Shuna.
+
+“He asked Maru to give you the yard,” says Maki. “I saw him do it. You still get to tell him no. I want you to hear the question he asked you.” ᴹᵃᵏ
+
+Yuka takes the apron off the hook because she's going to have to stand here until there's another crate. When she gets her hand through the loop Maki looks at it. She's looked at that hand a thousand times. She can tell exactly what's missing.
+
+“Where's your band?” ᴹᵃᵏ
+
+Yuka thinks of the cup. How long her hand hung over it while she worked the band up. “I took it off.” ʸ
+
+“While he was there?” ᴹᵃᵏ
+
+“Yes.” She puts the spoon back where it came from. “I wanted to see his face. I wanted him to see what it was like when he was the one with something to lose.” ʸ
+
+Maki sets the knife down first. The point touches the board and leaves the smallest mark in the wood.
+
+“Did that sound like you when you said it to yourself?” ᴹᵃᵏ
+
+“I was tired of him knowing I'd be here no matter how long he took.” ʸ
+
+“He was here. You made him watch you take it off while he was asking you to stay and talk. You know what he spent all that time in the Trial thinking he'd lost.” ᴹᵃᵏ
+
+Yuka tightens the apron. “You weren't there when I was on the grass and I couldn't get a breath. Cross was.” ʸ
+
+“No. I saw him ask you to stay this morning. And I'm angry with you for what you chose to do while he was standing there.” ᴹᵃᵏ
+
+Ori has drawn too far on the flag. Shuna shows her a clean edge she can turn under. She asks if she'd like to see how it will fit the pole, and Ori goes to get it.
+
+When Ori's out, Shuna takes the spoon and gives the bottom of the pot a scrape herself. “I would have been angry too. You woke up and he was gone. You had to find out where he was from everybody except him.” ˢʰᵘ
+
+Yuka puts a hand on the board. “Have you told him that?” ʸ
+
+“I can, when he's got room for it. Right now he answers everything with where he'll be and when he'll be back. I asked if he'd eaten and he told me where he'd be at lunch.” ˢʰᵘ
+
+Yuka looks at the small mark Maki left in the board. If she went out now and got one more minute, she doesn't know what she'd say if Mau turned round and said he was sorry. She can put the band back on without anybody asking. She puts her hand in her pocket and leaves it there. She takes the spoon Shuna leaves next to her and stirs the pot so nothing sticks. Across the kitchen, Ori is trying to see if a giraffe would fit upright on the flag. Before she finishes, Maki has to move both their cups.
 
 * * *
 
@@ -165,7 +207,23 @@ She did stop. She can hear how much quieter he was than she'd expected. It had t
 
 “He asked me to talk today,” she says. ʸ
 
-“Did he ask you about the gate?” ᶜʳ
+“He did,” says Cross. “What did he tell you before he asked?” ᶜʳ
+
+“Where he was going.” She thinks of the two shirts he took out of their room. She had needed both sets of clothes put in the drawer to fit properly and she rearranged his after he left. “I could have asked him to stay.” ʸ
+
+Cross hands her the sound end of the canvas to hold while he turns it. “Would he have stayed?” ᶜʳ
+
+She has her whole answer ready. He's done it a hundred times. He'd stay halfway down the stairs if she asked, carrying a bowl with the last thing he meant to eat that night.
+
+“Yes.” ʸ
+
+“Then why did he have to tell you where he was going before he asked you to talk?” ᶜʳ
+
+She feels the torn side brush her wrist. He could have asked her in their bedroom this morning. He took the shirts with him. She hadn't even known she'd given him a reason to.
+
+“He had something to do at the ford,” she says. ʸ
+
+“I know. Did he ask you about the gate?” ᶜʳ
 
 She tries to think back far enough to answer it. He told her where he was going. He asked for a minute. She said she didn't want one, and after she'd taken the band off he never got to ask her anything else.
 

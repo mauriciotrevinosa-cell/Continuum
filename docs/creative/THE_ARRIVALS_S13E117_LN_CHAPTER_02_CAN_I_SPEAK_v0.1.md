@@ -219,7 +219,7 @@ Mai looks down at Yuka's hand. Yuka takes the band out of her pocket before anyb
 
 “I keep getting as far as telling myself he left without telling me,” she says. “I'm still angry about the Gate. That makes it a very easy place to start. But I was looking at him when I did this. I waited till he saw me.” ʸ
 
-“Did you want to take it off for good?” asks Maki. ᴹᵃᵏ
+“When I asked where it was, you told me you wanted to see his face,” says Maki. “Did you want to take it off for good?” ᴹᵃᵏ
 
 Yuka shakes her head. She's been able to answer that question all this time. It doesn't tell her what she meant to make him think.
 
@@ -272,6 +272,18 @@ Rimuru asks whether the offer about the road still stands, and Maru says it does
 She wants to be angry about the line for another minute. There's still something in her that wants to feel whether he needs her before she'll go and say she needs him. She stops reaching for it when she notices what she's doing.
 
 Shizue catches the swinging door for her on the way out. “Can you ask Shuna if there's enough for five when they're done?” ˢʰⁱ
+
+Yuka puts a hand out for the door. Shizue lets her take the weight of it.
+
+“In the yard I acted like Cross was the only one who heard me,” says Yuka. ʸ
+
+“You told Shoko. I was there.” ˢʰⁱ
+
+Yuka had remembered it with Shizue in front of her. She'd had everybody's faces in the wrong order except the one she kept turning away from. “I knew you'd heard me that morning. I wanted him to be the only one.” ʸ
+
+Shizue keeps her hand on the edge until Yuka has the door. “Then I hope you can tell Mau what you were asking now.” ˢʰⁱ
+
+Yuka gets as far as “I hope” and leaves it there. She takes the next step with both hands on the door, holding it while Shizue goes through.
 
 “There'll be enough,” says Yuka. She goes to find out what she can do before they all come out again.
 

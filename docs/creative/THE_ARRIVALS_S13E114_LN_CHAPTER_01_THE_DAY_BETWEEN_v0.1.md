@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 21
 **Source episode:** S13E114
-**Continuity state:** B+430 night to B+431 late morning. Ori sleeps beside Mau by choice. Yuka stays with Frieren in Ori's room. Makima asks Mau to stay home until the duel. At the workshop the next morning, Mai confronts the unannounced cut and they restore the supply on its own with Ciel. The personal lines stay closed.
+**Continuity state:** B+430 night to B+431 late morning. Ori sleeps beside Mau by choice. Yuka stays with Frieren in Ori's room. Makima asks Mau to stay home until the duel. At the workshop the next morning, Mai confronts the unannounced cut and they restore the supply on its own with Ciel. Mau helps Yuka with her hair, then leaves their room because he thinks she wants the space. He keeps finding reasons to stay out of her way until he takes Mai's level downstairs and decides to tell Yuka where he's going. The personal lines stay closed.
 
 *When: B+430, late night, into B+431, after breakfast. The notebook is still open to "57".*
 
@@ -61,7 +61,7 @@ He does it carefully, so as not to wake her. He tucks the blanket round her. He 
 
 He knows what he's going to do.
 
-The quarry. Now. Tonight. Not three mornings from now at dawn, the way Maru said. Now, while it's dark, while everyone's asleep, while nobody can follow him. He'll go to the quarry and wait there, and when Dabura comes, early or on time, he'll be there, alone, and he'll do it, and it'll be done.
+The quarry. Now. Tonight. Not at dawn on the day Maru gave him. Now, while it's dark, while everyone's asleep, while nobody can follow him. He'll go to the quarry and wait there, and when Dabura comes, early or on time, he'll be there, alone, and he'll do it, and it'll be done.
 
 He doesn't need anyone. He doesn't want anyone. He closed the doors so nothing would reach him, and nothing will.
 
@@ -121,9 +121,55 @@ He doesn't make a sound.
 
 Makima doesn't say anything. She doesn't touch him. She just stays, a friend on a step, while the sky starts very slowly going grey over the hills.
 
-He gets as far as breakfast on B+431.
+By the time he goes upstairs, Ori has kicked the blanket off again. He gets it over her feet and goes over to the wardrobe. He works two shirts loose without bringing down the one Yuka hung between them. One has a bad cuff. He can ask Mai if she's got anything that'll hold it to the end of the week.
 
-He spends it in the workshop with Mai. He doesn't decide to; he just goes there, after breakfast, which he doesn't eat, and Mai looks at him and gives him a beam for the storage rack she's adding beneath the new floor. He holds it while she checks the dry joint. She has not started her Construction yet.
+Yuka comes in with folded clothes from Ori's room. She has her hair twisted up in one hand and the clothes under the other arm. They both stop in exactly the wrong part of the room to let the other one pass.
+
+“Can you get the clip out of my pocket?” she asks. ʸ
+
+He puts the shirts on the chair and gets it. It's the one with the missing tooth. He knows how far up to put it so it'll still hold. She leans her head back into his hand while he closes it. Her hair's warm underneath where she's been holding it.
+
+“Thanks,” she says. She takes her hand down and feels the clip with her fingers. “It's going to be one of those mornings where I have to do it three times.” ʸ
+
+“I'll get the good one out.” ᴹ
+
+He gets it from his inventory and puts it on the dresser. He's moved his cup to make a place for it. He starts putting on the shirt with the bad cuff, over the one he slept in, and gets his thumb caught where the seam has come open.
+
+“What are you doing?” she asks. ʸ
+
+“Mai's working on the rack. I'll see if she'll let me hold something.” ᴹ
+
+“I meant with the shirts.” She puts the clean clothes away. She stacks his on the right, where she always has. “You've got one on already.” ʸ
+
+He pulls it off. He'd forgotten the clean one wasn't on top. There's a little white crease in it from where his hand was. He could put it down and ask her if she'd been awake to hear him come up.
+
+“Mau, you could change in here.” ʸ
+
+He hadn't had time yet to decide which part of the house to use. He'd meant to do it somewhere quiet, and thought if he put the old shirt down at once he'd be able to stand there another minute without thinking of where she was going next.
+
+“I can give you the room before breakfast,” he says. ᴹ
+
+She takes her hand off the drawer. “I only came for my things. I thought you'd be going down with me.” ʸ
+
+He looks at her long enough to make sure that's what she said.
+
+The good clip is sitting between their cups. Last night she told him to go with Makima and then went with Cross. This morning she was going to come down to breakfast with him with her hair up the way he put it. He doesn't know how to put both of those things in the same room without one of them being a thing he heard wrong.
+
+He picks up the shirts. “I'll wait for Ori to wake up first.” ᴹ
+
+She's close enough to take his sleeve. He can see which hand she'd use. She looks down into the drawer and moves the shirt on the right another inch away from the edge, because otherwise the cuff catches when she closes it.
+
+“Okay,” she says. “I'll see you down there.” ʸ
+
+He waits until Ori wakes. She asks him if the extra shirt is for her and when he says no, she pulls it over her knees anyway. By the time he comes down with her, she has decided where they're going to put the new flag, who will put it up and what the first person to take it down will owe her.
+
+Yuka is in the kitchen when he gets there. One of her hands goes up to the clip without her looking. Mau sees her give it another press and put her hand on the back of the chair beside hers. He opens his mouth.
+
+Ori's still got one arm in his shirt. He gets her out of it and helps her over the bench. Yuka holds the chair until he's got both his shirts back. By then he's given himself somewhere to go.
+
+* * *
+
+Mai looks at him when he shows up in the workshop and gives him a beam for the storage rack she's adding beneath the new floor. He holds it while she checks the dry joint. She has not started her Construction yet.
 
 Mai doesn't ask him to explain Yuka. She puts the first beam down before she touches her Construction.
 
@@ -151,6 +197,12 @@ She's on the wall. The same wall. With her knees drawn up and her arms round the
 
 She's very still.
 
-He looks away.
+He looks away. He has the short end of the last beam in his hands. He'd come up here to give her until breakfast, and then he let himself have a very good reason to give her until noon. He can keep making days out of reasons like that. He knows how long he managed it once.
 
-He doesn't look again.
+“Does this end still need to go up?” he asks Mai. ᴹ
+
+“I can put it up. I only needed to see what it was doing when you held it.” She slides a wedge in and uses his hand to check whether it still moves. “Let go for a minute.” ᴹᵃ
+
+He lets go. It stays where they put it. His hands are empty.
+
+He gets her level where she tells him it is. He can still tell Yuka where he's going before she has to ask anybody else. He takes the stairs with the level held flat across both palms.

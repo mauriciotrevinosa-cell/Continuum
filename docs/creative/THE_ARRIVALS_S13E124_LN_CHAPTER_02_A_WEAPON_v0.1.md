@@ -155,7 +155,11 @@ Cross has his mouth open. She can hear what she used to say before he had to say
 
 “After he saw me do it, he came to the wall with the map,” she says. “When he came home, I tried to tell him I'd put my boots on. He didn't ask me the rest. He thought I'd come down with his supper for Shuna.” ʸ
 
-She can see a little of the map coming out under the glove again. She had known all along how to get there. The only thing she'd been waiting for was for him to come down the hill and ask her to do the thing he'd already asked for. He was going up that same hill toward a man who could kill him. She hasn't let herself put those facts next to one another until now.
+She can see a little of the map coming out under the glove again. She had known all along how to get there. *Would he come back to the room?* Cross had got her sitting on the step trying to answer that for Mau, one lace pulled tight round her finger, when she could have gone and stood where Mau could see her.
+
+“You asked me if he'd come back to the room,” she says. “Then I stayed home thinking about the Gate again, like you'd given me something to do till he came home. I could have asked him when I saw him after the fight. If I'd gone.” ʸ
+
+Cross looks from her face to the clinic. She doesn't think either of them had pictured that chair when they'd stood by the steps. Mau would have had to come up a hill and then down another one to explain himself to her, with the kind of man Dabura was still on the other side of the ridge. He'd gone out there asking for one person to be someplace he could see.
 
 The wheel stops turning. She leaves it where it is. Across the yard she can see the clinic window, and a little corner of the blanket on the cot. She wants to open the curtain on his side of the bed again and have it actually mean he's coming upstairs. Before she can ask for that, she's going to have to tell him what she'd wanted him to see.
 

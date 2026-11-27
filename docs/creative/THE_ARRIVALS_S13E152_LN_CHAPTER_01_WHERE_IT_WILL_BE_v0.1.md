@@ -49,7 +49,15 @@ He turns his head. She has her fingers in the short part of his hair. He can fee
 
 “Before all this I used to know which side of the house you'd be on when I came back.” He lets her see him look down. “I'd like to talk about that night. When I can get past the first thing you said.” ᴹ
 
-She uses the clean end of the towel to get the mud off behind his ear. Then she gives him the rest of it and lets him stand where he is while he unfolds it.
+She uses the clean end of the towel to get the mud off behind his ear. She's close enough to see his mouth move before he decides to leave it there.
+
+“Do you want me here while you get changed?” she asks. ʸ
+
+He gets a hand around the towel. Once he told her she could have the room, in the same voice he'd have asked if she wanted more tea. She'd put his folded shirts in a drawer and he'd gone to Mai wearing the one he already had on.
+
+“Yes,” he says. “I'd like you here.” ᴹ
+
+She hands him the rest of the towel and walks upstairs with him, slow enough that he can catch her sleeve if he wants. On the landing he gets the pear out of his pocket so she can take it without having to unhook his arm. She keeps it in her hand till they're through the door.
 
 * * *
 

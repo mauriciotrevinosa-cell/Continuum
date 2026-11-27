@@ -189,7 +189,15 @@ He tries to get out *I couldn't*. He's been trying since he got down the hill. H
 
 “Yuka.” It's Shoko this time, from the steps. “He heard you.” ˢʰ
 
-Yuka searches his face. He can't tell if she's waiting for him to take it away from her or for what she's going to say next.
+Yuka searches his face. He can't tell if she's waiting for him to take it away from her or for what she's going to say next. She looks beyond him for long enough that he checks who's there. Cross has one hand on the training post, exactly where he was before she said it.
+
+“Did he?” she asks Shoko. “Everybody keeps telling me what he's heard. He can ask me himself.” ʸ
+
+Shizue sets a dishcloth down over the rail. “You said you wanted to ask him where he'd been.” ˢʰⁱ
+
+“I asked him for more than that.” Yuka takes one breath like she's ready to say what it was. Then she looks at Makima again. “Cross was there this morning too. He actually heard what I was asking.” ʸ
+
+Mau sees Shizue's fingers tighten at the edge of the cloth. He can't remember saying anything that would let her tell Yuka where he was in all of this. He still has his hand partway out.
 
 “Fine,” she says. ʸ
 

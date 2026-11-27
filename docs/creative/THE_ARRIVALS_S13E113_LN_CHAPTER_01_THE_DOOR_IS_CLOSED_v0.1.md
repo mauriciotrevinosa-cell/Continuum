@@ -223,7 +223,29 @@ Cross lets her get one foot turned toward the house. “Who gets to go with him 
 
 “I'd want to know.” He looks down at her feet, bare in the wet grass. “I wouldn't want to hear from someone else that I came second.” ᶜʳ
 
-Once she gets through the door she's going to feel stupid for ever thinking there was a place she had to come in her own house. She's sure of it. She turns her other foot. She pulls the hem of her shirt down. She'd walked out here without putting shoes on. She goes back to get them and to ask who saw him leave.
+“I'm not second in my own house,” she says. ʸ
+
+“Tell him that, then.” Cross takes his hands off the post. “If he can go anywhere and know you'll be here when he gets back, he never has to ask whether you're happy that way.” ᶜʳ
+
+“You think I should leave?” ʸ
+
+Cross glances at the kitchen. Shizue is coming round to bring in the cloth somebody left over the rail.
+
+“I think you could let him see how it feels to have to ask,” he says. “Let him be the one who's got something to lose for a minute.” ᶜʳ
+
+Yuka looks down at her hand before she's decided what he means. The band catches the daylight between her fingers. She closes them. There are a hundred ways she could get Mau to turn round in the yard and look at her. She knows before she's tried any of them which one would scare him most.
+
+“I only want him to tell me where he's gone,” she says. ʸ
+
+“Then ask him that when he gets back,” says Shizue, taking the cloth off the rail. “I heard the last bit. You can have that conversation with him while he still knows what you're asking.” ˢʰⁱ
+
+Yuka hears herself answer before she's finished turning. “If he wanted that, he left the wrong door open.” ʸ
+
+Shizue folds the cloth where she holds it. “You can tell him you want him to come in through this one.” ˢʰⁱ
+
+Yuka pulls the hem of her shirt down. Cross has already given Shizue enough room to take the cloth in. Once Yuka gets inside she's going to feel stupid for ever thinking there was a place she had to come in her own house.
+
+She goes back to get her shoes and to ask who saw him leave.
 
 Nobody has spoken to Mau himself. Shoko had a message about the tea he'd promised her. Frieren knows he is at a gate and offers to go with Yuka if she wants to meet him outside it. Gojo has the position from Ciel and shows Yuka on the map.
 

@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 31
 **Source episode:** S13E131
-**Continuity state:** B+452 ("35"). Yuka's point of view. She finds Makima alone on the north-wing step at dusk, hugs her from behind, and doesn't let go: thank you for not letting him do something stupid when I hurt him. Makima: that's what friends are for. Yuka laughs and asks what they're doing, holding hands. Makima explains, plainly, without embarrassment: it isn't romance; it's how they tell each other we're here, we're friends, we can lean. She has no romantic feelings, not for anyone; what she wanted all her life without knowing the word was someone at her own level, someone who could stand level with her, and Mau showed her what that is. Yuka understands that what she feared, that Makima would replace her, was impossible from the start. She takes Makima's hand to try it. Then: he has two now, but if Yuka ever sees her try to kiss him the way Yoru tried, she'll send her straight to hell. Makima accepts the terms. Yuka tells her what Mau did for Rem. Makima thanks her. Makima's second friend.
+**Continuity state:** B+452 ("35"). Yuka's point of view. She finds Makima alone on the north-wing step at dusk, hugs her from behind, and doesn't let go: thank you for not letting him do something stupid when I hurt him. Makima: that's what friends are for. Yuka laughs and asks what they're doing, holding hands. Makima tells Yuka what changed in the yard and why the hand helps both of them stay present. Makima tells her she wanted Mau's closeness from the beginning and how living with his feelings has helped her recognise her own. She wanted someone at her own level. When Mau chose to ask her to hold him, her joy that he asked was hers, as was the wish he hadn't had to. Yuka hears what that closeness costs them and how Makima chooses to respond to it. She takes Makima's hand to try it. Then: he has two now, but if Yuka ever sees her try to kiss him the way Yoru tried, she'll send her straight to hell. Makima accepts the terms. Yuka tells her what Mau did for Rem. Makima thanks her. Makima's second friend.
 
 *When: B+452. "35." Yuka and Makima spend part of the afternoon together.*
 
@@ -125,23 +125,35 @@ Yuka can see the yard from the top step. There's a place where two people can go
 
 * * *
 
-“I don't have those feelings,” says Makima. ᴹᵏ
+“I wanted to be close to him from the first day,” says Makima. ᴹᵏ
 
-Yuka looks at her.
+Yuka looks at her. She'd expected, if they got this far, for Makima to tell her that she'd only ever wanted to help.
 
-“Romantic ones,” Makima says. “For anyone. I never have. I used to think something was missing in me. Then I thought it was a weakness in other people. Then I stopped thinking about it at all.” ᴹᵏ
+“I wanted him to choose me. With Chainsaw Man I thought the closest I could get was if one of us swallowed the other. When Mau kept getting up again, I wanted to be wherever he was going. I knew some very good ways to make him come back to me. You've seen what some of them did. Later I told myself I'd let him name the terms, and that would get me close enough. I still wanted to be there after he told me how it would have to be.” ᴹᵏ
+
+Yuka can see the back steps too clearly. She keeps her hands where they are. “And now you live with him.” ʸ
+
+“Yes. And sometimes what he feels gets to me before I even know what's happened. When he was at the clinic, I could feel how tired he was of getting to the end of the day. I kept thinking I knew how to make him feel better. One night I was leaving and he asked me to stay and hold him.” ᴹᵏ
+
+Yuka looks down at her lap. The thought that comes to her first is of all the nights she used to do that without making him ask. She has to wait a little before she can speak.
+
+“What did you feel?” ʸ
+
+“I was glad he wanted me there. I wanted to keep holding him, and then I wished he'd been able to get through that day without needing anybody to hold him like that. I kept feeling both.” ᴹᵏ
+
+“Were those yours?” Yuka asks. ʸ
+
+“Yes,” says Makima. “It took me a while to tell. He was asleep by then. He wasn't worried anymore, and I was.” ᴹᵏ
 
 She looks out at the yard, at the light going.
 
-“What I wanted,” she says, “all my life, without knowing the word for it, was someone at my level. Someone who could stand level with me. Not under me. Not afraid of me. Not something I could make do things. Someone I couldn't control, who'd look at me and see me, and stay anyway. Someone I could call an equal.” ᴹᵏ
+“I used to think I'd know I'd found an equal when I met someone I couldn't make do anything.” She looks at Yuka. “Then he thanked me one day. I hadn't given him any reason to. I wanted to know if he ever would again, just because he felt like it. I'd never spent very long waiting for somebody to do something just because they felt like it.” ᴹᵏ
 
-She's quiet for a moment.
+Yuka can hear the kitchen chairs from where they're sitting. Somebody has put one right by the window, where it scrapes every time they turn. Mau can always hear that one from upstairs.
 
-“I tried to make that,” she says. “For a very long time. In my world. I tried to *make* someone into that. It doesn't work. You can't make an equal. That's the whole point of one.” ᴹᵏ
+“What do you call what you have with him now?” she asks. ʸ
 
-She looks at Yuka.
-
-“And then he thanked me,” she says. “When he had no reason to. And then he forgave me. In a way. Not all of it. He never pretended it was all. But enough to let me stand next to him. And I found out what it was. What I'd been looking for. It was a friend.” ᴹᵏ
+“I call him my friend.” Makima takes a breath. “I'm still finding out what it feels like to have one.” ᴹᵏ
 
 * * *
 

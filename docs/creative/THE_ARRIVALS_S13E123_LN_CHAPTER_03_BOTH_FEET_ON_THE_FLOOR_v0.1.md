@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 11
 **Source episode:** S13E123
-**Continuity state:** B+438 ("49"). Mau wakes at the clinic after speaking to Ciel, Noise, DIO and Makima. Mau calls for Ciel twice. Her brief hesitation takes him back to being hurt at the Trial bridge. Noise finds a familiar sound, then shows him the wedding, which brings back the ring and the yard. Mau asks Makima to stay while he calls for Shoko. He calls Shoko Mom when she arrives. Shoko, Gojo and Rem offer practical company as Mau tries to go about his day. Yuka's direct line remains closed.
+**Continuity state:** B+438 ("49"). Mau wakes at the clinic after speaking to Ciel, Noise, DIO and Makima. Mau calls for Ciel twice. Her brief hesitation takes him back to being hurt at the Trial bridge. Noise finds a familiar sound, then shows him the wedding, which brings back the ring and the yard. Mau asks Makima to stay while he calls for Shoko. He calls Shoko Mom when she arrives. Shoko, Gojo and Rem offer practical company as Mau tries to go about his day. Yuka's direct line remains closed. Late that evening Makima gets up to let Mau rest. He asks her to stay, draws her onto his lap and lets her hold his head against her chest. He falls asleep. She settles him on the cot and returns inside before anyone sees them.
 
 *When: B+438. A wet morning, before the road dries.*
 
@@ -196,3 +196,83 @@ She sits on the step and opens the sheet across both her knees. He sits lower th
 The low part sounds good on its own. A little further on there's a line that needs to come in high, and she asks him to try it so she can hear how it fits. He hasn't been able to get a whole breath for very long today. The first note scarcely carries as far as the folded paper. Rem comes in under it where she'd planned to, and he stays with her long enough to make the turn.
 
 Inside the house somebody clears two places at the small table. Afterward Rem goes to see if there's still enough for them both. He stays on the step to hear where she stops on the way back. He gets the second note up by the time she reaches him again.
+
+* * *
+
+Rem leaves the music with him after supper. She'll need it tomorrow. He tells her he knows where to find her and sets it under his cup so the corner won't lift in the draught. By the time he takes his trousers off again the lamp has burned down far enough to leave soot on one side of the glass. He can see the room perfectly well. He gets up to turn the lamp down anyway, because when he lies down the light is always exactly where he has to look.
+
+When he sits back on the cot, Makima is in Shoko's chair. She's been turning back the cuff on one sleeve. She straightens it once with the tips of her fingers and it goes right back.
+
+“Did you get to sing it?” she asks. ᴹᵏ
+
+“I got the second part.” ᴹ
+
+“I heard you.” ᴹᵏ
+
+He looks down at the music under the cup. He was sure none of it got past the end of the clinic step.
+
+“Towards the end,” she says. “When Rem came back.” ᴹᵏ
+
+He nods. He'd thought about asking her to listen. By the time he could sing it properly, he'd thought if he went back out one more time he might find the courage to go farther than the step.
+
+“I should let you sleep,” says Makima. ᴹᵏ
+
+She gets up. He knows where she's going. He'll be able to find her when she gets inside, and he knows he could ask her any of the things he meant to ask this morning. He watches her take two steps and thinks he can keep looking at the side of the lamp until he forgets there's a yard on the other side of the wall.
+
+His hand closes on hers before she gets past the cot.
+
+“Wait,” he says. ᴹ
+
+She stops. He pulls a little. She comes back within reach and waits for the rest.
+
+“Can you sit with me?” he asks. He could still make room next to him and have it mean the chair, or the far side of the cot. He lets go of her hand long enough to tap his own knee. “Here. If you want to.” ᴹ
+
+For a second he thinks he's going to have to say why. He knows exactly how it would look if somebody opened the door. He can still hear Yuka asking him if he'd rather have Makima. He tried to tell her in the yard and nothing came out. Now he has both hands open and can barely stand to look at them.
+
+“I can stay here,” says Makima. She puts a hand by his hip to steady herself as she comes up onto the cot. “Is this where you want me?” ᴹᵏ
+
+She sits facing him, a knee on each side of his. The mattress goes down a little and his feet settle harder against the floor. He has somewhere to put his hands now. He rests them on her back and stops with his arms halfway round her.
+
+“I don't know if I should ask you for this,” he says. ᴹ
+
+She studies his face a second. Then she takes her hand off the cot and puts it on the back of his head.
+
+“Like this?” ᴹᵏ
+
+He nods into her palm. She brings him forward until his cheek is against her chest. Her other arm goes round his shoulders. He stops with his mouth shut and his eyes open, still keeping most of his weight on the tips of his feet.
+
+“I can't keep it up tonight,” he tells her. ᴹ
+
+“I can hold you.” ᴹᵏ
+
+His heels come down.
+
+* * *
+
+The rest of him follows so suddenly Makima has to tighten both arms to keep him where he is.
+
+She'd thought she'd known everything that could come across the bond at once. She had been in him when he woke and couldn't feel the room. She'd felt him recognize Shoko's voice and wait for the part of a breath that would let him answer. She hadn't known how much of himself he was still holding up even then.
+
+She feels it go now. His arms close all the way round her waist. The breath he's been holding comes out against her shirt and takes the next one with it. He tries to get a word out round it. For a moment she thinks he needs her to answer something. Then she feels her shirt go wet against his cheek and he takes his face a little farther into it. He can't even do that without her feeling how badly he wanted not to cry where she could see him. She lowers her head far enough to put her cheek against his hair, and the next breath makes a sound too. He lets it.
+
+There was a time when she could spend a whole afternoon figuring out what she could take away from him so that the next time he wanted anything, he'd have to come to her. The first time he thanked her, she thought about it for days. She hadn't been able to make him say it again.
+
+Now he has asked her for the thing she wanted him to ask for. She's never been closer to him. For a moment she's so glad he asked that she forgets where they are. Then he moves his hand on her back and she can feel how hard it is for him to stop trying to put himself back together. She wishes she'd never had a reason to hear him ask like that.
+
+“Can you stay till I'm asleep?” he asks. He has to start it again after *stay*, as though he'd thought that might be enough to tell her. ᴹ
+
+“Yes,” she says. ᴹᵏ
+
+He makes a little sound against her when she moves to give him more room. She settles. A while later his breath comes on its own. She can move her thumb across the back of his head without his hands closing harder on her.
+
+He's asleep. She had been waiting to see if he would try to say something more to her. Sleep gets there before he can.
+
+She stays with his weight against her through the last of the voices in the kitchen. Somebody laughs, once, out by the pump. He sleeps through it. When the noise at the far end of the yard begins to come closer, she gets one arm along his back and takes her knee off the cot. It gives her room to lower him without waking him. She gets his feet up, pulls the blanket to his shoulder and puts the empty cup on the sill so there'll be room when Shoko brings him another.
+
+She goes inside before anyone comes up to the clinic.
+
+The table is where it always is. Ciel has left a cup at the place Makima uses. She puts her hand round it. A minute ago she knew where to put both her hands. Here she has to move the cup twice before she can set them both down.
+
+Noise looks up. Makima looks back at him. There must be an answer he is waiting for. She can't think what the question could be.
+
+She sits there until he moves the cup within reach again. She keeps looking at it. She's still glad Mau asked. She can't think of anything to say after that.

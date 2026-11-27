@@ -207,7 +207,7 @@ He can see that it hurts to hear the names without hers in them. She leaves the 
 
 “Sometimes I can stand,” he says. “I couldn't the other morning. That part's hard to tell you.” ᴹ
 
-He looks at the chair Makima had taken. He'd asked her to stay while Shoko saw him like that, and then he'd had to ask for his cup twice, because he kept asking for a light the first time. He can tell Yuka about the doors. The rest takes longer just to remember.
+He looks at the chair Makima had taken. He'd asked her to stay while Shoko saw him like that. He'd asked her again that night, with the lamp turned down and his feet barely keeping him on the edge of the cot. He's trying to tell Yuka what it cost him to ask anybody to stay that day. He can manage the part about the doors. The rest takes longer just to remember.
 
 He looks at his hands.
 

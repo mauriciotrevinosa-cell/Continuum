@@ -71,9 +71,15 @@ Her voice carries across the whole yard. She doesn't raise it.
 
 “This is new,” she says. ʷᵈ
 
-Mau walks to the edge.
+Her eyes settle on Yuka. “Found a place you could get to this time?” ʷᵈ
 
-Not alone. Makima at his right. Yuka at his left. Gojo steps aside a half-pace to let them stand beside him, and doesn't step any further.
+Mau takes a step. The words are for Yuka and land in him first. He can see a shelf of white stone for as long as it takes him to turn his head.
+
+Yuka has come the same distance. “I said I'd be on his left.” ʸ
+
+She keeps walking. Mau feels the space for her before she closes it, and she comes the rest of the way with him.
+
+Makima comes up on his right. Gojo gives them half a pace at the edge of the grounds and goes no further.
 
 Mau stops in front of her. At the line where the protection ends.
 
@@ -405,7 +411,13 @@ He thinks about where she was standing when Yoru arrived. Exactly where she'd sa
 
 “I wanted to be there,” she says. ʸ
 
-She said she was sorry in the clinic. He can still hear what she left him standing with in the yard, and for a second he'd like to ask her if she would have put it back on even if he'd stopped coming to look for her. Ori's dragging a chair up to the table, and the sound makes him realise he's been waiting for someone to give him a reason to ask later. He takes Yuka's hand before it occurs to either of them to move it.
+She said she was sorry in the clinic. He remembers what it cost her to get it all out. He can still hear the silence before Cross answered her in the yard. For a second he thinks he could ask whether she would have put the band back on if he'd stopped coming to look for her. He has Yuka here, listening. He's got as far as looking down at both their hands, and already he wants to know how to undo the question if she takes too long to answer.
+
+“I'm glad you came,” he says again. ᴹ
+
+Yuka's fingers uncurl where he can get hold of them. “You can tell me the rest when you have it.” ʸ
+
+Ori's dragging a chair up to the table. Mau takes Yuka's hand before either of them has to move to make room.
 
 He kisses the corner of her mouth when she leans back to see his face. She follows him up and gets a better one.
 

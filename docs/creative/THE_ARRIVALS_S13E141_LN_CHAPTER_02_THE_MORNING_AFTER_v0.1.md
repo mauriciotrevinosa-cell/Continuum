@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 7
 **Source episode:** S13E141
-**Continuity state:** B+468 ("19"). Mau and Yuka come down late and find the kitchen in use. They spend the afternoon with Ori, Frieren, Pillow and Lantern in the common room. Ori recognises their happiness from being with them. The house has no account of their private night.
+**Continuity state:** B+468 ("19"). Mau and Yuka come down late and find the kitchen in use. They spend the afternoon with Ori, Frieren, Pillow and Lantern in the common room. Ori recognises their happiness from being with them. They spent the previous night talking and leave the pause in place. Ori sees that a good morning can still be theirs.
 
 *When: B+468. Late morning through the afternoon.*
 
@@ -107,7 +107,9 @@ Ori waits for almost a page. She starts to ask again when she looks up and finds
 
 Yuka's palm is warm against his cheek. He turns far enough into it to be able to see her and waits because at least one of them probably ought to answer.
 
-“I am,” she says. ʸ
+“Right now I am,” she says. ʸ
+
+Mau can see the corner of Frieren's book from where he's got his head. There's a brown ship with four windows in it, and for the last minute he's been trying to see where the woman got on. He settles back so Ori can have the next look.
 
 “Me too,” he says. ᴹ
 

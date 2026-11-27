@@ -231,7 +231,7 @@ She sits on the edge of the bed with it closed in her palm. If she puts it back 
 
 Downstairs Mau looks at the plate. Shuna always covers it this way if she's leaving it for him. He wonders if Yuka had already offered before Shuna asked. He can believe she would. She'd do something kind for him if she thought he was hurt.
 
-He looked up enough times at the quarry to know she'd never come while he'd had his head down. She knew the way up. He'd drawn it for her. By the time he came home he was sure she'd stopped wanting him there. Now he tries to put *I love you, too* beside that and finds he's only given himself another thing he can't ask her to explain.
+He looked up enough times at the quarry to know she'd never come while he'd had his head down. She knew the way up. He'd drawn it for her. She'd stood in the yard and wondered out loud if she'd made a mistake marrying him. The next morning he'd seen the ring between her finger and thumb. Until he looked up for the last time at the quarry, he'd still thought she'd come. Now he tries to put *I love you, too* beside that and finds he's only given himself another thing he can't ask her to explain.
 
 In the small hollow behind his thumb there is still the warmth of Makima's hand. He hasn't let go of it. He starts to say that he could go somewhere else for the night. If he tells her now, she could help him get out before Yuka needs to come back through and say goodnight. He has enough in inventory to stay somewhere well away from the house. He thinks of finding a room near enough that Ori could come by without anybody needing to tell her what happened.
 

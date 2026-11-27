@@ -215,7 +215,15 @@ Cross turns a little so he can look at the house. She thinks for a moment that h
 
 “Did he ask you for one?” ᶜʳ
 
-She can't answer that. She pulls the hem of her shirt down. She'd walked out here without putting shoes on. She goes back to get them and to ask who saw him leave.
+She can't answer that.
+
+Cross lets her get one foot turned toward the house. “Who gets to go with him when you can't get through?” ᶜʳ
+
+“I don't know that anybody went with him.” ʸ
+
+“I'd want to know.” He looks down at her feet, bare in the wet grass. “I wouldn't want to hear from someone else that I came second.” ᶜʳ
+
+Once she gets through the door she's going to feel stupid for ever thinking there was a place she had to come in her own house. She's sure of it. She turns her other foot. She pulls the hem of her shirt down. She'd walked out here without putting shoes on. She goes back to get them and to ask who saw him leave.
 
 Nobody has spoken to Mau himself. Shoko had a message about the tea he'd promised her. Frieren knows he is at a gate and offers to go with Yuka if she wants to meet him outside it. Gojo has the position from Ciel and shows Yuka on the map.
 

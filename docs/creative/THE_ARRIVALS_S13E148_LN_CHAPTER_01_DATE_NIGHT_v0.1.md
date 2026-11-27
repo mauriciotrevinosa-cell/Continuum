@@ -229,7 +229,13 @@ Then she puts her face back in his shoulder.
 
 “I'm keeping you,” she says. ʸ
 
-“I know,” says Mau. ᴹ
+“I like hearing you say it,” says Mau. ᴹ
+
+She lifts her head. “I'll say it when we get home too.” ʸ
+
+He'd thought he might have to ask, and he can feel himself getting ready to make a joke about it anyway. He finds her hand where it has slipped under the blanket.
+
+“I'd like that.” ᴹ
 
 * * *
 

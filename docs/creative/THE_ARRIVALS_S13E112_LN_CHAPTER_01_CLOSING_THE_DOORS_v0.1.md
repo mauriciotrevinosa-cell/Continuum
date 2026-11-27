@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 17
 **Source episode:** S13E112
-**Continuity state:** B+430 ("57"), before dawn. Mau closes his direct personal relays and the external contract access, including Yuka’s borrowed techniques/Exchange and Mai’s supply. Contracts remain intact. The shadow watch and its existing protection orders continue; Ciel’s independent communications and emergency reports remain available. Ciel/Noise ask him not to isolate them too, and he agrees. Makima accompanies him outside; DIO returns to her room inside Mau after the argument. Mau remembers he offered to make Shoko tea and asks Ciel to relay that he won't be there. He leaves without a note for Yuka.
+**Continuity state:** B+430 ("57"), before dawn. Mau closes his direct personal relays and the external contract access, including Yuka’s borrowed techniques/Exchange and Mai’s supply. Contracts remain intact. The shadow watch and its existing protection orders continue; Ciel’s independent communications and emergency reports remain available. Ciel/Noise ask him not to isolate them too, and he agrees. Makima accompanies him outside; DIO returns to her room inside Mau after the argument. Mau remembers he offered to make Shoko tea and asks Ciel to relay that he won't be there. He leaves without a note for Yuka. On the porch Mau struggles to orient himself; Makima makes him wait until he can see the road and he holds on to the known count of ten floors.
 
 *When: B+430. The hour before dawn. Yuka hasn't written today's number yet. She's asleep, on his side of the bed, with her hand on his pillow.*
 
@@ -251,7 +251,31 @@ He doesn't wake her. He doesn't leave a note. He thinks about it. He stands at t
 
 He doesn't go up.
 
-He goes out the back door, into the cold, and across the yard. Makima is already there at the bottom of the porch steps, in the body Noise holds for her. DIO has gone back to her room inside him. He passes her door without knocking. Beru is at the end of the porch, very still, watching.
+On the back step he puts his foot down a little too soon. His heel hits hard. His next thought is to get his other foot on the dry part of the stone, before the blood reaches it.
+
+There's no blood. He can see where his boot has pressed the dew out. He knows exactly how much water is on it. He has to pick each foot up separately to get to the bottom.
+
+Makima is there, in the body Noise holds for her. She has one hand flat against the porch rail.
+
+“Which way did you mean to go?” she asks. ᴹᵏ
+
+He looks at the house. The back door's still open. He'd come down five steps. He can count the marks his shoes left, but he can't remember why he thought he'd be able to make the tea.
+
+“The gate in the hills,” he says at last. “It's ten floors, right?” ᴹ
+
+“That's what Ciel found.” ᴹᵏ
+
+Ten. Down to the end and then back out. There would always be a next thing, and he could tell it was over when there was no floor after ten. He can think as far as the road if he holds on to that.
+
+Makima takes her hand off the rail. “Look at me a second. Can you tell me where we are?” ᴹᵏ
+
+“Home.” He gets it on the first try. It takes him long enough to say it that she puts her hand back. ᴹ
+
+“Wait with me until you can see the road from here.” ᴹᵏ
+
+She stays on the bottom step with him while the light gets far enough into the yard to reach the gap in the orchard. When he points it out to her, she stands. She walks on the side of him that faces the house.
+
+DIO has gone back to her room inside him. He passes her door without knocking. Beru is at the end of the porch, very still, watching.
 
 “My king,” Beru says. ᴮᵉ
 

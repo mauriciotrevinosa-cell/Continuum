@@ -27,6 +27,8 @@ He stands at the mouth of it in the grey light with Makima beside him.
 
 He goes in.
 
+Ciel tells him when both feet are on the first floor. He already has a dagger out. He sets it against the stone just long enough to feel the point catch and turns the grip in his hand. Nothing here looks like Shoko's steps. He can make sense of the first thing coming at him.
+
 It's fast.
 
 He's never cleared anything this fast. Not the birthday gate with Beru. Not the quarry. He goes through the first floor like it isn't there. Things come out of the walls and he's already moved. Things drop from the ceiling and the daggers are already where they'll land. He doesn't open anything big. He doesn't need to. Blue the size of a fist, Shrine in single lines, Authority to move things out of his way, the new body doing what he tells it before he's finished telling it.

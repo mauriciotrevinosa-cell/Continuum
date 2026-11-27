@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 16
 **Source episode:** S13E125
-**Continuity state:** B+440 late night into B+441 ("47" → "46"). Mau brings DIO home from Elmesia's garden; DIO takes her plant back to her room at the Guest Inn, humming. He goes to the clinic for the cot. Yuka is in the chair on the other side of it, the one Ori's map pointed to: NEXT EXPEDITION. The real talk. Yuka owns walking away with Cross, taking off her wedding band so Mau would see, and staying home from the quarry after Mau brought her the map himself. She tells Mau why she put the band back on. Mau forgives her and holds back the question of whether she would have put it back if he had stopped coming to find her. Mau tries to take part of it ("I closed the doors"); she stops him: "Don't steal my apology." They laugh together in the middle of the apology. Then he gives his own: he let things from the past carry him back to the old habit of getting out of the way, and he'll try to be better for her. She accepts it. She asks him to open her line. He does. They go upstairs to their own room and, at last, both of them sleep. They share a brief kiss beside the cot.
+**Continuity state:** B+440 late night into B+441 ("47" → "46"). Mau brings DIO home from Elmesia's garden. He finds Yuka in the chair at the clinic. She takes responsibility for walking away, taking off her wedding band in his sight and staying away from the quarry. Mau nearly says "it's fine" and asks if wanting to come upstairs can be his whole answer for tonight. The question about the band stays with him. He tells her a little about the attacks and makes a separate apology for closing her line. She asks him to open it. They kiss and sleep beside each other. The repair has begun.
 
 *When: B+440, close to midnight. Ori's map is on the clinic windowsill, unfolded, held flat with a stone.*
 
@@ -81,7 +81,11 @@ She opens the notebook. She doesn't read from it. She just holds it open, as if 
 
 He looks at her hands. Both of them are flat on the notebook. He can see which one she could put in her pocket if she needed a minute.
 
-“I told you to go with Makima. You said you loved me. I said I knew and I asked Cross to come with me. I knew you'd wait for me to say it back. I knew what kind of thing I'd left you standing there with.” ʸ
+“I said maybe I shouldn't have married you. After that I told you to go with Makima. You said you loved me. I said I knew and I asked Cross to come with me. I knew you'd wait for me to say it back.” ʸ
+
+She hadn't said the sentence about marrying him again since he heard it in the yard. He can tell by how much trouble she has getting all the words into one breath. He gives her the time. He'd wanted her to come back that night and say she hadn't meant it. It takes all he has now to wait for what she came here to say.
+
+“I don't know when I started hearing the things Cross said in my own voice,” she says. “I heard myself say that to you. I didn't need to believe it to know exactly what it would do.” ʸ
 
 Her voice has gone thin. She takes a breath and gets a little more of it.
 
@@ -169,13 +173,13 @@ He had a question for her since she brought him the cup. *Did you want me to see
 
 She takes a breath. He can still hear it catch on the way in. In another minute she'd try to tell him what he wanted to hear without him having to ask. He can see her getting ready to. He can see exactly how much he wants to believe it.
 
-“It's fine,” he says. ᴹ
+“It's—” He hears how readily he could finish it. Her shoulders are already starting to come down. He remembers them doing that in the yard, when he said he loved her and she knew which answer he was waiting for. “I heard you. I want to come upstairs with you. Can that be all I answer tonight?” ᴹ
 
-Her shoulders come down. He remembers her doing that in the yard, when he said he loved her and she knew which answer he was waiting for.
+Her thumb stops against the edge of the notebook. She looks down at it, moves her thumb off the ring, and looks back up.
 
-“I forgive you,” he says. He wants her to hear that one clearly. “I want to come home with you.” ᴹ
+“Yes,” she says. ʸ
 
-He means both. His eyes go back to her hand. There's still time to ask. He puts his own hands on the cot and makes room for the other thing he came to tell her.
+He'd thought he might have to give her something more for her to put the book aside. She sets it beside her on the chair all the same. A moment later she picks it up again, holding it by a corner this time. His eyes go back to her hand. The question is still there, and he can't get his mouth round it. He has one other thing he came to tell her. He puts both hands on the edge of the cot so he can feel where he's sitting.
 
 “Can I give you mine?” he says. “Separately. Not instead of yours. Next to it.” ᴹ
 
@@ -187,15 +191,23 @@ She looks at him a long moment.
 
 He takes a breath.
 
-“I let things carry me back,” he says. ᴹ
+“There are things I can tell you while I'm sitting here,” he says. “Then the pump starts up and I have to ask somebody where I am.” ᴹ
 
-He doesn't know how to say it better than that, so he tries to say it plainly. The way Makima said Yuka would need. The way Yuka just did.
+Her knees come together. He waits to see if she's going to ask him what she could have done differently that morning.
 
-“The room with Frieren,” he says. “In the other life. And the Trial, and the things I practised saying to you so you'd understand I wasn't going to ask you to stay. None of it was what was happening. It was what had happened. Before. To someone I used to be. And I let it walk in and sit down and tell me what was happening now.” ᴹ
+“Who do you ask?” she says. ʸ
+
+“Makima. Sometimes Ciel, if I can hear her. The other morning I needed Shoko to come in.” ᴹ
+
+He can see that it hurts to hear the names without hers in them. She leaves the next breath to him.
+
+“Sometimes I can stand,” he says. “I couldn't the other morning. That part's hard to tell you.” ᴹ
+
+He looks at the chair Makima had taken. He'd asked her to stay while Shoko saw him like that, and then he'd had to ask for his cup twice, because he kept asking for a light the first time. He can tell Yuka about the doors. The rest takes longer just to remember.
 
 He looks at his hands.
 
-“And it told me to get out of the way,” he says. “So I did. That's the oldest thing I know how to do. Get out of the way before anyone has to ask. I did it at the inn. I did it with Frieren. I practised it for a year in the Trial. And the first time it got hard again, I went straight back to it, like it was a room I'd never really left.” ᴹ
+“I kept thinking you wanted me out of the way,” he says. “So I did. That's the oldest thing I know how to do. Get out of the way before anyone has to ask. I did it at the inn. I did it with Frieren. I practised it for a year in the Trial. And the first time it got hard again, I went straight back to it, like it was a room I'd never really left.” ᴹ
 
 He makes himself look up at her.
 

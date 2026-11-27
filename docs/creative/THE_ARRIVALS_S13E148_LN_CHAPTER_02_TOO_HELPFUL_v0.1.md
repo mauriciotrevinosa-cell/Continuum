@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 22
 **Source episode:** S13E148
-**Continuity state:** B+482 ("5"). Ciel tells Mau what she's seen, as promised: not a report, a telling. Cross has kept every term. He hasn't spoken Mau's name. He hasn't gone near Ori. He has been helpful: to Shuna, to Mai, to Senku, to the witches. Too helpful, Maru said. Today Ciel noticed something else: Cross has been asking people small questions. Harmless ones. Where Mau goes in the mornings. Which nights he sleeps in the clinic. How far Makima can walk. When the house goes quiet. None of it is forbidden. All of it is a map. Mau doesn't confront him; there's nothing to confront. He tells Yuka, plainly. He tells Maru. He tells Makima, who listens with an expression Mau has seen once before, on her own face, in another life, at the outer post. "He's learning," Makima says. "Slowly. The way I did." Seed only. Nobody moves yet. Everyone watches.
+**Continuity state:** B+482 ("5"). Ciel tells Mau what she's seen, as promised: not a report, a telling. Cross has kept every term. He hasn't spoken Mau's name. He hasn't gone near Ori. He has been helpful: to Shuna, to Mai, to Senku, to the witches. Too helpful, Maru said. Today Ciel noticed something else: Cross has been asking people small questions. Harmless ones. Where Mau goes in the mornings. Which nights he sleeps in the clinic. How far Makima can walk. When the house goes quiet. None of it is forbidden. All of it is a map. Mau doesn't confront him; there's nothing to confront. He tells Yuka, plainly. He tells Maru. He tells Makima, who listens with an expression Mau has seen once before, on her own face, in another life, at the outer post. "He's learning," Makima says. "Slowly. The way I did." Mau and the house have no proof yet and keep watching. The reader sees Cross writing to Yuuki, whose inquiries about Mau began after the fight with Sukuna.
 
 *When: B+482. "5." Nobody wrote anything under it. Ciel asked Mau not to.*
 
@@ -199,8 +199,14 @@ Yuka. Maru. Makima. Ciel. Noise, who heard all of it and said nothing and pulled
 
 Everyone watches.
 
-And across the yard, in the long room at the end of the west wing, Cross sits on the end of his bed in the dark with a piece of paper on his knee, and writes something on it, very small, and folds it, and puts it under his pillow.
+And across the yard, in the long room at the end of the west wing, Cross sits on the end of his bed in the dark with a piece of paper on his knee. A wagon is going to the northern ford in the morning. There'll be room for one more letter with the tally of rope and canvas.
 
-Nobody sees.
+Yuuki's last note sits open beside him. Cross had told him he'd seen Mau walking again and that Yuka was with him. Yuuki sent back a list of questions, with a few lines at the bottom about Sukuna. He'd been collecting names and accounts since then. He wanted to know who Mau had asked for when he couldn't get off the ground, and who was close enough that Mau believed them when they said he could.
 
-Not yet.
+*You can win the fight and still come home to an empty room,* he'd written on the back.
+
+He'd asked Cross the same sort of thing the first time they spoke about Yuka, before Cross had gone up the road to see her. Where would she go if she had something to tell her husband and wanted him by himself? Which part of the old life did she still tell the same way? That one Cross hadn't needed to answer. He'd known exactly which corridor he'd talk about when he saw her again.
+
+He writes that Makima can still reach Mau inside even if she isn't standing beside him. He starts a second line about the clinic. Then he puts the pencil down. Yuuki had asked if Yuka ever tried to go back to the orchard wall on her own. Cross can leave that place out of the next letter. He knows she'll come back there eventually, if he gives her enough time to miss it.
+
+He folds the paper and puts it under his pillow. By morning he'll have the answer about the clinic in the margin.

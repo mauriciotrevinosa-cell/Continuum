@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 12
 **Source episode:** S13E123
-**Continuity state:** B+439 ("48"), before Elmesia's letter. A broken washing line brings Yuka and Mau into the same part of the yard. Shuna, Mai and Frieren help with the work. Yuka sees how readily Mau expects her to want him gone. They make a small plan for the following morning. Mau still sleeps at the clinic; Yuka stays with Ori, and their direct line remains closed.
+**Continuity state:** B+439 ("48"), before Elmesia's letter. A broken washing line brings Yuka and Mau into the same part of the yard. Shuna, Mai and Frieren help with the work. Yuka sees how readily Mau expects her to want him gone. Maki asks Yuka what she was trying to accomplish by taking off the band in his sight. Mau and Yuka still make a small plan for the following morning. Mau still sleeps at the clinic; Yuka stays with Ori, and their direct line remains closed.
 
 *When: B+439. The yard is still wet underneath yesterday's sun.*
 
@@ -96,6 +96,18 @@ Her voice goes on that last word. She sets her forehead against the towel. Mai w
 “I want him home,” she says when she can. ʸ
 
 “Then tell him that when he's got room to hear it.” Mai pushes a cup farther in so Yuka won't knock it over. “He still has to get a say in where he sleeps tonight.” ᴹᵃ
+
+“I know that.” ʸ
+
+“Do you?” Maki has been on the other end of the bench the whole time, picking dirt out of the hem of her trousers. She stops long enough to look straight at Yuka. “You waited for him to ask you to stay after you took the band off. What were you going to tell him if he asked?” ᴹᵃᵏ
+
+Yuka gets as far as opening her mouth. That morning she'd been so sure he'd have something to say to her once he saw the ring in her hand that she hadn't thought about what she'd say back.
+
+“I thought I'd know when he said it.” ʸ
+
+“He had something to say that morning. You watched his face while you took it off. There's a difference between wanting him to talk and wanting to see if you can make him.” ᴹᵃᵏ
+
+Mai puts her work down. “And when you get a minute with him, let him have an answer you didn't come to hear.” ᴹᵃ
 
 Yuka gets her face out of the towel. She gets enough air to open her hands and see the marks she left pulling the cloth tight between them.
 

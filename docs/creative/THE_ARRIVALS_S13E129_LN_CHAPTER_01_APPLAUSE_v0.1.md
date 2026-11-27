@@ -27,7 +27,7 @@ Makima looks at him for a long moment. Then she looks at Ciel. Ciel looks at the
 
 “He doesn't know,” says Makima. ᴹᵏ
 
-“He was in DIO's room,” says Ciel. “And then in Elmesia's garden. And then in the clinic. And then he was busy being forgiven.” ᶜ
+“He was in DIO's room,” says Ciel. “And then in Elmesia's garden. And then in the clinic. And then he needed to hear Yuka out.” ᶜ
 
 “Nobody told him,” says Makima. ᴹᵏ
 

@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 4
 **Source episode:** S13E120
-**Continuity state:** B+435, late morning. The house expected to wait all day. Ciel's report reaches Rimuru: done. Mau and Makima are back on the hill road before anyone has finished believing it. Mau falls asleep against Makima on the road. She carries him as far as the return point, where Gojo takes his weight and helps him walk once he's awake. The weight of the Purple and the quarry's compression catches up with him after two nights without sleep. He doesn't go to the porch. He doesn't go to Yuka. Before he can think, he goes straight to the clinic. Makima sits on the clinic step; Noise holds her body there. Mau tells Shoko everything at once, the whole bundle together, though she already knows much of it: everything he had closed, Cross, the room with Frieren, and the Final Trial, when he heard Yuka's "If you won't let me be with you when it hurts, I don't know how to stay in this" as leaving and spent ~368 local days (one day outside) working out how to say goodbye. Shoko sees him nodding off, bandages his split palms, makes him drink water and gives him something to sleep properly. He holds her hand and asks how it's going with Gojo. Before he falls asleep he asks her: if Yuka or Ori ask, tell them the truth. Nothing of "it's fine". He sleeps holding Shoko's hand. In the clinic he empties everything onto Shoko except one thing: the band coming off in the yard on B+431, which he has replayed for four days and still sees though it was back on her finger yesterday. He has the words and swallows them.
+**Continuity state:** B+435, late morning. The house expected to wait all day. Ciel's report reaches Rimuru: done. Mau and Makima are back on the hill road before anyone has finished believing it. On the road Mau asks to hold onto Makima, lets her take his weight and falls asleep against her. She carries him as far as the return point, where Gojo takes his weight and helps him walk once he's awake. The weight of the Purple and the quarry's compression catches up with him after two nights without sleep. He doesn't go to the porch. He doesn't go to Yuka. Before he can think, he goes straight to the clinic. Makima sits on the clinic step; Noise holds her body there. Mau tells Shoko everything at once, the whole bundle together, though she already knows much of it: everything he had closed, Cross, the room with Frieren, and the Final Trial, when he heard Yuka's "If you won't let me be with you when it hurts, I don't know how to stay in this" as leaving and spent ~368 local days (one day outside) working out how to say goodbye. Shoko sees him nodding off, bandages his split palms, makes him drink water and gives him something to sleep properly. He holds her hand and asks how it's going with Gojo. Before he falls asleep he asks her: if Yuka or Ori ask, tell them the truth. Nothing of "it's fine". He sleeps holding Shoko's hand. In the clinic he empties everything onto Shoko except one thing: the band coming off in the yard on B+431, which he has replayed for four days and still sees though it was back on her finger yesterday. He has the words and swallows them.
 
 *When: B+435. Late morning. Rimuru has read "Done" out loud twice, and the second time nobody laughed.*
 
@@ -43,7 +43,19 @@ He lifts his head. There's a fence post a little below them with an old rusted s
 
 “Wait,” he says. ᴹ
 
-They stop. He has her sleeve between two fingers. He means to use it to keep from swaying while Ciel shows him where he is. Instead his forehead comes down against Makima's shoulder. His fingers let go of the sleeve in stages. By the time his hand falls he's asleep.
+They stop. He has her sleeve between two fingers. He means to use it to keep from swaying while Ciel shows him where he is. He's still waiting for the road to make sense when she takes half a step nearer.
+
+“Can I?” He gets his hand up as far as her shoulder. She waits until he puts it where he meant to. ᴹ
+
+“Yes.” ᴹᵏ
+
+He puts both arms round her and rests his forehead against her shoulder. There's a noise he's been keeping in since the first piece of stone came back under his feet that morning. He lets it out into the fabric. Makima feels him come down into the embrace and takes more of his weight without making him stand straight for it.
+
+“I can't go another bend yet,” he says. ᴹ
+
+“Then don't.” ᴹᵏ
+
+He has spent the whole walk waiting until he can see the next place to put his foot. He leaves his last one where it is. She has a hand across his back. By the time his grip loosens, she's already holding him up on her own.
 
 His next memory is of her arm underneath his knees and the fence going past behind her.
 

@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 20
 **Source episode:** S13E113
-**Continuity state:** B+430, sunset, in the yard. The break. Yuka sees Makima walking a step behind Mau on the hill road, smells the dungeon on them, and understands where he's been all day: a dungeon, without telling her, with Makima, after she promised at the quarry to go with him into every one. She's furious and frightened. Mau starts to explain: he didn't want to bother her, she was with Cross. She hears "with Cross" and gets defensive before he can finish, and it turns into an attack. She says things she can't take back, and she brings up Makima: he'd rather have her; Yuka had *started to trust her*. Makima, stricken, takes a step and ends up half behind Mau, like Power behind Denji. That breaks Yuka. Mau says he loves her when she turns to leave. Yuka hears him, tells him she knows, and asks Cross to walk with her. Mau stands in the yard with the S1 belief confirmed: stepping away was the right thing, she has someone else. The house sees all of it. No physical fight.
+**Continuity state:** B+430, sunset, in the yard. The break. Yuka sees Makima walking a step behind Mau on the hill road, smells the dungeon on them, and understands where he's been all day: a dungeon, without telling her, with Makima, after she promised at the quarry to go with him into every one. She's furious and frightened. Mau starts to explain: he didn't want to bother her, she was with Cross. She hears "with Cross" and gets defensive before he can finish, and it turns into an attack. She says she might have made a mistake marrying him, and she brings up Makima: he'd rather have her; Yuka had *started to trust her*. Makima, stricken, takes a step and ends up half behind Mau, like Power behind Denji. That breaks Yuka. Mau says he loves her when she turns to leave. Yuka hears him, tells him she knows, and asks Cross to walk with her. Mau stands in the yard with the S1 belief confirmed: stepping away was the right thing, she has someone else. The house sees all of it. No physical fight.
 
 *When: B+430. Sunset. The light is going long across the yard. Most of the house is on the porch or at the windows, because Yuka has been waiting all afternoon and everyone knows it.*
 
@@ -176,6 +176,20 @@ He knows that's not what Yuka sees.
 Something in Yuka's face breaks.
 
 He watches it happen. He'll see it for a long time afterward, at night, with his eyes closed. Not anger. Past anger. Something giving way.
+
+“Maybe I shouldn't have married you,” she says. ʸ
+
+The yard stays quiet. Somewhere off the porch, a cup that was already tipped over rolls far enough to stop against a step.
+
+Mau looks at her left hand. The ring is still there. They'd had half a dozen mornings since the island when she put that hand flat on his chest and told him to stay in bed. One of those mornings was yesterday.
+
+She can see where he's looking. She curls her fingers in as if she's only just found out what she said. “You let me make a whole life around being the person you'd come to. What's left for me to do if you can manage without me?” ʸ
+
+He tries to get out *I couldn't*. He's been trying since he got down the hill. His hand opens where she can see it. He'd have been glad if she put anything in it at all.
+
+“Yuka.” It's Shoko this time, from the steps. “He heard you.” ˢʰ
+
+Yuka searches his face. He can't tell if she's waiting for him to take it away from her or for what she's going to say next.
 
 “Fine,” she says. ʸ
 

@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 6
 **Source episode:** S13E121
-**Continuity state:** B+436 night into the small hours of B+437 ("51"). Mau has slept for more than a full day. He wakes in the dark of the clinic with no idea what time it is, and finds Ori curled up asleep in the corner of the cot against his legs. The sound of the blanket brings back the old inn Trial bridge, where Ciel could not answer him. This time Mau asks Ciel and Noise to stay with him. He is starving. He gets up very carefully, finds the plate Shuna left covered on the clinic table, and eats. Shoko comes in because she heard noise. "Sorry. Did I make too much noise?" "No. I gave you something to sleep, and I was keeping an eye on you." She stays while he finishes. He goes back to sleep holding Ori, who says in her sleep that there'll be no more pickles and she'll eat less of the Fort reserves. Nothing else is resolved.
+**Continuity state:** B+436 night into the small hours of B+437 ("51"). Mau has slept for more than a full day. He wakes in the dark of the clinic with no idea what time it is, and finds Ori curled up asleep in the corner of the cot against his legs. The sound of the blanket brings back the old inn Trial bridge, where Ciel could not answer him. This time Mau asks Ciel and Noise to stay with him. He is starving. He gets up very carefully, finds the plate Shuna left covered on the clinic table, and eats. Shoko comes in because she heard noise. "Sorry. Did I make too much noise?" "No. I gave you something to sleep, and I was keeping an eye on you." She stays while he finishes. Ori wakes enough to see Mau struggle through another surge and asks if his fight with Yuka is her fault. He apologises for scaring her, tells her it isn't hers to fix and lets her get him to laugh. Nothing else is resolved.
 
 *When: B+436, very late, or B+437, very early. He doesn't know which. The notebook on the clinic windowsill, which somebody brought in and left there, says "51".*
 
@@ -279,15 +279,35 @@ He opens his eyes.
 
 Her hands tighten in his shirt.
 
-“Just,” she says, and then she doesn't say anything else, because she's gone back down into whatever dream she was having, and her breathing evens out again against his chest.
+“Just,” she says. A minute goes by. She tips her face up. “Dad?” ᴼ
 
-He lies there in the dark with his arm round her.
+It should be the easiest thing in the world to answer. Along the seam of his shirt there's the weight of her fist and a wet heat that has nothing to do with her hand. He keeps his palm where she can see it on top of the blanket. Until he knows where he is, that is the one thing he knows how to do with it.
 
-He doesn't know what the dream was. He doesn't know what she thought she was bargaining for, in her sleep, with the Fort reserves and the pickles, the most precious things she owns. He can guess.
+Ori lifts her head farther. He sees her stop when she hears the next breath. He doesn't manage to make it sound like the last one.
 
-He can guess.
+“Did I do something?” she asks. “Is that why you don't talk to Yuka?” ᴼ
 
-He holds on to her a little tighter.
+He looks for Shoko. She's standing by the table with the lamp turned low. He can point to her in his head and that gives him the cot, then the window, then enough room to feel the place Ori's knee is starting to hurt him.
+
+“No.” He gets the word out too quick and has to wait for the next one. “I'm sorry I scared you. You didn't make us fight.” ᴹ
+
+Ori doesn't let go. “Then how come I can't do anything?” ᴼ
+
+“You got me to come upstairs the other night. That was good.” He runs a finger over the blanket until he finds her cuff. “The part with Yuka is something we have to talk about. We have words we'll have to find for it. I don't need you to find them.” ᴹ
+
+“Do you still want me here when you can't talk?” ᴼ
+
+Mau takes a breath where she can see it. It isn't whole yet. It's better than the last one.
+
+“Very much. I just need that knee up a bit or Shoko's going to have to tell the whole Fort you beat me with one leg.” ᴹ
+
+Ori pulls it up all the way to his stomach. He makes a little noise. She puts it back, tells him that's her *other* knee, and he sees the first break in the solemn look on her face.
+
+“Do I get to keep my pickles?” she asks. ᴼ
+
+“Every single one. If you want to feed me something I can ask for it without costing you the reserves.” ᴹ
+
+She puts her face back into his shirt with both hands still there. This time he's able to hold her a little tighter.
 
 Behind him, in the dark, Shoko stands by the table with the lamp turned down to nothing, very still. Then he hears her pick up the empty plate, quietly, and put the cloth back over it, and go back through to her own room, and not quite close the door.
 

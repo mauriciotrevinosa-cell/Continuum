@@ -161,11 +161,19 @@ His shirt pulls against his sternum. He gets two fingers under the collar. The c
 
 For an instant there is grit on his tongue and something warm under the ribs. His body remembers bearing down on it with both hands. His eyes can give him every piece of the wall. A flake of mortar. The little cold gap under the capstone. There's grass caught in it from the last time someone cut the yard. He can see it all and he can't make the grass more real than the pressure in his hands.
 
-He tries to say Ciel's name. What comes out is one broken breath.
+He takes his hand off the wall to find out what he's holding in. He does it slowly because the last time he let up too fast, he'd had to put all his weight back into his wrist before he could move. There's a clean shirt under his hand. He keeps feeling for the opening.
+
+He can hear somebody passing a bowl behind him. He ought to know which direction that is. A second ago he could have walked back to the table with his eyes shut.
 
 *Here*, says Ciel. ᶜ
 
-He hears her. There is something terrible about how relieved he is to hear her, and he can't tell her why.
+He hasn't said her name. He'd tried and only got enough air for the first sound. Hearing her ought to settle which yard he's in. He puts his forehead against the wall and waits for a second thing she can tell him.
+
+*The back door's open,* she says. *I can ask someone to close it.* ᶜ
+
+His fingers tighten on the cloth. The sound is how he knows they're there.
+
+*Leave it.* ᴹ
 
 *Lower*, says Noise. The yard softens by degrees. Mau can still see the capstone but he no longer has to see through it. ᴺ
 

@@ -5,7 +5,7 @@
 **Volume:** 83
 **Reading order:** 32
 **Source episode:** S13E117
-**Continuity state:** B+434 ("53"). Yuka apologises to Makima for using her trust to hurt Mau. Makima tells her about finding Mau during the panic attack after the walk, before the wild Gate, and feeling his old injuries and memories return. Yuka then goes to Mai and Maki. Her hurt about Mau shutting the door remains. She plans to begin reconnecting at dinner and talk after. Ori voluntarily gives her the seat. Yoru’s arrival interrupts before the first stolen pickle. No absolute claims that Yuka never cooks/sets tables, Maki never hugs Yuta or Beru is never loud.
+**Continuity state:** B+434 ("53"). Yuka apologises to Makima for using her trust to hurt Mau. Makima tells her about finding Mau during the panic attack after the walk, before the wild Gate, and feeling his old injuries and memories return. She also tells Yuka how disoriented Mau was when he decided to go to the Gate. Maru's gesture at the table coincides with a familiar flash of certainty for Yuka. The cause is unconfirmed. Yuka then goes to Mai and Maki. Her hurt about Mau shutting the door remains. She plans to begin reconnecting at dinner and talk after. Ori voluntarily gives her the seat. Yoru’s arrival interrupts before the first stolen pickle. No absolute claims that Yuka never cooks/sets tables, Maki never hugs Yuta or Beru is never loud.
 
 *When: B+434. Before dawn to dinner. Yuka writes "53" by lamplight: B+434, the day after the fight. The last written count was "57" on B+430.*
 
@@ -183,6 +183,20 @@ She opens her hand. The band has left a little round mark in it.
 
 Makima looks down at it. Then she looks out at the wall again. “It was before the Gate.” ᴹᵏ
 
+Yuka can feel the inside edge of the band against her finger. “Then why did he go?” ʸ
+
+“At dawn he came out the back. I asked him which way he wanted to go, and he looked over his shoulder at the kitchen as if he had to figure out which side of the door he was on. He asked me how many floors there were. I told him ten. He could hold on to ten.” ᴹᵏ
+
+“He could have told me.” ʸ
+
+Makima looks straight at her. “He had to wait for daylight to find the path to the orchard from the bottom step. That's where he was when I asked him to tell me where he was standing.” ᴹᵏ
+
+Yuka starts to say that she'd have gone down if he'd called. She'd already been to the clinic by then. She knew from Shoko how long he'd been walking out of rooms without anybody asking him to. That morning she'd put his name at the top of a list of things he'd done to her and gone looking for the next one.
+
+“He knew how to clear a floor,” says Makima. “I could talk to him there. Usually I only needed to tell him which one he was on.” ᴹᵏ
+
+Yuka eases the ring loose from the place where she's been pressing it into the side of her thumb. She has to get it the right way round twice before she puts it down on her knee.
+
 Yuka stays with her until she can take her elbows off her knees. Makima puts a hand on the step between them when Yuka starts to get up. Her hand is still there when Yuka has to sit down again.
 
 After a little while Shuna opens the back door to see where the light is coming in. Yuka gets the band back into her pocket. She puts her hand on the stone beside Makima's and leaves it there a minute. She still means what she said about wanting to trust her.
@@ -242,6 +256,10 @@ Mau has his palm down near the edge of the table. He moves it when Yuka comes th
 Dabura gets the bench farther away with one enormous foot. He looks at Mau across the width of the table. “When would you have stopped, if I hadn't?” ᴰᵇ
 
 Mau breathes in. Maru has stopped taking the extension from Yuka. It hangs between everybody for a second, as if they all have to stand where they started until they've heard the answer.
+
+Maru's thumb turns against the end of the board. For that second Yuka is quite certain Mau is about to say something she ought to be angry about. She knows the feeling. Cross hardly had to finish a sentence at the wall before everything Mau had done seemed to fit with the last thing he'd said.
+
+She waits for a word she can put her finger on. Mau hasn't answered yet.
 
 “When you asked me to,” says Mau. ᴹ
 

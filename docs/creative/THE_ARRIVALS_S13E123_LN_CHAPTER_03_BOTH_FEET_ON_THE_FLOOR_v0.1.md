@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 11
 **Source episode:** S13E123
-**Continuity state:** B+438 ("49"). Mau wakes at the clinic after speaking to Ciel, Noise, DIO and Makima. Noise helps him through the panic that follows an ordinary morning sound. Shoko, Gojo and Rem offer practical company as Mau tries to go about his day. Yuka's direct line remains closed.
+**Continuity state:** B+438 ("49"). Mau wakes at the clinic after speaking to Ciel, Noise, DIO and Makima. Mau calls for Ciel twice. Her brief hesitation takes him back to being hurt at the Trial bridge. Noise finds a familiar sound, then shows him the wedding, which brings back the ring and the yard. Mau asks Makima to stay while he calls for Shoko. He calls Shoko Mom when she arrives. Shoko, Gojo and Rem offer practical company as Mau tries to go about his day. Yuka's direct line remains closed.
 
 *When: B+438. A wet morning, before the road dries.*
 
@@ -29,11 +29,27 @@ Gojo had left the whole place clear for her. Even his sweets were on the ground 
 
 He puts his bare feet wider on the floor. His chest is moving much faster than he thought it was. He waits for it to slow down far enough for him to make up his mind about getting dressed. The chair starts to scrape. He lets it go, puts both hands on the cot, and sits.
 
-*Noise.* ᴹ
+*Ciel?* ᴹ
 
-*Here.* ᴺ
+He'd told her last night to say it out loud next time. There are a few seconds in which he can hear the pump and the woman looking for a dry stocking, and Ciel waits to hear whether he has another request for numbers. He'd made it very plain at the Gate what he wanted from her. She'd been trying so hard to leave him room to ask for something different that he has to ask twice.
 
-It takes him a moment to work out what he wanted from calling. He hears the pump stop. His head comes up before he can stop it. The latch doesn't move.
+On the whole other side of those seconds there is stone under his shoulder and the end of a sound he can't place. He'd called for Ciel from that ground until he couldn't get his lungs to do it. He'd thought if he made it to the other side of the bridge she might be able to hear him there. The hand he'd tried to drag himself with kept slipping.
+
+He looks down to see where it slipped this time. It's wrapped around the edge of Shoko's cot. He can feel the rail through his skin and the stone through the heel of the same hand. His feet are both on the floor. His stomach still drops like he's trying to stand up on nothing.
+
+“Ciel!” ᴹ
+
+*I'm here.* The words come fast enough to run into each other. *Mau, I can hear you. I'm right here this time.* ᶜ
+
+This time. He tries to take the breath she heard him get away with. It stops short, and he opens his mouth for another one before the first is out.
+
+*Give him the room,* says Noise. ᴺ
+
+In the place where they can all see it, Noise puts a cup down on their table with a small, deliberate click. At the clinic Mau is still holding the cot. He tries to follow the smaller sound, and Noise makes it again for him. Outside, the pump has stopped. The latch hasn't moved.
+
+*I was waiting for you to ask,* says Ciel. She's nearer than she was. *You did. I heard the first one too.* ᶜ
+
+He wants to tell her he knows why she couldn't answer at the bridge. Right now he needs to hear her answer twice even though she just did.
 
 In the Trial he'd had a morning with his back against cold stone and the heel of one boot planted where he could push himself up off it. He'd got the bleeding to stop again. He'd made himself think of a little room somewhere Yuka could bring Ori without having to tell either of them how long they'd get to stay. He'd been able to lay his dagger down, make a light, and imagine what the room would look like if he survived long enough to find it. Noise had listened until the light guttered. Then Noise had asked him why, in all his imaginings, he kept leaving Yuka out of the part where he asked her what she wanted.
 
@@ -99,15 +115,25 @@ Makima leans just far enough to set the curtain back against the wall. A strip o
 
 “I know,” she says. ᴹᵏ
 
-The next breath comes far enough for him to call Shoko's name. It doesn't carry past the door. Makima turns her face toward the kitchen as if he's spoken to her in a perfectly ordinary voice.
+He calls for Shoko. His voice breaks on it and he tries again, loud enough this time that somebody in the yard stops speaking. In the back of his head he's already counting how long it ought to take her. There are too many places he could be when she gets to the door.
 
-*I'll ask her to come*, says Ciel. ᶜ
+*I have her,* says Ciel. She keeps speaking while she waits for the answer. *She's in the kitchen. She heard you. She's coming across now.* ᶜ
 
-Makima stays to hold his hand. This time, before he has to decide whether to get up and prove he can, he hears Shoko on the actual step.
+“Makima.” He has to look down to see if she's still holding on. “Stay when she comes in.” ᴹ
+
+“I'll stay.” ᴹᵏ
+
+Makima curls the tips of her fingers over his wrist. He can feel all four of them by the time Shoko's foot comes down on the step. Only then does he manage to look up at the door.
+
+“Mom?” ᴹ
+
+It's out before he knows who else heard it. He knows who he meant. He's never needed a word for what she is to him as badly as he needs her to come the last few feet now.
+
+“I'm here, Mau,” says Shoko. She takes the chair a little closer to the cot and sits. Her knees are beside Makima's. Nobody asks him to get one hand back before he can put the other out. ˢʰ
 
 * * *
 
-Shoko has flour between the lines of her hands. She must have wiped them on a cloth as she came. She sits where he can see her and asks him how long he's been awake. He can't answer that yet. She asks if he'd be able to drink out of a cup if she put one beside him.
+Shoko has flour between the lines of her hands. She must have wiped them on a cloth as she came. She asks him how long he's been awake. He can't answer that yet. She asks if he'd be able to drink out of a cup if she put one beside him.
 
 He moves his head once. She puts it down, and leaves the trousers where they are.
 

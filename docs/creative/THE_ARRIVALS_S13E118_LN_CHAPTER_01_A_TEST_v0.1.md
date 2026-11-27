@@ -239,7 +239,9 @@ Yoru turns the smile on him.
 
 “I'm married to Yuka.” ᴹ
 
-The answer is out before she can finish smiling. He keeps his eyes on Yoru. At the table he'd been so sure that when Yuka reached across him it was just for a piece of potato.
+The answer is out before she can finish smiling. He keeps his eyes on Yoru. He can still hear how quietly Yuka said she shouldn't have married him. The words reached him from about where she's standing now.
+
+On his side of the porch he can say exactly who he's married to. He doesn't ask her to say it with him.
 
 Yoru watches the doorway for another beat.
 

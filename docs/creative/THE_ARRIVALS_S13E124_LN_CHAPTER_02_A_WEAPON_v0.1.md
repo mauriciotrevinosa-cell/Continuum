@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 15
 **Source episode:** S13E124
-**Continuity state:** B+440 ("47"), the same afternoon, between Mau's two trips; Yuka's point of view. Mau is home but inside, in DIO's room inside him; his body sits in the clinic chair with his eyes closed. Makima, whose body can't go far from his, is free in the house. Cross finds Yuka on the orchard wall and tries: Mau went to a queen this morning, came back, and still went to someone else instead of her; he and Maru are going north soon, and she doesn't have to wait in doorways. Yuka calls her wheel. It turns once over her head, ready to throw hands. She sets the limit: she's grateful for what he saw then, and always will be, but she sees now that he's using it as a weapon to pull her away from her husband, and she won't let it be used that way again, by him or by herself. She takes responsibility for removing her band in Mau's sight and staying away after he came to ask her himself. Maru takes Cross away. Makima, who heard the wheel, sits with Yuka on the wall. They have already spoken about the panic attacks in V83. Here Makima tells Yuka what she felt in the yard and later when Yuka asked Mau to come back from Elmesia's. Mau gave Shoko leave for Yuka to know everything, so this is a legal grey area, and Makima chooses to stand in it.
+**Continuity state:** B+440 ("47"), the same afternoon, between Mau's two trips; Yuka's point of view. Mau is home but inside, in DIO's room inside him; his body sits in the clinic chair with his eyes closed. Makima, whose body can't go far from his, is free in the house. Cross finds Yuka on the orchard wall and tries: Mau went to a queen this morning, came back, and still went to someone else instead of her; he and Maru are going north soon, and she doesn't have to wait in doorways. Yuka calls her wheel. It turns once over her head, ready to throw hands. She sets the limit: she's grateful for what he saw then, and always will be, but she sees now that he's using it as a weapon to pull her away from her husband, and she won't let it be used that way again, by him or by herself. She takes responsibility for removing her band in Mau's sight and staying away after he came to ask her himself. Maru takes Cross away. Makima, who heard the wheel, sits with Yuka on the wall. They have already spoken about the panic attacks in V83. Here Makima tells Yuka what she felt in the yard and later when Yuka asked Mau to come back from Elmesia's. Mau gave Shoko leave for Yuka to know everything, so this is a legal grey area, and Makima chooses to stand in it. Cross throws her words about the marriage back at her, and she recognises his premise in something she chose to say to Mau.
 
 *When: B+440. Mid-afternoon. Ori has drawn a bird beside "47".*
 
@@ -126,6 +126,14 @@ He goes still.
 She swallows. He has his hands open beside him. She remembers that Mau had his at his sides that night. He hadn't even taken a step.
 
 “He couldn't get a whole word out for Shoko when he came home. I was in the hallway when he tried. How do you make that sound like something he did to me?” ʸ
+
+“You were the one who said you'd never have married him if you'd known you'd come second.” ᶜʳ
+
+“I said *maybe I shouldn't have*.” ʸ
+
+She wants the rest of her sentence to follow before he can move. The difference is one she'd given herself so she'd be able to say it. She can see Mau through the clinic window while Cross is talking. *Come second*. Cross used those words when she first told him how frightened she'd been to find Mau's line closed. She'd wanted to tell him that wasn't how it worked with her and Mau. Then he'd asked why she was the one left waiting. She'd heard her own voice answering that in the yard.
+
+“I don't even know if I'd ever thought about being second before you said it,” she says. She puts her hand flat on the wall. “I know who said it to him.” ʸ
 
 The wheel hangs above her. Cross has backed up. She can say the rest without taking another step.
 

@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 2
 **Source episode:** S13E119
-**Continuity state:** B+435, morning. Mau and Makima reach Ori's ridge and the ruins with *REST HERE. WE DID.* on the stone. Yoru is already there, sitting on the broken wall in Asa’s body. Mau gives her leave to watch from there. She tells him again that this is her test and that she didn't send them. The ones coming aren't the strong devils. They are the hungry ones, small fears that were eaten and came back, running to destroy something before it can grow. Mau doesn't argue with her about whose test it is. He walks down into the basin past the ruins, alone with Makima, and waits for them to come to him, so that nothing gets past him toward the house. Ciel counts. The first of them comes over the far rim.
+**Continuity state:** B+435, morning. Mau and Makima reach Ori's ridge and the ruins with *REST HERE. WE DID.* on the stone. Yoru is already there, sitting on the broken wall in Asa’s body. Mau gives her leave to watch from there. She tells him again that this is her test and that she didn't send them. The ones coming aren't the strong devils. They are the hungry ones, small fears that were eaten and came back, running to destroy something before it can grow. Mau doesn't argue with her about whose test it is. He walks down into the basin past the ruins, alone with Makima, and waits for them to come to him, so that nothing gets past him toward the house. Ciel counts. The first of them comes over the far rim. In the basin a moment of bodily recall from Sukuna breaks Mau's orientation. He asks Makima where they are and uses her position to regain his bearings before the devils reach them.
 
 *When: B+435. Mid-morning. The scout report Rimuru reads to the porch says only "At the ridge."*
 
@@ -138,6 +138,20 @@ Noise slides the last scout image between himself and Ciel. His finger rests on 
 She doesn't answer in words. She reaches over without looking and takes his hand again, the way she did in the yard, palm to palm, thumb over the back. A friend's hand.
 
 *Whenever you say*, she says. ᴹᵏ
+
+The dust gets into the crease at the base of his fingers. He rubs his thumb across it and gets the sudden, very precise feeling of trying to close a hand that ends short of where he's telling it to close. There'd been a moment across from Sukuna when his eyes could count his fingers better than he could. He'd tried his grip a second time because he couldn't believe it was lying to him.
+
+He makes himself look. There are his fingers. He can see the knuckle Makima's thumb rests against. He can see the thin place in the dust she made with her heel a moment ago. He counts those things and still has to ask.
+
+*Are we in the basin?* ᴹ
+
+*Yes.* Makima turns their hands far enough for him to see hers. *I'm here with you. The one on the left hasn't come over the edge yet.* ᴹᵏ
+
+He looks until he finds the place she's talking about. Ciel leaves the next image on the far side of his sight so he can bring it in when he wants it. The house will hear that he's in position. There isn't any need for them to hear how long it took him to find the basin again.
+
+*Stay where I can see you when I open it,* he says. ᴹ
+
+Makima doesn't ask which part of him she's going to see. She shifts half a step, until he can keep the rim and her sleeve in the same part of his vision.
 
 * * *
 

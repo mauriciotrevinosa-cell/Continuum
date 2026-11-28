@@ -5,7 +5,7 @@
 **Volume:** 85
 **Reading order:** 24
 **Source episode:** S13E149
-**Continuity state:** B+484. Yuka and Ori make room for Mau to spend a day at home with company and without taking the watch. Mai asks him and Kaisel for a short flight with Momo, using the harness made with the straps from town. Three days remain on the contract. Ori lends Mau her carved dragon.
+**Continuity state:** B+484. Yuka and Ori make room for Mau to spend a day at home with company and without taking the watch. Mai asks him and Kaisel for a short flight with Momo, using the harness made with the straps from town. Ori and Umaru induct Makima into the Fort as Agent Control. Makima keeps her plan with Ori when Mau comes to find her, and Mau comes back for her afterward. She asks to hold him on the steps. Three days remain on Yoru's contract. Ori lends Mau her carved dragon.
 
 *When: B+484, before breakfast.*
 
@@ -139,9 +139,109 @@ He goes down. He helps pull a piece of bark out of her cuff and hears the rest o
 
 “Two.” Gojo gives her both. ᴳ
 
-She brings one to Mau. They sit on the step to eat them. Later, when Gojo leaves and the sun goes behind the roof, Makima comes out with a coat. Mau puts an arm in without getting up and has to have her fish the collar out from under him. Ori has gone in with the map, to show Frieren where Pickles helped her up. Mau has an empty step on either side of him. He pats the one where the stone's still warm.
+She brings one to Mau. They sit on the step to eat them. Ori saves half of hers in the paper, folds it too many times and calls across the yard for Makima. She'd come back from the north wing carrying two empty cups by their handles. When she sees where Ori's hand is, she puts the cups down.
 
-They sit there while he does up two of the buttons. The third catches. Makima gets it through from her side, and keeps her hand on the front of the coat after she's finished. She tries to decide from the way he's sitting whether this would be a good time to ask. His eyes are on the tree where Ori caught her sleeve. He's telling her how Pickles knelt down to help before he even got to the grass.
+“Are you coming to the Fort later?” Ori asks. ᴼ
+
+“I hadn't been asked.” ᴹᵏ
+
+“I'm asking now.” ᴼ
+
+Makima looks past her at the roof. Umaru is up there barefoot, trying to get a sun-faded banner to hang straight with one of its corners tied round her ankle. “I'm not a member, Ori.” ᴹᵏ
+
+Ori stops folding. She leans far enough forward to see Umaru behind the banner, although the only part of her visible now is the bare foot. “Since when?” ᴼ
+
+“As far as I know, the whole time.” ᴹᵏ
+
+Ori puts the little paper into Makima's open hand and goes up the steps. Mau can hear her asking where they keep the old coats before she's even made it indoors.
+
+Makima opens the paper. It's got half a sweet in it and a great many crumbs. She sits in Gojo's old place to eat them. When Mau asks if she wants the other half of his she says yes and takes it before he can finish measuring where half would be.
+
+* * *
+
+Ori finds her in the north wing an hour later and tells her to come to the orchard. She says it almost casually. There is a high black collar sticking out of her satchel and when she turns to show Makima the way, one of the sleeves trails halfway to the floor.
+
+“I think you've left part of the thing you need to fetch,” Makima says. ᴹᵏ
+
+“You aren't allowed to know it's that.” ᴼ
+
+Makima takes the sleeve and feeds it back into the bag. Ori walks more slowly after that, so she won't need to be told twice.
+
+They've cleared the grass beside Kamish's tree. Chloe has put a chair there and set a board across the arms, with two saucers and a pile of squares of paper on it. Suika stands behind the chair. Her coat is fastened at the throat around the helmet somehow. On either side of her are Coco and Bocchi. Coco has ink on her cuffs. Bocchi has her hands inside hers. Rimuru, who thought there would be tea, has come in the little Agent Bird coat. He looks absurdly pleased that it still fits.
+
+Makima stops at the last tree. Milim puts a hand out in front of her.
+
+“Wait until you're called,” says Milim. ᴹⁱ
+
+“Am I in trouble?” asks Makima. ᴹᵏ
+
+Milim thinks about it. Her sleeve is a little short now. The square on it says AGENT DRAGON in ink that has started to run. “Do you like apples?” ᴹⁱ
+
+“Yes.” ᴹᵏ
+
+“Then probably not.” ᴹⁱ
+
+Umaru emerges from behind the trunk with the lid from the Fort bell. “Agent Dragon, we agreed you weren't going to tell her there was a snack.” ᵁ
+
+“I didn't say there was a snack.” ᴹⁱ
+
+“You gave her enough information to work it out.” ᵁ
+
+Makima has been in front of people who lined up for her before. At the edge of the little clearing she counts the places by habit. There is one more cup than there are people. When Ori unrolls the coat, it has somebody else's hem and two bright new buttons. One of the sleeves has been repaired at the wrist. She's been standing for a while looking at the stitching by the time Ori asks if she'd like to put it on.
+
+“The President said yes,” says Ori. “We asked Agott too.” ᴼ
+
+“I said yes to the person,” says Agott, from the other side of the board. “The title is still in dispute.” ᴬᵍ
+
+Ori hands Makima the coat. “I wanted Agent Control.” ᴼ
+
+“Red fits on the paper better,” Chloe says. She holds up a square so they can all see the problem. ᶜʰ
+
+Coco gets her pen out. “I can write smaller.” ᶜᵒ
+
+“Control,” says Makima. “If that's what Ori wanted.” ᴹᵏ
+
+Coco sets to work. Agott leans across to see how much of the paper it takes. Ori stands straight long enough to pin it on. Then she goes round beside Makima to get a look at the result from the same angle.
+
+“What do agents do?” Makima asks. ᴹᵏ
+
+For the first time since she got here, all the agents look at each other. Suika raises a hand and says they help the Fort. Rimuru demonstrates that he has held a title for years and been allowed to carry an extraordinary number of bowls. Umaru says that is a very important part of the office. Agott reaches across the board for her apple.
+
+“The title doesn't give you any authority,” she says. ᴬᵍ
+
+Milim nods. “You can help carry the chairs when we're done.” ᴹⁱ
+
+There are only two chairs. Makima puts on the coat. She is halfway through the first sleeve when Bocchi holds the other one up far enough for her to get her hand through. When the cuff comes down it stops exactly at her wrist.
+
+* * *
+
+Mau comes looking for her as the apples run out. He'd finally got his chair back from Gojo and wanted to know if she felt like sitting with him. She sees him first through two branches. He has the little paper from his sweet folded into a triangle in his hand. He gets close enough to show her what he's made out of it.
+
+“Have you got a minute?” he asks. ᴹ
+
+Her mouth is already open when Ori appears from behind the chair. They were supposed to take the coats in together and find a hook for the new one. Ori had asked when Makima first put it on, very quietly, in case Makima would rather carry it straight to her room.
+
+“I said I'd go with Ori,” Makima says. It costs her enough that she can hear the time it takes to finish. “You can come too. We're going to find out who left a drawer full of spoons where the coats should go.” ᴹᵏ
+
+“The spoons have been there since the storm,” says Mau. ᴹ
+
+“You're coming,” says Ori. ᴼ
+
+“I can't. Yuka's waiting to see what I make of Mai's clasp. You can tell me what you find, though.” He looks down at Makima's lapel. He has to turn his head a little to read all the way to the last letter. “That fits.” ᴹ
+
+She thinks he means the name until he smooths the cuff where she hasn't managed to button it. By the time she works out what to say back, Ori has one end of a chair and is waiting for her to take the other. Makima lifts it. They carry it between them to the house, turning farther around the trees than they have to because it keeps Ori's end out of the mud.
+
+* * *
+
+Later, after Gojo leaves and the sun goes behind the roof, Mau finds Makima at the newly cleared hooks. Ori has gone to show Frieren the place on the map where Pickles helped her up. Makima is getting a coat down. It's his. He thought about bringing it with him to find her and left it on the peg because he had both hands in his pockets.
+
+“Are you free now?” he asks. ᴹ
+
+“Yes.” She brings the coat outside with him. “I wanted to sit with you when you came.” ᴹᵏ
+
+He puts one arm in without getting up and has to have her fish the collar out from under him. He has an empty step on either side. He pats the one where the stone's still warm.
+
+They sit there while he does up two of the buttons. The third catches. Makima gets it through from her side, and keeps her hand on the front of the coat after she's finished. She tries to decide from the way he's sitting whether this would be a good time to ask. His eyes are on the hook visible through the open window. He's telling her how he had to read her entire label twice before Ori would let him take his coat down.
 
 When he finishes she says, “Can I hold you for a minute?” ᴹᵏ
 

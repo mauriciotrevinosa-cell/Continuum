@@ -21,6 +21,10 @@ El núcleo y los cargos históricos se cotejan en [el canon de relaciones](S3_RE
 
 **Participaciones con otro papel.** Shizue es la maestra de los cinco alumnos. El apoyo de Gojo en la salida, las gestiones de Jinshi, los encargos de Hollis y las visitas de Hinata tienen sus propios motivos. Mantener a Momo Nishimiya separada de Momo Ayase. Seika tiene su cojín reservado en S4 y un papel visible en las actividades de boda del Fort en S9. Ram ha participado en juegos. Para Seika y Ram, usar ese vínculo concreto cuando importe una votación o un título formal.
 
+## Altas posteriores
+
+En V85 #24, *His Day* (B+484), Ori organiza la entrada de Makima con Umaru, que preside, y la participación de Agott como Oposición. Makima acepta el título **Agent Control**. [Capítulo de ingreso](../THE_ARRIVALS_S13E149_LN_CHAPTER_02_HIS_DAY_v0.1.md). Milim conserva **Agent Dragon**, título que eligió en [*Agents*, V16 #43](../THE_ARRIVALS_S3E36_LN_CHAPTER_12_AGENTS_v0.2.md), y su papel de Guardiana.
+
 ## Salida y tratado de V63
 
 | Momento | Reparto |

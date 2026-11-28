@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 8
 **Source episode:** S13E122
-**Continuity state:** B+437 ("50"), supper. Mau's point of view. He wakes for the bell and walks to the kitchen on his own legs for the first time in two days. His chair at the long table is beside Yuka's, as it always is. He stops behind it and thinks about taking the empty one at the far end, beside Ori, so she won't have to sit next to him. Yuka, in the hoodie, says, "Stay." He sits. When he can't get the dumpling wrapper apart with his bandaged fingers, Yuka offers to split it. They each take a piece and share a little of the meal without trying to settle anything yet. Nobody at the table says a word. Nothing is talked about yet.
+**Continuity state:** B+437 ("50"), supper. Mau's point of view. He wakes for the bell and walks to the kitchen on his own legs for the first time in two days. His chair at the long table is beside Yuka's, as it always is. He stops behind it and thinks about taking the empty one at the far end, beside Ori, so she won't have to sit next to him. Yuka, in the hoodie, says, "Stay." He sits. When he can't get the dumpling wrapper apart with his bandaged fingers, Yuka offers to split it. They each take a piece and share a little of the meal without trying to settle anything yet. Mau asks Makima to come out and join them. Yuka makes room; Makima stays through the meal and talks to Mau afterward.
 
 *When: B+437. Supper. Shuna rang the bell twice, the second time very gently, toward the clinic.*
 
@@ -125,7 +125,19 @@ Beside her. Where he always sits.
 
 Something goes through her when he does. He feels it more than sees it. A breath let out that she must have been holding since the bell.
 
-Neither of them says anything else.
+There's a little twist of cloth stuck under his left cuff. He puts his wrist down on the table and sees the chair on that side is empty. He'd felt Makima go quiet when he sat.
+
+*Will you eat with us?* he asks. ᴹ
+
+Her answer comes from a little way inside. *Do you want me out there?* ᴹᵏ
+
+He moves his cup. *Yes. There's a bowl without onions if you get it before Gojo notices.* ᴹ
+
+Yuka looks up when he sets the spoon at the third place. Makima comes round the short end with a bowl in both hands and stops behind the chair he's cleared. For a moment he can see which person she's waiting to ask.
+
+“The bread's here,” says Yuka. She moves the basket along so Makima can set her bowl down. “Sit. There's room.” ʸ
+
+Makima sits. She tries the bread first, then hands the end Mau likes across to him. He takes it with his bandaged hand. She turns the basket until the rest is within Yuka's reach.
 
 * * *
 
@@ -149,9 +161,9 @@ She nods. She lets it cool again in her spoon. When she tries it this time, she 
 
 * * *
 
-Nobody says anything.
+Nobody asks what it means.
 
-Not a word. The whole table goes on being ordinary at the top of its voice. But Mau can feel it, all round him, like warmth from a fire. Umaru has her hands pressed flat on the table and is staring very hard at Milim. Mai, across the table, has put down her spoon and is looking at the ceiling with her jaw set, blinking a great deal. Shuna has turned round to the stove and isn't doing anything at it.
+The whole table goes on being ordinary at the top of its voice. But Mau can feel it, all round him, like warmth from a fire. Umaru has her hands pressed flat on the table and is staring very hard at Milim. Mai, across the table, has put down her spoon and is looking at the ceiling with her jaw set, blinking a great deal. Shuna has turned round to the stove and isn't doing anything at it.
 
 At the far end, beside the empty chair where he nearly sat, Ori leans over to tell Frieren something. It makes Frieren look down the table. She looks away a little too fast, which means Ori knows she saw. Mau watches their daughter get the whole wrapper off her own dumpling and try to put it on Beru's spoon without turning round.
 
@@ -179,7 +191,7 @@ Then she goes. Up the stairs, toward Ori's room. Not their room. He hears her fe
 
 He sits at the table with the empty edge of his bowl in front of him.
 
-The broth's gone cloudy where the dumpling came open. He finishes that, too.
+The broth's gone cloudy where the dumpling came open. Makima turns a page of the game rules Umaru left by her bowl. When Mau puts down his spoon, she asks if he'd let somebody win with a turn like the one Umaru tried to sell Milim. He looks over her elbow. It takes him until the end of the broth to find where Umaru wrote herself an extra move. He shows Makima exactly which line she needs for when Umaru comes back to defend it.
 
 * * *
 

@@ -17,19 +17,19 @@ She notices. He feels her notice.
 
 Neither of them says anything about it.
 
-Across the table, Ori writes something very small in her notebook and doesn't look up.
+Makima is at the end of the table helping Ori get yesterday's count to agree with today's. He'd asked her to come in when he was setting out the cups. He can still feel his head come down in her arms if he lets himself remember it. He remembers being certain enough to say he loved her and how her cheek moved against his hair when she said it back. At breakfast he's mostly glad he can ask her what she wants on her toast. Mau nudges the jam her way when she passes him the bread. She puts her cup down in the place he makes beside him and asks Ori whether today's number is allowed a tail. Ori says some numbers need one to look like themselves. He listens to her explain all the way through a piece of toast.
 
 * * *
 
 The bird comes in at the end of breakfast.
 
-He knows it before it lands. Elmesia's bird. Not the scruffy little thing with the ragged wing feather that crashed into the butter a few weeks ago with a message from the north. This one is sleek and grey and unimpressed by everyone. It comes in through the open kitchen window in one smooth line, lands on the table between the bread and the teapot without disturbing either, folds its wings, and looks round at all of them with an expression of tremendous disdain.
+He knows it before it lands. Elmesia's bird comes through the open kitchen window and picks out the gap between the bread and the teapot. There's barely room to fold its wings. There was no room on the table the last time it brought DIO a letter and it had waited with one foot on the handle of somebody's cup until Mau moved a plate.
 
 Then it looks at Mau, and holds out its leg.
 
-“It knows you,” says Umaru, delighted. ᵁ
+“It wants paying,” says Umaru. ᵁ
 
-“It knows the soldier,” says Mau. ᴹ
+“It delivers first.” Mau waits until it offers him the foot with the letter. “It remembers which fruit I bought.” ᴹ
 
 He unties the letter. The bird watches him do it as if it's checking his technique.
 
@@ -41,9 +41,9 @@ Elmesia's hand. Elegant and quick and full of loops, the way she talks.
 
 *E.*
 
-*P.S. The bird would like a piece of bread. He won't ask. He considers asking beneath him.*
+*P.S. He expects you to remember his preferences. I have tried to tell him that he is a bird.*
 
-Mau tears off a piece of bread and puts it on the table. The bird looks at it for a long moment, as if considering whether it's beneath him. Then it eats it.
+Mau opens the Shop. He finds the good fruit on the snack page and cuts off enough to put on a saucer. Elmesia once wrote that the keeper had never seen the bird take fruit from anyone except her. He knew it let the keeper feed it too. Somewhere in the days of DIO's letters it had decided Mau was worth making an exception for. It takes the first piece out of his fingers. He moves the jam away from the second piece before it can reach across and get the good part of the table sticky.
 
 * * *
 
@@ -171,9 +171,11 @@ Elmesia isn't quick about it, for once.
 
 She turns her cup round and round in her hands. She looks out of the window. She starts twice and stops twice. Mau has never seen her do that. Elmesia is the fastest talker he knows; she thinks with her mouth.
 
-“She writes to me,” Elmesia says at last. “Did you know that? Since the island. Every week. Sometimes twice. About her plant, mostly. Whether it's getting enough light. Whether she should move it. She asks me what my gardeners do.” ᴱˡ
+“You know she writes to me,” Elmesia says at last. “Since the island. Every week. Sometimes twice.” ᴱˡ
 
-He didn't know.
+“She asked me to look at one before she sent it.” He puts his cup down. “She'd written half a page about the plant and crossed out the part where she asked how you were. Then she wanted to know if she should put it back.” ᴹ
+
+Elmesia lifts her head a little. “She put it back.” ᴱˡ
 
 “And I write back,” says Elmesia. “I tell her what the gardeners do. And I tell her about my week. And she tells me about hers. And she asks questions about the most ridiculous things, *why do people in your city carry umbrellas when it isn't raining*, and I answer them. And I find that I look for the bird on the days when it's due. I look at the window.” ᴱˡ
 
@@ -199,11 +201,15 @@ He thinks about DIO in the corridor mouth at the end of their talk, going over t
 
 Elmesia waits.
 
-“A long time ago,” he says, “before she was what she is now, she was made into something that only knew one kind of love. The kind you'd die for. The kind you'd break the world for. And she thought that was all it was. That if you cared about someone, that was what it meant. So when she made Ori, the first thing she wanted was for Ori to love her like that.” ᴹ
+“In the first life I chose to die so Frieren wouldn't have to. DIO put my soul back. She'd watched me make that choice and wanted to understand it from somewhere closer. That's when she made Ori.” ᴹ
 
-He watches Elmesia take that in.
+Elmesia is looking at him over her cup now. He picks a crumb off his sleeve while he works out how much of this is his to give her.
 
-“Ori decided for herself,” he says. “How she wanted to love people. That was Ori's whole road. And DIO had to watch it, and learn from it, and she's still learning. She still mixes them up. When someone treats her with respect, when someone's kind to her and doesn't want anything back, she can mistake it. She thinks it must be the big kind. Because that's the only kind she was given words for.” ᴹ
+“Back then the one kind of love DIO understood was romantic. That was what Ori started with. She wanted me to love her that way too. I told her I couldn't. It took time after that for her to decide what she wanted to call me, and how she wanted to love everyone else.” ᴹ
+
+“And here?” Elmesia asks. ᴱˡ
+
+“Here DIO gave Ori the feeling she'd already chosen in the first life. She wanted me as her dad. It still took her a while before she wanted to say it out loud.” He's thinking of Ori at the breakfast table now, hovering over her page with the pencil. “DIO had to watch her work out what to do with the feeling. She's still working out hers. Sometimes someone is kind to her and all the words she's got for it are words she's used before.” ᴹ
 
 Elmesia's face has gone very still.
 
@@ -265,11 +271,11 @@ He thinks about a woman in a too-big hoodie, sitting in a doorway all afternoon 
 
 He thinks about *stay*.
 
-He thinks about how, in the yard, she went for the worst thing she could find. Not the cruelest. The worst. The thing that would make him *hear*. And how she only ever does that, he realises, with the people she's sure of. She's never said anything like it to Cross. Never to Mai. Never to anyone she's afraid of losing.
+He thinks about the sentence she found in the yard. *Maybe I shouldn't have married you.* He can hear it as clearly as he could with his hand held out in front of her. He'd spent the first night waiting for her to tell him whether she'd meant it.
 
-Only to him. Twice.
+He turns the thought over in the quiet. There was somewhere else for it to go. She might have said it because she was waiting for him to stop her.
 
-Because she was sure he'd still be there to hear it.
+He did try. He said he loved her. She went with Cross anyway. The part he understands now gives him a way to imagine why she said it. He still has to hear what she meant from her.
 
 He sits on Elmesia's couch with the half-eaten cake in his hand and doesn't move.
 

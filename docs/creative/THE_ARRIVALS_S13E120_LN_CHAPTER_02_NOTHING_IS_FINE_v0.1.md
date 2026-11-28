@@ -247,9 +247,17 @@ He's very quiet now.
 
 He stops again.
 
-“She took the thing I'm most afraid of,” he says, “and turned it round, and said it to me. And she didn't even mean it. I know she didn't mean it. I know she was hurt and she was frightened and she said the worst thing she could find. I *know* that.” ᴹ
+“Before that she said maybe she shouldn't have married me.” ᴹ
 
-He looks down at his hands in hers.
+He looks down at his hands in hers. He's glad she hasn't let go. He couldn't have looked up at Shoko and got it out in that order.
+
+“I could tell she was angry. I thought if I told her I loved her she'd know I was still there to talk to.” His jaw moves before the next words come. “She said she knew. I spent the whole night trying to hear it as a fight. I kept hearing she didn't want me anymore.” ᴹ
+
+“Did you ask her?” ˢʰ
+
+“I went back the next morning.” ᴹ
+
+He gets that far. Shoko waits. He looks down again, at the place where the cloth crosses her fingers.
 
 There's one more thing in the pile. It's been sitting on top of everything else since the yard, and he's been walking round it for four days.
 

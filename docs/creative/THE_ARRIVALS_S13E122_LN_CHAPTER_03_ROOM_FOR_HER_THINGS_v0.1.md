@@ -37,11 +37,13 @@ When Yuka said *stay*, she held on to the edge of the table. He'd looked at that
 
 He pulls the drawer the rest of the way out to get at the paper underneath. One corner has folded over. He runs his thumb along the crease.
 
-*You closed the door so I'd stop bothering you.*
+*Maybe I shouldn't have married you.*
 
-Until then he'd been thinking about what she said to him. With her voice the way it went at the end. Now he can hear the question inside it. She'd thought he was leaving her all morning. Every hour he'd spent in the gate with Makima had told her the same thing. And when he came back, the person Yuka saw on the other side of the yard was a man who could go away without telling her and come back holding somebody else up.
+He'd got as far as *stay* at supper. Far enough to sit where she asked and take something from her plate. Up here he has to decide whether his shirts should be in the drawer when she comes back to the room, and the sentence is right where he left it. He can hear the cup rolling by the porch step after she said it.
 
-He can't put his thumb anywhere useful anymore. He takes it off the paper. The next thing she said was *go with her*. Then *she has to*. She'd found the part of what he did that nobody ever got to say out loud. There was the woman who followed him because she had to, and there was the woman who could go. He had put himself in the yard right between them and held absolutely still while one of them left.
+He can hear the rest, too. *You closed the door so I'd stop bothering you.* He had left her to work out where he was all morning. He can see how she got as far as believing he wanted her out of the way. There hadn't been any *maybe* in her voice when she'd asked Cross to walk with her afterward.
+
+He takes his thumb off the paper. He'd have moved all his things the first night if she'd asked him. She hadn't asked him anything about the shirts. He still knows exactly where he'd put hers if he finished emptying the drawer.
 
 He pushes the drawer in too hard. It goes shut with a sound that bites back through his hand.
 

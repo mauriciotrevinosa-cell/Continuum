@@ -141,7 +141,9 @@ Supper is careful again.
 
 Yuka sits beside him. When he asks whether he can put the bread between them, she moves both their cups to make it fit. Ori tries to put one of the pieces up on its end and the whole pile slides towards Mau. Yuka catches it before it lands in his lap. She looks at him with both hands full of bread and tells him she did it on purpose.
 
-When he's finished, he turns to her.
+Makima holds a plate out beside them where the bread can go. She has Ori set one more piece on end to see if it will stay this time. Mau leaves his hand next to the plate while the bread leans. Makima puts hers there too. He takes it as Ori blows on the slice very hard and it falls back the way it came. Makima stays for the meal. When DIO comes in she pulls the jug out of reach of the plant and asks to see the oldest leaf.
+
+When he's finished, he turns to Yuka.
 
 “I'm going back,” he says. “To Elmesia's. With DIO this time. She's bringing her plant.” ᴹ
 

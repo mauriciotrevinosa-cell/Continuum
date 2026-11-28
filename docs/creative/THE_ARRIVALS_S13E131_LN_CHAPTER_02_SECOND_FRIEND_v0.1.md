@@ -285,8 +285,18 @@ He lays a hand over hers before he turns. “Hi. Do you want supper in a bowl or
 
 She tests this. He puts the bread board within reach. She takes a piece without moving her other arm, feeds him a corner, and then brings her hand right back where it was.
 
-She can see the north-wing step through the window. Makima has stayed to watch the last of the light. Yuka thinks she'll leave her to that and take her a bowl afterwards, when the quiet's had time to do its work.
+She can see the north-wing step through the window. Makima has stayed to watch the last of the light. Yuka lets go of Mau long enough to reach for a second bowl.
 
-“Get me an extra one for later?” she asks. ʸ
+“Will you save us a place?” she asks. ʸ
 
-Mau puts a second bowl beside hers. When he turns around in her arms she tips her face up and he kisses her, all bread and still enough time before supper.
+He gets his hand round hers while she still has the bowl between them. She tips her face up and he kisses her, all bread and still enough time to go ask.
+
+Yuka takes the bowl out to the step. A little steam comes back along the edge of it and Makima can smell it by the time she looks round.
+
+“We can eat out here if you want.” Yuka puts it down where it's warm between them. “He's keeping places inside, though. I asked him for two.” ʸ
+
+“Will he let me take the end of the bread again?” ᴹᵏ
+
+“If you get there before I do.” ʸ
+
+Makima has both hands round the bowl before Yuka gets to her feet. When they come in, Mau's got his arm across the backs of two chairs. Yuka takes the one nearest the window. Makima asks him to pass the bread and gives the crust straight to Yuka, in plain sight of him. He takes the spoon out of his soup and pulls the whole board into the middle.

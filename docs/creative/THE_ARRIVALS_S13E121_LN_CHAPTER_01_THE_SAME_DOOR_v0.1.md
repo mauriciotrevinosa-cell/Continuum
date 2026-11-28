@@ -169,19 +169,17 @@ And on the evening he came home from the gate she stood in the yard and did it a
 
 She stops. She waits until Yuka takes her hands away from her face and looks at her.
 
-“And then in the yard,” says Shoko, “you told him *you'd rather have her. When it's bad you go to her.*” ˢʰ
+“He told me what you said about marrying him.” Shoko puts her feet flat on the floor. “That's the part he had trouble getting out.” ˢʰ
 
-Yuka can't breathe.
+Yuka can't breathe. She can hear the cup rolling in the yard again. It was already on its side by the step. She'd heard it because everybody else had stopped moving.
 
-“That's the thing he's most afraid of,” Shoko says. “He told me. Not that he'd rather have someone else. That *you'd* think he would. That you'd look at him and see a man who goes away from people when it's bad. Because that's what he did at the inn. He went away from everyone so they'd be safe.” ˢʰ
+“I wanted him to say something,” she whispers. ʸ
 
-She's very gentle. She doesn't soften a single word.
+“He did.” ˢʰ
 
-“You took the thing he's most afraid of,” she says, “and you turned it round, and you said it to him. He knows you didn't mean it. He said so. He said he knows you were hurt and frightened and you said the worst thing you could find.” ˢʰ
+Yuka leans forward until she can put her elbows on her knees. He'd said it so quietly. She can remember being relieved to hear the words, and asking Cross to walk with her while she still had that feeling.
 
-“I did,” Yuka whispers. ʸ
-
-“He said that too.” ˢʰ
+“He told me he spent the night trying to work out which part you meant. Then he went to ask you in the morning.” Shoko lets a little air go. “I can tell you that much because he made me promise. I can't tell you what he thinks when you say you want him back. You'll have to give him time to tell you himself.” ˢʰ
 
 * * *
 
@@ -332,3 +330,21 @@ Yuka thinks of the clinic. The water on the table. The pillow with his hair alre
 “Breakfast,” she says. ʸ
 
 Shuna gets up to find a pencil of her own. From across the yard comes no sound at all. For the first time since he walked past her, Yuka can sit through that silence without counting how long it has been.
+
+* * *
+
+Shizue tells Rimuru what she heard once the kitchen clears. He brings her up to the roof and asks her to tell the others the words herself. Yuta has the upper step and uses the heel of his shoe to make room for her cup. Tahei is farther back beside Gojo with his hands round a cup of his own. From up here they can see who's still on the clinic step without lighting another lamp.
+
+“I was taking the cloth off the rail when Cross told her to let Mau be the one with something to lose.” Shizue keeps her eyes on the yard. “I heard that much myself. She'd asked whether she should leave. I thought she'd heard me tell her to ask Mau where he went. By supper I could hear whose answer she'd taken.” ˢʰⁱ
+
+Rimuru puts his cup down. “I thought he'd come out with her because she was upset.” ᴿ
+
+“He did. And he was already out there when she asked what to do.” ˢʰⁱ
+
+For a bit all Shizue can hear is the little dish somebody is putting away below them. She's thought about what she might have said at the rail if she'd had another minute. Now she has one and it's the people on this roof she can still say something to.
+
+“Keep that between us and the people who can help,” she says. “If you see him come for her when she's on her own again, go see if she wants company. She gets to decide who she talks to.” ˢʰⁱ
+
+Yuta looks down at the yard. “Cross looked up when Mau said he loved her. Before Yuka moved. I kept wondering what he heard that the rest of us didn't.” He puts his cup on the step. “Can I tell Maki and Mai what you heard?” ʸᵗ
+
+Shizue nods. Before she goes down, Rimuru asks if she wants him to take her cup. She takes his instead, and they go in together.

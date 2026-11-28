@@ -17,6 +17,12 @@ It used to be her place with Mau. Before that.
 
 She'd forgotten that. Somewhere in the days since the walk she'd stopped thinking about that.
 
+She comes from the kitchen, where Maki was oiling her staff and had room to listen while Yuka told her she and Mau had eaten breakfast together. She'd been ready to explain his closed door all over again. Maki asked what he'd said once she sat down today. On the way out Yuka stopped by Shizue and asked her what she'd heard by the rail that morning.
+
+“Your question,” Shizue said. “And the answer he gave you.” ˢʰⁱ
+
+Yuka had been expecting Shizue to tell her how angry she'd sounded. She can hear that part for herself. What she keeps turning over now is *let him be the one*. All she had wanted to know, when she came to the back door barefoot, was where her husband was. She has to go back as far as Cross's question about coming second to find the part where she decided he should be frightened too.
+
 She sits on the wall and looks at the clinic across the yard. The door's open. She can see Mau in the chair by the window, with his eyes closed and his hands loose in his lap. Not asleep. She knows what he looks like asleep. This is the other thing: the way he looks when he's gone inside, to the room with the table and the cup, to talk to the people who live in him.
 
 He's been there an hour. He knocked on DIO's door, Ori told her. Ori is very well informed.
@@ -89,7 +95,7 @@ The click carries across the whole yard.
 
 Cross takes his arms off the wall. Slowly. He steps back. One step. His hands open at his sides, the way his people hold their hands when they're ready to move very fast.
 
-Across the yard, on the porch, Rimuru stops talking mid-sentence. Maki puts down the staff she was oiling. In the kitchen doorway, Shuna goes very still.
+Across the yard, on the porch, Rimuru stops talking mid-sentence. Maki puts down the staff she was oiling and gets one foot off the step. Yuka sees her. She holds a hand low against the wall until Maki sees it too. Maki stays where she is, with one foot down.
 
 Yuka slides down off the wall and stands up.
 
@@ -199,9 +205,9 @@ Cross looks round at him. Then he looks back at Yuka one more time.
 
 “Friend,” he says. “If you'll have it.” ᶜʳ
 
-“If you'll keep it that,” says Yuka. ʸ
+“If you can keep it that.” She lowers her hand from the wall. “I need you to stop coming to find me alone. If there's something I need to hear, you can tell me with Maru there.” ʸ
 
-He nods.
+It takes him a second to nod.
 
 Maru takes him away, out through the far side of the orchard, toward the river. Neither of them looks back.
 
@@ -249,7 +255,7 @@ Yuka goes very still.
 
 “Tell me what you felt,” Yuka says. “Anything he told you in private can stay with you.” ʸ
 
-“When you told him he'd rather have me,” says Makima, “everything in him got very quiet. I remember waiting for him to be angry. The whole of the yard was waiting for it. He'd already stopped expecting another answer.” ᴹᵏ
+“When you said maybe you shouldn't have married him,” says Makima, “everything in him got very quiet. Before you told him to go with me. I could still feel him getting ready to say he'd come back from the Gate to explain. And then he was standing there trying to work out what you'd want him to do with his things.” ᴹᵏ
 
 Yuka gets both feet up against the wall. The memory of the ring coming over her knuckle and the map folded under the glove has come up in that order so often now that she can see the time in between. He had to get through a whole night after she took it off. He still came to ask her himself.
 

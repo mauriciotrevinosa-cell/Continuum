@@ -9,7 +9,43 @@
 
 *When: B+450. "37." Under it, in Yuka's hand: "workshop (go)". It's an instruction, not a note.*
 
-Yuka tells him after breakfast.
+The night before, Yuka waited in the workshop while Mai filed a burr off a clasp. Mau was across the yard. From the high window she could see him making a space on the bench for Makima and asking whether she wanted the rest of his tea. She used to be able to watch that for as long as she liked and still come away with only a question about Mau. She let herself watch it now until Makima sat down.
+
+“What did you think when I said it?” she asked Mai. ʸ
+
+The file went on moving. “Which thing?” ᴹᵃ
+
+“That maybe I shouldn't have married him.” ʸ
+
+Mai stopped, got the cloth out from under her wrist and wiped the filings into it. “I thought you wanted him to be scared. I saw him looking at your hand afterward. When you dropped the band at the table, I thought he'd been looking there ever since.” ᴹᵃ
+
+Yuka had seen it too, once she let herself think about why he'd look at that hand even with the band back on it. She went to find Maki at the stove. Maki put another pan to warm before she answered, then told her that she'd thought Mau might follow Yuka across the yard and that she had been glad when he didn't.
+
+“I would have had something worse to say when he followed me,” Yuka said. She remembered how good it had felt to have somebody tell her to let him be the one who had to ask. “Why did that seem like a thing he deserved?” ʸ
+
+“I don't know,” Maki said. “Tell me when it started seeming fair to you.” ᴹᵃᵏ
+
+Yuka had to take the pan completely off the heat. The answer wasn't the time he shut the line. She'd been frightened then and wanted to find him. She could hear the words in the order Cross had given them to her. You came second. He knows you'll be here. Let him be the one with something to lose. She'd supplied the marriage herself. He'd only had to wait while she worked out what would hurt most.
+
+Yuta was coming in through the porch with his coat over his arm. She asked him about the clinic after the quarry. By the time he told her where he'd had to slow down so Mau could keep up, she had taken a chair by the door and put his coat across her lap. His hand had been at Mau's elbow the whole way. She listened long enough for him to tell her exactly how far they'd gone before Mau managed to ask for Shoko a second time.
+
+“I kept telling him that Cross understood me,” she said. “Who else heard what I did and thought it made sense?” ʸ
+
+Yuta had to think to answer that. “Shizue understood why you wanted to know where he'd gone. Maki understood why you were angry. I did too.” He sat down, leaving the coat where it was. “Cross was the one who thought you should do something to frighten him.” ʸᵗ
+
+She had asked herself why Cross would do that and run out of answers after *he thinks he's helping*. She asked Mai once she was back in the workshop with her. Mai had the good clasp in her hand by then. She turned it over to show Yuka how the edges met.
+
+“Where did he ask you to go if you left?” she said. ᴹᵃ
+
+“North. With him.” ʸ
+
+Mai turned the clasp over again. “I think he wanted you to pick him. He'd have had a much harder time asking for that with Mau still beside you.” ᴹᵃ
+
+Yuka looked out at the bench again. Mau was still there. So was Makima. She'd been afraid to see how much of what Cross told her she'd wanted to hear. She had the words now, in his voice and then in hers. She could still go out and sit with Mau if he wanted her there.
+
+* * *
+
+Yuka tells him the next morning after breakfast.
 
 She doesn't say it like a confession. She says it while she's stealing the pickles, with her mouth half full, as if it's the most ordinary thing in the world.
 
@@ -21,7 +57,7 @@ Yuka looks across the table. Maki is sitting with Yuta, showing him how much spa
 
 “Maki saw you ask me to stay and talk,” says Yuka. “Later, she asked me if I'd wanted the band off for good. I kept starting with what happened at the Gate. She sat there until I'd answered what she'd actually asked.” ʸ
 
-She pushes a pickle back to his side of the plate without looking down.
+She pushes a pickle back to his side of the plate without looking down. Across the yard Cross has come out to help Maru with a load of poles for the ford. He and Rimuru talk across the cart for a while. He can see the table from where he is. Once Maru has the rope free, Cross walks round to his end of the load.
 
 “Mai caught the band when I dropped it,” she says. “She gave it back and asked what I could do if you'd only give me a minute. Later, when I saw your comb at Shoko's, I told her I wanted you home. She told me you'd get a say in where you slept. Then I asked her to eat with me and she brought her work and sat with me.” ʸ
 

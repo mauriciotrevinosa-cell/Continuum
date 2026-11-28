@@ -286,3 +286,15 @@ He looks down. The knife in her hand is steady. His own fingers are only just st
 She does. He eats what she gives him. When he sets his hand down again, she kisses the side of it, between the thumb and the first finger, and goes back to her own breakfast like there are never going to be enough hours in a day to fit all the times she wants to do that.
 
 He leaves his foot there under hers. By the time Shuna comes round with another pot of tea, he has set aside all the pickles on the plate where she can reach them.
+
+Makima is at the end of the table turning her empty cup round. He knows where that cup stood when she told him. He moves the plate far enough between him and Yuka to leave a place for it, then catches her eye.
+
+“Come have the tea while it's hot,” he says. ᴹ
+
+She comes over. She looks at the piece of toast on his plate as if to ask what the procedure is if anyone else tries to cross the yard that morning. Yuka has already thought of that. She takes another slice out of the rack and puts it on Makima's plate.
+
+“If he's up that fast again, you're closer to the door from that side.” ʸ
+
+Makima takes a bite. “Would you like me to put jam on it beforehand?” ᴹᵏ
+
+“Right up to the corners,” says Mau. Yuka has to put her foot down hard on top of his before he can get the next word out through the grin. ᴹ

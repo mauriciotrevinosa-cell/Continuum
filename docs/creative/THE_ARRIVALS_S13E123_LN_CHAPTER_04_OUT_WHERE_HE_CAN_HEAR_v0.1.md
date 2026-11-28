@@ -83,6 +83,16 @@ She can. When she gets it there she looks back, and he's still there holding the
 
 They go in different doors afterward.
 
+Cross is at the back door. He's got one hand on the frame, as if he was going to hold it open for Yuka. Mai gets there with the wet basket first.
+
+“Did you want me?” Yuka asks. ʸ
+
+“I thought you might want to get out of the house for a bit.” ᶜʳ
+
+Mai steadies the basket against her hip. “We're about to eat. You can come in and ask her at the table.” ᴹᵃ
+
+Cross drops his hand from the frame. He says he'll see her later. She watches him go far enough to hear him ask Shuna where Maru is. The invitation would have sounded kind yesterday. She notices how much easier it is to decide what she wants when he gives her room to finish deciding.
+
 Inside, Mai has a clean towel across her lap, drying off after the last of the line. She holds it out with the tips of her fingers when she sees that the sheet has left a wet stripe across Yuka's cheek. Yuka takes it and stands there for long enough that Mai moves her work to the end of the bench.
 
 “He has a comb at Shoko's,” Yuka says. ʸ

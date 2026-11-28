@@ -237,7 +237,7 @@ He doesn't move. He can't. The light is going long and gold across the grass, an
 
 The only colour in the world, walking away.
 
-*Go with her*, she said. *I'll stop bothering you.*
+He can hear her telling him to go with Makima. The words that keep him standing there came before any of that. *Maybe I shouldn't have married you.* He'd said *I love you* after she said it. He knows which one of them is still standing in the yard.
 
 He thinks: *I knew*.
 

@@ -103,11 +103,15 @@ Makima sits down on the near end of the bench. “In front of you?” ᴹᵏ
 
 Makima looks up at him. His face changes very slightly while she's looking. It's the look he gives somebody he thinks understood before he was able to finish. He has a hand on the bench between them. She can feel how much he wants to put his weight on it.
 
-She moves back against the wall and leaves him more room. He turns toward her. When she puts a hand against the back of his head, he knows where it's going to be before it touches. He puts his cup down, gets a knee along the bench and leans in until his cheek is against her chest. He stays half up for the length of a breath. Then he lets his elbow slide and puts the rest of his weight in her arms.
+She sits back until one shoulder touches the wall. It leaves enough room for him to bring a knee up along the bench. He puts his cup down, turns toward her and feels the pads of her fingers settle in the short hair above his collar. Her thumb brushes the skin behind his ear on its way down. He has his forearm across the seat to take his weight. She gets her other arm around his shoulder, and he turns into it until his cheek finds the front of her shirt.
+
+The cloth is cool where it has been folded against itself. He can feel it warm as he breathes. She feels the change in him a little lower down. His shoulder is still high against her arm, ready to lift him if she moves. His knee scrapes a little farther along the wood. Then his elbow slides out from under him and the shoulder comes down, all at once. She has to close her arm the rest of the way to take him. He leaves his face exactly where it landed.
 
 She has been thinking about the moment when he would do that again. A dozen times she could have told him she was thinking about it. At breakfast he passed close enough to brush the back of her chair on his way to the stove. She almost asked him to come back before she heard him tell Yuka he wanted another minute. She thinks she could have managed hearing him say no. It was the chance that he'd get up and go because he'd felt how badly she wanted him to stay that kept her quiet.
 
-Now his arm goes round her back. There's a short pull where the cloth at her elbow catches against the bench. She shifts so he'll have room to reach farther. He does. The first time he held on like this she could feel him trying to get enough air to ask her to stay. Today he makes a little sound because she has found the spot at the base of his neck where the effort goes out of him when she holds him properly.
+Now he moves the arm he was using to hold himself up. At first only his fingertips reach the back of her shirt, just below her shoulder blade. The cloth pulls with them. She brings her elbow forward to free it, and his palm comes flat against her back. He slides it down until it fits the curve at the side of her waist. There's a seam under his thumb. He rubs it once, absently, and feels her take a breath against the heel of his hand.
+
+Makima feels just how far his hand has moved. She could put her own hand over it and draw him closer. She wants to. The wanting arrives so sharply on Mau's side of the bond that he lifts his cheek a fraction, then sets it back down once he knows where it came from. His thumb goes still at the seam. He keeps his palm there, warm and steady, and the next breath he takes is deep enough for her to feel his ribs open against her arm. The first time he held on like this she could feel him trying to get enough air to ask her to stay. Today he makes a small sound because she has found the spot at the base of his neck where the effort goes out of him when she holds him properly.
 
 “I was going to ask for this anyway,” he says. He has to shift his mouth before she can hear the last of it. “I kept thinking about it while I was getting the cups.” ᴹ
 
@@ -115,9 +119,9 @@ Now his arm goes round her back. There's a short pull where the cloth at her elb
 
 “I thought you'd know when I got here. I was hoping you would.” He fits his hand farther around her back. “I still check the table inside at night to see if you're there. Most of the time I know exactly where you are. I check anyway.” ᴹ
 
-He says it as easily as he'd tell her where he left the other cup. She has spent whole days trying to decide whether she'd be allowed to feel this glad about it. Now it's going straight across to him while he's warm against her and barely moving. His hand comes up once between her shoulders and settles again. She can feel him wanting to be there for the whole of it.
+He says it as easily as he'd tell her where he left the other cup. She has spent whole days trying to decide whether she'd be allowed to feel this glad about it. Now it's going straight across to him while he's warm against her and barely moving. He can feel her ribs shift again under his hand. Some of what she feels reaches him before she can move, and some follows a moment later, when she closes her arm a little more and he feels how pleased she is that he fits there. He gives her back a small squeeze at the waist so she can feel him settle.
 
-After a little while she starts to rise. She has one foot under her before he catches her sleeve. She stops while she can still sit down without making him let go.
+After a little while she starts to rise. He feels the space open between her waist and his palm before he sees her foot come under her. He turns his arm enough to catch the loose sleeve instead. The cloth twists once between his fingers. She stops with her weight on one foot and looks back down at him.
 
 “Where are you going?” he asks. ᴹ
 
@@ -129,11 +133,11 @@ His fingers have stopped pulling at her sleeve. She can get up from where she is
 
 “Yes.” ᴹᵏ
 
-She lowers her head and kisses his forehead where the hair parts against her palm. His eyes shut at the first touch. She can feel the spot on his skin after she has lifted her mouth. The rest comes through hot and quick enough to take his breath, all the wanting she felt when he put his weight down and all the pleasure of being the one he reached for when she moved. For a second he's so glad to be wanted that he can't tell where the gladness began. He can tell when she lifts her mouth. He can still feel what it cost her to lift her head.
+She slips two fingers into his hair and draws it back from his forehead. There's a short drag where it catches on her knuckle. Then the warmth of her mouth lands on the place she cleared, and his eyes shut. It's a light kiss. She stays close enough afterward that he can feel her next breath against the spot. Through the bond he feels exactly how much she wanted to do it, and then how much longer she wants to stay there. His fingers spread against her waist at the strength of it. It's Makima's feeling coming through. Being on the other end of it still leaves him breathless for a second.
 
 Her face is close enough now that she could move a little and reach his mouth. She imagines it. For a second the line she used to keep track of from the other side of a room is very hard to find with him in her arms. Then she sees Yuka standing out by the drying line a few days ago with a piece of wet sheet in both hands, calling across to ask if Makima had eaten, waiting while she finished speaking to Ori to get the answer. She hadn't even been looking for Mau. The memory of it comes with an ache Makima recognises as her own. She'd like to be able to eat with Yuka again tomorrow. The thought is there right along with the other one.
 
-Makima rests her cheek on his hair. Mau feels the warmth of her face where she puts it. What he felt when she kissed his forehead is still there. He thinks of Yuka giving him another minute at breakfast, and of going to find her later because he wants that with her again. He loves her in the same familiar way now, with his cheek against Makima and his hand flat on her back. He lets it stay right where it is. He has been held long enough to want to give some of it back. When he pulls her elbow in a little, the part of her that has been propping her up against the wall goes loose. She puts her weight against him too. He takes it and looks down to find her hand. Her fingers close around his when he finds it.
+Makima rests her cheek on his hair. Mau feels the warmth of her face where she puts it. What he felt when she kissed his forehead is still there. He thinks of Yuka giving him another minute at breakfast, and of going to find her later because he wants that with her again. He loves her in the same familiar way now, with his cheek against Makima and his hand flat on her back. He lets it stay right where it is. He has been held long enough to want to give some of it back. His hand moves up from her waist to the back of her shoulder. He feels the muscle there move when she tries to straighten, and gives her a place to rest against his forearm. Makima keeps a little weight against the wall out of habit. Then he draws his knee closer so he can hold her without slipping, and she comes off the wall the last inch. Her cheek presses heavier into his hair. She puts her weight against him too. He takes it. Makima lets the hand at his neck drop to the bench. His other hand finds it little finger first. She turns her palm to his. Her fingertips are cool at first. She keeps them there until he can feel them warm against his.
 
 “I love you,” she says. ᴹᵏ
 
@@ -141,7 +145,7 @@ This time she hears it before she's finished. She knows what she means by it. Sh
 
 “I love you too,” he says. He says it into her shoulder and then turns his face enough that she can hear him where he is. ᴹ
 
-She breathes out into his hair. He can feel a shiver make it all the way down her arm. She doesn't try to put her elbow back up. He stays where he is and waits for the next breath with her.
+She breathes out into his hair. He feels it again in the small movement against his cheek. A shiver works its way down her arm. Her fingers close a little harder around his, then soften until he can shift his thumb along the length of hers without her having to move. She doesn't put her elbow back up. He stays where he is and waits for the next breath with her.
 
 * * *
 

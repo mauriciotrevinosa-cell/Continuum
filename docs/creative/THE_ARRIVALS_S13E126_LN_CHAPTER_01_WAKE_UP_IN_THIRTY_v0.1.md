@@ -141,13 +141,17 @@ The line. Open since the night before last, open the way he threw it open in the
 
 It's going a thousand miles an hour.
 
-Not frightened. He knows what frightened feels like down that line. He remembers the first days after Cross came. This isn't that. This is something so fast and so warm and so completely out of control that it's knocking against him like a bird against glass, and under it, very faintly, so faintly he almost misses it, he can hear her.
+Something warmer is coming through with it. He can hear her laugh into something up there. A pillow, probably. She could be crying as well. He can feel both and still see the place where she turned round.
 
-Laughing. Into a pillow. Or crying. Or both.
+*Yuka. Did you want me to come up in thirty?* ᴹ
 
-He puts the whisk down.
+The whisk rattles against the rim of a bowl. He puts it down.
 
-“No,” he says to Emilia. “I don't think it was bad.” ᴹ
+*Yes. Come and get me the way you were going to.* She gets almost to the end before her voice goes again. *You have to be surprised that I'm still asleep.* ʸ
+
+The laugh reaches him this time. He hadn't realised he was leaning against the counter till his elbow knocks the bowl.
+
+“No,” he says to Emilia. “I think she wants us to put everything on the table.” ᴹ
 
 * * *
 

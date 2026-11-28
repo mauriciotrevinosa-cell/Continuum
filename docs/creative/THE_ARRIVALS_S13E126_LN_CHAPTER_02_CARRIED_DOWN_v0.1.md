@@ -209,7 +209,7 @@ She looks at him over the top of the notebook. Her eyes are very bright, and her
 
 Afterwards, when the table is wrecked and Milim is asleep under it and Stark has been forced to eat his own cream mountain and the reject pile has been entirely consumed, Shuna comes and stands by his chair.
 
-Yuka's asleep. Really asleep this time. In his lap, with her face in his chest and the blanket round her and her hand still fisted in his shirt.
+Yuka's asleep. Really asleep this time. In his lap, with her face in his chest and the blanket round her and her hand still fisted in his shirt. She'd said *come and get me* this morning, and he'd gone to get her. He'd spent half the walk upstairs wondering what she would do when he opened the door. Now he can feel exactly where her hand is. When he shifts to get his elbow off the corner of the chair, she lets his shirt go, then finds it again in her sleep.
 
 Shuna looks at her for a moment.
 

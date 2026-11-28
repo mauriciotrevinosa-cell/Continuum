@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 16
 **Source episode:** S13E125
-**Continuity state:** B+440 late night into B+441 ("47" → "46"). Mau brings DIO home from Elmesia's garden. He finds Yuka in the chair at the clinic. She takes responsibility for walking away, taking off her wedding band in his sight and staying away from the quarry. Mau quotes Yuka's words about regretting the marriage. He hears her when she says she wants him home and still hears what she said in the yard. He cannot tell which to believe yet. He says he loves her and wants to go upstairs with her. He asks if that can be his whole answer for tonight. The question about the band stays with him. He tells her a little about the attacks and makes a separate apology for closing her line. She asks him to open it. They kiss and sleep beside each other. The repair has begun.
+**Continuity state:** B+440 late night into B+441 ("47" → "46"). Mau brings DIO home from Elmesia's garden. He finds Yuka in the chair at the clinic. She takes responsibility for walking away, taking off her wedding band in his sight and staying away from the quarry. Mau quotes Yuka's words about regretting the marriage. He hears her when she says she wants him home and still hears what she said in the yard. He cannot tell which to believe yet. He says he loves her and wants to go upstairs with her. He asks if that can be his whole answer for tonight. The question about the band stays with him. He tells her a little about the attacks and makes a separate apology for closing her line. She asks him to open it. They kiss. Mau asks Makima to sit at the inner table while he goes upstairs and tells Yuka what he has asked for. He checks in with Makima after Yuka falls asleep against him. The repair has begun.
 
 *When: B+440, close to midnight. Ori's map is on the clinic windowsill, unfolded, held flat with a stone.*
 
@@ -303,7 +303,23 @@ He looks at the chair she chose, at Ori's map under the stone. He puts his free 
 
 “I want that too,” he says. ᴹ
 
-She lets out a breath against his cheek. He presses his mouth to her forehead and stays there a second longer, until she stands and takes him with her.
+She lets out a breath against his cheek. He presses his mouth to her forehead. The lamplight from the clinic reaches as far as the first training post. From where he's sitting the rest of the walk is dark.
+
+*Makima?* ᴹ
+
+She answers from the north wing. *Yes?* ᴹᵏ
+
+*Would you come with me? Stay at the table inside while I go up. I'd like to be able to find you.* ᴹ
+
+There's the sound of a chair moving inside. The scrape is small and he knows which chair it is. *I'm here.* ᴹᵏ
+
+He tells Yuka what he asked for. Her hand stays in his. She looks down at the notebook, still by the cot, and picks it up with the other one.
+
+“Ready to walk?” she asks. ʸ
+
+“Ready to try the stairs.” ᴹ
+
+She waits at the end of the cot until he gets both feet underneath him.
 
 * * *
 
@@ -363,21 +379,19 @@ And she's asleep.
 
 Just like that. All at once, the way Ori goes. Her breathing slowing and evening out against his shoulder, her hand fisted in his shirt.
 
-He lies there in the dark for a while, feeling the line between them, open and bright and warm. Feeling all of them. Ciel and Noise still talking at the table. He thinks about DIO setting her pot back on the sill at the Guest Inn, humming to herself. Makima, in her room in the north wing, very still, and then, as if she's felt something, letting out a long breath and turning over. Beru at the foot of Ori's stairs. A soldier in a little room far away, sitting in a chair by a window, looking at a city.
+He lies there in the dark, listening until he can tell which breath is hers by the warmth of it through his shirt. Then he thinks of the chair at the table.
 
-All of them there.
+*We got upstairs,* he tells Makima. ᴹ
 
-*You're doing it again*, says Ciel, inside, very gently. ᶜ
+*I know where your room is,* she says. *I'm glad you told me anyway.* ᴹᵏ
 
-*Doing what?* ᴹ
+He hears the low sound of a cup set back in its place. She'd told him where she'd be. He found her exactly there. He can have that much tonight.
 
-*Staying awake to check on everyone.* ᶜ
+*Will you go to sleep now?* she asks. ᴹᵏ
 
-He almost laughs.
+*In a minute.* ᴹ
 
-*Yes*, he says. *Sorry.* ᴹ
-
-*Go to sleep, Mau.* ᶜ
+Yuka shifts against his shoulder. He turns a little farther toward her and finds the place her sleeve has come up. He brings it down over her wrist and leaves his fingers against hers.
 
 He goes to sleep.
 

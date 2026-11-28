@@ -5,7 +5,7 @@
 **Volume:** 84
 **Reading order:** 20
 **Source episode:** S13E127
-**Continuity state:** B+443 ("44"). Mau and Yuka go to town together. Mau asks Ciel to handle routine watch reports while he's out and tells Yuka what he's asking for. They come home by the river after spending time at the ribbon stall and trying the food on the market street. Mau asks Yuka to stay when he begins to tire. They stop in to give Mai material for riding gear. Ori and the others are in the yard when they get back.
+**Continuity state:** B+443 ("44"). Mau and Yuka go to town together. Mau asks Ciel to handle routine watch reports and asks Makima to accompany him from inside, with Yuka's knowledge. They come home by the river after spending time at the ribbon stall and trying the food on the market street. Mau asks Yuka to stay when he begins to tire. They stop in to give Mai material for riding gear. Ori and the others are in the yard when they get back.
 
 *When: B+443. A day in town and the walk back.*
 
@@ -33,7 +33,13 @@ She looks up. “Is it a good morning for it?” ʸ
 
 “I don't know. I want to go with you anyway.” ᴹ
 
-Yuka leaves the ribbon untied and sits down next to him with the basket on both their knees. She rests her chin on his shoulder. There's just enough of his tea left for another swallow. She doesn't move until he takes it.
+Yuka leaves the ribbon untied and sits down next to him with the basket on both their knees. She rests her chin on his shoulder.
+
+“Can I ask Makima to come with me from inside?” he says. “She can stay on my line. I'd still like the morning with you.” ᴹ
+
+“Yes.” Yuka moves the basket a little farther onto her knees. “Tell her I'll bring her something from the market if she tells you what she wants.” ʸ
+
+He asks while the last of his tea is still warm enough to drink. Makima says she'll be at the table. She wants the kind of flatbread that folds without the edge breaking. Yuka thinks she knows the stall and takes the whole walk to the gate trying to tell him how to find it without talking about the other stalls as well.
 
 * * *
 
@@ -57,7 +63,11 @@ At the stall she asks him to choose one. He rubs two between his fingers. The fi
 
 “I thought it suited you.” ᴹ
 
-She turns her back to him and puts her hair in his hand. He doesn't know what he's doing until she reaches back and puts the ribbon where his fingers can find it without losing the hair. The next time he tries, she dips her head too early and he loses the part he's already tied. She asks what he's waiting for. He tells her a kiss would give him a second to remember which end he had, and she tilts her chin so he can get one from where he's standing.
+She turns her back to him and puts her hair in his hand. When she reaches back with the ribbon the band touches his finger. It's just the edge of it. He was doing her hair the morning she took it off. His hand stops at the height it was then.
+
+“Can you hold that end a minute?” he asks. ᴹ
+
+She holds it while he finds the ribbon again. At the next try she dips her head too early and he loses the part he's already tied. He tells her a kiss would give him a second to remember which end he had, and she tilts her chin so he can get one from where he's standing.
 
 He gets the knot in at last. The woman at the stall has wrapped the hairs that got caught in her counter clasp around a reel so she can get them out again without pulling them.
 
@@ -71,7 +81,7 @@ The stall across the road has hats. They spend the change on a very small one fo
 
 The little hat keeps trying to get out of the basket. At the last stall before the food, Yuka turns it upside down and has the man put the little animals she's bought in it. There's a dragon carved sitting up like a dog. Neither of them can get a whole word out about it in front of the man who made it. They make it three stalls farther down before Yuka turns to Mau and says, “Kamish could do it if he wanted to.” ʸ
 
-The woman at the end of the street cuts the flatbread into four and asks if they want both plates. Yuka tells her one will do. Mau knows before he sits down that he's going to eat one end of a piece and give up the other.
+The woman at the end of the street cuts the flatbread into four and asks if they want both plates. Yuka tells her one will do, and gets a whole flatbread wrapped to take back for Makima. Mau knows before he sits down that he's going to eat one end of a piece and give up the other.
 
 She pulls the bench closer when he sits. “Tell me what the first bite's like,” she says. ʸ
 
@@ -109,7 +119,7 @@ It's busy across the water. On this side there is a bird under the bench trying 
 
 “Will you stay where you are if I go to sleep?” he asks. ᴹ
 
-“I put you here,” she says. ʸ
+“I'll be here when you wake up.” She doesn't move the arm he has his head on. “I went to all this trouble to put you here.” ʸ
 
 He laughs once against her and can't remember to lift his head again. A few minutes later she feels the rest of his weight come down.
 
@@ -129,7 +139,7 @@ They're getting up when Ciel passes him word that both of the wagons made it bac
 
 * * *
 
-He takes the basket on the last part of the road. Ori meets them at the gate with Pillow taking up more of the path than she thinks he is. Lantern pokes his head out beside her and tries to get a piece of the paper that's sticking over the edge. Mau gives Ori the small hat before Lantern can eat it.
+On the last part of the road he takes the basket so Yuka can carry Makima's bread where it won't get crushed. Ori meets them at the gate with Pillow taking up more of the path than she thinks he is. Lantern pokes his head out beside her and tries to get a piece of the paper that's sticking over the edge. Mau gives Ori the small hat before Lantern can eat it.
 
 She puts it on him instead. It stays briefly, almost in the place it should.
 

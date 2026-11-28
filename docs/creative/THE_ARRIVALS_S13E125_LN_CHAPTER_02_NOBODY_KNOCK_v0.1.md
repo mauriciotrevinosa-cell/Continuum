@@ -5,21 +5,27 @@
 **Volume:** 84
 **Reading order:** 17
 **Source episode:** S13E125
-**Continuity state:** B+441 ("46"). The morning after the apology. Mau asks Umaru to finish the film they started before the argument. Yuka stays with him. The household comes through the common room throughout the day. Milim brings a castle game. Yuka makes room for Makima at the table during play. The excitement briefly unsettles Mau, who asks for a moment where Yuka can hear him. They choose to go back to the game.
+**Continuity state:** B+441 ("46"). The morning after the apology. Mau asks Umaru to finish the film they started before the argument. Yuka stays with him. The household comes through the common room throughout the day. Milim brings a castle game. Yuka makes room for Makima at the table during play. Mau tells Yuka what he was afraid to find when she woke up. Later the castle comes down and brings the yard back. He asks Makima for a minute and asks Yuka himself to sit with him. They choose to go back to the game.
 
 *When: B+441. Late breakfast, a film, and Milim's game.*
 
 Yuka catches his sleeve when he starts to get out of bed.
 
-She has her eyes closed. The hand on his sleeve is inside her own, with only three fingers showing. He rests his hand on it. She keeps holding on, but her fingers get loose enough for him to turn over.
+She has her eyes closed. Three fingers stick out of the sleeve of her hoodie and catch in his cuff. He rests his hand on it. She keeps holding on, but her fingers get loose enough for him to turn over.
 
 “Where were you going?” she asks. ʸ
 
-“I thought you might want breakfast.” ᴹ
+“Downstairs.” He's got a foot out of the blanket. He thought he'd make it as far as the kitchen before either of them had to find out what the morning was like. “I was trying to decide whether you'd still want me here when you opened your eyes.” ᴹ
 
-She opens one eye. “I do.” ʸ
+Yuka opens both of them. She takes her hand off his sleeve so he can get up if he wants. He can see the crease she left in the cloth.
 
-He has time to get one foot over the side of the bed before she pulls at his cuff again. He turns back for the rest of it. She kisses him in the space between trying to explain what she meant and remembering she can just pull him nearer.
+“I did when I went to sleep,” she says. “I do now. Do you want breakfast here or downstairs?” ʸ
+
+He almost asks if she can give him another minute. Then he sees he already has it. She's lying on her side with the blanket pulled loose of both of them, waiting for him to decide whether he wants it back.
+
+“Downstairs,” he says at last. “Will you come with me?” ᴹ
+
+She's slow getting one foot onto the floor. It's caught in the blanket. He helps her get it out and gets a kiss on the corner of his mouth before either of them has stood up.
 
 * * *
 
@@ -103,7 +109,15 @@ Mau feels the floor go out from under the sound.
 
 For a piece of a breath it's the sound of something far too heavy coming through a wall. The colours don't help. Most of them never do. Yuka's sleeve against his knee gives him something to look at. The real floor is flat against the heel of his hand. He lifts it and puts it down again before he can bear to look up.
 
-Someone could tell him it's only the board. He knows that part.
+Someone could tell him it's only the board. He knows that part. He knows which room he's in. He's watching Yuka draw a hand back from the pieces and for a second the cup is rolling on its side again, and she's getting ready to say something he can't stop having heard.
+
+Makima lifts her hand off the roof across from him. He can feel that she's paying attention.
+
+*Give me a minute. I want to ask her myself.* ᴹ
+
+*I'll keep your pieces where you put them,* Makima says. ᴹᵏ
+
+He takes a breath with his hand on the floor.
 
 “Yuka,” he says. ᴹ
 
@@ -117,9 +131,11 @@ He sits. Yuka sits next to him and lets him decide how to get against her. He tu
 
 “Do you want to go upstairs?” she asks. ʸ
 
-“I like it here,” he says, after a second. ᴹ
+The question goes through him twice. The second time it sounds like something he might choose. He keeps his head where it is.
 
-“Okay.” ʸ
+“Can we stay here? I was having a good time before that.” ᴹ
+
+“So was I,” she says. “I'll stay.” ʸ
 
 That's all she says for a while. He can hear the board still going and people moving pieces around it. When he opens his eyes she's got one knee up against his side and a wooden tower on the corner of the sofa, within a little way of his hand. Somebody must have sent it over. It has a sprig of something stuck to the top to make it look important.
 

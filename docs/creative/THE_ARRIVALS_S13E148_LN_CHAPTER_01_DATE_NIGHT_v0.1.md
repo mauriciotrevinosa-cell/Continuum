@@ -77,11 +77,11 @@ Later he finds Makima in the kitchen, holding a plate for Shuna while she gets t
 
 “I'll go to my room when you leave,” she says. ᴹᵏ
 
-He takes the cloth. “Would you stay at the table inside? I want to show you where we're going. Come have supper with us for a bit.” ᴹ
+He takes the cloth. “Will you come with us from inside? I'd like you there. Come sit at the table and have supper with us for a bit. I'll show you where we're going.” ᴹ
 
 Makima pauses with one end of the cloth still in her hand. “You told Shuna for two.” ᴹᵏ
 
-“I thought of it after I got the basket.” He folds the edge she's holding in toward the bread. “I'll ask Yuka.” ᴹ
+He folds the edge she's holding in toward the bread. The last time he asked her to come along from inside, he'd wanted to know where he could find her if he got tired in town. Tonight he wants her to see what Kamish saw from the ridge. He can ask Yuka about that. “I'll ask her.” ᴹ
 
 Yuka is already at the door with her cloak over one shoulder. He tells her he'd like Makima to see the place and sit with them for a while, then he waits.
 
